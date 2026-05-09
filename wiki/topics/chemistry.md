@@ -12,6 +12,8 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[3-205-thermodynamics-and-kinetics-of-materials-fall-2006|Thermodynamics and Kinetics of Materials]] — 3.205, Fall 2006
+- [[22-55j-principles-of-radiation-interactions-fall-2004|Principles of Radiation Interactions]] — 22.55J, Fall 2004
 - [[22-106-neutron-interactions-and-applications-spring-2010|Neutron Interactions and Applications]] — 22.106, Spring 2010
 - [[10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004|Integrated Chemical Engineering Topics I: Introduction to Biocatalysis]] — 10.492-2, Fall 2004
 - [[10-32-separation-processes-spring-2005|Separation Processes]] — 10.32, Spring 2005

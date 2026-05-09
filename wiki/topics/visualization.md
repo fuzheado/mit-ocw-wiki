@@ -2,6 +2,7 @@
 
 ## Courses
 
+- [[2-158j-computational-geometry-spring-2003|Computational Geometry]] — 2.158J, Spring 2003
 - [[6-s191-introduction-to-deep-learning-january-iap-2020|Introduction to Deep Learning]] — 6.S191, January IAP 2020
 - [[res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012|How to Process, Analyze and Visualize Data]] — RES.6-009, January IAP 2012
 - [[6-057-introduction-to-matlab-january-iap-2019|Introduction to MATLAB]] — 6.057, January IAP 2019

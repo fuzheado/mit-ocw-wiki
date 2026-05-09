@@ -10,6 +10,7 @@ courses_count: 0
 
 ## Courses
 
+- [[res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021|MIT Prison Education Initiative Discussion About Incarceration]] (RES.ES-001)
 - [[8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005|Physics II: Electricity & Magnetism with an Experimental Focus]] (8.02X)
 - [[es-246-current-events-and-social-issues-fall-2004|Current Events and Social Issues]] (ES.246)
 - [[es-256-the-coming-years-spring-2008|The Coming Years]] (ES.256)

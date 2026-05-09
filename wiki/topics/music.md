@@ -12,6 +12,10 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21m-030-introduction-to-world-music-fall-2006|Introduction to World Music]] — 21M.030, Fall 2006
+- [[21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010|Interdisciplinary Approaches to Musical Time]] — 21M.542, January IAP 2010
+- [[21m-342-composing-for-jazz-orchestra-fall-2008|Composing for Jazz Orchestra]] — 21M.342, Fall 2008
+- [[21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009|Music and Technology (Contemporary History and Aesthetics)]] — 21M.380, Fall 2009
 - [[21m-304-writing-in-tonal-forms-ii-spring-2009|Writing in Tonal Forms II]] — 21M.304, Spring 2009
 - [[21m-301-harmony-and-counterpoint-i-spring-2005|Harmony and Counterpoint I]] — 21M.301, Spring 2005
 - [[21m-355-musical-improvisation-spring-2013|Musical Improvisation]] — 21M.355, Spring 2013

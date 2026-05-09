@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[22-39-integration-of-reactor-design-operations-and-safety-fall-2006|Integration of Reactor Design, Operations, and Safety]] — 22.39, Fall 2006
+- [[22-55j-principles-of-radiation-interactions-fall-2004|Principles of Radiation Interactions]] — 22.55J, Fall 2004
 - [[22-14-materials-in-nuclear-engineering-spring-2015|Materials in Nuclear Engineering]] — 22.14, Spring 2015
 - [[22-106-neutron-interactions-and-applications-spring-2010|Neutron Interactions and Applications]] — 22.106, Spring 2010
 - [[22-105-electromagnetic-interactions-fall-2005|Electromagnetic Interactions]] — 22.105, Fall 2005

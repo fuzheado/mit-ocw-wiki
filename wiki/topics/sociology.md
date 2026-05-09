@@ -12,6 +12,16 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-951-special-graduate-topic-in-political-science-public-opinion-spring-2004|Special Graduate Topic in Political Science: Public Opinion]] — 17.951, Spring 2004
+- [[21a-231j-gender-sexuality-and-society-spring-2006|Gender, Sexuality, and Society]] — 21A.231J, Spring 2006
+- [[15-341-individuals-groups-and-organizations-fall-2006|Individuals, Groups, and Organizations]] — 15.341, Fall 2006
+- [[wgs-s10-special-topics-in-women-gender-studies-seminar-latina-womens-voices-spring-2010|Special Topics in Women & Gender Studies Seminar: Latina Women's Voices]] — WGS.S10, Spring 2010
+- [[11-902-advanced-urban-public-finance-collective-action-and-provisions-of-local-public-goods-spring-2009|Advanced Urban Public Finance: Collective Action and Provisions of Local Public Goods]] — 11.902, Spring 2009
+- [[11-s940-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2015|Development, Planning, and Implementation: The Dialectic of Theory and Practice]] — 11.S940, Fall 2015
+- [[wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017|Changing Life: Reading the Intersections of Gender, Race, Biology, and Literature]] — WGS.700, Spring 2017
+- [[21g-711-advanced-spanish-conversation-and-composition-spring-2014|Advanced Spanish Conversation and Composition]] — 21G.711, Spring 2014
+- [[24-236-topics-in-social-theory-and-practice-race-and-racism-fall-2014|Topics in Social Theory and Practice: Race and Racism]] — 24.236, Fall 2014
+- [[11-237-practice-of-participatory-action-research-par-spring-2016|Practice of Participatory Action Research (PAR)]] — 11.237, Spring 2016
 - [[11-368-environmental-justice-fall-2004|Environmental Justice]] — 11.368, Fall 2004
 - [[21h-575j-women-in-south-asia-from-1800-to-present-fall-2006|Women in South Asia from 1800 to Present]] — 21H.575J, Fall 2006
 - [[21g-801-portuguese-i-fall-2011|Portuguese I]] — 21G.801, Fall 2011

@@ -10,6 +10,11 @@ courses_count: 0
 
 ## Courses
 
+- [[16-885j-aircraft-systems-engineering-fall-2005|Aircraft Systems Engineering]] (16.885J)
+- [[esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009|X PRIZE Workshop: Grand Challenges in Energy]] (ESD.172J)
+- [[22-081j-introduction-to-sustainable-energy-fall-2010|Introduction to Sustainable Energy]] (22.081J)
+- [[1-253j-transportation-policy-and-environmental-limits-spring-2004|Transportation Policy and Environmental Limits]] (1.253J)
+- [[esd-s51-systems-leadership-and-management-praxis-summer-2014|Systems Leadership and Management Praxis]] (ESD.S51)
 - [[esd-57-technology-based-business-transformation-fall-2007|Technology-based Business Transformation]] (ESD.57)
 - [[esd-69-seminar-on-health-care-systems-innovation-fall-2010|Seminar on Health Care Systems Innovation]] (ESD.69)
 - [[1-259j-transit-management-fall-2006|Transit Management]] (1.259J)

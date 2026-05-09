@@ -12,6 +12,8 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006|Transcribing Prosodic Structure of Spoken Utterances with ToBI]] — 6.911, January IAP 2006
+- [[24-952-advanced-syntax-spring-2007|Advanced Syntax]] — 24.952, Spring 2007
 - [[9-56j-abnormal-language-fall-2004|Abnormal Language]] — 9.56J, Fall 2004
 - [[24-244-modal-logic-spring-2015|Modal Logic]] — 24.244, Spring 2015
 - [[24-973-advanced-semantics-spring-2009|Advanced Semantics]] — 24.973, Spring 2009

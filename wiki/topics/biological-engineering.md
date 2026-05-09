@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[hst-947-medical-artificial-intelligence-spring-2005|Medical Artificial Intelligence]] — HST.947, Spring 2005
 - [[20-441j-biomaterials-tissue-interactions-fall-2009|Biomaterials-Tissue Interactions]] — 20.441J, Fall 2009
 - [[3-051j-materials-for-biomedical-applications-spring-2006|Materials for Biomedical Applications]] — 3.051J, Spring 2006
 - [[res-gem4-global-enterprise-for-micro-mechanics-and-molecular-medicine-gem4-summer-2006-summer-2007|Global Enterprise for Micro-Mechanics and Molecular Medicine (GEM4)]] — RES.GEM4, Summer 2006

@@ -12,6 +12,8 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-034-media-education-and-the-marketplace-fall-2005|Media Education and the Marketplace]] — 21G.034, Fall 2005
+- [[21g-711-advanced-spanish-conversation-and-composition-spring-2014|Advanced Spanish Conversation and Composition]] — 21G.711, Spring 2014
 - [[21g-801-portuguese-i-fall-2011|Portuguese I]] — 21G.801, Fall 2011
 - [[21g-302-french-ii-fall-2004|French II]] — 21G.302, Fall 2004
 - [[21g-s55-japanese-v-fall-2022|Japanese V]] — 21G.S55, Fall 2022

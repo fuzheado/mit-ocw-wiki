@@ -12,6 +12,12 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[esd-s51-systems-leadership-and-management-praxis-summer-2014|Systems Leadership and Management Praxis]] — ESD.S51, Summer 2014
+- [[15-649-the-law-of-mergers-and-acquisitions-spring-2003|The Law of Mergers and Acquisitions]] — 15.649, Spring 2003
+- [[15-269-leadership-stories-literature-ethics-and-authority-fall-2015|Leadership Stories: Literature, Ethics, and Authority]] — 15.269, Fall 2015
+- [[15-568a-practical-information-technology-management-spring-2005|Practical Information Technology Management]] — 15.568A, Spring 2005
+- [[15-660-strategic-hr-management-spring-2003|Strategic HR Management]] — 15.660, Spring 2003
+- [[15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015|Global Health Innovation: Delivering Targeted Advice to an Organization in the Field]] — 15.ES718, Spring 2015
 - [[15-988-system-dynamics-self-study-fall-1998-spring-1999|System Dynamics Self Study]] — 15.988, Fall 1998
 - [[15-220-global-strategy-and-organization-spring-2012|Global Strategy and Organization]] — 15.220, Spring 2012
 - [[15-067-competitive-decision-making-and-negotiation-spring-2011|Competitive Decision-Making and Negotiation]] — 15.067, Spring 2011

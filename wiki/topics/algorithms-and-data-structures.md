@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[2-158j-computational-geometry-spring-2003|Computational Geometry]] — 2.158J, Spring 2003
+- [[18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002|Topics in Theoretical Computer Science : Internet Research Problems]] — 18.996, Spring 2002
 - [[9-520-statistical-learning-theory-and-applications-spring-2003|Statistical Learning Theory and Applications]] — 9.520, Spring 2003
 - [[6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008|The Art of Approximation in Science and Engineering]] — 6.055J, Spring 2008
 - [[6-852j-distributed-algorithms-fall-2009|Distributed Algorithms]] — 6.852J, Fall 2009

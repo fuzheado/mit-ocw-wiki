@@ -12,6 +12,13 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[16-885j-aircraft-systems-engineering-fall-2005|Aircraft Systems Engineering]] — 16.885J, Fall 2005
+- [[hst-750-modeling-issues-in-speech-and-hearing-spring-2006|Modeling Issues in Speech and Hearing]] — HST.750, Spring 2006
+- [[22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005|Probability And Its Applications To Reliability, Quality Control, And Risk Assessment]] — 22.38, Fall 2005
+- [[14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003|Dynamic Optimization & Economic Applications (Recursive Methods)]] — 14.128, Spring 2003
+- [[2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004|Mechanical Assembly and Its Role in Product Development]] — 2.875, Fall 2004
+- [[16-863j-system-safety-spring-2016|System Safety]] — 16.863J, Spring 2016
+- [[15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004|Systems Optimization: Models and Computation (SMA 5223)]] — 15.094J, Spring 2004
 - [[6-241j-dynamic-systems-and-control-spring-2011|Dynamic Systems and Control]] — 6.241J, Spring 2011
 - [[15-093j-optimization-methods-fall-2009|Optimization Methods]] — 15.093J, Fall 2009
 - [[15-988-system-dynamics-self-study-fall-1998-spring-1999|System Dynamics Self Study]] — 15.988, Fall 1998

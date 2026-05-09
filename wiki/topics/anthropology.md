@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21m-030-introduction-to-world-music-fall-2006|Introduction to World Music]] — 21M.030, Fall 2006
+- [[21a-231j-gender-sexuality-and-society-spring-2006|Gender, Sexuality, and Society]] — 21A.231J, Spring 2006
+- [[21g-035-topics-in-culture-and-globalization-fall-2003|Topics in Culture and Globalization]] — 21G.035, Fall 2003
 - [[21h-575j-women-in-south-asia-from-1800-to-present-fall-2006|Women in South Asia from 1800 to Present]] — 21H.575J, Fall 2006
 - [[21g-801-portuguese-i-fall-2011|Portuguese I]] — 21G.801, Fall 2011
 - [[21l-715-media-in-cultural-context-spring-2007|Media in Cultural Context]] — 21L.715, Spring 2007

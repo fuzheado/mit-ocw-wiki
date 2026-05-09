@@ -12,6 +12,9 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[22-39-integration-of-reactor-design-operations-and-safety-fall-2006|Integration of Reactor Design, Operations, and Safety]] — 22.39, Fall 2006
+- [[22-081j-introduction-to-sustainable-energy-fall-2010|Introduction to Sustainable Energy]] — 22.081J, Fall 2010
+- [[sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006|Energy and Environment in American History: 1705-2005]] — STS.038, Fall 2006
 - [[22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006|Structural Mechanics in Nuclear Power Technology]] — 22.314J, Fall 2006
 - [[2-58j-radiative-transfer-spring-2006|Radiative Transfer]] — 2.58J, Spring 2006
 - [[res-ec-003-d-lab-student-showcases-spring-2022|D-Lab Student Showcases]] — RES.EC-003, Spring 2022

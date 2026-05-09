@@ -25,6 +25,42 @@ courses_count: 0
 
 ## Courses
 
+- [[21m-030-introduction-to-world-music-fall-2006|Introduction to World Music]] — 21M.030, Fall 2006
+- [[17-951-special-graduate-topic-in-political-science-public-opinion-spring-2004|Special Graduate Topic in Political Science: Public Opinion]] — 17.951, Spring 2004
+- [[21a-231j-gender-sexuality-and-society-spring-2006|Gender, Sexuality, and Society]] — 21A.231J, Spring 2006
+- [[21g-034-media-education-and-the-marketplace-fall-2005|Media Education and the Marketplace]] — 21G.034, Fall 2005
+- [[15-341-individuals-groups-and-organizations-fall-2006|Individuals, Groups, and Organizations]] — 15.341, Fall 2006
+- [[14-661-labor-economics-i-fall-2017|Labor Economics I]] — 14.661, Fall 2017
+- [[11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021|Negotiation and Dispute Resolution in the Public Sector]] — 11.255, Spring 2021
+- [[wgs-s10-special-topics-in-women-gender-studies-seminar-latina-womens-voices-spring-2010|Special Topics in Women & Gender Studies Seminar: Latina Women's Voices]] — WGS.S10, Spring 2010
+- [[11-902-advanced-urban-public-finance-collective-action-and-provisions-of-local-public-goods-spring-2009|Advanced Urban Public Finance: Collective Action and Provisions of Local Public Goods]] — 11.902, Spring 2009
+- [[ec-720j-d-lab-ii-design-spring-2010|D-Lab II: Design]] — EC.720J, Spring 2010
+- [[11-203-microeconomics-fall-2010|Microeconomics]] — 11.203, Fall 2010
+- [[11-975-feeding-cities-in-the-global-south-challenges-and-opportunities-for-action-in-cartagena-fall-2009|Feeding Cities in the Global South: Challenges and Opportunities for Action in Cartagena]] — 11.975, Fall 2009
+- [[11-202-planning-economics-fall-2010|Planning Economics]] — 11.202, Fall 2010
+- [[11-309j-sites-in-sight-photography-as-inquiry-fall-2003|Sites in Sight: Photography as Inquiry]] — 11.309J, Fall 2003
+- [[14-64-labor-economics-and-public-policy-fall-2009|Labor Economics and Public Policy]] — 14.64, Fall 2009
+- [[15-567-the-economics-of-information-strategy-structure-and-pricing-fall-2010|The Economics of Information: Strategy, Structure and Pricing]] — 15.567, Fall 2010
+- [[esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009|X PRIZE Workshop: Grand Challenges in Energy]] — ESD.172J, Fall 2009
+- [[14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003|Dynamic Optimization & Economic Applications (Recursive Methods)]] — 14.128, Spring 2003
+- [[11-s940-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2015|Development, Planning, and Implementation: The Dialectic of Theory and Practice]] — 11.S940, Fall 2015
+- [[22-081j-introduction-to-sustainable-energy-fall-2010|Introduction to Sustainable Energy]] — 22.081J, Fall 2010
+- [[1-253j-transportation-policy-and-environmental-limits-spring-2004|Transportation Policy and Environmental Limits]] — 1.253J, Spring 2004
+- [[4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006|The Production of Space: Art, Architecture and Urbanism in Dialogue]] — 4.303, Fall 2006
+- [[wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017|Changing Life: Reading the Intersections of Gender, Race, Biology, and Literature]] — WGS.700, Spring 2017
+- [[15-649-the-law-of-mergers-and-acquisitions-spring-2003|The Law of Mergers and Acquisitions]] — 15.649, Spring 2003
+- [[17-408-chinese-foreign-policy-fall-2013|Chinese Foreign Policy]] — 17.408, Fall 2013
+- [[21g-711-advanced-spanish-conversation-and-composition-spring-2014|Advanced Spanish Conversation and Composition]] — 21G.711, Spring 2014
+- [[sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006|Energy and Environment in American History: 1705-2005]] — STS.038, Fall 2006
+- [[24-236-topics-in-social-theory-and-practice-race-and-racism-fall-2014|Topics in Social Theory and Practice: Race and Racism]] — 24.236, Fall 2014
+- [[17-251-congress-and-the-american-political-system-i-fall-2016|Congress and the American Political System I]] — 17.251, Fall 2016
+- [[11-484-project-appraisal-in-developing-countries-spring-2005|Project Appraisal in Developing Countries]] — 11.484, Spring 2005
+- [[cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019|Playful Augmented Reality Audio Design Exploration]] — CMS.S63, Fall 2019
+- [[21g-035-topics-in-culture-and-globalization-fall-2003|Topics in Culture and Globalization]] — 21G.035, Fall 2003
+- [[15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004|Research Seminar in IT and Organizations: Economic Perspectives]] — 15.575, Spring 2004
+- [[11-959-reforming-natural-resources-governance-failings-of-scientific-rationalism-and-alternatives-for-building-common-ground-january-iap-2007|Reforming Natural Resources Governance: Failings of Scientific Rationalism and Alternatives for Building Common Ground]] — 11.959, January IAP 2007
+- [[11-237-practice-of-participatory-action-research-par-spring-2016|Practice of Participatory Action Research (PAR)]] — 11.237, Spring 2016
+- [[14-71-economic-history-of-financial-crises-fall-2009|Economic History of Financial Crises]] — 14.71, Fall 2009
 - [[11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003|Introduction to Planning & Institutional Processes in Developing Countries]] — 11.701, Fall 2003
 - [[11-368-environmental-justice-fall-2004|Environmental Justice]] — 11.368, Fall 2004
 - [[21h-575j-women-in-south-asia-from-1800-to-present-fall-2006|Women in South Asia from 1800 to Present]] — 21H.575J, Fall 2006

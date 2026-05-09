@@ -12,6 +12,13 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21g-034-media-education-and-the-marketplace-fall-2005|Media Education and the Marketplace]] — 21G.034, Fall 2005
+- [[cms-633-digital-humanities-spring-2015|Digital Humanities]] — CMS.633, Spring 2015
+- [[mas-961-numeric-photography-fall-1998|Numeric Photography]] — MAS.961, Fall 1998
+- [[ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005|Internet Technology in Local and Global Communities]] — EC.S01, Spring 2005
+- [[cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019|Playful Augmented Reality Audio Design Exploration]] — CMS.S63, Fall 2019
+- [[21g-035-topics-in-culture-and-globalization-fall-2003|Topics in Culture and Globalization]] — 21G.035, Fall 2003
+- [[21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009|Music and Technology (Contemporary History and Aesthetics)]] — 21M.380, Fall 2009
 - [[mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003|Special Topics in Multimedia Production: Experiences in Interactive Art]] — MAS.878, Fall 2003
 - [[21l-715-media-in-cultural-context-spring-2007|Media in Cultural Context]] — 21L.715, Spring 2007
 - [[21m-846-topics-in-performance-studies-comedy-across-media-spring-2018|Topics in Performance Studies: Comedy Across Media]] — 21M.846, Spring 2018

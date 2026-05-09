@@ -12,6 +12,9 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[21g-034-media-education-and-the-marketplace-fall-2005|Media Education and the Marketplace]] — 21G.034, Fall 2005
+- [[ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005|Internet Technology in Local and Global Communities]] — EC.S01, Spring 2005
+- [[res-cms-503-becoming-a-more-equitable-educator-mindsets-and-practices-spring-2020|Becoming a More Equitable Educator: Mindsets and Practices]] — RES.CMS-503, Spring 2020
 - [[mas-771-autism-theory-and-technology-spring-2011|Autism Theory and Technology]] — MAS.771, Spring 2011
 - [[6-s062-generative-artificial-intelligence-in-k12-education-fall-2023|Generative Artificial Intelligence in K–12 Education]] — 6.S062, Fall 2023
 - [[21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014|Teaching and Learning: Cross-Cultural Perspectives]] — 21A.150, Fall 2014

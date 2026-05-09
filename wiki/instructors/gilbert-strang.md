@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[18-327-wavelets-filter-banks-and-applications-spring-2003|Wavelets, Filter Banks and Applications]]
 - [[18-086-mathematical-methods-for-engineers-ii-spring-2006|Mathematical Methods for Engineers II]]

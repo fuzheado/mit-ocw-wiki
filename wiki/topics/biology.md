@@ -12,6 +12,10 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[7-013-introductory-biology-spring-2018|Introductory Biology]] — 7.013, Spring 2018
+- [[hst-750-modeling-issues-in-speech-and-hearing-spring-2006|Modeling Issues in Speech and Hearing]] — HST.750, Spring 2006
+- [[12-091-medical-geology-geochemistry-an-exposure-january-iap-2006|Medical Geology/Geochemistry: An Exposure]] — 12.091, January IAP 2006
+- [[wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017|Changing Life: Reading the Intersections of Gender, Race, Biology, and Literature]] — WGS.700, Spring 2017
 - [[9-17-systems-neuroscience-lab-spring-2013|Systems Neuroscience Lab]] — 9.17, Spring 2013
 - [[20-441j-biomaterials-tissue-interactions-fall-2009|Biomaterials-Tissue Interactions]] — 20.441J, Fall 2009
 - [[hst-071-human-reproductive-biology-fall-2005|Human Reproductive Biology]] — HST.071, Fall 2005

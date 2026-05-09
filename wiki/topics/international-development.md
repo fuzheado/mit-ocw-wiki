@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21g-034-media-education-and-the-marketplace-fall-2005|Media Education and the Marketplace]] — 21G.034, Fall 2005
+- [[ec-720j-d-lab-ii-design-spring-2010|D-Lab II: Design]] — EC.720J, Spring 2010
+- [[11-484-project-appraisal-in-developing-countries-spring-2005|Project Appraisal in Developing Countries]] — 11.484, Spring 2005
 - [[11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003|Introduction to Planning & Institutional Processes in Developing Countries]] — 11.701, Fall 2003
 - [[11-471-targeting-the-poor-local-economic-development-in-developing-countries-spring-2010|Targeting the Poor: Local Economic Development in Developing Countries]] — 11.471, Spring 2010
 - [[ec-721-wheelchair-design-in-developing-countries-spring-2009|Wheelchair Design in Developing Countries]] — EC.721, Spring 2009

@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-253j-transportation-policy-and-environmental-limits-spring-2004|Transportation Policy and Environmental Limits]] — 1.253J, Spring 2004
+- [[11-959-reforming-natural-resources-governance-failings-of-scientific-rationalism-and-alternatives-for-building-common-ground-january-iap-2007|Reforming Natural Resources Governance: Failings of Scientific Rationalism and Alternatives for Building Common Ground]] — 11.959, January IAP 2007
 - [[1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005|Introduction to Civil and Environmental Engineering Design I]] — 1.101, Fall 2005
 - [[11-363-civil-society-and-the-environment-spring-2005|Civil Society and the Environment]] — 11.363, Spring 2005
 - [[1-34-waste-containment-and-remediation-technology-spring-2004|Waste Containment and Remediation Technology]] — 1.34, Spring 2004

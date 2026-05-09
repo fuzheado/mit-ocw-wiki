@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-951-special-graduate-topic-in-political-science-public-opinion-spring-2004|Special Graduate Topic in Political Science: Public Opinion]] — 17.951, Spring 2004
+- [[17-408-chinese-foreign-policy-fall-2013|Chinese Foreign Policy]] — 17.408, Fall 2013
+- [[17-251-congress-and-the-american-political-system-i-fall-2016|Congress and the American Political System I]] — 17.251, Fall 2016
 - [[11-368-environmental-justice-fall-2004|Environmental Justice]] — 11.368, Fall 2004
 - [[17-428-american-foreign-policy-theory-and-method-fall-2004|American Foreign Policy: Theory and Method]] — 17.428, Fall 2004
 - [[17-20-introduction-to-the-american-political-process-spring-2004|Introduction to the American Political Process]] — 17.20, Spring 2004

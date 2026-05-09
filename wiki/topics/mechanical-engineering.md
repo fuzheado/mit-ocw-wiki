@@ -12,6 +12,13 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-642-continuum-electromechanics-fall-2008|Continuum Electromechanics]] — 6.642, Fall 2008
+- [[ec-720j-d-lab-ii-design-spring-2010|D-Lab II: Design]] — EC.720J, Spring 2010
+- [[2-670-mechanical-engineering-tools-january-iap-2004|Mechanical Engineering Tools]] — 2.670, January IAP 2004
+- [[22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004|Statistical Thermodynamics of Complex Liquids]] — 22.52J, Spring 2004
+- [[2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004|Mechanical Assembly and Its Role in Product Development]] — 2.875, Fall 2004
+- [[2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004|Advanced Structural Dynamics and Acoustics (13.811)]] — 2.067, Spring 2004
+- [[2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009|Finite Element Analysis of Solids and Fluids I]] — 2.092, Fall 2009
 - [[1-051-structural-engineering-design-fall-2003|Structural Engineering Design]] — 1.051, Fall 2003
 - [[6-186-mobile-autonomous-systems-laboratory-january-iap-2005|Mobile Autonomous Systems Laboratory]] — 6.186, January IAP 2005
 - [[2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004|Maneuvering and Control of Surface and Underwater Vehicles (13.49)]] — 2.154, Fall 2004

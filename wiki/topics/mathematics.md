@@ -12,6 +12,20 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015|Topics in Applied Mathematics: Waves and Imaging]] — 18.325, Fall 2015
+- [[22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005|Probability And Its Applications To Reliability, Quality Control, And Risk Assessment]] — 22.38, Fall 2005
+- [[6-071j-introduction-to-electronics-signals-and-measurement-spring-2006|Introduction to Electronics, Signals, and Measurement]] — 6.071J, Spring 2006
+- [[2-158j-computational-geometry-spring-2003|Computational Geometry]] — 2.158J, Spring 2003
+- [[res-8-001-applied-geometric-algebra-spring-2009|Applied Geometric Algebra]] — RES.8-001, Spring 2009
+- [[res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011|Calculus Revisited: Complex Variables, Differential Equations, and Linear Algebra]] — RES.18-008, Fall 2011
+- [[22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004|Statistical Thermodynamics of Complex Liquids]] — 22.52J, Spring 2004
+- [[18-327-wavelets-filter-banks-and-applications-spring-2003|Wavelets, Filter Banks and Applications]] — 18.327, Spring 2003
+- [[18-155-differential-analysis-fall-2004|Differential Analysis]] — 18.155, Fall 2004
+- [[16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003|Numerical Methods for Partial Differential Equations (SMA 5212)]] — 16.920J, Spring 2003
+- [[1-010-uncertainty-in-engineering-fall-2008|Uncertainty in Engineering]] — 1.010, Fall 2008
+- [[mas-622j-pattern-recognition-and-analysis-fall-2006|Pattern Recognition and Analysis]] — MAS.622J, Fall 2006
+- [[15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004|Systems Optimization: Models and Computation (SMA 5223)]] — 15.094J, Spring 2004
+- [[2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009|Finite Element Analysis of Solids and Fluids I]] — 2.092, Fall 2009
 - [[6-241j-dynamic-systems-and-control-spring-2011|Dynamic Systems and Control]] — 6.241J, Spring 2011
 - [[9-520-statistical-learning-theory-and-applications-spring-2003|Statistical Learning Theory and Applications]] — 9.520, Spring 2003
 - [[15-093j-optimization-methods-fall-2009|Optimization Methods]] — 15.093J, Fall 2009

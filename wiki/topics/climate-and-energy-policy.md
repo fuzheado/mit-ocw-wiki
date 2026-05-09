@@ -12,6 +12,10 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[22-081j-introduction-to-sustainable-energy-fall-2010|Introduction to Sustainable Energy]] — 22.081J, Fall 2010
+- [[1-253j-transportation-policy-and-environmental-limits-spring-2004|Transportation Policy and Environmental Limits]] — 1.253J, Spring 2004
+- [[sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006|Energy and Environment in American History: 1705-2005]] — STS.038, Fall 2006
+- [[11-959-reforming-natural-resources-governance-failings-of-scientific-rationalism-and-alternatives-for-building-common-ground-january-iap-2007|Reforming Natural Resources Governance: Failings of Scientific Rationalism and Alternatives for Building Common Ground]] — 11.959, January IAP 2007
 - [[11-368-environmental-justice-fall-2004|Environmental Justice]] — 11.368, Fall 2004
 - [[11-363-civil-society-and-the-environment-spring-2005|Civil Society and the Environment]] — 11.363, Spring 2005
 - [[11-942-regional-energy-environmental-economic-modeling-spring-2007|Regional Energy-Environmental Economic Modeling]] — 11.942, Spring 2007

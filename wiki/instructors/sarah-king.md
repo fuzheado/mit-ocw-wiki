@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[wgs-s10-special-topics-in-women-gender-studies-seminar-latina-womens-voices-spring-2010|Special Topics in Women & Gender Studies Seminar: Latina Women's Voices]]
 - [[21w-742-writing-about-race-spring-2013|Writing About Race]]

@@ -25,6 +25,43 @@ courses_count: 0
 
 ## Courses
 
+- [[6-263j-data-communication-networks-fall-2002|Data Communication Networks]] — 6.263J, Fall 2002
+- [[12-810-dynamics-of-the-atmosphere-spring-2008|Dynamics of the Atmosphere]] — 12.810, Spring 2008
+- [[16-885j-aircraft-systems-engineering-fall-2005|Aircraft Systems Engineering]] — 16.885J, Fall 2005
+- [[mas-632-conversational-computer-systems-fall-2008|Conversational Computer Systems]] — MAS.632, Fall 2008
+- [[6-642-continuum-electromechanics-fall-2008|Continuum Electromechanics]] — 6.642, Fall 2008
+- [[hst-750-modeling-issues-in-speech-and-hearing-spring-2006|Modeling Issues in Speech and Hearing]] — HST.750, Spring 2006
+- [[22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005|Probability And Its Applications To Reliability, Quality Control, And Risk Assessment]] — 22.38, Fall 2005
+- [[6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006|Transcribing Prosodic Structure of Spoken Utterances with ToBI]] — 6.911, January IAP 2006
+- [[22-39-integration-of-reactor-design-operations-and-safety-fall-2006|Integration of Reactor Design, Operations, and Safety]] — 22.39, Fall 2006
+- [[6-071j-introduction-to-electronics-signals-and-measurement-spring-2006|Introduction to Electronics, Signals, and Measurement]] — 6.071J, Spring 2006
+- [[ec-720j-d-lab-ii-design-spring-2010|D-Lab II: Design]] — EC.720J, Spring 2010
+- [[2-158j-computational-geometry-spring-2003|Computational Geometry]] — 2.158J, Spring 2003
+- [[cms-633-digital-humanities-spring-2015|Digital Humanities]] — CMS.633, Spring 2015
+- [[3-205-thermodynamics-and-kinetics-of-materials-fall-2006|Thermodynamics and Kinetics of Materials]] — 3.205, Fall 2006
+- [[mas-961-numeric-photography-fall-1998|Numeric Photography]] — MAS.961, Fall 1998
+- [[14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003|Dynamic Optimization & Economic Applications (Recursive Methods)]] — 14.128, Spring 2003
+- [[ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005|Internet Technology in Local and Global Communities]] — EC.S01, Spring 2005
+- [[22-081j-introduction-to-sustainable-energy-fall-2010|Introduction to Sustainable Energy]] — 22.081J, Fall 2010
+- [[18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002|Topics in Theoretical Computer Science : Internet Research Problems]] — 18.996, Spring 2002
+- [[1-253j-transportation-policy-and-environmental-limits-spring-2004|Transportation Policy and Environmental Limits]] — 1.253J, Spring 2004
+- [[2-670-mechanical-engineering-tools-january-iap-2004|Mechanical Engineering Tools]] — 2.670, January IAP 2004
+- [[22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004|Statistical Thermodynamics of Complex Liquids]] — 22.52J, Spring 2004
+- [[22-55j-principles-of-radiation-interactions-fall-2004|Principles of Radiation Interactions]] — 22.55J, Fall 2004
+- [[18-327-wavelets-filter-banks-and-applications-spring-2003|Wavelets, Filter Banks and Applications]] — 18.327, Spring 2003
+- [[2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004|Mechanical Assembly and Its Role in Product Development]] — 2.875, Fall 2004
+- [[3-014-materials-laboratory-fall-2006|Materials Laboratory]] — 3.014, Fall 2006
+- [[16-863j-system-safety-spring-2016|System Safety]] — 16.863J, Spring 2016
+- [[sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006|Energy and Environment in American History: 1705-2005]] — STS.038, Fall 2006
+- [[hst-947-medical-artificial-intelligence-spring-2005|Medical Artificial Intelligence]] — HST.947, Spring 2005
+- [[1-010-uncertainty-in-engineering-fall-2008|Uncertainty in Engineering]] — 1.010, Fall 2008
+- [[mas-622j-pattern-recognition-and-analysis-fall-2006|Pattern Recognition and Analysis]] — MAS.622J, Fall 2006
+- [[15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004|Systems Optimization: Models and Computation (SMA 5223)]] — 15.094J, Spring 2004
+- [[2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004|Advanced Structural Dynamics and Acoustics (13.811)]] — 2.067, Spring 2004
+- [[11-959-reforming-natural-resources-governance-failings-of-scientific-rationalism-and-alternatives-for-building-common-ground-january-iap-2007|Reforming Natural Resources Governance: Failings of Scientific Rationalism and Alternatives for Building Common Ground]] — 11.959, January IAP 2007
+- [[6-370-robocraft-programming-competition-january-iap-2005|Robocraft Programming Competition]] — 6.370, January IAP 2005
+- [[2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009|Finite Element Analysis of Solids and Fluids I]] — 2.092, Fall 2009
+- [[6-013-electromagnetics-and-applications-spring-2009|Electromagnetics and Applications]] — 6.013, Spring 2009
 - [[6-241j-dynamic-systems-and-control-spring-2011|Dynamic Systems and Control]] — 6.241J, Spring 2011
 - [[6-111-introductory-digital-systems-laboratory-fall-2002|Introductory Digital Systems Laboratory]] — 6.111, Fall 2002
 - [[1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005|Introduction to Civil and Environmental Engineering Design I]] — 1.101, Fall 2005

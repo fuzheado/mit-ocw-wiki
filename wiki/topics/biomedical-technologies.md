@@ -12,6 +12,9 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[hst-750-modeling-issues-in-speech-and-hearing-spring-2006|Modeling Issues in Speech and Hearing]] — HST.750, Spring 2006
+- [[12-091-medical-geology-geochemistry-an-exposure-january-iap-2006|Medical Geology/Geochemistry: An Exposure]] — 12.091, January IAP 2006
+- [[hst-947-medical-artificial-intelligence-spring-2005|Medical Artificial Intelligence]] — HST.947, Spring 2005
 - [[res-gem4-global-enterprise-for-micro-mechanics-and-molecular-medicine-gem4-summer-2006-summer-2007|Global Enterprise for Micro-Mechanics and Molecular Medicine (GEM4)]] — RES.GEM4, Summer 2006
 - [[hst-950j-biomedical-computing-fall-2010|Biomedical Computing]] — HST.950J, Fall 2010
 - [[esd-69-seminar-on-health-care-systems-innovation-fall-2010|Seminar on Health Care Systems Innovation]] — ESD.69, Fall 2010

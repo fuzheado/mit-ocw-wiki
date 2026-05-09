@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[11-309j-sites-in-sight-photography-as-inquiry-fall-2003|Sites in Sight: Photography as Inquiry]] — 11.309J, Fall 2003
+- [[mas-961-numeric-photography-fall-1998|Numeric Photography]] — MAS.961, Fall 1998
+- [[4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006|The Production of Space: Art, Architecture and Urbanism in Dialogue]] — 4.303, Fall 2006
 - [[21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013|Advanced Topics in Hispanic Literature and Film: The Films of Luis Buñuel]] — 21G.735, Fall 2013
 - [[4-341-introduction-to-photography-and-related-media-fall-2007|Introduction to Photography and Related Media]] — 4.341, Fall 2007
 - [[6-831-user-interface-design-and-implementation-spring-2011|User Interface Design and Implementation]] — 6.831, Spring 2011

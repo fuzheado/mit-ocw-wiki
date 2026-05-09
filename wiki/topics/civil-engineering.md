@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-253j-transportation-policy-and-environmental-limits-spring-2004|Transportation Policy and Environmental Limits]] — 1.253J, Spring 2004
+- [[sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006|Energy and Environment in American History: 1705-2005]] — STS.038, Fall 2006
+- [[1-010-uncertainty-in-engineering-fall-2008|Uncertainty in Engineering]] — 1.010, Fall 2008
 - [[1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005|Introduction to Civil and Environmental Engineering Design I]] — 1.101, Fall 2005
 - [[1-051-structural-engineering-design-fall-2003|Structural Engineering Design]] — 1.051, Fall 2003
 - [[11-304j-site-and-infrastructure-systems-planning-spring-2009|Site and Infrastructure Systems Planning]] — 11.304J, Spring 2009

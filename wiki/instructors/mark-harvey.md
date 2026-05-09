@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21m-342-composing-for-jazz-orchestra-fall-2008|Composing for Jazz Orchestra]]
 - [[21m-355-musical-improvisation-spring-2013|Musical Improvisation]]

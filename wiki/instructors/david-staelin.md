@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-013-electromagnetics-and-applications-spring-2009|Electromagnetics and Applications]]
 - [[6-661-receivers-antennas-and-signals-spring-2003|Receivers, Antennas, and Signals]]

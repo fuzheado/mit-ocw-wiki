@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009|Finite Element Analysis of Solids and Fluids I]]
 - [[2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011|Finite Element Analysis of Solids and Fluids II]]

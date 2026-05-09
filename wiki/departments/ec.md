@@ -10,6 +10,9 @@ courses_count: 0
 
 ## Courses
 
+- [[ec-720j-d-lab-ii-design-spring-2010|D-Lab II: Design]] (EC.720J)
+- [[esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009|X PRIZE Workshop: Grand Challenges in Energy]] (ESD.172J)
+- [[ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005|Internet Technology in Local and Global Communities]] (EC.S01)
 - [[ec-721-wheelchair-design-in-developing-countries-spring-2009|Wheelchair Design in Developing Countries]] (EC.721)
 - [[ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007|D-Lab: Disseminating Innovations for the Common Good]] (EC.715)
 - [[res-ec-003-d-lab-student-showcases-spring-2022|D-Lab Student Showcases]] (RES.EC-003)

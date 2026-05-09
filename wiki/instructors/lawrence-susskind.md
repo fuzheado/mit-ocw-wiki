@@ -8,5 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021|Negotiation and Dispute Resolution in the Public Sector]]
+- [[11-237-practice-of-participatory-action-research-par-spring-2016|Practice of Participatory Action Research (PAR)]]
 - [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]]
 - [[11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005|Workshop on Deliberative Democracy and Dispute Resolution]]

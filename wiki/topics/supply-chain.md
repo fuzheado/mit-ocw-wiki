@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-760a-operations-management-spring-2002|Operations Management]] — 15.760A, Spring 2002
+- [[15-769-operations-strategy-spring-2003|Operations Strategy]] — 15.769, Spring 2003
+- [[11-975-feeding-cities-in-the-global-south-challenges-and-opportunities-for-action-in-cartagena-fall-2009|Feeding Cities in the Global South: Challenges and Opportunities for Action in Cartagena]] — 11.975, Fall 2009
 - [[15-763j-manufacturing-system-and-supply-chain-design-spring-2005|Manufacturing System and Supply Chain Design]] — 15.763J, Spring 2005
 - [[15-762j-supply-chain-planning-spring-2011|Supply Chain Planning]] — 15.762J, Spring 2011
 - [[15-778-management-of-supply-networks-for-products-and-services-summer-2004|Management of Supply Networks for Products and Services]] — 15.778, Summer 2004

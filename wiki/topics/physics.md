@@ -12,6 +12,16 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003|Strongly Correlated Systems in Condensed Matter Physics]] — 8.514, Fall 2003
+- [[6-642-continuum-electromechanics-fall-2008|Continuum Electromechanics]] — 6.642, Fall 2008
+- [[8-821-string-theory-fall-2008|String Theory]] — 8.821, Fall 2008
+- [[22-39-integration-of-reactor-design-operations-and-safety-fall-2006|Integration of Reactor Design, Operations, and Safety]] — 22.39, Fall 2006
+- [[3-205-thermodynamics-and-kinetics-of-materials-fall-2006|Thermodynamics and Kinetics of Materials]] — 3.205, Fall 2006
+- [[22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004|Statistical Thermodynamics of Complex Liquids]] — 22.52J, Spring 2004
+- [[22-55j-principles-of-radiation-interactions-fall-2004|Principles of Radiation Interactions]] — 22.55J, Fall 2004
+- [[3-014-materials-laboratory-fall-2006|Materials Laboratory]] — 3.014, Fall 2006
+- [[2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004|Advanced Structural Dynamics and Acoustics (13.811)]] — 2.067, Spring 2004
+- [[6-013-electromagnetics-and-applications-spring-2009|Electromagnetics and Applications]] — 6.013, Spring 2009
 - [[6-772-compound-semiconductor-devices-spring-2003|Compound Semiconductor Devices]] — 6.772, Spring 2003
 - [[3-021j-introduction-to-modeling-and-simulation-spring-2012|Introduction to Modeling and Simulation]] — 3.021J, Spring 2012
 - [[8-07-electromagnetism-ii-fall-2012|Electromagnetism II]] — 8.07, Fall 2012

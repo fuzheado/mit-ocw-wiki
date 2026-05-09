@@ -12,6 +12,7 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006|Energy and Environment in American History: 1705-2005]] (STS.038)
 - [[ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005|Integrating Doctoral Seminar on Emerging Technologies]] (IDS.900)
 - [[21a-429j-environmental-conflict-fall-2016|Environmental Conflict]] (21A.429J)
 - [[21a-350j-cultures-of-computing-fall-2011|Cultures of Computing]] (21A.350J)

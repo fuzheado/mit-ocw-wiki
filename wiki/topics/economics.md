@@ -12,6 +12,20 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[14-661-labor-economics-i-fall-2017|Labor Economics I]] — 14.661, Fall 2017
+- [[11-902-advanced-urban-public-finance-collective-action-and-provisions-of-local-public-goods-spring-2009|Advanced Urban Public Finance: Collective Action and Provisions of Local Public Goods]] — 11.902, Spring 2009
+- [[ec-720j-d-lab-ii-design-spring-2010|D-Lab II: Design]] — EC.720J, Spring 2010
+- [[11-203-microeconomics-fall-2010|Microeconomics]] — 11.203, Fall 2010
+- [[11-975-feeding-cities-in-the-global-south-challenges-and-opportunities-for-action-in-cartagena-fall-2009|Feeding Cities in the Global South: Challenges and Opportunities for Action in Cartagena]] — 11.975, Fall 2009
+- [[11-202-planning-economics-fall-2010|Planning Economics]] — 11.202, Fall 2010
+- [[14-64-labor-economics-and-public-policy-fall-2009|Labor Economics and Public Policy]] — 14.64, Fall 2009
+- [[15-567-the-economics-of-information-strategy-structure-and-pricing-fall-2010|The Economics of Information: Strategy, Structure and Pricing]] — 15.567, Fall 2010
+- [[esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009|X PRIZE Workshop: Grand Challenges in Energy]] — ESD.172J, Fall 2009
+- [[14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003|Dynamic Optimization & Economic Applications (Recursive Methods)]] — 14.128, Spring 2003
+- [[11-484-project-appraisal-in-developing-countries-spring-2005|Project Appraisal in Developing Countries]] — 11.484, Spring 2005
+- [[cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019|Playful Augmented Reality Audio Design Exploration]] — CMS.S63, Fall 2019
+- [[15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004|Research Seminar in IT and Organizations: Economic Perspectives]] — 15.575, Spring 2004
+- [[14-71-economic-history-of-financial-crises-fall-2009|Economic History of Financial Crises]] — 14.71, Fall 2009
 - [[11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003|Introduction to Planning & Institutional Processes in Developing Countries]] — 11.701, Fall 2003
 - [[14-121-microeconomic-theory-i-fall-2015|Microeconomic Theory I]] — 14.121, Fall 2015
 - [[14-454-economic-crises-spring-2011|Economic Crises]] — 14.454, Spring 2011

@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[12-810-dynamics-of-the-atmosphere-spring-2008|Dynamics of the Atmosphere]] — 12.810, Spring 2008
+- [[2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004|Advanced Structural Dynamics and Acoustics (13.811)]] — 2.067, Spring 2004
 - [[2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004|Maneuvering and Control of Surface and Underwater Vehicles (13.49)]] — 2.154, Fall 2004
 - [[2-019-design-of-ocean-systems-spring-2011|Design of Ocean Systems]] — 2.019, Spring 2011
 - [[res-12-000-evolution-of-physical-oceanography-spring-2007|Evolution of Physical Oceanography]] — RES.12-000, Spring 2007

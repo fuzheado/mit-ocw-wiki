@@ -12,6 +12,10 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[mas-632-conversational-computer-systems-fall-2008|Conversational Computer Systems]] — MAS.632, Fall 2008
+- [[6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006|Transcribing Prosodic Structure of Spoken Utterances with ToBI]] — 6.911, January IAP 2006
+- [[21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010|Interdisciplinary Approaches to Musical Time]] — 21M.542, January IAP 2010
+- [[mas-622j-pattern-recognition-and-analysis-fall-2006|Pattern Recognition and Analysis]] — MAS.622J, Fall 2006
 - [[9-520-statistical-learning-theory-and-applications-spring-2003|Statistical Learning Theory and Applications]] — 9.520, Spring 2003
 - [[9-56j-abnormal-language-fall-2004|Abnormal Language]] — 9.56J, Fall 2004
 - [[9-916-modularity-domain-specificity-and-the-organization-of-knowledge-fall-2001|Modularity, Domain-specificity, and the Organization of Knowledge]] — 9.916, Fall 2001

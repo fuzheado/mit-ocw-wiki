@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-263j-data-communication-networks-fall-2002|Data Communication Networks]] — 6.263J, Fall 2002
+- [[18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002|Topics in Theoretical Computer Science : Internet Research Problems]] — 18.996, Spring 2002
 - [[6-976-high-speed-communication-circuits-and-systems-spring-2003|High Speed Communication Circuits and Systems]] — 6.976, Spring 2003
 - [[6-973-communication-system-design-spring-2006|Communication System Design]] — 6.973, Spring 2006
 - [[6-829-computer-networks-fall-2002|Computer Networks]] — 6.829, Fall 2002

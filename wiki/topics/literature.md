@@ -12,6 +12,14 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-703-studies-in-drama-too-hot-to-handle-forbidden-plays-in-modern-america-fall-2008|Studies in Drama: Too Hot to Handle: Forbidden Plays in Modern America]] — 21L.703, Fall 2008
+- [[21l-704-studies-in-poetry-whats-the-use-of-beauty-fall-2005|Studies in Poetry: "What's the Use of Beauty?"]] — 21L.704, Fall 2005
+- [[21l-021-comedy-spring-2022|Comedy]] — 21L.021, Spring 2022
+- [[21w-735-writing-and-reading-the-essay-fall-2005|Writing and Reading the Essay]] — 21W.735, Fall 2005
+- [[15-269-leadership-stories-literature-ethics-and-authority-fall-2015|Leadership Stories: Literature, Ethics, and Authority]] — 15.269, Fall 2015
+- [[hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003|Survival Skills for Researchers: The Responsible Conduct of Research]] — HST.502, Spring 2003
+- [[21l-472-major-european-novels-fall-2008|Major European Novels]] — 21L.472, Fall 2008
+- [[21l-007j-after-columbus-fall-2003|After Columbus]] — 21L.007J, Fall 2003
 - [[21l-016-learning-from-the-past-drama-science-performance-spring-2009|Learning from the Past: Drama, Science, Performance]] — 21L.016, Spring 2009
 - [[21l-715-media-in-cultural-context-spring-2007|Media in Cultural Context]] — 21L.715, Spring 2007
 - [[21m-846-topics-in-performance-studies-comedy-across-media-spring-2018|Topics in Performance Studies: Comedy Across Media]] — 21M.846, Spring 2018

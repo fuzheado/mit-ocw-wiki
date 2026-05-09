@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[mas-961-numeric-photography-fall-1998|Numeric Photography]] — MAS.961, Fall 1998
+- [[6-370-robocraft-programming-competition-january-iap-2005|Robocraft Programming Competition]] — 6.370, January IAP 2005
 - [[6-111-introductory-digital-systems-laboratory-fall-2002|Introductory Digital Systems Laboratory]] — 6.111, Fall 2002
 - [[6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008|A Gentle Introduction to Programming Using Python]] — 6.189, January IAP 2008
 - [[12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010|Parallel Programming for Multicore Machines Using OpenMP and MPI]] — 12.950, January IAP 2010

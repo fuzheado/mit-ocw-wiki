@@ -12,6 +12,7 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[15-341-individuals-groups-and-organizations-fall-2006|Individuals, Groups, and Organizations]] — 15.341, Fall 2006
 - [[24-120-moral-psychology-spring-2009|Moral Psychology]] — 24.120, Spring 2009
 - [[21a-260-culture-embodiment-and-the-senses-fall-2005|Culture, Embodiment and the Senses]] — 21A.260, Fall 2005
 - [[mas-771-autism-theory-and-technology-spring-2011|Autism Theory and Technology]] — MAS.771, Spring 2011

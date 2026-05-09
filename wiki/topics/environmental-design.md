@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[11-309j-sites-in-sight-photography-as-inquiry-fall-2003|Sites in Sight: Photography as Inquiry]] — 11.309J, Fall 2003
+- [[4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006|The Production of Space: Art, Architecture and Urbanism in Dialogue]] — 4.303, Fall 2006
 - [[11-304j-site-and-infrastructure-systems-planning-spring-2009|Site and Infrastructure Systems Planning]] — 11.304J, Spring 2009
 - [[4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004|Architectural Design, Level III: A Student Center for MIT]] — 4.155B, Fall 2004
 - [[4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002|Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems]] — 4.285, Fall 2002

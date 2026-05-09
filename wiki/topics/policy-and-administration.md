@@ -12,6 +12,17 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-951-special-graduate-topic-in-political-science-public-opinion-spring-2004|Special Graduate Topic in Political Science: Public Opinion]] — 17.951, Spring 2004
+- [[11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021|Negotiation and Dispute Resolution in the Public Sector]] — 11.255, Spring 2021
+- [[11-902-advanced-urban-public-finance-collective-action-and-provisions-of-local-public-goods-spring-2009|Advanced Urban Public Finance: Collective Action and Provisions of Local Public Goods]] — 11.902, Spring 2009
+- [[11-975-feeding-cities-in-the-global-south-challenges-and-opportunities-for-action-in-cartagena-fall-2009|Feeding Cities in the Global South: Challenges and Opportunities for Action in Cartagena]] — 11.975, Fall 2009
+- [[14-64-labor-economics-and-public-policy-fall-2009|Labor Economics and Public Policy]] — 14.64, Fall 2009
+- [[11-s940-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2015|Development, Planning, and Implementation: The Dialectic of Theory and Practice]] — 11.S940, Fall 2015
+- [[22-081j-introduction-to-sustainable-energy-fall-2010|Introduction to Sustainable Energy]] — 22.081J, Fall 2010
+- [[1-253j-transportation-policy-and-environmental-limits-spring-2004|Transportation Policy and Environmental Limits]] — 1.253J, Spring 2004
+- [[sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006|Energy and Environment in American History: 1705-2005]] — STS.038, Fall 2006
+- [[11-959-reforming-natural-resources-governance-failings-of-scientific-rationalism-and-alternatives-for-building-common-ground-january-iap-2007|Reforming Natural Resources Governance: Failings of Scientific Rationalism and Alternatives for Building Common Ground]] — 11.959, January IAP 2007
+- [[11-237-practice-of-participatory-action-research-par-spring-2016|Practice of Participatory Action Research (PAR)]] — 11.237, Spring 2016
 - [[11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003|Introduction to Planning & Institutional Processes in Developing Countries]] — 11.701, Fall 2003
 - [[11-368-environmental-justice-fall-2004|Environmental Justice]] — 11.368, Fall 2004
 - [[17-428-american-foreign-policy-theory-and-method-fall-2004|American Foreign Policy: Theory and Method]] — 17.428, Fall 2004

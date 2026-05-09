@@ -12,6 +12,12 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-760a-operations-management-spring-2002|Operations Management]] — 15.760A, Spring 2002
+- [[15-769-operations-strategy-spring-2003|Operations Strategy]] — 15.769, Spring 2003
+- [[2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004|Mechanical Assembly and Its Role in Product Development]] — 2.875, Fall 2004
+- [[16-863j-system-safety-spring-2016|System Safety]] — 16.863J, Spring 2016
+- [[15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004|Research Seminar in IT and Organizations: Economic Perspectives]] — 15.575, Spring 2004
+- [[15-568a-practical-information-technology-management-spring-2005|Practical Information Technology Management]] — 15.568A, Spring 2005
 - [[15-988-system-dynamics-self-study-fall-1998-spring-1999|System Dynamics Self Study]] — 15.988, Fall 1998
 - [[15-220-global-strategy-and-organization-spring-2012|Global Strategy and Organization]] — 15.220, Spring 2012
 - [[1-259j-transit-management-fall-2006|Transit Management]] — 1.259J, Fall 2006

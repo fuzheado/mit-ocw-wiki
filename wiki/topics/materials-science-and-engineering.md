@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[3-205-thermodynamics-and-kinetics-of-materials-fall-2006|Thermodynamics and Kinetics of Materials]] — 3.205, Fall 2006
+- [[3-014-materials-laboratory-fall-2006|Materials Laboratory]] — 3.014, Fall 2006
 - [[22-14-materials-in-nuclear-engineering-spring-2015|Materials in Nuclear Engineering]] — 22.14, Spring 2015
 - [[3-094-materials-in-human-experience-spring-2004|Materials in Human Experience]] — 3.094, Spring 2004
 - [[6-772-compound-semiconductor-devices-spring-2003|Compound Semiconductor Devices]] — 6.772, Spring 2003

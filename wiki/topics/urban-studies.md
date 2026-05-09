@@ -12,6 +12,13 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-902-advanced-urban-public-finance-collective-action-and-provisions-of-local-public-goods-spring-2009|Advanced Urban Public Finance: Collective Action and Provisions of Local Public Goods]] — 11.902, Spring 2009
+- [[11-975-feeding-cities-in-the-global-south-challenges-and-opportunities-for-action-in-cartagena-fall-2009|Feeding Cities in the Global South: Challenges and Opportunities for Action in Cartagena]] — 11.975, Fall 2009
+- [[11-202-planning-economics-fall-2010|Planning Economics]] — 11.202, Fall 2010
+- [[11-309j-sites-in-sight-photography-as-inquiry-fall-2003|Sites in Sight: Photography as Inquiry]] — 11.309J, Fall 2003
+- [[11-s940-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2015|Development, Planning, and Implementation: The Dialectic of Theory and Practice]] — 11.S940, Fall 2015
+- [[4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006|The Production of Space: Art, Architecture and Urbanism in Dialogue]] — 4.303, Fall 2006
+- [[11-237-practice-of-participatory-action-research-par-spring-2016|Practice of Participatory Action Research (PAR)]] — 11.237, Spring 2016
 - [[11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003|Introduction to Planning & Institutional Processes in Developing Countries]] — 11.701, Fall 2003
 - [[11-304j-site-and-infrastructure-systems-planning-spring-2009|Site and Infrastructure Systems Planning]] — 11.304J, Spring 2009
 - [[11-471-targeting-the-poor-local-economic-development-in-developing-countries-spring-2010|Targeting the Poor: Local Economic Development in Developing Countries]] — 11.471, Spring 2010

@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[16-885j-aircraft-systems-engineering-fall-2005|Aircraft Systems Engineering]] — 16.885J, Fall 2005
+- [[16-863j-system-safety-spring-2016|System Safety]] — 16.863J, Spring 2016
 - [[16-333-aircraft-stability-and-control-fall-2004|Aircraft Stability and Control]] — 16.333, Fall 2004
 - [[2-019-design-of-ocean-systems-spring-2011|Design of Ocean Systems]] — 2.019, Spring 2011
 - [[2-081j-plates-and-shells-spring-2007|Plates and Shells]] — 2.081J, Spring 2007

@@ -12,6 +12,9 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21a-231j-gender-sexuality-and-society-spring-2006|Gender, Sexuality, and Society]] (21A.231J)
+- [[wgs-s10-special-topics-in-women-gender-studies-seminar-latina-womens-voices-spring-2010|Special Topics in Women & Gender Studies Seminar: Latina Women's Voices]] (WGS.S10)
+- [[wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017|Changing Life: Reading the Intersections of Gender, Race, Biology, and Literature]] (WGS.700)
 - [[21h-575j-women-in-south-asia-from-1800-to-present-fall-2006|Women in South Asia from 1800 to Present]] (21H.575J)
 - [[21a-442j-violence-human-rights-and-justice-fall-2014|Violence, Human Rights, and Justice]] (21A.442J)
 - [[wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009|Gender, Race, and the Complexities of Science and Technology: A Problem-Based Learning Experiment]] (WGS.693)

@@ -12,6 +12,16 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-263j-data-communication-networks-fall-2002|Data Communication Networks]] — 6.263J, Fall 2002
+- [[mas-632-conversational-computer-systems-fall-2008|Conversational Computer Systems]] — MAS.632, Fall 2008
+- [[6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006|Transcribing Prosodic Structure of Spoken Utterances with ToBI]] — 6.911, January IAP 2006
+- [[2-158j-computational-geometry-spring-2003|Computational Geometry]] — 2.158J, Spring 2003
+- [[cms-633-digital-humanities-spring-2015|Digital Humanities]] — CMS.633, Spring 2015
+- [[mas-961-numeric-photography-fall-1998|Numeric Photography]] — MAS.961, Fall 1998
+- [[18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002|Topics in Theoretical Computer Science : Internet Research Problems]] — 18.996, Spring 2002
+- [[hst-947-medical-artificial-intelligence-spring-2005|Medical Artificial Intelligence]] — HST.947, Spring 2005
+- [[15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004|Systems Optimization: Models and Computation (SMA 5223)]] — 15.094J, Spring 2004
+- [[6-370-robocraft-programming-competition-january-iap-2005|Robocraft Programming Competition]] — 6.370, January IAP 2005
 - [[6-241j-dynamic-systems-and-control-spring-2011|Dynamic Systems and Control]] — 6.241J, Spring 2011
 - [[6-111-introductory-digital-systems-laboratory-fall-2002|Introductory Digital Systems Laboratory]] — 6.111, Fall 2002
 - [[9-520-statistical-learning-theory-and-applications-spring-2003|Statistical Learning Theory and Applications]] — 9.520, Spring 2003

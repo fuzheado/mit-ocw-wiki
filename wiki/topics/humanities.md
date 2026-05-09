@@ -20,6 +20,28 @@ courses_count: 0
 
 ## Courses
 
+- [[4-s67-landscape-experience-seminar-in-land-art-fall-2016|Landscape Experience: Seminar in Land/Art]] — 4.S67, Fall 2016
+- [[21m-030-introduction-to-world-music-fall-2006|Introduction to World Music]] — 21M.030, Fall 2006
+- [[21g-034-media-education-and-the-marketplace-fall-2005|Media Education and the Marketplace]] — 21G.034, Fall 2005
+- [[21l-703-studies-in-drama-too-hot-to-handle-forbidden-plays-in-modern-america-fall-2008|Studies in Drama: Too Hot to Handle: Forbidden Plays in Modern America]] — 21L.703, Fall 2008
+- [[6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006|Transcribing Prosodic Structure of Spoken Utterances with ToBI]] — 6.911, January IAP 2006
+- [[21h-931-seminar-in-historical-methods-spring-2004|Seminar in Historical Methods]] — 21H.931, Spring 2004
+- [[cms-633-digital-humanities-spring-2015|Digital Humanities]] — CMS.633, Spring 2015
+- [[21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010|Interdisciplinary Approaches to Musical Time]] — 21M.542, January IAP 2010
+- [[21l-704-studies-in-poetry-whats-the-use-of-beauty-fall-2005|Studies in Poetry: "What's the Use of Beauty?"]] — 21L.704, Fall 2005
+- [[21l-021-comedy-spring-2022|Comedy]] — 21L.021, Spring 2022
+- [[24-952-advanced-syntax-spring-2007|Advanced Syntax]] — 24.952, Spring 2007
+- [[21m-342-composing-for-jazz-orchestra-fall-2008|Composing for Jazz Orchestra]] — 21M.342, Fall 2008
+- [[21w-735-writing-and-reading-the-essay-fall-2005|Writing and Reading the Essay]] — 21W.735, Fall 2005
+- [[21g-711-advanced-spanish-conversation-and-composition-spring-2014|Advanced Spanish Conversation and Composition]] — 21G.711, Spring 2014
+- [[sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006|Energy and Environment in American History: 1705-2005]] — STS.038, Fall 2006
+- [[15-269-leadership-stories-literature-ethics-and-authority-fall-2015|Leadership Stories: Literature, Ethics, and Authority]] — 15.269, Fall 2015
+- [[24-236-topics-in-social-theory-and-practice-race-and-racism-fall-2014|Topics in Social Theory and Practice: Race and Racism]] — 24.236, Fall 2014
+- [[hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003|Survival Skills for Researchers: The Responsible Conduct of Research]] — HST.502, Spring 2003
+- [[21l-472-major-european-novels-fall-2008|Major European Novels]] — 21L.472, Fall 2008
+- [[21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009|Music and Technology (Contemporary History and Aesthetics)]] — 21M.380, Fall 2009
+- [[21l-007j-after-columbus-fall-2003|After Columbus]] — 21L.007J, Fall 2003
+- [[14-71-economic-history-of-financial-crises-fall-2009|Economic History of Financial Crises]] — 14.71, Fall 2009
 - [[11-368-environmental-justice-fall-2004|Environmental Justice]] — 11.368, Fall 2004
 - [[3-094-materials-in-human-experience-spring-2004|Materials in Human Experience]] — 3.094, Spring 2004
 - [[21h-575j-women-in-south-asia-from-1800-to-present-fall-2006|Women in South Asia from 1800 to Present]] — 21H.575J, Fall 2006

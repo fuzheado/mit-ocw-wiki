@@ -12,6 +12,10 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[ec-720j-d-lab-ii-design-spring-2010|D-Lab II: Design]] — EC.720J, Spring 2010
+- [[12-740-paleoceanography-spring-2008|Paleoceanography]] — 12.740, Spring 2008
+- [[22-081j-introduction-to-sustainable-energy-fall-2010|Introduction to Sustainable Energy]] — 22.081J, Fall 2010
+- [[wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017|Changing Life: Reading the Intersections of Gender, Race, Biology, and Literature]] — WGS.700, Spring 2017
 - [[12-009j-theoretical-environmental-analysis-spring-2015|Theoretical Environmental Analysis]] — 12.009J, Spring 2015
 - [[11-942-regional-energy-environmental-economic-modeling-spring-2007|Regional Energy-Environmental Economic Modeling]] — 11.942, Spring 2007
 - [[15-975-u-lab-leading-profound-innovation-for-a-more-sustainable-world-fall-2010|U-Lab: Leading Profound Innovation for a More Sustainable World]] — 15.975, Fall 2010

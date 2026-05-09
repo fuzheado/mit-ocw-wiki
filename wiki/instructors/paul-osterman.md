@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[15-660-strategic-hr-management-spring-2003|Strategic HR Management]]
 - [[15-967-managing-and-volunteering-in-the-non-profit-sector-spring-2005|Managing and Volunteering In the Non-Profit Sector]]

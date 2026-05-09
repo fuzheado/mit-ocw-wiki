@@ -12,6 +12,8 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009|X PRIZE Workshop: Grand Challenges in Energy]] — ESD.172J, Fall 2009
+- [[ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005|Internet Technology in Local and Global Communities]] — EC.S01, Spring 2005
 - [[15-356-how-to-develop-breakthrough-products-and-services-spring-2004|How to Develop "Breakthrough" Products and Services]] — 15.356, Spring 2004
 - [[15-361-executing-strategy-for-results-fall-2017|Executing Strategy for Results]] — 15.361, Fall 2017
 - [[15-391-early-stage-capital-fall-2010|Early Stage Capital]] — 15.391, Fall 2010

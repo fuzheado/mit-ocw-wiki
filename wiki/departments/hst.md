@@ -12,6 +12,10 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[hst-750-modeling-issues-in-speech-and-hearing-spring-2006|Modeling Issues in Speech and Hearing]] (HST.750)
+- [[22-55j-principles-of-radiation-interactions-fall-2004|Principles of Radiation Interactions]] (22.55J)
+- [[hst-947-medical-artificial-intelligence-spring-2005|Medical Artificial Intelligence]] (HST.947)
+- [[hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003|Survival Skills for Researchers: The Responsible Conduct of Research]] (HST.502)
 - [[20-441j-biomaterials-tissue-interactions-fall-2009|Biomaterials-Tissue Interactions]] (20.441J)
 - [[hst-071-human-reproductive-biology-fall-2005|Human Reproductive Biology]] (HST.071)
 - [[hst-950j-biomedical-computing-fall-2010|Biomedical Computing]] (HST.950J)

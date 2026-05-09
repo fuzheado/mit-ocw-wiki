@@ -12,6 +12,10 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21a-231j-gender-sexuality-and-society-spring-2006|Gender, Sexuality, and Society]] — 21A.231J, Spring 2006
+- [[wgs-s10-special-topics-in-women-gender-studies-seminar-latina-womens-voices-spring-2010|Special Topics in Women & Gender Studies Seminar: Latina Women's Voices]] — WGS.S10, Spring 2010
+- [[wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017|Changing Life: Reading the Intersections of Gender, Race, Biology, and Literature]] — WGS.700, Spring 2017
+- [[24-236-topics-in-social-theory-and-practice-race-and-racism-fall-2014|Topics in Social Theory and Practice: Race and Racism]] — 24.236, Fall 2014
 - [[21h-575j-women-in-south-asia-from-1800-to-present-fall-2006|Women in South Asia from 1800 to Present]] — 21H.575J, Fall 2006
 - [[21l-704-studies-in-poetry-gender-and-lyric-renaissance-men-and-women-writing-about-love-spring-2003|Studies in Poetry: Gender and Lyric -- Renaissance Men and Women Writing about Love]] — 21L.704, Spring 2003
 - [[wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009|Gender, Race, and the Complexities of Science and Technology: A Problem-Based Learning Experiment]] — WGS.693, Spring 2009

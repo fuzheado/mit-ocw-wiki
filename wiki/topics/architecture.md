@@ -12,6 +12,10 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-s67-landscape-experience-seminar-in-land-art-fall-2016|Landscape Experience: Seminar in Land/Art]] — 4.S67, Fall 2016
+- [[11-309j-sites-in-sight-photography-as-inquiry-fall-2003|Sites in Sight: Photography as Inquiry]] — 11.309J, Fall 2003
+- [[4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006|The Production of Space: Art, Architecture and Urbanism in Dialogue]] — 4.303, Fall 2006
+- [[4-609-the-art-museum-history-theory-controversy-spring-2014|The Art Museum: History, Theory, Controversy]] — 4.609, Spring 2014
 - [[11-304j-site-and-infrastructure-systems-planning-spring-2009|Site and Infrastructure Systems Planning]] — 11.304J, Spring 2009
 - [[4-671-nationalism-internationalism-and-globalism-in-modern-art-spring-2016|Nationalism, Internationalism, and Globalism in Modern Art]] — 4.671, Spring 2016
 - [[4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004|Architectural Design, Level III: A Student Center for MIT]] — 4.155B, Fall 2004

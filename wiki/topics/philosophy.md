@@ -12,6 +12,12 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-703-studies-in-drama-too-hot-to-handle-forbidden-plays-in-modern-america-fall-2008|Studies in Drama: Too Hot to Handle: Forbidden Plays in Modern America]] — 21L.703, Fall 2008
+- [[21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010|Interdisciplinary Approaches to Musical Time]] — 21M.542, January IAP 2010
+- [[21l-704-studies-in-poetry-whats-the-use-of-beauty-fall-2005|Studies in Poetry: "What's the Use of Beauty?"]] — 21L.704, Fall 2005
+- [[15-269-leadership-stories-literature-ethics-and-authority-fall-2015|Leadership Stories: Literature, Ethics, and Authority]] — 15.269, Fall 2015
+- [[24-236-topics-in-social-theory-and-practice-race-and-racism-fall-2014|Topics in Social Theory and Practice: Race and Racism]] — 24.236, Fall 2014
+- [[hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003|Survival Skills for Researchers: The Responsible Conduct of Research]] — HST.502, Spring 2003
 - [[11-368-environmental-justice-fall-2004|Environmental Justice]] — 11.368, Fall 2004
 - [[24-120-moral-psychology-spring-2009|Moral Psychology]] — 24.120, Spring 2009
 - [[24-02-moral-problems-and-the-good-life-fall-2008|Moral Problems and the Good Life]] — 24.02, Fall 2008

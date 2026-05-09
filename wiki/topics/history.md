@@ -12,6 +12,11 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[4-s67-landscape-experience-seminar-in-land-art-fall-2016|Landscape Experience: Seminar in Land/Art]] — 4.S67, Fall 2016
+- [[21h-931-seminar-in-historical-methods-spring-2004|Seminar in Historical Methods]] — 21H.931, Spring 2004
+- [[sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006|Energy and Environment in American History: 1705-2005]] — STS.038, Fall 2006
+- [[24-236-topics-in-social-theory-and-practice-race-and-racism-fall-2014|Topics in Social Theory and Practice: Race and Racism]] — 24.236, Fall 2014
+- [[14-71-economic-history-of-financial-crises-fall-2009|Economic History of Financial Crises]] — 14.71, Fall 2009
 - [[3-094-materials-in-human-experience-spring-2004|Materials in Human Experience]] — 3.094, Spring 2004
 - [[21h-575j-women-in-south-asia-from-1800-to-present-fall-2006|Women in South Asia from 1800 to Present]] — 21H.575J, Fall 2006
 - [[17-428-american-foreign-policy-theory-and-method-fall-2004|American Foreign Policy: Theory and Method]] — 17.428, Fall 2004

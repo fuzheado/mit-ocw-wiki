@@ -12,6 +12,7 @@ School: [[school-schwarzman-computing|MIT Schwarzman College of Computing]]
 
 ## Courses
 
+- [[16-863j-system-safety-spring-2016|System Safety]] (16.863J)
 - [[ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005|Integrating Doctoral Seminar on Emerging Technologies]] (IDS.900)
 - [[10-805j-technology-law-and-the-working-environment-spring-2006|Technology, Law, and the Working Environment]] (10.805J)
 - [[15-763j-manufacturing-system-and-supply-chain-design-spring-2005|Manufacturing System and Supply Chain Design]] (15.763J)

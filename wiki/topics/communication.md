@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21g-034-media-education-and-the-marketplace-fall-2005|Media Education and the Marketplace]] — 21G.034, Fall 2005
+- [[21g-711-advanced-spanish-conversation-and-composition-spring-2014|Advanced Spanish Conversation and Composition]] — 21G.711, Spring 2014
 - [[11-225-argumentation-and-communication-fall-2006|Argumentation and Communication]] — 11.225, Fall 2006
 - [[cms-361-networked-social-movements-media-mobilization-spring-2014|Networked Social Movements: Media & Mobilization]] — CMS.361, Spring 2014
 - [[21w-016-writing-and-rhetoric-designing-meaning-fall-2016|Writing and Rhetoric: Designing Meaning]] — 21W.016, Fall 2016

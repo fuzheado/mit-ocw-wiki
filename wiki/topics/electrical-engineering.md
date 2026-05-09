@@ -12,6 +12,18 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-263j-data-communication-networks-fall-2002|Data Communication Networks]] — 6.263J, Fall 2002
+- [[mas-632-conversational-computer-systems-fall-2008|Conversational Computer Systems]] — MAS.632, Fall 2008
+- [[6-642-continuum-electromechanics-fall-2008|Continuum Electromechanics]] — 6.642, Fall 2008
+- [[6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006|Transcribing Prosodic Structure of Spoken Utterances with ToBI]] — 6.911, January IAP 2006
+- [[6-071j-introduction-to-electronics-signals-and-measurement-spring-2006|Introduction to Electronics, Signals, and Measurement]] — 6.071J, Spring 2006
+- [[ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005|Internet Technology in Local and Global Communities]] — EC.S01, Spring 2005
+- [[22-081j-introduction-to-sustainable-energy-fall-2010|Introduction to Sustainable Energy]] — 22.081J, Fall 2010
+- [[18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002|Topics in Theoretical Computer Science : Internet Research Problems]] — 18.996, Spring 2002
+- [[18-327-wavelets-filter-banks-and-applications-spring-2003|Wavelets, Filter Banks and Applications]] — 18.327, Spring 2003
+- [[mas-622j-pattern-recognition-and-analysis-fall-2006|Pattern Recognition and Analysis]] — MAS.622J, Fall 2006
+- [[6-370-robocraft-programming-competition-january-iap-2005|Robocraft Programming Competition]] — 6.370, January IAP 2005
+- [[6-013-electromagnetics-and-applications-spring-2009|Electromagnetics and Applications]] — 6.013, Spring 2009
 - [[6-241j-dynamic-systems-and-control-spring-2011|Dynamic Systems and Control]] — 6.241J, Spring 2011
 - [[6-111-introductory-digital-systems-laboratory-fall-2002|Introductory Digital Systems Laboratory]] — 6.111, Fall 2002
 - [[6-186-mobile-autonomous-systems-laboratory-january-iap-2005|Mobile Autonomous Systems Laboratory]] — 6.186, January IAP 2005

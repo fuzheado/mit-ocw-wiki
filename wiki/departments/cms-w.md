@@ -12,6 +12,10 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[cms-633-digital-humanities-spring-2015|Digital Humanities]] (CMS.633)
+- [[res-cms-503-becoming-a-more-equitable-educator-mindsets-and-practices-spring-2020|Becoming a More Equitable Educator: Mindsets and Practices]] (RES.CMS-503)
+- [[21w-735-writing-and-reading-the-essay-fall-2005|Writing and Reading the Essay]] (21W.735)
+- [[cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019|Playful Augmented Reality Audio Design Exploration]] (CMS.S63)
 - [[21l-715-media-in-cultural-context-spring-2007|Media in Cultural Context]] (21L.715)
 - [[21w-742-writing-about-race-spring-2013|Writing About Race]] (21W.742)
 - [[cms-361-networked-social-movements-media-mobilization-spring-2014|Networked Social Movements: Media & Mobilization]] (CMS.361)

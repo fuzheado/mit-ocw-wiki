@@ -12,6 +12,13 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-810-dynamics-of-the-atmosphere-spring-2008|Dynamics of the Atmosphere]] — 12.810, Spring 2008
+- [[ec-720j-d-lab-ii-design-spring-2010|D-Lab II: Design]] — EC.720J, Spring 2010
+- [[12-740-paleoceanography-spring-2008|Paleoceanography]] — 12.740, Spring 2008
+- [[22-081j-introduction-to-sustainable-energy-fall-2010|Introduction to Sustainable Energy]] — 22.081J, Fall 2010
+- [[1-253j-transportation-policy-and-environmental-limits-spring-2004|Transportation Policy and Environmental Limits]] — 1.253J, Spring 2004
+- [[12-091-medical-geology-geochemistry-an-exposure-january-iap-2006|Medical Geology/Geochemistry: An Exposure]] — 12.091, January IAP 2006
+- [[wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017|Changing Life: Reading the Intersections of Gender, Race, Biology, and Literature]] — WGS.700, Spring 2017
 - [[12-163-surface-processes-and-landscape-evolution-fall-2004|Surface Processes and Landscape Evolution]] — 12.163, Fall 2004
 - [[12-086-modeling-environmental-complexity-fall-2014|Modeling Environmental Complexity]] — 12.086, Fall 2014
 - [[21a-429j-environmental-conflict-fall-2016|Environmental Conflict]] — 21A.429J, Fall 2016
