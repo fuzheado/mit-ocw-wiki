@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21w-021-writing-and-experience-mit-inside-live-fall-2013|Writing and Experience: MIT: Inside, Live]] — 21W.021, Fall 2013
+- [[res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017|Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft Kinect]] — RES.3-003, January IAP 2017
 - [[cms-407-media-and-methods-sound-fall-2012|Media and Methods: Sound]] — CMS.407, Fall 2012
 - [[21l-012-forms-of-western-narrative-spring-2004|Forms of Western Narrative]] — 21L.012, Spring 2004
 - [[21g-041-topics-in-south-asian-literature-and-culture-fall-2004|Topics in South Asian Literature and Culture]] — 21G.041, Fall 2004

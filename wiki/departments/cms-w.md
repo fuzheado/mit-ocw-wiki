@@ -12,6 +12,8 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21w-747-2-rhetoric-rhetoric-of-science-spring-2006|Rhetoric: Rhetoric of Science]] (21W.747-2)
+- [[21w-021-writing-and-experience-mit-inside-live-fall-2013|Writing and Experience: MIT: Inside, Live]] (21W.021)
 - [[21w-031-science-writing-and-new-media-explorations-in-communicating-about-science-technology-spring-2017|Science Writing and New Media: Explorations in Communicating about Science & Technology]] (21W.031)
 - [[cms-407-media-and-methods-sound-fall-2012|Media and Methods: Sound]] (CMS.407)
 - [[21w-747-rhetoric-spring-2005|Rhetoric]] (21W.747)

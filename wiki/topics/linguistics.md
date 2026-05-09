@@ -12,6 +12,10 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-964-topics-in-phonology-phonetic-realization-fall-2006|Topics in Phonology: Phonetic Realization]] — 24.964, Fall 2006
+- [[24-947-language-disorders-in-children-spring-2013|Language Disorders in Children]] — 24.947, Spring 2013
+- [[24-962-advanced-phonology-spring-2005|Advanced Phonology]] — 24.962, Spring 2005
+- [[6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005|Laboratory on the Physiology, Acoustics, and Perception of Speech]] — 6.542J, Fall 2005
 - [[mas-962-special-topics-in-media-technology-computational-semantics-fall-2002|Special Topics in Media Technology: Computational Semantics]] — MAS.962, Fall 2002
 - [[24-941j-the-lexicon-and-its-features-spring-2007|The Lexicon and Its Features]] — 24.941J, Spring 2007
 - [[24-901-language-and-its-structure-i-phonology-fall-2010|Language and Its Structure I: Phonology]] — 24.901, Fall 2010

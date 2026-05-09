@@ -12,6 +12,10 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-006-poverty-and-economic-security-fall-2016|Poverty and Economic Security]] — 11.006, Fall 2016
+- [[11-941-learning-by-comparison-first-world-third-world-cities-fall-2008|Learning by Comparison: First World/Third World Cities]] — 11.941, Fall 2008
+- [[res-11-001-cite-reports-fall-2015|CITE Reports]] — RES.11-001, Fall 2015
+- [[sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018|Energy, Environment, and Society: Global Politics, Technologies, and Ecologies of the Water-Energy-Food Crises]] — STS.032, Spring 2018
 - [[11-382-water-diplomacy-spring-2021|Water Diplomacy]] — 11.382, Spring 2021
 - [[21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008|Contemporary Literature: Literature, Development, and Human Rights]] — 21L.488, Spring 2008
 - [[4-s26-territory-spatial-reification-of-power-spring-2016|Territory: Spatial Reification of Power]] — 4.S26, Spring 2016

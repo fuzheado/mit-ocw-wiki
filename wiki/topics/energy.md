@@ -12,6 +12,9 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[15-031j-energy-decisions-markets-and-policies-spring-2012|Energy Decisions, Markets, and Policies]] — 15.031J, Spring 2012
+- [[res-2-006-girls-who-build-cameras-summer-2016|Girls Who Build Cameras]] — RES.2-006, Summer 2016
+- [[12-340x-global-warming-science-spring-2020|Global Warming Science]] — 12.340x, Spring 2020
 - [[2-500-desalination-and-water-purification-spring-2009|Desalination and Water Purification]] — 2.500, Spring 2009
 - [[6-691-seminar-in-electric-power-systems-spring-2006|Seminar in Electric Power Systems]] — 6.691, Spring 2006
 - [[22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015|Do-It-Yourself (DIY) Geiger Counters]] — 22.S902, January IAP 2015

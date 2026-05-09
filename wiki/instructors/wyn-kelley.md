@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21l-702-studies-in-fiction-rethinking-the-american-masterpiece-fall-2007|Studies in Fiction: Rethinking the American Masterpiece]]
 - [[21l-006-american-literature-spring-2013|American Literature]]
 - [[21l-709-ethnic-literature-in-america-spring-2017|Ethnic Literature in America]]
 - [[21l-421-comedy-spring-2008|Comedy]]

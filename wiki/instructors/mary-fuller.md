@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21l-707-writing-early-american-lives-gender-race-nation-faith-fall-2005|Writing Early American Lives: Gender, Race, Nation, Faith]]
 - [[21l-007-world-literatures-travel-writing-fall-2008|World Literatures: Travel Writing]]
 - [[21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008|Special Topics in Literature: Milton's "Paradise Lost"]]
 - [[21l-004-reading-poetry-spring-2018|Reading Poetry]]

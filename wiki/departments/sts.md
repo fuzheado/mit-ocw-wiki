@@ -12,6 +12,8 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[sts-462-social-and-political-implications-of-technology-spring-2006|Social and Political Implications of Technology]] (STS.462)
+- [[sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018|Energy, Environment, and Society: Global Politics, Technologies, and Ecologies of the Water-Energy-Food Crises]] (STS.032)
 - [[sts-460-histories-of-information-communication-and-computing-technologies-spring-2015|Histories of Information, Communication, and Computing Technologies]] (STS.460)
 - [[sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020|Einstein, Oppenheimer, Feynman: Physics in the 20th Century]] (STS.042J)
 - [[hst-930j-social-studies-of-bioscience-and-biotech-fall-2005|Social Studies of Bioscience and Biotech]] (HST.930J)

@@ -12,6 +12,8 @@ Part of: [[innovation-and-entrepreneurship|Innovation & Entrepreneurship]]
 
 ## Courses
 
+- [[15-389b-global-entrepreneurship-lab-latin-america-the-middle-east-and-africa-fall-2010|Global Entrepreneurship Lab: Latin America, the Middle East, and Africa]] — 15.389B, Fall 2010
+- [[mas-666-developmental-entrepreneurship-fall-2003|Developmental Entrepreneurship]] — MAS.666, Fall 2003
 - [[15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016|MBA Study Tour: Innovation Islands - How New Zealand Became A Global Player in the Race to Innovate]] — 15.228, Spring 2016
 - [[15-390-new-enterprises-spring-2013|New Enterprises]] — 15.390, Spring 2013
 - [[15-395-entrepreneurship-without-borders-fall-2016|Entrepreneurship Without Borders]] — 15.395, Fall 2016

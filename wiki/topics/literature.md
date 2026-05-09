@@ -12,6 +12,17 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-000j-writing-about-literature-writing-about-love-fall-2015|Writing About Literature: Writing About Love]] — 21L.000J, Fall 2015
+- [[es-269-passing-flexibility-in-race-and-gender-spring-2009|Passing: Flexibility in Race and Gender]] — ES.269, Spring 2009
+- [[21m-621-theater-and-cultural-diversity-in-the-u-s-spring-2008|Theater and Cultural Diversity in the U.S.]] — 21M.621, Spring 2008
+- [[21w-747-2-rhetoric-rhetoric-of-science-spring-2006|Rhetoric: Rhetoric of Science]] — 21W.747-2, Spring 2006
+- [[21h-105-american-classics-spring-2006|American Classics]] — 21H.105, Spring 2006
+- [[21l-707-writing-early-american-lives-gender-race-nation-faith-fall-2005|Writing Early American Lives: Gender, Race, Nation, Faith]] — 21L.707, Fall 2005
+- [[21w-021-writing-and-experience-mit-inside-live-fall-2013|Writing and Experience: MIT: Inside, Live]] — 21W.021, Fall 2013
+- [[21l-455-classical-literature-the-golden-age-of-augustan-rome-fall-2004|Classical Literature: The Golden Age of Augustan Rome]] — 21L.455, Fall 2004
+- [[21l-707-arthurian-literature-and-celtic-colonization-spring-2005|Arthurian Literature and Celtic Colonization]] — 21L.707, Spring 2005
+- [[21l-702-studies-in-fiction-rethinking-the-american-masterpiece-fall-2007|Studies in Fiction: Rethinking the American Masterpiece]] — 21L.702, Fall 2007
+- [[21l-017-the-art-of-the-probable-literature-and-probability-spring-2008|The Art of the Probable: Literature and Probability]] — 21L.017, Spring 2008
 - [[21w-031-science-writing-and-new-media-explorations-in-communicating-about-science-technology-spring-2017|Science Writing and New Media: Explorations in Communicating about Science & Technology]] — 21W.031, Spring 2017
 - [[24-264-film-as-visual-and-literary-mythmaking-fall-2005|Film as Visual and Literary Mythmaking]] — 24.264, Fall 2005
 - [[21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010|Foundations of Western Culture: The Making of the Modern World ]] — 21L.002, Spring 2010

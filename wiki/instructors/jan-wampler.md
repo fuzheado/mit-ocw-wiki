@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-307-beijing-urban-design-studio-summer-2006|Beijing Urban Design Studio]]
 - [[4-125b-architecture-studio-building-in-landscapes-fall-2005|Architecture Studio: Building in Landscapes]]
 - [[4-171-the-space-between-workshop-fall-2004|The Space Between Workshop]]
 - [[4-170-ecuador-workshop-fall-2006|Ecuador Workshop]]

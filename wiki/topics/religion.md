@@ -12,6 +12,7 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21h-914-jewish-history-from-biblical-to-modern-times-fall-2007|Jewish History from Biblical to Modern Times]] — 21H.914, Fall 2007
 - [[21h-411-history-of-western-thought-500-1300-fall-2004|History of Western Thought, 500-1300]] — 21H.411, Fall 2004
 - [[21l-458-the-bible-spring-2007|The Bible]] — 21L.458, Spring 2007
 - [[24-00-problems-of-philosophy-fall-2019|Problems of Philosophy]] — 24.00, Fall 2019

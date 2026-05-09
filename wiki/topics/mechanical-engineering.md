@@ -12,6 +12,12 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-050-solid-mechanics-fall-2004|Solid Mechanics]] — 1.050, Fall 2004
+- [[2-003sc-engineering-dynamics-fall-2011|Engineering Dynamics]] — 2.003SC, Fall 2011
+- [[mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003|Industrial Design Intelligence: A Cognitive Approach to Engineering]] — MAS.742, Fall 2003
+- [[16-810-engineering-design-and-rapid-prototyping-january-iap-2005|Engineering Design and Rapid Prototyping]] — 16.810, January IAP 2005
+- [[6-781j-submicrometer-and-nanometer-technology-spring-2006|Submicrometer and Nanometer Technology]] — 6.781J, Spring 2006
+- [[2-009-product-engineering-process-fall-2021|Product Engineering Process]] — 2.009, Fall 2021
 - [[12-864-inference-from-data-and-models-spring-2005|Inference from Data and Models]] — 12.864, Spring 2005
 - [[2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005|System Design and Analysis based on AD and Complexity Theories]] — 2.882, Spring 2005
 - [[2-086-numerical-computation-for-mechanical-engineers-fall-2014|Numerical Computation for Mechanical Engineers]] — 2.086, Fall 2014

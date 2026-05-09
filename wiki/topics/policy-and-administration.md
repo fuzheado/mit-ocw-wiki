@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[15-031j-energy-decisions-markets-and-policies-spring-2012|Energy Decisions, Markets, and Policies]] — 15.031J, Spring 2012
+- [[11-235-analyzing-projects-and-organizations-fall-2009|Analyzing Projects and Organizations]] — 11.235, Fall 2009
+- [[11-s945-urbanizing-china-a-reflective-dialogue-fall-2013|Urbanizing China: A Reflective Dialogue]] — 11.S945, Fall 2013
+- [[res-11-001-cite-reports-fall-2015|CITE Reports]] — RES.11-001, Fall 2015
+- [[sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018|Energy, Environment, and Society: Global Politics, Technologies, and Ecologies of the Water-Energy-Food Crises]] — STS.032, Spring 2018
 - [[11-370-brownfields-policy-and-practice-fall-2005|Brownfields Policy and Practice]] — 11.370, Fall 2005
 - [[14-42-environmental-policy-and-economics-spring-2011|Environmental Policy and Economics]] — 14.42, Spring 2011
 - [[11-954-community-owned-enterprise-and-civic-participation-spring-2005|Community-Owned Enterprise and Civic Participation]] — 11.954, Spring 2005

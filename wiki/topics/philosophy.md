@@ -12,6 +12,12 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-231-ethics-fall-2009|Ethics]] — 24.231, Fall 2009
+- [[9-911-reasonable-conduct-in-science-january-iap-2002|Reasonable Conduct in Science]] — 9.911, January IAP 2002
+- [[9-69-foundations-of-cognition-spring-2003|Foundations of Cognition]] — 9.69, Spring 2003
+- [[24-08j-philosophical-issues-in-brain-science-spring-2009|Philosophical Issues in Brain Science]] — 24.08J, Spring 2009
+- [[21l-455-classical-literature-the-golden-age-of-augustan-rome-fall-2004|Classical Literature: The Golden Age of Augustan Rome]] — 21L.455, Fall 2004
+- [[24-241-logic-i-fall-2009|Logic I]] — 24.241, Fall 2009
 - [[24-264-film-as-visual-and-literary-mythmaking-fall-2005|Film as Visual and Literary Mythmaking]] — 24.264, Fall 2005
 - [[21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010|Foundations of Western Culture: The Making of the Modern World ]] — 21L.002, Spring 2010
 - [[21g-059-european-thought-and-culture-spring-2008|European Thought and Culture]] — 21G.059, Spring 2008

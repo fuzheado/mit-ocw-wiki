@@ -12,6 +12,10 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[hst-723j-neural-coding-and-perception-of-sound-spring-2005|Neural Coding and Perception of Sound]] — HST.723J, Spring 2005
+- [[16-430j-sensory-neural-systems-spatial-orientation-from-end-organs-to-behavior-and-adaptation-spring-2012|Sensory-Neural Systems: Spatial Orientation from End Organs to Behavior and Adaptation]] — 16.430J, Spring 2012
+- [[9-71-functional-mri-of-high-level-vision-fall-2007|Functional MRI of High-Level Vision]] — 9.71, Fall 2007
+- [[9-912-special-topics-in-brain-and-cognitive-sciences-fall-2001|Special Topics in Brain and Cognitive Sciences]] — 9.912, Fall 2001
 - [[9-14-brain-structure-and-its-origins-spring-2014|Brain Structure and Its Origins]] — 9.14, Spring 2014
 - [[9-01-neuroscience-and-behavior-fall-2003|Neuroscience and Behavior]] — 9.01, Fall 2003
 - [[7-29j-cellular-neurobiology-spring-2012|Cellular Neurobiology]] — 7.29J, Spring 2012

@@ -12,6 +12,9 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-004-computation-structures-spring-2009|Computation Structures]] — 6.004, Spring 2009
+- [[6-035-computer-language-engineering-sma-5502-fall-2005|Computer Language Engineering (SMA 5502)]] — 6.035, Fall 2005
+- [[res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017|Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft Kinect]] — RES.3-003, January IAP 2017
 - [[6-111-introductory-digital-systems-laboratory-spring-2006|Introductory Digital Systems Laboratory]] — 6.111, Spring 2006
 - [[6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005|Building Programming Experience: A Lead-In to 6.001]] — 6.090, January IAP 2005
 - [[hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020|Global Health Informatics to Improve Quality of Care]] — HST.936x, Spring 2020

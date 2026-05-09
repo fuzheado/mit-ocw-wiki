@@ -25,6 +25,35 @@ courses_count: 0
 
 ## Courses
 
+- [[16-30-feedback-control-systems-fall-2010|Feedback Control Systems]] — 16.30, Fall 2010
+- [[6-875-cryptography-and-cryptanalysis-spring-2005|Cryptography and Cryptanalysis]] — 6.875, Spring 2005
+- [[2-717j-optical-engineering-spring-2002|Optical Engineering]] — 2.717J, Spring 2002
+- [[6-004-computation-structures-spring-2009|Computation Structures]] — 6.004, Spring 2009
+- [[15-561-information-technology-essentials-spring-2005|Information Technology Essentials]] — 15.561, Spring 2005
+- [[16-430j-sensory-neural-systems-spatial-orientation-from-end-organs-to-behavior-and-adaptation-spring-2012|Sensory-Neural Systems: Spatial Orientation from End Organs to Behavior and Adaptation]] — 16.430J, Spring 2012
+- [[1-050-solid-mechanics-fall-2004|Solid Mechanics]] — 1.050, Fall 2004
+- [[1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005|An Introduction to Intelligent Transportation Systems]] — 1.212J, Spring 2005
+- [[10-34-numerical-methods-applied-to-chemical-engineering-fall-2015|Numerical Methods Applied to Chemical Engineering]] — 10.34, Fall 2015
+- [[2-003sc-engineering-dynamics-fall-2011|Engineering Dynamics]] — 2.003SC, Fall 2011
+- [[6-045j-automata-computability-and-complexity-spring-2011|Automata, Computability, and Complexity]] — 6.045J, Spring 2011
+- [[res-2-006-girls-who-build-cameras-summer-2016|Girls Who Build Cameras]] — RES.2-006, Summer 2016
+- [[mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003|Industrial Design Intelligence: A Cognitive Approach to Engineering]] — MAS.742, Fall 2003
+- [[mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001|Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context]] — MAS.963, Fall 2001
+- [[6-035-computer-language-engineering-sma-5502-fall-2005|Computer Language Engineering (SMA 5502)]] — 6.035, Fall 2005
+- [[16-810-engineering-design-and-rapid-prototyping-january-iap-2005|Engineering Design and Rapid Prototyping]] — 16.810, January IAP 2005
+- [[es-268-the-mathematics-in-toys-and-games-spring-2010|The Mathematics in Toys and Games]] — ES.268, Spring 2010
+- [[6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010|Probabilistic Systems Analysis and Applied Probability]] — 6.041, Fall 2010
+- [[11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001|Special Studies in Urban Studies and Planning - The Cardener River Corridor Workshop]] — 11.943, Fall 2001
+- [[17-914-international-politics-in-the-new-century-via-simulation-interactive-gaming-and-edutainment-january-iap-2005|International Politics in the New Century - via Simulation, Interactive Gaming, and  'Edutainment']] — 17.914, January IAP 2005
+- [[1-221j-transportation-systems-fall-2004|Transportation Systems]] — 1.221J, Fall 2004
+- [[esd-00-introduction-to-engineering-systems-spring-2011|Introduction to Engineering Systems]] — ESD.00, Spring 2011
+- [[6-781j-submicrometer-and-nanometer-technology-spring-2006|Submicrometer and Nanometer Technology]] — 6.781J, Spring 2006
+- [[6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005|Laboratory on the Physiology, Acoustics, and Perception of Speech]] — 6.542J, Fall 2005
+- [[res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017|Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft Kinect]] — RES.3-003, January IAP 2017
+- [[hst-951j-medical-decision-support-fall-2005|Medical Decision Support]] — HST.951J, Fall 2005
+- [[6-061-introduction-to-electric-power-systems-spring-2011|Introduction to Electric Power Systems]] — 6.061, Spring 2011
+- [[6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006|Algebraic Techniques and Semidefinite Optimization]] — 6.972, Spring 2006
+- [[2-009-product-engineering-process-fall-2021|Product Engineering Process]] — 2.009, Fall 2021
 - [[16-422-human-supervisory-control-of-automated-systems-spring-2004|Human Supervisory Control of Automated Systems]] — 16.422, Spring 2004
 - [[1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003|Strategic Management in the Design and Construction Value Chain]] — 1.46, Fall 2003
 - [[6-111-introductory-digital-systems-laboratory-spring-2006|Introductory Digital Systems Laboratory]] — 6.111, Spring 2006

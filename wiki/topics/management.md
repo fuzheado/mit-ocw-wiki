@@ -12,6 +12,8 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-912-technology-strategy-fall-2008|Technology Strategy]] — 15.912, Fall 2008
+- [[15-229-managing-global-integration-spring-2012|Managing Global Integration]] — 15.229, Spring 2012
 - [[15-071-the-analytics-edge-spring-2017|The Analytics Edge]] — 15.071, Spring 2017
 - [[15-676-work-employment-and-industrial-relations-theory-spring-2008|Work, Employment, and Industrial Relations Theory]] — 15.676, Spring 2008
 - [[15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016|MBA Study Tour: Innovation Islands - How New Zealand Became A Global Player in the Race to Innovate]] — 15.228, Spring 2016

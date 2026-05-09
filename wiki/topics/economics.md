@@ -12,6 +12,13 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[15-031j-energy-decisions-markets-and-policies-spring-2012|Energy Decisions, Markets, and Policies]] — 15.031J, Spring 2012
+- [[15-389b-global-entrepreneurship-lab-latin-america-the-middle-east-and-africa-fall-2010|Global Entrepreneurship Lab: Latin America, the Middle East, and Africa]] — 15.389B, Fall 2010
+- [[11-s945-urbanizing-china-a-reflective-dialogue-fall-2013|Urbanizing China: A Reflective Dialogue]] — 11.S945, Fall 2013
+- [[15-010-economic-analysis-for-business-decisions-fall-2004|Economic Analysis for Business Decisions]] — 15.010, Fall 2004
+- [[es-268-the-mathematics-in-toys-and-games-spring-2010|The Mathematics in Toys and Games]] — ES.268, Spring 2010
+- [[11-307-beijing-urban-design-studio-summer-2006|Beijing Urban Design Studio]] — 11.307, Summer 2006
+- [[mas-666-developmental-entrepreneurship-fall-2003|Developmental Entrepreneurship]] — MAS.666, Fall 2003
 - [[hst-930j-social-studies-of-bioscience-and-biotech-fall-2005|Social Studies of Bioscience and Biotech]] — HST.930J, Fall 2005
 - [[14-42-environmental-policy-and-economics-spring-2011|Environmental Policy and Economics]] — 14.42, Spring 2011
 - [[15-012-applied-macro-and-international-economics-spring-2011|Applied Macro- and International Economics]] — 15.012, Spring 2011

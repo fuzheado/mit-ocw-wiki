@@ -12,6 +12,11 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-004-computation-structures-spring-2009|Computation Structures]] — 6.004, Spring 2009
+- [[mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003|Industrial Design Intelligence: A Cognitive Approach to Engineering]] — MAS.742, Fall 2003
+- [[6-781j-submicrometer-and-nanometer-technology-spring-2006|Submicrometer and Nanometer Technology]] — 6.781J, Spring 2006
+- [[6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005|Laboratory on the Physiology, Acoustics, and Perception of Speech]] — 6.542J, Fall 2005
+- [[6-061-introduction-to-electric-power-systems-spring-2011|Introduction to Electric Power Systems]] — 6.061, Spring 2011
 - [[16-422-human-supervisory-control-of-automated-systems-spring-2004|Human Supervisory Control of Automated Systems]] — 16.422, Spring 2004
 - [[6-111-introductory-digital-systems-laboratory-spring-2006|Introductory Digital Systems Laboratory]] — 6.111, Spring 2006
 - [[6-163-strobe-project-laboratory-fall-2005|Strobe Project Laboratory]] — 6.163, Fall 2005

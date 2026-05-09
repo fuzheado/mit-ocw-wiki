@@ -12,6 +12,10 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[2-717j-optical-engineering-spring-2002|Optical Engineering]] — 2.717J, Spring 2002
+- [[16-810-engineering-design-and-rapid-prototyping-january-iap-2005|Engineering Design and Rapid Prototyping]] — 16.810, January IAP 2005
+- [[6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006|Algebraic Techniques and Semidefinite Optimization]] — 6.972, Spring 2006
+- [[2-009-product-engineering-process-fall-2021|Product Engineering Process]] — 2.009, Fall 2021
 - [[15-875-applications-of-system-dynamics-spring-2004|Applications of System Dynamics]] — 15.875, Spring 2004
 - [[2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005|System Design and Analysis based on AD and Complexity Theories]] — 2.882, Spring 2005
 - [[6-079-introduction-to-convex-optimization-fall-2009|Introduction to Convex Optimization]] — 6.079, Fall 2009

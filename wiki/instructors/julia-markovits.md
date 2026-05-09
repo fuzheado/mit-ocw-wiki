@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[24-231-ethics-fall-2009|Ethics]]
 - [[24-235j-philosophy-of-law-spring-2012|Philosophy of Law]]

@@ -12,6 +12,7 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[9-71-functional-mri-of-high-level-vision-fall-2007|Functional MRI of High-Level Vision]] — 9.71, Fall 2007
 - [[mas-s63-engineering-health-towards-the-tricorder-fall-2013|Engineering Health: Towards the Tricorder]] — MAS.S63, Fall 2013
 - [[hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008|Functional Magnetic Resonance Imaging: Data Acquisition and Analysis]] — HST.583, Fall 2008
 - [[res-9-006-afni-training-bootcamp-spring-2018|AFNI Training Bootcamp]] — RES.9-006, Spring 2018

@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-010-economic-analysis-for-business-decisions-fall-2004|Economic Analysis for Business Decisions]] — 15.010, Fall 2004
+- [[1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004|E-Commerce and the Internet in Real Estate and Construction]] — 1.464, Spring 2004
+- [[15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003|Information Technology as an Integrating Force in Manufacturing]] — 15.566, Spring 2003
 - [[1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003|Strategic Management in the Design and Construction Value Chain]] — 1.46, Fall 2003
 - [[15-071-the-analytics-edge-spring-2017|The Analytics Edge]] — 15.071, Spring 2017
 - [[15-875-applications-of-system-dynamics-spring-2004|Applications of System Dynamics]] — 15.875, Spring 2004

@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[16-810-engineering-design-and-rapid-prototyping-january-iap-2005|Engineering Design and Rapid Prototyping]]
 - [[esd-36-system-project-management-fall-2012|System Project Management]]
 - [[16-89j-space-systems-engineering-spring-2007|Space Systems Engineering]]
 - [[ids-338j-multidisciplinary-system-design-optimization-spring-2010|Multidisciplinary System Design Optimization]]

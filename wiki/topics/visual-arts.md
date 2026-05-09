@@ -12,6 +12,7 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[es-333-producing-educational-videos-spring-2015|Producing Educational Videos]] — ES.333, Spring 2015
 - [[24-264-film-as-visual-and-literary-mythmaking-fall-2005|Film as Visual and Literary Mythmaking]] — 24.264, Fall 2005
 - [[6-163-strobe-project-laboratory-fall-2005|Strobe Project Laboratory]] — 6.163, Fall 2005
 - [[es-298-art-of-color-spring-2005|Art of Color]] — ES.298, Spring 2005

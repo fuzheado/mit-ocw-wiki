@@ -12,6 +12,14 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-717j-optical-engineering-spring-2002|Optical Engineering]] — 2.717J, Spring 2002
+- [[10-34-numerical-methods-applied-to-chemical-engineering-fall-2015|Numerical Methods Applied to Chemical Engineering]] — 10.34, Fall 2015
+- [[16-810-engineering-design-and-rapid-prototyping-january-iap-2005|Engineering Design and Rapid Prototyping]] — 16.810, January IAP 2005
+- [[6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010|Probabilistic Systems Analysis and Applied Probability]] — 6.041, Fall 2010
+- [[17-914-international-politics-in-the-new-century-via-simulation-interactive-gaming-and-edutainment-january-iap-2005|International Politics in the New Century - via Simulation, Interactive Gaming, and  'Edutainment']] — 17.914, January IAP 2005
+- [[esd-00-introduction-to-engineering-systems-spring-2011|Introduction to Engineering Systems]] — ESD.00, Spring 2011
+- [[6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006|Algebraic Techniques and Semidefinite Optimization]] — 6.972, Spring 2006
+- [[2-009-product-engineering-process-fall-2021|Product Engineering Process]] — 2.009, Fall 2021
 - [[15-875-applications-of-system-dynamics-spring-2004|Applications of System Dynamics]] — 15.875, Spring 2004
 - [[2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005|System Design and Analysis based on AD and Complexity Theories]] — 2.882, Spring 2005
 - [[4-500-introduction-to-design-computing-fall-2008|Introduction to Design Computing]] — 4.500, Fall 2008

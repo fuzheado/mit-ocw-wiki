@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[es-268-the-mathematics-in-toys-and-games-spring-2010|The Mathematics in Toys and Games]]
 - [[6-006-introduction-to-algorithms-spring-2008|Introduction to Algorithms]]
 - [[6-046j-design-and-analysis-of-algorithms-spring-2015|Design and Analysis of Algorithms]]
 - [[6-006-introduction-to-algorithms-spring-2020|Introduction to Algorithms]]

@@ -12,6 +12,7 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21w-747-2-rhetoric-rhetoric-of-science-spring-2006|Rhetoric: Rhetoric of Science]] — 21W.747-2, Spring 2006
 - [[sts-460-histories-of-information-communication-and-computing-technologies-spring-2015|Histories of Information, Communication, and Computing Technologies]] — STS.460, Spring 2015
 - [[wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016|Gender & Media: Collaborations in Feminism and Technology]] — WGS.111, Spring 2016
 - [[21w-747-rhetoric-spring-2005|Rhetoric]] — 21W.747, Spring 2005

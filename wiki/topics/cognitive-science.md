@@ -12,6 +12,15 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[hst-723j-neural-coding-and-perception-of-sound-spring-2005|Neural Coding and Perception of Sound]] — HST.723J, Spring 2005
+- [[9-00-introduction-to-psychology-fall-2004|Introduction to Psychology]] — 9.00, Fall 2004
+- [[9-00sc-introduction-to-psychology-fall-2011|Introduction to Psychology]] — 9.00SC, Fall 2011
+- [[mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003|Industrial Design Intelligence: A Cognitive Approach to Engineering]] — MAS.742, Fall 2003
+- [[9-911-reasonable-conduct-in-science-january-iap-2002|Reasonable Conduct in Science]] — 9.911, January IAP 2002
+- [[9-69-foundations-of-cognition-spring-2003|Foundations of Cognition]] — 9.69, Spring 2003
+- [[mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001|Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context]] — MAS.963, Fall 2001
+- [[24-08j-philosophical-issues-in-brain-science-spring-2009|Philosophical Issues in Brain Science]] — 24.08J, Spring 2009
+- [[9-912-special-topics-in-brain-and-cognitive-sciences-fall-2001|Special Topics in Brain and Cognitive Sciences]] — 9.912, Fall 2001
 - [[16-422-human-supervisory-control-of-automated-systems-spring-2004|Human Supervisory Control of Automated Systems]] — 16.422, Spring 2004
 - [[9-14-brain-structure-and-its-origins-spring-2014|Brain Structure and Its Origins]] — 9.14, Spring 2014
 - [[9-01-neuroscience-and-behavior-fall-2003|Neuroscience and Behavior]] — 9.01, Fall 2003

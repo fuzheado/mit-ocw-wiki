@@ -12,6 +12,10 @@ School: [[school-architecture-planning|School of Architecture and Planning]]
 
 ## Courses
 
+- [[2-717j-optical-engineering-spring-2002|Optical Engineering]] (2.717J)
+- [[mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003|Industrial Design Intelligence: A Cognitive Approach to Engineering]] (MAS.742)
+- [[mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001|Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context]] (MAS.963)
+- [[mas-666-developmental-entrepreneurship-fall-2003|Developmental Entrepreneurship]] (MAS.666)
 - [[mas-966-digital-anthropology-spring-2003|Digital Anthropology]] (MAS.966)
 - [[mas-962-special-topics-in-media-technology-computational-semantics-fall-2002|Special Topics in Media Technology: Computational Semantics]] (MAS.962)
 - [[mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003|Special Topics in Media Technology: Cooperative Machines]] (MAS.965)

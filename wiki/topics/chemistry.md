@@ -12,6 +12,8 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[5-05-principles-of-inorganic-chemistry-iii-spring-2005|Principles of Inorganic Chemistry III]] — 5.05, Spring 2005
+- [[5-43-advanced-organic-chemistry-spring-2007|Advanced Organic Chemistry]] — 5.43, Spring 2007
 - [[10-520-molecular-aspects-of-chemical-engineering-fall-2004|Molecular Aspects of Chemical Engineering]] — 10.520, Fall 2004
 - [[12-335-experimental-atmospheric-chemistry-fall-2014|Experimental Atmospheric Chemistry]] — 12.335, Fall 2014
 - [[20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004|Statistical Thermodynamics of Biomolecular Systems (BE.011J)]] — 20.011J, Spring 2004

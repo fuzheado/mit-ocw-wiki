@@ -12,6 +12,11 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-007-geobiology-spring-2013|Geobiology]] — 12.007, Spring 2013
+- [[12-006j-nonlinear-dynamics-chaos-fall-2022|Nonlinear Dynamics: Chaos]] — 12.006J, Fall 2022
+- [[12-340x-global-warming-science-spring-2020|Global Warming Science]] — 12.340x, Spring 2020
+- [[11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001|Special Studies in Urban Studies and Planning - The Cardener River Corridor Workshop]] — 11.943, Fall 2001
+- [[12-110-sedimentary-geology-spring-2007|Sedimentary Geology]] — 12.110, Spring 2007
 - [[2-500-desalination-and-water-purification-spring-2009|Desalination and Water Purification]] — 2.500, Spring 2009
 - [[14-42-environmental-policy-and-economics-spring-2011|Environmental Policy and Economics]] — 14.42, Spring 2011
 - [[12-335-experimental-atmospheric-chemistry-fall-2014|Experimental Atmospheric Chemistry]] — 12.335, Fall 2014

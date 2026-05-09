@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-050-solid-mechanics-fall-2004|Solid Mechanics]] — 1.050, Fall 2004
 - [[3-003-principles-of-engineering-practice-spring-2010|Principles of Engineering Practice]] — 3.003, Spring 2010
 - [[3-15-electrical-optical-magnetic-materials-and-devices-fall-2006|Electrical, Optical & Magnetic Materials and Devices]] — 3.15, Fall 2006
 - [[2-800-tribology-fall-2004|Tribology]] — 2.800, Fall 2004

@@ -12,6 +12,16 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[sts-462-social-and-political-implications-of-technology-spring-2006|Social and Political Implications of Technology]] — STS.462, Spring 2006
+- [[es-269-passing-flexibility-in-race-and-gender-spring-2009|Passing: Flexibility in Race and Gender]] — ES.269, Spring 2009
+- [[11-235-analyzing-projects-and-organizations-fall-2009|Analyzing Projects and Organizations]] — 11.235, Fall 2009
+- [[4-241j-theory-of-city-form-spring-2013|Theory of City Form]] — 4.241J, Spring 2013
+- [[21h-365-cultural-pluralism-in-modern-middle-east-spring-2014|Cultural Pluralism in Modern Middle East]] — 21H.365, Spring 2014
+- [[11-006-poverty-and-economic-security-fall-2016|Poverty and Economic Security]] — 11.006, Fall 2016
+- [[17-433-international-relations-of-east-asia-spring-2011|International Relations of East Asia]] — 17.433, Spring 2011
+- [[21l-707-writing-early-american-lives-gender-race-nation-faith-fall-2005|Writing Early American Lives: Gender, Race, Nation, Faith]] — 21L.707, Fall 2005
+- [[11-941-learning-by-comparison-first-world-third-world-cities-fall-2008|Learning by Comparison: First World/Third World Cities]] — 11.941, Fall 2008
+- [[11-312-engaging-community-models-and-methods-for-designers-and-planners-spring-2020|Engaging Community: Models and Methods for Designers and Planners]] — 11.312, Spring 2020
 - [[11-954-community-owned-enterprise-and-civic-participation-spring-2005|Community-Owned Enterprise and Civic Participation]] — 11.954, Spring 2005
 - [[21g-017-germany-and-its-european-context-fall-2002|Germany and its European Context]] — 21G.017, Fall 2002
 - [[21g-041-topics-in-south-asian-literature-and-culture-fall-2004|Topics in South Asian Literature and Culture]] — 21G.041, Fall 2004

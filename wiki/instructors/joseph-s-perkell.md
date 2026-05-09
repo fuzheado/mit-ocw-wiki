@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005|Laboratory on the Physiology, Acoustics, and Perception of Speech]]
 - [[hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005|Brain Mechanisms for Hearing and Speech]]

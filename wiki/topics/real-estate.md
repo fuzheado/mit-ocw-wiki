@@ -12,6 +12,7 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004|E-Commerce and the Internet in Real Estate and Construction]] — 1.464, Spring 2004
 - [[11-433j-real-estate-economics-fall-2008|Real Estate Economics]] — 11.433J, Fall 2008
 - [[11-467j-property-rights-in-transition-spring-2005|Property Rights in Transition]] — 11.467J, Spring 2005
 - [[11-432j-real-estate-capital-markets-spring-2007|Real Estate Capital Markets]] — 11.432J, Spring 2007

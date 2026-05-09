@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21m-621-theater-and-cultural-diversity-in-the-u-s-spring-2008|Theater and Cultural Diversity in the U.S.]] — 21M.621, Spring 2008
+- [[21m-734-lighting-design-for-the-theatre-fall-2003|Lighting Design for the Theatre]] — 21M.734, Fall 2003
 - [[21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003|English Renaissance Drama: Theatre and Society in the Age of Shakespeare]] — 21L.703, Fall 2003
 - [[21m-715-the-craft-of-costume-design-fall-2009|The Craft of Costume Design]] — 21M.715, Fall 2009
 - [[21m-710-script-analysis-fall-2005|Script Analysis]] — 21M.710, Fall 2005

@@ -12,6 +12,14 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[sts-462-social-and-political-implications-of-technology-spring-2006|Social and Political Implications of Technology]] — STS.462, Spring 2006
+- [[21h-914-jewish-history-from-biblical-to-modern-times-fall-2007|Jewish History from Biblical to Modern Times]] — 21H.914, Fall 2007
+- [[21h-105-american-classics-spring-2006|American Classics]] — 21H.105, Spring 2006
+- [[21h-365-cultural-pluralism-in-modern-middle-east-spring-2014|Cultural Pluralism in Modern Middle East]] — 21H.365, Spring 2014
+- [[17-433-international-relations-of-east-asia-spring-2011|International Relations of East Asia]] — 17.433, Spring 2011
+- [[21l-455-classical-literature-the-golden-age-of-augustan-rome-fall-2004|Classical Literature: The Golden Age of Augustan Rome]] — 21L.455, Fall 2004
+- [[21l-707-arthurian-literature-and-celtic-colonization-spring-2005|Arthurian Literature and Celtic Colonization]] — 21L.707, Spring 2005
+- [[21l-017-the-art-of-the-probable-literature-and-probability-spring-2008|The Art of the Probable: Literature and Probability]] — 21L.017, Spring 2008
 - [[sts-460-histories-of-information-communication-and-computing-technologies-spring-2015|Histories of Information, Communication, and Computing Technologies]] — STS.460, Spring 2015
 - [[sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020|Einstein, Oppenheimer, Feynman: Physics in the 20th Century]] — STS.042J, Fall 2020
 - [[17-581-riots-rebellions-revolutions-spring-2013|Riots, Rebellions, Revolutions]] — 17.581, Spring 2013

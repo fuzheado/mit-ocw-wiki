@@ -1,0 +1,11 @@
+---
+name: "Dr. Charles M. Oman"
+type: instructor
+courses_count: 1
+---
+
+# Dr. Charles M. Oman
+
+## Courses Taught at MIT
+
+- [[16-430j-sensory-neural-systems-spatial-orientation-from-end-organs-to-behavior-and-adaptation-spring-2012|Sensory-Neural Systems: Spatial Orientation from End Organs to Behavior and Adaptation]]

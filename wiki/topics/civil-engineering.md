@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005|An Introduction to Intelligent Transportation Systems]] — 1.212J, Spring 2005
+- [[1-221j-transportation-systems-fall-2004|Transportation Systems]] — 1.221J, Fall 2004
 - [[1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003|Strategic Management in the Design and Construction Value Chain]] — 1.46, Fall 2003
 - [[1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006|Introduction to Civil and Environmental Engineering Design I]] — 1.101, Fall 2006
 - [[1-151-probability-and-statistics-in-engineering-spring-2005|Probability and Statistics in Engineering]] — 1.151, Spring 2005

@@ -12,6 +12,7 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21m-621-theater-and-cultural-diversity-in-the-u-s-spring-2008|Theater and Cultural Diversity in the U.S.]] (21M.621)
 - [[wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016|Gender & Media: Collaborations in Feminism and Technology]] (WGS.111)
 - [[wgs-225-science-and-race-sex-and-gender-spring-2023|Science of Race, Sex, and Gender]] (WGS.225J)
 - [[wgs-115-gender-and-technology-spring-2013|Gender and Technology]] (WGS.115)

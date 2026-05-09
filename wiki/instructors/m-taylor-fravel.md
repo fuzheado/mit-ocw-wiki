@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[17-433-international-relations-of-east-asia-spring-2011|International Relations of East Asia]]
 - [[17-418-field-seminar-international-relations-theory-fall-2011|Field Seminar: International Relations Theory]]
 - [[17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009|Chinese Foreign Policy: International Relations and Strategy]]
 - [[17-408-chinese-foreign-policy-fall-2013|Chinese Foreign Policy]]

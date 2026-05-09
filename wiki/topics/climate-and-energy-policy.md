@@ -12,6 +12,8 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[11-s945-urbanizing-china-a-reflective-dialogue-fall-2013|Urbanizing China: A Reflective Dialogue]] — 11.S945, Fall 2013
+- [[sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018|Energy, Environment, and Society: Global Politics, Technologies, and Ecologies of the Water-Energy-Food Crises]] — STS.032, Spring 2018
 - [[14-42-environmental-policy-and-economics-spring-2011|Environmental Policy and Economics]] — 14.42, Spring 2011
 - [[11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003|Use of Joint Fact Finding in Science Intensive Policy Disputes, Part I]] — 11.941, Fall 2003
 - [[11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004|Use of Joint Fact Finding in Science Intensive Policy Disputes, Part II]] — 11.942, Spring 2004

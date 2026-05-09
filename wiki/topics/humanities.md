@@ -20,6 +20,30 @@ courses_count: 0
 
 ## Courses
 
+- [[sts-462-social-and-political-implications-of-technology-spring-2006|Social and Political Implications of Technology]] — STS.462, Spring 2006
+- [[21l-000j-writing-about-literature-writing-about-love-fall-2015|Writing About Literature: Writing About Love]] — 21L.000J, Fall 2015
+- [[es-269-passing-flexibility-in-race-and-gender-spring-2009|Passing: Flexibility in Race and Gender]] — ES.269, Spring 2009
+- [[21h-914-jewish-history-from-biblical-to-modern-times-fall-2007|Jewish History from Biblical to Modern Times]] — 21H.914, Fall 2007
+- [[24-964-topics-in-phonology-phonetic-realization-fall-2006|Topics in Phonology: Phonetic Realization]] — 24.964, Fall 2006
+- [[21m-621-theater-and-cultural-diversity-in-the-u-s-spring-2008|Theater and Cultural Diversity in the U.S.]] — 21M.621, Spring 2008
+- [[24-231-ethics-fall-2009|Ethics]] — 24.231, Fall 2009
+- [[21w-747-2-rhetoric-rhetoric-of-science-spring-2006|Rhetoric: Rhetoric of Science]] — 21W.747-2, Spring 2006
+- [[9-911-reasonable-conduct-in-science-january-iap-2002|Reasonable Conduct in Science]] — 9.911, January IAP 2002
+- [[9-69-foundations-of-cognition-spring-2003|Foundations of Cognition]] — 9.69, Spring 2003
+- [[24-947-language-disorders-in-children-spring-2013|Language Disorders in Children]] — 24.947, Spring 2013
+- [[21h-105-american-classics-spring-2006|American Classics]] — 21H.105, Spring 2006
+- [[21h-365-cultural-pluralism-in-modern-middle-east-spring-2014|Cultural Pluralism in Modern Middle East]] — 21H.365, Spring 2014
+- [[17-433-international-relations-of-east-asia-spring-2011|International Relations of East Asia]] — 17.433, Spring 2011
+- [[21l-707-writing-early-american-lives-gender-race-nation-faith-fall-2005|Writing Early American Lives: Gender, Race, Nation, Faith]] — 21L.707, Fall 2005
+- [[24-08j-philosophical-issues-in-brain-science-spring-2009|Philosophical Issues in Brain Science]] — 24.08J, Spring 2009
+- [[21w-021-writing-and-experience-mit-inside-live-fall-2013|Writing and Experience: MIT: Inside, Live]] — 21W.021, Fall 2013
+- [[24-962-advanced-phonology-spring-2005|Advanced Phonology]] — 24.962, Spring 2005
+- [[6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005|Laboratory on the Physiology, Acoustics, and Perception of Speech]] — 6.542J, Fall 2005
+- [[21l-455-classical-literature-the-golden-age-of-augustan-rome-fall-2004|Classical Literature: The Golden Age of Augustan Rome]] — 21L.455, Fall 2004
+- [[21l-707-arthurian-literature-and-celtic-colonization-spring-2005|Arthurian Literature and Celtic Colonization]] — 21L.707, Spring 2005
+- [[21l-702-studies-in-fiction-rethinking-the-american-masterpiece-fall-2007|Studies in Fiction: Rethinking the American Masterpiece]] — 21L.702, Fall 2007
+- [[24-241-logic-i-fall-2009|Logic I]] — 24.241, Fall 2009
+- [[21l-017-the-art-of-the-probable-literature-and-probability-spring-2008|The Art of the Probable: Literature and Probability]] — 21L.017, Spring 2008
 - [[21w-031-science-writing-and-new-media-explorations-in-communicating-about-science-technology-spring-2017|Science Writing and New Media: Explorations in Communicating about Science & Technology]] — 21W.031, Spring 2017
 - [[sts-460-histories-of-information-communication-and-computing-technologies-spring-2015|Histories of Information, Communication, and Computing Technologies]] — STS.460, Spring 2015
 - [[24-264-film-as-visual-and-literary-mythmaking-fall-2005|Film as Visual and Literary Mythmaking]] — 24.264, Fall 2005

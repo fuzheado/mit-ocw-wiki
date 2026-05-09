@@ -2,6 +2,8 @@
 
 ## Courses
 
+- [[17-914-international-politics-in-the-new-century-via-simulation-interactive-gaming-and-edutainment-january-iap-2005|International Politics in the New Century - via Simulation, Interactive Gaming, and  'Edutainment']] — 17.914, January IAP 2005
+- [[res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017|Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft Kinect]] — RES.3-003, January IAP 2017
 - [[4-500-introduction-to-design-computing-fall-2008|Introduction to Design Computing]] — 4.500, Fall 2008
 - [[6-801-machine-vision-fall-2020|Machine Vision]] — 6.801, Fall 2020
 - [[9-357-special-topics-in-vision-science-fall-2001|Special Topics in Vision Science]] — 9.357, Fall 2001

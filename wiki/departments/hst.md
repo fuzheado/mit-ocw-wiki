@@ -12,6 +12,10 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[hst-723j-neural-coding-and-perception-of-sound-spring-2005|Neural Coding and Perception of Sound]] (HST.723J)
+- [[16-430j-sensory-neural-systems-spatial-orientation-from-end-organs-to-behavior-and-adaptation-spring-2012|Sensory-Neural Systems: Spatial Orientation from End Organs to Behavior and Adaptation]] (16.430J)
+- [[6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005|Laboratory on the Physiology, Acoustics, and Perception of Speech]] (6.542J)
+- [[hst-951j-medical-decision-support-fall-2005|Medical Decision Support]] (HST.951J)
 - [[hst-930j-social-studies-of-bioscience-and-biotech-fall-2005|Social Studies of Bioscience and Biotech]] (HST.930J)
 - [[hst-131-introduction-to-neuroscience-fall-2005|Introduction to Neuroscience]] (HST.131)
 - [[hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020|Global Health Informatics to Improve Quality of Care]] (HST.936x)

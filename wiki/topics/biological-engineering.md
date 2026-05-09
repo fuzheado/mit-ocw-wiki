@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[hst-951j-medical-decision-support-fall-2005|Medical Decision Support]] — HST.951J, Fall 2005
 - [[hst-930j-social-studies-of-bioscience-and-biotech-fall-2005|Social Studies of Bioscience and Biotech]] — HST.930J, Fall 2005
 - [[20-109-laboratory-fundamentals-in-biological-engineering-spring-2010|Laboratory Fundamentals in Biological Engineering]] — 20.109, Spring 2010
 - [[20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004|Statistical Thermodynamics of Biomolecular Systems (BE.011J)]] — 20.011J, Spring 2004

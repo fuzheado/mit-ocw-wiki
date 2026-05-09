@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[12-006j-nonlinear-dynamics-chaos-fall-2022|Nonlinear Dynamics: Chaos]]
 - [[12-517-dynamics-of-complex-systems-complexity-in-ecology-spring-2000|Dynamics of Complex Systems: Complexity in Ecology]]
 - [[12-517-dynamics-of-complex-systems-ecological-theory-spring-2001|Dynamics of Complex Systems: Ecological Theory]]
 - [[12-086-modeling-environmental-complexity-fall-2014|Modeling Environmental Complexity]]

@@ -12,6 +12,17 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-308j-advanced-seminar-urban-nature-and-city-design-fall-2012|Advanced Seminar: Urban Nature and City Design]] — 11.308J, Fall 2012
+- [[1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005|An Introduction to Intelligent Transportation Systems]] — 1.212J, Spring 2005
+- [[11-s945-urbanizing-china-a-reflective-dialogue-fall-2013|Urbanizing China: A Reflective Dialogue]] — 11.S945, Fall 2013
+- [[4-241j-theory-of-city-form-spring-2013|Theory of City Form]] — 4.241J, Spring 2013
+- [[11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004|Urban Design Skills: Observing, Interpreting, and Representing the City]] — 11.328J, Fall 2004
+- [[11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001|Special Studies in Urban Studies and Planning - The Cardener River Corridor Workshop]] — 11.943, Fall 2001
+- [[11-006-poverty-and-economic-security-fall-2016|Poverty and Economic Security]] — 11.006, Fall 2016
+- [[1-221j-transportation-systems-fall-2004|Transportation Systems]] — 1.221J, Fall 2004
+- [[11-307-beijing-urban-design-studio-summer-2006|Beijing Urban Design Studio]] — 11.307, Summer 2006
+- [[11-941-learning-by-comparison-first-world-third-world-cities-fall-2008|Learning by Comparison: First World/Third World Cities]] — 11.941, Fall 2008
+- [[11-312-engaging-community-models-and-methods-for-designers-and-planners-spring-2020|Engaging Community: Models and Methods for Designers and Planners]] — 11.312, Spring 2020
 - [[11-370-brownfields-policy-and-practice-fall-2005|Brownfields Policy and Practice]] — 11.370, Fall 2005
 - [[11-201-gateway-to-the-profession-of-planning-fall-2010|Gateway to the Profession of Planning]] — 11.201, Fall 2010
 - [[11-201-gateway-planning-action-fall-2005|Gateway: Planning Action]] — 11.201, Fall 2005

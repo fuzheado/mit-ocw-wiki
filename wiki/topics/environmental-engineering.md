@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001|Special Studies in Urban Studies and Planning - The Cardener River Corridor Workshop]] — 11.943, Fall 2001
 - [[2-500-desalination-and-water-purification-spring-2009|Desalination and Water Purification]] — 2.500, Spring 2009
 - [[11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003|Use of Joint Fact Finding in Science Intensive Policy Disputes, Part I]] — 11.941, Fall 2003
 - [[1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006|Introduction to Civil and Environmental Engineering Design I]] — 1.101, Fall 2006

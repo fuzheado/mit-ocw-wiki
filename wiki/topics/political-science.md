@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[sts-462-social-and-political-implications-of-technology-spring-2006|Social and Political Implications of Technology]] — STS.462, Spring 2006
+- [[11-235-analyzing-projects-and-organizations-fall-2009|Analyzing Projects and Organizations]] — 11.235, Fall 2009
+- [[17-914-international-politics-in-the-new-century-via-simulation-interactive-gaming-and-edutainment-january-iap-2005|International Politics in the New Century - via Simulation, Interactive Gaming, and  'Edutainment']] — 17.914, January IAP 2005
+- [[17-433-international-relations-of-east-asia-spring-2011|International Relations of East Asia]] — 17.433, Spring 2011
+- [[11-307-beijing-urban-design-studio-summer-2006|Beijing Urban Design Studio]] — 11.307, Summer 2006
+- [[17-tht-thesis-research-design-seminar-fall-2004|Thesis Research Design Seminar]] — 17.THT, Fall 2004
 - [[17-581-riots-rebellions-revolutions-spring-2013|Riots, Rebellions, Revolutions]] — 17.581, Spring 2013
 - [[11-954-community-owned-enterprise-and-civic-participation-spring-2005|Community-Owned Enterprise and Civic Participation]] — 11.954, Spring 2005
 - [[17-20-introduction-to-the-american-political-process-fall-2020|Introduction to the American Political Process]] — 17.20, Fall 2020

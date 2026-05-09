@@ -12,6 +12,7 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-s945-urbanizing-china-a-reflective-dialogue-fall-2013|Urbanizing China: A Reflective Dialogue]] — 11.S945, Fall 2013
 - [[11-205-introduction-to-spatial-analysis-fall-2019|Introduction to Spatial Analysis]] — 11.205, Fall 2019
 - [[12-114-field-geology-i-fall-2005|Field Geology I]] — 12.114, Fall 2005
 - [[11-384-malaysia-sustainable-cities-practicum-spring-2018|Malaysia Sustainable Cities Practicum]] — 11.384, Spring 2018

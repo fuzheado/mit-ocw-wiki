@@ -10,6 +10,10 @@ courses_count: 0
 
 ## Courses
 
+- [[es-269-passing-flexibility-in-race-and-gender-spring-2009|Passing: Flexibility in Race and Gender]] (ES.269)
+- [[es-333-producing-educational-videos-spring-2015|Producing Educational Videos]] (ES.333)
+- [[es-291-learning-seminar-experiments-in-education-spring-2003|Learning Seminar: Experiments in Education]] (ES.291)
+- [[es-268-the-mathematics-in-toys-and-games-spring-2010|The Mathematics in Toys and Games]] (ES.268)
 - [[es-298-art-of-color-spring-2005|Art of Color]] (ES.298)
 - [[es-s71-increasing-your-physical-intelligence-enhancing-your-social-smarts-spring-2014|Increasing Your Physical Intelligence, Enhancing Your Social Smarts]] (ES.S71)
 - [[es-s41-speak-italian-with-your-mouth-full-spring-2012|Speak Italian With Your Mouth Full]] (ES.S41)

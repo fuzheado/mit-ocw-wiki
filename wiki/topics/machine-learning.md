@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001|Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context]] — MAS.963, Fall 2001
+- [[hst-951j-medical-decision-support-fall-2005|Medical Decision Support]] — HST.951J, Fall 2005
 - [[6-801-machine-vision-fall-2004|Machine Vision]] — 6.801, Fall 2004
 - [[mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003|Special Topics in Media Technology: Cooperative Machines]] — MAS.965, Fall 2003
 - [[6-801-machine-vision-fall-2020|Machine Vision]] — 6.801, Fall 2020

@@ -12,6 +12,17 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-875-cryptography-and-cryptanalysis-spring-2005|Cryptography and Cryptanalysis]] — 6.875, Spring 2005
+- [[6-004-computation-structures-spring-2009|Computation Structures]] — 6.004, Spring 2009
+- [[15-561-information-technology-essentials-spring-2005|Information Technology Essentials]] — 15.561, Spring 2005
+- [[10-34-numerical-methods-applied-to-chemical-engineering-fall-2015|Numerical Methods Applied to Chemical Engineering]] — 10.34, Fall 2015
+- [[6-045j-automata-computability-and-complexity-spring-2011|Automata, Computability, and Complexity]] — 6.045J, Spring 2011
+- [[mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001|Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context]] — MAS.963, Fall 2001
+- [[6-035-computer-language-engineering-sma-5502-fall-2005|Computer Language Engineering (SMA 5502)]] — 6.035, Fall 2005
+- [[es-268-the-mathematics-in-toys-and-games-spring-2010|The Mathematics in Toys and Games]] — ES.268, Spring 2010
+- [[17-914-international-politics-in-the-new-century-via-simulation-interactive-gaming-and-edutainment-january-iap-2005|International Politics in the New Century - via Simulation, Interactive Gaming, and  'Edutainment']] — 17.914, January IAP 2005
+- [[res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017|Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft Kinect]] — RES.3-003, January IAP 2017
+- [[hst-951j-medical-decision-support-fall-2005|Medical Decision Support]] — HST.951J, Fall 2005
 - [[16-422-human-supervisory-control-of-automated-systems-spring-2004|Human Supervisory Control of Automated Systems]] — 16.422, Spring 2004
 - [[6-111-introductory-digital-systems-laboratory-spring-2006|Introductory Digital Systems Laboratory]] — 6.111, Spring 2006
 - [[6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005|Building Programming Experience: A Lead-In to 6.001]] — 6.090, January IAP 2005

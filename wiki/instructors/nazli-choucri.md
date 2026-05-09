@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[17-914-international-politics-in-the-new-century-via-simulation-interactive-gaming-and-edutainment-january-iap-2005|International Politics in the New Century - via Simulation, Interactive Gaming, and  'Edutainment']]
 - [[17-181-sustainability-political-economy-science-and-policy-fall-2016|Sustainability: Political Economy, Science, and Policy]]
 - [[17-918-new-global-agenda-exploring-21st-century-challenges-through-innovations-in-information-technologies-january-iap-2006|New Global Agenda: Exploring 21st Century Challenges through Innovations in Information Technologies]]
 - [[17-441-international-politics-and-climate-change-fall-2007|International Politics and Climate Change]]

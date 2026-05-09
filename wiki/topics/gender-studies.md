@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[es-269-passing-flexibility-in-race-and-gender-spring-2009|Passing: Flexibility in Race and Gender]] — ES.269, Spring 2009
+- [[21l-707-writing-early-american-lives-gender-race-nation-faith-fall-2005|Writing Early American Lives: Gender, Race, Nation, Faith]] — 21L.707, Fall 2005
 - [[wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016|Gender & Media: Collaborations in Feminism and Technology]] — WGS.111, Spring 2016
 - [[wgs-225-science-and-race-sex-and-gender-spring-2023|Science of Race, Sex, and Gender]] — WGS.225J, Spring 2023
 - [[wgs-115-gender-and-technology-spring-2013|Gender and Technology]] — WGS.115, Spring 2013

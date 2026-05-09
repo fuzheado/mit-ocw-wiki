@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[sts-462-social-and-political-implications-of-technology-spring-2006|Social and Political Implications of Technology]]
 - [[sts-025j-making-the-modern-world-the-industrial-revolution-in-global-perspective-fall-2009|Making the Modern World: The Industrial Revolution in Global Perspective]]
 - [[sts-050-the-history-of-mit-spring-2011|The History of MIT]]
 - [[21h-116j-the-civil-war-and-reconstruction-fall-2005|The Civil War and Reconstruction]]

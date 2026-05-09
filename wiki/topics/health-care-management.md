@@ -12,6 +12,7 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005|Laboratory on the Physiology, Acoustics, and Perception of Speech]] — 6.542J, Fall 2005
 - [[hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020|Global Health Informatics to Improve Quality of Care]] — HST.936x, Spring 2020
 - [[11-003j-methods-of-policy-analysis-spring-2016|Methods of Policy Analysis]] — 11.003J, Spring 2016
 - [[15-136j-principles-and-practice-of-drug-development-fall-2013|Principles and Practice of Drug Development]] — 15.136J, Fall 2013

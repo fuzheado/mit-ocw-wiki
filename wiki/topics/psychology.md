@@ -12,6 +12,10 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[9-00-introduction-to-psychology-fall-2004|Introduction to Psychology]] — 9.00, Fall 2004
+- [[9-00sc-introduction-to-psychology-fall-2011|Introduction to Psychology]] — 9.00SC, Fall 2011
+- [[9-69-foundations-of-cognition-spring-2003|Foundations of Cognition]] — 9.69, Spring 2003
+- [[24-08j-philosophical-issues-in-brain-science-spring-2009|Philosophical Issues in Brain Science]] — 24.08J, Spring 2009
 - [[9-01-neuroscience-and-behavior-fall-2003|Neuroscience and Behavior]] — 9.01, Fall 2003
 - [[9-012-the-brain-and-cognitive-sciences-ii-spring-2006|The Brain and Cognitive Sciences II]] — 9.012, Spring 2006
 - [[15-316-building-and-leading-effective-teams-summer-2005|Building and Leading Effective Teams]] — 15.316, Summer 2005

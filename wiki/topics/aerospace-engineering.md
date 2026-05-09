@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[16-30-feedback-control-systems-fall-2010|Feedback Control Systems]] — 16.30, Fall 2010
+- [[16-430j-sensory-neural-systems-spatial-orientation-from-end-organs-to-behavior-and-adaptation-spring-2012|Sensory-Neural Systems: Spatial Orientation from End Organs to Behavior and Adaptation]] — 16.430J, Spring 2012
+- [[1-050-solid-mechanics-fall-2004|Solid Mechanics]] — 1.050, Fall 2004
+- [[16-810-engineering-design-and-rapid-prototyping-january-iap-2005|Engineering Design and Rapid Prototyping]] — 16.810, January IAP 2005
 - [[16-422-human-supervisory-control-of-automated-systems-spring-2004|Human Supervisory Control of Automated Systems]] — 16.422, Spring 2004
 - [[16-72-air-traffic-control-fall-2006|Air Traffic Control]] — 16.72, Fall 2006
 - [[16-50-introduction-to-propulsion-systems-spring-2012|Introduction to Propulsion Systems]] — 16.50, Spring 2012

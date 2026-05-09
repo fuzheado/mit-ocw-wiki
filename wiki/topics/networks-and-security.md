@@ -12,6 +12,9 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-875-cryptography-and-cryptanalysis-spring-2005|Cryptography and Cryptanalysis]] — 6.875, Spring 2005
+- [[15-561-information-technology-essentials-spring-2005|Information Technology Essentials]] — 15.561, Spring 2005
+- [[6-045j-automata-computability-and-complexity-spring-2011|Automata, Computability, and Complexity]] — 6.045J, Spring 2011
 - [[18-435j-quantum-computation-fall-2003|Quantum Computation]] — 18.435J, Fall 2003
 - [[6-857-network-and-computer-security-spring-2014|Network and Computer Security]] — 6.857, Spring 2014
 - [[15-082j-network-optimization-fall-2010|Network Optimization]] — 15.082J, Fall 2010

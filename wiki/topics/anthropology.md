@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[sts-462-social-and-political-implications-of-technology-spring-2006|Social and Political Implications of Technology]] — STS.462, Spring 2006
+- [[21h-914-jewish-history-from-biblical-to-modern-times-fall-2007|Jewish History from Biblical to Modern Times]] — 21H.914, Fall 2007
+- [[21m-621-theater-and-cultural-diversity-in-the-u-s-spring-2008|Theater and Cultural Diversity in the U.S.]] — 21M.621, Spring 2008
+- [[21a-110-anthropological-theory-spring-2003|Anthropological Theory]] — 21A.110, Spring 2003
+- [[21h-105-american-classics-spring-2006|American Classics]] — 21H.105, Spring 2006
+- [[21h-365-cultural-pluralism-in-modern-middle-east-spring-2014|Cultural Pluralism in Modern Middle East]] — 21H.365, Spring 2014
 - [[21m-294-popular-musics-of-the-world-spring-2005|Popular Musics of the World]] — 21M.294, Spring 2005
 - [[21g-041-topics-in-south-asian-literature-and-culture-fall-2004|Topics in South Asian Literature and Culture]] — 21G.041, Fall 2004
 - [[mas-966-digital-anthropology-spring-2003|Digital Anthropology]] — MAS.966, Spring 2003

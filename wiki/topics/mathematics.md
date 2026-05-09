@@ -12,6 +12,22 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[6-004-computation-structures-spring-2009|Computation Structures]] — 6.004, Spring 2009
+- [[18-906-algebraic-topology-ii-spring-2020|Algebraic Topology II]] — 18.906, Spring 2020
+- [[12-006j-nonlinear-dynamics-chaos-fall-2022|Nonlinear Dynamics: Chaos]] — 12.006J, Fall 2022
+- [[10-34-numerical-methods-applied-to-chemical-engineering-fall-2015|Numerical Methods Applied to Chemical Engineering]] — 10.34, Fall 2015
+- [[6-045j-automata-computability-and-complexity-spring-2011|Automata, Computability, and Complexity]] — 6.045J, Spring 2011
+- [[18-385j-nonlinear-dynamics-and-chaos-fall-2004|Nonlinear Dynamics and Chaos]] — 18.385J, Fall 2004
+- [[6-728-applied-quantum-and-statistical-physics-fall-2006|Applied Quantum and Statistical Physics]] — 6.728, Fall 2006
+- [[6-632-electromagnetic-wave-theory-spring-2003|Electromagnetic Wave Theory]] — 6.632, Spring 2003
+- [[es-268-the-mathematics-in-toys-and-games-spring-2010|The Mathematics in Toys and Games]] — ES.268, Spring 2010
+- [[18-a34-mathematical-problem-solving-putnam-seminar-fall-2018|Mathematical Problem Solving (Putnam Seminar)]] — 18.A34, Fall 2018
+- [[6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010|Probabilistic Systems Analysis and Applied Probability]] — 6.041, Fall 2010
+- [[18-735-double-affine-hecke-algebras-in-representation-theory-combinatorics-geometry-and-mathematical-physics-fall-2009|Double Affine Hecke Algebras in Representation Theory, Combinatorics, Geometry, and Mathematical Physics]] — 18.735, Fall 2009
+- [[6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006|Algebraic Techniques and Semidefinite Optimization]] — 6.972, Spring 2006
+- [[18-218-topics-in-combinatorics-analysis-of-boolean-functions-spring-2021|Topics in Combinatorics: Analysis of Boolean Functions]] — 18.218, Spring 2021
+- [[15-098-special-seminar-in-applied-probability-and-stochastic-processes-spring-2006|Special Seminar in Applied Probability and Stochastic Processes]] — 15.098, Spring 2006
+- [[21l-017-the-art-of-the-probable-literature-and-probability-spring-2008|The Art of the Probable: Literature and Probability]] — 21L.017, Spring 2008
 - [[12-864-inference-from-data-and-models-spring-2005|Inference from Data and Models]] — 12.864, Spring 2005
 - [[15-071-the-analytics-edge-spring-2017|The Analytics Edge]] — 15.071, Spring 2017
 - [[18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008|Topics in Algebraic Geometry: Algebraic Surfaces]] — 18.727, Spring 2008

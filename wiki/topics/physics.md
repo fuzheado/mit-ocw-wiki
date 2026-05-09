@@ -12,6 +12,16 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[2-717j-optical-engineering-spring-2002|Optical Engineering]] — 2.717J, Spring 2002
+- [[res-8-003-physics-demonstration-videos-spring-2012|Physics Demonstration Videos]] — RES.8-003, Spring 2012
+- [[8-284-modern-astrophysics-spring-2006|Modern Astrophysics]] — 8.284, Spring 2006
+- [[12-006j-nonlinear-dynamics-chaos-fall-2022|Nonlinear Dynamics: Chaos]] — 12.006J, Fall 2022
+- [[2-003sc-engineering-dynamics-fall-2011|Engineering Dynamics]] — 2.003SC, Fall 2011
+- [[8-05-quantum-physics-ii-fall-2013|Quantum Physics II]] — 8.05, Fall 2013
+- [[22-012-seminar-fusion-and-plasma-physics-spring-2006|Seminar: Fusion and Plasma Physics]] — 22.012, Spring 2006
+- [[res-8-009-introduction-to-oscillations-and-waves-summer-2017|Introduction to Oscillations and Waves ]] — RES.8-009, Summer 2017
+- [[6-728-applied-quantum-and-statistical-physics-fall-2006|Applied Quantum and Statistical Physics]] — 6.728, Fall 2006
+- [[6-632-electromagnetic-wave-theory-spring-2003|Electromagnetic Wave Theory]] — 6.632, Spring 2003
 - [[12-864-inference-from-data-and-models-spring-2005|Inference from Data and Models]] — 12.864, Spring 2005
 - [[6-163-strobe-project-laboratory-fall-2005|Strobe Project Laboratory]] — 6.163, Fall 2005
 - [[sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020|Einstein, Oppenheimer, Feynman: Physics in the 20th Century]] — STS.042J, Fall 2020

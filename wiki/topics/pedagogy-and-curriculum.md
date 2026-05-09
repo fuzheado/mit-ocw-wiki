@@ -12,6 +12,7 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[res-2-006-girls-who-build-cameras-summer-2016|Girls Who Build Cameras]] — RES.2-006, Summer 2016
 - [[res-tll-005-how-to-speak-january-iap-2018|How to Speak]] — RES.TLL-005, January IAP 2018
 - [[res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009|The Torch or The Firehose: A Guide to Section Teaching]] — RES.18-004, Spring 2009
 - [[16-a47-the-engineer-of-2020-fall-2009|The Engineer of 2020]] — 16.A47, Fall 2009

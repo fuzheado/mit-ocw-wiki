@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004|Urban Design Skills: Observing, Interpreting, and Representing the City]] — 11.328J, Fall 2004
+- [[11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001|Special Studies in Urban Studies and Planning - The Cardener River Corridor Workshop]] — 11.943, Fall 2001
+- [[11-307-beijing-urban-design-studio-summer-2006|Beijing Urban Design Studio]] — 11.307, Summer 2006
 - [[4-125b-architecture-studio-building-in-landscapes-fall-2005|Architecture Studio: Building in Landscapes]] — 4.125B, Fall 2005
 - [[11-370-brownfields-policy-and-practice-fall-2005|Brownfields Policy and Practice]] — 11.370, Fall 2005
 - [[4-111-introduction-to-architecture-environmental-design-spring-2014|Introduction to Architecture & Environmental Design]] — 4.111, Spring 2014

@@ -12,6 +12,7 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-947-language-disorders-in-children-spring-2013|Language Disorders in Children]] — 24.947, Spring 2013
 - [[21g-820-the-beat-of-brazil-brazilian-society-through-its-music-fall-2016|The Beat of Brazil: Brazilian Society Through Its Music]] — 21G.820, Fall 2016
 - [[21g-502-japanese-ii-spring-2020|Japanese II]] — 21G.502, Spring 2020
 - [[21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011|Germany Today: Intensive Study of German Language and Culture]] — 21G.405, January IAP 2011

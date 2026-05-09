@@ -12,6 +12,9 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[hst-723j-neural-coding-and-perception-of-sound-spring-2005|Neural Coding and Perception of Sound]] — HST.723J, Spring 2005
+- [[9-71-functional-mri-of-high-level-vision-fall-2007|Functional MRI of High-Level Vision]] — 9.71, Fall 2007
+- [[hst-951j-medical-decision-support-fall-2005|Medical Decision Support]] — HST.951J, Fall 2005
 - [[hst-930j-social-studies-of-bioscience-and-biotech-fall-2005|Social Studies of Bioscience and Biotech]] — HST.930J, Fall 2005
 - [[mas-s63-engineering-health-towards-the-tricorder-fall-2013|Engineering Health: Towards the Tricorder]] — MAS.S63, Fall 2013
 - [[hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007|Molecular Biology and Genetics in Modern Medicine]] — HST.161, Fall 2007
