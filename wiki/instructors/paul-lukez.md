@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003|Architectural Design, Level II: Material and Tectonic Transformations: The Herreshoff Museum]]
 - [[11-946j-beijing-urban-design-studio-summer-2004|Beijing Urban Design Studio]]

@@ -12,6 +12,8 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[7-05-general-biochemistry-spring-2020|General Biochemistry]] — 7.05, Spring 2020
+- [[10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004|Integrated Chemical Engineering Topics I: Process Control by Design]] — 10.492-1, Fall 2004
 - [[3-091-introduction-to-solid-state-chemistry-fall-2018|Introduction to Solid-State Chemistry]] — 3.091, Fall 2018
 - [[6-701-introduction-to-nanoelectronics-spring-2010|Introduction to Nanoelectronics]] — 6.701, Spring 2010
 - [[3-052-nanomechanics-of-materials-and-biomaterials-spring-2007|Nanomechanics of Materials and Biomaterials]] — 3.052, Spring 2007

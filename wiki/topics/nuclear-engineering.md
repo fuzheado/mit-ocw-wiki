@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015|Reducing the Danger of Nuclear Weapons and Proliferation]] — RES.8-004, January IAP 2015
+- [[22-06-engineering-of-nuclear-systems-fall-2010|Engineering of Nuclear Systems]] — 22.06, Fall 2010
 - [[17-473-the-politics-of-nuclear-proliferation-nuclear-history-strategy-and-statecraft-fall-2015|The Politics of Nuclear Proliferation: Nuclear History, Strategy, and Statecraft]] — 17.473, Fall 2015
 - [[22-058-principles-of-medical-imaging-fall-2002|Principles of Medical Imaging]] — 22.058, Fall 2002
 - [[22-a09-career-options-for-biomedical-research-fall-2006|Career Options for Biomedical Research]] — 22.A09, Fall 2006

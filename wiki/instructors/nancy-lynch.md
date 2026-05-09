@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-046j-design-and-analysis-of-algorithms-spring-2015|Design and Analysis of Algorithms]]
 - [[6-852j-distributed-algorithms-fall-2009|Distributed Algorithms]]

@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[17-s950-emotions-and-politics-fall-2018|Emotions and Politics]]
 - [[17-582-civil-war-spring-2010|Civil War]]
 - [[17-478-great-power-military-intervention-fall-2013|Great Power Military Intervention]]
 - [[17-504-ethnic-politics-i-fall-2003|Ethnic Politics I]]

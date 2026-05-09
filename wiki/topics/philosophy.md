@@ -12,6 +12,13 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-06j-bioethics-spring-2009|Bioethics]] — 24.06J, Spring 2009
+- [[24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015|Ethics in Your Life: Being, Thinking, Doing (or Not?)]] — 24.191, Spring 2015
+- [[mas-962-the-nature-of-constructionist-learning-spring-2003|The Nature of Constructionist Learning]] — MAS.962, Spring 2003
+- [[mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002|Techno-identity: Who we are and how we perceive ourselves and others]] — MAS.963, Spring 2002
+- [[cc-112-philosophy-of-love-spring-2013|Philosophy of Love]] — CC.112, Spring 2013
+- [[24-242-logic-ii-spring-2004|Logic II]] — 24.242, Spring 2004
+- [[res-tll-007-case-studies-in-social-and-ethical-responsibilities-of-computing-fall-2021|Case Studies in Social and Ethical Responsibilities of Computing]] — RES.TLL-007, Fall 2021
 - [[21l-448j-darwin-and-design-fall-2010|Darwin and Design]] — 21L.448J, Fall 2010
 - [[6-868j-the-society-of-mind-fall-2011|The Society of Mind]] — 6.868J, Fall 2011
 - [[21h-224-law-and-society-in-us-history-spring-2003|Law and Society in US History]] — 21H.224, Spring 2003

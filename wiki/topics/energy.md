@@ -12,6 +12,9 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[3-53-electrochemical-processing-of-materials-spring-2001|Electrochemical Processing of Materials]] — 3.53, Spring 2001
+- [[res-env-004-mit-climate-portal-fall-2020|MIT Climate Portal]] — RES.ENV-004, Fall 2020
+- [[14-44-energy-economics-spring-2007|Energy Economics]] — 14.44, Spring 2007
 - [[2-57-nano-to-macro-transport-processes-spring-2012|Nano-to-Macro Transport Processes]] — 2.57, Spring 2012
 - [[6-701-introduction-to-nanoelectronics-spring-2010|Introduction to Nanoelectronics]] — 6.701, Spring 2010
 - [[res-11-550-leveraging-urban-mobility-disruptions-to-create-better-cities-spring-2021|Leveraging Urban Mobility Disruptions to Create Better Cities]] — RES.11-550, Spring 2021

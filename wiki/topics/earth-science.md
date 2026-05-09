@@ -12,6 +12,14 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-003-atmosphere-ocean-and-climate-dynamics-fall-2008|Atmosphere, Ocean and Climate Dynamics]] — 12.003, Fall 2008
+- [[1-964-design-for-sustainability-fall-2006|Design for Sustainability]] — 1.964, Fall 2006
+- [[12-480-thermodynamics-for-geoscientists-fall-2006|Thermodynamics for Geoscientists]] — 12.480, Fall 2006
+- [[res-env-004-mit-climate-portal-fall-2020|MIT Climate Portal]] — RES.ENV-004, Fall 2020
+- [[14-44-energy-economics-spring-2007|Energy Economics]] — 14.44, Spring 2007
+- [[ec-719-d-lab-water-climate-change-and-health-spring-2019|D-Lab: Water, Climate Change, and Health]] — EC.719, Spring 2019
+- [[12-570-seminar-in-geophysics-mantle-convection-spring-1998|Seminar in Geophysics: Mantle Convection]] — 12.570, Spring 1998
+- [[12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002|Hands-On Astronomy: Observing Stars and Planets]] — 12.409, Spring 2002
 - [[12-570-structure-and-dynamics-of-the-cmb-region-spring-2004|Structure and Dynamics of the CMB Region]] — 12.570, Spring 2004
 - [[1-72-groundwater-hydrology-fall-2005|Groundwater Hydrology]] — 1.72, Fall 2005
 - [[2-682-acoustical-oceanography-spring-2012|Acoustical Oceanography]] — 2.682, Spring 2012

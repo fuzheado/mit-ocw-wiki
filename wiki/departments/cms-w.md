@@ -12,6 +12,9 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014|Writing and Experience: Reading and Writing Autobiography]] (21W.022)
+- [[cms-608-game-design-fall-2010|Game Design]] (CMS.608)
+- [[21l-430-popular-culture-and-narrative-literature-comics-and-culture-fall-2010|Popular Culture and Narrative: Literature, Comics, and Culture]] (21L.430)
 - [[21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016|Science Writing and New Media: Perspectives on Medicine and Public Health]] (21W.034)
 - [[21w-775-writing-about-nature-and-environmental-issues-spring-2017|Writing about Nature and Environmental Issues]] (21W.775)
 - [[cms-594-education-technology-studio-spring-2019|Education Technology Studio]] (CMS.594)

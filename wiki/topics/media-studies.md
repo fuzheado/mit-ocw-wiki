@@ -12,6 +12,12 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016|Visualization for Mathematics, Science, and Technology Education]] — EC.210, Spring 2016
+- [[21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014|Writing and Experience: Reading and Writing Autobiography]] — 21W.022, Spring 2014
+- [[cms-608-game-design-fall-2010|Game Design]] — CMS.608, Fall 2010
+- [[mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002|Techno-identity: Who we are and how we perceive ourselves and others]] — MAS.963, Spring 2002
+- [[4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013|Design Across Scales, Disciplines and Problem Contexts]] — 4.110J, Spring 2013
+- [[11-310j-media-technology-and-city-design-and-development-fall-2002|Media Technology and City Design and Development]] — 11.310J, Fall 2002
 - [[sts-014-principles-and-practice-of-science-communication-spring-2006|Principles and Practice of Science Communication]] — STS.014, Spring 2006
 - [[11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998|Imaging the City: The Place of Media in City Design and Development]] — 11.947, Fall 1998
 - [[21g-325j-new-culture-of-gender-queer-france-fall-2011|New Culture of Gender: Queer France]] — 21G.325J, Fall 2011

@@ -12,6 +12,17 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[3-53-electrochemical-processing-of-materials-spring-2001|Electrochemical Processing of Materials]] — 3.53, Spring 2001
+- [[8-325-relativistic-quantum-field-theory-iii-spring-2007|Relativistic Quantum Field Theory III]] — 8.325, Spring 2007
+- [[12-480-thermodynamics-for-geoscientists-fall-2006|Thermodynamics for Geoscientists]] — 12.480, Fall 2006
+- [[3-024-electronic-optical-and-magnetic-properties-of-materials-spring-2013|Electronic, Optical and Magnetic Properties of Materials]] — 3.024, Spring 2013
+- [[8-251-string-theory-for-undergraduates-spring-2007|String Theory for Undergraduates]] — 8.251, Spring 2007
+- [[ec-s07-photovoltaic-solar-energy-systems-fall-2004|Photovoltaic Solar Energy Systems]] — EC.S07, Fall 2004
+- [[20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006|Biological Engineering II: Instrumentation and Measurement]] — 20.309, Fall 2006
+- [[8-311-electromagnetic-theory-spring-2004|Electromagnetic Theory]] — 8.311, Spring 2004
+- [[22-06-engineering-of-nuclear-systems-fall-2010|Engineering of Nuclear Systems]] — 22.06, Fall 2010
+- [[12-570-seminar-in-geophysics-mantle-convection-spring-1998|Seminar in Geophysics: Mantle Convection]] — 12.570, Spring 1998
+- [[12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002|Hands-On Astronomy: Observing Stars and Planets]] — 12.409, Spring 2002
 - [[2-57-nano-to-macro-transport-processes-spring-2012|Nano-to-Macro Transport Processes]] — 2.57, Spring 2012
 - [[3-15x-electrical-optical-and-magnetic-materials-and-devices-spring-2020|Electrical, Optical, and Magnetic Materials and Devices]] — 3.15x, Spring 2020
 - [[6-701-introduction-to-nanoelectronics-spring-2010|Introduction to Nanoelectronics]] — 6.701, Spring 2010

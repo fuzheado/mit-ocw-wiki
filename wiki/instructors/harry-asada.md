@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[2-160-identification-estimation-and-learning-spring-2006|Identification, Estimation, and Learning]]
 - [[2-12-introduction-to-robotics-fall-2005|Introduction to Robotics]]

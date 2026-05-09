@@ -12,6 +12,8 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[15-136j-principles-and-practice-of-drug-development-fall-2013|Principles and Practice of Drug Development]] (15.136J)
+- [[hst-535-principles-and-practice-of-tissue-engineering-fall-2004|Principles and Practice of Tissue Engineering]] (HST.535)
 - [[20-453j-biomedical-information-technology-fall-2008|Biomedical Information Technology]] (20.453J)
 - [[hst-730-molecular-biology-for-the-auditory-system-fall-2002|Molecular Biology for the Auditory System]] (HST.730)
 - [[hst-951j-medical-decision-support-spring-2003|Medical Decision Support]] (HST.951J)

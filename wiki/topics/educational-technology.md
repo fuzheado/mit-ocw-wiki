@@ -12,6 +12,7 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016|Visualization for Mathematics, Science, and Technology Education]] — EC.210, Spring 2016
 - [[cms-594-education-technology-studio-spring-2019|Education Technology Studio]] — CMS.594, Spring 2019
 - [[11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011|Introduction to Education: Looking Forward and Looking Back on Education]] — 11.124, Fall 2011
 - [[11-131-educational-theory-and-practice-iii-spring-2012|Educational Theory and Practice III]] — 11.131, Spring 2012

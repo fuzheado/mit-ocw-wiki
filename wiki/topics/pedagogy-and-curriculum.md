@@ -12,6 +12,9 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[mas-962-the-nature-of-constructionist-learning-spring-2003|The Nature of Constructionist Learning]] — MAS.962, Spring 2003
+- [[res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015|Girls Who Build: Make Your Own Wearables Workshop]] — RES.2-005, Spring 2015
+- [[res-tll-007-case-studies-in-social-and-ethical-responsibilities-of-computing-fall-2021|Case Studies in Social and Ethical Responsibilities of Computing]] — RES.TLL-007, Fall 2021
 - [[sts-050-the-history-of-mit-spring-2011|The History of MIT]] — STS.050, Spring 2011
 - [[res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020|Exploring Fairness in Machine Learning for International Development]] — RES.EC-001, Spring 2020
 - [[res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022|RAISE (Responsible AI for Social Empowerment and Education)]] — RES.MAS-001, Spring 2022

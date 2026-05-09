@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[16-851-satellite-engineering-fall-2003|Satellite Engineering]] — 16.851, Fall 2003
+- [[16-522-space-propulsion-spring-2015|Space Propulsion]] — 16.522, Spring 2015
 - [[16-89j-space-systems-engineering-spring-2007|Space Systems Engineering]] — 16.89J, Spring 2007
 - [[16-682-technology-in-transportation-spring-2011|Technology in Transportation]] — 16.682, Spring 2011
 - [[16-682-prototyping-avionics-spring-2006|Prototyping Avionics]] — 16.682, Spring 2006

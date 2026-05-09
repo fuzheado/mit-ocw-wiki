@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-003-modeling-dynamics-and-control-i-spring-2005|Modeling Dynamics and Control I]] — 2.003, Spring 2005
+- [[2-160-identification-estimation-and-learning-spring-2006|Identification, Estimation, and Learning]] — 2.160, Spring 2006
+- [[15-072j-queues-theory-and-applications-spring-2006|Queues: Theory and Applications]] — 15.072J, Spring 2006
 - [[4-511-digital-mock-up-workshop-spring-2006|Digital Mock-Up Workshop]] — 4.511, Spring 2006
 - [[9-66j-computational-cognitive-science-fall-2004|Computational Cognitive Science]] — 9.66J, Fall 2004
 - [[6-172-performance-engineering-of-software-systems-fall-2018|Performance Engineering of Software Systems]] — 6.172, Fall 2018

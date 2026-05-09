@@ -12,6 +12,10 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016|Visualization for Mathematics, Science, and Technology Education]] — EC.210, Spring 2016
+- [[21g-s01-modern-mexico-representations-of-mexico-citys-urban-life-spring-2015|Modern Mexico: Representations of Mexico City's Urban Life]] — 21G.S01, Spring 2015
+- [[21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003|Topics in the Avant-Garde in Literature and Cinema]] — 21G.031J, Spring 2003
+- [[4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013|Design Across Scales, Disciplines and Problem Contexts]] — 4.110J, Spring 2013
 - [[21g-049-french-photography-spring-2017|French Photography]] — 21G.049, Spring 2017
 - [[es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006|Composing Your Life: Exploration of Self through Visual Arts and Writing]] — ES.240, Spring 2006
 - [[wgs-181-queer-cinema-and-visual-culture-fall-2017|Queer Cinema and Visual Culture]] — WGS.181, Fall 2017

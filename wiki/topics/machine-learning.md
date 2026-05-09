@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[2-160-identification-estimation-and-learning-spring-2006|Identification, Estimation, and Learning]] — 2.160, Spring 2006
+- [[15-s08-fintech-shaping-the-financial-world-spring-2020|FinTech: Shaping the Financial World ]] — 15.S08, Spring 2020
 - [[6-868j-the-society-of-mind-fall-2011|The Society of Mind]] — 6.868J, Fall 2011
 - [[hst-951j-medical-decision-support-spring-2003|Medical Decision Support]] — HST.951J, Spring 2003
 - [[res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020|Exploring Fairness in Machine Learning for International Development]] — RES.EC-001, Spring 2020

@@ -12,6 +12,9 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[1-964-design-for-sustainability-fall-2006|Design for Sustainability]] — 1.964, Fall 2006
+- [[14-44-energy-economics-spring-2007|Energy Economics]] — 14.44, Spring 2007
+- [[ec-719-d-lab-water-climate-change-and-health-spring-2019|D-Lab: Water, Climate Change, and Health]] — EC.719, Spring 2019
 - [[11-943j-urban-transportation-land-use-and-the-environment-spring-2002|Urban Transportation, Land Use, and the Environment]] — 11.943J, Spring 2002
 - [[ids-410j-modeling-and-assessment-for-policy-spring-2013|Modeling and Assessment for Policy]] — IDS.410J, Spring 2013
 - [[res-env-006-teaching-with-sustainability-january-iap-2022|Teaching with Sustainability]] — RES.ENV-006, January IAP 2022

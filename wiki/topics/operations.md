@@ -12,6 +12,10 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-351-managing-innovation-and-entrepreneurship-spring-2008|Managing Innovation and Entrepreneurship]] — 15.351, Spring 2008
+- [[15-072j-queues-theory-and-applications-spring-2006|Queues: Theory and Applications]] — 15.072J, Spring 2006
+- [[15-317-organizational-leadership-and-change-summer-2009|Organizational Leadership and Change]] — 15.317, Summer 2009
+- [[esd-10-introduction-to-technology-and-policy-fall-2006|Introduction to Technology and Policy]] — ESD.10, Fall 2006
 - [[16-75j-airline-management-spring-2006|Airline Management]] — 16.75J, Spring 2006
 - [[2-994-madm-with-applications-in-material-selection-and-optimal-design-january-iap-2007|MADM with Applications in Material Selection and Optimal Design]] — 2.994, January IAP 2007
 - [[16-89j-space-systems-engineering-spring-2007|Space Systems Engineering]] — 16.89J, Spring 2007

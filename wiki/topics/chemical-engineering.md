@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[3-53-electrochemical-processing-of-materials-spring-2001|Electrochemical Processing of Materials]] — 3.53, Spring 2001
+- [[15-136j-principles-and-practice-of-drug-development-fall-2013|Principles and Practice of Drug Development]] — 15.136J, Fall 2013
+- [[10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004|Integrated Chemical Engineering Topics I: Process Control by Design]] — 10.492-1, Fall 2004
+- [[ec-s07-photovoltaic-solar-energy-systems-fall-2004|Photovoltaic Solar Energy Systems]] — EC.S07, Fall 2004
 - [[3-091-introduction-to-solid-state-chemistry-fall-2018|Introduction to Solid-State Chemistry]] — 3.091, Fall 2018
 - [[3-064-polymer-engineering-fall-2003|Polymer Engineering]] — 3.064, Fall 2003
 - [[10-37-chemical-and-biological-reaction-engineering-spring-2007|Chemical and Biological Reaction Engineering]] — 10.37, Spring 2007

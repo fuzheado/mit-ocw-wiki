@@ -12,6 +12,7 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020|Mathematics of Big Data and Machine Learning]] — RES.LL-005, January IAP 2020
 - [[20-453j-biomedical-information-technology-fall-2008|Biomedical Information Technology]] — 20.453J, Fall 2008
 - [[ids-410j-modeling-and-assessment-for-policy-spring-2013|Modeling and Assessment for Policy]] — IDS.410J, Spring 2013
 - [[15-599-workshop-in-it-collaborative-innovation-networks-fall-2011|Workshop in IT: Collaborative Innovation Networks]] — 15.599, Fall 2011

@@ -10,6 +10,8 @@ courses_count: 0
 
 ## Courses
 
+- [[pe-910-physical-intelligence-january-iap-2002|Physical Intelligence]] (PE.910)
+- [[pe-720-weight-training-spring-2006|Weight Training]] (PE.720)
 - [[pe-730-archery-spring-2006|Archery]] (PE.730)
 - [[pe-810-sailing-spring-2007|Sailing]] (PE.810)
 - [[pe-810-sailing-spring-2007|Sailing]] (PE.810)

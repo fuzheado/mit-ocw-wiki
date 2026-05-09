@@ -12,6 +12,9 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-s01-modern-mexico-representations-of-mexico-citys-urban-life-spring-2015|Modern Mexico: Representations of Mexico City's Urban Life]] — 21G.S01, Spring 2015
+- [[21g-106-chinese-vi-regular-discovering-chinese-cultures-and-societies-spring-2003|Chinese VI (Regular): Discovering Chinese Cultures and Societies]] — 21G.106, Spring 2003
+- [[21g-102-chinese-ii-regular-spring-2015|Chinese II (Regular)]] — 21G.102, Spring 2015
 - [[21g-049-french-photography-spring-2017|French Photography]] — 21G.049, Spring 2017
 - [[21g-704-spanish-iv-spring-2005|Spanish IV]] — 21G.704, Spring 2005
 - [[21g-346-topics-in-modern-french-literature-and-culture-global-paris-fall-2014|Topics in Modern French Literature and Culture: Global Paris]] — 21G.346, Fall 2014

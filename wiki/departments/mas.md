@@ -12,6 +12,9 @@ School: [[school-architecture-planning|School of Architecture and Planning]]
 
 ## Courses
 
+- [[mas-962-the-nature-of-constructionist-learning-spring-2003|The Nature of Constructionist Learning]] (MAS.962)
+- [[mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002|Techno-identity: Who we are and how we perceive ourselves and others]] (MAS.963)
+- [[4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013|Design Across Scales, Disciplines and Problem Contexts]] (4.110J)
 - [[res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022|RAISE (Responsible AI for Social Empowerment and Education)]] (RES.MAS-001)
 - [[res-mas-002-day-of-ai-spring-2022|Day of AI]] (RES.MAS-002)
 - [[mas-s62-cryptocurrency-engineering-and-design-spring-2018|Cryptocurrency Engineering and Design]] (MAS.S62)

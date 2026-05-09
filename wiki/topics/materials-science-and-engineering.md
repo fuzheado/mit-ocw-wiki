@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[3-53-electrochemical-processing-of-materials-spring-2001|Electrochemical Processing of Materials]] — 3.53, Spring 2001
+- [[3-024-electronic-optical-and-magnetic-properties-of-materials-spring-2013|Electronic, Optical and Magnetic Properties of Materials]] — 3.024, Spring 2013
+- [[ec-s07-photovoltaic-solar-energy-systems-fall-2004|Photovoltaic Solar Energy Systems]] — EC.S07, Fall 2004
 - [[3-091-introduction-to-solid-state-chemistry-fall-2018|Introduction to Solid-State Chemistry]] — 3.091, Fall 2018
 - [[3-15x-electrical-optical-and-magnetic-materials-and-devices-spring-2020|Electrical, Optical, and Magnetic Materials and Devices]] — 3.15x, Spring 2020
 - [[4-463-building-technology-iii-building-structural-systems-fall-2004|Building Technology III: Building Structural Systems]] — 4.463, Fall 2004

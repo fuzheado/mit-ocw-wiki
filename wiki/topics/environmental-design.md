@@ -12,6 +12,7 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[1-964-design-for-sustainability-fall-2006|Design for Sustainability]] — 1.964, Fall 2006
 - [[11-307-beijing-urban-design-studio-summer-2008|Beijing Urban Design Studio]] — 11.307, Summer 2008
 - [[15-990-architecture-and-communication-in-organizations-fall-2003|Architecture and Communication in Organizations]] — 15.990, Fall 2003
 - [[4-411-building-technology-laboratory-spring-2004|Building Technology Laboratory]] — 4.411, Spring 2004

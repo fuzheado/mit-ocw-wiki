@@ -12,6 +12,12 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014|Writing and Experience: Reading and Writing Autobiography]] — 21W.022, Spring 2014
+- [[21g-s01-modern-mexico-representations-of-mexico-citys-urban-life-spring-2015|Modern Mexico: Representations of Mexico City's Urban Life]] — 21G.S01, Spring 2015
+- [[21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003|Topics in the Avant-Garde in Literature and Cinema]] — 21G.031J, Spring 2003
+- [[21l-430-popular-culture-and-narrative-literature-comics-and-culture-fall-2010|Popular Culture and Narrative: Literature, Comics, and Culture]] — 21L.430, Fall 2010
+- [[cc-112-philosophy-of-love-spring-2013|Philosophy of Love]] — CC.112, Spring 2013
+- [[21m-604-playwriting-i-spring-2005|Playwriting I]] — 21M.604, Spring 2005
 - [[21l-000j-writing-about-literature-fall-2010|Writing About Literature]] — 21L.000J, Fall 2010
 - [[21l-448j-darwin-and-design-fall-2010|Darwin and Design]] — 21L.448J, Fall 2010
 - [[21g-049-french-photography-spring-2017|French Photography]] — 21G.049, Spring 2017

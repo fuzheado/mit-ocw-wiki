@@ -12,6 +12,13 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015|Reducing the Danger of Nuclear Weapons and Proliferation]] — RES.8-004, January IAP 2015
+- [[17-42-causes-and-prevention-of-war-spring-2018|Causes and Prevention of War]] — 17.42, Spring 2018
+- [[21g-s01-modern-mexico-representations-of-mexico-citys-urban-life-spring-2015|Modern Mexico: Representations of Mexico City's Urban Life]] — 21G.S01, Spring 2015
+- [[17-951-nuclear-weapons-in-international-politics-past-present-and-future-spring-2009|Nuclear Weapons in International Politics: Past, Present and Future]] — 17.951, Spring 2009
+- [[21h-342-the-royal-family-fall-2003|The Royal Family]] — 21H.342, Fall 2003
+- [[21h-155-modern-japan-1868-to-present-spring-2017|Modern Japan: 1868 to Present]] — 21H.155, Spring 2017
+- [[21h-211-the-united-states-in-the-nuclear-age-spring-2016|The United States in the Nuclear Age]] — 21H.211, Spring 2016
 - [[sts-025j-making-the-modern-world-the-industrial-revolution-in-global-perspective-fall-2009|Making the Modern World: The Industrial Revolution in Global Perspective]] — STS.025J, Fall 2009
 - [[21l-448j-darwin-and-design-fall-2010|Darwin and Design]] — 21L.448J, Fall 2010
 - [[sts-310-history-of-science-fall-2015|History of Science]] — STS.310, Fall 2015

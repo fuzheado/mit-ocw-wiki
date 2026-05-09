@@ -12,6 +12,11 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[ec-s07-photovoltaic-solar-energy-systems-fall-2004|Photovoltaic Solar Energy Systems]] — EC.S07, Fall 2004
+- [[res-6-010-electronic-feedback-systems-spring-2013|Electronic Feedback Systems]] — RES.6-010, Spring 2013
+- [[20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006|Biological Engineering II: Instrumentation and Measurement]] — 20.309, Fall 2006
+- [[2-160-identification-estimation-and-learning-spring-2006|Identification, Estimation, and Learning]] — 2.160, Spring 2006
+- [[6-101-introductory-analog-electronics-laboratory-spring-2007|Introductory Analog Electronics Laboratory]] — 6.101, Spring 2007
 - [[3-15x-electrical-optical-and-magnetic-materials-and-devices-spring-2020|Electrical, Optical, and Magnetic Materials and Devices]] — 3.15x, Spring 2020
 - [[6-701-introduction-to-nanoelectronics-spring-2010|Introduction to Nanoelectronics]] — 6.701, Spring 2010
 - [[6-002-circuits-and-electronics-spring-2007|Circuits and Electronics]] — 6.002, Spring 2007

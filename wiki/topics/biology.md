@@ -12,6 +12,11 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[7-05-general-biochemistry-spring-2020|General Biochemistry]] — 7.05, Spring 2020
+- [[15-136j-principles-and-practice-of-drug-development-fall-2013|Principles and Practice of Drug Development]] — 15.136J, Fall 2013
+- [[7-22-developmental-biology-fall-2005|Developmental Biology]] — 7.22, Fall 2005
+- [[9-12-experimental-molecular-neurobiology-fall-2006|Experimental Molecular Neurobiology]] — 9.12, Fall 2006
+- [[9-03-neural-basis-of-learning-and-memory-fall-2007|Neural Basis of Learning and Memory]] — 9.03, Fall 2007
 - [[5-07sc-biological-chemistry-i-fall-2013|Biological Chemistry I]] — 5.07SC, Fall 2013
 - [[hst-730-molecular-biology-for-the-auditory-system-fall-2002|Molecular Biology for the Auditory System]] — HST.730, Fall 2002
 - [[12-517-dynamics-of-complex-systems-ecological-theory-spring-2001|Dynamics of Complex Systems: Ecological Theory]] — 12.517, Spring 2001

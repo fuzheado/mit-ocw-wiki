@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[12-003-atmosphere-ocean-and-climate-dynamics-fall-2008|Atmosphere, Ocean and Climate Dynamics]] — 12.003, Fall 2008
 - [[2-682-acoustical-oceanography-spring-2012|Acoustical Oceanography]] — 2.682, Spring 2012
 - [[2-996-sailing-yacht-design-13-734-fall-2003|Sailing Yacht Design (13.734)]] — 2.996, Fall 2003
 - [[2-011-introduction-to-ocean-science-and-engineering-spring-2006|Introduction to Ocean Science and Engineering]] — 2.011, Spring 2006

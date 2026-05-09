@@ -12,6 +12,8 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[24-06j-bioethics-spring-2009|Bioethics]] (24.06J)
+- [[21a-500j-technology-and-culture-spring-2014|Technology and Culture]] (21A.500J)
 - [[sts-025j-making-the-modern-world-the-industrial-revolution-in-global-perspective-fall-2009|Making the Modern World: The Industrial Revolution in Global Perspective]] (STS.025J)
 - [[sts-310-history-of-science-fall-2015|History of Science]] (STS.310)
 - [[sts-050-the-history-of-mit-spring-2011|The History of MIT]] (STS.050)

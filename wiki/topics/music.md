@@ -12,6 +12,7 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005|Vocal Repertoire and Performance: African American Composers]] — 21M.410, Spring 2005
 - [[21l-423j-introduction-to-anglo-american-folk-music-fall-2005|Introduction to Anglo-American Folk Music]] — 21L.423J, Fall 2005
 - [[21m-291-music-of-india-spring-2007|Music of India]] — 21M.291, Spring 2007
 - [[21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013|The Supernatural in Music, Literature and Culture]] — 21M.013J, Fall 2013

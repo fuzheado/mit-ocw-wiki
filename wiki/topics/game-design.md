@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[cms-608-game-design-fall-2010|Game Design]] — CMS.608, Fall 2010
+- [[4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013|Design Across Scales, Disciplines and Problem Contexts]] — 4.110J, Spring 2013
 - [[cms-615-games-for-social-change-fall-2013|Games for Social Change]] — CMS.615, Fall 2013
 - [[6-370-the-battlecode-programming-competition-january-iap-2013|The Battlecode Programming Competition]] — 6.370, January IAP 2013
 - [[21m-380-music-and-technology-sound-design-spring-2016|Music and Technology: Sound Design]] — 21M.380, Spring 2016

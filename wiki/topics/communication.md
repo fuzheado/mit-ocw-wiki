@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016|Visualization for Mathematics, Science, and Technology Education]] — EC.210, Spring 2016
+- [[11-310j-media-technology-and-city-design-and-development-fall-2002|Media Technology and City Design and Development]] — 11.310J, Fall 2002
 - [[sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005|Scientific Visualization across Disciplines: A Critical Introduction]] — STS.067, Spring 2005
 - [[sts-014-principles-and-practice-of-science-communication-spring-2006|Principles and Practice of Science Communication]] — STS.014, Spring 2006
 - [[15-990-architecture-and-communication-in-organizations-fall-2003|Architecture and Communication in Organizations]] — 15.990, Fall 2003

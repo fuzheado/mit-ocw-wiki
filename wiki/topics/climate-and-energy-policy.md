@@ -12,6 +12,7 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[14-44-energy-economics-spring-2007|Energy Economics]] — 14.44, Spring 2007
 - [[res-11-550-leveraging-urban-mobility-disruptions-to-create-better-cities-spring-2021|Leveraging Urban Mobility Disruptions to Create Better Cities]] — RES.11-550, Spring 2021
 - [[11-s955-the-sustainability-response-to-covid-19-january-iap-2021|The Sustainability Response to COVID-19]] — 11.S955, January IAP 2021
 - [[12-000-solving-complex-problems-fall-2009|Solving Complex Problems]] — 12.000, Fall 2009

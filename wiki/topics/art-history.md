@@ -12,6 +12,7 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003|Topics in the Avant-Garde in Literature and Cinema]] — 21G.031J, Spring 2003
 - [[4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014|History of Urban Form: Locating Capitalism: Producing Early Modern Cities and Objects]] — 4.663, Spring 2014
 - [[4-601-introduction-to-art-history-fall-2018|Introduction to Art History]] — 4.601, Fall 2018
 - [[21h-402-the-making-of-a-roman-emperor-fall-2005|The Making of a Roman Emperor]] — 21H.402, Fall 2005

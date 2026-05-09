@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-964-design-for-sustainability-fall-2006|Design for Sustainability]] — 1.964, Fall 2006
+- [[10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004|Integrated Chemical Engineering Topics I: Process Control by Design]] — 10.492-1, Fall 2004
 - [[1-72-groundwater-hydrology-fall-2005|Groundwater Hydrology]] — 1.72, Fall 2005
 - [[12-000-solving-complex-problems-fall-2009|Solving Complex Problems]] — 12.000, Fall 2009
 - [[12-000-solving-complex-problems-fall-2003|Solving Complex Problems]] — 12.000, Fall 2003

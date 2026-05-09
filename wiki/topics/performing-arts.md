@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21m-603-principles-of-design-fall-2005|Principles of Design]] — 21M.603, Fall 2005
+- [[21m-604-playwriting-i-spring-2005|Playwriting I]] — 21M.604, Spring 2005
 - [[21l-423j-introduction-to-anglo-american-folk-music-fall-2005|Introduction to Anglo-American Folk Music]] — 21L.423J, Fall 2005
 - [[21m-291-music-of-india-spring-2007|Music of India]] — 21M.291, Spring 2007
 - [[21m-606-introduction-to-stagecraft-spring-2009|Introduction to Stagecraft]] — 21M.606, Spring 2009

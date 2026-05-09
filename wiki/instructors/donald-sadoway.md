@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[3-53-electrochemical-processing-of-materials-spring-2001|Electrochemical Processing of Materials]]
 - [[3-093-information-exploration-becoming-a-savvy-scholar-fall-2006|Information Exploration: Becoming a Savvy Scholar]]

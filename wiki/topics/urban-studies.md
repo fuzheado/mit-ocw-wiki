@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-469-urban-sociology-in-theory-and-practice-spring-2009|Urban Sociology in Theory and Practice]] — 11.469, Spring 2009
+- [[11-310j-media-technology-and-city-design-and-development-fall-2002|Media Technology and City Design and Development]] — 11.310J, Fall 2002
 - [[res-11-550-leveraging-urban-mobility-disruptions-to-create-better-cities-spring-2021|Leveraging Urban Mobility Disruptions to Create Better Cities]] — RES.11-550, Spring 2021
 - [[11-s955-the-sustainability-response-to-covid-19-january-iap-2021|The Sustainability Response to COVID-19]] — 11.S955, January IAP 2021
 - [[11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007|Special Studies in Urban Studies and Planning: Economic Development Planning Skills]] — 11.967, January IAP 2007

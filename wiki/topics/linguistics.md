@@ -12,6 +12,8 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-900-introduction-to-linguistics-spring-2022|Introduction to Linguistics]] — 24.900, Spring 2022
+- [[24-949-language-acquisition-i-fall-2020|Language Acquisition I]] — 24.949, Fall 2020
 - [[24-951-introduction-to-syntax-fall-2003|Introduction to Syntax]] — 24.951, Fall 2003
 - [[24-915-linguistic-phonetics-fall-2015|Linguistic Phonetics]] — 24.915, Fall 2015
 - [[6-345-automatic-speech-recognition-spring-2003|Automatic Speech Recognition]] — 6.345, Spring 2003

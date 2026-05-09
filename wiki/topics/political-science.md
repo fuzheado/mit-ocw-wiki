@@ -12,6 +12,15 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015|Reducing the Danger of Nuclear Weapons and Proliferation]] — RES.8-004, January IAP 2015
+- [[17-42-causes-and-prevention-of-war-spring-2018|Causes and Prevention of War]] — 17.42, Spring 2018
+- [[17-951-nuclear-weapons-in-international-politics-past-present-and-future-spring-2009|Nuclear Weapons in International Politics: Past, Present and Future]] — 17.951, Spring 2009
+- [[17-586-warlords-terrorists-and-militias-theorizing-on-violent-non-state-actors-spring-2009|Warlords, Terrorists, and Militias: Theorizing on Violent Non-State Actors]] — 17.586, Spring 2009
+- [[21h-342-the-royal-family-fall-2003|The Royal Family]] — 21H.342, Fall 2003
+- [[21a-506-the-anthropology-of-politics-u-s-presidential-election-edition-fall-2016|The Anthropology of Politics: U.S. Presidential Election Edition]] — 21A.506, Fall 2016
+- [[21h-155-modern-japan-1868-to-present-spring-2017|Modern Japan: 1868 to Present]] — 21H.155, Spring 2017
+- [[17-s950-emotions-and-politics-fall-2018|Emotions and Politics]] — 17.S950, Fall 2018
+- [[15-342j-organizations-and-environments-fall-2004|Organizations and Environments]] — 15.342J, Fall 2004
 - [[17-263-american-elections-fall-2020|American Elections]] — 17.263, Fall 2020
 - [[17-200-graduate-seminar-in-american-politics-i-political-behavior-fall-2016|Graduate Seminar in American Politics I: Political Behavior]] — 17.200, Fall 2016
 - [[17-537-politics-and-policy-in-contemporary-japan-spring-2009|Politics and Policy in Contemporary Japan]] — 17.537, Spring 2009

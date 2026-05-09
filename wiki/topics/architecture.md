@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-607-thinking-about-architecture-in-history-and-at-present-fall-2009|Thinking About Architecture: In History and at Present]] — 4.607, Fall 2009
+- [[1-964-design-for-sustainability-fall-2006|Design for Sustainability]] — 1.964, Fall 2006
+- [[4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003|Architectural Design, Level II: Material and Tectonic Transformations: The Herreshoff Museum]] — 4.131B, Fall 2003
 - [[4-511-digital-mock-up-workshop-spring-2006|Digital Mock-Up Workshop]] — 4.511, Spring 2006
 - [[4-463-building-technology-iii-building-structural-systems-fall-2004|Building Technology III: Building Structural Systems]] — 4.463, Fall 2004
 - [[4-273-introduction-to-design-inquiry-fall-2001|Introduction to Design Inquiry]] — 4.273, Fall 2001

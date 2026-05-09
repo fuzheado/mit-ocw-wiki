@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[hst-535-principles-and-practice-of-tissue-engineering-fall-2004|Principles and Practice of Tissue Engineering]] — HST.535, Fall 2004
+- [[20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006|Biological Engineering II: Instrumentation and Measurement]] — 20.309, Fall 2006
 - [[20-453j-biomedical-information-technology-fall-2008|Biomedical Information Technology]] — 20.453J, Fall 2008
 - [[3-052-nanomechanics-of-materials-and-biomaterials-spring-2007|Nanomechanics of Materials and Biomaterials]] — 3.052, Spring 2007
 - [[12-517-dynamics-of-complex-systems-ecological-theory-spring-2001|Dynamics of Complex Systems: Ecological Theory]] — 12.517, Spring 2001

@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[9-201-advanced-animal-behavior-spring-2000|Advanced Animal Behavior]] — 9.201, Spring 2000
+- [[17-s950-emotions-and-politics-fall-2018|Emotions and Politics]] — 17.S950, Fall 2018
+- [[15-342j-organizations-and-environments-fall-2004|Organizations and Environments]] — 15.342J, Fall 2004
 - [[15-310-managerial-psychology-laboratory-spring-2003|Managerial Psychology Laboratory]] — 15.310, Spring 2003
 - [[9-012-the-brain-and-cognitive-sciences-ii-spring-2002|The Brain and Cognitive Sciences II]] — 9.012, Spring 2002
 - [[9-22j-a-clinical-approach-to-the-human-brain-fall-2006|A Clinical Approach to the Human Brain]] — 9.22J, Fall 2006

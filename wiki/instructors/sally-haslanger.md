@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015|Ethics in Your Life: Being, Thinking, Doing (or Not?)]]
 - [[24-03-good-food-ethics-and-politics-of-food-spring-2017|Good Food: Ethics and Politics of Food]]
 - [[24-200-ancient-philosophy-fall-2004|Ancient Philosophy]]
 - [[24-236-topics-in-social-theory-and-practice-race-and-racism-fall-2014|Topics in Social Theory and Practice: Race and Racism]]

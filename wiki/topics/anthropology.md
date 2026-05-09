@@ -12,6 +12,14 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21a-500j-technology-and-culture-spring-2014|Technology and Culture]] — 21A.500J, Spring 2014
+- [[21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003|Topics in the Avant-Garde in Literature and Cinema]] — 21G.031J, Spring 2003
+- [[11-469-urban-sociology-in-theory-and-practice-spring-2009|Urban Sociology in Theory and Practice]] — 11.469, Spring 2009
+- [[mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002|Techno-identity: Who we are and how we perceive ourselves and others]] — MAS.963, Spring 2002
+- [[17-586-warlords-terrorists-and-militias-theorizing-on-violent-non-state-actors-spring-2009|Warlords, Terrorists, and Militias: Theorizing on Violent Non-State Actors]] — 17.586, Spring 2009
+- [[21h-342-the-royal-family-fall-2003|The Royal Family]] — 21H.342, Fall 2003
+- [[21a-506-the-anthropology-of-politics-u-s-presidential-election-edition-fall-2016|The Anthropology of Politics: U.S. Presidential Election Edition]] — 21A.506, Fall 2016
+- [[15-342j-organizations-and-environments-fall-2004|Organizations and Environments]] — 15.342J, Fall 2004
 - [[21h-983j-gender-historical-perspectives-fall-2020|Gender: Historical Perspectives]] — 21H.983J, Fall 2020
 - [[21h-224-law-and-society-in-us-history-spring-2003|Law and Society in US History]] — 21H.224, Spring 2003
 - [[21g-311-introduction-to-french-culture-spring-2014|Introduction to French Culture]] — 21G.311, Spring 2014

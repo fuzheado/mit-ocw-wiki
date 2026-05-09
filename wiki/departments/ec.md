@@ -10,6 +10,9 @@ courses_count: 0
 
 ## Courses
 
+- [[ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016|Visualization for Mathematics, Science, and Technology Education]] (EC.210)
+- [[ec-s07-photovoltaic-solar-energy-systems-fall-2004|Photovoltaic Solar Energy Systems]] (EC.S07)
+- [[ec-719-d-lab-water-climate-change-and-health-spring-2019|D-Lab: Water, Climate Change, and Health]] (EC.719)
 - [[ec-s02-water-jet-technologies-spring-2005|Water Jet Technologies]] (EC.S02)
 - [[res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020|Exploring Fairness in Machine Learning for International Development]] (RES.EC-001)
 - [[ec-s06-prototypes-to-products-fall-2005|Prototypes to Products]] (EC.S06)

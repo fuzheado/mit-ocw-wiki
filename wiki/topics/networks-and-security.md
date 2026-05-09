@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-897-selected-topics-in-cryptography-spring-2004|Selected Topics in Cryptography]] — 6.897, Spring 2004
+- [[6-046j-design-and-analysis-of-algorithms-spring-2015|Design and Analysis of Algorithms]] — 6.046J, Spring 2015
 - [[18-s191-introduction-to-computational-thinking-fall-2022|Introduction to Computational Thinking]] — 18.S191, Fall 2022
 - [[8-370x-quantum-information-science-i-spring-2018|Quantum Information Science I]] — 8.370x, Spring 2018
 - [[15-564-information-technology-i-spring-2003|Information Technology I]] — 15.564, Spring 2003

@@ -12,6 +12,10 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[24-06j-bioethics-spring-2009|Bioethics]] — 24.06J, Spring 2009
+- [[pe-910-physical-intelligence-january-iap-2002|Physical Intelligence]] — PE.910, January IAP 2002
+- [[pe-720-weight-training-spring-2006|Weight Training]] — PE.720, Spring 2006
+- [[ec-719-d-lab-water-climate-change-and-health-spring-2019|D-Lab: Water, Climate Change, and Health]] — EC.719, Spring 2019
 - [[11-s955-the-sustainability-response-to-covid-19-january-iap-2021|The Sustainability Response to COVID-19]] — 11.S955, January IAP 2021
 - [[21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016|Science Writing and New Media: Perspectives on Medicine and Public Health]] — 21W.034, Fall 2016
 - [[15-s07-globalhealth-lab-spring-2013|GlobalHealth Lab]] — 15.S07, Spring 2013

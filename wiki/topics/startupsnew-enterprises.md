@@ -12,6 +12,7 @@ Part of: [[innovation-and-entrepreneurship|Innovation & Entrepreneurship]]
 
 ## Courses
 
+- [[15-351-managing-innovation-and-entrepreneurship-spring-2008|Managing Innovation and Entrepreneurship]] — 15.351, Spring 2008
 - [[15-835-entrepreneurial-marketing-spring-2002|Entrepreneurial Marketing]] — 15.835, Spring 2002
 - [[15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004|Innovative Businesses and Breakthrough Technologies - The Legal Issues]] — 15.616, Fall 2004
 - [[res-15-001-mit-sloan-learningedge-fall-2008|MIT Sloan Teaching Resources Library]] — RES.15-001, Fall 2008

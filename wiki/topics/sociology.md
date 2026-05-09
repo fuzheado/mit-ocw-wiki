@@ -12,6 +12,13 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015|Ethics in Your Life: Being, Thinking, Doing (or Not?)]] — 24.191, Spring 2015
+- [[21g-s01-modern-mexico-representations-of-mexico-citys-urban-life-spring-2015|Modern Mexico: Representations of Mexico City's Urban Life]] — 21G.S01, Spring 2015
+- [[11-469-urban-sociology-in-theory-and-practice-spring-2009|Urban Sociology in Theory and Practice]] — 11.469, Spring 2009
+- [[21h-342-the-royal-family-fall-2003|The Royal Family]] — 21H.342, Fall 2003
+- [[11-310j-media-technology-and-city-design-and-development-fall-2002|Media Technology and City Design and Development]] — 11.310J, Fall 2002
+- [[21g-106-chinese-vi-regular-discovering-chinese-cultures-and-societies-spring-2003|Chinese VI (Regular): Discovering Chinese Cultures and Societies]] — 21G.106, Spring 2003
+- [[15-342j-organizations-and-environments-fall-2004|Organizations and Environments]] — 15.342J, Fall 2004
 - [[21h-983j-gender-historical-perspectives-fall-2020|Gender: Historical Perspectives]] — 21H.983J, Fall 2020
 - [[11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007|Special Studies in Urban Studies and Planning: Economic Development Planning Skills]] — 11.967, January IAP 2007
 - [[17-537-politics-and-policy-in-contemporary-japan-spring-2009|Politics and Policy in Contemporary Japan]] — 17.537, Spring 2009

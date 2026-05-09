@@ -12,6 +12,11 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-201-advanced-animal-behavior-spring-2000|Advanced Animal Behavior]] — 9.201, Spring 2000
+- [[pe-910-physical-intelligence-january-iap-2002|Physical Intelligence]] — PE.910, January IAP 2002
+- [[9-12-experimental-molecular-neurobiology-fall-2006|Experimental Molecular Neurobiology]] — 9.12, Fall 2006
+- [[9-03-neural-basis-of-learning-and-memory-fall-2007|Neural Basis of Learning and Memory]] — 9.03, Fall 2007
+- [[9-65-cognitive-processes-spring-2004|Cognitive Processes]] — 9.65, Spring 2004
 - [[21l-448j-darwin-and-design-fall-2010|Darwin and Design]] — 21L.448J, Fall 2010
 - [[9-66j-computational-cognitive-science-fall-2004|Computational Cognitive Science]] — 9.66J, Fall 2004
 - [[9-012-the-brain-and-cognitive-sciences-ii-spring-2002|The Brain and Cognitive Sciences II]] — 9.012, Spring 2002

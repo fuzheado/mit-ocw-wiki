@@ -12,6 +12,14 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[14-32-econometrics-spring-2007|Econometrics]] — 14.32, Spring 2007
+- [[14-126-game-theory-spring-2016|Game Theory]] — 14.126, Spring 2016
+- [[14-20-industrial-organization-and-public-policy-spring-2003|Industrial Organization and Public Policy]] — 14.20, Spring 2003
+- [[14-123-microeconomic-theory-iii-spring-2015|Microeconomic Theory III]] — 14.123, Spring 2015
+- [[14-381-statistical-method-in-economics-fall-2018|Statistical Method in Economics]] — 14.381, Fall 2018
+- [[14-44-energy-economics-spring-2007|Energy Economics]] — 14.44, Spring 2007
+- [[15-342j-organizations-and-environments-fall-2004|Organizations and Environments]] — 15.342J, Fall 2004
+- [[14-453-macroeconomic-theory-iii-fall-2006|Macroeconomic Theory III]] — 14.453, Fall 2006
 - [[14-75-political-economy-and-economic-development-fall-2012|Political Economy and Economic Development]] — 14.75, Fall 2012
 - [[14-03-microeconomic-theory-and-public-policy-fall-2016|Microeconomic Theory and Public Policy]] — 14.03, Fall 2016
 - [[14-462-advanced-macroeconomics-ii-spring-2004|Advanced Macroeconomics II]] — 14.462, Spring 2004

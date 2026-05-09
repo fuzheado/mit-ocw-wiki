@@ -12,6 +12,10 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[2-160-identification-estimation-and-learning-spring-2006|Identification, Estimation, and Learning]] — 2.160, Spring 2006
+- [[6-883-program-analysis-fall-2005|Program Analysis]] — 6.883, Fall 2005
+- [[6-046j-design-and-analysis-of-algorithms-spring-2015|Design and Analysis of Algorithms]] — 6.046J, Spring 2015
+- [[6-895-theory-of-parallel-systems-sma-5509-fall-2003|Theory of Parallel Systems (SMA 5509)]] — 6.895, Fall 2003
 - [[6-172-performance-engineering-of-software-systems-fall-2018|Performance Engineering of Software Systems]] — 6.172, Fall 2018
 - [[18-s191-introduction-to-computational-thinking-fall-2022|Introduction to Computational Thinking]] — 18.S191, Fall 2022
 - [[8-370x-quantum-information-science-i-spring-2018|Quantum Information Science I]] — 8.370x, Spring 2018

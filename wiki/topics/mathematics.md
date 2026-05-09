@@ -12,6 +12,21 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005|Combinatorial Theory: Introduction to Graph Theory, Extremal and Enumerative Combinatorics]] — 18.315, Spring 2005
+- [[14-32-econometrics-spring-2007|Econometrics]] — 14.32, Spring 2007
+- [[18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015|Undergraduate Seminar in Discrete Mathematics]] — 18.304, Spring 2015
+- [[2-003-modeling-dynamics-and-control-i-spring-2005|Modeling Dynamics and Control I]] — 2.003, Spring 2005
+- [[6-042j-mathematics-for-computer-science-spring-2015|Mathematics for Computer Science]] — 6.042J, Spring 2015
+- [[18-06sc-linear-algebra-fall-2011|Linear Algebra]] — 18.06SC, Fall 2011
+- [[24-242-logic-ii-spring-2004|Logic II]] — 24.242, Spring 2004
+- [[18-103-fourier-analysis-fall-2013|Fourier Analysis]] — 18.103, Fall 2013
+- [[15-072j-queues-theory-and-applications-spring-2006|Queues: Theory and Applications]] — 15.072J, Spring 2006
+- [[14-381-statistical-method-in-economics-fall-2018|Statistical Method in Economics]] — 14.381, Fall 2018
+- [[18-965-geometry-of-manifolds-fall-2004|Geometry of Manifolds]] — 18.965, Fall 2004
+- [[18-314-combinatorial-analysis-fall-2014|Combinatorial Analysis]] — 18.314, Fall 2014
+- [[18-702-algebra-ii-spring-2011|Algebra II]] — 18.702, Spring 2011
+- [[6-046j-design-and-analysis-of-algorithms-spring-2015|Design and Analysis of Algorithms]] — 6.046J, Spring 2015
+- [[18-701-algebra-i-fall-2010|Algebra I]] — 18.701, Fall 2010
 - [[6-436j-fundamentals-of-probability-fall-2018|Fundamentals of Probability]] — 6.436J, Fall 2018
 - [[18-703-modern-algebra-spring-2013|Modern Algebra]] — 18.703, Spring 2013
 - [[18-769-topics-in-lie-theory-tensor-categories-spring-2009|Topics in Lie Theory: Tensor Categories]] — 18.769, Spring 2009

@@ -12,6 +12,20 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[11-205-introduction-to-spatial-analysis-fall-2019|Introduction to Spatial Analysis]] — 11.205, Fall 2019
+- [[6-897-selected-topics-in-cryptography-spring-2004|Selected Topics in Cryptography]] — 6.897, Spring 2004
+- [[6-042j-mathematics-for-computer-science-spring-2015|Mathematics for Computer Science]] — 6.042J, Spring 2015
+- [[6-189-multicore-programming-primer-january-iap-2007|Multicore Programming Primer]] — 6.189, January IAP 2007
+- [[2-160-identification-estimation-and-learning-spring-2006|Identification, Estimation, and Learning]] — 2.160, Spring 2006
+- [[15-s08-fintech-shaping-the-financial-world-spring-2020|FinTech: Shaping the Financial World ]] — 15.S08, Spring 2020
+- [[res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015|Girls Who Build: Make Your Own Wearables Workshop]] — RES.2-005, Spring 2015
+- [[24-242-logic-ii-spring-2004|Logic II]] — 24.242, Spring 2004
+- [[6-883-program-analysis-fall-2005|Program Analysis]] — 6.883, Fall 2005
+- [[12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002|Hands-On Astronomy: Observing Stars and Planets]] — 12.409, Spring 2002
+- [[6-046j-design-and-analysis-of-algorithms-spring-2015|Design and Analysis of Algorithms]] — 6.046J, Spring 2015
+- [[res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020|Mathematics of Big Data and Machine Learning]] — RES.LL-005, January IAP 2020
+- [[res-tll-007-case-studies-in-social-and-ethical-responsibilities-of-computing-fall-2021|Case Studies in Social and Ethical Responsibilities of Computing]] — RES.TLL-007, Fall 2021
+- [[6-895-theory-of-parallel-systems-sma-5509-fall-2003|Theory of Parallel Systems (SMA 5509)]] — 6.895, Fall 2003
 - [[20-453j-biomedical-information-technology-fall-2008|Biomedical Information Technology]] — 20.453J, Fall 2008
 - [[6-172-performance-engineering-of-software-systems-fall-2018|Performance Engineering of Software Systems]] — 6.172, Fall 2018
 - [[6-868j-the-society-of-mind-fall-2011|The Society of Mind]] — 6.868J, Fall 2011

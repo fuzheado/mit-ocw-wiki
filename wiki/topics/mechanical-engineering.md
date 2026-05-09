@@ -12,6 +12,11 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-003-modeling-dynamics-and-control-i-spring-2005|Modeling Dynamics and Control I]] — 2.003, Spring 2005
+- [[3-024-electronic-optical-and-magnetic-properties-of-materials-spring-2013|Electronic, Optical and Magnetic Properties of Materials]] — 3.024, Spring 2013
+- [[2-160-identification-estimation-and-learning-spring-2006|Identification, Estimation, and Learning]] — 2.160, Spring 2006
+- [[res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015|Girls Who Build: Make Your Own Wearables Workshop]] — RES.2-005, Spring 2015
+- [[2-000-how-and-why-machines-work-spring-2002|How and Why Machines Work]] — 2.000, Spring 2002
 - [[2-57-nano-to-macro-transport-processes-spring-2012|Nano-to-Macro Transport Processes]] — 2.57, Spring 2012
 - [[6-701-introduction-to-nanoelectronics-spring-2010|Introduction to Nanoelectronics]] — 6.701, Spring 2010
 - [[3-052-nanomechanics-of-materials-and-biomaterials-spring-2007|Nanomechanics of Materials and Biomaterials]] — 3.052, Spring 2007

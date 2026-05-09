@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[12-480-thermodynamics-for-geoscientists-fall-2006|Thermodynamics for Geoscientists]]
 - [[12-490-advanced-igneous-petrology-fall-2005|Advanced Igneous Petrology]]
