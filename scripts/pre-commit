@@ -1,0 +1,11 @@
+#!/bin/bash
+# Auto-regenerate wiki indexes when course/instructor/department files change.
+# Installed by: cp scripts/pre-commit .git/hooks/pre-commit
+
+CHANGED=$(git diff --cached --name-only --diff-filter=ACMR | grep -E '^wiki/(courses|instructors|departments)/' | head -1)
+
+if [ -n "$CHANGED" ]; then
+    echo "  → Wiki files changed: regenerating index..."
+    python3 scripts/regenerate-index.py
+    git add wiki/index.md wiki/instructors-index.md
+fi

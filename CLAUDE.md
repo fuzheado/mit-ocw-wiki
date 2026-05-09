@@ -101,7 +101,11 @@ This ensures consistency across sessions and prevents duplicated effort.
 
 ## Workflows
 
-**Ingest.** Read the source. Create/update the page. Propagate claims into existing pages and add backlinks. Stitch into the web. Update `index.md`, `log.md`, `home.md` if the narrative shifts. After batch operations, run `python3 scripts/regenerate-index.py` to rebuild the catalog.
+**Ingest.** Read the source. Create/update the page. Propagate claims into existing pages and add backlinks. Stitch into the web. Update `index.md`, `log.md`, `home.md` if the narrative shifts.
+
+**Index regeneration.** The git pre-commit hook (`scripts/pre-commit`) automatically regenerates `wiki/index.md` and `wiki/instructors-index.md` whenever course, instructor, or department files change. If you add files manually, run `python3 scripts/regenerate-index.py` to sync.
+
+**Setup when cloning fresh.** Run once: `cp scripts/pre-commit .git/hooks/pre-commit`
 
 **Query.** Read `index.md` first. Drill into pages. If the answer is non-trivial, file it back as a new page.
 
