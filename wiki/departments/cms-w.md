@@ -12,6 +12,11 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21w-015-writing-and-rhetoric-writing-about-sports-fall-2013|Writing and Rhetoric: Writing about Sports]] (21W.015)
+- [[cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015|Workshop II: Qualitative Social Science Methods for Media Studies]] (CMS.951)
+- [[cms-362-civic-media-codesign-studio-fall-2020|Civic Media Codesign Studio]] (CMS.362)
+- [[21w-777-science-writing-in-contemporary-society-spring-2017|Science Writing in Contemporary Society]] (21W.777)
+- [[21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004|Writing and Experience: Exploring Self in Society]] (21W.731-1)
 - [[21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014|Writing and Experience: Reading and Writing Autobiography]] (21W.022)
 - [[cms-608-game-design-fall-2010|Game Design]] (CMS.608)
 - [[21l-430-popular-culture-and-narrative-literature-comics-and-culture-fall-2010|Popular Culture and Narrative: Literature, Comics, and Culture]] (21L.430)

@@ -12,6 +12,10 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[16-852j-integrating-the-lean-enterprise-fall-2005|Integrating the Lean Enterprise]] — 16.852J, Fall 2005
+- [[2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009|Exploring Sea, Space, & Earth: Fundamentals of Engineering Design]] — 2.00AJ, Spring 2009
+- [[ids-333-risk-and-decision-analysis-fall-2021|IDS.333 Risk and Decision Analysis]] — IDS.333, Fall 2021
+- [[16-892j-space-system-architecture-and-design-fall-2004|Space System Architecture and Design]] — 16.892J, Fall 2004
 - [[6-172-performance-engineering-of-software-systems-fall-2018|Performance Engineering of Software Systems]] — 6.172, Fall 2018
 - [[esd-34-system-architecture-january-iap-2007|System Architecture]] — ESD.34, January IAP 2007
 - [[2-994-madm-with-applications-in-material-selection-and-optimal-design-january-iap-2007|MADM with Applications in Material Selection and Optimal Design]] — 2.994, January IAP 2007

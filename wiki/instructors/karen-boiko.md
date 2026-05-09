@@ -1,0 +1,12 @@
+---
+name: "Karen Boiko"
+type: instructor
+courses_count: 1
+---
+
+# Karen Boiko
+
+## Courses Taught at MIT
+
+- [[21w-015-writing-and-rhetoric-writing-about-sports-fall-2013|Writing and Rhetoric: Writing about Sports]]
+- [[21w-777-science-writing-in-contemporary-society-spring-2017|Science Writing in Contemporary Society]]

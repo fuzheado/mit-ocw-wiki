@@ -12,6 +12,7 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026|Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work]] — RES.10-001, Spring 2026
 - [[2-160-identification-estimation-and-learning-spring-2006|Identification, Estimation, and Learning]] — 2.160, Spring 2006
 - [[15-s08-fintech-shaping-the-financial-world-spring-2020|FinTech: Shaping the Financial World ]] — 15.S08, Spring 2020
 - [[6-868j-the-society-of-mind-fall-2011|The Society of Mind]] — 6.868J, Fall 2011

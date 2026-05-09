@@ -12,6 +12,16 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015|Workshop II: Qualitative Social Science Methods for Media Studies]] — CMS.951, Spring 2015
+- [[11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001|Power of Place: Media Technology, Youth, and City Design and Development]] — 11.948, Spring 2001
+- [[wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014|Gender, Race, and the Construction of the American West]] — WGS.640, Fall 2014
+- [[11-401-introduction-to-housing-community-and-economic-development-fall-2015|Introduction to Housing, Community, and Economic Development]] — 11.401, Fall 2015
+- [[wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014|Gender, Health and Marginalization Through a Critical Feminist Lens]] — WGS.645, Fall 2014
+- [[11-945-springfield-studio-spring-2004|Springfield Studio]] — 11.945, Spring 2004
+- [[11-947-sustainable-economic-development-spring-2004|Sustainable Economic Development]] — 11.947, Spring 2004
+- [[17-196-globalization-fall-2005|Globalization]] — 17.196, Fall 2005
+- [[res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023|MIT-Haiti Initiative / Inisyativ MIT-Ayiti]] — RES.24-002, Spring 2023
+- [[21h-571-the-making-of-modern-south-asia-fall-2006|The Making of Modern South Asia]] — 21H.571, Fall 2006
 - [[24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015|Ethics in Your Life: Being, Thinking, Doing (or Not?)]] — 24.191, Spring 2015
 - [[21g-s01-modern-mexico-representations-of-mexico-citys-urban-life-spring-2015|Modern Mexico: Representations of Mexico City's Urban Life]] — 21G.S01, Spring 2015
 - [[11-469-urban-sociology-in-theory-and-practice-spring-2009|Urban Sociology in Theory and Practice]] — 11.469, Spring 2009

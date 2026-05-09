@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014|Gender, Race, and the Construction of the American West]] — WGS.640, Fall 2014
+- [[wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014|Gender, Health and Marginalization Through a Critical Feminist Lens]] — WGS.645, Fall 2014
 - [[21h-983j-gender-historical-perspectives-fall-2020|Gender: Historical Perspectives]] — 21H.983J, Fall 2020
 - [[wgs-181-queer-cinema-and-visual-culture-fall-2017|Queer Cinema and Visual Culture]] — WGS.181, Fall 2017
 - [[21g-325j-new-culture-of-gender-queer-france-fall-2011|New Culture of Gender: Queer France]] — 21G.325J, Fall 2011

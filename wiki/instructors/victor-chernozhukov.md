@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[14-385-nonlinear-econometric-analysis-fall-2007|Nonlinear Econometric Analysis]]
 - [[14-387-applied-econometrics-mostly-harmless-big-data-fall-2014|Applied Econometrics: Mostly Harmless Big Data]]

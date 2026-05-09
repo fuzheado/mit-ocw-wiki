@@ -2,6 +2,7 @@
 
 ## Courses
 
+- [[6-837-computer-graphics-fall-2012|Computer Graphics]] — 6.837, Fall 2012
 - [[11-205-introduction-to-spatial-analysis-fall-2019|Introduction to Spatial Analysis]] — 11.205, Fall 2019
 - [[12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002|Hands-On Astronomy: Observing Stars and Planets]] — 12.409, Spring 2002
 - [[sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005|Scientific Visualization across Disciplines: A Critical Introduction]] — STS.067, Spring 2005

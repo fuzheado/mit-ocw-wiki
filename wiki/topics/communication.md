@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015|Workshop II: Qualitative Social Science Methods for Media Studies]] — CMS.951, Spring 2015
+- [[cms-362-civic-media-codesign-studio-fall-2020|Civic Media Codesign Studio]] — CMS.362, Fall 2020
+- [[15-969-dynamic-leadership-using-improvisation-in-business-fall-2004|Dynamic Leadership: Using Improvisation in Business]] — 15.969, Fall 2004
 - [[ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016|Visualization for Mathematics, Science, and Technology Education]] — EC.210, Spring 2016
 - [[11-310j-media-technology-and-city-design-and-development-fall-2002|Media Technology and City Design and Development]] — 11.310J, Fall 2002
 - [[sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005|Scientific Visualization across Disciplines: A Critical Introduction]] — STS.067, Spring 2005

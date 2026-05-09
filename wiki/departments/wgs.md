@@ -12,6 +12,8 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014|Gender, Race, and the Construction of the American West]] (WGS.640)
+- [[wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014|Gender, Health and Marginalization Through a Critical Feminist Lens]] (WGS.645)
 - [[21l-430-popular-culture-and-narrative-literature-comics-and-culture-fall-2010|Popular Culture and Narrative: Literature, Comics, and Culture]] (21L.430)
 - [[21h-983j-gender-historical-perspectives-fall-2020|Gender: Historical Perspectives]] (21H.983J)
 - [[wgs-181-queer-cinema-and-visual-culture-fall-2017|Queer Cinema and Visual Culture]] (WGS.181)

@@ -20,6 +20,28 @@ courses_count: 0
 
 ## Courses
 
+- [[21w-015-writing-and-rhetoric-writing-about-sports-fall-2013|Writing and Rhetoric: Writing about Sports]] — 21W.015, Fall 2013
+- [[21g-347-contemporary-short-french-fiction-social-and-literary-trends-since-1990-fall-2013|Contemporary Short French Fiction: Social and Literary Trends since 1990]] — 21G.347, Fall 2013
+- [[24-961-introduction-to-phonology-fall-2014|Introduction to Phonology]] — 24.961, Fall 2014
+- [[16-812-the-aerospace-industry-spring-2004|The Aerospace Industry]] — 16.812, Spring 2004
+- [[21l-471-major-english-novels-spring-2009|Major English Novels]] — 21L.471, Spring 2009
+- [[24-942-grammar-of-a-less-familiar-language-spring-2003|Grammar of a Less Familiar Language]] — 24.942, Spring 2003
+- [[21l-701-literary-interpretation-beyond-the-limits-of-the-lyric-fall-2006|Literary Interpretation: Beyond the Limits of the Lyric]] — 21L.701, Fall 2006
+- [[24-261-philosophy-of-love-in-the-western-world-fall-2004|Philosophy of Love in the Western World]] — 24.261, Fall 2004
+- [[21w-777-science-writing-in-contemporary-society-spring-2017|Science Writing in Contemporary Society]] — 21W.777, Spring 2017
+- [[wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014|Gender, Race, and the Construction of the American West]] — WGS.640, Fall 2014
+- [[21g-703-spanish-iii-spring-2006|Spanish III]] — 21G.703, Spring 2006
+- [[24-00-problems-of-philosophy-fall-2019|Problems of Philosophy]] — 24.00, Fall 2019
+- [[24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007|Topics in Linguistic Theory: Laboratory Phonology]] — 24.910, Spring 2007
+- [[21l-481-victorian-literature-and-culture-spring-2003|Victorian Literature and Culture]] — 21L.481, Spring 2003
+- [[21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004|Writing and Experience: Exploring Self in Society]] — 21W.731-1, Spring 2004
+- [[21g-114-chinese-vi-streamlined-spring-2005|Chinese VI (Streamlined)]] — 21G.114, Spring 2005
+- [[res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023|MIT-Haiti Initiative / Inisyativ MIT-Ayiti]] — RES.24-002, Spring 2023
+- [[21l-471-major-english-novels-reading-romantic-fiction-spring-2002|Major English Novels: Reading Romantic Fiction]] — 21L.471, Spring 2002
+- [[21h-234j-downtown-spring-2005|Downtown]] — 21H.234J, Spring 2005
+- [[sts-340j-introduction-to-the-history-of-technology-fall-2006|Introduction to the History of Technology]] — STS.340J, Fall 2006
+- [[cc-s10-history-and-philosophy-of-mechanics-newtons-principia-mathematica-fall-2011|History and Philosophy of Mechanics: Newton's Principia Mathematica]] — CC.S10, Fall 2011
+- [[21h-571-the-making-of-modern-south-asia-fall-2006|The Making of Modern South Asia]] — 21H.571, Fall 2006
 - [[res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015|Reducing the Danger of Nuclear Weapons and Proliferation]] — RES.8-004, January IAP 2015
 - [[24-06j-bioethics-spring-2009|Bioethics]] — 24.06J, Spring 2009
 - [[21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014|Writing and Experience: Reading and Writing Autobiography]] — 21W.022, Spring 2014

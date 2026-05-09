@@ -12,6 +12,7 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[res-9-005-fmri-bootcamp-fall-2017|fMRI Bootcamp]] — RES.9-005, Fall 2017
 - [[20-453j-biomedical-information-technology-fall-2008|Biomedical Information Technology]] — 20.453J, Fall 2008
 - [[9-458-parkinsons-disease-workshop-summer-2006|Parkinson's Disease Workshop]] — 9.458, Summer 2006
 - [[9-40-introduction-to-neural-computation-spring-2018|Introduction to Neural Computation]] — 9.40, Spring 2018

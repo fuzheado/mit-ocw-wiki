@@ -12,6 +12,16 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[18-366-random-walks-and-diffusion-fall-2006|Random Walks and Diffusion]] — 18.366, Fall 2006
+- [[18-034-honors-differential-equations-spring-2004|Honors Differential Equations]] — 18.034, Spring 2004
+- [[11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009|Quantitative Reasoning & Statistical Methods for Planners I]] — 11.220, Spring 2009
+- [[18-311-principles-of-applied-mathematics-spring-2014|Principles of Applied Mathematics]] — 18.311, Spring 2014
+- [[18-318-topics-in-algebraic-combinatorics-spring-2006|Topics in Algebraic Combinatorics]] — 18.318, Spring 2006
+- [[18-307-integral-equations-spring-2006|Integral Equations]] — 18.307, Spring 2006
+- [[18-s097-applied-category-theory-january-iap-2019|Applied Category Theory ]] — 18.S097, January IAP 2019
+- [[18-014-calculus-with-theory-fall-2010|Calculus with Theory]] — 18.014, Fall 2010
+- [[18-725-algebraic-geometry-fall-2003|Algebraic Geometry]] — 18.725, Fall 2003
+- [[14-385-nonlinear-econometric-analysis-fall-2007|Nonlinear Econometric Analysis]] — 14.385, Fall 2007
 - [[18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005|Combinatorial Theory: Introduction to Graph Theory, Extremal and Enumerative Combinatorics]] — 18.315, Spring 2005
 - [[14-32-econometrics-spring-2007|Econometrics]] — 14.32, Spring 2007
 - [[18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015|Undergraduate Seminar in Discrete Mathematics]] — 18.304, Spring 2015

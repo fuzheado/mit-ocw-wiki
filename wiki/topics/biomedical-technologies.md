@@ -12,6 +12,8 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[hst-508-quantitative-genomics-fall-2005|Quantitative Genomics]] — HST.508, Fall 2005
+- [[res-9-005-fmri-bootcamp-fall-2017|fMRI Bootcamp]] — RES.9-005, Fall 2017
 - [[20-453j-biomedical-information-technology-fall-2008|Biomedical Information Technology]] — 20.453J, Fall 2008
 - [[hst-730-molecular-biology-for-the-auditory-system-fall-2002|Molecular Biology for the Auditory System]] — HST.730, Fall 2002
 - [[hst-951j-medical-decision-support-spring-2003|Medical Decision Support]] — HST.951J, Spring 2003

@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[10-302-transport-processes-fall-2004|Transport Processes]]
 - [[10-32-separation-processes-spring-2005|Separation Processes]]

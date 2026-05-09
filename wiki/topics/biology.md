@@ -12,6 +12,13 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-530-cellular-and-molecular-computation-spring-2000|Cellular and Molecular Computation]] — 9.530, Spring 2000
+- [[res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019|Pre-7.01: Getting up to Speed in Biology]] — RES.7-001, Summer 2019
+- [[hst-508-quantitative-genomics-fall-2005|Quantitative Genomics]] — HST.508, Fall 2005
+- [[9-01-introduction-to-neuroscience-fall-2007|Introduction to Neuroscience]] — 9.01, Fall 2007
+- [[20-430j-fields-forces-and-flows-in-biological-systems-fall-2015|Fields, Forces, and Flows in Biological Systems]] — 20.430J, Fall 2015
+- [[1-020-ecology-ii-engineering-for-sustainability-spring-2008|Ecology II: Engineering for Sustainability]] — 1.020, Spring 2008
+- [[res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026|Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work]] — RES.10-001, Spring 2026
 - [[7-05-general-biochemistry-spring-2020|General Biochemistry]] — 7.05, Spring 2020
 - [[15-136j-principles-and-practice-of-drug-development-fall-2013|Principles and Practice of Drug Development]] — 15.136J, Fall 2013
 - [[7-22-developmental-biology-fall-2005|Developmental Biology]] — 7.22, Fall 2005

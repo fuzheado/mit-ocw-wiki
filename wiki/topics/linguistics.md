@@ -12,6 +12,10 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-961-introduction-to-phonology-fall-2014|Introduction to Phonology]] — 24.961, Fall 2014
+- [[24-942-grammar-of-a-less-familiar-language-spring-2003|Grammar of a Less Familiar Language]] — 24.942, Spring 2003
+- [[24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007|Topics in Linguistic Theory: Laboratory Phonology]] — 24.910, Spring 2007
+- [[res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023|MIT-Haiti Initiative / Inisyativ MIT-Ayiti]] — RES.24-002, Spring 2023
 - [[24-900-introduction-to-linguistics-spring-2022|Introduction to Linguistics]] — 24.900, Spring 2022
 - [[24-949-language-acquisition-i-fall-2020|Language Acquisition I]] — 24.949, Fall 2020
 - [[24-951-introduction-to-syntax-fall-2003|Introduction to Syntax]] — 24.951, Fall 2003

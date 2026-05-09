@@ -25,6 +25,38 @@ courses_count: 0
 
 ## Courses
 
+- [[18-366-random-walks-and-diffusion-fall-2006|Random Walks and Diffusion]] — 18.366, Fall 2006
+- [[16-63j-system-safety-spring-2016|System Safety]] — 16.63J, Spring 2016
+- [[6-5060-algorithm-engineering-spring-2023|Algorithm Engineering]] — 6.5060, Spring 2023
+- [[9-530-cellular-and-molecular-computation-spring-2000|Cellular and Molecular Computation]] — 9.530, Spring 2000
+- [[6-012-microelectronic-devices-and-circuits-fall-2009|Microelectronic Devices and Circuits]] — 6.012, Fall 2009
+- [[ec-s06-practical-electronics-fall-2004|Practical Electronics]] — EC.S06, Fall 2004
+- [[4-001j-cityscope-new-orleans-spring-2007|CityScope: New Orleans]] — 4.001J, Spring 2007
+- [[2-082-ship-structural-analysis-design-13-122-spring-2003|Ship Structural Analysis & Design (13.122)]] — 2.082, Spring 2003
+- [[6-837-computer-graphics-fall-2012|Computer Graphics]] — 6.837, Fall 2012
+- [[16-852j-integrating-the-lean-enterprise-fall-2005|Integrating the Lean Enterprise]] — 16.852J, Fall 2005
+- [[6-5830-database-systems-fall-2023|Database Systems]] — 6.5830, Fall 2023
+- [[3-45-magnetic-materials-spring-2004|Magnetic Materials]] — 3.45, Spring 2004
+- [[2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009|Exploring Sea, Space, & Earth: Fundamentals of Engineering Design]] — 2.00AJ, Spring 2009
+- [[10-302-transport-processes-fall-2004|Transport Processes]] — 10.302, Fall 2004
+- [[ids-333-risk-and-decision-analysis-fall-2021|IDS.333 Risk and Decision Analysis]] — IDS.333, Fall 2021
+- [[24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007|Topics in Linguistic Theory: Laboratory Phonology]] — 24.910, Spring 2007
+- [[6-854j-advanced-algorithms-fall-2005|Advanced Algorithms]] — 6.854J, Fall 2005
+- [[6-931-development-of-inventions-and-creative-ideas-spring-2008|Development of Inventions and Creative Ideas]] — 6.931, Spring 2008
+- [[4-440-basic-structural-design-spring-2009|Basic Structural Design]] — 4.440, Spring 2009
+- [[4-493-natural-light-in-design-january-iap-2006|Natural Light in Design]] — 4.493, January IAP 2006
+- [[6-824-distributed-computer-systems-engineering-spring-2006|Distributed Computer Systems Engineering]] — 6.824, Spring 2006
+- [[20-430j-fields-forces-and-flows-in-biological-systems-fall-2015|Fields, Forces, and Flows in Biological Systems]] — 20.430J, Fall 2015
+- [[16-687-private-pilot-ground-school-january-iap-2019|Private Pilot Ground School]] — 16.687, January IAP 2019
+- [[12-091-radon-research-in-multidisciplines-a-review-january-iap-2007|Radon Research in Multidisciplines: A Review]] — 12.091, January IAP 2007
+- [[11-366j-planning-for-sustainable-development-spring-2006|Planning for Sustainable Development]] — 11.366J, Spring 2006
+- [[1-020-ecology-ii-engineering-for-sustainability-spring-2008|Ecology II: Engineering for Sustainability]] — 1.020, Spring 2008
+- [[res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026|Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work]] — RES.10-001, Spring 2026
+- [[16-892j-space-system-architecture-and-design-fall-2004|Space System Architecture and Design]] — 16.892J, Fall 2004
+- [[9-675-the-development-of-object-and-face-recognition-spring-2006|The Development of Object and Face Recognition]] — 9.675, Spring 2006
+- [[2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009|Direct Solar/Thermal to Electrical Energy Conversion Technologies]] — 2.997, Fall 2009
+- [[6-096-introduction-to-c-january-iap-2011|Introduction to C++]] — 6.096, January IAP 2011
+- [[20-110j-thermodynamics-of-biomolecular-systems-fall-2005|Thermodynamics of Biomolecular Systems]] — 20.110J, Fall 2005
 - [[res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015|Reducing the Danger of Nuclear Weapons and Proliferation]] — RES.8-004, January IAP 2015
 - [[12-003-atmosphere-ocean-and-climate-dynamics-fall-2008|Atmosphere, Ocean and Climate Dynamics]] — 12.003, Fall 2008
 - [[1-964-design-for-sustainability-fall-2006|Design for Sustainability]] — 1.964, Fall 2006

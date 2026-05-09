@@ -12,6 +12,10 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-746-marine-organic-geochemistry-spring-2005|Marine Organic Geochemistry]] — 12.746, Spring 2005
+- [[es-287-kitchen-chemistry-spring-2009|Kitchen Chemistry]] — ES.287, Spring 2009
+- [[res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026|Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work]] — RES.10-001, Spring 2026
+- [[20-110j-thermodynamics-of-biomolecular-systems-fall-2005|Thermodynamics of Biomolecular Systems]] — 20.110J, Fall 2005
 - [[7-05-general-biochemistry-spring-2020|General Biochemistry]] — 7.05, Spring 2020
 - [[10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004|Integrated Chemical Engineering Topics I: Process Control by Design]] — 10.492-1, Fall 2004
 - [[3-091-introduction-to-solid-state-chemistry-fall-2018|Introduction to Solid-State Chemistry]] — 3.091, Fall 2018

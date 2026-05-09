@@ -12,6 +12,8 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[sts-340j-introduction-to-the-history-of-technology-fall-2006|Introduction to the History of Technology]] (STS.340J)
+- [[21a-303j-the-anthropology-of-biology-spring-2022|The Anthropology of Biology]] (21A.303J)
 - [[24-06j-bioethics-spring-2009|Bioethics]] (24.06J)
 - [[21a-500j-technology-and-culture-spring-2014|Technology and Culture]] (21A.500J)
 - [[sts-025j-making-the-modern-world-the-industrial-revolution-in-global-perspective-fall-2009|Making the Modern World: The Industrial Revolution in Global Perspective]] (STS.025J)

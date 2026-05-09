@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[16-63j-system-safety-spring-2016|System Safety]] — 16.63J, Spring 2016
+- [[2-082-ship-structural-analysis-design-13-122-spring-2003|Ship Structural Analysis & Design (13.122)]] — 2.082, Spring 2003
+- [[16-687-private-pilot-ground-school-january-iap-2019|Private Pilot Ground School]] — 16.687, January IAP 2019
+- [[16-892j-space-system-architecture-and-design-fall-2004|Space System Architecture and Design]] — 16.892J, Fall 2004
 - [[16-851-satellite-engineering-fall-2003|Satellite Engineering]] — 16.851, Fall 2003
 - [[16-522-space-propulsion-spring-2015|Space Propulsion]] — 16.522, Spring 2015
 - [[16-89j-space-systems-engineering-spring-2007|Space Systems Engineering]] — 16.89J, Spring 2007

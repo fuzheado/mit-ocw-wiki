@@ -10,6 +10,7 @@ courses_count: 0
 
 ## Courses
 
+- [[cc-s10-history-and-philosophy-of-mechanics-newtons-principia-mathematica-fall-2011|History and Philosophy of Mechanics: Newton's Principia Mathematica]] (CC.S10)
 - [[cc-112-philosophy-of-love-spring-2013|Philosophy of Love]] (CC.112)
 - [[cc-111-modern-conceptions-of-freedom-spring-2013|Modern Conceptions of Freedom]] (CC.111)
 - [[21h-343j-making-books-the-renaissance-and-today-spring-2016|Making Books: The Renaissance and Today]] (21H.343J) — Spring 2016

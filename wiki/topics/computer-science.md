@@ -12,6 +12,14 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-5060-algorithm-engineering-spring-2023|Algorithm Engineering]] — 6.5060, Spring 2023
+- [[6-012-microelectronic-devices-and-circuits-fall-2009|Microelectronic Devices and Circuits]] — 6.012, Fall 2009
+- [[6-837-computer-graphics-fall-2012|Computer Graphics]] — 6.837, Fall 2012
+- [[6-5830-database-systems-fall-2023|Database Systems]] — 6.5830, Fall 2023
+- [[6-854j-advanced-algorithms-fall-2005|Advanced Algorithms]] — 6.854J, Fall 2005
+- [[6-824-distributed-computer-systems-engineering-spring-2006|Distributed Computer Systems Engineering]] — 6.824, Spring 2006
+- [[res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026|Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work]] — RES.10-001, Spring 2026
+- [[6-096-introduction-to-c-january-iap-2011|Introduction to C++]] — 6.096, January IAP 2011
 - [[11-205-introduction-to-spatial-analysis-fall-2019|Introduction to Spatial Analysis]] — 11.205, Fall 2019
 - [[6-897-selected-topics-in-cryptography-spring-2004|Selected Topics in Cryptography]] — 6.897, Spring 2004
 - [[6-042j-mathematics-for-computer-science-spring-2015|Mathematics for Computer Science]] — 6.042J, Spring 2015

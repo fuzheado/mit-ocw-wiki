@@ -12,6 +12,8 @@ School: [[school-schwarzman-computing|MIT Schwarzman College of Computing]]
 
 ## Courses
 
+- [[16-63j-system-safety-spring-2016|System Safety]] (16.63J)
+- [[ids-333-risk-and-decision-analysis-fall-2021|IDS.333 Risk and Decision Analysis]] (IDS.333)
 - [[15-136j-principles-and-practice-of-drug-development-fall-2013|Principles and Practice of Drug Development]] (15.136J)
 - [[ids-910-leadership-development-fall-2002|Leadership Development]] (IDS.910)
 - [[16-89j-space-systems-engineering-spring-2007|Space Systems Engineering]] (16.89J)

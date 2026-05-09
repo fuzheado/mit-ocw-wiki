@@ -12,6 +12,18 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-481j-analyzing-and-accounting-for-regional-economic-growth-spring-2009|Analyzing and Accounting for Regional Economic Growth]] — 11.481J, Spring 2009
+- [[14-54-international-trade-fall-2016|International Trade]] — 14.54, Fall 2016
+- [[16-812-the-aerospace-industry-spring-2004|The Aerospace Industry]] — 16.812, Spring 2004
+- [[14-13-psychology-and-economics-spring-2020|Psychology and Economics]] — 14.13, Spring 2020
+- [[11-401-introduction-to-housing-community-and-economic-development-fall-2015|Introduction to Housing, Community, and Economic Development]] — 11.401, Fall 2015
+- [[2-964-economics-of-marine-transportation-industries-fall-2006|Economics of Marine Transportation Industries]] — 2.964, Fall 2006
+- [[11-947-sustainable-economic-development-spring-2004|Sustainable Economic Development]] — 11.947, Spring 2004
+- [[17-196-globalization-fall-2005|Globalization]] — 17.196, Fall 2005
+- [[15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003|Global Markets, National Politics and the Competitive Advantage of Firms]] — 15.224, Spring 2003
+- [[11-438-economic-development-planning-spring-2020|Economic Development Planning]] — 11.438, Spring 2020
+- [[15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009|Practice of Finance: Advanced Corporate Risk Management]] — 15.997, Spring 2009
+- [[14-385-nonlinear-econometric-analysis-fall-2007|Nonlinear Econometric Analysis]] — 14.385, Fall 2007
 - [[14-32-econometrics-spring-2007|Econometrics]] — 14.32, Spring 2007
 - [[14-126-game-theory-spring-2016|Game Theory]] — 14.126, Spring 2016
 - [[14-20-industrial-organization-and-public-policy-spring-2003|Industrial Organization and Public Policy]] — 14.20, Spring 2003

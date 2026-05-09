@@ -25,6 +25,42 @@ courses_count: 0
 
 ## Courses
 
+- [[6-912-introduction-to-copyright-law-january-iap-2006|Introduction to Copyright Law]] — 6.912, January IAP 2006
+- [[11-481j-analyzing-and-accounting-for-regional-economic-growth-spring-2009|Analyzing and Accounting for Regional Economic Growth]] — 11.481J, Spring 2009
+- [[11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009|Quantitative Reasoning & Statistical Methods for Planners I]] — 11.220, Spring 2009
+- [[17-801-political-science-scope-and-methods-fall-2017|Political Science Scope and Methods]] — 17.801, Fall 2017
+- [[cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015|Workshop II: Qualitative Social Science Methods for Media Studies]] — CMS.951, Spring 2015
+- [[14-54-international-trade-fall-2016|International Trade]] — 14.54, Fall 2016
+- [[11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001|Power of Place: Media Technology, Youth, and City Design and Development]] — 11.948, Spring 2001
+- [[16-812-the-aerospace-industry-spring-2004|The Aerospace Industry]] — 16.812, Spring 2004
+- [[cms-362-civic-media-codesign-studio-fall-2020|Civic Media Codesign Studio]] — CMS.362, Fall 2020
+- [[res-17-002-mit-governance-lab-spring-2023|MIT Governance Lab]] — RES.17-002, Spring 2023
+- [[11-003j-methods-of-policy-analysis-spring-2016|Methods of Policy Analysis]] — 11.003J, Spring 2016
+- [[4-001j-cityscope-new-orleans-spring-2007|CityScope: New Orleans]] — 4.001J, Spring 2007
+- [[14-13-psychology-and-economics-spring-2020|Psychology and Economics]] — 14.13, Spring 2020
+- [[wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014|Gender, Race, and the Construction of the American West]] — WGS.640, Fall 2014
+- [[11-401-introduction-to-housing-community-and-economic-development-fall-2015|Introduction to Housing, Community, and Economic Development]] — 11.401, Fall 2015
+- [[2-964-economics-of-marine-transportation-industries-fall-2006|Economics of Marine Transportation Industries]] — 2.964, Fall 2006
+- [[wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014|Gender, Health and Marginalization Through a Critical Feminist Lens]] — WGS.645, Fall 2014
+- [[11-945-springfield-studio-spring-2004|Springfield Studio]] — 11.945, Spring 2004
+- [[6-931-development-of-inventions-and-creative-ideas-spring-2008|Development of Inventions and Creative Ideas]] — 6.931, Spring 2008
+- [[11-947-sustainable-economic-development-spring-2004|Sustainable Economic Development]] — 11.947, Spring 2004
+- [[21l-481-victorian-literature-and-culture-spring-2003|Victorian Literature and Culture]] — 21L.481, Spring 2003
+- [[17-196-globalization-fall-2005|Globalization]] — 17.196, Fall 2005
+- [[4-183-sustainable-design-and-technology-research-workshop-spring-2004|Sustainable Design and Technology Research Workshop]] — 4.183, Spring 2004
+- [[15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003|Global Markets, National Politics and the Competitive Advantage of Firms]] — 15.224, Spring 2003
+- [[11-366j-planning-for-sustainable-development-spring-2006|Planning for Sustainable Development]] — 11.366J, Spring 2006
+- [[15-969-dynamic-leadership-using-improvisation-in-business-fall-2004|Dynamic Leadership: Using Improvisation in Business]] — 15.969, Fall 2004
+- [[11-438-economic-development-planning-spring-2020|Economic Development Planning]] — 11.438, Spring 2020
+- [[15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009|Practice of Finance: Advanced Corporate Risk Management]] — 15.997, Spring 2009
+- [[res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023|MIT-Haiti Initiative / Inisyativ MIT-Ayiti]] — RES.24-002, Spring 2023
+- [[21a-155-food-culture-politics-fall-2019|Food, Culture & Politics]] — 21A.155, Fall 2019
+- [[21h-234j-downtown-spring-2005|Downtown]] — 21H.234J, Spring 2005
+- [[9-46-neuroscience-of-morality-fall-2017|Neuroscience of Morality]] — 9.46, Fall 2017
+- [[14-385-nonlinear-econometric-analysis-fall-2007|Nonlinear Econometric Analysis]] — 14.385, Fall 2007
+- [[21a-303j-the-anthropology-of-biology-spring-2022|The Anthropology of Biology]] — 21A.303J, Spring 2022
+- [[11-007-resolving-public-disputes-spring-2005|Resolving Public Disputes]] — 11.007, Spring 2005
+- [[21h-571-the-making-of-modern-south-asia-fall-2006|The Making of Modern South Asia]] — 21H.571, Fall 2006
 - [[res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015|Reducing the Danger of Nuclear Weapons and Proliferation]] — RES.8-004, January IAP 2015
 - [[ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016|Visualization for Mathematics, Science, and Technology Education]] — EC.210, Spring 2016
 - [[9-201-advanced-animal-behavior-spring-2000|Advanced Animal Behavior]] — 9.201, Spring 2000

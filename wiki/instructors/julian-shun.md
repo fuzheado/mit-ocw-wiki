@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-5060-algorithm-engineering-spring-2023|Algorithm Engineering]]
 - [[6-172-performance-engineering-of-software-systems-fall-2018|Performance Engineering of Software Systems]]

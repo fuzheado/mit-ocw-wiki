@@ -12,6 +12,7 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015|Workshop II: Qualitative Social Science Methods for Media Studies]] — CMS.951, Spring 2015
 - [[ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016|Visualization for Mathematics, Science, and Technology Education]] — EC.210, Spring 2016
 - [[21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014|Writing and Experience: Reading and Writing Autobiography]] — 21W.022, Spring 2014
 - [[cms-608-game-design-fall-2010|Game Design]] — CMS.608, Fall 2010

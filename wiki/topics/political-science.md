@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-801-political-science-scope-and-methods-fall-2017|Political Science Scope and Methods]] — 17.801, Fall 2017
+- [[res-17-002-mit-governance-lab-spring-2023|MIT Governance Lab]] — RES.17-002, Spring 2023
+- [[11-003j-methods-of-policy-analysis-spring-2016|Methods of Policy Analysis]] — 11.003J, Spring 2016
+- [[wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014|Gender, Race, and the Construction of the American West]] — WGS.640, Fall 2014
+- [[11-007-resolving-public-disputes-spring-2005|Resolving Public Disputes]] — 11.007, Spring 2005
 - [[res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015|Reducing the Danger of Nuclear Weapons and Proliferation]] — RES.8-004, January IAP 2015
 - [[17-42-causes-and-prevention-of-war-spring-2018|Causes and Prevention of War]] — 17.42, Spring 2018
 - [[17-951-nuclear-weapons-in-international-politics-past-present-and-future-spring-2009|Nuclear Weapons in International Politics: Past, Present and Future]] — 17.951, Spring 2009

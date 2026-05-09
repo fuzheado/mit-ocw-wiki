@@ -12,6 +12,16 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21w-015-writing-and-rhetoric-writing-about-sports-fall-2013|Writing and Rhetoric: Writing about Sports]] — 21W.015, Fall 2013
+- [[21g-347-contemporary-short-french-fiction-social-and-literary-trends-since-1990-fall-2013|Contemporary Short French Fiction: Social and Literary Trends since 1990]] — 21G.347, Fall 2013
+- [[21l-471-major-english-novels-spring-2009|Major English Novels]] — 21L.471, Spring 2009
+- [[21l-701-literary-interpretation-beyond-the-limits-of-the-lyric-fall-2006|Literary Interpretation: Beyond the Limits of the Lyric]] — 21L.701, Fall 2006
+- [[24-261-philosophy-of-love-in-the-western-world-fall-2004|Philosophy of Love in the Western World]] — 24.261, Fall 2004
+- [[21w-777-science-writing-in-contemporary-society-spring-2017|Science Writing in Contemporary Society]] — 21W.777, Spring 2017
+- [[wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014|Gender, Race, and the Construction of the American West]] — WGS.640, Fall 2014
+- [[21l-481-victorian-literature-and-culture-spring-2003|Victorian Literature and Culture]] — 21L.481, Spring 2003
+- [[21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004|Writing and Experience: Exploring Self in Society]] — 21W.731-1, Spring 2004
+- [[21l-471-major-english-novels-reading-romantic-fiction-spring-2002|Major English Novels: Reading Romantic Fiction]] — 21L.471, Spring 2002
 - [[21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014|Writing and Experience: Reading and Writing Autobiography]] — 21W.022, Spring 2014
 - [[21g-s01-modern-mexico-representations-of-mexico-citys-urban-life-spring-2015|Modern Mexico: Representations of Mexico City's Urban Life]] — 21G.S01, Spring 2015
 - [[21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003|Topics in the Avant-Garde in Literature and Cinema]] — 21G.031J, Spring 2003

@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[9-530-cellular-and-molecular-computation-spring-2000|Cellular and Molecular Computation]] — 9.530, Spring 2000
+- [[20-430j-fields-forces-and-flows-in-biological-systems-fall-2015|Fields, Forces, and Flows in Biological Systems]] — 20.430J, Fall 2015
+- [[20-110j-thermodynamics-of-biomolecular-systems-fall-2005|Thermodynamics of Biomolecular Systems]] — 20.110J, Fall 2005
 - [[hst-535-principles-and-practice-of-tissue-engineering-fall-2004|Principles and Practice of Tissue Engineering]] — HST.535, Fall 2004
 - [[20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006|Biological Engineering II: Instrumentation and Measurement]] — 20.309, Fall 2006
 - [[20-453j-biomedical-information-technology-fall-2008|Biomedical Information Technology]] — 20.453J, Fall 2008

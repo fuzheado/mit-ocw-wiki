@@ -12,6 +12,7 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[16-852j-integrating-the-lean-enterprise-fall-2005|Integrating the Lean Enterprise]] — 16.852J, Fall 2005
 - [[15-760b-introduction-to-operations-management-spring-2004|Introduction to Operations Management]] — 15.760B, Spring 2004
 - [[15-760a-operations-management-spring-2002|Operations Management]] — 15.760A, Spring 2002
 - [[15-769-operations-strategy-spring-2003|Operations Strategy]] — 15.769, Spring 2003

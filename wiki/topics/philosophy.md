@@ -12,6 +12,9 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-261-philosophy-of-love-in-the-western-world-fall-2004|Philosophy of Love in the Western World]] — 24.261, Fall 2004
+- [[24-00-problems-of-philosophy-fall-2019|Problems of Philosophy]] — 24.00, Fall 2019
+- [[cc-s10-history-and-philosophy-of-mechanics-newtons-principia-mathematica-fall-2011|History and Philosophy of Mechanics: Newton's Principia Mathematica]] — CC.S10, Fall 2011
 - [[24-06j-bioethics-spring-2009|Bioethics]] — 24.06J, Spring 2009
 - [[24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015|Ethics in Your Life: Being, Thinking, Doing (or Not?)]] — 24.191, Spring 2015
 - [[mas-962-the-nature-of-constructionist-learning-spring-2003|The Nature of Constructionist Learning]] — MAS.962, Spring 2003

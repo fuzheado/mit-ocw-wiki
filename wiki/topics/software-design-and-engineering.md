@@ -12,6 +12,9 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-012-microelectronic-devices-and-circuits-fall-2009|Microelectronic Devices and Circuits]] — 6.012, Fall 2009
+- [[6-824-distributed-computer-systems-engineering-spring-2006|Distributed Computer Systems Engineering]] — 6.824, Spring 2006
+- [[6-096-introduction-to-c-january-iap-2011|Introduction to C++]] — 6.096, January IAP 2011
 - [[6-189-multicore-programming-primer-january-iap-2007|Multicore Programming Primer]] — 6.189, January IAP 2007
 - [[6-883-program-analysis-fall-2005|Program Analysis]] — 6.883, Fall 2005
 - [[6-172-performance-engineering-of-software-systems-fall-2018|Performance Engineering of Software Systems]] — 6.172, Fall 2018

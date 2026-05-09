@@ -12,6 +12,15 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001|Power of Place: Media Technology, Youth, and City Design and Development]] — 11.948, Spring 2001
+- [[4-001j-cityscope-new-orleans-spring-2007|CityScope: New Orleans]] — 4.001J, Spring 2007
+- [[11-945-springfield-studio-spring-2004|Springfield Studio]] — 11.945, Spring 2004
+- [[4-125-architecture-studio-building-in-landscapes-fall-2002|Architecture Studio: Building in Landscapes]] — 4.125, Fall 2002
+- [[4-440-basic-structural-design-spring-2009|Basic Structural Design]] — 4.440, Spring 2009
+- [[4-493-natural-light-in-design-january-iap-2006|Natural Light in Design]] — 4.493, January IAP 2006
+- [[4-183-sustainable-design-and-technology-research-workshop-spring-2004|Sustainable Design and Technology Research Workshop]] — 4.183, Spring 2004
+- [[21h-234j-downtown-spring-2005|Downtown]] — 21H.234J, Spring 2005
+- [[4-144-architectural-design-level-ii-new-orleans-studio-spring-2006|Architectural Design, Level II: New Orleans Studio]] — 4.144, Spring 2006
 - [[4-607-thinking-about-architecture-in-history-and-at-present-fall-2009|Thinking About Architecture: In History and at Present]] — 4.607, Fall 2009
 - [[1-964-design-for-sustainability-fall-2006|Design for Sustainability]] — 1.964, Fall 2006
 - [[4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003|Architectural Design, Level II: Material and Tectonic Transformations: The Herreshoff Museum]] — 4.131B, Fall 2003

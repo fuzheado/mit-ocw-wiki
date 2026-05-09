@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[4-001j-cityscope-new-orleans-spring-2007|CityScope: New Orleans]] — 4.001J, Spring 2007
+- [[2-082-ship-structural-analysis-design-13-122-spring-2003|Ship Structural Analysis & Design (13.122)]] — 2.082, Spring 2003
+- [[4-440-basic-structural-design-spring-2009|Basic Structural Design]] — 4.440, Spring 2009
+- [[1-020-ecology-ii-engineering-for-sustainability-spring-2008|Ecology II: Engineering for Sustainability]] — 1.020, Spring 2008
 - [[4-463-building-technology-iii-building-structural-systems-fall-2004|Building Technology III: Building Structural Systems]] — 4.463, Fall 2004
 - [[1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007|Masters of Engineering Concepts of Engineering Practice]] — 1.133, Fall 2007
 - [[4-411-building-technology-laboratory-spring-2004|Building Technology Laboratory]] — 4.411, Spring 2004

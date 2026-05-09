@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[18-366-random-walks-and-diffusion-fall-2006|Random Walks and Diffusion]] — 18.366, Fall 2006
+- [[2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009|Exploring Sea, Space, & Earth: Fundamentals of Engineering Design]] — 2.00AJ, Spring 2009
+- [[20-430j-fields-forces-and-flows-in-biological-systems-fall-2015|Fields, Forces, and Flows in Biological Systems]] — 20.430J, Fall 2015
 - [[2-003-modeling-dynamics-and-control-i-spring-2005|Modeling Dynamics and Control I]] — 2.003, Spring 2005
 - [[3-024-electronic-optical-and-magnetic-properties-of-materials-spring-2013|Electronic, Optical and Magnetic Properties of Materials]] — 3.024, Spring 2013
 - [[2-160-identification-estimation-and-learning-spring-2006|Identification, Estimation, and Learning]] — 2.160, Spring 2006

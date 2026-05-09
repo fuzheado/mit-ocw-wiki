@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[11-366j-planning-for-sustainable-development-spring-2006|Planning for Sustainable Development]] — 11.366J, Spring 2006
 - [[1-964-design-for-sustainability-fall-2006|Design for Sustainability]] — 1.964, Fall 2006
 - [[10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004|Integrated Chemical Engineering Topics I: Process Control by Design]] — 10.492-1, Fall 2004
 - [[1-72-groundwater-hydrology-fall-2005|Groundwater Hydrology]] — 1.72, Fall 2005

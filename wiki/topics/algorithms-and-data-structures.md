@@ -12,6 +12,10 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-5060-algorithm-engineering-spring-2023|Algorithm Engineering]] — 6.5060, Spring 2023
+- [[6-837-computer-graphics-fall-2012|Computer Graphics]] — 6.837, Fall 2012
+- [[6-5830-database-systems-fall-2023|Database Systems]] — 6.5830, Fall 2023
+- [[6-854j-advanced-algorithms-fall-2005|Advanced Algorithms]] — 6.854J, Fall 2005
 - [[2-160-identification-estimation-and-learning-spring-2006|Identification, Estimation, and Learning]] — 2.160, Spring 2006
 - [[6-883-program-analysis-fall-2005|Program Analysis]] — 6.883, Fall 2005
 - [[6-046j-design-and-analysis-of-algorithms-spring-2015|Design and Analysis of Algorithms]] — 6.046J, Spring 2015

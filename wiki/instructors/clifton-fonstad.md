@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-012-microelectronic-devices-and-circuits-fall-2009|Microelectronic Devices and Circuits]]
 - [[6-772-compound-semiconductor-devices-spring-2003|Compound Semiconductor Devices]]

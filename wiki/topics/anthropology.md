@@ -12,6 +12,10 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015|Workshop II: Qualitative Social Science Methods for Media Studies]] — CMS.951, Spring 2015
+- [[21l-481-victorian-literature-and-culture-spring-2003|Victorian Literature and Culture]] — 21L.481, Spring 2003
+- [[21a-155-food-culture-politics-fall-2019|Food, Culture & Politics]] — 21A.155, Fall 2019
+- [[21a-303j-the-anthropology-of-biology-spring-2022|The Anthropology of Biology]] — 21A.303J, Spring 2022
 - [[21a-500j-technology-and-culture-spring-2014|Technology and Culture]] — 21A.500J, Spring 2014
 - [[21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003|Topics in the Avant-Garde in Literature and Cinema]] — 21G.031J, Spring 2003
 - [[11-469-urban-sociology-in-theory-and-practice-spring-2009|Urban Sociology in Theory and Practice]] — 11.469, Spring 2009

@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21m-873-theater-arts-topics-suburbia-january-iap-2008|Theater Arts Topics - Suburbia]] — 21M.873, January IAP 2008
+- [[21m-734-design-for-the-theater-scenery-spring-2005|Design for the Theater: Scenery]] — 21M.734, Spring 2005
 - [[21m-603-principles-of-design-fall-2005|Principles of Design]] — 21M.603, Fall 2005
 - [[21m-604-playwriting-i-spring-2005|Playwriting I]] — 21M.604, Spring 2005
 - [[21l-423j-introduction-to-anglo-american-folk-music-fall-2005|Introduction to Anglo-American Folk Music]] — 21L.423J, Fall 2005

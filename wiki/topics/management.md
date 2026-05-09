@@ -12,6 +12,7 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-969-dynamic-leadership-using-improvisation-in-business-fall-2004|Dynamic Leadership: Using Improvisation in Business]] — 15.969, Fall 2004
 - [[15-501-introduction-to-financial-and-managerial-accounting-spring-2004|Introduction to Financial and Managerial Accounting]] — 15.501, Spring 2004
 - [[15-310-managerial-psychology-laboratory-spring-2003|Managerial Psychology Laboratory]] — 15.310, Spring 2003
 - [[15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004|Innovative Businesses and Breakthrough Technologies - The Legal Issues]] — 15.616, Fall 2004

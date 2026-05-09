@@ -12,6 +12,9 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001|Power of Place: Media Technology, Youth, and City Design and Development]] — 11.948, Spring 2001
+- [[res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023|MIT-Haiti Initiative / Inisyativ MIT-Ayiti]] — RES.24-002, Spring 2023
+- [[11-129-educational-theory-and-practice-i-fall-2011|Educational Theory and Practice I]] — 11.129, Fall 2011
 - [[mas-962-the-nature-of-constructionist-learning-spring-2003|The Nature of Constructionist Learning]] — MAS.962, Spring 2003
 - [[res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015|Girls Who Build: Make Your Own Wearables Workshop]] — RES.2-005, Spring 2015
 - [[res-tll-007-case-studies-in-social-and-ethical-responsibilities-of-computing-fall-2021|Case Studies in Social and Ethical Responsibilities of Computing]] — RES.TLL-007, Fall 2021

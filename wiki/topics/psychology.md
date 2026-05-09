@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[14-13-psychology-and-economics-spring-2020|Psychology and Economics]] — 14.13, Spring 2020
+- [[9-46-neuroscience-of-morality-fall-2017|Neuroscience of Morality]] — 9.46, Fall 2017
 - [[9-201-advanced-animal-behavior-spring-2000|Advanced Animal Behavior]] — 9.201, Spring 2000
 - [[17-s950-emotions-and-politics-fall-2018|Emotions and Politics]] — 17.S950, Fall 2018
 - [[15-342j-organizations-and-environments-fall-2004|Organizations and Environments]] — 15.342J, Fall 2004

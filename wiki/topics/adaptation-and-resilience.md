@@ -12,6 +12,10 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[11-947-sustainable-economic-development-spring-2004|Sustainable Economic Development]] — 11.947, Spring 2004
+- [[4-183-sustainable-design-and-technology-research-workshop-spring-2004|Sustainable Design and Technology Research Workshop]] — 4.183, Spring 2004
+- [[11-366j-planning-for-sustainable-development-spring-2006|Planning for Sustainable Development]] — 11.366J, Spring 2006
+- [[1-020-ecology-ii-engineering-for-sustainability-spring-2008|Ecology II: Engineering for Sustainability]] — 1.020, Spring 2008
 - [[1-964-design-for-sustainability-fall-2006|Design for Sustainability]] — 1.964, Fall 2006
 - [[14-44-energy-economics-spring-2007|Energy Economics]] — 14.44, Spring 2007
 - [[ec-719-d-lab-water-climate-change-and-health-spring-2019|D-Lab: Water, Climate Change, and Health]] — EC.719, Spring 2019

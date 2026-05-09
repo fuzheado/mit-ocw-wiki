@@ -12,6 +12,7 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-840-special-seminar-in-marketing-marketing-management-spring-2004|Special Seminar in Marketing: Marketing Management]] — 15.840, Spring 2004
 - [[15-351-managing-innovation-and-entrepreneurship-spring-2008|Managing Innovation and Entrepreneurship]] — 15.351, Spring 2008
 - [[15-835-entrepreneurial-marketing-spring-2002|Entrepreneurial Marketing]] — 15.835, Spring 2002
 - [[15-834-marketing-strategy-spring-2003|Marketing Strategy]] — 15.834, Spring 2003

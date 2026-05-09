@@ -12,6 +12,17 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-481j-analyzing-and-accounting-for-regional-economic-growth-spring-2009|Analyzing and Accounting for Regional Economic Growth]] — 11.481J, Spring 2009
+- [[11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009|Quantitative Reasoning & Statistical Methods for Planners I]] — 11.220, Spring 2009
+- [[11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001|Power of Place: Media Technology, Youth, and City Design and Development]] — 11.948, Spring 2001
+- [[4-001j-cityscope-new-orleans-spring-2007|CityScope: New Orleans]] — 4.001J, Spring 2007
+- [[11-401-introduction-to-housing-community-and-economic-development-fall-2015|Introduction to Housing, Community, and Economic Development]] — 11.401, Fall 2015
+- [[11-945-springfield-studio-spring-2004|Springfield Studio]] — 11.945, Spring 2004
+- [[11-947-sustainable-economic-development-spring-2004|Sustainable Economic Development]] — 11.947, Spring 2004
+- [[4-183-sustainable-design-and-technology-research-workshop-spring-2004|Sustainable Design and Technology Research Workshop]] — 4.183, Spring 2004
+- [[11-366j-planning-for-sustainable-development-spring-2006|Planning for Sustainable Development]] — 11.366J, Spring 2006
+- [[11-438-economic-development-planning-spring-2020|Economic Development Planning]] — 11.438, Spring 2020
+- [[21h-234j-downtown-spring-2005|Downtown]] — 21H.234J, Spring 2005
 - [[11-469-urban-sociology-in-theory-and-practice-spring-2009|Urban Sociology in Theory and Practice]] — 11.469, Spring 2009
 - [[11-310j-media-technology-and-city-design-and-development-fall-2002|Media Technology and City Design and Development]] — 11.310J, Fall 2002
 - [[res-11-550-leveraging-urban-mobility-disruptions-to-create-better-cities-spring-2021|Leveraging Urban Mobility Disruptions to Create Better Cities]] — RES.11-550, Spring 2021

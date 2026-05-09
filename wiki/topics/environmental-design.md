@@ -12,6 +12,12 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001|Power of Place: Media Technology, Youth, and City Design and Development]] — 11.948, Spring 2001
+- [[11-945-springfield-studio-spring-2004|Springfield Studio]] — 11.945, Spring 2004
+- [[4-125-architecture-studio-building-in-landscapes-fall-2002|Architecture Studio: Building in Landscapes]] — 4.125, Fall 2002
+- [[4-493-natural-light-in-design-january-iap-2006|Natural Light in Design]] — 4.493, January IAP 2006
+- [[21h-234j-downtown-spring-2005|Downtown]] — 21H.234J, Spring 2005
+- [[4-144-architectural-design-level-ii-new-orleans-studio-spring-2006|Architectural Design, Level II: New Orleans Studio]] — 4.144, Spring 2006
 - [[1-964-design-for-sustainability-fall-2006|Design for Sustainability]] — 1.964, Fall 2006
 - [[11-307-beijing-urban-design-studio-summer-2008|Beijing Urban Design Studio]] — 11.307, Summer 2008
 - [[15-990-architecture-and-communication-in-organizations-fall-2003|Architecture and Communication in Organizations]] — 15.990, Fall 2003

@@ -12,6 +12,13 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-400-the-solar-system-spring-2006|The Solar System]] — 12.400, Spring 2006
+- [[12-746-marine-organic-geochemistry-spring-2005|Marine Organic Geochemistry]] — 12.746, Spring 2005
+- [[11-947-sustainable-economic-development-spring-2004|Sustainable Economic Development]] — 11.947, Spring 2004
+- [[4-183-sustainable-design-and-technology-research-workshop-spring-2004|Sustainable Design and Technology Research Workshop]] — 4.183, Spring 2004
+- [[12-091-radon-research-in-multidisciplines-a-review-january-iap-2007|Radon Research in Multidisciplines: A Review]] — 12.091, January IAP 2007
+- [[11-366j-planning-for-sustainable-development-spring-2006|Planning for Sustainable Development]] — 11.366J, Spring 2006
+- [[1-020-ecology-ii-engineering-for-sustainability-spring-2008|Ecology II: Engineering for Sustainability]] — 1.020, Spring 2008
 - [[12-003-atmosphere-ocean-and-climate-dynamics-fall-2008|Atmosphere, Ocean and Climate Dynamics]] — 12.003, Fall 2008
 - [[1-964-design-for-sustainability-fall-2006|Design for Sustainability]] — 1.964, Fall 2006
 - [[12-480-thermodynamics-for-geoscientists-fall-2006|Thermodynamics for Geoscientists]] — 12.480, Fall 2006

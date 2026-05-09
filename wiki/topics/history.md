@@ -12,6 +12,13 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[16-812-the-aerospace-industry-spring-2004|The Aerospace Industry]] — 16.812, Spring 2004
+- [[wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014|Gender, Race, and the Construction of the American West]] — WGS.640, Fall 2014
+- [[21l-481-victorian-literature-and-culture-spring-2003|Victorian Literature and Culture]] — 21L.481, Spring 2003
+- [[21h-234j-downtown-spring-2005|Downtown]] — 21H.234J, Spring 2005
+- [[sts-340j-introduction-to-the-history-of-technology-fall-2006|Introduction to the History of Technology]] — STS.340J, Fall 2006
+- [[cc-s10-history-and-philosophy-of-mechanics-newtons-principia-mathematica-fall-2011|History and Philosophy of Mechanics: Newton's Principia Mathematica]] — CC.S10, Fall 2011
+- [[21h-571-the-making-of-modern-south-asia-fall-2006|The Making of Modern South Asia]] — 21H.571, Fall 2006
 - [[res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015|Reducing the Danger of Nuclear Weapons and Proliferation]] — RES.8-004, January IAP 2015
 - [[17-42-causes-and-prevention-of-war-spring-2018|Causes and Prevention of War]] — 17.42, Spring 2018
 - [[21g-s01-modern-mexico-representations-of-mexico-citys-urban-life-spring-2015|Modern Mexico: Representations of Mexico City's Urban Life]] — 21G.S01, Spring 2015

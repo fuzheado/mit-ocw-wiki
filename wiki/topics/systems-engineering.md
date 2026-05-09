@@ -12,6 +12,13 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[16-63j-system-safety-spring-2016|System Safety]] — 16.63J, Spring 2016
+- [[16-852j-integrating-the-lean-enterprise-fall-2005|Integrating the Lean Enterprise]] — 16.852J, Fall 2005
+- [[2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009|Exploring Sea, Space, & Earth: Fundamentals of Engineering Design]] — 2.00AJ, Spring 2009
+- [[ids-333-risk-and-decision-analysis-fall-2021|IDS.333 Risk and Decision Analysis]] — IDS.333, Fall 2021
+- [[4-493-natural-light-in-design-january-iap-2006|Natural Light in Design]] — 4.493, January IAP 2006
+- [[16-892j-space-system-architecture-and-design-fall-2004|Space System Architecture and Design]] — 16.892J, Fall 2004
+- [[9-675-the-development-of-object-and-face-recognition-spring-2006|The Development of Object and Face Recognition]] — 9.675, Spring 2006
 - [[2-003-modeling-dynamics-and-control-i-spring-2005|Modeling Dynamics and Control I]] — 2.003, Spring 2005
 - [[2-160-identification-estimation-and-learning-spring-2006|Identification, Estimation, and Learning]] — 2.160, Spring 2006
 - [[15-072j-queues-theory-and-applications-spring-2006|Queues: Theory and Applications]] — 15.072J, Spring 2006

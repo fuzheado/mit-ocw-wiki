@@ -12,6 +12,14 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[cms-362-civic-media-codesign-studio-fall-2020|Civic Media Codesign Studio]] — CMS.362, Fall 2020
+- [[11-003j-methods-of-policy-analysis-spring-2016|Methods of Policy Analysis]] — 11.003J, Spring 2016
+- [[11-401-introduction-to-housing-community-and-economic-development-fall-2015|Introduction to Housing, Community, and Economic Development]] — 11.401, Fall 2015
+- [[6-931-development-of-inventions-and-creative-ideas-spring-2008|Development of Inventions and Creative Ideas]] — 6.931, Spring 2008
+- [[11-947-sustainable-economic-development-spring-2004|Sustainable Economic Development]] — 11.947, Spring 2004
+- [[15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003|Global Markets, National Politics and the Competitive Advantage of Firms]] — 15.224, Spring 2003
+- [[11-438-economic-development-planning-spring-2020|Economic Development Planning]] — 11.438, Spring 2020
+- [[11-007-resolving-public-disputes-spring-2005|Resolving Public Disputes]] — 11.007, Spring 2005
 - [[res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015|Reducing the Danger of Nuclear Weapons and Proliferation]] — RES.8-004, January IAP 2015
 - [[21a-500j-technology-and-culture-spring-2014|Technology and Culture]] — 21A.500J, Spring 2014
 - [[17-42-causes-and-prevention-of-war-spring-2018|Causes and Prevention of War]] — 17.42, Spring 2018

@@ -12,6 +12,11 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-012-microelectronic-devices-and-circuits-fall-2009|Microelectronic Devices and Circuits]] — 6.012, Fall 2009
+- [[ec-s06-practical-electronics-fall-2004|Practical Electronics]] — EC.S06, Fall 2004
+- [[2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009|Exploring Sea, Space, & Earth: Fundamentals of Engineering Design]] — 2.00AJ, Spring 2009
+- [[24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007|Topics in Linguistic Theory: Laboratory Phonology]] — 24.910, Spring 2007
+- [[2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009|Direct Solar/Thermal to Electrical Energy Conversion Technologies]] — 2.997, Fall 2009
 - [[ec-s07-photovoltaic-solar-energy-systems-fall-2004|Photovoltaic Solar Energy Systems]] — EC.S07, Fall 2004
 - [[res-6-010-electronic-feedback-systems-spring-2013|Electronic Feedback Systems]] — RES.6-010, Spring 2013
 - [[20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006|Biological Engineering II: Instrumentation and Measurement]] — 20.309, Fall 2006

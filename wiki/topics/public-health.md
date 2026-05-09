@@ -12,6 +12,9 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[11-003j-methods-of-policy-analysis-spring-2016|Methods of Policy Analysis]] — 11.003J, Spring 2016
+- [[wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014|Gender, Health and Marginalization Through a Critical Feminist Lens]] — WGS.645, Fall 2014
+- [[12-091-radon-research-in-multidisciplines-a-review-january-iap-2007|Radon Research in Multidisciplines: A Review]] — 12.091, January IAP 2007
 - [[24-06j-bioethics-spring-2009|Bioethics]] — 24.06J, Spring 2009
 - [[pe-910-physical-intelligence-january-iap-2002|Physical Intelligence]] — PE.910, January IAP 2002
 - [[pe-720-weight-training-spring-2006|Weight Training]] — PE.720, Spring 2006

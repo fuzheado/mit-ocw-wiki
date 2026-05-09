@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[16-812-the-aerospace-industry-spring-2004|The Aerospace Industry]] — 16.812, Spring 2004
+- [[16-852j-integrating-the-lean-enterprise-fall-2005|Integrating the Lean Enterprise]] — 16.852J, Fall 2005
+- [[15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009|Practice of Finance: Advanced Corporate Risk Management]] — 15.997, Spring 2009
 - [[15-351-managing-innovation-and-entrepreneurship-spring-2008|Managing Innovation and Entrepreneurship]] — 15.351, Spring 2008
 - [[15-072j-queues-theory-and-applications-spring-2006|Queues: Theory and Applications]] — 15.072J, Spring 2006
 - [[15-317-organizational-leadership-and-change-summer-2009|Organizational Leadership and Change]] — 15.317, Summer 2009

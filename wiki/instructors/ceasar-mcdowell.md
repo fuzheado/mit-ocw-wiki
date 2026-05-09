@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-945-springfield-studio-spring-2004|Springfield Studio]]
 - [[11-310j-media-technology-and-city-design-and-development-fall-2002|Media Technology and City Design and Development]]
 - [[11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007|Reflective Practice: An Approach for Expanding Your Learning Frontiers]]
 - [[11-945-katrina-practicum-spring-2006|Katrina Practicum]]

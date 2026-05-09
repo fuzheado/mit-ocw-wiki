@@ -10,6 +10,10 @@ courses_count: 0
 
 ## Courses
 
+- [[11-481j-analyzing-and-accounting-for-regional-economic-growth-spring-2009|Analyzing and Accounting for Regional Economic Growth]] (11.481J)
+- [[16-852j-integrating-the-lean-enterprise-fall-2005|Integrating the Lean Enterprise]] (16.852J)
+- [[sts-340j-introduction-to-the-history-of-technology-fall-2006|Introduction to the History of Technology]] (STS.340J)
+- [[16-892j-space-system-architecture-and-design-fall-2004|Space System Architecture and Design]] (16.892J)
 - [[esd-10-introduction-to-technology-and-policy-fall-2006|Introduction to Technology and Policy]] (ESD.10)
 - [[esd-33-systems-engineering-summer-2004|Systems Engineering]] (ESD.33)
 - [[esd-34-system-architecture-january-iap-2007|System Architecture]] (ESD.34)

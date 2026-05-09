@@ -12,6 +12,14 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-400-the-solar-system-spring-2006|The Solar System]] — 12.400, Spring 2006
+- [[18-307-integral-equations-spring-2006|Integral Equations]] — 18.307, Spring 2006
+- [[3-45-magnetic-materials-spring-2004|Magnetic Materials]] — 3.45, Spring 2004
+- [[10-302-transport-processes-fall-2004|Transport Processes]] — 10.302, Fall 2004
+- [[12-091-radon-research-in-multidisciplines-a-review-january-iap-2007|Radon Research in Multidisciplines: A Review]] — 12.091, January IAP 2007
+- [[res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026|Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work]] — RES.10-001, Spring 2026
+- [[2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009|Direct Solar/Thermal to Electrical Energy Conversion Technologies]] — 2.997, Fall 2009
+- [[20-110j-thermodynamics-of-biomolecular-systems-fall-2005|Thermodynamics of Biomolecular Systems]] — 20.110J, Fall 2005
 - [[3-53-electrochemical-processing-of-materials-spring-2001|Electrochemical Processing of Materials]] — 3.53, Spring 2001
 - [[8-325-relativistic-quantum-field-theory-iii-spring-2007|Relativistic Quantum Field Theory III]] — 8.325, Spring 2007
 - [[12-480-thermodynamics-for-geoscientists-fall-2006|Thermodynamics for Geoscientists]] — 12.480, Fall 2006

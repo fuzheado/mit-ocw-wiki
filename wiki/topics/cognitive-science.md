@@ -12,6 +12,9 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[res-9-005-fmri-bootcamp-fall-2017|fMRI Bootcamp]] — RES.9-005, Fall 2017
+- [[9-46-neuroscience-of-morality-fall-2017|Neuroscience of Morality]] — 9.46, Fall 2017
+- [[9-675-the-development-of-object-and-face-recognition-spring-2006|The Development of Object and Face Recognition]] — 9.675, Spring 2006
 - [[9-201-advanced-animal-behavior-spring-2000|Advanced Animal Behavior]] — 9.201, Spring 2000
 - [[pe-910-physical-intelligence-january-iap-2002|Physical Intelligence]] — PE.910, January IAP 2002
 - [[9-12-experimental-molecular-neurobiology-fall-2006|Experimental Molecular Neurobiology]] — 9.12, Fall 2006

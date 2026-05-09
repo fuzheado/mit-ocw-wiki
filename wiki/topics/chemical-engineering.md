@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[18-366-random-walks-and-diffusion-fall-2006|Random Walks and Diffusion]] — 18.366, Fall 2006
+- [[10-302-transport-processes-fall-2004|Transport Processes]] — 10.302, Fall 2004
+- [[20-430j-fields-forces-and-flows-in-biological-systems-fall-2015|Fields, Forces, and Flows in Biological Systems]] — 20.430J, Fall 2015
+- [[2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009|Direct Solar/Thermal to Electrical Energy Conversion Technologies]] — 2.997, Fall 2009
 - [[3-53-electrochemical-processing-of-materials-spring-2001|Electrochemical Processing of Materials]] — 3.53, Spring 2001
 - [[15-136j-principles-and-practice-of-drug-development-fall-2013|Principles and Practice of Drug Development]] — 15.136J, Fall 2013
 - [[10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004|Integrated Chemical Engineering Topics I: Process Control by Design]] — 10.492-1, Fall 2004

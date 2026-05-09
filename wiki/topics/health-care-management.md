@@ -12,6 +12,7 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[11-003j-methods-of-policy-analysis-spring-2016|Methods of Policy Analysis]] — 11.003J, Spring 2016
 - [[15-136j-principles-and-practice-of-drug-development-fall-2013|Principles and Practice of Drug Development]] — 15.136J, Fall 2013
 - [[15-s07-globalhealth-lab-spring-2013|GlobalHealth Lab]] — 15.S07, Spring 2013
 - [[6-541j-speech-communication-spring-2004|Speech Communication]] — 6.541J, Spring 2004

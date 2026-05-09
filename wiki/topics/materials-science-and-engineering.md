@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[3-45-magnetic-materials-spring-2004|Magnetic Materials]] — 3.45, Spring 2004
+- [[2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009|Direct Solar/Thermal to Electrical Energy Conversion Technologies]] — 2.997, Fall 2009
 - [[3-53-electrochemical-processing-of-materials-spring-2001|Electrochemical Processing of Materials]] — 3.53, Spring 2001
 - [[3-024-electronic-optical-and-magnetic-properties-of-materials-spring-2013|Electronic, Optical and Magnetic Properties of Materials]] — 3.024, Spring 2013
 - [[ec-s07-photovoltaic-solar-energy-systems-fall-2004|Photovoltaic Solar Energy Systems]] — EC.S07, Fall 2004
