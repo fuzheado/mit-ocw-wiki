@@ -2,7 +2,7 @@
   "version": 1,
   "stages": {
     "smoke_test": true,
-    "departments_topics": false,
+    "departments_topics": true,
     "courses_bootstrap": {
       "complete": false,
       "batches_done": 0,
