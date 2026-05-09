@@ -12,6 +12,8 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[11-942-regional-energy-environmental-economic-modeling-spring-2007|Regional Energy-Environmental Economic Modeling]] — 11.942, Spring 2007
+- [[15-975-u-lab-leading-profound-innovation-for-a-more-sustainable-world-fall-2010|U-Lab: Leading Profound Innovation for a More Sustainable World]] — 15.975, Fall 2010
 - [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]] — 11.364, Fall 2010
 - [[21h-s01-food-in-american-history-fall-2014|Food in American History]] — 21H.S01, Fall 2014
 - [[17-559-comparative-security-and-sustainability-fall-2004|Comparative Security and Sustainability]] — 17.559, Fall 2004

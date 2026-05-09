@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[1-731-water-resource-systems-fall-2006|Water Resource Systems]]
 - [[1-74-land-water-food-and-climate-fall-2020|Land, Water, Food, and Climate]]

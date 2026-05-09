@@ -12,6 +12,11 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013|Advanced Topics in Hispanic Literature and Film: The Films of Luis Buñuel]] — 21G.735, Fall 2013
+- [[4-341-introduction-to-photography-and-related-media-fall-2007|Introduction to Photography and Related Media]] — 4.341, Fall 2007
+- [[6-831-user-interface-design-and-implementation-spring-2011|User Interface Design and Implementation]] — 6.831, Spring 2011
+- [[21g-065-japanese-literature-and-cinema-fall-2013|Japanese Literature and Cinema]] — 21G.065, Fall 2013
+- [[mas-962-special-topics-new-textiles-spring-2010|Special Topics: New Textiles]] — MAS.962, Spring 2010
 - [[21l-325-small-wonders-staying-alive-spring-2007|Small Wonders: Staying Alive]] — 21L.325, Spring 2007
 - [[sts-004-science-technology-world-fall-2013|Science, Technology, & World]] — STS.004, Fall 2013
 - [[cms-100-introduction-to-media-studies-fall-2014|Introduction to Media Studies]] — CMS.100, Fall 2014

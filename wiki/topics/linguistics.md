@@ -12,6 +12,8 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-244-modal-logic-spring-2015|Modal Logic]] — 24.244, Spring 2015
+- [[24-973-advanced-semantics-spring-2009|Advanced Semantics]] — 24.973, Spring 2009
 - [[21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014|Teaching and Learning: Cross-Cultural Perspectives]] — 21A.150, Fall 2014
 - [[24-908-creole-languages-and-caribbean-identities-spring-2017|Creole Languages and Caribbean Identities]] — 24.908, Spring 2017
 - [[6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003|Natural Language and the Computer Representation of Knowledge]] — 6.863J, Spring 2003

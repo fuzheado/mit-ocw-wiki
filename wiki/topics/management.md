@@ -12,6 +12,13 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-361-executing-strategy-for-results-fall-2017|Executing Strategy for Results]] — 15.361, Fall 2017
+- [[15-963-management-accounting-and-control-spring-2007|Management Accounting and Control]] — 15.963, Spring 2007
+- [[15-598-it-and-business-transformation-spring-2003|IT and Business Transformation]] — 15.598, Spring 2003
+- [[10-805j-technology-law-and-the-working-environment-spring-2006|Technology, Law, and the Working Environment]] — 10.805J, Spring 2006
+- [[15-810-marketing-management-fall-2010|Marketing Management]] — 15.810, Fall 2010
+- [[res-15-005-healthcare-finance-15-482x-spring-2019|Healthcare Finance (15.482x)]] — RES.15-005, Spring 2019
+- [[15-967-managing-and-volunteering-in-the-non-profit-sector-spring-2005|Managing and Volunteering In the Non-Profit Sector]] — 15.967, Spring 2005
 - [[15-615-law-for-the-entrepreneur-and-manager-spring-2003|Law for the Entrepreneur and Manager]] — 15.615, Spring 2003
 - [[15-053x-optimization-methods-in-business-analytics-summer-2021|Optimization Methods in Business Analytics]] — 15.053x, Spring 2021
 - [[15-351-managing-the-innovation-process-fall-2002|Managing the Innovation Process]] — 15.351, Fall 2002

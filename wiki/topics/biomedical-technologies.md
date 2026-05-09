@@ -12,6 +12,8 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[hst-950j-biomedical-computing-fall-2010|Biomedical Computing]] — HST.950J, Fall 2010
+- [[esd-69-seminar-on-health-care-systems-innovation-fall-2010|Seminar on Health Care Systems Innovation]] — ESD.69, Fall 2010
 - [[hst-720-physiology-of-the-ear-fall-2004|Physiology of the Ear]] — HST.720, Fall 2004
 - [[hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006|Magnetic Resonance Analytic, Biochemical, and Imaging Techniques]] — HST.584J, Spring 2006
 - [[res-9-004-nancys-brain-talks-fall-2022|Nancy's Brain Talks]] — RES.9-004, Fall 2022

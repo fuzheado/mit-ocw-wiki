@@ -12,6 +12,15 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[18-075-advanced-calculus-for-engineers-fall-2004|Advanced Calculus for Engineers]] — 18.075, Fall 2004
+- [[18-03-differential-equations-spring-2010|Differential Equations]] — 18.03, Spring 2010
+- [[18-s997-introduction-to-matlab-programming-fall-2011|Introduction To MATLAB Programming]] — 18.S997, Fall 2011
+- [[18-655-mathematical-statistics-spring-2016|Mathematical Statistics]] — 18.655, Spring 2016
+- [[18-031-system-functions-and-the-laplace-transform-spring-2019|System Functions and the Laplace Transform]] — 18.031, Spring 2019
+- [[18-405j-advanced-complexity-theory-spring-2016|Advanced Complexity Theory]] — 18.405J, Spring 2016
+- [[18-354j-nonlinear-dynamics-ii-continuum-systems-spring-2015|Nonlinear Dynamics II: Continuum Systems]] — 18.354J, Spring 2015
+- [[18-704-seminar-in-algebra-and-number-theory-computational-commutative-algebra-and-algebraic-geometry-fall-2008|Seminar in Algebra and Number Theory: Computational Commutative Algebra and Algebraic Geometry]] — 18.704, Fall 2008
+- [[6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014|Algorithmic Lower Bounds: Fun with Hardness Proofs]] — 6.890, Fall 2014
 - [[18-024-multivariable-calculus-with-theory-spring-2011|Multivariable Calculus with Theory]] — 18.024, Spring 2011
 - [[2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007|Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations]] — 2.035, Spring 2007
 - [[18-085-computational-science-and-engineering-i-summer-2020|Computational Science and Engineering I]] — 18.085, Summer 2020

@@ -12,6 +12,13 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21a-350j-cultures-of-computing-fall-2011|Cultures of Computing]] — 21A.350J, Fall 2011
+- [[21a-303j-anthropology-of-biology-fall-2013|Anthropology of Biology]] — 21A.303J, Fall 2013
+- [[21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004|Advanced Topics: Plotting Terror in European Culture]] — 21G.061, Spring 2004
+- [[17-504-ethnic-politics-i-fall-2003|Ethnic Politics I]] — 17.504, Fall 2003
+- [[21g-065-japanese-literature-and-cinema-fall-2013|Japanese Literature and Cinema]] — 21G.065, Fall 2013
+- [[11-947-race-immigration-and-planning-spring-2005|Race, Immigration, and Planning]] — 11.947, Spring 2005
+- [[21h-206-american-consumer-culture-fall-2007|American Consumer Culture]] — 21H.206, Fall 2007
 - [[21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014|Teaching and Learning: Cross-Cultural Perspectives]] — 21A.150, Fall 2014
 - [[21m-293-music-of-africa-fall-2005|Music of Africa]] — 21M.293, Fall 2005
 - [[21a-470j-gender-and-representation-of-asian-women-spring-2010|Gender and Representation of Asian Women]] — 21A.470J, Spring 2010

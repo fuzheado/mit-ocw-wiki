@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21l-705-major-authors-after-the-masterpiece-novels-by-melville-twain-faulkner-and-morrison-fall-2006|Major Authors: After the Masterpiece: Novels by Melville, Twain, Faulkner, and Morrison]]
 - [[21l-003-introduction-to-fiction-fall-2003|Introduction to Fiction]]
 - [[21l-310-bestsellers-the-memoir-spring-2010|Bestsellers: The Memoir]]

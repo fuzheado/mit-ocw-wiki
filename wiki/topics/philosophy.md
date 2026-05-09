@@ -12,6 +12,14 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21a-350j-cultures-of-computing-fall-2011|Cultures of Computing]] — 21A.350J, Fall 2011
+- [[24-244-modal-logic-spring-2015|Modal Logic]] — 24.244, Spring 2015
+- [[17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005|Special Graduate Topic in Political Science: Political Behavior]] — 17.951, Fall 2005
+- [[21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003|Foundations of Western Culture II: Renaissance to Modernity]] — 21L.002-2, Spring 2003
+- [[21w-016-writing-and-rhetoric-designing-meaning-fall-2016|Writing and Rhetoric: Designing Meaning]] — 21W.016, Fall 2016
+- [[17-504-ethnic-politics-i-fall-2003|Ethnic Politics I]] — 17.504, Fall 2003
+- [[11-947-race-immigration-and-planning-spring-2005|Race, Immigration, and Planning]] — 11.947, Spring 2005
+- [[21h-206-american-consumer-culture-fall-2007|American Consumer Culture]] — 21H.206, Fall 2007
 - [[21l-470-eighteenth-century-literature-versions-of-the-self-in-18th-c-britain-spring-2003|Eighteenth-Century Literature: Versions of the Self in 18th-C Britain]] — 21L.470, Spring 2003
 - [[15-269b-literature-ethics-and-authority-fall-2002|Literature, Ethics and Authority]] — 15.269B, Fall 2002
 - [[24-235j-philosophy-of-law-spring-2012|Philosophy of Law]] — 24.235J, Spring 2012

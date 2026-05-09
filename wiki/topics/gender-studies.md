@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009|Gender, Race, and the Complexities of Science and Technology: A Problem-Based Learning Experiment]] — WGS.693, Spring 2009
+- [[wgs-150-gender-power-leadership-and-the-workplace-spring-2015|Gender, Power, Leadership and the Workplace]] — WGS.150, Spring 2015
 - [[21a-470j-gender-and-representation-of-asian-women-spring-2010|Gender and Representation of Asian Women]] — 21A.470J, Spring 2010
 - [[21l-707-reading-cookbooks-from-the-forme-of-cury-to-the-smitten-kitchen-spring-2017|Reading Cookbooks: from The Forme of Cury to The Smitten Kitchen]] — 21L.707, Spring 2017
 - [[17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012|Conversations You Can't Have on Campus: Race, Ethnicity, Gender and Identity]] — 17.S914, Spring 2012

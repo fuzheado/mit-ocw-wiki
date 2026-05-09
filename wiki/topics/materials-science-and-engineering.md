@@ -12,6 +12,12 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005|Symmetry, Structure, and Tensor Properties of Materials]] — 3.60, Fall 2005
+- [[3-00-thermodynamics-of-materials-fall-2002|Thermodynamics of Materials]] — 3.00, Fall 2002
+- [[6-977-semiconductor-optoelectronics-theory-and-design-fall-2002|Semiconductor Optoelectronics: Theory and Design]] — 6.977, Fall 2002
+- [[3-91-mechanical-behavior-of-plastics-spring-2007|Mechanical Behavior of Plastics]] — 3.91, Spring 2007
+- [[3-40j-physical-metallurgy-fall-2009|Physical Metallurgy]] — 3.40J, Fall 2009
+- [[mas-962-special-topics-new-textiles-spring-2010|Special Topics: New Textiles]] — MAS.962, Spring 2010
 - [[6-763-applied-superconductivity-fall-2005|Applied Superconductivity]] — 6.763, Fall 2005
 - [[3-012-fundamentals-of-materials-science-fall-2005|Fundamentals of Materials Science]] — 3.012, Fall 2005
 - [[4-493-emergent-materials-ii-spring-2005|Emergent Materials II]] — 4.493, Spring 2005

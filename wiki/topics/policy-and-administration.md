@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-447-cyberpolitics-in-international-relations-theory-methods-policy-fall-2011|Cyberpolitics in International Relations: Theory, Methods, Policy]] — 17.447, Fall 2011
+- [[11-942-regional-energy-environmental-economic-modeling-spring-2007|Regional Energy-Environmental Economic Modeling]] — 11.942, Spring 2007
+- [[10-805j-technology-law-and-the-working-environment-spring-2006|Technology, Law, and the Working Environment]] — 10.805J, Spring 2006
+- [[11-486j-economic-institutions-and-growth-policy-analysis-fall-2005|Economic Institutions and Growth Policy Analysis]] — 11.486J, Fall 2005
+- [[15-967-managing-and-volunteering-in-the-non-profit-sector-spring-2005|Managing and Volunteering In the Non-Profit Sector]] — 15.967, Spring 2005
 - [[4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002|Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems]] — 4.285, Fall 2002
 - [[17-410-globalization-migration-and-international-relations-spring-2006|Globalization, Migration, and International Relations]] — 17.410, Spring 2006
 - [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]] — 11.364, Fall 2010

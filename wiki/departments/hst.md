@@ -12,6 +12,9 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[hst-950j-biomedical-computing-fall-2010|Biomedical Computing]] (HST.950J)
+- [[esd-69-seminar-on-health-care-systems-innovation-fall-2010|Seminar on Health Care Systems Innovation]] (ESD.69)
+- [[6-877j-computational-evolutionary-biology-fall-2005|Computational Evolutionary Biology]] (6.877J)
 - [[hst-542j-quantitative-physiology-organ-transport-systems-spring-2004|Quantitative Physiology: Organ Transport Systems]] (HST.542J)
 - [[hst-953-collaborative-data-science-for-healthcare-fall-2020|Collaborative Data Science for Healthcare]] (HST.953)
 - [[6-047-computational-biology-fall-2015|Computational Biology]] (6.047)

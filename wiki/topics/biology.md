@@ -12,6 +12,10 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-009j-theoretical-environmental-analysis-spring-2015|Theoretical Environmental Analysis]] — 12.009J, Spring 2015
+- [[2-a35-biomimetic-principles-and-design-fall-2013|Biomimetic Principles and Design]] — 2.A35, Fall 2013
+- [[6-877j-computational-evolutionary-biology-fall-2005|Computational Evolutionary Biology]] — 6.877J, Fall 2005
+- [[12-158-molecular-biogeochemistry-fall-2011|Molecular Biogeochemistry]] — 12.158, Fall 2011
 - [[9-98-neuropharmacology-january-iap-2009|Neuropharmacology]] — 9.98, January IAP 2009
 - [[12-517-dynamics-of-complex-systems-biological-and-environmental-coevolution-preceding-the-cambrian-explosion-spring-2005|Dynamics of Complex Systems: Biological and Environmental Coevolution Preceding the Cambrian Explosion]] — 12.517, Spring 2005
 - [[9-916-special-topics-social-animals-fall-2009|Special Topics: Social Animals]] — 9.916, Fall 2009

@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[esd-69-seminar-on-health-care-systems-innovation-fall-2010|Seminar on Health Care Systems Innovation]] — ESD.69, Fall 2010
+- [[18-s997-introduction-to-matlab-programming-fall-2011|Introduction To MATLAB Programming]] — 18.S997, Fall 2011
 - [[4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002|Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems]] — 4.285, Fall 2002
 - [[16-323-principles-of-optimal-control-spring-2008|Principles of Optimal Control]] — 16.323, Spring 2008
 - [[18-085-computational-science-and-engineering-i-summer-2020|Computational Science and Engineering I]] — 18.085, Summer 2020

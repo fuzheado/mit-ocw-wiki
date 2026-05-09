@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21g-705-oral-communication-in-spanish-spring-2004|Oral Communication in Spanish]]
 - [[21g-714-spanish-for-bilingual-students-spring-2003|Spanish for Bilingual Students]]

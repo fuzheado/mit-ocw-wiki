@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004|Fluid Dynamics of the Atmosphere and Ocean]] — 12.800, Fall 2004
+- [[2-a35-biomimetic-principles-and-design-fall-2013|Biomimetic Principles and Design]] — 2.A35, Fall 2013
 - [[2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007|Special Topics in Mechanical Engineering: The Art and Science of Boat Design]] — 2.993, January IAP 2007
 - [[2-062j-wave-propagation-spring-2017|Wave Propagation]] — 2.062J, Spring 2017
 - [[2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004|Principles of Oceanographic Instrument Systems -- Sensors and Measurements (13.998)]] — 2.693, Spring 2004

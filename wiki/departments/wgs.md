@@ -12,6 +12,10 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009|Gender, Race, and the Complexities of Science and Technology: A Problem-Based Learning Experiment]] (WGS.693)
+- [[21a-350j-cultures-of-computing-fall-2011|Cultures of Computing]] (21A.350J)
+- [[21l-705-major-authors-after-the-masterpiece-novels-by-melville-twain-faulkner-and-morrison-fall-2006|Major Authors: After the Masterpiece: Novels by Melville, Twain, Faulkner, and Morrison]] (21L.705)
+- [[wgs-150-gender-power-leadership-and-the-workplace-spring-2015|Gender, Power, Leadership and the Workplace]] (WGS.150)
 - [[21a-470j-gender-and-representation-of-asian-women-spring-2010|Gender and Representation of Asian Women]] (21A.470J)
 - [[21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013|Dilemmas in Bio-Medical Ethics: Playing God or Doing Good?]] (21A.302J)
 - [[21a-218j-identity-and-difference-spring-2010|Identity and Difference]] (21A.101J (formerly 21A.218J))

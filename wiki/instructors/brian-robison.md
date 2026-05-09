@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21m-301-harmony-and-counterpoint-i-spring-2005|Harmony and Counterpoint I]]
 - [[21m-263-music-since-1960-spring-2006|Music Since 1960]]

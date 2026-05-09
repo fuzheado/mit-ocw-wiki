@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-322-soil-behavior-spring-2005|Soil Behavior]] — 1.322, Spring 2005
 - [[1-258j-public-transportation-systems-spring-2017|Public Transportation Systems]] — 1.258J, Spring 2017
 - [[1-040-project-management-spring-2004|Project Management]] — 1.040, Spring 2004
 - [[1-571-structural-analysis-and-control-spring-2004|Structural Analysis and Control]] — 1.571, Spring 2004

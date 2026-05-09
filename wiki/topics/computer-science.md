@@ -12,6 +12,20 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-827-multithreaded-parallelism-languages-and-compilers-fall-2002|Multithreaded Parallelism: Languages and Compilers]] — 6.827, Fall 2002
+- [[6-s191-introduction-to-deep-learning-january-iap-2020|Introduction to Deep Learning]] — 6.S191, January IAP 2020
+- [[6-976-high-speed-communication-circuits-and-systems-spring-2003|High Speed Communication Circuits and Systems]] — 6.976, Spring 2003
+- [[6-s062-generative-artificial-intelligence-in-k12-education-fall-2023|Generative Artificial Intelligence in K–12 Education]] — 6.S062, Fall 2023
+- [[mas-961-ambient-intelligence-spring-2005|Ambient Intelligence]] — MAS.961, Spring 2005
+- [[18-s997-introduction-to-matlab-programming-fall-2011|Introduction To MATLAB Programming]] — 18.S997, Fall 2011
+- [[res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012|How to Process, Analyze and Visualize Data]] — RES.6-009, January IAP 2012
+- [[mas-964-common-sense-reasoning-for-interactive-applications-fall-2002|Common Sense Reasoning for Interactive Applications]] — MAS.964, Fall 2002
+- [[18-405j-advanced-complexity-theory-spring-2016|Advanced Complexity Theory]] — 18.405J, Spring 2016
+- [[6-831-user-interface-design-and-implementation-spring-2011|User Interface Design and Implementation]] — 6.831, Spring 2011
+- [[2-171-analysis-and-design-of-digital-control-systems-fall-2006|Analysis and Design of Digital Control Systems]] — 2.171, Fall 2006
+- [[6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003|Analysis and Design of Digital Integrated Circuits]] — 6.374, Fall 2003
+- [[16-412j-cognitive-robotics-spring-2016|Cognitive Robotics]] — 16.412J, Spring 2016
+- [[6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014|Algorithmic Lower Bounds: Fun with Hardness Proofs]] — 6.890, Fall 2014
 - [[6-s095-programming-for-the-puzzled-january-iap-2018|Programming for the Puzzled]] — 6.S095, January IAP 2018
 - [[6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003|Natural Language and the Computer Representation of Knowledge]] — 6.863J, Spring 2003
 - [[6-803-the-human-intelligence-enterprise-spring-2019|The Human Intelligence Enterprise]] — 6.803, Spring 2019

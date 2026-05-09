@@ -12,6 +12,7 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-705-oral-communication-in-spanish-spring-2004|Oral Communication in Spanish]] — 21G.705, Spring 2004
 - [[21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014|Teaching and Learning: Cross-Cultural Perspectives]] — 21A.150, Fall 2014
 - [[21g-410-advanced-german-professional-communication-spring-2017|Advanced German: Professional Communication]] — 21G.410, Spring 2017
 - [[21g-223-listening-speaking-and-pronunciation-fall-2004|Listening, Speaking, and Pronunciation]] — 21G.223, Fall 2004

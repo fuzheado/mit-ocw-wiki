@@ -12,6 +12,9 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[12-009j-theoretical-environmental-analysis-spring-2015|Theoretical Environmental Analysis]] — 12.009J, Spring 2015
+- [[11-942-regional-energy-environmental-economic-modeling-spring-2007|Regional Energy-Environmental Economic Modeling]] — 11.942, Spring 2007
+- [[15-975-u-lab-leading-profound-innovation-for-a-more-sustainable-world-fall-2010|U-Lab: Leading Profound Innovation for a More Sustainable World]] — 15.975, Fall 2010
 - [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]] — 11.364, Fall 2010
 - [[11-941-urban-climate-adaptation-spring-2011|Urban Climate Adaptation]] — 11.941, Spring 2011
 - [[6-s898-climate-change-seminar-fall-2019|Climate Change Seminar]] — 6.S898, Fall 2019

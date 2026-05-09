@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21h-266-apartheid-and-south-africa-spring-2020|Apartheid and South Africa]]
 - [[21h-165-modern-african-history-spring-2019|Modern African History]]

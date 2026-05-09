@@ -12,6 +12,7 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014|Algorithmic Lower Bounds: Fun with Hardness Proofs]] — 6.890, Fall 2014
 - [[6-s095-programming-for-the-puzzled-january-iap-2018|Programming for the Puzzled]] — 6.S095, January IAP 2018
 - [[18-337j-parallel-computing-fall-2011|Parallel Computing]] — 18.337J, Fall 2011
 - [[6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002|Techniques in Artificial Intelligence (SMA 5504)]] — 6.825, Fall 2002

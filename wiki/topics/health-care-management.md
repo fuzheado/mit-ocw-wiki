@@ -12,6 +12,8 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[esd-69-seminar-on-health-care-systems-innovation-fall-2010|Seminar on Health Care Systems Innovation]] — ESD.69, Fall 2010
+- [[res-15-005-healthcare-finance-15-482x-spring-2019|Healthcare Finance (15.482x)]] — RES.15-005, Spring 2019
 - [[hst-953-collaborative-data-science-for-healthcare-fall-2020|Collaborative Data Science for Healthcare]] — HST.953, Fall 2020
 - [[15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013|Business Model Innovation: Global Health in Frontier Markets]] — 15.232, Fall 2013
 - [[16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012|Introduction to Lean Six Sigma Methods]] (16.660J) — January IAP 2012

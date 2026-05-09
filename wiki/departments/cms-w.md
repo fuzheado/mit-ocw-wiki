@@ -12,6 +12,8 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[cms-361-networked-social-movements-media-mobilization-spring-2014|Networked Social Movements: Media & Mobilization]] (CMS.361)
+- [[21w-016-writing-and-rhetoric-designing-meaning-fall-2016|Writing and Rhetoric: Designing Meaning]] (21W.016)
 - [[cms-608-game-design-spring-2008|Game Design]] (CMS.608)
 - [[21w-759-writing-science-fiction-spring-2016|Writing Science Fiction]] (21W.759)
 - [[21w-758-genre-fiction-workshop-spring-2013|Genre Fiction Workshop]] (21W.758)

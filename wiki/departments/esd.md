@@ -10,6 +10,8 @@ courses_count: 0
 
 ## Courses
 
+- [[esd-69-seminar-on-health-care-systems-innovation-fall-2010|Seminar on Health Care Systems Innovation]] (ESD.69)
+- [[1-259j-transit-management-fall-2006|Transit Management]] (1.259J)
 - [[esd-141-technology-policy-negotiations-spring-2006|Technology Policy Negotiations]] (ESD.141)
 - [[11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008|Regional Socioeconomic Impact Analyses and Modeling]] (11.482J)
 - [[1-223j-transportation-policy-strategy-and-management-fall-2004|Transportation Policy, Strategy, and Management]] (1.223J)

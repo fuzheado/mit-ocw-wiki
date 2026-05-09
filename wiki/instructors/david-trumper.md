@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[2-171-analysis-and-design-of-digital-control-systems-fall-2006|Analysis and Design of Digital Control Systems]]
 - [[2-737-mechatronics-fall-2014|Mechatronics]]

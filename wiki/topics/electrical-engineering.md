@@ -12,6 +12,15 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-973-organic-optoelectronics-spring-2003|Organic Optoelectronics]] — 6.973, Spring 2003
+- [[6-976-high-speed-communication-circuits-and-systems-spring-2003|High Speed Communication Circuits and Systems]] — 6.976, Spring 2003
+- [[6-152j-micro-nano-processing-technology-fall-2005|Micro/Nano Processing Technology]] — 6.152J, Fall 2005
+- [[6-977-semiconductor-optoelectronics-theory-and-design-fall-2002|Semiconductor Optoelectronics: Theory and Design]] — 6.977, Fall 2002
+- [[6-450-principles-of-digital-communications-i-fall-2006|Principles of Digital Communications I]] — 6.450, Fall 2006
+- [[2-171-analysis-and-design-of-digital-control-systems-fall-2006|Analysis and Design of Digital Control Systems]] — 2.171, Fall 2006
+- [[6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003|Analysis and Design of Digital Integrated Circuits]] — 6.374, Fall 2003
+- [[16-412j-cognitive-robotics-spring-2016|Cognitive Robotics]] — 16.412J, Spring 2016
+- [[res-6-001-electromagnetic-fields-and-energy-spring-2008|Electromagnetic Fields and Energy]] — RES.6-001, Spring 2008
 - [[6-763-applied-superconductivity-fall-2005|Applied Superconductivity]] — 6.763, Fall 2005
 - [[6-973-communication-system-design-spring-2006|Communication System Design]] — 6.973, Spring 2006
 - [[6-231-dynamic-programming-and-stochastic-control-fall-2015|Dynamic Programming and Stochastic Control]] — 6.231, Fall 2015

@@ -12,6 +12,7 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012|How to Process, Analyze and Visualize Data]] — RES.6-009, January IAP 2012
 - [[hst-953-collaborative-data-science-for-healthcare-fall-2020|Collaborative Data Science for Healthcare]] — HST.953, Fall 2020
 - [[14-387-applied-econometrics-mostly-harmless-big-data-fall-2014|Applied Econometrics: Mostly Harmless Big Data]] — 14.387, Fall 2014
 - [[1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004|Environmental Engineering Applications of Geographic Information Systems]] — 1.963, Fall 2004

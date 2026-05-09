@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009|Gender, Race, and the Complexities of Science and Technology: A Problem-Based Learning Experiment]] — WGS.693, Spring 2009
+- [[wgs-150-gender-power-leadership-and-the-workplace-spring-2015|Gender, Power, Leadership and the Workplace]] — WGS.150, Spring 2015
+- [[21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013|Advanced Topics in Hispanic Literature and Film: The Films of Luis Buñuel]] — 21G.735, Fall 2013
+- [[cms-361-networked-social-movements-media-mobilization-spring-2014|Networked Social Movements: Media & Mobilization]] — CMS.361, Spring 2014
+- [[21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004|Advanced Topics: Plotting Terror in European Culture]] — 21G.061, Spring 2004
+- [[11-947-race-immigration-and-planning-spring-2005|Race, Immigration, and Planning]] — 11.947, Spring 2005
 - [[21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014|Teaching and Learning: Cross-Cultural Perspectives]] — 21A.150, Fall 2014
 - [[24-908-creole-languages-and-caribbean-identities-spring-2017|Creole Languages and Caribbean Identities]] — 24.908, Spring 2017
 - [[21g-880-accelerated-introductory-portuguese-for-spanish-speakers-fall-2013|Accelerated Introductory Portuguese for Spanish Speakers]] — 21G.880, Fall 2013

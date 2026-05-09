@@ -12,6 +12,13 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[17-447-cyberpolitics-in-international-relations-theory-methods-policy-fall-2011|Cyberpolitics in International Relations: Theory, Methods, Policy]] — 17.447, Fall 2011
+- [[mas-961-ambient-intelligence-spring-2005|Ambient Intelligence]] — MAS.961, Spring 2005
+- [[cms-361-networked-social-movements-media-mobilization-spring-2014|Networked Social Movements: Media & Mobilization]] — CMS.361, Spring 2014
+- [[21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004|Advanced Topics: Plotting Terror in European Culture]] — 21G.061, Spring 2004
+- [[4-341-introduction-to-photography-and-related-media-fall-2007|Introduction to Photography and Related Media]] — 4.341, Fall 2007
+- [[mas-962-special-topics-new-textiles-spring-2010|Special Topics: New Textiles]] — MAS.962, Spring 2010
+- [[21l-430-popular-narrative-masterminds-fall-2004|Popular Narrative: Masterminds]] — 21L.430, Fall 2004
 - [[4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002|Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems]] — 4.285, Fall 2002
 - [[mas-111-introduction-to-doing-research-in-media-arts-and-sciences-spring-2011|Introduction to Doing Research in Media Arts and Sciences]] — MAS.111, Spring 2011
 - [[cms-608-game-design-spring-2008|Game Design]] — CMS.608, Spring 2008

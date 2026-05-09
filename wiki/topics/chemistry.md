@@ -12,6 +12,8 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[10-32-separation-processes-spring-2005|Separation Processes]] — 10.32, Spring 2005
+- [[5-61-physical-chemistry-fall-2017|Physical Chemistry]] — 5.61, Fall 2017
 - [[res-8-007-cosmic-origin-of-the-chemical-elements-fall-2019|Cosmic Origin of the Chemical Elements ]] — RES.8-007, Fall 2019
 - [[5-72-non-equilibrium-statistical-mechanics-spring-2012|Non-Equilibrium Statistical Mechanics]] — 5.72, Spring 2012
 - [[5-067-crystal-structure-refinement-fall-2009|Crystal Structure Refinement]] — 5.067, Fall 2009

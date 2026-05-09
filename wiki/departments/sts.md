@@ -12,6 +12,8 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21a-350j-cultures-of-computing-fall-2011|Cultures of Computing]] (21A.350J)
+- [[21a-303j-anthropology-of-biology-fall-2013|Anthropology of Biology]] (21A.303J)
 - [[sts-009-evolution-and-society-spring-2012|Evolution and Society]] (STS.009)
 - [[sts-004-science-technology-world-fall-2013|Science, Technology, & World]] (STS.004)
 - [[sts-350-social-study-of-science-and-technology-spring-2004|Social Study of Science and Technology]] (STS.350)

@@ -12,6 +12,13 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-009j-theoretical-environmental-analysis-spring-2015|Theoretical Environmental Analysis]] — 12.009J, Spring 2015
+- [[12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004|Fluid Dynamics of the Atmosphere and Ocean]] — 12.800, Fall 2004
+- [[1-322-soil-behavior-spring-2005|Soil Behavior]] — 1.322, Spring 2005
+- [[11-942-regional-energy-environmental-economic-modeling-spring-2007|Regional Energy-Environmental Economic Modeling]] — 11.942, Spring 2007
+- [[15-975-u-lab-leading-profound-innovation-for-a-more-sustainable-world-fall-2010|U-Lab: Leading Profound Innovation for a More Sustainable World]] — 15.975, Fall 2010
+- [[12-158-molecular-biogeochemistry-fall-2011|Molecular Biogeochemistry]] — 12.158, Fall 2011
+- [[12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007|Extrasolar Planets: Physics and Detection Techniques]] — 12.425, Fall 2007
 - [[12-753-geodynamics-seminar-spring-2005|Geodynamics Seminar]] — 12.753, Spring 2005
 - [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]] — 11.364, Fall 2010
 - [[12-517-dynamics-of-complex-systems-biological-and-environmental-coevolution-preceding-the-cambrian-explosion-spring-2005|Dynamics of Complex Systems: Biological and Environmental Coevolution Preceding the Cambrian Explosion]] — 12.517, Spring 2005

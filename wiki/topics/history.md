@@ -12,6 +12,14 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[4-671-nationalism-internationalism-and-globalism-in-modern-art-spring-2016|Nationalism, Internationalism, and Globalism in Modern Art]] — 4.671, Spring 2016
+- [[21a-350j-cultures-of-computing-fall-2011|Cultures of Computing]] — 21A.350J, Fall 2011
+- [[21h-266-apartheid-and-south-africa-spring-2020|Apartheid and South Africa]] — 21H.266, Spring 2020
+- [[21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013|Advanced Topics in Hispanic Literature and Film: The Films of Luis Buñuel]] — 21G.735, Fall 2013
+- [[21a-303j-anthropology-of-biology-fall-2013|Anthropology of Biology]] — 21A.303J, Fall 2013
+- [[21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004|Advanced Topics: Plotting Terror in European Culture]] — 21G.061, Spring 2004
+- [[21h-206-american-consumer-culture-fall-2007|American Consumer Culture]] — 21H.206, Fall 2007
+- [[11-005-introduction-to-international-development-spring-2015|Introduction to International Development]] — 11.005, Spring 2015
 - [[21l-470-eighteenth-century-literature-versions-of-the-self-in-18th-c-britain-spring-2003|Eighteenth-Century Literature: Versions of the Self in 18th-C Britain]] — 21L.470, Spring 2003
 - [[4-661-theory-and-method-in-the-study-of-architecture-and-art-fall-2015|Theory and Method in the Study of Architecture and Art]] — 4.661, Fall 2015
 - [[21m-293-music-of-africa-fall-2005|Music of Africa]] — 21M.293, Fall 2005

@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[15-433-investments-spring-2003|Investments]] — 15.433, Spring 2003
+- [[11-942-regional-energy-environmental-economic-modeling-spring-2007|Regional Energy-Environmental Economic Modeling]] — 11.942, Spring 2007
+- [[18-655-mathematical-statistics-spring-2016|Mathematical Statistics]] — 18.655, Spring 2016
+- [[17-561-european-politics-fall-2020|European Politics]] — 17.561, Fall 2020
+- [[11-005-introduction-to-international-development-spring-2015|Introduction to International Development]] — 11.005, Spring 2015
+- [[11-486j-economic-institutions-and-growth-policy-analysis-fall-2005|Economic Institutions and Growth Policy Analysis]] — 11.486J, Fall 2005
 - [[17-100j-political-economy-i-spring-2016|Political Economy I]] — 17.100J, Spring 2016
 - [[21g-410-advanced-german-professional-communication-spring-2017|Advanced German: Professional Communication]] — 21G.410, Spring 2017
 - [[17-410-globalization-migration-and-international-relations-spring-2006|Globalization, Migration, and International Relations]] — 17.410, Spring 2006

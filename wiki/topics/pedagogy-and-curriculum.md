@@ -12,6 +12,8 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[6-s062-generative-artificial-intelligence-in-k12-education-fall-2023|Generative Artificial Intelligence in K–12 Education]] — 6.S062, Fall 2023
+- [[res-7-005-biology-teaching-assistant-ta-training-fall-2021|Biology Teaching Assistant (TA) Training]] — RES.7-005, Fall 2021
 - [[21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014|Teaching and Learning: Cross-Cultural Perspectives]] — 21A.150, Fall 2014
 - [[11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009|Introduction to Education: Understanding and Evaluating Education]] — 11.125, Spring 2009
 - [[4-696-a-global-history-of-architecture-writing-seminar-spring-2008|A Global History of Architecture Writing Seminar]] — 4.696, Spring 2008

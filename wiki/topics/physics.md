@@ -12,6 +12,17 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[8-04-quantum-physics-i-spring-2013|Quantum Physics I]] — 8.04, Spring 2013
+- [[3-00-thermodynamics-of-materials-fall-2002|Thermodynamics of Materials]] — 3.00, Fall 2002
+- [[res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008|Video Demonstrations in Lasers and Optics]] — RES.6-006, Spring 2008
+- [[6-977-semiconductor-optoelectronics-theory-and-design-fall-2002|Semiconductor Optoelectronics: Theory and Design]] — 6.977, Fall 2002
+- [[8-952-particle-physics-of-the-early-universe-fall-2004|Particle Physics of the Early Universe]] — 8.952, Fall 2004
+- [[22-105-electromagnetic-interactions-fall-2005|Electromagnetic Interactions]] — 22.105, Fall 2005
+- [[18-354j-nonlinear-dynamics-ii-continuum-systems-spring-2015|Nonlinear Dynamics II: Continuum Systems]] — 18.354J, Spring 2015
+- [[5-74-introductory-quantum-mechanics-ii-spring-2009|Introductory Quantum Mechanics II]] — 5.74, Spring 2009
+- [[6-641-electromagnetic-fields-forces-and-motion-spring-2005|Electromagnetic Fields, Forces, and Motion]] — 6.641, Spring 2005
+- [[res-6-001-electromagnetic-fields-and-energy-spring-2008|Electromagnetic Fields and Energy]] — RES.6-001, Spring 2008
+- [[12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007|Extrasolar Planets: Physics and Detection Techniques]] — 12.425, Fall 2007
 - [[res-8-007-cosmic-origin-of-the-chemical-elements-fall-2019|Cosmic Origin of the Chemical Elements ]] — RES.8-007, Fall 2019
 - [[6-763-applied-superconductivity-fall-2005|Applied Superconductivity]] — 6.763, Fall 2005
 - [[22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016|Introduction to Nuclear Engineering and Ionizing Radiation]] — 22.01, Fall 2016

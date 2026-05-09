@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[10-32-separation-processes-spring-2005|Separation Processes]] — 10.32, Spring 2005
+- [[3-91-mechanical-behavior-of-plastics-spring-2007|Mechanical Behavior of Plastics]] — 3.91, Spring 2007
+- [[10-450-process-dynamics-operations-and-control-spring-2006|Process Dynamics, Operations, and Control]] — 10.450, Spring 2006
 - [[2-58j-radiative-transfer-spring-2006|Radiative Transfer]] — 2.58J, Spring 2006
 - [[hst-542j-quantitative-physiology-organ-transport-systems-spring-2004|Quantitative Physiology: Organ Transport Systems]] — HST.542J, Spring 2004
 - [[2-61-internal-combustion-engines-spring-2017|Internal Combustion Engines]] — 2.61, Spring 2017

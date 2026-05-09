@@ -12,6 +12,15 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-973-organic-optoelectronics-spring-2003|Organic Optoelectronics]] — 6.973, Spring 2003
+- [[3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005|Symmetry, Structure, and Tensor Properties of Materials]] — 3.60, Fall 2005
+- [[ec-721-wheelchair-design-in-developing-countries-spring-2009|Wheelchair Design in Developing Countries]] — EC.721, Spring 2009
+- [[12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004|Fluid Dynamics of the Atmosphere and Ocean]] — 12.800, Fall 2004
+- [[6-152j-micro-nano-processing-technology-fall-2005|Micro/Nano Processing Technology]] — 6.152J, Fall 2005
+- [[2-a35-biomimetic-principles-and-design-fall-2013|Biomimetic Principles and Design]] — 2.A35, Fall 2013
+- [[3-91-mechanical-behavior-of-plastics-spring-2007|Mechanical Behavior of Plastics]] — 3.91, Spring 2007
+- [[10-450-process-dynamics-operations-and-control-spring-2006|Process Dynamics, Operations, and Control]] — 10.450, Spring 2006
+- [[2-171-analysis-and-design-of-digital-control-systems-fall-2006|Analysis and Design of Digital Control Systems]] — 2.171, Fall 2006
 - [[22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006|Structural Mechanics in Nuclear Power Technology]] — 22.314J, Fall 2006
 - [[2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007|Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations]] — 2.035, Spring 2007
 - [[2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007|Special Topics in Mechanical Engineering: The Art and Science of Boat Design]] — 2.993, January IAP 2007

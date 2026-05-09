@@ -10,5 +10,6 @@ courses_count: 0
 
 ## Courses
 
+- [[pe-730-archery-spring-2006|Archery]] (PE.730)
 - [[pe-810-sailing-spring-2007|Sailing]] (PE.810)
 - [[pe-810-sailing-spring-2007|Sailing]] (PE.810)

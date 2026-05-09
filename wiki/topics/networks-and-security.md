@@ -12,6 +12,7 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-976-high-speed-communication-circuits-and-systems-spring-2003|High Speed Communication Circuits and Systems]] — 6.976, Spring 2003
 - [[6-973-communication-system-design-spring-2006|Communication System Design]] — 6.973, Spring 2006
 - [[6-829-computer-networks-fall-2002|Computer Networks]] — 6.829, Fall 2002
 - [[14-15j-networks-spring-2018|Networks]] — 14.15J, Spring 2018

@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[ec-721-wheelchair-design-in-developing-countries-spring-2009|Wheelchair Design in Developing Countries]] — EC.721, Spring 2009
+- [[11-005-introduction-to-international-development-spring-2015|Introduction to International Development]] — 11.005, Spring 2015
 - [[11-941-urban-climate-adaptation-spring-2011|Urban Climate Adaptation]] — 11.941, Spring 2011
 - [[ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007|D-Lab: Disseminating Innovations for the Common Good]] — EC.715, Spring 2007
 - [[11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007|Water and Sanitation Infrastructure in Developing Countries]] — 11.479J, Spring 2007

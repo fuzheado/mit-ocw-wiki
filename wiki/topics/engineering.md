@@ -25,6 +25,42 @@ courses_count: 0
 
 ## Courses
 
+- [[hst-950j-biomedical-computing-fall-2010|Biomedical Computing]] — HST.950J, Fall 2010
+- [[6-973-organic-optoelectronics-spring-2003|Organic Optoelectronics]] — 6.973, Spring 2003
+- [[6-827-multithreaded-parallelism-languages-and-compilers-fall-2002|Multithreaded Parallelism: Languages and Compilers]] — 6.827, Fall 2002
+- [[6-s191-introduction-to-deep-learning-january-iap-2020|Introduction to Deep Learning]] — 6.S191, January IAP 2020
+- [[3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005|Symmetry, Structure, and Tensor Properties of Materials]] — 3.60, Fall 2005
+- [[6-976-high-speed-communication-circuits-and-systems-spring-2003|High Speed Communication Circuits and Systems]] — 6.976, Spring 2003
+- [[6-s062-generative-artificial-intelligence-in-k12-education-fall-2023|Generative Artificial Intelligence in K–12 Education]] — 6.S062, Fall 2023
+- [[esd-69-seminar-on-health-care-systems-innovation-fall-2010|Seminar on Health Care Systems Innovation]] — ESD.69, Fall 2010
+- [[10-32-separation-processes-spring-2005|Separation Processes]] — 10.32, Spring 2005
+- [[mas-961-ambient-intelligence-spring-2005|Ambient Intelligence]] — MAS.961, Spring 2005
+- [[ec-721-wheelchair-design-in-developing-countries-spring-2009|Wheelchair Design in Developing Countries]] — EC.721, Spring 2009
+- [[3-00-thermodynamics-of-materials-fall-2002|Thermodynamics of Materials]] — 3.00, Fall 2002
+- [[1-731-water-resource-systems-fall-2006|Water Resource Systems]] — 1.731, Fall 2006
+- [[12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004|Fluid Dynamics of the Atmosphere and Ocean]] — 12.800, Fall 2004
+- [[6-152j-micro-nano-processing-technology-fall-2005|Micro/Nano Processing Technology]] — 6.152J, Fall 2005
+- [[2-a35-biomimetic-principles-and-design-fall-2013|Biomimetic Principles and Design]] — 2.A35, Fall 2013
+- [[18-s997-introduction-to-matlab-programming-fall-2011|Introduction To MATLAB Programming]] — 18.S997, Fall 2011
+- [[res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012|How to Process, Analyze and Visualize Data]] — RES.6-009, January IAP 2012
+- [[1-322-soil-behavior-spring-2005|Soil Behavior]] — 1.322, Spring 2005
+- [[mas-964-common-sense-reasoning-for-interactive-applications-fall-2002|Common Sense Reasoning for Interactive Applications]] — MAS.964, Fall 2002
+- [[6-977-semiconductor-optoelectronics-theory-and-design-fall-2002|Semiconductor Optoelectronics: Theory and Design]] — 6.977, Fall 2002
+- [[3-91-mechanical-behavior-of-plastics-spring-2007|Mechanical Behavior of Plastics]] — 3.91, Spring 2007
+- [[18-405j-advanced-complexity-theory-spring-2016|Advanced Complexity Theory]] — 18.405J, Spring 2016
+- [[6-831-user-interface-design-and-implementation-spring-2011|User Interface Design and Implementation]] — 6.831, Spring 2011
+- [[6-450-principles-of-digital-communications-i-fall-2006|Principles of Digital Communications I]] — 6.450, Fall 2006
+- [[10-450-process-dynamics-operations-and-control-spring-2006|Process Dynamics, Operations, and Control]] — 10.450, Spring 2006
+- [[2-171-analysis-and-design-of-digital-control-systems-fall-2006|Analysis and Design of Digital Control Systems]] — 2.171, Fall 2006
+- [[10-805j-technology-law-and-the-working-environment-spring-2006|Technology, Law, and the Working Environment]] — 10.805J, Spring 2006
+- [[6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003|Analysis and Design of Digital Integrated Circuits]] — 6.374, Fall 2003
+- [[16-412j-cognitive-robotics-spring-2016|Cognitive Robotics]] — 16.412J, Spring 2016
+- [[3-40j-physical-metallurgy-fall-2009|Physical Metallurgy]] — 3.40J, Fall 2009
+- [[22-105-electromagnetic-interactions-fall-2005|Electromagnetic Interactions]] — 22.105, Fall 2005
+- [[6-877j-computational-evolutionary-biology-fall-2005|Computational Evolutionary Biology]] — 6.877J, Fall 2005
+- [[mas-962-special-topics-new-textiles-spring-2010|Special Topics: New Textiles]] — MAS.962, Spring 2010
+- [[res-6-001-electromagnetic-fields-and-energy-spring-2008|Electromagnetic Fields and Energy]] — RES.6-001, Spring 2008
+- [[6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014|Algorithmic Lower Bounds: Fun with Hardness Proofs]] — 6.890, Fall 2014
 - [[4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002|Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems]] — 4.285, Fall 2002
 - [[22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006|Structural Mechanics in Nuclear Power Technology]] — 22.314J, Fall 2006
 - [[6-s095-programming-for-the-puzzled-january-iap-2018|Programming for the Puzzled]] — 6.S095, January IAP 2018

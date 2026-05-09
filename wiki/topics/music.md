@@ -12,6 +12,9 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21m-304-writing-in-tonal-forms-ii-spring-2009|Writing in Tonal Forms II]] — 21M.304, Spring 2009
+- [[21m-301-harmony-and-counterpoint-i-spring-2005|Harmony and Counterpoint I]] — 21M.301, Spring 2005
+- [[21m-355-musical-improvisation-spring-2013|Musical Improvisation]] — 21M.355, Spring 2013
 - [[21m-293-music-of-africa-fall-2005|Music of Africa]] — 21M.293, Fall 2005
 - [[21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012|Studies in Western Music History: Quantitative and Computational Approaches to Music History]] — 21M.269, Spring 2012
 - [[21m-263-music-since-1960-spring-2006|Music Since 1960]] — 21M.263, Spring 2006

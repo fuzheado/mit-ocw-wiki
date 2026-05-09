@@ -12,6 +12,14 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-488-contemporary-literature-spring-2003|Contemporary Literature]] — 21L.488, Spring 2003
+- [[21l-705-major-authors-after-the-masterpiece-novels-by-melville-twain-faulkner-and-morrison-fall-2006|Major Authors: After the Masterpiece: Novels by Melville, Twain, Faulkner, and Morrison]] — 21L.705, Fall 2006
+- [[21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003|Foundations of Western Culture II: Renaissance to Modernity]] — 21L.002-2, Spring 2003
+- [[21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004|Advanced Topics: Plotting Terror in European Culture]] — 21G.061, Spring 2004
+- [[21w-016-writing-and-rhetoric-designing-meaning-fall-2016|Writing and Rhetoric: Designing Meaning]] — 21W.016, Fall 2016
+- [[21l-471-major-english-novels-spring-2004|Major English Novels]] — 21L.471, Spring 2004
+- [[21g-065-japanese-literature-and-cinema-fall-2013|Japanese Literature and Cinema]] — 21G.065, Fall 2013
+- [[21l-430-popular-narrative-masterminds-fall-2004|Popular Narrative: Masterminds]] — 21L.430, Fall 2004
 - [[21l-470-eighteenth-century-literature-versions-of-the-self-in-18th-c-britain-spring-2003|Eighteenth-Century Literature: Versions of the Self in 18th-C Britain]] — 21L.470, Spring 2003
 - [[21l-003-introduction-to-fiction-fall-2003|Introduction to Fiction]] — 21L.003, Fall 2003
 - [[7-15-experimental-molecular-genetics-spring-2015|Experimental Molecular Genetics]] — 7.15, Spring 2015

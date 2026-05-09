@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[cms-361-networked-social-movements-media-mobilization-spring-2014|Networked Social Movements: Media & Mobilization]] — CMS.361, Spring 2014
+- [[21w-016-writing-and-rhetoric-designing-meaning-fall-2016|Writing and Rhetoric: Designing Meaning]] — 21W.016, Fall 2016
+- [[15-975-u-lab-leading-profound-innovation-for-a-more-sustainable-world-fall-2010|U-Lab: Leading Profound Innovation for a More Sustainable World]] — 15.975, Fall 2010
 - [[21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014|Teaching and Learning: Cross-Cultural Perspectives]] — 21A.150, Fall 2014
 - [[15-974-practical-leadership-fall-2004|Practical Leadership]] — 15.974, Fall 2004
 - [[sts-004-science-technology-world-fall-2013|Science, Technology, & World]] — STS.004, Fall 2013

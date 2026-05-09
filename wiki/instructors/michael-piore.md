@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-486j-economic-institutions-and-growth-policy-analysis-fall-2005|Economic Institutions and Growth Policy Analysis]]
 - [[17-100j-political-economy-i-spring-2016|Political Economy I]]

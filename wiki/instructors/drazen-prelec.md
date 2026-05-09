@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[15-822-strategic-marketing-measurement-fall-2002|Strategic Marketing Measurement]]
 - [[15-821-listening-to-the-customer-fall-2002|Listening to the Customer]]

@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-731-water-resource-systems-fall-2006|Water Resource Systems]] — 1.731, Fall 2006
+- [[10-805j-technology-law-and-the-working-environment-spring-2006|Technology, Law, and the Working Environment]] — 10.805J, Spring 2006
 - [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]] — 11.364, Fall 2010
 - [[2-062j-wave-propagation-spring-2017|Wave Propagation]] — 2.062J, Spring 2017
 - [[12-802-wave-motion-in-the-ocean-and-the-atmosphere-spring-2008|Wave Motion in the Ocean and the Atmosphere]] — 12.802, Spring 2008

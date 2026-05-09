@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[1-259j-transit-management-fall-2006|Transit Management]] — 1.259J, Fall 2006
+- [[11-947-race-immigration-and-planning-spring-2005|Race, Immigration, and Planning]] — 11.947, Spring 2005
 - [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]] — 11.364, Fall 2010
 - [[11-941-urban-climate-adaptation-spring-2011|Urban Climate Adaptation]] — 11.941, Spring 2011
 - [[11-s943-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2017|Development, Planning, and Implementation: The Dialectic of Theory and Practice]] — 11.S943, Fall 2017

@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[hst-950j-biomedical-computing-fall-2010|Biomedical Computing]] — HST.950J, Fall 2010
+- [[6-973-organic-optoelectronics-spring-2003|Organic Optoelectronics]] — 6.973, Spring 2003
+- [[2-a35-biomimetic-principles-and-design-fall-2013|Biomimetic Principles and Design]] — 2.A35, Fall 2013
+- [[6-877j-computational-evolutionary-biology-fall-2005|Computational Evolutionary Biology]] — 6.877J, Fall 2005
 - [[20-106j-systems-microbiology-fall-2006|Systems Microbiology]] — 20.106J, Fall 2006
 - [[18-417-introduction-to-computational-molecular-biology-fall-2004|Introduction to Computational Molecular Biology]] — 18.417, Fall 2004
 - [[6-047-computational-biology-fall-2015|Computational Biology]] — 6.047, Fall 2015
