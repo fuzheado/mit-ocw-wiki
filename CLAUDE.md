@@ -79,6 +79,17 @@ This forces a full recompile. Safe to use after bulk operations.
 
 **The test:** after any operation, a reader starting from `home.md` should be able to reach the new content within 2 clicks. If they can't, you haven't integrated it.
 
+## Subagent Handoff
+
+When delegating work to a subagent, instruct it to write an implementation note afterward. Place it at `notes/{date}-{description}.md` with:
+
+- What was done (batches processed, files created)
+- Any anomalies or decisions made
+- The exact command or prompt used
+- Current checkpoint state
+
+This ensures consistency across sessions and prevents duplicated effort.
+
 ## Core Rules (always active)
 
 1. Every course page gets full YAML frontmatter per Rule 1.1. Never invent metadata — use `Unknown` + `FIXME` if not found.
