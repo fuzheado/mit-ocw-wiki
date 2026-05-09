@@ -12,6 +12,19 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[10-34-numerical-methods-applied-to-chemical-engineering-fall-2005|Numerical Methods Applied to Chemical Engineering]] — 10.34, Fall 2005
+- [[6-042j-mathematics-for-computer-science-fall-2010|Mathematics for Computer Science]] — 6.042J, Fall 2010
+- [[hst-950j-medical-computing-spring-2003|Medical Computing]] — HST.950J, Spring 2003
+- [[18-997-topics-in-combinatorial-optimization-spring-2004|Topics in Combinatorial Optimization]] — 18.997, Spring 2004
+- [[14-15j-networks-spring-2018|Networks]] — 14.15J, Spring 2018
+- [[6-057-introduction-to-matlab-january-iap-2019|Introduction to MATLAB]] — 6.057, January IAP 2019
+- [[20-180-biological-engineering-programming-spring-2006|Biological Engineering Programming]] — 20.180, Spring 2006
+- [[11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003|Spatial Database Management and Advanced Geographic Information Systems]] — 11.521, Spring 2003
+- [[18-409-behavior-of-algorithms-spring-2002|Behavior of Algorithms]] — 18.409, Spring 2002
+- [[6-245-multivariable-control-systems-spring-2004|Multivariable Control Systems]] — 6.245, Spring 2004
+- [[10-01-ethics-for-engineers-artificial-intelligence-spring-2020|Ethics for Engineers: Artificial Intelligence]] — 10.01, Spring 2020
+- [[6-253-convex-analysis-and-optimization-spring-2012|Convex Analysis and Optimization]] — 6.253, Spring 2012
+- [[res-tll-008-social-and-ethical-responsibilities-of-computing-serc|Social and Ethical Responsibilities of Computing (SERC)]] — RES.TLL-008, Spring 2025
 - [[1-264j-database-internet-and-systems-integration-technologies-fall-2013|Database, Internet, and Systems Integration Technologies]] (1.264J) — Fall 2013
 - [[15-097-prediction-machine-learning-and-statistics-spring-2012|Prediction: Machine Learning and Statistics]] (15.097) — Spring 2012
 - [[15-s12-blockchain-and-money-fall-2018|Blockchain and Money]] (15.S12) — Fall 2018

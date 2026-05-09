@@ -12,6 +12,11 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[5-12-organic-chemistry-i-spring-2005|Organic Chemistry I]] — 5.12, Spring 2005
+- [[22-05-neutron-science-and-reactor-physics-fall-2009|Neutron Science and Reactor Physics]] — 22.05, Fall 2009
+- [[5-61-physical-chemistry-fall-2007|Physical Chemistry]] — 5.61, Fall 2007
+- [[5-12-organic-chemistry-i-spring-2003|Organic Chemistry I]] — 5.12, Spring 2003
+- [[3-37-welding-and-joining-processes-fall-2002|Welding and Joining Processes]] — 3.37, Fall 2002
 - [[1-76-aquatic-chemistry-fall-2005|Aquatic Chemistry]] (1.76) — Fall 2005
 - [[10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004|Computational Quantum Mechanics of Molecular and Extended Systems]] (10.675J) — Fall 2004
 - [[12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-elements-k-u-th-in-the-earth-january-iap-2010|Basics of Analysis with Antineutrinos from Heat Producing Elements - K, U, Th in the Earth]] (12.091) — January IAP 2010

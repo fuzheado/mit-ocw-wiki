@@ -12,6 +12,16 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-463-renaissance-literature-fall-2008|Renaissance Literature]] — 21L.463, Fall 2008
+- [[21l-449-end-of-nature-spring-2002|End of Nature]] — 21L.449, Spring 2002
+- [[17-462-innovation-in-military-organizations-fall-2005|Innovation in Military Organizations]] — 17.462, Fall 2005
+- [[14-731-economic-history-spring-2009|Economic History]] — 14.731, Spring 2009
+- [[21h-382-capitalism-in-the-age-of-revolution-fall-2016|Capitalism in the Age of Revolution]] — 21H.382, Fall 2016
+- [[21h-311-the-renaissance-1300-1600-fall-2004|The Renaissance, 1300-1600]] — 21H.311, Fall 2004
+- [[sts-429-food-and-power-in-the-twentieth-century-spring-2005|Food and Power in the Twentieth Century]] — STS.429, Spring 2005
+- [[sts-436-cold-war-science-fall-2008|Cold War Science]] — STS.436, Fall 2008
+- [[21h-165-modern-african-history-spring-2019|Modern African History]] — 21H.165, Spring 2019
+- [[21h-007j-empire-introduction-to-ancient-and-medieval-studies-fall-2012|Empire: Introduction to Ancient and Medieval Studies]] — 21H.007J, Fall 2012
 - [[17-484-comparative-grand-strategy-and-military-doctrine-fall-2004|Comparative Grand Strategy and Military Doctrine]] (17.484) — Fall 2004
 - [[17-509-social-movements-in-comparative-perspective-spring-2005|Social Movements in Comparative Perspective]] (17.509) — Spring 2005
 - [[21h-101-american-history-to-1865-fall-2010|American History to 1865]] (21H.101) — Fall 2010

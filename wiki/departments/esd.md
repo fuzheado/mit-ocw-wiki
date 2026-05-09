@@ -10,6 +10,9 @@ courses_count: 0
 
 ## Courses
 
+- [[esd-68j-communications-and-information-policy-spring-2006|Communications and Information Policy]] (ESD.68J)
+- [[esd-71-engineering-systems-analysis-for-design-fall-2008|Engineering Systems Analysis for Design]] (ESD.71)
+- [[esd-290-special-topics-in-supply-chain-management-spring-2005|Special Topics in Supply Chain Management]] (ESD.290)
 - [[16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012|Introduction to Lean Six Sigma Methods]] (16.660J) — January IAP 2012
 - [[6-013-electromagnetics-and-applications-fall-2005|Electromagnetics and Applications]] (6.013) — Fall 2005
 - [[1-264j-database-internet-and-systems-integration-technologies-fall-2013|Database, Internet, and Systems Integration Technologies]] (1.264J) — Fall 2013

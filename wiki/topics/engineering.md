@@ -25,6 +25,48 @@ courses_count: 0
 
 ## Courses
 
+- [[16-100-aerodynamics-fall-2005|Aerodynamics]] — 16.100, Fall 2005
+- [[res-10-s95-physics-of-covid-19-transmission-fall-2020|Physics of COVID-19 Transmission]] — RES.10-S95, Fall 2020
+- [[12-950-atmospheric-and-oceanic-modeling-spring-2004|Atmospheric and Oceanic Modeling]] — 12.950, Spring 2004
+- [[10-34-numerical-methods-applied-to-chemical-engineering-fall-2005|Numerical Methods Applied to Chemical Engineering]] — 10.34, Fall 2005
+- [[6-042j-mathematics-for-computer-science-fall-2010|Mathematics for Computer Science]] — 6.042J, Fall 2010
+- [[2-71-optics-spring-2014|Optics]] — 2.71, Spring 2014
+- [[16-540-internal-flows-in-turbomachines-spring-2006|Internal Flows in Turbomachines]] — 16.540, Spring 2006
+- [[hst-950j-medical-computing-spring-2003|Medical Computing]] — HST.950J, Spring 2003
+- [[4-430-daylighting-spring-2012|Daylighting]] — 4.430, Spring 2012
+- [[22-02-introduction-to-applied-nuclear-physics-spring-2012|Introduction to Applied Nuclear Physics]] — 22.02, Spring 2012
+- [[4-401-introduction-to-building-technology-spring-2006|Introduction to Building Technology]] — 4.401, Spring 2006
+- [[esd-68j-communications-and-information-policy-spring-2006|Communications and Information Policy]] — ESD.68J, Spring 2006
+- [[18-997-topics-in-combinatorial-optimization-spring-2004|Topics in Combinatorial Optimization]] — 18.997, Spring 2004
+- [[22-tht-undergraduate-thesis-tutorial-fall-2015|Undergraduate Thesis Tutorial]] — 22.THT, Fall 2015
+- [[14-15j-networks-spring-2018|Networks]] — 14.15J, Spring 2018
+- [[16-21-techniques-for-structural-analysis-and-design-spring-2005|Techniques for Structural Analysis and Design]] — 16.21, Spring 2005
+- [[6-057-introduction-to-matlab-january-iap-2019|Introduction to MATLAB]] — 6.057, January IAP 2019
+- [[esd-71-engineering-systems-analysis-for-design-fall-2008|Engineering Systems Analysis for Design]] — ESD.71, Fall 2008
+- [[20-180-biological-engineering-programming-spring-2006|Biological Engineering Programming]] — 20.180, Spring 2006
+- [[22-05-neutron-science-and-reactor-physics-fall-2009|Neutron Science and Reactor Physics]] — 22.05, Fall 2009
+- [[15-872-system-dynamics-ii-fall-2013|System Dynamics II]] — 15.872, Fall 2013
+- [[ec-701j-d-lab-i-development-fall-2009|D-Lab I: Development]] — EC.701J, Fall 2009
+- [[11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003|Spatial Database Management and Advanced Geographic Information Systems]] — 11.521, Spring 2003
+- [[14-451-dynamic-optimization-methods-with-applications-fall-2009|Dynamic Optimization Methods with Applications]] — 14.451, Fall 2009
+- [[3-012sx-structure-of-materials-spring-2019|Structure of Materials]] — 3.012Sx, Spring 2019
+- [[2-854-introduction-to-manufacturing-systems-fall-2016|Introduction to Manufacturing Systems]] — 2.854, Fall 2016
+- [[12-808-introduction-to-observational-physical-oceanography-fall-2004|Introduction to Observational Physical Oceanography]] — 12.808, Fall 2004
+- [[2-26-compressible-fluid-dynamics-spring-2004|Compressible Fluid Dynamics]] — 2.26, Spring 2004
+- [[esd-290-special-topics-in-supply-chain-management-spring-2005|Special Topics in Supply Chain Management]] — ESD.290, Spring 2005
+- [[18-409-behavior-of-algorithms-spring-2002|Behavior of Algorithms]] — 18.409, Spring 2002
+- [[6-245-multivariable-control-systems-spring-2004|Multivariable Control Systems]] — 6.245, Spring 2004
+- [[22-033-nuclear-systems-design-project-fall-2011|Nuclear Systems Design Project]] — 22.033, Fall 2011
+- [[2-003j-dynamics-and-vibration-13-013j-fall-2002|Dynamics and Vibration (13.013J)]] — 2.003J, Fall 2002
+- [[2-737-mechatronics-fall-2014|Mechatronics]] — 2.737, Fall 2014
+- [[14-06-intermediate-macroeconomic-theory-spring-2004|Intermediate Macroeconomic Theory]] — 14.06, Spring 2004
+- [[10-01-ethics-for-engineers-artificial-intelligence-spring-2020|Ethics for Engineers: Artificial Intelligence]] — 10.01, Spring 2020
+- [[2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011|Finite Element Analysis of Solids and Fluids II]] — 2.094, Spring 2011
+- [[6-253-convex-analysis-and-optimization-spring-2012|Convex Analysis and Optimization]] — 6.253, Spring 2012
+- [[20-330j-fields-forces-and-flows-in-biological-systems-spring-2007|Fields, Forces and Flows in Biological Systems]] — 20.330J, Spring 2007
+- [[3-044-materials-processing-spring-2013|Materials Processing]] — 3.044, Spring 2013
+- [[res-tll-008-social-and-ethical-responsibilities-of-computing-serc|Social and Ethical Responsibilities of Computing (SERC)]] — RES.TLL-008, Spring 2025
+- [[3-37-welding-and-joining-processes-fall-2002|Welding and Joining Processes]] — 3.37, Fall 2002
 - [[1-060-engineering-mechanics-ii-spring-2006|Engineering Mechanics II]] (1.060) — Spring 2006
 - [[1-264j-database-internet-and-systems-integration-technologies-fall-2013|Database, Internet, and Systems Integration Technologies]] (1.264J) — Fall 2013
 - [[1-76-aquatic-chemistry-fall-2005|Aquatic Chemistry]] (1.76) — Fall 2005

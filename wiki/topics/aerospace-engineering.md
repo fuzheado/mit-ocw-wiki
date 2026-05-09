@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[16-100-aerodynamics-fall-2005|Aerodynamics]] — 16.100, Fall 2005
+- [[16-540-internal-flows-in-turbomachines-spring-2006|Internal Flows in Turbomachines]] — 16.540, Spring 2006
+- [[16-21-techniques-for-structural-analysis-and-design-spring-2005|Techniques for Structural Analysis and Design]] — 16.21, Spring 2005
 - [[16-225-computational-mechanics-of-materials-fall-2003|Computational Mechanics of Materials]] (16.225) — Fall 2003
 - [[16-55-ionized-gases-fall-2014|Ionized Gases]] (16.55) — Fall 2014
 - [[16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012|Introduction to Lean Six Sigma Methods]] (16.660J) — January IAP 2012

@@ -12,6 +12,15 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21a-850j-the-anthropology-of-cybercultures-spring-2009|The Anthropology of Cybercultures]] — 21A.850J, Spring 2009
+- [[21a-338j-gender-power-and-international-development-fall-2003|Gender, Power, and International Development]] — 21A.338J, Fall 2003
+- [[21a-219-law-and-society-spring-2003|Law and Society]] — 21A.219, Spring 2003
+- [[17-523-ethnicity-and-race-in-world-politics-fall-2005|Ethnicity and Race in World Politics]] — 17.523, Fall 2005
+- [[21h-311-the-renaissance-1300-1600-fall-2004|The Renaissance, 1300-1600]] — 21H.311, Fall 2004
+- [[21g-067j-cultural-performances-of-asia-fall-2005|Cultural Performances of Asia]] — 21G.067J, Fall 2005
+- [[15-996-cross-cultural-leadership-fall-2004|Cross-Cultural Leadership]] — 15.996, Fall 2004
+- [[21a-461-what-is-capitalism-fall-2021|What is Capitalism?]] — 21A.461, Fall 2021
+- [[21a-112-seminar-in-ethnography-and-fieldwork-spring-2008|Seminar in Ethnography and Fieldwork]] — 21A.112, Spring 2008
 - [[21a-342-environmental-struggles-fall-2004|Environmental Struggles]] (21A.342) — Fall 2004
 - [[21a-801j-cross-cultural-investigations-technology-and-development-fall-2012|Cross-Cultural Investigations: Technology and Development]] (21A.801J) — Fall 2012
 - [[21g-019-communicating-across-cultures-spring-2005|Communicating Across Cultures]] (21G.019) — Spring 2005

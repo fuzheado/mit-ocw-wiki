@@ -12,4 +12,5 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
-*None yet.*
+- [[res-tll-008-social-and-ethical-responsibilities-of-computing-serc|Social and Ethical Responsibilities of Computing (SERC)]] — RES.TLL-008, Spring 2025
+- [[res-tll-008-social-and-ethical-responsibilities-of-computing-serc|Social and Ethical Responsibilities of Computing (SERC)]] — RES.TLL-008, Spring 2025

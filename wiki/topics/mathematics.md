@@ -12,6 +12,19 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[18-101-analysis-ii-fall-2005|Analysis II]] — 18.101, Fall 2005
+- [[12-950-atmospheric-and-oceanic-modeling-spring-2004|Atmospheric and Oceanic Modeling]] — 12.950, Spring 2004
+- [[10-34-numerical-methods-applied-to-chemical-engineering-fall-2005|Numerical Methods Applied to Chemical Engineering]] — 10.34, Fall 2005
+- [[6-042j-mathematics-for-computer-science-fall-2010|Mathematics for Computer Science]] — 6.042J, Fall 2010
+- [[6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006|Probabilistic Systems Analysis and Applied  Probability]] — 6.041, Spring 2006
+- [[18-997-topics-in-combinatorial-optimization-spring-2004|Topics in Combinatorial Optimization]] — 18.997, Spring 2004
+- [[18-650-statistics-for-applications-fall-2016|Statistics for Applications ]] — 18.650, Fall 2016
+- [[14-451-dynamic-optimization-methods-with-applications-fall-2009|Dynamic Optimization Methods with Applications]] — 14.451, Fall 2009
+- [[2-854-introduction-to-manufacturing-systems-fall-2016|Introduction to Manufacturing Systems]] — 2.854, Fall 2016
+- [[4-540-introduction-to-shape-grammars-i-fall-2018|Introduction to Shape Grammars I]] — 4.540, Fall 2018
+- [[18-409-behavior-of-algorithms-spring-2002|Behavior of Algorithms]] — 18.409, Spring 2002
+- [[2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011|Finite Element Analysis of Solids and Fluids II]] — 2.094, Spring 2011
+- [[6-253-convex-analysis-and-optimization-spring-2012|Convex Analysis and Optimization]] — 6.253, Spring 2012
 - [[15-097-prediction-machine-learning-and-statistics-spring-2012|Prediction: Machine Learning and Statistics]] (15.097) — Spring 2012
 - [[18-465-topics-in-statistics-statistical-learning-theory-spring-2007|Topics in Statistics: Statistical Learning Theory]] (18.465) — Spring 2007
 - [[2-017j-design-of-electromechanical-robotic-systems-fall-2009|Design of Electromechanical Robotic Systems]] (2.017J) — Fall 2009

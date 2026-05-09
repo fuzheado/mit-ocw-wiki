@@ -1,0 +1,52 @@
+---
+url: "https://ocw.mit.edu/courses/21l-463-renaissance-literature-fall-2008/"
+course_id: "21L.463"
+title: "Renaissance Literature"
+year_published: 2008
+instructors: ["Prof. Mary Fuller"]
+level: ["undergraduate"]
+department: "21L"
+topics: ["History", "Literature", "Humanities"]
+license: "CC BY-NC-SA"
+views: 220
+completeness: 0.020000000000000004
+last_modified: "2026-05-06T17:10:38Z"
+type: "course"
+---
+
+# Renaissance Literature
+
+The Renaissance has justly become both famous and notorious as an age of discovery, and its voyages took place in many realms. This semester, we will read several history making narratives of early modern travel: first-hand accounts of discovery, captivity, conquest, or cultural encounter. As Europeans came to acquire experience of unfamiliar places, literary texts of the period began to assimilate this experience by describing imagined voyages across real or fantastic landscapes. Finally, voyages of exploration served Renaissance writers as a metaphor: for intellectual inquiry, for spiritual development, or for the pursuit of love. Among the literary genres sampled this semester will be sonnets, plays, prose narratives, utopias, and chivalric romance. Authors and travellers will include Francis Petrarch, Amerigo Vespucci, Thomas More, Christopher Marlowe, Edmund Spenser, Hernán Cortés, John Donne, Francis Drake, Mary Rowlandson, Francis Bacon.
+
+## Course Info
+
+- **Department:** [[21l|Literature]]
+- **Course Number:** 21L.463
+- **Instructors:** [[mary-fuller|Prof. Mary Fuller]]
+- **Year:** 2008
+- **Level:** Undergraduate
+- **Topics:** [[history|History]], [[literature|Literature]], [[humanities|Humanities]]
+- **License:** CC BY-NC-SA
+
+## Materials
+
+- [Presentation Assignments] Presentation Assignments
+- [Written Assignments] Written Assignments
+
+## Wikipedia Bridge
+
+### Related Articles
+
+TBD — crossref not yet run.
+
+### Citation Template
+
+```wikitext
+{{cite web
+ |url=https://ocw.mit.edu/courses/21l-463-renaissance-literature-fall-2008/
+ |title=Renaissance Literature
+ |author=Prof. Mary Fuller
+ |website=MIT OpenCourseWare
+ |access-date=2026-05-09
+}}
+```

@@ -25,6 +25,34 @@ courses_count: 0
 
 ## Courses
 
+- [[15-518-taxes-and-business-strategy-fall-2002|Taxes and Business Strategy]] — 15.518, Fall 2002
+- [[21g-084j-introduction-to-latin-american-studies-fall-2005|Introduction to Latin American Studies]] — 21G.084J, Fall 2005
+- [[21a-850j-the-anthropology-of-cybercultures-spring-2009|The Anthropology of Cybercultures]] — 21A.850J, Spring 2009
+- [[21a-338j-gender-power-and-international-development-fall-2003|Gender, Power, and International Development]] — 21A.338J, Fall 2003
+- [[esd-68j-communications-and-information-policy-spring-2006|Communications and Information Policy]] — ESD.68J, Spring 2006
+- [[21a-219-law-and-society-spring-2003|Law and Society]] — 21A.219, Spring 2003
+- [[11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003|Revitalizing Urban Main Streets: Mission Hill & Egleston Square, Boston]] — 11.439, Spring 2003
+- [[17-462-innovation-in-military-organizations-fall-2005|Innovation in Military Organizations]] — 17.462, Fall 2005
+- [[14-15j-networks-spring-2018|Networks]] — 14.15J, Spring 2018
+- [[11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005|Workshop on Deliberative Democracy and Dispute Resolution]] — 11.969, Summer 2005
+- [[14-731-economic-history-spring-2009|Economic History]] — 14.731, Spring 2009
+- [[ec-701j-d-lab-i-development-fall-2009|D-Lab I: Development]] — EC.701J, Fall 2009
+- [[17-523-ethnicity-and-race-in-world-politics-fall-2005|Ethnicity and Race in World Politics]] — 17.523, Fall 2005
+- [[11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003|Spatial Database Management and Advanced Geographic Information Systems]] — 11.521, Spring 2003
+- [[21h-311-the-renaissance-1300-1600-fall-2004|The Renaissance, 1300-1600]] — 21H.311, Fall 2004
+- [[14-451-dynamic-optimization-methods-with-applications-fall-2009|Dynamic Optimization Methods with Applications]] — 14.451, Fall 2009
+- [[21g-213-high-intermediate-academic-communication-spring-2004|High-Intermediate Academic Communication]] — 21G.213, Spring 2004
+- [[21g-067j-cultural-performances-of-asia-fall-2005|Cultural Performances of Asia]] — 21G.067J, Fall 2005
+- [[wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014|Screen Women: Body Narratives in Popular American Film]] — WGS.640, Spring 2014
+- [[15-996-cross-cultural-leadership-fall-2004|Cross-Cultural Leadership]] — 15.996, Fall 2004
+- [[21a-461-what-is-capitalism-fall-2021|What is Capitalism?]] — 21A.461, Fall 2021
+- [[sts-429-food-and-power-in-the-twentieth-century-spring-2005|Food and Power in the Twentieth Century]] — STS.429, Spring 2005
+- [[11-493-legal-aspects-of-property-and-land-use-fall-2005|Legal Aspects of Property and Land Use]] — 11.493, Fall 2005
+- [[21a-112-seminar-in-ethnography-and-fieldwork-spring-2008|Seminar in Ethnography and Fieldwork]] — 21A.112, Spring 2008
+- [[14-581-international-economics-i-spring-2013|International Economics I]] — 14.581, Spring 2013
+- [[14-06-intermediate-macroeconomic-theory-spring-2004|Intermediate Macroeconomic Theory]] — 14.06, Spring 2004
+- [[15-617-the-law-of-corporate-finance-and-financial-markets-spring-2004|The Law of Corporate Finance and Financial Markets]] — 15.617, Spring 2004
+- [[11-469-urban-sociology-in-theory-and-practice-spring-2016|Urban Sociology in Theory and Practice]] — 11.469, Spring 2016
 - [[1-963-a-sustainable-transportation-plan-for-mit-spring-2007|A Sustainable Transportation Plan for MIT]] (1.963) — Spring 2007
 - [[11-165-infrastructure-and-energy-technology-challenges-fall-2011|Infrastructure and Energy Technology Challenges]] (11.165) — Fall 2011
 - [[11-166-law-social-movements-and-public-policy-comparative-and-international-experience-spring-2012|Law, Social Movements, and Public Policy: Comparative and International Experience]] (11.166) — Spring 2012

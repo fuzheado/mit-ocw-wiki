@@ -12,6 +12,17 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[res-10-s95-physics-of-covid-19-transmission-fall-2020|Physics of COVID-19 Transmission]] — RES.10-S95, Fall 2020
+- [[2-71-optics-spring-2014|Optics]] — 2.71, Spring 2014
+- [[22-02-introduction-to-applied-nuclear-physics-spring-2012|Introduction to Applied Nuclear Physics]] — 22.02, Spring 2012
+- [[8-012-physics-i-classical-mechanics-fall-2008|Physics I: Classical Mechanics]] — 8.012, Fall 2008
+- [[22-05-neutron-science-and-reactor-physics-fall-2009|Neutron Science and Reactor Physics]] — 22.05, Fall 2009
+- [[2-26-compressible-fluid-dynamics-spring-2004|Compressible Fluid Dynamics]] — 2.26, Spring 2004
+- [[22-033-nuclear-systems-design-project-fall-2011|Nuclear Systems Design Project]] — 22.033, Fall 2011
+- [[2-003j-dynamics-and-vibration-13-013j-fall-2002|Dynamics and Vibration (13.013J)]] — 2.003J, Fall 2002
+- [[5-61-physical-chemistry-fall-2007|Physical Chemistry]] — 5.61, Fall 2007
+- [[22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997|A Hands-On Introduction to Nuclear Magnetic Resonance]] — 22.920, January IAP 1997
+- [[3-37-welding-and-joining-processes-fall-2002|Welding and Joining Processes]] — 3.37, Fall 2002
 - [[10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004|Computational Quantum Mechanics of Molecular and Extended Systems]] (10.675J) — Fall 2004
 - [[12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-elements-k-u-th-in-the-earth-january-iap-2010|Basics of Analysis with Antineutrinos from Heat Producing Elements - K, U, Th in the Earth]] (12.091) — January IAP 2010
 - [[12-804-large-scale-flow-dynamics-lab-fall-2009|Large-scale Flow Dynamics Lab]] (12.804) — Fall 2009

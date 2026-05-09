@@ -20,6 +20,33 @@ courses_count: 0
 
 ## Courses
 
+- [[21l-463-renaissance-literature-fall-2008|Renaissance Literature]] — 21L.463, Fall 2008
+- [[21l-449-end-of-nature-spring-2002|End of Nature]] — 21L.449, Spring 2002
+- [[21g-084j-introduction-to-latin-american-studies-fall-2005|Introduction to Latin American Studies]] — 21G.084J, Fall 2005
+- [[21w-758-genre-fiction-workshop-fantasy-fall-2016|Genre Fiction Workshop: Fantasy]] — 21W.758, Fall 2016
+- [[21a-338j-gender-power-and-international-development-fall-2003|Gender, Power, and International Development]] — 21A.338J, Fall 2003
+- [[21a-219-law-and-society-spring-2003|Law and Society]] — 21A.219, Spring 2003
+- [[22-tht-undergraduate-thesis-tutorial-fall-2015|Undergraduate Thesis Tutorial]] — 22.THT, Fall 2015
+- [[17-462-innovation-in-military-organizations-fall-2005|Innovation in Military Organizations]] — 17.462, Fall 2005
+- [[11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005|Workshop on Deliberative Democracy and Dispute Resolution]] — 11.969, Summer 2005
+- [[21l-310-bestsellers-the-memoir-spring-2010|Bestsellers: The Memoir]] — 21L.310, Spring 2010
+- [[14-731-economic-history-spring-2009|Economic History]] — 14.731, Spring 2009
+- [[21h-382-capitalism-in-the-age-of-revolution-fall-2016|Capitalism in the Age of Revolution]] — 21H.382, Fall 2016
+- [[21w-794-graduate-technical-writing-workshop-january-iap-2019|Graduate Technical Writing Workshop]] — 21W.794, January IAP 2019
+- [[24-900-introduction-to-linguistics-fall-2012|Introduction to Linguistics]] — 24.900, Fall 2012
+- [[21m-051-fundamentals-of-music-spring-2007|Fundamentals of Music]] — 21M.051, Spring 2007
+- [[21m-361-composing-with-computers-i-electronic-music-composition-spring-2008|Composing with Computers I (Electronic Music Composition)]] — 21M.361, Spring 2008
+- [[21h-311-the-renaissance-1300-1600-fall-2004|The Renaissance, 1300-1600]] — 21H.311, Fall 2004
+- [[21g-213-high-intermediate-academic-communication-spring-2004|High-Intermediate Academic Communication]] — 21G.213, Spring 2004
+- [[wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014|Screen Women: Body Narratives in Popular American Film]] — WGS.640, Spring 2014
+- [[sts-429-food-and-power-in-the-twentieth-century-spring-2005|Food and Power in the Twentieth Century]] — STS.429, Spring 2005
+- [[sts-436-cold-war-science-fall-2008|Cold War Science]] — STS.436, Fall 2008
+- [[11-493-legal-aspects-of-property-and-land-use-fall-2005|Legal Aspects of Property and Land Use]] — 11.493, Fall 2005
+- [[21h-165-modern-african-history-spring-2019|Modern African History]] — 21H.165, Spring 2019
+- [[21a-112-seminar-in-ethnography-and-fieldwork-spring-2008|Seminar in Ethnography and Fieldwork]] — 21A.112, Spring 2008
+- [[21l-704-studies-in-poetry-does-poetry-matter-fall-2002|Studies in Poetry: "Does Poetry Matter"]] — 21L.704, Fall 2002
+- [[10-01-ethics-for-engineers-artificial-intelligence-spring-2020|Ethics for Engineers: Artificial Intelligence]] — 10.01, Spring 2020
+- [[21h-007j-empire-introduction-to-ancient-and-medieval-studies-fall-2012|Empire: Introduction to Ancient and Medieval Studies]] — 21H.007J, Fall 2012
 - [[17-484-comparative-grand-strategy-and-military-doctrine-fall-2004|Comparative Grand Strategy and Military Doctrine]] (17.484) — Fall 2004
 - [[17-509-social-movements-in-comparative-perspective-spring-2005|Social Movements in Comparative Perspective]] (17.509) — Spring 2005
 - [[21a-342-environmental-struggles-fall-2004|Environmental Struggles]] (21A.342) — Fall 2004

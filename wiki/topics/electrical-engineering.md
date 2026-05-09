@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[esd-68j-communications-and-information-policy-spring-2006|Communications and Information Policy]] — ESD.68J, Spring 2006
+- [[6-245-multivariable-control-systems-spring-2004|Multivariable Control Systems]] — 6.245, Spring 2004
+- [[2-737-mechatronics-fall-2014|Mechatronics]] — 2.737, Fall 2014
 - [[2-017j-design-of-electromechanical-robotic-systems-fall-2009|Design of Electromechanical Robotic Systems]] (2.017J) — Fall 2009
 - [[6-011-signals-systems-and-inference-spring-2018|Signals, Systems and Inference]] (6.011) — Spring 2018
 - [[6-013-electromagnetics-and-applications-fall-2005|Electromagnetics and Applications]] (6.013) — Fall 2005

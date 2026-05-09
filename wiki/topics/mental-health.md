@@ -12,4 +12,5 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
-*None yet.*
+- [[wgs-151-gender-health-and-society-spring-2016|Gender, Health, and Society]] — WGS.151, Spring 2016
+- [[wgs-151-gender-health-and-society-spring-2016|Gender, Health, and Society]] — WGS.151, Spring 2016

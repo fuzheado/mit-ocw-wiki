@@ -12,6 +12,7 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-081-human-memory-and-learning-fall-2002|Human Memory and Learning]] — 9.081, Fall 2002
 - [[18-465-topics-in-statistics-statistical-learning-theory-spring-2007|Topics in Statistics: Statistical Learning Theory]] (18.465) — Spring 2007
 - [[6-864-advanced-natural-language-processing-fall-2005|Advanced Natural Language Processing]] (6.864) — Fall 2005
 - [[9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007|Biochemistry and Pharmacology of Synaptic Transmission]] (9.15) — Fall 2007

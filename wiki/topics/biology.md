@@ -12,6 +12,10 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[es-s10-drugs-and-the-brain-spring-2013|Drugs and the Brain]] — ES.S10, Spring 2013
+- [[7-18-topics-in-experimental-biology-fall-2005|Topics in Experimental Biology]] — 7.18, Fall 2005
+- [[9-081-human-memory-and-learning-fall-2002|Human Memory and Learning]] — 9.081, Fall 2002
+- [[20-330j-fields-forces-and-flows-in-biological-systems-spring-2007|Fields, Forces and Flows in Biological Systems]] — 20.330J, Spring 2007
 - [[20-400j-perspectives-in-biological-engineering-spring-2006|Perspectives in Biological Engineering]] (20.400J) — Spring 2006
 - [[20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003|Molecular, Cellular and Tissue Biomechanics (BE.410J)]] (20.410J) — Spring 2003
 - [[20-440-analysis-of-biological-networks-be-440-fall-2004|Analysis of Biological Networks (BE.440)]] (20.440) — Fall 2004

@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21g-084j-introduction-to-latin-american-studies-fall-2005|Introduction to Latin American Studies]] — 21G.084J, Fall 2005
+- [[21a-338j-gender-power-and-international-development-fall-2003|Gender, Power, and International Development]] — 21A.338J, Fall 2003
+- [[ec-701j-d-lab-i-development-fall-2009|D-Lab I: Development]] — EC.701J, Fall 2009
 - [[11-166-law-social-movements-and-public-policy-comparative-and-international-experience-spring-2012|Law, Social Movements, and Public Policy: Comparative and International Experience]] (11.166) — Spring 2012
 - [[ec-715-d-lab-water-sanitation-and-hygiene-fall-2019|D-Lab: Water, Sanitation, and Hygiene]] (EC.715) — Fall 2019
 - [[ec-716-d-lab-waste-fall-2015|D-Lab: Waste]] (EC.716) — Fall 2015

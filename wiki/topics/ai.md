@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[10-01-ethics-for-engineers-artificial-intelligence-spring-2020|Ethics for Engineers: Artificial Intelligence]] — 10.01, Spring 2020
+- [[res-tll-008-social-and-ethical-responsibilities-of-computing-serc|Social and Ethical Responsibilities of Computing (SERC)]] — RES.TLL-008, Spring 2025
 - [[15-097-prediction-machine-learning-and-statistics-spring-2012|Prediction: Machine Learning and Statistics]] (15.097) — Spring 2012
 - [[18-465-topics-in-statistics-statistical-learning-theory-spring-2007|Topics in Statistics: Statistical Learning Theory]] (18.465) — Spring 2007
 - [[6-864-advanced-natural-language-processing-fall-2005|Advanced Natural Language Processing]] (6.864) — Fall 2005
