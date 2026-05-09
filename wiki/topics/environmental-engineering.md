@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[11-945-katrina-practicum-spring-2006|Katrina Practicum]] — 11.945, Spring 2006
+- [[res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017|Climate Action Hands-On: Harnessing Science with Communities to Cut Carbon]] — RES.ENV-001, January IAP 2017
 - [[11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005|Water and Sanitation Infrastructure Planning in Developing Countries]] — 11.479, Spring 2005
 - [[11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006|Role of Science and Scientists in Collaborative Approaches to Environmental Policymaking]] — 11.375, Spring 2006
 - [[11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006|Environmental Management Practicum: Brownfield Redevelopment]] — 11.362, Fall 2006

@@ -12,6 +12,10 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21a-501j-art-craft-science-spring-2013|Art, Craft, Science]] (21A.501J)
+- [[sts-428-technology-and-change-in-rural-america-fall-2004|Technology and Change in Rural America]] (STS.428)
+- [[21h-116j-the-civil-war-and-reconstruction-fall-2005|The Civil War and Reconstruction]] (21H.116J)
+- [[sts-049j-technology-and-gender-in-american-history-spring-2004|Technology and Gender in American History]] (STS.049J)
 - [[sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006|Energy and Environment in American History: 1705-2005]] (STS.038)
 - [[ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005|Integrating Doctoral Seminar on Emerging Technologies]] (IDS.900)
 - [[21a-429j-environmental-conflict-fall-2016|Environmental Conflict]] (21A.429J)

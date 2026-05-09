@@ -12,6 +12,15 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-384-malaysia-sustainable-cities-practicum-spring-2018|Malaysia Sustainable Cities Practicum]] — 11.384, Spring 2018
+- [[11-360-community-growth-and-land-use-planning-fall-2003|Community Growth and Land Use Planning]] — 11.360, Fall 2003
+- [[res-15-003-shaping-the-future-of-work-15-662x-spring-2016|Shaping the Future of Work (15.662x)]] — RES.15-003, Spring 2016
+- [[11-422-downtown-management-organizations-fall-2006|Downtown Management Organizations]] — 11.422, Fall 2006
+- [[11-945-katrina-practicum-spring-2006|Katrina Practicum]] — 11.945, Spring 2006
+- [[11-020-poverty-public-policy-and-controversy-fall-2003|Poverty, Public Policy and Controversy]] — 11.020, Fall 2003
+- [[21h-116j-the-civil-war-and-reconstruction-fall-2005|The Civil War and Reconstruction]] — 21H.116J, Fall 2005
+- [[11-950-citizen-participation-community-development-and-urban-governance-in-the-developing-world-spring-2007|Citizen Participation, Community Development, and Urban Governance in the Developing World]] — 11.950, Spring 2007
+- [[res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017|Climate Action Hands-On: Harnessing Science with Communities to Cut Carbon]] — RES.ENV-001, January IAP 2017
 - [[11-601-introduction-to-environmental-policy-and-planning-fall-2016|Introduction to Environmental Policy and Planning]] — 11.601, Fall 2016
 - [[17-317-u-s-social-policy-spring-2006|U.S. Social Policy]] — 17.317, Spring 2006
 - [[11-233-research-design-for-policy-analysis-and-planning-fall-2007|Research Design for Policy Analysis and Planning]] — 11.233, Fall 2007

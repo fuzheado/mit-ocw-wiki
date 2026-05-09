@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21h-983-gender-spring-2017|Gender]] — 21H.983, Spring 2017
+- [[wgs-s10-black-feminist-health-science-studies-spring-2021|Black Feminist Health Science Studies]] — WGS.S10, Spring 2021
+- [[sts-049j-technology-and-gender-in-american-history-spring-2004|Technology and Gender in American History]] — STS.049J, Spring 2004
 - [[cms-701-current-debates-in-media-spring-2015|Current Debates in Media]] — CMS.701, Spring 2015
 - [[wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012|Feminist Inquiry: Strategies for Effective Scholarship]] — WGS.615, Fall 2012
 - [[21a-231j-gender-sexuality-and-society-spring-2006|Gender, Sexuality, and Society]] — 21A.231J, Spring 2006

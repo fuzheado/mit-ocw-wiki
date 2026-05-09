@@ -12,6 +12,22 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-005-software-construction-spring-2016|Software Construction]] — 6.005, Spring 2016
+- [[8-371x-quantum-information-science-ii-spring-2018|Quantum Information Science II]] — 8.371x, Spring 2018
+- [[16-410-principles-of-autonomy-and-decision-making-fall-2010|Principles of Autonomy and Decision Making]] — 16.410, Fall 2010
+- [[12-s990-quantifying-uncertainty-fall-2012|Quantifying Uncertainty]] — 12.S990, Fall 2012
+- [[mas-965-social-visualization-fall-2004|Social Visualization]] — MAS.965, Fall 2004
+- [[esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007|Models, Data and Inference for Socio-Technical Systems]] — ESD.86, Spring 2007
+- [[mas-450-holographic-imaging-spring-2003|Holographic Imaging]] — MAS.450, Spring 2003
+- [[6-251j-introduction-to-mathematical-programming-fall-2009|Introduction to Mathematical Programming]] — 6.251J, Fall 2009
+- [[18-s096-topics-in-mathematics-of-data-science-fall-2015|Topics in Mathematics of Data Science]] — 18.S096, Fall 2015
+- [[6-823-computer-system-architecture-fall-2005|Computer System Architecture]] — 6.823, Fall 2005
+- [[6-046j-design-and-analysis-of-algorithms-spring-2012|Design and Analysis of Algorithms]] — 6.046J, Spring 2012
+- [[12-571-near-surface-geophysical-imaging-fall-2009|Near-Surface Geophysical Imaging]] — 12.571, Fall 2009
+- [[16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020|Visual Navigation for Autonomous Vehicles (VNAV)]] — 16.485, Fall 2020
+- [[6-012-microelectronic-devices-and-circuits-fall-2005|Microelectronic Devices and Circuits]] — 6.012, Fall 2005
+- [[6-832-underactuated-robotics-spring-2009|Underactuated Robotics]] — 6.832, Spring 2009
+- [[6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012|Introduction to EECS II: Digital Communication Systems]] — 6.02, Fall 2012
 - [[mas-865j-quantum-information-science-spring-2006|Quantum Information Science]] — MAS.865J, Spring 2006
 - [[6-884-complex-digital-systems-spring-2005|Complex Digital Systems]] — 6.884, Spring 2005
 - [[18-657-mathematics-of-machine-learning-fall-2015|Mathematics of Machine Learning]] — 18.657, Fall 2015

@@ -12,6 +12,9 @@ School: [[school-architecture-planning|School of Architecture and Planning]]
 
 ## Courses
 
+- [[mas-110-fundamentals-of-computational-media-design-fall-2008|Fundamentals of Computational Media Design]] (MAS.110)
+- [[mas-965-social-visualization-fall-2004|Social Visualization]] (MAS.965)
+- [[mas-450-holographic-imaging-spring-2003|Holographic Imaging]] (MAS.450)
 - [[mas-865j-quantum-information-science-spring-2006|Quantum Information Science]] (MAS.865J)
 - [[mas-962-digital-typography-fall-1997|Digital Typography]] (MAS.962)
 - [[mas-963-technological-tools-for-school-reform-fall-2005|Technological Tools for School Reform]] (MAS.963)

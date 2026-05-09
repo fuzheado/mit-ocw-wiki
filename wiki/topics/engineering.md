@@ -25,6 +25,44 @@ courses_count: 0
 
 ## Courses
 
+- [[6-005-software-construction-spring-2016|Software Construction]] — 6.005, Spring 2016
+- [[12-510-introduction-to-seismology-spring-2010|Introduction to Seismology]] — 12.510, Spring 2010
+- [[16-885j-aircraft-systems-engineering-fall-2004|Aircraft Systems Engineering]] — 16.885J, Fall 2004
+- [[8-371x-quantum-information-science-ii-spring-2018|Quantum Information Science II]] — 8.371x, Spring 2018
+- [[6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011|Electromagnetic Energy: From Motors to Lasers]] — 6.007, Spring 2011
+- [[16-410-principles-of-autonomy-and-decision-making-fall-2010|Principles of Autonomy and Decision Making]] — 16.410, Fall 2010
+- [[20-201-mechanisms-of-drug-actions-fall-2013|Mechanisms of Drug Actions]] — 20.201, Fall 2013
+- [[8-511-theory-of-solids-i-fall-2004|Theory of Solids I]] — 8.511, Fall 2004
+- [[2-001-mechanics-materials-i-fall-2006|Mechanics & Materials I]] — 2.001, Fall 2006
+- [[18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018|Matrix Methods in Data Analysis, Signal Processing, and Machine Learning]] — 18.065, Spring 2018
+- [[12-s990-quantifying-uncertainty-fall-2012|Quantifying Uncertainty]] — 12.S990, Fall 2012
+- [[mas-965-social-visualization-fall-2004|Social Visualization]] — MAS.965, Fall 2004
+- [[esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007|Models, Data and Inference for Socio-Technical Systems]] — ESD.86, Spring 2007
+- [[4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004|Form-Finding and Structural Optimization: Gaudi Workshop]] — 4.491, Fall 2004
+- [[mas-450-holographic-imaging-spring-2003|Holographic Imaging]] — MAS.450, Spring 2003
+- [[3-016-mathematics-for-materials-scientists-and-engineers-fall-2005|Mathematics for Materials Scientists and Engineers]] — 3.016, Fall 2005
+- [[6-251j-introduction-to-mathematical-programming-fall-2009|Introduction to Mathematical Programming]] — 6.251J, Fall 2009
+- [[11-945-katrina-practicum-spring-2006|Katrina Practicum]] — 11.945, Spring 2006
+- [[res-6-003-electromechanical-dynamics-spring-2009|Electromechanical Dynamics]] — RES.6-003, Spring 2009
+- [[6-977-ultrafast-optics-spring-2005|Ultrafast Optics]] — 6.977, Spring 2005
+- [[18-s096-topics-in-mathematics-of-data-science-fall-2015|Topics in Mathematics of Data Science]] — 18.S096, Fall 2015
+- [[6-452-principles-of-wireless-communications-spring-2006|Principles of Wireless Communications]] — 6.452, Spring 2006
+- [[3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007|Electrical, Optical, and Magnetic Properties of Materials]] — 3.23, Fall 2007
+- [[6-823-computer-system-architecture-fall-2005|Computer System Architecture]] — 6.823, Fall 2005
+- [[2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014|Engineering Math: Differential Equations and Linear Algebra]] — 2.087, Fall 2014
+- [[6-046j-design-and-analysis-of-algorithms-spring-2012|Design and Analysis of Algorithms]] — 6.046J, Spring 2012
+- [[12-571-near-surface-geophysical-imaging-fall-2009|Near-Surface Geophysical Imaging]] — 12.571, Fall 2009
+- [[16-346-astrodynamics-fall-2008|Astrodynamics]] — 16.346, Fall 2008
+- [[16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020|Visual Navigation for Autonomous Vehicles (VNAV)]] — 16.485, Fall 2020
+- [[ids-338j-multidisciplinary-system-design-optimization-spring-2010|Multidisciplinary System Design Optimization]] — IDS.338J, Spring 2010
+- [[3-185-transport-phenomena-in-materials-engineering-fall-2003|Transport Phenomena in Materials Engineering]] — 3.185, Fall 2003
+- [[3-042-materials-project-laboratory-spring-2008|Materials Project Laboratory]] — 3.042, Spring 2008
+- [[res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017|Climate Action Hands-On: Harnessing Science with Communities to Cut Carbon]] — RES.ENV-001, January IAP 2017
+- [[6-012-microelectronic-devices-and-circuits-fall-2005|Microelectronic Devices and Circuits]] — 6.012, Fall 2005
+- [[2-785j-cell-matrix-mechanics-fall-2014|Cell-Matrix Mechanics]] — 2.785J, Fall 2014
+- [[2-s998-marine-autonomy-sensing-and-communications-spring-2012|Marine Autonomy, Sensing and Communications]] — 2.S998, Spring 2012
+- [[6-832-underactuated-robotics-spring-2009|Underactuated Robotics]] — 6.832, Spring 2009
+- [[6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012|Introduction to EECS II: Digital Communication Systems]] — 6.02, Fall 2012
 - [[mas-865j-quantum-information-science-spring-2006|Quantum Information Science]] — MAS.865J, Spring 2006
 - [[6-884-complex-digital-systems-spring-2005|Complex Digital Systems]] — 6.884, Spring 2005
 - [[22-058-principles-of-medical-imaging-fall-2002|Principles of Medical Imaging]] — 22.058, Fall 2002

@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21l-705-major-authors-melville-and-morrison-fall-2003|Major Authors: Melville and Morrison]]
 - [[21l-021-comedy-spring-2022|Comedy]]
 - [[21l-512-american-authors-autobiography-and-memoir-fall-2013|American Authors: Autobiography and Memoir]]
 - [[21l-705-major-authors-after-the-masterpiece-novels-by-melville-twain-faulkner-and-morrison-fall-2006|Major Authors: After the Masterpiece: Novels by Melville, Twain, Faulkner, and Morrison]]

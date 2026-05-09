@@ -12,6 +12,10 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004|Form-Finding and Structural Optimization: Gaudi Workshop]] — 4.491, Fall 2004
+- [[4-615-the-architecture-of-cairo-spring-2002|The Architecture of Cairo]] — 4.615, Spring 2002
+- [[4-665-contemporary-architecture-and-critical-debate-spring-2002|Contemporary Architecture and Critical Debate]] — 4.665, Spring 2002
+- [[4-163j-urban-design-studio-providence-spring-2005|Urban Design Studio: Providence]] — 4.163J, Spring 2005
 - [[11-016j-the-once-and-future-city-spring-2015|The Once and Future City]] — 11.016J, Spring 2015
 - [[4-297-special-problems-in-architecture-studies-fall-2000|Special Problems in Architecture Studies]] — 4.297, Fall 2000
 - [[4-303-dialogue-in-art-architecture-and-urbanism-fall-2003|Dialogue in Art, Architecture, and Urbanism]] — 4.303, Fall 2003

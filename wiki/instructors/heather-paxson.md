@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21a-501j-art-craft-science-spring-2013|Art, Craft, Science]]
 - [[21a-231j-gender-sexuality-and-society-spring-2006|Gender, Sexuality, and Society]]

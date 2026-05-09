@@ -12,6 +12,13 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[16-885j-aircraft-systems-engineering-fall-2004|Aircraft Systems Engineering]] — 16.885J, Fall 2004
+- [[16-410-principles-of-autonomy-and-decision-making-fall-2010|Principles of Autonomy and Decision Making]] — 16.410, Fall 2010
+- [[12-s990-quantifying-uncertainty-fall-2012|Quantifying Uncertainty]] — 12.S990, Fall 2012
+- [[esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007|Models, Data and Inference for Socio-Technical Systems]] — ESD.86, Spring 2007
+- [[4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004|Form-Finding and Structural Optimization: Gaudi Workshop]] — 4.491, Fall 2004
+- [[6-251j-introduction-to-mathematical-programming-fall-2009|Introduction to Mathematical Programming]] — 6.251J, Fall 2009
+- [[ids-338j-multidisciplinary-system-design-optimization-spring-2010|Multidisciplinary System Design Optimization]] — IDS.338J, Spring 2010
 - [[res-6-012-introduction-to-probability-spring-2018|Introduction to Probability]] — RES.6-012, Spring 2018
 - [[15-083j-integer-programming-and-combinatorial-optimization-fall-2009|Integer Programming and Combinatorial Optimization]] — 15.083J, Fall 2009
 - [[15-084j-nonlinear-programming-spring-2004|Nonlinear Programming]] — 15.084J, Spring 2004

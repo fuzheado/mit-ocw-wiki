@@ -12,6 +12,10 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015|Popular Culture and Narrative: Use and Abuse of the Fairy Tale]] (21L.430)
+- [[res-cms-504-sorting-truth-from-fiction-civic-online-reasoning-spring-2021|Sorting Truth From Fiction: Civic Online Reasoning]] (RES.CMS-504)
+- [[res-cms-501-envisioning-the-graduate-of-the-future-spring-2020|Envisioning the Graduate of the Future]] (RES.CMS-501)
+- [[cms-405-media-and-methods-seeing-and-expression-spring-2013|Media and Methods: Seeing and Expression]] (CMS.405)
 - [[cms-360-introduction-to-civic-media-fall-2012|Introduction to Civic Media]] (CMS.360)
 - [[cms-701-current-debates-in-media-spring-2015|Current Debates in Media]] (CMS.701)
 - [[cms-608-game-design-spring-2014|Game Design]] (CMS.608)

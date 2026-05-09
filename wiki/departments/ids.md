@@ -12,6 +12,7 @@ School: [[school-schwarzman-computing|MIT Schwarzman College of Computing]]
 
 ## Courses
 
+- [[ids-338j-multidisciplinary-system-design-optimization-spring-2010|Multidisciplinary System Design Optimization]] (IDS.338J)
 - [[16-863j-system-safety-spring-2016|System Safety]] (16.863J)
 - [[ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005|Integrating Doctoral Seminar on Emerging Technologies]] (IDS.900)
 - [[10-805j-technology-law-and-the-working-environment-spring-2006|Technology, Law, and the Working Environment]] (10.805J)

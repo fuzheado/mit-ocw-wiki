@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-229-advanced-writing-seminar-spring-2004|Advanced Writing Seminar]]
 - [[11-225-argumentation-and-communication-fall-2006|Argumentation and Communication]]
 - [[11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017|Global Cityscope - Disaster Planning and Post-Disaster Rebuilding and Recovery]]

@@ -12,6 +12,11 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[res-15-003-shaping-the-future-of-work-15-662x-spring-2016|Shaping the Future of Work (15.662x)]] — RES.15-003, Spring 2016
+- [[15-668-people-and-organizations-fall-2010|People and Organizations]] — 15.668, Fall 2010
+- [[res-15-001-mit-sloan-learningedge-fall-2008|MIT Sloan Teaching Resources Library]] — RES.15-001, Fall 2008
+- [[15-301-managerial-psychology-laboratory-fall-2004|Managerial Psychology Laboratory]] — 15.301, Fall 2004
+- [[15-277-special-seminar-in-communications-leadership-and-personal-effectiveness-coaching-fall-2008|Special Seminar in Communications: Leadership and Personal Effectiveness Coaching]] — 15.277, Fall 2008
 - [[15-414-financial-management-summer-2003|Financial Management]] — 15.414, Summer 2003
 - [[15-301-managerial-psychology-fall-2006|Managerial Psychology]] — 15.301, Fall 2006
 - [[15-871-introduction-to-system-dynamics-fall-2013|Introduction to System Dynamics]] — 15.871, Fall 2013

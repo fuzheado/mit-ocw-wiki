@@ -12,6 +12,12 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[mas-110-fundamentals-of-computational-media-design-fall-2008|Fundamentals of Computational Media Design]] — MAS.110, Fall 2008
+- [[mas-965-social-visualization-fall-2004|Social Visualization]] — MAS.965, Fall 2004
+- [[mas-450-holographic-imaging-spring-2003|Holographic Imaging]] — MAS.450, Spring 2003
+- [[21l-705-major-authors-melville-and-morrison-fall-2003|Major Authors: Melville and Morrison]] — 21L.705, Fall 2003
+- [[21g-040-a-passage-to-india-introduction-to-modern-indian-culture-and-society-spring-2012|A Passage to India: Introduction to Modern Indian Culture and Society]] — 21G.040, Spring 2012
+- [[cms-405-media-and-methods-seeing-and-expression-spring-2013|Media and Methods: Seeing and Expression]] — CMS.405, Spring 2013
 - [[4-297-special-problems-in-architecture-studies-fall-2000|Special Problems in Architecture Studies]] — 4.297, Fall 2000
 - [[21g-035-topics-in-culture-and-globalization-reggae-as-transnational-culture-fall-2010|Topics in Culture and Globalization: Reggae as Transnational Culture]] — 21G.035, Fall 2010
 - [[cms-360-introduction-to-civic-media-fall-2012|Introduction to Civic Media]] — CMS.360, Fall 2012

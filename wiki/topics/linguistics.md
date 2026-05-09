@@ -12,6 +12,8 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-910-topics-in-linguistic-theory-propositional-attitudes-spring-2009|Topics in Linguistic Theory: Propositional Attitudes]] — 24.910, Spring 2009
+- [[24-960-syntactic-models-spring-2006|Syntactic Models]] — 24.960, Spring 2006
 - [[mas-962-digital-typography-fall-1997|Digital Typography]] — MAS.962, Fall 1997
 - [[9-57j-language-acquisition-fall-2001|Language Acquisition]] — 9.57J, Fall 2001
 - [[6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006|Transcribing Prosodic Structure of Spoken Utterances with ToBI]] — 6.911, January IAP 2006

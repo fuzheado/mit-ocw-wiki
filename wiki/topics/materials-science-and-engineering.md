@@ -12,6 +12,12 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-001-mechanics-materials-i-fall-2006|Mechanics & Materials I]] — 2.001, Fall 2006
+- [[3-016-mathematics-for-materials-scientists-and-engineers-fall-2005|Mathematics for Materials Scientists and Engineers]] — 3.016, Fall 2005
+- [[3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007|Electrical, Optical, and Magnetic Properties of Materials]] — 3.23, Fall 2007
+- [[3-185-transport-phenomena-in-materials-engineering-fall-2003|Transport Phenomena in Materials Engineering]] — 3.185, Fall 2003
+- [[3-042-materials-project-laboratory-spring-2008|Materials Project Laboratory]] — 3.042, Spring 2008
+- [[2-785j-cell-matrix-mechanics-fall-2014|Cell-Matrix Mechanics]] — 2.785J, Fall 2014
 - [[3-11-mechanics-of-materials-fall-1999|Mechanics of Materials]] — 3.11, Fall 1999
 - [[2-002-mechanics-and-materials-ii-spring-2004|Mechanics and Materials II]] — 2.002, Spring 2004
 - [[3-205-thermodynamics-and-kinetics-of-materials-fall-2006|Thermodynamics and Kinetics of Materials]] — 3.205, Fall 2006

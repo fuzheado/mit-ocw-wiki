@@ -12,6 +12,14 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011|Electromagnetic Energy: From Motors to Lasers]] — 6.007, Spring 2011
+- [[18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018|Matrix Methods in Data Analysis, Signal Processing, and Machine Learning]] — 18.065, Spring 2018
+- [[res-6-003-electromechanical-dynamics-spring-2009|Electromechanical Dynamics]] — RES.6-003, Spring 2009
+- [[6-977-ultrafast-optics-spring-2005|Ultrafast Optics]] — 6.977, Spring 2005
+- [[6-452-principles-of-wireless-communications-spring-2006|Principles of Wireless Communications]] — 6.452, Spring 2006
+- [[6-012-microelectronic-devices-and-circuits-fall-2005|Microelectronic Devices and Circuits]] — 6.012, Fall 2005
+- [[6-832-underactuated-robotics-spring-2009|Underactuated Robotics]] — 6.832, Spring 2009
+- [[6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012|Introduction to EECS II: Digital Communication Systems]] — 6.02, Fall 2012
 - [[6-884-complex-digital-systems-spring-2005|Complex Digital Systems]] — 6.884, Spring 2005
 - [[16-36-communication-systems-engineering-spring-2009|Communication Systems Engineering]] — 16.36, Spring 2009
 - [[6-050j-information-and-entropy-spring-2008|Information and Entropy]] — 6.050J, Spring 2008

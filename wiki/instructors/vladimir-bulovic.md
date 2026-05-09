@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011|Electromagnetic Energy: From Motors to Lasers]]
 - [[6-973-organic-optoelectronics-spring-2003|Organic Optoelectronics]]

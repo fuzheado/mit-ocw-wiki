@@ -20,6 +20,36 @@ courses_count: 0
 
 ## Courses
 
+- [[21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015|Popular Culture and Narrative: Use and Abuse of the Fairy Tale]] — 21L.430, Fall 2015
+- [[21g-503-japanese-iii-fall-2019|Japanese III]] — 21G.503, Fall 2019
+- [[21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005|Studies in Drama: Theater and Science in a Time of War]] — 21L.703, Spring 2005
+- [[21h-421-introduction-to-environmental-history-spring-2011|Introduction to Environmental History]] — 21H.421, Spring 2011
+- [[21g-712-spanish-conversation-and-composition-fall-2003|Spanish Conversation and Composition]] — 21G.712, Fall 2003
+- [[11-384-malaysia-sustainable-cities-practicum-spring-2018|Malaysia Sustainable Cities Practicum]] — 11.384, Spring 2018
+- [[21h-983-gender-spring-2017|Gender]] — 21H.983, Spring 2017
+- [[4-615-the-architecture-of-cairo-spring-2002|The Architecture of Cairo]] — 4.615, Spring 2002
+- [[21h-112-the-american-revolution-spring-2006|The American Revolution]] — 21H.112, Spring 2006
+- [[21a-460j-medicine-religion-and-politics-in-africa-and-the-african-diaspora-spring-2005|Medicine, Religion and Politics in Africa and the African Diaspora]] — 21A.460J, Spring 2005
+- [[21l-315-prizewinners-spring-2007|Prizewinners]] — 21L.315, Spring 2007
+- [[11-020-poverty-public-policy-and-controversy-fall-2003|Poverty, Public Policy and Controversy]] — 11.020, Fall 2003
+- [[24-910-topics-in-linguistic-theory-propositional-attitudes-spring-2009|Topics in Linguistic Theory: Propositional Attitudes]] — 24.910, Spring 2009
+- [[21l-701-literary-interpretation-literature-and-photography-the-image-fall-2005|Literary Interpretation: Literature and Photography: The Image]] — 21L.701, Fall 2005
+- [[21h-991-theories-and-methods-in-the-study-of-history-fall-2014|Theories and Methods in the Study of History]] — 21H.991, Fall 2014
+- [[21l-488-contemporary-literature-street-haunting-in-the-global-city-spring-2018|Contemporary Literature: Street Haunting in the Global City]] — 21L.488, Spring 2018
+- [[14-72-capitalism-and-its-critics-fall-2013|Capitalism and Its Critics]] — 14.72, Fall 2013
+- [[sts-428-technology-and-change-in-rural-america-fall-2004|Technology and Change in Rural America]] — STS.428, Fall 2004
+- [[24-200-ancient-philosophy-fall-2004|Ancient Philosophy]] — 24.200, Fall 2004
+- [[11-229-advanced-writing-seminar-spring-2004|Advanced Writing Seminar]] — 11.229, Spring 2004
+- [[21h-116j-the-civil-war-and-reconstruction-fall-2005|The Civil War and Reconstruction]] — 21H.116J, Fall 2005
+- [[24-960-syntactic-models-spring-2006|Syntactic Models]] — 24.960, Spring 2006
+- [[21l-705-major-authors-melville-and-morrison-fall-2003|Major Authors: Melville and Morrison]] — 21L.705, Fall 2003
+- [[res-21g-01-kana-spring-2010|Kana]] — RES.21G-01, Spring 2010
+- [[21g-040-a-passage-to-india-introduction-to-modern-indian-culture-and-society-spring-2012|A Passage to India: Introduction to Modern Indian Culture and Society]] — 21G.040, Spring 2012
+- [[sts-049j-technology-and-gender-in-american-history-spring-2004|Technology and Gender in American History]] — STS.049J, Spring 2004
+- [[21l-003-introduction-to-fiction-spring-2002|Introduction to Fiction]] — 21L.003, Spring 2002
+- [[21m-030-introduction-to-world-music-spring-2013|Introduction to World Music]] — 21M.030, Spring 2013
+- [[21g-301-french-i-fall-2004|French I]] — 21G.301, Fall 2004
+- [[21g-221-communicating-in-american-culture-s-spring-2019|Communicating in American Culture(s)]] — 21G.221, Spring 2019
 - [[21g-346-topics-in-modern-french-literature-and-culture-north-america-through-french-eyes-spring-2014|Topics in Modern French Literature and Culture: North America Through French Eyes]] — 21G.346, Spring 2014
 - [[11-016j-the-once-and-future-city-spring-2015|The Once and Future City]] — 11.016J, Spring 2015
 - [[21g-035-topics-in-culture-and-globalization-reggae-as-transnational-culture-fall-2010|Topics in Culture and Globalization: Reggae as Transnational Culture]] — 21G.035, Fall 2010

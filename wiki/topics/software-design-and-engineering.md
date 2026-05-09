@@ -12,6 +12,10 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-005-software-construction-spring-2016|Software Construction]] — 6.005, Spring 2016
+- [[6-251j-introduction-to-mathematical-programming-fall-2009|Introduction to Mathematical Programming]] — 6.251J, Fall 2009
+- [[6-823-computer-system-architecture-fall-2005|Computer System Architecture]] — 6.823, Fall 2005
+- [[6-012-microelectronic-devices-and-circuits-fall-2005|Microelectronic Devices and Circuits]] — 6.012, Fall 2005
 - [[6-884-complex-digital-systems-spring-2005|Complex Digital Systems]] — 6.884, Spring 2005
 - [[18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020|Introduction to Computational Thinking with Julia, with Applications to Modeling the COVID-19 Pandemic]] — 18.S190, Spring 2020
 - [[mas-961-numeric-photography-fall-1998|Numeric Photography]] — MAS.961, Fall 1998

@@ -12,6 +12,10 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-384-malaysia-sustainable-cities-practicum-spring-2018|Malaysia Sustainable Cities Practicum]] — 11.384, Spring 2018
+- [[14-770-introduction-to-political-economy-fall-2017|Introduction to Political Economy]] — 14.770, Fall 2017
+- [[21h-112-the-american-revolution-spring-2006|The American Revolution]] — 21H.112, Spring 2006
+- [[21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014|The Business of Politics: A View of Latin America]] — 21A.506, Spring 2014
 - [[17-317-u-s-social-policy-spring-2006|U.S. Social Policy]] — 17.317, Spring 2006
 - [[cms-701-current-debates-in-media-spring-2015|Current Debates in Media]] — CMS.701, Spring 2015
 - [[17-50-introduction-to-comparative-politics-fall-2022|Introduction to Comparative Politics]] — 17.50, Fall 2022

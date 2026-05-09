@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21h-983-gender-spring-2017|Gender]]
 - [[21h-931-seminar-in-historical-methods-spring-2002|Seminar in Historical Methods]]
 - [[21h-907-trials-in-history-fall-2000|Trials in History]]

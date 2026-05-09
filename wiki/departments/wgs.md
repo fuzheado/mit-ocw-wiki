@@ -12,6 +12,9 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[wgs-s10-black-feminist-health-science-studies-spring-2021|Black Feminist Health Science Studies]] (WGS.S10)
+- [[21a-460j-medicine-religion-and-politics-in-africa-and-the-african-diaspora-spring-2005|Medicine, Religion and Politics in Africa and the African Diaspora]] (21A.460J)
+- [[21l-705-major-authors-melville-and-morrison-fall-2003|Major Authors: Melville and Morrison]] (21L.705)
 - [[wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012|Feminist Inquiry: Strategies for Effective Scholarship]] (WGS.615)
 - [[21a-231j-gender-sexuality-and-society-spring-2006|Gender, Sexuality, and Society]] (21A.231J)
 - [[wgs-s10-special-topics-in-women-gender-studies-seminar-latina-womens-voices-spring-2010|Special Topics in Women & Gender Studies Seminar: Latina Women's Voices]] (WGS.S10)

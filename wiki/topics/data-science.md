@@ -12,6 +12,9 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007|Models, Data and Inference for Socio-Technical Systems]] — ESD.86, Spring 2007
+- [[18-s096-topics-in-mathematics-of-data-science-fall-2015|Topics in Mathematics of Data Science]] — 18.S096, Fall 2015
+- [[12-571-near-surface-geophysical-imaging-fall-2009|Near-Surface Geophysical Imaging]] — 12.571, Fall 2009
 - [[18-657-mathematics-of-machine-learning-fall-2015|Mathematics of Machine Learning]] — 18.657, Fall 2015
 - [[cms-633-digital-humanities-spring-2015|Digital Humanities]] — CMS.633, Spring 2015
 - [[15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004|Systems Optimization: Models and Computation (SMA 5223)]] — 15.094J, Spring 2004

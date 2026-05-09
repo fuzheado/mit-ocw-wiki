@@ -12,6 +12,7 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21m-030-introduction-to-world-music-spring-2013|Introduction to World Music]] — 21M.030, Spring 2013
 - [[21g-035-topics-in-culture-and-globalization-reggae-as-transnational-culture-fall-2010|Topics in Culture and Globalization: Reggae as Transnational Culture]] — 21G.035, Fall 2010
 - [[21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010|Music and Technology: Algorithmic and Generative Music]] — 21M.380, Spring 2010
 - [[21m-260-stravinsky-to-the-present-spring-2016|Stravinsky to the Present]] — 21M.260, Spring 2016

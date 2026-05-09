@@ -12,6 +12,10 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[16-410-principles-of-autonomy-and-decision-making-fall-2010|Principles of Autonomy and Decision Making]] — 16.410, Fall 2010
+- [[mas-450-holographic-imaging-spring-2003|Holographic Imaging]] — MAS.450, Spring 2003
+- [[9-52-b-topics-in-brain-and-cognitive-sciences-human-ethology-spring-2001|Topics in Brain and Cognitive Sciences Human Ethology]] — 9.52-B, Spring 2001
+- [[9-916-the-neural-basis-of-visual-object-recognition-in-monkeys-and-humans-spring-2005|The Neural Basis of Visual Object Recognition in Monkeys and Humans]] — 9.916, Spring 2005
 - [[9-63-laboratory-in-visual-cognition-fall-2009|Laboratory in Visual Cognition]] — 9.63, Fall 2009
 - [[9-57j-language-acquisition-fall-2001|Language Acquisition]] — 9.57J, Fall 2001
 - [[6-867-machine-learning-fall-2006|Machine Learning]] — 6.867, Fall 2006

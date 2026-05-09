@@ -12,6 +12,10 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-384-malaysia-sustainable-cities-practicum-spring-2018|Malaysia Sustainable Cities Practicum]] — 11.384, Spring 2018
+- [[21a-460j-medicine-religion-and-politics-in-africa-and-the-african-diaspora-spring-2005|Medicine, Religion and Politics in Africa and the African Diaspora]] — 21A.460J, Spring 2005
+- [[11-020-poverty-public-policy-and-controversy-fall-2003|Poverty, Public Policy and Controversy]] — 11.020, Fall 2003
+- [[11-950-citizen-participation-community-development-and-urban-governance-in-the-developing-world-spring-2007|Citizen Participation, Community Development, and Urban Governance in the Developing World]] — 11.950, Spring 2007
 - [[11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005|Water and Sanitation Infrastructure Planning in Developing Countries]] — 11.479, Spring 2005
 - [[21g-034-media-education-and-the-marketplace-fall-2005|Media Education and the Marketplace]] — 21G.034, Fall 2005
 - [[ec-720j-d-lab-ii-design-spring-2010|D-Lab II: Design]] — EC.720J, Spring 2010

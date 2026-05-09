@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[mas-110-fundamentals-of-computational-media-design-fall-2008|Fundamentals of Computational Media Design]] — MAS.110, Fall 2008
+- [[21l-701-literary-interpretation-literature-and-photography-the-image-fall-2005|Literary Interpretation: Literature and Photography: The Image]] — 21L.701, Fall 2005
+- [[cms-405-media-and-methods-seeing-and-expression-spring-2013|Media and Methods: Seeing and Expression]] — CMS.405, Spring 2013
 - [[21g-341-contemporary-french-film-and-social-issues-spring-2014|Contemporary French Film and Social Issues]] — 21G.341, Spring 2014
 - [[4-303-dialogue-in-art-architecture-and-urbanism-fall-2003|Dialogue in Art, Architecture, and Urbanism]] — 4.303, Fall 2003
 - [[mas-962-digital-typography-fall-1997|Digital Typography]] — MAS.962, Fall 1997

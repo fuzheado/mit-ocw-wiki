@@ -12,6 +12,16 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015|Popular Culture and Narrative: Use and Abuse of the Fairy Tale]] — 21L.430, Fall 2015
+- [[21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005|Studies in Drama: Theater and Science in a Time of War]] — 21L.703, Spring 2005
+- [[21l-315-prizewinners-spring-2007|Prizewinners]] — 21L.315, Spring 2007
+- [[21l-701-literary-interpretation-literature-and-photography-the-image-fall-2005|Literary Interpretation: Literature and Photography: The Image]] — 21L.701, Fall 2005
+- [[21l-488-contemporary-literature-street-haunting-in-the-global-city-spring-2018|Contemporary Literature: Street Haunting in the Global City]] — 21L.488, Spring 2018
+- [[24-200-ancient-philosophy-fall-2004|Ancient Philosophy]] — 24.200, Fall 2004
+- [[11-229-advanced-writing-seminar-spring-2004|Advanced Writing Seminar]] — 11.229, Spring 2004
+- [[21l-705-major-authors-melville-and-morrison-fall-2003|Major Authors: Melville and Morrison]] — 21L.705, Fall 2003
+- [[21g-040-a-passage-to-india-introduction-to-modern-indian-culture-and-society-spring-2012|A Passage to India: Introduction to Modern Indian Culture and Society]] — 21G.040, Spring 2012
+- [[21l-003-introduction-to-fiction-spring-2002|Introduction to Fiction]] — 21L.003, Spring 2002
 - [[21g-346-topics-in-modern-french-literature-and-culture-north-america-through-french-eyes-spring-2014|Topics in Modern French Literature and Culture: North America Through French Eyes]] — 21G.346, Spring 2014
 - [[21g-341-contemporary-french-film-and-social-issues-spring-2014|Contemporary French Film and Social Issues]] — 21G.341, Spring 2014
 - [[es-114-non-violence-as-a-way-of-life-fall-2018|Non-violence as a Way of Life]] — ES.114, Fall 2018

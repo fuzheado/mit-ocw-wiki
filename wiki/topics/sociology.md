@@ -12,6 +12,17 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-384-malaysia-sustainable-cities-practicum-spring-2018|Malaysia Sustainable Cities Practicum]] — 11.384, Spring 2018
+- [[11-360-community-growth-and-land-use-planning-fall-2003|Community Growth and Land Use Planning]] — 11.360, Fall 2003
+- [[21h-983-gender-spring-2017|Gender]] — 21H.983, Spring 2017
+- [[11-422-downtown-management-organizations-fall-2006|Downtown Management Organizations]] — 11.422, Fall 2006
+- [[wgs-s10-black-feminist-health-science-studies-spring-2021|Black Feminist Health Science Studies]] — WGS.S10, Spring 2021
+- [[11-945-katrina-practicum-spring-2006|Katrina Practicum]] — 11.945, Spring 2006
+- [[11-020-poverty-public-policy-and-controversy-fall-2003|Poverty, Public Policy and Controversy]] — 11.020, Fall 2003
+- [[21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014|The Business of Politics: A View of Latin America]] — 21A.506, Spring 2014
+- [[21g-040-a-passage-to-india-introduction-to-modern-indian-culture-and-society-spring-2012|A Passage to India: Introduction to Modern Indian Culture and Society]] — 21G.040, Spring 2012
+- [[sts-049j-technology-and-gender-in-american-history-spring-2004|Technology and Gender in American History]] — STS.049J, Spring 2004
+- [[11-950-citizen-participation-community-development-and-urban-governance-in-the-developing-world-spring-2007|Citizen Participation, Community Development, and Urban Governance in the Developing World]] — 11.950, Spring 2007
 - [[11-016j-the-once-and-future-city-spring-2015|The Once and Future City]] — 11.016J, Spring 2015
 - [[21g-035-topics-in-culture-and-globalization-reggae-as-transnational-culture-fall-2010|Topics in Culture and Globalization: Reggae as Transnational Culture]] — 21G.035, Fall 2010
 - [[21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005|Power: Interpersonal, Organizational and Global Dimensions]] — 21A.245J, Fall 2005

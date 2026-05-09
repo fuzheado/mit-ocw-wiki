@@ -12,6 +12,12 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-005-software-construction-spring-2016|Software Construction]] — 6.005, Spring 2016
+- [[8-371x-quantum-information-science-ii-spring-2018|Quantum Information Science II]] — 8.371x, Spring 2018
+- [[16-410-principles-of-autonomy-and-decision-making-fall-2010|Principles of Autonomy and Decision Making]] — 16.410, Fall 2010
+- [[12-s990-quantifying-uncertainty-fall-2012|Quantifying Uncertainty]] — 12.S990, Fall 2012
+- [[6-251j-introduction-to-mathematical-programming-fall-2009|Introduction to Mathematical Programming]] — 6.251J, Fall 2009
+- [[6-046j-design-and-analysis-of-algorithms-spring-2012|Design and Analysis of Algorithms]] — 6.046J, Spring 2012
 - [[18-657-mathematics-of-machine-learning-fall-2015|Mathematics of Machine Learning]] — 18.657, Fall 2015
 - [[6-006-introduction-to-algorithms-fall-2011|Introduction to Algorithms]] — 6.006, Fall 2011
 - [[6-036-introduction-to-machine-learning-fall-2020|Introduction to Machine Learning]] — 6.036, Fall 2020

@@ -12,6 +12,12 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21h-112-the-american-revolution-spring-2006|The American Revolution]] — 21H.112, Spring 2006
+- [[11-020-poverty-public-policy-and-controversy-fall-2003|Poverty, Public Policy and Controversy]] — 11.020, Fall 2003
+- [[21l-701-literary-interpretation-literature-and-photography-the-image-fall-2005|Literary Interpretation: Literature and Photography: The Image]] — 21L.701, Fall 2005
+- [[14-72-capitalism-and-its-critics-fall-2013|Capitalism and Its Critics]] — 14.72, Fall 2013
+- [[24-200-ancient-philosophy-fall-2004|Ancient Philosophy]] — 24.200, Fall 2004
+- [[21h-116j-the-civil-war-and-reconstruction-fall-2005|The Civil War and Reconstruction]] — 21H.116J, Fall 2005
 - [[21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005|Power: Interpersonal, Organizational and Global Dimensions]] — 21A.245J, Fall 2005
 - [[21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015|Renaissance To Revolution: Europe, 1300-1800]] — 21H.141, Spring 2015
 - [[hst-590-biomedical-engineering-seminar-series-topics-in-medical-ethics-and-responsible-conduct-in-research-fall-2005-spring-2006|Biomedical Engineering Seminar Series: Topics in Medical Ethics and Responsible Conduct in Research]] — HST.590, Fall 2005

@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[16-885j-aircraft-systems-engineering-fall-2004|Aircraft Systems Engineering]] — 16.885J, Fall 2004
+- [[16-346-astrodynamics-fall-2008|Astrodynamics]] — 16.346, Fall 2008
+- [[16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020|Visual Navigation for Autonomous Vehicles (VNAV)]] — 16.485, Fall 2020
+- [[2-s998-marine-autonomy-sensing-and-communications-spring-2012|Marine Autonomy, Sensing and Communications]] — 2.S998, Spring 2012
 - [[1-050-engineering-mechanics-i-fall-2007|Engineering Mechanics I]] — 1.050, Fall 2007
 - [[16-886-air-transportation-systems-architecting-spring-2004|Air Transportation Systems Architecting]] — 16.886, Spring 2004
 - [[16-885j-aircraft-systems-engineering-fall-2005|Aircraft Systems Engineering]] — 16.885J, Fall 2005

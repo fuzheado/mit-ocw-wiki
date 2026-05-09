@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-384-malaysia-sustainable-cities-practicum-spring-2018|Malaysia Sustainable Cities Practicum]] — 11.384, Spring 2018
+- [[11-360-community-growth-and-land-use-planning-fall-2003|Community Growth and Land Use Planning]] — 11.360, Fall 2003
+- [[11-422-downtown-management-organizations-fall-2006|Downtown Management Organizations]] — 11.422, Fall 2006
+- [[11-945-katrina-practicum-spring-2006|Katrina Practicum]] — 11.945, Spring 2006
+- [[4-163j-urban-design-studio-providence-spring-2005|Urban Design Studio: Providence]] — 4.163J, Spring 2005
+- [[11-950-citizen-participation-community-development-and-urban-governance-in-the-developing-world-spring-2007|Citizen Participation, Community Development, and Urban Governance in the Developing World]] — 11.950, Spring 2007
 - [[11-016j-the-once-and-future-city-spring-2015|The Once and Future City]] — 11.016J, Spring 2015
 - [[11-601-introduction-to-environmental-policy-and-planning-fall-2016|Introduction to Environmental Policy and Planning]] — 11.601, Fall 2016
 - [[4-303-dialogue-in-art-architecture-and-urbanism-fall-2003|Dialogue in Art, Architecture, and Urbanism]] — 4.303, Fall 2003

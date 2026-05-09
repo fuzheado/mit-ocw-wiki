@@ -12,6 +12,8 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[wgs-s10-black-feminist-health-science-studies-spring-2021|Black Feminist Health Science Studies]] — WGS.S10, Spring 2021
+- [[21a-460j-medicine-religion-and-politics-in-africa-and-the-african-diaspora-spring-2005|Medicine, Religion and Politics in Africa and the African Diaspora]] — 21A.460J, Spring 2005
 - [[11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005|Water and Sanitation Infrastructure Planning in Developing Countries]] — 11.479, Spring 2005
 - [[20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005|Chemicals in the Environment: Toxicology and Public Health (BE.104J)]] — 20.104J, Spring 2005
 - [[hst-510-genomics-computing-economics-and-society-fall-2005|Genomics, Computing, Economics, and Society]] — HST.510, Fall 2005

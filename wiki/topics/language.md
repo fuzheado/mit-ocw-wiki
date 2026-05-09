@@ -12,6 +12,11 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-503-japanese-iii-fall-2019|Japanese III]] — 21G.503, Fall 2019
+- [[21g-712-spanish-conversation-and-composition-fall-2003|Spanish Conversation and Composition]] — 21G.712, Fall 2003
+- [[res-21g-01-kana-spring-2010|Kana]] — RES.21G-01, Spring 2010
+- [[21g-301-french-i-fall-2004|French I]] — 21G.301, Fall 2004
+- [[21g-221-communicating-in-american-culture-s-spring-2019|Communicating in American Culture(s)]] — 21G.221, Spring 2019
 - [[21g-346-topics-in-modern-french-literature-and-culture-north-america-through-french-eyes-spring-2014|Topics in Modern French Literature and Culture: North America Through French Eyes]] — 21G.346, Spring 2014
 - [[21g-341-contemporary-french-film-and-social-issues-spring-2014|Contemporary French Film and Social Issues]] — 21G.341, Spring 2014
 - [[21g-103-chinese-iii-regular-fall-2018|Chinese III (Regular)]] — 21G.103, Fall 2018

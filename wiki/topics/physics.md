@@ -12,6 +12,16 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[8-223-classical-mechanics-ii-january-iap-2017|Classical Mechanics II]] — 8.223, January IAP 2017
+- [[8-371x-quantum-information-science-ii-spring-2018|Quantum Information Science II]] — 8.371x, Spring 2018
+- [[6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011|Electromagnetic Energy: From Motors to Lasers]] — 6.007, Spring 2011
+- [[8-511-theory-of-solids-i-fall-2004|Theory of Solids I]] — 8.511, Fall 2004
+- [[mas-450-holographic-imaging-spring-2003|Holographic Imaging]] — MAS.450, Spring 2003
+- [[res-6-003-electromechanical-dynamics-spring-2009|Electromechanical Dynamics]] — RES.6-003, Spring 2009
+- [[2-051-introduction-to-heat-transfer-fall-2015|Introduction to Heat Transfer]] — 2.051, Fall 2015
+- [[6-977-ultrafast-optics-spring-2005|Ultrafast Optics]] — 6.977, Spring 2005
+- [[3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007|Electrical, Optical, and Magnetic Properties of Materials]] — 3.23, Fall 2007
+- [[3-185-transport-phenomena-in-materials-engineering-fall-2003|Transport Phenomena in Materials Engineering]] — 3.185, Fall 2003
 - [[mas-865j-quantum-information-science-spring-2006|Quantum Information Science]] — MAS.865J, Spring 2006
 - [[8-325-relativistic-quantum-field-theory-iii-spring-2003|Relativistic Quantum Field Theory III]] — 8.325, Spring 2003
 - [[22-058-principles-of-medical-imaging-fall-2002|Principles of Medical Imaging]] — 22.058, Fall 2002

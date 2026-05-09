@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21a-501j-art-craft-science-spring-2013|Art, Craft, Science]] — 21A.501J, Spring 2013
+- [[16-410-principles-of-autonomy-and-decision-making-fall-2010|Principles of Autonomy and Decision Making]] — 16.410, Fall 2010
+- [[res-15-003-shaping-the-future-of-work-15-662x-spring-2016|Shaping the Future of Work (15.662x)]] — RES.15-003, Spring 2016
+- [[14-770-introduction-to-political-economy-fall-2017|Introduction to Political Economy]] — 14.770, Fall 2017
+- [[11-020-poverty-public-policy-and-controversy-fall-2003|Poverty, Public Policy and Controversy]] — 11.020, Fall 2003
+- [[14-72-capitalism-and-its-critics-fall-2013|Capitalism and Its Critics]] — 14.72, Fall 2013
 - [[15-414-financial-management-summer-2003|Financial Management]] — 15.414, Summer 2003
 - [[14-09-financial-crises-january-iap-2016|Financial Crises]] — 14.09, January IAP 2016
 - [[hst-510-genomics-computing-economics-and-society-fall-2005|Genomics, Computing, Economics, and Society]] — HST.510, Fall 2005

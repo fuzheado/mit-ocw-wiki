@@ -12,6 +12,7 @@ Part of: [[innovation-and-entrepreneurship|Innovation & Entrepreneurship]]
 
 ## Courses
 
+- [[res-15-001-mit-sloan-learningedge-fall-2008|MIT Sloan Teaching Resources Library]] — RES.15-001, Fall 2008
 - [[15-992-s-lab-laboratory-for-sustainable-business-spring-2008|S-Lab: Laboratory for Sustainable Business]] — 15.992, Spring 2008
 - [[15-387-entrepreneurial-sales-spring-2015|Entrepreneurial Sales]] — 15.387, Spring 2015
 - [[15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010|Global Entrepreneurship Lab: Asia-Pacific]] — 15.389A, Fall 2010

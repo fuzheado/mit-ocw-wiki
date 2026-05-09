@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004|Form-Finding and Structural Optimization: Gaudi Workshop]] — 4.491, Fall 2004
 - [[1-050-engineering-mechanics-i-fall-2007|Engineering Mechanics I]] — 1.050, Fall 2007
 - [[1-361-advanced-soil-mechanics-fall-2004|Advanced Soil Mechanics]] — 1.361, Fall 2004
 - [[1-561-motion-based-design-fall-2003|Motion Based Design]] — 1.561, Fall 2003

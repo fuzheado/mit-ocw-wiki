@@ -12,6 +12,8 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011|Electromagnetic Energy: From Motors to Lasers]] — 6.007, Spring 2011
+- [[res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017|Climate Action Hands-On: Harnessing Science with Communities to Cut Carbon]] — RES.ENV-001, January IAP 2017
 - [[1-84j-atmospheric-chemistry-fall-2013|Atmospheric Chemistry]] — 1.84J, Fall 2013
 - [[22-39-integration-of-reactor-design-operations-and-safety-fall-2006|Integration of Reactor Design, Operations, and Safety]] — 22.39, Fall 2006
 - [[22-081j-introduction-to-sustainable-energy-fall-2010|Introduction to Sustainable Energy]] — 22.081J, Fall 2010

@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-945-katrina-practicum-spring-2006|Katrina Practicum]]
 - [[11-945-springfield-studio-fall-2005|Springfield Studio]]

@@ -12,6 +12,11 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-510-introduction-to-seismology-spring-2010|Introduction to Seismology]] — 12.510, Spring 2010
+- [[21h-421-introduction-to-environmental-history-spring-2011|Introduction to Environmental History]] — 21H.421, Spring 2011
+- [[12-571-near-surface-geophysical-imaging-fall-2009|Near-Surface Geophysical Imaging]] — 12.571, Fall 2009
+- [[res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017|Climate Action Hands-On: Harnessing Science with Communities to Cut Carbon]] — RES.ENV-001, January IAP 2017
+- [[12-001-introduction-to-geology-fall-2013|Introduction to Geology]] — 12.001, Fall 2013
 - [[15-992-s-lab-laboratory-for-sustainable-business-spring-2008|S-Lab: Laboratory for Sustainable Business]] — 15.992, Spring 2008
 - [[20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005|Chemicals in the Environment: Toxicology and Public Health (BE.104J)]] — 20.104J, Spring 2005
 - [[1-84j-atmospheric-chemistry-fall-2013|Atmospheric Chemistry]] — 1.84J, Fall 2013

@@ -12,6 +12,17 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005|Studies in Drama: Theater and Science in a Time of War]] — 21L.703, Spring 2005
+- [[21h-421-introduction-to-environmental-history-spring-2011|Introduction to Environmental History]] — 21H.421, Spring 2011
+- [[11-384-malaysia-sustainable-cities-practicum-spring-2018|Malaysia Sustainable Cities Practicum]] — 11.384, Spring 2018
+- [[21h-983-gender-spring-2017|Gender]] — 21H.983, Spring 2017
+- [[4-615-the-architecture-of-cairo-spring-2002|The Architecture of Cairo]] — 4.615, Spring 2002
+- [[21h-112-the-american-revolution-spring-2006|The American Revolution]] — 21H.112, Spring 2006
+- [[21a-460j-medicine-religion-and-politics-in-africa-and-the-african-diaspora-spring-2005|Medicine, Religion and Politics in Africa and the African Diaspora]] — 21A.460J, Spring 2005
+- [[21h-991-theories-and-methods-in-the-study-of-history-fall-2014|Theories and Methods in the Study of History]] — 21H.991, Fall 2014
+- [[sts-428-technology-and-change-in-rural-america-fall-2004|Technology and Change in Rural America]] — STS.428, Fall 2004
+- [[21h-116j-the-civil-war-and-reconstruction-fall-2005|The Civil War and Reconstruction]] — 21H.116J, Fall 2005
+- [[sts-049j-technology-and-gender-in-american-history-spring-2004|Technology and Gender in American History]] — STS.049J, Spring 2004
 - [[11-016j-the-once-and-future-city-spring-2015|The Once and Future City]] — 11.016J, Spring 2015
 - [[21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015|Renaissance To Revolution: Europe, 1300-1800]] — 21H.141, Spring 2015
 - [[21h-105-american-classics-fall-2002|American Classics]] — 21H.105, Fall 2002

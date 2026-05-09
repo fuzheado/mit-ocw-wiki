@@ -1,0 +1,11 @@
+---
+name: "Prof. Benjamin Olken"
+type: instructor
+courses_count: 1
+---
+
+# Prof. Benjamin Olken
+
+## Courses Taught at MIT
+
+- [[14-770-introduction-to-political-economy-fall-2017|Introduction to Political Economy]]

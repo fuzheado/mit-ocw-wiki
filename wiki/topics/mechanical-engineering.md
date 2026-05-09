@@ -12,6 +12,13 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[12-510-introduction-to-seismology-spring-2010|Introduction to Seismology]] — 12.510, Spring 2010
+- [[8-511-theory-of-solids-i-fall-2004|Theory of Solids I]] — 8.511, Fall 2004
+- [[2-001-mechanics-materials-i-fall-2006|Mechanics & Materials I]] — 2.001, Fall 2006
+- [[res-6-003-electromechanical-dynamics-spring-2009|Electromechanical Dynamics]] — RES.6-003, Spring 2009
+- [[2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014|Engineering Math: Differential Equations and Linear Algebra]] — 2.087, Fall 2014
+- [[3-185-transport-phenomena-in-materials-engineering-fall-2003|Transport Phenomena in Materials Engineering]] — 3.185, Fall 2003
+- [[2-785j-cell-matrix-mechanics-fall-2014|Cell-Matrix Mechanics]] — 2.785J, Fall 2014
 - [[3-11-mechanics-of-materials-fall-1999|Mechanics of Materials]] — 3.11, Fall 1999
 - [[2-72-elements-of-mechanical-design-spring-2009|Elements of Mechanical Design]] — 2.72, Spring 2009
 - [[1-050-engineering-mechanics-i-fall-2007|Engineering Mechanics I]] — 1.050, Fall 2007

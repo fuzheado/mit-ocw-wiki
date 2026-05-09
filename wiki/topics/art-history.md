@@ -12,6 +12,7 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[mas-110-fundamentals-of-computational-media-design-fall-2008|Fundamentals of Computational Media Design]] — MAS.110, Fall 2008
 - [[4-609-the-art-museum-history-theory-controversy-spring-2014|The Art Museum: History, Theory, Controversy]] — 4.609, Spring 2014
 - [[21l-430-popular-culture-and-narrative-serial-storytelling-spring-2013|Popular Culture and Narrative: Serial Storytelling]] — 21L.430, Spring 2013
 - [[4-671-nationalism-internationalism-and-globalism-in-modern-art-spring-2016|Nationalism, Internationalism, and Globalism in Modern Art]] — 4.671, Spring 2016

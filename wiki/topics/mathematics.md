@@ -12,6 +12,17 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[18-712-introduction-to-representation-theory-fall-2010|Introduction to Representation Theory]] — 18.712, Fall 2010
+- [[8-371x-quantum-information-science-ii-spring-2018|Quantum Information Science II]] — 8.371x, Spring 2018
+- [[18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018|Matrix Methods in Data Analysis, Signal Processing, and Machine Learning]] — 18.065, Spring 2018
+- [[18-152-introduction-to-partial-differential-equations-fall-2011|Introduction to Partial Differential Equations]] — 18.152, Fall 2011
+- [[12-s990-quantifying-uncertainty-fall-2012|Quantifying Uncertainty]] — 12.S990, Fall 2012
+- [[esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007|Models, Data and Inference for Socio-Technical Systems]] — ESD.86, Spring 2007
+- [[3-016-mathematics-for-materials-scientists-and-engineers-fall-2005|Mathematics for Materials Scientists and Engineers]] — 3.016, Fall 2005
+- [[18-443-statistics-for-applications-spring-2015|Statistics for Applications]] — 18.650 (formerly 18.443), Spring 2015
+- [[6-251j-introduction-to-mathematical-programming-fall-2009|Introduction to Mathematical Programming]] — 6.251J, Fall 2009
+- [[18-s096-topics-in-mathematics-of-data-science-fall-2015|Topics in Mathematics of Data Science]] — 18.S096, Fall 2015
+- [[2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014|Engineering Math: Differential Equations and Linear Algebra]] — 2.087, Fall 2014
 - [[mas-865j-quantum-information-science-spring-2006|Quantum Information Science]] — MAS.865J, Spring 2006
 - [[18-330-introduction-to-numerical-analysis-spring-2012|Introduction to Numerical Analysis]] — 18.330, Spring 2012
 - [[6-884-complex-digital-systems-spring-2005|Complex Digital Systems]] — 6.884, Spring 2005

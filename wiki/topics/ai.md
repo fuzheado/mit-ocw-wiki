@@ -12,6 +12,9 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[16-410-principles-of-autonomy-and-decision-making-fall-2010|Principles of Autonomy and Decision Making]] — 16.410, Fall 2010
+- [[16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020|Visual Navigation for Autonomous Vehicles (VNAV)]] — 16.485, Fall 2020
+- [[6-832-underactuated-robotics-spring-2009|Underactuated Robotics]] — 6.832, Spring 2009
 - [[18-657-mathematics-of-machine-learning-fall-2015|Mathematics of Machine Learning]] — 18.657, Fall 2015
 - [[6-036-introduction-to-machine-learning-fall-2020|Introduction to Machine Learning]] — 6.036, Fall 2020
 - [[6-867-machine-learning-fall-2006|Machine Learning]] — 6.867, Fall 2006

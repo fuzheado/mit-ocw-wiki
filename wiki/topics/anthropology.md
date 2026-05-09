@@ -12,6 +12,16 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21a-501j-art-craft-science-spring-2013|Art, Craft, Science]] — 21A.501J, Spring 2013
+- [[mas-965-social-visualization-fall-2004|Social Visualization]] — MAS.965, Fall 2004
+- [[21h-983-gender-spring-2017|Gender]] — 21H.983, Spring 2017
+- [[21a-460j-medicine-religion-and-politics-in-africa-and-the-african-diaspora-spring-2005|Medicine, Religion and Politics in Africa and the African Diaspora]] — 21A.460J, Spring 2005
+- [[sts-428-technology-and-change-in-rural-america-fall-2004|Technology and Change in Rural America]] — STS.428, Fall 2004
+- [[21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014|The Business of Politics: A View of Latin America]] — 21A.506, Spring 2014
+- [[21g-040-a-passage-to-india-introduction-to-modern-indian-culture-and-society-spring-2012|A Passage to India: Introduction to Modern Indian Culture and Society]] — 21G.040, Spring 2012
+- [[sts-049j-technology-and-gender-in-american-history-spring-2004|Technology and Gender in American History]] — STS.049J, Spring 2004
+- [[21m-030-introduction-to-world-music-spring-2013|Introduction to World Music]] — 21M.030, Spring 2013
+- [[21g-221-communicating-in-american-culture-s-spring-2019|Communicating in American Culture(s)]] — 21G.221, Spring 2019
 - [[21g-346-topics-in-modern-french-literature-and-culture-north-america-through-french-eyes-spring-2014|Topics in Modern French Literature and Culture: North America Through French Eyes]] — 21G.346, Spring 2014
 - [[21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005|Power: Interpersonal, Organizational and Global Dimensions]] — 21A.245J, Fall 2005
 - [[21l-432-understanding-television-spring-2003|Understanding Television]] — 21L.432, Spring 2003
