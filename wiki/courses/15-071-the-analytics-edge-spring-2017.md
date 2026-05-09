@@ -30,10 +30,20 @@ This course presents real-world examples in which quantitative methods provide a
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+- [Lecture-Notes] [Syllabus](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/syllabus/)
+- [Reading-List] [Readings](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/readings/)
+- [Lecture-Notes] [Lecture and Recitation Notes](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/lecture-and-recitation-notes/)
+- [Problem-Set] [Assignments](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/assignments/)
+- [Resource] [Unit Index](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/unit-index/)
+- [Lecture-Notes] [Unit 1: An Introduction to Analytics](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/an-introduction-to-analytics/)
+- [Lecture-Notes] [Unit 2: Linear Regression](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/linear-regression/)
+- [Lecture-Notes] [Unit 3: Logistic Regression](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/logistic-regression/)
+- [Lecture-Notes] [Unit 4: Trees](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/trees/)
+- [Lecture-Notes] [Unit 5: Text Analytics](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/text-analytics/)
+- [Lecture-Notes] [Unit 6: Clustering](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/clustering/)
+- [Lecture-Notes] [Unit 7: Visualization](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/visualization/)
+- [Lecture-Notes] [Unit 8: Linear Optimization](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/linear-optimization/)
+- [Lecture-Notes] [Unit 9: Integer Optimization](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/integer-optimization/)
 
 ## Wikipedia Bridge
 
