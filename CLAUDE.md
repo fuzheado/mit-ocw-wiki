@@ -101,7 +101,7 @@ This ensures consistency across sessions and prevents duplicated effort.
 
 ## Workflows
 
-**Ingest.** Read the source. Create/update the page. Propagate claims into existing pages and add backlinks. Stitch into the web. Update `index.md`, `log.md`, `home.md` if the narrative shifts.
+**Ingest.** Read the source. Create/update the page. Propagate claims into existing pages and add backlinks. Stitch into the web. Update `index.md`, `log.md`, `home.md` if the narrative shifts. After batch operations, run `python3 scripts/regenerate-index.py` to rebuild the catalog.
 
 **Query.** Read `index.md` first. Drill into pages. If the answer is non-trivial, file it back as a new page.
 
