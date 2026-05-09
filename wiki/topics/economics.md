@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[15-023j-global-climate-change-economics-science-and-policy-spring-2008|Global Climate Change: Economics, Science, and Policy]] — 15.023J, Spring 2008
+- [[ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010|Engineering, Economics and Regulation of the Electric Power Sector]] — IDS.505J, Spring 2010
+- [[17-541-japanese-politics-and-society-fall-2008|Japanese Politics and Society]] — 17.541, Fall 2008
+- [[11-701-introduction-to-international-development-planning-fall-2011|Introduction to International Development Planning]] — 11.701, Fall 2011
+- [[14-147-topics-in-game-theory-fall-2009|Topics in Game Theory]] — 14.147, Fall 2009
 - [[14-461-advanced-macroeconomics-i-fall-2012|Advanced Macroeconomics I]] — 14.461, Fall 2012
 - [[15-450-analytics-of-finance-fall-2010|Analytics of Finance]] — 15.450, Fall 2010
 - [[15-401-finance-theory-i-fall-2008|Finance Theory I]] — 15.401, Fall 2008

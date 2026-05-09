@@ -12,6 +12,10 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21h-225j-gender-and-the-law-in-u-s-history-spring-2004|Gender and the Law in U.S. History]] (21H.225J)
+- [[wgs-645-issues-of-representation-women-representation-and-music-in-selected-folk-traditions-of-the-british-isles-and-north-america-fall-2005|Issues of Representation: Women, Representation, and Music in Selected Folk Traditions of the British Isles and North America]] (WGS.645)
+- [[wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007|Studies in Women's Life Narratives: Interrogating Marriage: Case Studies in American Law and Culture]] (WGS.640)
+- [[21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001|Literary Interpretation: Virginia Woolf's Shakespeare]] (21L.701)
 - [[21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016|Globalization: The Good, the Bad and the In-Between]] (21L.020J)
 - [[21g-039j-gender-and-japanese-popular-culture-fall-2015|Gender and Japanese Popular Culture]] (21G.039J)
 - [[21m-621-theater-and-cultural-diversity-in-the-u-s-spring-2008|Theater and Cultural Diversity in the U.S.]] (21M.621)

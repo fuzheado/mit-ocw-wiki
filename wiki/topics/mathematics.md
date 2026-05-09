@@ -12,6 +12,18 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014|Linear Partial Differential Equations: Analysis and Numerics]] — 18.303, Fall 2014
+- [[2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005|Introduction to Numerical Analysis for Engineering (13.002J)]] — 2.993J, Spring 2005
+- [[18-156-differential-analysis-spring-2004|Differential Analysis]] — 18.156, Spring 2004
+- [[18-315-combinatorial-theory-hyperplane-arrangements-fall-2004|Combinatorial Theory: Hyperplane Arrangements]] — 18.315, Fall 2004
+- [[6-042j-mathematics-for-computer-science-fall-2005|Mathematics for Computer Science]] — 6.042J, Fall 2005
+- [[18-s997-the-polynomial-method-fall-2012|The Polynomial Method]] — 18.S997, Fall 2012
+- [[18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007|Topics in Algebraic Topology: The Sullivan Conjecture]] — 18.917, Fall 2007
+- [[6-435-system-identification-spring-2005|System Identification]] — 6.435, Spring 2005
+- [[18-413-error-correcting-codes-laboratory-spring-2004|Error-Correcting Codes Laboratory]] — 18.413, Spring 2004
+- [[18-02-multivariable-calculus-spring-2006|Multivariable Calculus]] — 18.02, Spring 2006
+- [[18-100a-introduction-to-analysis-fall-2012|Introduction to Analysis]] — 18.100A, Fall 2012
+- [[9-520-a-networks-for-learning-regression-and-classification-spring-2001|Networks for Learning: Regression and Classification]] — 9.520-A, Spring 2001
 - [[15-057-systems-optimization-spring-2003|Systems Optimization]] — 15.057, Spring 2003
 - [[6-441-information-theory-spring-2016|Information Theory]] — 6.441, Spring 2016
 - [[15-450-analytics-of-finance-fall-2010|Analytics of Finance]] — 15.450, Fall 2010

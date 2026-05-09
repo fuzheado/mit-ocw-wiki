@@ -12,6 +12,14 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-421-housing-and-human-services-spring-2005|Housing and Human Services]] — 11.421, Spring 2005
+- [[sts-003-the-rise-of-modern-science-fall-2010|The Rise of Modern Science]] — STS.003, Fall 2010
+- [[15-023j-global-climate-change-economics-science-and-policy-spring-2008|Global Climate Change: Economics, Science, and Policy]] — 15.023J, Spring 2008
+- [[sts-069-technology-in-a-dangerous-world-fall-2002|Technology in a  Dangerous World]] — STS.069, Fall 2002
+- [[11-368-environmental-justice-law-and-policy-fall-2019|Environmental Justice Law and Policy]] — 11.368, Fall 2019
+- [[ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010|Engineering, Economics and Regulation of the Electric Power Sector]] — IDS.505J, Spring 2010
+- [[11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015|Urban Development in Conflict Cities: Planning Challenges and Policy Innovations]] — 11.488, Fall 2015
+- [[11-701-introduction-to-international-development-planning-fall-2011|Introduction to International Development Planning]] — 11.701, Fall 2011
 - [[res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017|Intentional Public Disruptions: Art, Responsibility, and Pedagogy]] — RES.11-002, Fall 2017
 - [[15-628j-patents-copyrights-and-the-law-of-intellectual-property-spring-2013|Patents, Copyrights, and the Law of Intellectual Property]] — 15.628J, Spring 2013
 - [[22-251-systems-analysis-of-the-nuclear-fuel-cycle-fall-2009|Systems Analysis of the Nuclear Fuel Cycle]] — 22.251, Fall 2009

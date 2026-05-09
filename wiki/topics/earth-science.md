@@ -12,6 +12,10 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-479-trace-element-geochemistry-spring-2013|Trace-Element Geochemistry]] — 12.479, Spring 2013
+- [[15-023j-global-climate-change-economics-science-and-policy-spring-2008|Global Climate Change: Economics, Science, and Policy]] — 15.023J, Spring 2008
+- [[12-333-atmospheric-and-ocean-circulations-spring-2004|Atmospheric and Ocean Circulations]] — 12.333, Spring 2004
+- [[12-842-climate-physics-and-chemistry-fall-2008|Climate Physics and Chemistry]] — 12.842, Fall 2008
 - [[hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008|Designing and Sustaining Technology Innovation for Global Health Practice]] — HST.939, Spring 2008
 - [[12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005|Seminar in Geophysics: Thermal and Chemical Evolution of the Earth]] — 12.570, Spring 2005
 - [[12-812-general-circulation-of-the-earths-atmosphere-fall-2005|General Circulation of the Earth's Atmosphere]] — 12.812, Fall 2005

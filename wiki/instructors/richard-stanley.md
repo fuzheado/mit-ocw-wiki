@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[18-315-combinatorial-theory-hyperplane-arrangements-fall-2004|Combinatorial Theory: Hyperplane Arrangements]]
 - [[18-318-topics-in-algebraic-combinatorics-spring-2006|Topics in Algebraic Combinatorics]]
 - [[18-314-combinatorial-analysis-fall-2014|Combinatorial Analysis]]
 - [[18-s66-the-art-of-counting-spring-2003|The Art of Counting]]

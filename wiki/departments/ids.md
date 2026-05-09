@@ -12,6 +12,8 @@ School: [[school-schwarzman-computing|MIT Schwarzman College of Computing]]
 
 ## Courses
 
+- [[ids-910-leadership-development-fall-2014|Leadership Development]] (IDS.910)
+- [[ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010|Engineering, Economics and Regulation of the Electric Power Sector]] (IDS.505J)
 - [[16-355j-software-engineering-concepts-fall-2005|Software Engineering Concepts]] (16.355J)
 - [[16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006|Aerospace Biomedical and Life Support Engineering]] (16.423J)
 - [[16-63j-system-safety-spring-2016|System Safety]] (16.63J)

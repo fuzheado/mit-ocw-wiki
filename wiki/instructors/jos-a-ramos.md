@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21g-702-spanish-ii-spring-2004|Spanish II]]
 - [[21g-703-spanish-iii-spring-2006|Spanish III]]

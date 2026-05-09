@@ -12,6 +12,10 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010|Special Topics at Edgerton Center:Developing World Prosthetics]] — EC.722, Spring 2010
+- [[20-380j-biological-engineering-design-spring-2010|Biological Engineering Design]] — 20.380J, Spring 2010
+- [[2-996-biomedical-devices-design-laboratory-fall-2007|Biomedical Devices Design Laboratory]] — 2.996, Fall 2007
+- [[hst-582j-biomedical-signal-and-image-processing-spring-2007|Biomedical Signal and Image Processing]] — HST.582J, Spring 2007
 - [[hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008|Designing and Sustaining Technology Innovation for Global Health Practice]] — HST.939, Spring 2008
 - [[hst-952-computing-for-biomedical-scientists-fall-2002|Computing for Biomedical Scientists]] — HST.952, Fall 2002
 - [[hst-723j-neural-coding-and-perception-of-sound-spring-2005|Neural Coding and Perception of Sound]] — HST.723J, Spring 2005

@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21h-225j-gender-and-the-law-in-u-s-history-spring-2004|Gender and the Law in U.S. History]] — 21H.225J, Spring 2004
+- [[wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007|Studies in Women's Life Narratives: Interrogating Marriage: Case Studies in American Law and Culture]] — WGS.640, Fall 2007
 - [[15-628j-patents-copyrights-and-the-law-of-intellectual-property-spring-2013|Patents, Copyrights, and the Law of Intellectual Property]] — 15.628J, Spring 2013
 - [[17-271-mass-incarceration-in-the-united-states-fall-2020|Mass Incarceration in the United States]] — 17.271, Fall 2020
 - [[6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005|Ethics and the Law on the Electronic Frontier]] — 6.805, Fall 2005

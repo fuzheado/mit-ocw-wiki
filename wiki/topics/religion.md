@@ -12,6 +12,9 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21m-289-islam-media-spring-2015|Islam/Media]] — 21M.289, Spring 2015
+- [[21a-211-magic-witchcraft-and-the-spirit-world-fall-2003|Magic, Witchcraft, and the Spirit World]] — 21A.211, Fall 2003
+- [[11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015|Urban Development in Conflict Cities: Planning Challenges and Policy Innovations]] — 11.488, Fall 2015
 - [[21h-914-jewish-history-from-biblical-to-modern-times-fall-2007|Jewish History from Biblical to Modern Times]] — 21H.914, Fall 2007
 - [[21h-411-history-of-western-thought-500-1300-fall-2004|History of Western Thought, 500-1300]] — 21H.411, Fall 2004
 - [[21l-458-the-bible-spring-2007|The Bible]] — 21L.458, Spring 2007

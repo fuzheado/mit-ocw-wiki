@@ -12,6 +12,11 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-510-digital-design-fabrication-fall-2008|Digital Design Fabrication]] — 4.510, Fall 2008
+- [[4-619-historiography-of-islamic-architecture-fall-2014|Historiography of Islamic Architecture]] — 4.619, Fall 2014
+- [[11-949-city-visions-past-and-future-spring-2004|City Visions: Past and Future]] — 11.949, Spring 2004
+- [[4-406-ecologies-of-construction-spring-2007|Ecologies of Construction]] — 4.406, Spring 2007
+- [[21h-405j-the-ancient-city-spring-2005|The Ancient City]] — 21H.405J, Spring 2005
 - [[4-302-bsad-foundations-in-the-visual-arts-fall-2003|BSAD Foundations in the Visual Arts]] — 4.302, Fall 2003
 - [[4-195-special-problems-in-architectural-design-spring-2005|Special Problems in Architectural Design]] — 4.195, Spring 2005
 - [[4-645-selected-topics-in-architecture-architecture-from-1750-to-the-present-fall-2004|Selected Topics in Architecture: Architecture from 1750 to the Present]] — 4.645, Fall 2004

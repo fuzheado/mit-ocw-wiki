@@ -12,6 +12,11 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-52-a-investigating-the-neural-substrates-of-remote-memory-using-fmri-spring-2003|Investigating the Neural Substrates of Remote Memory using fMRI]] — 9.52-A, Spring 2003
+- [[9-250-evolutionary-psychology-spring-1999|Evolutionary Psychology]] — 9.250, Spring 1999
+- [[9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008|Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders]] — 9.914, Fall 2008
+- [[9-93-cognitive-neuroscience-of-remembering-creating-and-controlling-memory-january-iap-2002|Cognitive Neuroscience of Remembering: Creating and Controlling Memory]] — 9.93, January IAP 2002
+- [[9-520-a-networks-for-learning-regression-and-classification-spring-2001|Networks for Learning: Regression and Classification]] — 9.520-A, Spring 2001
 - [[9-85-infant-and-early-childhood-cognition-fall-2012|Infant and Early Childhood Cognition]] — 9.85, Fall 2012
 - [[9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013|Affect: Neurobiological, Psychological and Sociocultural Counterparts of "Feelings"]] — 9.68, Spring 2013
 - [[9-011-the-brain-and-cognitive-sciences-i-fall-2002|The Brain and Cognitive Sciences I]] — 9.011, Fall 2002

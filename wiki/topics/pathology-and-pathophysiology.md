@@ -12,6 +12,8 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[20-380j-biological-engineering-design-spring-2010|Biological Engineering Design]] — 20.380J, Spring 2010
+- [[9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008|Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders]] — 9.914, Fall 2008
 - [[hst-121-gastroenterology-fall-2005|Gastroenterology]] — HST.121, Fall 2005
 - [[6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005|Laboratory on the Physiology, Acoustics, and Perception of Speech]] — 6.542J, Fall 2005
 - [[9-14-brain-structure-and-its-origins-spring-2014|Brain Structure and Its Origins]] — 9.14, Spring 2014

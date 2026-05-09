@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006|City to City: Comparing, Researching and Writing about Cities]]
 - [[11-201-gateway-planning-action-fall-2005|Gateway: Planning Action]]
 - [[11-003j-methods-of-policy-analysis-spring-2016|Methods of Policy Analysis]]
 - [[4-001j-cityscope-new-orleans-spring-2007|CityScope: New Orleans]]

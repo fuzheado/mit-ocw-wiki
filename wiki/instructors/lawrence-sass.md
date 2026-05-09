@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[4-510-digital-design-fabrication-fall-2008|Digital Design Fabrication]]
 - [[4-500-introduction-to-design-computing-fall-2008|Introduction to Design Computing]]
 - [[4-511-digital-mock-up-workshop-spring-2006|Digital Mock-Up Workshop]]

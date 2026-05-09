@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-23-hydrofoils-and-propellers-spring-2007|Hydrofoils and Propellers]] — 2.23, Spring 2007
+- [[16-30-estimation-and-control-of-aerospace-systems-spring-2004|Estimation and Control of Aerospace Systems]] — 16.30, Spring 2004
 - [[16-459-bioengineering-journal-article-seminar-fall-2011|Bioengineering Journal Article Seminar]] — 16.459, Fall 2011
 - [[16-810-engineering-design-and-rapid-prototyping-january-iap-2007|Engineering Design and Rapid Prototyping]] — 16.810, January IAP 2007
 - [[16-06-principles-of-automatic-control-fall-2012|Principles of Automatic Control]] — 16.06, Fall 2012

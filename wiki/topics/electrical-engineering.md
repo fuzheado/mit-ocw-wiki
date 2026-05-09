@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-s079-nanomaker-spring-2013|Nanomaker]] — 6.S079, Spring 2013
+- [[6-003-signals-and-systems-fall-2011|Signals and Systems]] — 6.003, Fall 2011
+- [[2-996-biomedical-devices-design-laboratory-fall-2007|Biomedical Devices Design Laboratory]] — 2.996, Fall 2007
+- [[hst-582j-biomedical-signal-and-image-processing-spring-2007|Biomedical Signal and Image Processing]] — HST.582J, Spring 2007
 - [[6-161-modern-optics-project-laboratory-fall-2005|Modern Optics Project Laboratory]] — 6.161, Fall 2005
 - [[6-720j-integrated-microelectronic-devices-spring-2007|Integrated Microelectronic Devices]] — 6.720J, Spring 2007
 - [[12-540-principles-of-the-global-positioning-system-spring-2012|Principles of the Global Positioning System]] — 12.540, Spring 2012

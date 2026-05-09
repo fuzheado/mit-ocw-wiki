@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010|Special Topics at Edgerton Center:Developing World Prosthetics]] — EC.722, Spring 2010
+- [[11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015|Urban Development in Conflict Cities: Planning Challenges and Policy Innovations]] — 11.488, Fall 2015
+- [[11-701-introduction-to-international-development-planning-fall-2011|Introduction to International Development Planning]] — 11.701, Fall 2011
 - [[res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017|Intentional Public Disruptions: Art, Responsibility, and Pedagogy]] — RES.11-002, Fall 2017
 - [[15-772j-d-lab-supply-chains-fall-2014|D-Lab: Supply Chains]] — 15.772J, Fall 2014
 - [[21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016|Globalization: The Good, the Bad and the In-Between]] — 21L.020J, Fall 2016

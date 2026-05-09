@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-23-hydrofoils-and-propellers-spring-2007|Hydrofoils and Propellers]] — 2.23, Spring 2007
+- [[2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002|Ocean Wave Interaction with Ships and Offshore Energy Systems (13.022)]] — 2.24, Spring 2002
 - [[12-812-general-circulation-of-the-earths-atmosphere-fall-2005|General Circulation of the Earth's Atmosphere]] — 12.812, Fall 2005
 - [[1-63-advanced-fluid-dynamics-of-the-environment-fall-2002|Advanced Fluid Dynamics of the Environment]] — 1.63, Fall 2002
 - [[2-500-desalination-and-water-purification-spring-2009|Desalination and Water Purification]] — 2.500, Spring 2009

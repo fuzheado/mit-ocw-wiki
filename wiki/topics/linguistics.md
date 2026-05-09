@@ -12,6 +12,7 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-251-introduction-to-philosophy-of-language-fall-2011|Introduction to Philosophy of Language]] — 24.251, Fall 2011
 - [[24-964-topics-in-phonology-fall-2004|Topics in Phonology]] — 24.964, Fall 2004
 - [[24-917-conlangs-how-to-construct-a-language-fall-2018|ConLangs: How to Construct a Language]] — 24.917, Fall 2018
 - [[6-892-computational-models-of-discourse-spring-2004|Computational Models of Discourse]] — 6.892, Spring 2004

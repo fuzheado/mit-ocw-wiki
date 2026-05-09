@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[20-416j-topics-in-biophysics-and-physical-biology-fall-2014|Topics in Biophysics and Physical Biology]] — 20.416J, Fall 2014
+- [[20-380j-biological-engineering-design-spring-2010|Biological Engineering Design]] — 20.380J, Spring 2010
 - [[8-591j-systems-biology-fall-2014|Systems Biology]] — 8.591J, Fall 2014
 - [[hst-952-computing-for-biomedical-scientists-fall-2002|Computing for Biomedical Scientists]] — HST.952, Fall 2002
 - [[7-16-experimental-molecular-biology-biotechnology-ii-spring-2005|Experimental Molecular Biology: Biotechnology II]] — 7.16, Spring 2005

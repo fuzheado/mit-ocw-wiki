@@ -12,6 +12,9 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-087-practical-programming-in-c-january-iap-2010|Practical Programming in C]] — 6.087, January IAP 2010
+- [[6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011|A Gentle Introduction to Programming Using Python]] — 6.189, January IAP 2011
+- [[6-005-elements-of-software-construction-fall-2008|Elements of Software Construction]] — 6.005, Fall 2008
 - [[6-033-computer-system-engineering-spring-2018|Computer System Engineering]] — 6.033, Spring 2018
 - [[1-124j-foundations-of-software-engineering-fall-2000|Foundations of Software Engineering]] — 1.124J, Fall 2000
 - [[16-355j-software-engineering-concepts-fall-2005|Software Engineering Concepts]] — 16.355J, Fall 2005

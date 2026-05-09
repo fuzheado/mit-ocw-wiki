@@ -12,6 +12,13 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005|Introduction to Numerical Analysis for Engineering (13.002J)]] — 2.993J, Spring 2005
+- [[6-046j-introduction-to-algorithms-sma-5503-fall-2005|Introduction to Algorithms (SMA 5503)]] — 6.046J, Fall 2005
+- [[6-087-practical-programming-in-c-january-iap-2010|Practical Programming in C]] — 6.087, January IAP 2010
+- [[6-042j-mathematics-for-computer-science-fall-2005|Mathematics for Computer Science]] — 6.042J, Fall 2005
+- [[6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011|A Gentle Introduction to Programming Using Python]] — 6.189, January IAP 2011
+- [[6-005-elements-of-software-construction-fall-2008|Elements of Software Construction]] — 6.005, Fall 2008
+- [[18-413-error-correcting-codes-laboratory-spring-2004|Error-Correcting Codes Laboratory]] — 18.413, Spring 2004
 - [[6-033-computer-system-engineering-spring-2018|Computer System Engineering]] — 6.033, Spring 2018
 - [[16-459-bioengineering-journal-article-seminar-fall-2011|Bioengineering Journal Article Seminar]] — 16.459, Fall 2011
 - [[6-441-information-theory-spring-2016|Information Theory]] — 6.441, Spring 2016

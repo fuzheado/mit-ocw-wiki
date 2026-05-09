@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21a-505j-the-anthropology-of-sound-spring-2022|The Anthropology of Sound]]
 - [[sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013|History and Anthropology of Medicine and Biology]]
 - [[21a-360j-the-anthropology-of-sound-spring-2008|The Anthropology of Sound]]
 - [[wgs-225-science-and-race-sex-and-gender-spring-2023|Science of Race, Sex, and Gender]]

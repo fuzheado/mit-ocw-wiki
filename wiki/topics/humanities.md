@@ -20,6 +20,39 @@ courses_count: 0
 
 ## Courses
 
+- [[21h-306-the-emergence-of-europe-500-1300-fall-2003|The Emergence of Europe: 500-1300]] — 21H.306, Fall 2003
+- [[21m-289-islam-media-spring-2015|Islam/Media]] — 21M.289, Spring 2015
+- [[21a-211-magic-witchcraft-and-the-spirit-world-fall-2003|Magic, Witchcraft, and the Spirit World]] — 21A.211, Fall 2003
+- [[21l-325-small-wonders-media-modernity-and-the-moment-experiments-in-time-fall-2010|Small Wonders: Media, Modernity, and the Moment: Experiments in Time]] — 21L.325, Fall 2010
+- [[sts-003-the-rise-of-modern-science-fall-2010|The Rise of Modern Science]] — STS.003, Fall 2010
+- [[21w-747-rhetoric-spring-2015|Rhetoric]] — 21W.747, Spring 2015
+- [[sts-034-science-communication-a-practical-guide-fall-2011|Science Communication: A Practical Guide]] — STS.034, Fall 2011
+- [[4-619-historiography-of-islamic-architecture-fall-2014|Historiography of Islamic Architecture]] — 4.619, Fall 2014
+- [[21h-357-south-asian-migrations-spring-2018|South Asian Migrations]] — 21H.357, Spring 2018
+- [[24-251-introduction-to-philosophy-of-language-fall-2011|Introduction to Philosophy of Language]] — 24.251, Fall 2011
+- [[21h-443-european-imperialism-in-the-19th-and-20th-centuries-spring-2006|European Imperialism in the 19th and 20th Centuries]] — 21H.443, Spring 2006
+- [[cms-796-major-media-texts-fall-2006|Major Media Texts]] — CMS.796, Fall 2006
+- [[21l-487-modern-poetry-spring-2002|Modern Poetry]] — 21L.487, Spring 2002
+- [[11-949-city-visions-past-and-future-spring-2004|City Visions: Past and Future]] — 11.949, Spring 2004
+- [[11-368-environmental-justice-law-and-policy-fall-2019|Environmental Justice Law and Policy]] — 11.368, Fall 2019
+- [[21h-383-technology-and-the-global-economy-1000-2000-fall-2016|Technology and the Global Economy, 1000-2000]] — 21H.383, Fall 2016
+- [[21m-675-dance-theory-and-composition-fall-2003|Dance Theory and Composition]] — 21M.675, Fall 2003
+- [[21g-702-spanish-ii-spring-2004|Spanish II]] — 21G.702, Spring 2004
+- [[21l-420-literary-studies-the-legacy-of-england-spring-2006|Literary Studies: The Legacy of England]] — 21L.420, Spring 2006
+- [[21h-405j-the-ancient-city-spring-2005|The Ancient City]] — 21H.405J, Spring 2005
+- [[21h-225j-gender-and-the-law-in-u-s-history-spring-2004|Gender and the Law in U.S. History]] — 21H.225J, Spring 2004
+- [[21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006|Studies in Poetry: From the Sonneteers to the Metaphysicals]] — 21L.704, Spring 2006
+- [[sts-427-the-civil-war-and-the-emergence-of-modern-america-1861-1890-spring-2015|The Civil War and the Emergence of Modern America, 1861-1890]] — STS.427, Spring 2015
+- [[12-445-oral-communication-in-the-earth-atmospheric-and-planetary-sciences-fall-2010|Oral Communication in the Earth, Atmospheric, and Planetary Sciences]] — 12.445, Fall 2010
+- [[21h-931-seminar-in-historical-methods-spring-2003|Seminar in Historical Methods]] — 21H.931, Spring 2003
+- [[11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015|Urban Development in Conflict Cities: Planning Challenges and Policy Innovations]] — 11.488, Fall 2015
+- [[17-541-japanese-politics-and-society-fall-2008|Japanese Politics and Society]] — 17.541, Fall 2008
+- [[21g-104-chinese-iv-regular-spring-2018|Chinese IV (Regular)]] — 21G.104, Spring 2018
+- [[wgs-645-issues-of-representation-women-representation-and-music-in-selected-folk-traditions-of-the-british-isles-and-north-america-fall-2005|Issues of Representation: Women, Representation, and Music in Selected Folk Traditions of the British Isles and North America]] — WGS.645, Fall 2005
+- [[21w-775-writing-about-nature-and-environmental-issues-fall-2006|Writing about Nature and Environmental Issues]] — 21W.775, Fall 2006
+- [[21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001|Literary Interpretation: Virginia Woolf's Shakespeare]] — 21L.701, Spring 2001
+- [[cms-876-history-of-media-and-technology-spring-2005|History of Media and Technology]] — CMS.876, Spring 2005
+- [[res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011|Learning Chinese: A Foundation Course in Mandarin (汉语基础教材)]] — RES.21G-003, Spring 2011
 - [[21l-705-major-authors-john-milton-spring-2008|Major Authors: John Milton]] — 21L.705, Spring 2008
 - [[21g-404-german-iv-spring-2005|German IV]] — 21G.404, Spring 2005
 - [[11-233-crafting-research-questions-and-qualitative-methodology-fall-2005|Crafting Research Questions and Qualitative Methodology]] — 11.233, Fall 2005

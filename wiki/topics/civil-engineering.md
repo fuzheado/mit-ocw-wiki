@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-105-solid-mechanics-laboratory-fall-2003|Solid Mechanics Laboratory]] — 1.105, Fall 2003
+- [[1-012-introduction-to-civil-engineering-design-spring-2002|Introduction to Civil Engineering Design]] — 1.012, Spring 2002
+- [[2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002|Ocean Wave Interaction with Ships and Offshore Energy Systems (13.022)]] — 2.24, Spring 2002
 - [[4-461-building-technology-i-materials-and-construction-fall-2004|Building Technology I: Materials and Construction]] — 4.461, Fall 2004
 - [[12-540-principles-of-the-global-positioning-system-spring-2012|Principles of the Global Positioning System]] — 12.540, Spring 2012
 - [[1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005|An Introduction to Intelligent Transportation Systems]] — 1.212J, Spring 2005

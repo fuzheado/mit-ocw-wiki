@@ -12,6 +12,9 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[15-023j-global-climate-change-economics-science-and-policy-spring-2008|Global Climate Change: Economics, Science, and Policy]] — 15.023J, Spring 2008
+- [[12-333-atmospheric-and-ocean-circulations-spring-2004|Atmospheric and Ocean Circulations]] — 12.333, Spring 2004
+- [[12-842-climate-physics-and-chemistry-fall-2008|Climate Physics and Chemistry]] — 12.842, Fall 2008
 - [[hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008|Designing and Sustaining Technology Innovation for Global Health Practice]] — HST.939, Spring 2008
 - [[res-env-003-earthdnas-climate-101-fall-2019|EarthDNA's Climate 101]] — RES.ENV-003, Fall 2019
 - [[12-340x-global-warming-science-spring-2020|Global Warming Science]] — 12.340x, Spring 2020

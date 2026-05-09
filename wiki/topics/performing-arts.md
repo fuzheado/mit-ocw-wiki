@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21m-732-beginning-costume-design-and-construction-fall-2008|Beginning Costume Design and Construction]] — 21M.732, Fall 2008
+- [[21m-675-dance-theory-and-composition-fall-2003|Dance Theory and Composition]] — 21M.675, Fall 2003
 - [[21l-005-introduction-to-drama-fall-2004|Introduction to Drama]] — 21L.005, Fall 2004
 - [[21m-873-theater-arts-topics-fall-2004-january-iap-2005|Theater Arts Topics]] — 21M.873, Fall 2004
 - [[21m-621-theater-and-cultural-diversity-in-the-u-s-spring-2008|Theater and Cultural Diversity in the U.S.]] — 21M.621, Spring 2008

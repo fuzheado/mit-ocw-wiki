@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21l-325-small-wonders-media-modernity-and-the-moment-experiments-in-time-fall-2010|Small Wonders: Media, Modernity, and the Moment: Experiments in Time]]
 - [[21l-017-the-art-of-the-probable-literature-and-probability-spring-2008|The Art of the Probable: Literature and Probability]]
 - [[21l-471-major-english-novels-reading-romantic-fiction-spring-2002|Major English Novels: Reading Romantic Fiction]]
 - [[21l-476-romantic-poetry-spring-2005|Romantic Poetry]]

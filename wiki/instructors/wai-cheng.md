@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[2-672-project-laboratory-spring-2009|Project Laboratory]]
 - [[2-61-internal-combustion-engines-spring-2017|Internal Combustion Engines]]

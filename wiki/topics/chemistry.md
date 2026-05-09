@@ -12,6 +12,8 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-479-trace-element-geochemistry-spring-2013|Trace-Element Geochemistry]] — 12.479, Spring 2013
+- [[3-063-polymer-physics-spring-2007|Polymer Physics]] — 3.063, Spring 2007
 - [[10-467-polymer-science-laboratory-fall-2005|Polymer Science Laboratory]] — 10.467, Fall 2005
 - [[5-05-principles-of-inorganic-chemistry-iii-spring-2005|Principles of Inorganic Chemistry III]] — 5.05, Spring 2005
 - [[5-43-advanced-organic-chemistry-spring-2007|Advanced Organic Chemistry]] — 5.43, Spring 2007

@@ -12,6 +12,11 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21h-306-the-emergence-of-europe-500-1300-fall-2003|The Emergence of Europe: 500-1300]] — 21H.306, Fall 2003
+- [[24-251-introduction-to-philosophy-of-language-fall-2011|Introduction to Philosophy of Language]] — 24.251, Fall 2011
+- [[21h-443-european-imperialism-in-the-19th-and-20th-centuries-spring-2006|European Imperialism in the 19th and 20th Centuries]] — 21H.443, Spring 2006
+- [[11-368-environmental-justice-law-and-policy-fall-2019|Environmental Justice Law and Policy]] — 11.368, Fall 2019
+- [[21h-225j-gender-and-the-law-in-u-s-history-spring-2004|Gender and the Law in U.S. History]] — 21H.225J, Spring 2004
 - [[21l-450-literature-and-ethical-values-fall-2002|Literature and Ethical Values]] — 21L.450, Fall 2002
 - [[21l-701-literary-interpretation-literature-and-urban-experience-spring-2009|Literary Interpretation: Literature and Urban Experience]] — 21L.701, Spring 2009
 - [[es-113-ancient-greek-philosophy-and-mathematics-spring-2016|Ancient Greek Philosophy and Mathematics]] — ES.113, Spring 2016

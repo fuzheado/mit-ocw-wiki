@@ -25,6 +25,35 @@ courses_count: 0
 
 ## Courses
 
+- [[2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005|Introduction to Numerical Analysis for Engineering (13.002J)]] — 2.993J, Spring 2005
+- [[1-105-solid-mechanics-laboratory-fall-2003|Solid Mechanics Laboratory]] — 1.105, Fall 2003
+- [[2-60j-fundamentals-of-advanced-energy-conversion-spring-2020|Fundamentals of Advanced Energy Conversion]] — 2.60J, Spring 2020
+- [[4-510-digital-design-fabrication-fall-2008|Digital Design Fabrication]] — 4.510, Fall 2008
+- [[6-046j-introduction-to-algorithms-sma-5503-fall-2005|Introduction to Algorithms (SMA 5503)]] — 6.046J, Fall 2005
+- [[esd-60-lean-six-sigma-processes-summer-2004|Lean/Six Sigma Processes]] — ESD.60, Summer 2004
+- [[3-063-polymer-physics-spring-2007|Polymer Physics]] — 3.063, Spring 2007
+- [[10-569-synthesis-of-polymers-fall-2006|Synthesis of Polymers]] — 10.569, Fall 2006
+- [[6-s079-nanomaker-spring-2013|Nanomaker]] — 6.S079, Spring 2013
+- [[1-012-introduction-to-civil-engineering-design-spring-2002|Introduction to Civil Engineering Design]] — 1.012, Spring 2002
+- [[10-442-biochemical-engineering-spring-2005|Biochemical Engineering]] — 10.442, Spring 2005
+- [[6-087-practical-programming-in-c-january-iap-2010|Practical Programming in C]] — 6.087, January IAP 2010
+- [[6-042j-mathematics-for-computer-science-fall-2005|Mathematics for Computer Science]] — 6.042J, Fall 2005
+- [[6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011|A Gentle Introduction to Programming Using Python]] — 6.189, January IAP 2011
+- [[ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010|Special Topics at Edgerton Center:Developing World Prosthetics]] — EC.722, Spring 2010
+- [[20-416j-topics-in-biophysics-and-physical-biology-fall-2014|Topics in Biophysics and Physical Biology]] — 20.416J, Fall 2014
+- [[2-23-hydrofoils-and-propellers-spring-2007|Hydrofoils and Propellers]] — 2.23, Spring 2007
+- [[6-005-elements-of-software-construction-fall-2008|Elements of Software Construction]] — 6.005, Fall 2008
+- [[20-380j-biological-engineering-design-spring-2010|Biological Engineering Design]] — 20.380J, Spring 2010
+- [[ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010|Engineering, Economics and Regulation of the Electric Power Sector]] — IDS.505J, Spring 2010
+- [[6-003-signals-and-systems-fall-2011|Signals and Systems]] — 6.003, Fall 2011
+- [[6-435-system-identification-spring-2005|System Identification]] — 6.435, Spring 2005
+- [[18-413-error-correcting-codes-laboratory-spring-2004|Error-Correcting Codes Laboratory]] — 18.413, Spring 2004
+- [[2-996-biomedical-devices-design-laboratory-fall-2007|Biomedical Devices Design Laboratory]] — 2.996, Fall 2007
+- [[2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002|Ocean Wave Interaction with Ships and Offshore Energy Systems (13.022)]] — 2.24, Spring 2002
+- [[2-672-project-laboratory-spring-2009|Project Laboratory]] — 2.672, Spring 2009
+- [[hst-582j-biomedical-signal-and-image-processing-spring-2007|Biomedical Signal and Image Processing]] — HST.582J, Spring 2007
+- [[3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005|Atomistic Computer Modeling of Materials (SMA 5107)]] — 3.320, Spring 2005
+- [[16-30-estimation-and-control-of-aerospace-systems-spring-2004|Estimation and Control of Aerospace Systems]] — 16.30, Spring 2004
 - [[6-033-computer-system-engineering-spring-2018|Computer System Engineering]] — 6.033, Spring 2018
 - [[12-812-general-circulation-of-the-earths-atmosphere-fall-2005|General Circulation of the Earth's Atmosphere]] — 12.812, Fall 2005
 - [[15-057-systems-optimization-spring-2003|Systems Optimization]] — 15.057, Spring 2003

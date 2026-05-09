@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21m-289-islam-media-spring-2015|Islam/Media]] — 21M.289, Spring 2015
+- [[21l-325-small-wonders-media-modernity-and-the-moment-experiments-in-time-fall-2010|Small Wonders: Media, Modernity, and the Moment: Experiments in Time]] — 21L.325, Fall 2010
+- [[4-341-introduction-to-photography-fall-2002|Introduction to Photography]] — 4.341, Fall 2002
 - [[res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017|Intentional Public Disruptions: Art, Responsibility, and Pedagogy]] — RES.11-002, Fall 2017
 - [[4-a21-stories-without-words-photographing-the-first-year-fall-2006|Stories Without Words: Photographing the First Year]] — 4.A21, Fall 2006
 - [[4-302-bsad-foundations-in-the-visual-arts-fall-2003|BSAD Foundations in the Visual Arts]] — 4.302, Fall 2003

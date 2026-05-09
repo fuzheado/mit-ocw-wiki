@@ -8,6 +8,8 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[cms-796-major-media-texts-fall-2006|Major Media Texts]]
+- [[21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001|Literary Interpretation: Virginia Woolf's Shakespeare]]
 - [[21l-005-introduction-to-drama-fall-2004|Introduction to Drama]]
 - [[21l-009-shakespeare-spring-2004|Shakespeare]]
 - [[21l-486-modern-drama-spring-2006|Modern Drama]]

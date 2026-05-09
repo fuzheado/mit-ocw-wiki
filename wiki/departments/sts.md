@@ -12,6 +12,11 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[sts-003-the-rise-of-modern-science-fall-2010|The Rise of Modern Science]] (STS.003)
+- [[sts-034-science-communication-a-practical-guide-fall-2011|Science Communication: A Practical Guide]] (STS.034)
+- [[sts-069-technology-in-a-dangerous-world-fall-2002|Technology in a  Dangerous World]] (STS.069)
+- [[21a-505j-the-anthropology-of-sound-spring-2022|The Anthropology of Sound]] (21A.505J)
+- [[sts-427-the-civil-war-and-the-emergence-of-modern-america-1861-1890-spring-2015|The Civil War and the Emergence of Modern America, 1861-1890]] (STS.427)
 - [[mas-714j-technologies-for-creative-learning-fall-2009|Technologies for Creative Learning]] (MAS.714J)
 - [[sts-062j-drugs-politics-and-culture-spring-2006|Drugs, Politics, and Culture]] (STS.062J)
 - [[sts-002-toward-the-scientific-revolution-fall-2003|Toward the Scientific Revolution]] (STS.002)

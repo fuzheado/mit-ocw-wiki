@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-60j-fundamentals-of-advanced-energy-conversion-spring-2020|Fundamentals of Advanced Energy Conversion]] — 2.60J, Spring 2020
+- [[3-063-polymer-physics-spring-2007|Polymer Physics]] — 3.063, Spring 2007
+- [[10-569-synthesis-of-polymers-fall-2006|Synthesis of Polymers]] — 10.569, Fall 2006
+- [[10-442-biochemical-engineering-spring-2005|Biochemical Engineering]] — 10.442, Spring 2005
 - [[10-467-polymer-science-laboratory-fall-2005|Polymer Science Laboratory]] — 10.467, Fall 2005
 - [[10-34-numerical-methods-applied-to-chemical-engineering-fall-2015|Numerical Methods Applied to Chemical Engineering]] — 10.34, Fall 2015
 - [[10-520-molecular-aspects-of-chemical-engineering-fall-2004|Molecular Aspects of Chemical Engineering]] — 10.520, Fall 2004

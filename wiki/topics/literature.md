@@ -12,6 +12,16 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-325-small-wonders-media-modernity-and-the-moment-experiments-in-time-fall-2010|Small Wonders: Media, Modernity, and the Moment: Experiments in Time]] — 21L.325, Fall 2010
+- [[21w-747-rhetoric-spring-2015|Rhetoric]] — 21W.747, Spring 2015
+- [[sts-034-science-communication-a-practical-guide-fall-2011|Science Communication: A Practical Guide]] — STS.034, Fall 2011
+- [[cms-796-major-media-texts-fall-2006|Major Media Texts]] — CMS.796, Fall 2006
+- [[21l-487-modern-poetry-spring-2002|Modern Poetry]] — 21L.487, Spring 2002
+- [[21l-420-literary-studies-the-legacy-of-england-spring-2006|Literary Studies: The Legacy of England]] — 21L.420, Spring 2006
+- [[21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006|Studies in Poetry: From the Sonneteers to the Metaphysicals]] — 21L.704, Spring 2006
+- [[12-445-oral-communication-in-the-earth-atmospheric-and-planetary-sciences-fall-2010|Oral Communication in the Earth, Atmospheric, and Planetary Sciences]] — 12.445, Fall 2010
+- [[21w-775-writing-about-nature-and-environmental-issues-fall-2006|Writing about Nature and Environmental Issues]] — 21W.775, Fall 2006
+- [[21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001|Literary Interpretation: Virginia Woolf's Shakespeare]] — 21L.701, Spring 2001
 - [[21l-705-major-authors-john-milton-spring-2008|Major Authors: John Milton]] — 21L.705, Spring 2008
 - [[21g-404-german-iv-spring-2005|German IV]] — 21G.404, Spring 2005
 - [[11-233-crafting-research-questions-and-qualitative-methodology-fall-2005|Crafting Research Questions and Qualitative Methodology]] — 11.233, Fall 2005

@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-368-environmental-justice-law-and-policy-fall-2019|Environmental Justice Law and Policy]] — 11.368, Fall 2019
+- [[17-541-japanese-politics-and-society-fall-2008|Japanese Politics and Society]] — 17.541, Fall 2008
+- [[17-202-graduate-seminar-in-american-politics-ii-spring-2010|Graduate Seminar in American Politics II]] — 17.202, Spring 2010
 - [[21g-053-understanding-contemporary-french-politics-spring-2014|Understanding Contemporary French Politics]] — 21G.053, Spring 2014
 - [[21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016|Globalization: The Good, the Bad and the In-Between]] — 21L.020J, Fall 2016
 - [[sts-462-social-and-political-implications-of-technology-spring-2006|Social and Political Implications of Technology]] — STS.462, Spring 2006

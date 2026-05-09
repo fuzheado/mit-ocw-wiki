@@ -12,6 +12,10 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21m-289-islam-media-spring-2015|Islam/Media]] — 21M.289, Spring 2015
+- [[21l-325-small-wonders-media-modernity-and-the-moment-experiments-in-time-fall-2010|Small Wonders: Media, Modernity, and the Moment: Experiments in Time]] — 21L.325, Fall 2010
+- [[cms-796-major-media-texts-fall-2006|Major Media Texts]] — CMS.796, Fall 2006
+- [[cms-876-history-of-media-and-technology-spring-2005|History of Media and Technology]] — CMS.876, Spring 2005
 - [[21g-404-german-iv-spring-2005|German IV]] — 21G.404, Spring 2005
 - [[4-195-special-problems-in-architectural-design-spring-2005|Special Problems in Architectural Design]] — 4.195, Spring 2005
 - [[mas-961-networks-complexity-and-its-applications-spring-2011|Networks, Complexity and Its Applications]] — MAS.961, Spring 2011

@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21w-775-writing-about-nature-and-environmental-issues-fall-2006|Writing about Nature and Environmental Issues]]
 - [[21w-735-writing-and-reading-the-essay-fall-2004|Writing and Reading the Essay]]

@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[3-063-polymer-physics-spring-2007|Polymer Physics]] — 3.063, Spring 2007
+- [[10-569-synthesis-of-polymers-fall-2006|Synthesis of Polymers]] — 10.569, Fall 2006
+- [[6-s079-nanomaker-spring-2013|Nanomaker]] — 6.S079, Spring 2013
+- [[3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005|Atomistic Computer Modeling of Materials (SMA 5107)]] — 3.320, Spring 2005
 - [[10-467-polymer-science-laboratory-fall-2005|Polymer Science Laboratory]] — 10.467, Fall 2005
 - [[4-461-building-technology-i-materials-and-construction-fall-2004|Building Technology I: Materials and Construction]] — 4.461, Fall 2004
 - [[6-774-physics-of-microfabrication-front-end-processing-fall-2004|Physics of Microfabrication: Front End Processing]] — 6.774, Fall 2004

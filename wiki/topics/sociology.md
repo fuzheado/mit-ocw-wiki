@@ -12,6 +12,14 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21m-289-islam-media-spring-2015|Islam/Media]] — 21M.289, Spring 2015
+- [[11-421-housing-and-human-services-spring-2005|Housing and Human Services]] — 11.421, Spring 2005
+- [[sts-069-technology-in-a-dangerous-world-fall-2002|Technology in a  Dangerous World]] — STS.069, Fall 2002
+- [[11-949-city-visions-past-and-future-spring-2004|City Visions: Past and Future]] — 11.949, Spring 2004
+- [[21h-225j-gender-and-the-law-in-u-s-history-spring-2004|Gender and the Law in U.S. History]] — 21H.225J, Spring 2004
+- [[17-541-japanese-politics-and-society-fall-2008|Japanese Politics and Society]] — 17.541, Fall 2008
+- [[wgs-645-issues-of-representation-women-representation-and-music-in-selected-folk-traditions-of-the-british-isles-and-north-america-fall-2005|Issues of Representation: Women, Representation, and Music in Selected Folk Traditions of the British Isles and North America]] — WGS.645, Fall 2005
+- [[wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007|Studies in Women's Life Narratives: Interrogating Marriage: Case Studies in American Law and Culture]] — WGS.640, Fall 2007
 - [[res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017|Intentional Public Disruptions: Art, Responsibility, and Pedagogy]] — RES.11-002, Fall 2017
 - [[21g-404-german-iv-spring-2005|German IV]] — 21G.404, Spring 2005
 - [[sts-062j-drugs-politics-and-culture-spring-2006|Drugs, Politics, and Culture]] — STS.062J, Spring 2006

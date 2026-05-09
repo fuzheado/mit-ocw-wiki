@@ -12,6 +12,10 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[pe-710-tennis-spring-2007|Tennis]] — PE.710, Spring 2007
+- [[ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010|Special Topics at Edgerton Center:Developing World Prosthetics]] — EC.722, Spring 2010
+- [[pe-210-scuba-spring-2007|SCUBA]] — PE.210, Spring 2007
+- [[20-380j-biological-engineering-design-spring-2010|Biological Engineering Design]] — 20.380J, Spring 2010
 - [[hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008|Designing and Sustaining Technology Innovation for Global Health Practice]] — HST.939, Spring 2008
 - [[sts-062j-drugs-politics-and-culture-spring-2006|Drugs, Politics, and Culture]] — STS.062J, Spring 2006
 - [[hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012|Health Information Systems to Improve Quality of Care in Resource-Poor Settings]] — HST.S14, Spring 2012

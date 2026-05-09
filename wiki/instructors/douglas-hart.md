@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[2-672-project-laboratory-spring-2009|Project Laboratory]]
 - [[2-670-mechanical-engineering-tools-january-iap-2004|Mechanical Engineering Tools]]

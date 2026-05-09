@@ -12,6 +12,13 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[2-60j-fundamentals-of-advanced-energy-conversion-spring-2020|Fundamentals of Advanced Energy Conversion]] — 2.60J, Spring 2020
+- [[3-063-polymer-physics-spring-2007|Polymer Physics]] — 3.063, Spring 2007
+- [[6-630-electromagnetics-fall-2006|Electromagnetics]] — 6.630, Fall 2006
+- [[res-6-005-understanding-lasers-and-fiberoptics-spring-2008|Understanding Lasers and Fiberoptics]] — RES.6-005, Spring 2008
+- [[3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005|Atomistic Computer Modeling of Materials (SMA 5107)]] — 3.320, Spring 2005
+- [[8-286-the-early-universe-fall-2013|The Early Universe]] — 8.286, Fall 2013
+- [[res-8-005-vibrations-and-waves-problem-solving-fall-2012|Vibrations and Waves Problem Solving]] — RES.8-005, Fall 2012
 - [[12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005|Seminar in Geophysics: Thermal and Chemical Evolution of the Earth]] — 12.570, Spring 2005
 - [[6-161-modern-optics-project-laboratory-fall-2005|Modern Optics Project Laboratory]] — 6.161, Fall 2005
 - [[2-034j-nonlinear-dynamics-and-waves-spring-2007|Nonlinear Dynamics and Waves]] — 2.034J, Spring 2007

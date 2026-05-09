@@ -10,6 +10,9 @@ courses_count: 0
 
 ## Courses
 
+- [[esd-60-lean-six-sigma-processes-summer-2004|Lean/Six Sigma Processes]] (ESD.60)
+- [[15-023j-global-climate-change-economics-science-and-policy-spring-2008|Global Climate Change: Economics, Science, and Policy]] (15.023J)
+- [[ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010|Engineering, Economics and Regulation of the Electric Power Sector]] (IDS.505J)
 - [[1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005|An Introduction to Intelligent Transportation Systems]] (1.212J)
 - [[1-221j-transportation-systems-fall-2004|Transportation Systems]] (1.221J)
 - [[esd-00-introduction-to-engineering-systems-spring-2011|Introduction to Engineering Systems]] (ESD.00)

@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[12-842-climate-physics-and-chemistry-fall-2008|Climate Physics and Chemistry]]
 - [[12-340x-global-warming-science-spring-2020|Global Warming Science]]
 - [[12-811-tropical-meteorology-spring-2011|Tropical Meteorology]]
 - [[12-340-global-warming-science-spring-2012|Global Warming Science]]

@@ -12,6 +12,9 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21m-289-islam-media-spring-2015|Islam/Media]] — 21M.289, Spring 2015
+- [[21m-675-dance-theory-and-composition-fall-2003|Dance Theory and Composition]] — 21M.675, Fall 2003
+- [[wgs-645-issues-of-representation-women-representation-and-music-in-selected-folk-traditions-of-the-british-isles-and-north-america-fall-2005|Issues of Representation: Women, Representation, and Music in Selected Folk Traditions of the British Isles and North America]] — WGS.645, Fall 2005
 - [[21m-302-harmony-and-counterpoint-ii-spring-2005|Harmony and Counterpoint II]] — 21M.302, Spring 2005
 - [[21m-294-popular-musics-of-the-world-spring-2005|Popular Musics of the World]] — 21M.294, Spring 2005
 - [[cms-407-media-and-methods-sound-fall-2012|Media and Methods: Sound]] — CMS.407, Fall 2012

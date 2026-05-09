@@ -12,6 +12,16 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-105-solid-mechanics-laboratory-fall-2003|Solid Mechanics Laboratory]] — 1.105, Fall 2003
+- [[3-063-polymer-physics-spring-2007|Polymer Physics]] — 3.063, Spring 2007
+- [[10-569-synthesis-of-polymers-fall-2006|Synthesis of Polymers]] — 10.569, Fall 2006
+- [[6-s079-nanomaker-spring-2013|Nanomaker]] — 6.S079, Spring 2013
+- [[ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010|Special Topics at Edgerton Center:Developing World Prosthetics]] — EC.722, Spring 2010
+- [[2-23-hydrofoils-and-propellers-spring-2007|Hydrofoils and Propellers]] — 2.23, Spring 2007
+- [[2-996-biomedical-devices-design-laboratory-fall-2007|Biomedical Devices Design Laboratory]] — 2.996, Fall 2007
+- [[2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002|Ocean Wave Interaction with Ships and Offshore Energy Systems (13.022)]] — 2.24, Spring 2002
+- [[2-672-project-laboratory-spring-2009|Project Laboratory]] — 2.672, Spring 2009
+- [[3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005|Atomistic Computer Modeling of Materials (SMA 5107)]] — 3.320, Spring 2005
 - [[2-034j-nonlinear-dynamics-and-waves-spring-2007|Nonlinear Dynamics and Waves]] — 2.034J, Spring 2007
 - [[6-720j-integrated-microelectronic-devices-spring-2007|Integrated Microelectronic Devices]] — 6.720J, Spring 2007
 - [[16-810-engineering-design-and-rapid-prototyping-january-iap-2007|Engineering Design and Rapid Prototyping]] — 16.810, January IAP 2007

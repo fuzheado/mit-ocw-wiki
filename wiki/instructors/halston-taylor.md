@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[pe-210-scuba-spring-2007|SCUBA]]
 - [[pe-720-weight-training-spring-2006|Weight Training]]

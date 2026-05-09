@@ -25,6 +25,32 @@ courses_count: 0
 
 ## Courses
 
+- [[21h-306-the-emergence-of-europe-500-1300-fall-2003|The Emergence of Europe: 500-1300]] — 21H.306, Fall 2003
+- [[21m-289-islam-media-spring-2015|Islam/Media]] — 21M.289, Spring 2015
+- [[21a-211-magic-witchcraft-and-the-spirit-world-fall-2003|Magic, Witchcraft, and the Spirit World]] — 21A.211, Fall 2003
+- [[11-421-housing-and-human-services-spring-2005|Housing and Human Services]] — 11.421, Spring 2005
+- [[sts-003-the-rise-of-modern-science-fall-2010|The Rise of Modern Science]] — STS.003, Fall 2010
+- [[15-023j-global-climate-change-economics-science-and-policy-spring-2008|Global Climate Change: Economics, Science, and Policy]] — 15.023J, Spring 2008
+- [[sts-069-technology-in-a-dangerous-world-fall-2002|Technology in a  Dangerous World]] — STS.069, Fall 2002
+- [[21a-461-what-is-capitalism-fall-2013|What is Capitalism?]] — 21A.461, Fall 2013
+- [[11-949-city-visions-past-and-future-spring-2004|City Visions: Past and Future]] — 11.949, Spring 2004
+- [[11-368-environmental-justice-law-and-policy-fall-2019|Environmental Justice Law and Policy]] — 11.368, Fall 2019
+- [[ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010|Special Topics at Edgerton Center:Developing World Prosthetics]] — EC.722, Spring 2010
+- [[9-250-evolutionary-psychology-spring-1999|Evolutionary Psychology]] — 9.250, Spring 1999
+- [[21h-405j-the-ancient-city-spring-2005|The Ancient City]] — 21H.405J, Spring 2005
+- [[21h-225j-gender-and-the-law-in-u-s-history-spring-2004|Gender and the Law in U.S. History]] — 21H.225J, Spring 2004
+- [[21a-505j-the-anthropology-of-sound-spring-2022|The Anthropology of Sound]] — 21A.505J, Spring 2022
+- [[ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010|Engineering, Economics and Regulation of the Electric Power Sector]] — IDS.505J, Spring 2010
+- [[11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006|City to City: Comparing, Researching and Writing about Cities]] — 11.027, Spring 2006
+- [[12-445-oral-communication-in-the-earth-atmospheric-and-planetary-sciences-fall-2010|Oral Communication in the Earth, Atmospheric, and Planetary Sciences]] — 12.445, Fall 2010
+- [[11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015|Urban Development in Conflict Cities: Planning Challenges and Policy Innovations]] — 11.488, Fall 2015
+- [[17-541-japanese-politics-and-society-fall-2008|Japanese Politics and Society]] — 17.541, Fall 2008
+- [[11-701-introduction-to-international-development-planning-fall-2011|Introduction to International Development Planning]] — 11.701, Fall 2011
+- [[wgs-645-issues-of-representation-women-representation-and-music-in-selected-folk-traditions-of-the-british-isles-and-north-america-fall-2005|Issues of Representation: Women, Representation, and Music in Selected Folk Traditions of the British Isles and North America]] — WGS.645, Fall 2005
+- [[9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008|Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders]] — 9.914, Fall 2008
+- [[wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007|Studies in Women's Life Narratives: Interrogating Marriage: Case Studies in American Law and Culture]] — WGS.640, Fall 2007
+- [[14-147-topics-in-game-theory-fall-2009|Topics in Game Theory]] — 14.147, Fall 2009
+- [[17-202-graduate-seminar-in-american-politics-ii-spring-2010|Graduate Seminar in American Politics II]] — 17.202, Spring 2010
 - [[21a-s01-reparations-for-slavery-and-colonization-contemporary-movements-for-justice-fall-2021|Reparations for Slavery and Colonization: Contemporary Movements for Justice]] — 21A.S01, Fall 2021
 - [[res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017|Intentional Public Disruptions: Art, Responsibility, and Pedagogy]] — RES.11-002, Fall 2017
 - [[21g-404-german-iv-spring-2005|German IV]] — 21G.404, Spring 2005

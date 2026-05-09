@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-421-housing-and-human-services-spring-2005|Housing and Human Services]]
 - [[11-423-information-and-communication-technologies-in-community-development-spring-2004|Information and Communication Technologies in Community Development]]
 - [[11-201-gateway-planning-action-fall-2002|Gateway: Planning Action]]
 - [[11-914-planning-communication-spring-2007|Planning Communication]]

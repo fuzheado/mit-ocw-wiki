@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21a-461-what-is-capitalism-fall-2013|What is Capitalism?]]
 - [[21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012|DV Lab: Documenting Science Through Video and New Media]]
 - [[21a-336-marketing-microchips-and-mcdonalds-debating-globalization-spring-2004|Marketing, Microchips and McDonalds: Debating Globalization]]
 - [[21a-429j-environmental-conflict-fall-2016|Environmental Conflict]]

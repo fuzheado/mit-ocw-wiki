@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[11-949-city-visions-past-and-future-spring-2004|City Visions: Past and Future]] — 11.949, Spring 2004
+- [[4-406-ecologies-of-construction-spring-2007|Ecologies of Construction]] — 4.406, Spring 2007
 - [[11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004|Urban Design Skills: Observing, Interpreting, and Representing the City]] — 11.328J, Fall 2004
 - [[11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001|Special Studies in Urban Studies and Planning - The Cardener River Corridor Workshop]] — 11.943, Fall 2001
 - [[11-307-beijing-urban-design-studio-summer-2006|Beijing Urban Design Studio]] — 11.307, Summer 2006

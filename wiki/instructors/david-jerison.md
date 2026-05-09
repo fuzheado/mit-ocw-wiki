@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[18-02-multivariable-calculus-spring-2006|Multivariable Calculus]]
 - [[18-01-calculus-i-single-variable-calculus-fall-2020|Calculus I: Single Variable Calculus]]
 - [[18-103-fourier-analysis-fall-2013|Fourier Analysis]]
 - [[18-01sc-single-variable-calculus-fall-2010|Single Variable Calculus]]

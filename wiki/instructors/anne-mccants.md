@@ -8,6 +8,8 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21h-306-the-emergence-of-europe-500-1300-fall-2003|The Emergence of Europe: 500-1300]]
+- [[21h-383-technology-and-the-global-economy-1000-2000-fall-2016|Technology and the Global Economy, 1000-2000]]
 - [[21h-411-history-of-western-thought-500-1300-fall-2004|History of Western Thought, 500-1300]]
 - [[21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012|Medieval Economic History in Comparative Perspective]]
 - [[21h-991-theories-and-methods-in-the-study-of-history-fall-2014|Theories and Methods in the Study of History]]

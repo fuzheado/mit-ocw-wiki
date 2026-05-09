@@ -12,6 +12,7 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[hst-582j-biomedical-signal-and-image-processing-spring-2007|Biomedical Signal and Image Processing]] (HST.582J)
 - [[hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008|Designing and Sustaining Technology Innovation for Global Health Practice]] (HST.939)
 - [[hst-121-gastroenterology-fall-2005|Gastroenterology]] (HST.121)
 - [[hst-952-computing-for-biomedical-scientists-fall-2002|Computing for Biomedical Scientists]] (HST.952)

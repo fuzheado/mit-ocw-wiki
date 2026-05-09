@@ -10,6 +10,9 @@ courses_count: 0
 
 ## Courses
 
+- [[pe-710-tennis-spring-2007|Tennis]] (PE.710)
+- [[pe-210-scuba-spring-2007|SCUBA]] (PE.210)
+- [[pe-550-designing-your-life-january-iap-2007|Designing Your Life]] (PE.550)
 - [[pe-740-fencing-spring-2007|Fencing]] (PE.740)
 - [[pe-550-designing-your-life-spring-2009|Designing Your Life]] (PE.550)
 - [[pe-920-pe-for-me-spring-2005|PE for ME]] (PE.920)

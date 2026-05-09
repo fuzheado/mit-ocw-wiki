@@ -12,6 +12,11 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-52-a-investigating-the-neural-substrates-of-remote-memory-using-fmri-spring-2003|Investigating the Neural Substrates of Remote Memory using fMRI]] — 9.52-A, Spring 2003
+- [[10-442-biochemical-engineering-spring-2005|Biochemical Engineering]] — 10.442, Spring 2005
+- [[20-416j-topics-in-biophysics-and-physical-biology-fall-2014|Topics in Biophysics and Physical Biology]] — 20.416J, Fall 2014
+- [[9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008|Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders]] — 9.914, Fall 2008
+- [[9-93-cognitive-neuroscience-of-remembering-creating-and-controlling-memory-january-iap-2002|Cognitive Neuroscience of Remembering: Creating and Controlling Memory]] — 9.93, January IAP 2002
 - [[1-018j-ecology-i-the-earth-system-fall-2009|Ecology I: The Earth System]] — 1.018J, Fall 2009
 - [[8-591j-systems-biology-fall-2014|Systems Biology]] — 8.591J, Fall 2014
 - [[9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013|Affect: Neurobiological, Psychological and Sociocultural Counterparts of "Feelings"]] — 9.68, Spring 2013

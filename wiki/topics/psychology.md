@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[9-250-evolutionary-psychology-spring-1999|Evolutionary Psychology]] — 9.250, Spring 1999
+- [[9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008|Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders]] — 9.914, Fall 2008
 - [[9-85-infant-and-early-childhood-cognition-fall-2012|Infant and Early Childhood Cognition]] — 9.85, Fall 2012
 - [[9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013|Affect: Neurobiological, Psychological and Sociocultural Counterparts of "Feelings"]] — 9.68, Spring 2013
 - [[9-00-introduction-to-psychology-fall-2004|Introduction to Psychology]] — 9.00, Fall 2004

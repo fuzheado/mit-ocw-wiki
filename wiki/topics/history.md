@@ -12,6 +12,20 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21h-306-the-emergence-of-europe-500-1300-fall-2003|The Emergence of Europe: 500-1300]] — 21H.306, Fall 2003
+- [[21a-211-magic-witchcraft-and-the-spirit-world-fall-2003|Magic, Witchcraft, and the Spirit World]] — 21A.211, Fall 2003
+- [[sts-003-the-rise-of-modern-science-fall-2010|The Rise of Modern Science]] — STS.003, Fall 2010
+- [[4-619-historiography-of-islamic-architecture-fall-2014|Historiography of Islamic Architecture]] — 4.619, Fall 2014
+- [[21h-357-south-asian-migrations-spring-2018|South Asian Migrations]] — 21H.357, Spring 2018
+- [[21h-443-european-imperialism-in-the-19th-and-20th-centuries-spring-2006|European Imperialism in the 19th and 20th Centuries]] — 21H.443, Spring 2006
+- [[11-949-city-visions-past-and-future-spring-2004|City Visions: Past and Future]] — 11.949, Spring 2004
+- [[21h-383-technology-and-the-global-economy-1000-2000-fall-2016|Technology and the Global Economy, 1000-2000]] — 21H.383, Fall 2016
+- [[21h-405j-the-ancient-city-spring-2005|The Ancient City]] — 21H.405J, Spring 2005
+- [[21h-225j-gender-and-the-law-in-u-s-history-spring-2004|Gender and the Law in U.S. History]] — 21H.225J, Spring 2004
+- [[sts-427-the-civil-war-and-the-emergence-of-modern-america-1861-1890-spring-2015|The Civil War and the Emergence of Modern America, 1861-1890]] — STS.427, Spring 2015
+- [[21h-931-seminar-in-historical-methods-spring-2003|Seminar in Historical Methods]] — 21H.931, Spring 2003
+- [[17-541-japanese-politics-and-society-fall-2008|Japanese Politics and Society]] — 17.541, Fall 2008
+- [[cms-876-history-of-media-and-technology-spring-2005|History of Media and Technology]] — CMS.876, Spring 2005
 - [[21h-161-the-middle-east-in-the-20th-century-fall-2015|The Middle East in the 20th Century]] — 21H.161, Fall 2015
 - [[21h-207-the-energy-crisis-past-and-present-fall-2010|The Energy Crisis: Past and Present]] — 21H.207, Fall 2010
 - [[21h-223-war-american-society-fall-2002|War & American Society]] — 21H.223, Fall 2002

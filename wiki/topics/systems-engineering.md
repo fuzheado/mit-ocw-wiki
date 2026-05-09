@@ -12,6 +12,12 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-60j-fundamentals-of-advanced-energy-conversion-spring-2020|Fundamentals of Advanced Energy Conversion]] — 2.60J, Spring 2020
+- [[4-510-digital-design-fabrication-fall-2008|Digital Design Fabrication]] — 4.510, Fall 2008
+- [[esd-60-lean-six-sigma-processes-summer-2004|Lean/Six Sigma Processes]] — ESD.60, Summer 2004
+- [[ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010|Engineering, Economics and Regulation of the Electric Power Sector]] — IDS.505J, Spring 2010
+- [[6-435-system-identification-spring-2005|System Identification]] — 6.435, Spring 2005
+- [[3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005|Atomistic Computer Modeling of Materials (SMA 5107)]] — 3.320, Spring 2005
 - [[15-057-systems-optimization-spring-2003|Systems Optimization]] — 15.057, Spring 2003
 - [[24-964-topics-in-phonology-fall-2004|Topics in Phonology]] — 24.964, Fall 2004
 - [[16-810-engineering-design-and-rapid-prototyping-january-iap-2007|Engineering Design and Rapid Prototyping]] — 16.810, January IAP 2007

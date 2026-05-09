@@ -12,6 +12,13 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21h-306-the-emergence-of-europe-500-1300-fall-2003|The Emergence of Europe: 500-1300]] — 21H.306, Fall 2003
+- [[21a-211-magic-witchcraft-and-the-spirit-world-fall-2003|Magic, Witchcraft, and the Spirit World]] — 21A.211, Fall 2003
+- [[21a-461-what-is-capitalism-fall-2013|What is Capitalism?]] — 21A.461, Fall 2013
+- [[21h-405j-the-ancient-city-spring-2005|The Ancient City]] — 21H.405J, Spring 2005
+- [[21a-505j-the-anthropology-of-sound-spring-2022|The Anthropology of Sound]] — 21A.505J, Spring 2022
+- [[17-541-japanese-politics-and-society-fall-2008|Japanese Politics and Society]] — 17.541, Fall 2008
+- [[wgs-645-issues-of-representation-women-representation-and-music-in-selected-folk-traditions-of-the-british-isles-and-north-america-fall-2005|Issues of Representation: Women, Representation, and Music in Selected Folk Traditions of the British Isles and North America]] — WGS.645, Fall 2005
 - [[21a-s01-reparations-for-slavery-and-colonization-contemporary-movements-for-justice-fall-2021|Reparations for Slavery and Colonization: Contemporary Movements for Justice]] — 21A.S01, Fall 2021
 - [[21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011|Cross-Cultural Perspectives on Contemporary French Society]] — 21G.315, Fall 2011
 - [[21a-00-introduction-to-anthropology-spring-2022|Introduction to Anthropology]] — 21A.00, Spring 2022

@@ -12,6 +12,9 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005|Introduction to Numerical Analysis for Engineering (13.002J)]] — 2.993J, Spring 2005
+- [[6-046j-introduction-to-algorithms-sma-5503-fall-2005|Introduction to Algorithms (SMA 5503)]] — 6.046J, Fall 2005
+- [[18-413-error-correcting-codes-laboratory-spring-2004|Error-Correcting Codes Laboratory]] — 18.413, Spring 2004
 - [[18-435j-quantum-computation-fall-2003|Quantum Computation]] — 18.435J, Fall 2003
 - [[18-409-algorithmic-aspects-of-machine-learning-spring-2015|Algorithmic Aspects of Machine Learning]] — 18.409, Spring 2015
 - [[15-082j-network-optimization-fall-2010|Network Optimization]] — 15.082J, Fall 2010
