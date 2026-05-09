@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[15-821-listening-to-the-customer-fall-2002|Listening to the Customer]] — 15.821, Fall 2002
+- [[11-914-planning-communication-spring-2007|Planning Communication]] — 11.914, Spring 2007
+- [[22-011-nuclear-engineering-science-systems-and-society-spring-2020|Nuclear Engineering: Science, Systems and Society]] — 22.011, Spring 2020
 - [[sts-080-youth-political-participation-spring-2016|Youth Political Participation]] — STS.080, Spring 2016
 - [[20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015|Becoming the Next Bill Nye: Writing and Hosting the Educational Show]] — 20.219, January IAP 2015
 - [[12-757-science-and-communication-spring-2005|Science and Communication]] — 12.757, Spring 2005

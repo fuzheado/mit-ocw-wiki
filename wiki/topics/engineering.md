@@ -25,6 +25,35 @@ courses_count: 0
 
 ## Courses
 
+- [[16-322-stochastic-estimation-and-control-fall-2004|Stochastic Estimation and Control]] — 16.322, Fall 2004
+- [[22-51-quantum-theory-of-radiation-interactions-fall-2012|Quantum Theory of Radiation Interactions]] — 22.51, Fall 2012
+- [[3-012-fundamentals-of-materials-science-fall-2005|Fundamentals of Materials Science]] — 3.012, Fall 2005
+- [[12-802-wave-motion-in-the-ocean-and-the-atmosphere-spring-2008|Wave Motion in the Ocean and the Atmosphere]] — 12.802, Spring 2008
+- [[4-493-emergent-materials-ii-spring-2005|Emergent Materials II]] — 4.493, Spring 2005
+- [[6-945-adventures-in-advanced-symbolic-programming-spring-2009|Adventures in Advanced Symbolic Programming]] — 6.945, Spring 2009
+- [[11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007|Water and Sanitation Infrastructure in Developing Countries]] — 11.479J, Spring 2007
+- [[6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010|Introduction to C Memory Management and C++ Object-Oriented Programming]] — 6.088, January IAP 2010
+- [[hst-542j-quantitative-physiology-organ-transport-systems-spring-2004|Quantitative Physiology: Organ Transport Systems]] — HST.542J, Spring 2004
+- [[2-12-introduction-to-robotics-fall-2005|Introduction to Robotics]] — 2.12, Fall 2005
+- [[11-208-introduction-to-computers-in-public-management-ii-january-iap-2002|Introduction to Computers in Public Management II]] — 11.208, January IAP 2002
+- [[hst-953-collaborative-data-science-for-healthcare-fall-2020|Collaborative Data Science for Healthcare]] — HST.953, Fall 2020
+- [[res-ec-003-d-lab-student-showcases-spring-2022|D-Lab Student Showcases]] — RES.EC-003, Spring 2022
+- [[16-s498-risk-aware-and-robust-nonlinear-planning-fall-2019|Risk Aware and Robust Nonlinear Planning]] — 16.S498, Fall 2019
+- [[1-040-project-management-spring-2004|Project Management]] — 1.040, Spring 2004
+- [[2-61-internal-combustion-engines-spring-2017|Internal Combustion Engines]] — 2.61, Spring 2017
+- [[22-812j-managing-nuclear-technology-spring-2004|Managing Nuclear Technology]] — 22.812J, Spring 2004
+- [[1-204-computer-algorithms-in-systems-engineering-spring-2010|Computer Algorithms in Systems Engineering]] — 1.204, Spring 2010
+- [[6-047-computational-biology-fall-2015|Computational Biology]] — 6.047, Fall 2015
+- [[1-571-structural-analysis-and-control-spring-2004|Structural Analysis and Control]] — 1.571, Spring 2004
+- [[12-103-strange-bedfellows-science-and-environmental-policy-fall-2005|Strange Bedfellows: Science and Environmental Policy]] — 12.103, Fall 2005
+- [[res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014|The Art of Insight in Science and Engineering: Mastering Complexity]] — RES.6-011, Fall 2014
+- [[4-463-building-technologies-iii-building-structural-systems-ii-fall-2002|Building Technologies III: Building Structural Systems II]] — 4.463, Fall 2002
+- [[16-120-compressible-flow-spring-2003|Compressible Flow]] — 16.120, Spring 2003
+- [[6-00sc-introduction-to-computer-science-and-programming-spring-2011|Introduction to Computer Science and Programming]] — 6.00SC, Spring 2011
+- [[2-29-numerical-marine-hydrodynamics-13-024-spring-2003|Numerical Marine Hydrodynamics (13.024)]] — 2.29, Spring 2003
+- [[9-98-language-and-mind-january-iap-2003|Language and Mind]] — 9.98, January IAP 2003
+- [[18-335j-introduction-to-numerical-methods-spring-2019|Introduction to Numerical Methods ]] — 18.335J, Spring 2019
+- [[1-206j-airline-schedule-planning-spring-2003|Airline Schedule Planning]] — 1.206J, Spring 2003
 - [[20-181-computation-for-biological-engineers-fall-2006|Computation for Biological Engineers]] — 20.181, Fall 2006
 - [[11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015|Computer Games and Simulations for Education and Exploration]] — 11.127J, Spring 2015
 - [[2-00b-toy-product-design-spring-2021|Toy Product Design]] — 2.00B, Spring 2021

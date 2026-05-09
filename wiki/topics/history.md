@@ -12,6 +12,13 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014|The City of Athens in the Age of Pericles]] — 21H.237, Fall 2014
+- [[21a-217-anthropology-of-war-and-peace-fall-2004|Anthropology of War and Peace]] — 21A.217, Fall 2004
+- [[21h-346-france-1660-1815-enlightenment-revolution-napoleon-spring-2011|France, 1660-1815: Enlightenment, Revolution, Napoleon]] — 21H.346, Spring 2011
+- [[es-256-the-coming-years-spring-2008|The Coming Years]] — ES.256, Spring 2008
+- [[sts-350-social-study-of-science-and-technology-spring-2004|Social Study of Science and Technology]] — STS.350, Spring 2004
+- [[21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004|Studies in Poetry - British Poetry and the Sciences of the Mind]] — 21L.704, Fall 2004
+- [[sts-050-the-history-of-mit-spring-2016|The History of MIT]] — STS.050, Spring 2016
 - [[21l-460-medieval-literature-medieval-women-writers-spring-2004|Medieval Literature: Medieval Women Writers]] — 21L.460, Spring 2004
 - [[21g-026-global-africa-creative-cultures-spring-2018|Global Africa: Creative Cultures]] — 21G.026, Spring 2018
 - [[sts-080-youth-political-participation-spring-2016|Youth Political Participation]] — STS.080, Spring 2016

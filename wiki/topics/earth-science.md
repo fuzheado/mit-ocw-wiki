@@ -12,6 +12,11 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-802-wave-motion-in-the-ocean-and-the-atmosphere-spring-2008|Wave Motion in the Ocean and the Atmosphere]] — 12.802, Spring 2008
+- [[12-307-weather-and-climate-laboratory-spring-2009|Weather and Climate Laboratory]] — 12.307, Spring 2009
+- [[12-110-sedimentary-geology-fall-2004|Sedimentary Geology]] — 12.110, Fall 2004
+- [[22-011-nuclear-engineering-science-systems-and-society-spring-2020|Nuclear Engineering: Science, Systems and Society]] — 22.011, Spring 2020
+- [[12-103-strange-bedfellows-science-and-environmental-policy-fall-2005|Strange Bedfellows: Science and Environmental Policy]] — 12.103, Fall 2005
 - [[res-7-003-brave-new-planet-fall-2020|Brave New Planet]] — RES.7-003, Fall 2020
 - [[21h-s01-food-in-american-history-fall-2014|Food in American History]] — 21H.S01, Fall 2014
 - [[17-559-comparative-security-and-sustainability-fall-2004|Comparative Security and Sustainability]] — 17.559, Fall 2004

@@ -12,6 +12,16 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-482-u-s-military-power-spring-2015|U.S. Military Power]] — 17.482, Spring 2015
+- [[11-914-planning-communication-spring-2007|Planning Communication]] — 11.914, Spring 2007
+- [[11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007|Water and Sanitation Infrastructure in Developing Countries]] — 11.479J, Spring 2007
+- [[11-957-frameworks-of-urban-governance-january-iap-2007|Frameworks of Urban Governance]] — 11.957, January IAP 2007
+- [[11-945-springfield-studio-fall-2005|Springfield Studio]] — 11.945, Fall 2005
+- [[11-208-introduction-to-computers-in-public-management-ii-january-iap-2002|Introduction to Computers in Public Management II]] — 11.208, January IAP 2002
+- [[11-401-introduction-to-housing-community-and-economic-development-fall-2003|Introduction to Housing, Community and Economic Development]] — 11.401, Fall 2003
+- [[11-360-community-growth-and-land-use-planning-fall-2006|Community Growth and Land Use Planning]] — 11.360, Fall 2006
+- [[11-165j-urban-energy-systems-and-policy-fall-2022|Urban Energy Systems and Policy]] — 11.165J, Fall 2022
+- [[1-206j-airline-schedule-planning-spring-2003|Airline Schedule Planning]] — 1.206J, Spring 2003
 - [[11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005|Revitalizing Urban Main Streets: Hyde/Jackson Square & Roslindale Square, Boston]] — 11.439, Spring 2005
 - [[11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009|Revitalizing Urban Main Streets: St. Claude Avenue, New Orleans]] — 11.439, Spring 2009
 - [[11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017|Global Cityscope - Disaster Planning and Post-Disaster Rebuilding and Recovery]] — 11.027, Spring 2017

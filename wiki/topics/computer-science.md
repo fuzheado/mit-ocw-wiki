@@ -12,6 +12,12 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-945-adventures-in-advanced-symbolic-programming-spring-2009|Adventures in Advanced Symbolic Programming]] — 6.945, Spring 2009
+- [[6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010|Introduction to C Memory Management and C++ Object-Oriented Programming]] — 6.088, January IAP 2010
+- [[hst-953-collaborative-data-science-for-healthcare-fall-2020|Collaborative Data Science for Healthcare]] — HST.953, Fall 2020
+- [[1-204-computer-algorithms-in-systems-engineering-spring-2010|Computer Algorithms in Systems Engineering]] — 1.204, Spring 2010
+- [[6-00sc-introduction-to-computer-science-and-programming-spring-2011|Introduction to Computer Science and Programming]] — 6.00SC, Spring 2011
+- [[18-335j-introduction-to-numerical-methods-spring-2019|Introduction to Numerical Methods ]] — 18.335J, Spring 2019
 - [[11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015|Computer Games and Simulations for Education and Exploration]] — 11.127J, Spring 2015
 - [[6-826-principles-of-computer-systems-spring-2002|Principles of Computer Systems]] — 6.826, Spring 2002
 - [[6-832-underactuated-robotics-spring-2022|Underactuated Robotics]] — 6.832, Spring 2022

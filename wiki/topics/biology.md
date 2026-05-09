@@ -12,6 +12,12 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-97-introduction-to-neuroanatomy-january-iap-2003|Introduction to Neuroanatomy]] — 9.97, January IAP 2003
+- [[hst-542j-quantitative-physiology-organ-transport-systems-spring-2004|Quantitative Physiology: Organ Transport Systems]] — HST.542J, Spring 2004
+- [[res-7-006-7-03x-genetics|7.03x Genetics]] — RES.7-006, Spring 2023
+- [[hst-720-physiology-of-the-ear-fall-2004|Physiology of the Ear]] — HST.720, Fall 2004
+- [[hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006|Magnetic Resonance Analytic, Biochemical, and Imaging Techniques]] — HST.584J, Spring 2006
+- [[9-98-language-and-mind-january-iap-2003|Language and Mind]] — 9.98, January IAP 2003
 - [[20-181-computation-for-biological-engineers-fall-2006|Computation for Biological Engineers]] — 20.181, Fall 2006
 - [[8-591j-systems-biology-fall-2004|Systems Biology]] — 8.591J, Fall 2004
 - [[res-7-003-brave-new-planet-fall-2020|Brave New Planet]] — RES.7-003, Fall 2020

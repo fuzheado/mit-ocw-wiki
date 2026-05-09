@@ -12,6 +12,9 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[5-72-non-equilibrium-statistical-mechanics-spring-2012|Non-Equilibrium Statistical Mechanics]] — 5.72, Spring 2012
+- [[5-067-crystal-structure-refinement-fall-2009|Crystal Structure Refinement]] — 5.067, Fall 2009
+- [[12-141-electron-microprobe-analysis-january-iap-2012|Electron Microprobe Analysis]] — 12.141, January IAP 2012
 - [[5-301-chemistry-laboratory-techniques-january-iap-2012|Chemistry Laboratory Techniques]] — 5.301, January IAP 2012
 - [[res-tll-004-stem-concept-videos-fall-2013|STEM Concept Videos]] — RES.TLL-004, Fall 2013
 - [[5-13-organic-chemistry-ii-fall-2003|Organic Chemistry II]] — 5.13, Fall 2003

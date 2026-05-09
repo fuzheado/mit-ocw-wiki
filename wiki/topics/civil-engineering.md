@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-040-project-management-spring-2004|Project Management]] — 1.040, Spring 2004
+- [[1-571-structural-analysis-and-control-spring-2004|Structural Analysis and Control]] — 1.571, Spring 2004
+- [[4-463-building-technologies-iii-building-structural-systems-ii-fall-2002|Building Technologies III: Building Structural Systems II]] — 4.463, Fall 2002
 - [[1-040-project-management-spring-2009|Project Management]] — 1.040, Spring 2009
 - [[11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017|Global Cityscope - Disaster Planning and Post-Disaster Rebuilding and Recovery]] — 11.027, Spring 2017
 - [[4-430-daylighting-spring-2012|Daylighting]] — 4.430, Spring 2012

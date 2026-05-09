@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-12-introduction-to-robotics-fall-2005|Introduction to Robotics]] — 2.12, Fall 2005
+- [[16-s498-risk-aware-and-robust-nonlinear-planning-fall-2019|Risk Aware and Robust Nonlinear Planning]] — 16.S498, Fall 2019
 - [[6-832-underactuated-robotics-spring-2022|Underactuated Robotics]] — 6.832, Spring 2022
 - [[6-551j-acoustics-of-speech-and-hearing-fall-2004|Acoustics of Speech and Hearing]] — 6.551J, Fall 2004
 - [[6-091-hands-on-introduction-to-electrical-engineering-lab-skills-january-iap-2008|Hands-On Introduction to Electrical Engineering Lab Skills]] — 6.091, January IAP 2008

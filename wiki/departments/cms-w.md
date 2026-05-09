@@ -12,6 +12,9 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21w-759-writing-science-fiction-spring-2016|Writing Science Fiction]] (21W.759)
+- [[21w-758-genre-fiction-workshop-spring-2013|Genre Fiction Workshop]] (21W.758)
+- [[21w-756-writing-and-reading-poems-fall-2006|Writing and Reading Poems]] (21W.756)
 - [[11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015|Computer Games and Simulations for Education and Exploration]] (11.127J)
 - [[24-912-black-matters-introduction-to-black-studies-spring-2017|Black Matters: Introduction to Black Studies]] (24.912)
 - [[cms-100-introduction-to-media-studies-fall-2014|Introduction to Media Studies]] (CMS.100)

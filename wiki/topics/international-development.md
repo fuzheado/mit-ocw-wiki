@@ -12,6 +12,7 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007|Water and Sanitation Infrastructure in Developing Countries]] — 11.479J, Spring 2007
 - [[21g-084j-introduction-to-latin-american-studies-fall-2005|Introduction to Latin American Studies]] — 21G.084J, Fall 2005
 - [[21a-338j-gender-power-and-international-development-fall-2003|Gender, Power, and International Development]] — 21A.338J, Fall 2003
 - [[ec-701j-d-lab-i-development-fall-2009|D-Lab I: Development]] — EC.701J, Fall 2009

@@ -8,4 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21l-004-major-poets-fall-2001|Major Poets]]
+- [[21l-701-literary-interpretation-interpreting-poetry-fall-2003|Literary Interpretation: Interpreting Poetry]]
 - [[21l-449-end-of-nature-spring-2002|End of Nature]]

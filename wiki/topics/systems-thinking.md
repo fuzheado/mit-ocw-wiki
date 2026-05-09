@@ -12,6 +12,8 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[16-s498-risk-aware-and-robust-nonlinear-planning-fall-2019|Risk Aware and Robust Nonlinear Planning]] — 16.S498, Fall 2019
+- [[1-206j-airline-schedule-planning-spring-2003|Airline Schedule Planning]] — 1.206J, Spring 2003
 - [[20-181-computation-for-biological-engineers-fall-2006|Computation for Biological Engineers]] — 20.181, Fall 2006
 - [[2-00b-toy-product-design-spring-2021|Toy Product Design]] — 2.00B, Spring 2021
 - [[14-06-intermediate-macroeconomic-theory-spring-2003|Intermediate Macroeconomic Theory]] — 14.06, Spring 2003

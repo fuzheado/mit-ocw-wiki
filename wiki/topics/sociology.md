@@ -12,6 +12,20 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[15-968-the-sociology-of-strategy-spring-2005|The Sociology of Strategy]] — 15.968, Spring 2005
+- [[11-914-planning-communication-spring-2007|Planning Communication]] — 11.914, Spring 2007
+- [[4-614-religious-architecture-and-islamic-cultures-fall-2002|Religious Architecture and Islamic Cultures]] — 4.614, Fall 2002
+- [[17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012|Conversations You Can't Have on Campus: Race, Ethnicity, Gender and Identity]] — 17.S914, Spring 2012
+- [[17-522-politics-and-religion-fall-2006|Politics and Religion]] — 17.522, Fall 2006
+- [[11-945-springfield-studio-fall-2005|Springfield Studio]] — 11.945, Fall 2005
+- [[21g-717-introduction-to-spanish-culture-fall-2004|Introduction to Spanish Culture]] — 21G.717, Fall 2004
+- [[21a-120-american-dream-using-storytelling-to-explore-social-class-in-the-united-states-spring-2018|American Dream: Using Storytelling to Explore Social Class in the United States]] — 21A.120, Spring 2018
+- [[21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013|Dilemmas in Bio-Medical Ethics: Playing God or Doing Good?]] — 21A.302J, Fall 2013
+- [[21a-218j-identity-and-difference-spring-2010|Identity and Difference]] — 21A.101J (formerly 21A.218J), Spring 2010
+- [[17-407-chinese-foreign-policy-fall-2005|Chinese Foreign Policy]] — 17.407, Fall 2005
+- [[sts-350-social-study-of-science-and-technology-spring-2004|Social Study of Science and Technology]] — STS.350, Spring 2004
+- [[11-401-introduction-to-housing-community-and-economic-development-fall-2003|Introduction to Housing, Community and Economic Development]] — 11.401, Fall 2003
+- [[11-360-community-growth-and-land-use-planning-fall-2006|Community Growth and Land Use Planning]] — 11.360, Fall 2006
 - [[es-242-gender-issues-in-academics-and-academia-spring-2004|Gender Issues in Academics and Academia]] — ES.242, Spring 2004
 - [[11-s945-equity-inclusion-local-policy-driven-strategies-for-economic-development-the-just-city-spring-2019|Equity & Inclusion: Local Policy-Driven Strategies for Economic Development & the Just City]] — 11.S945, Spring 2019
 - [[sts-080-youth-political-participation-spring-2016|Youth Political Participation]] — STS.080, Spring 2016

@@ -12,6 +12,10 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[15-968-the-sociology-of-strategy-spring-2005|The Sociology of Strategy]] — 15.968, Spring 2005
+- [[11-957-frameworks-of-urban-governance-january-iap-2007|Frameworks of Urban Governance]] — 11.957, January IAP 2007
+- [[11-945-springfield-studio-fall-2005|Springfield Studio]] — 11.945, Fall 2005
+- [[11-401-introduction-to-housing-community-and-economic-development-fall-2003|Introduction to Housing, Community and Economic Development]] — 11.401, Fall 2003
 - [[14-05-intermediate-macroeconomics-spring-2013|Intermediate Macroeconomics]] — 14.05, Spring 2013
 - [[17-953-u-s-budgets-for-national-security-fall-2010|U.S. Budgets for National Security]] — 17.953, Fall 2010
 - [[15-225-economy-and-business-in-modern-china-and-india-spring-2008|Economy and Business in Modern China and India]] — 15.225, Spring 2008

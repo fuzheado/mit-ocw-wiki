@@ -12,6 +12,11 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[12-802-wave-motion-in-the-ocean-and-the-atmosphere-spring-2008|Wave Motion in the Ocean and the Atmosphere]] — 12.802, Spring 2008
+- [[2-12-introduction-to-robotics-fall-2005|Introduction to Robotics]] — 2.12, Fall 2005
+- [[2-61-internal-combustion-engines-spring-2017|Internal Combustion Engines]] — 2.61, Spring 2017
+- [[16-120-compressible-flow-spring-2003|Compressible Flow]] — 16.120, Spring 2003
+- [[2-29-numerical-marine-hydrodynamics-13-024-spring-2003|Numerical Marine Hydrodynamics (13.024)]] — 2.29, Spring 2003
 - [[2-00b-toy-product-design-spring-2021|Toy Product Design]] — 2.00B, Spring 2021
 - [[18-357-interfacial-phenomena-fall-2010|Interfacial Phenomena]] — 18.357, Fall 2010
 - [[2-016-hydrodynamics-13-012-fall-2005|Hydrodynamics (13.012)]] — 2.016, Fall 2005

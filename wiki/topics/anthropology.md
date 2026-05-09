@@ -12,6 +12,15 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21a-217-anthropology-of-war-and-peace-fall-2004|Anthropology of War and Peace]] — 21A.217, Fall 2004
+- [[17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012|Conversations You Can't Have on Campus: Race, Ethnicity, Gender and Identity]] — 17.S914, Spring 2012
+- [[17-522-politics-and-religion-fall-2006|Politics and Religion]] — 17.522, Fall 2006
+- [[21g-717-introduction-to-spanish-culture-fall-2004|Introduction to Spanish Culture]] — 21G.717, Fall 2004
+- [[21h-346-france-1660-1815-enlightenment-revolution-napoleon-spring-2011|France, 1660-1815: Enlightenment, Revolution, Napoleon]] — 21H.346, Spring 2011
+- [[21a-120-american-dream-using-storytelling-to-explore-social-class-in-the-united-states-spring-2018|American Dream: Using Storytelling to Explore Social Class in the United States]] — 21A.120, Spring 2018
+- [[21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013|Dilemmas in Bio-Medical Ethics: Playing God or Doing Good?]] — 21A.302J, Fall 2013
+- [[21a-218j-identity-and-difference-spring-2010|Identity and Difference]] — 21A.101J (formerly 21A.218J), Spring 2010
+- [[21l-015-introduction-to-media-studies-fall-2003|Introduction to Media Studies]] — 21L.015, Fall 2003
 - [[sts-360-ethnography-spring-2003|Ethnography]] — STS.360, Spring 2003
 - [[21g-026-global-africa-creative-cultures-spring-2018|Global Africa: Creative Cultures]] — 21G.026, Spring 2018
 - [[4-196-architecture-design-level-ii-cuba-studio-spring-2004|Architecture Design, Level II: Cuba Studio]] — 4.196, Spring 2004

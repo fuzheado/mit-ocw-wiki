@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[12-802-wave-motion-in-the-ocean-and-the-atmosphere-spring-2008|Wave Motion in the Ocean and the Atmosphere]] — 12.802, Spring 2008
+- [[2-29-numerical-marine-hydrodynamics-13-024-spring-2003|Numerical Marine Hydrodynamics (13.024)]] — 2.29, Spring 2003
 - [[2-016-hydrodynamics-13-012-fall-2005|Hydrodynamics (13.012)]] — 2.016, Fall 2005
 - [[12-950-atmospheric-and-oceanic-modeling-spring-2004|Atmospheric and Oceanic Modeling]] — 12.950, Spring 2004
 - [[12-808-introduction-to-observational-physical-oceanography-fall-2004|Introduction to Observational Physical Oceanography]] — 12.808, Fall 2004

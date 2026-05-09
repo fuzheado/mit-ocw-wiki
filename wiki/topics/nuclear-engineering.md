@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[22-51-quantum-theory-of-radiation-interactions-fall-2012|Quantum Theory of Radiation Interactions]] — 22.51, Fall 2012
+- [[22-812j-managing-nuclear-technology-spring-2004|Managing Nuclear Technology]] — 22.812J, Spring 2004
 - [[22-02-introduction-to-applied-nuclear-physics-spring-2012|Introduction to Applied Nuclear Physics]] — 22.02, Spring 2012
 - [[22-tht-undergraduate-thesis-tutorial-fall-2015|Undergraduate Thesis Tutorial]] — 22.THT, Fall 2015
 - [[22-05-neutron-science-and-reactor-physics-fall-2009|Neutron Science and Reactor Physics]] — 22.05, Fall 2009

@@ -12,4 +12,6 @@ School: [[school-schwarzman-computing|MIT Schwarzman College of Computing]]
 
 ## Courses
 
-*None yet.*
+- [[15-763j-manufacturing-system-and-supply-chain-design-spring-2005|Manufacturing System and Supply Chain Design]] (15.763J)
+- [[15-762j-supply-chain-planning-spring-2011|Supply Chain Planning]] (15.762J)
+- [[15-762j-supply-chain-planning-spring-2011|Supply Chain Planning]] (15.762J)

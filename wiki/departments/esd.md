@@ -10,6 +10,9 @@ courses_count: 0
 
 ## Courses
 
+- [[1-040-project-management-spring-2004|Project Management]] (1.040)
+- [[22-812j-managing-nuclear-technology-spring-2004|Managing Nuclear Technology]] (22.812J)
+- [[1-206j-airline-schedule-planning-spring-2003|Airline Schedule Planning]] (1.206J)
 - [[esd-932-engineering-ethics-spring-2006|Engineering Ethics]] (ESD.932)
 - [[esd-932-technology-policy-organizations-spring-2005|Technology Policy Organizations]] (ESD.932)
 - [[1-040-project-management-spring-2009|Project Management]] (1.040)

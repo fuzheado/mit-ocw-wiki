@@ -12,6 +12,13 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21h-346-france-1660-1815-enlightenment-revolution-napoleon-spring-2011|France, 1660-1815: Enlightenment, Revolution, Napoleon]] — 21H.346, Spring 2011
+- [[9-93-marathon-moral-reasoning-laboratory-january-iap-2007|Marathon Moral Reasoning Laboratory]] — 9.93, January IAP 2007
+- [[21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013|Dilemmas in Bio-Medical Ethics: Playing God or Doing Good?]] — 21A.302J, Fall 2013
+- [[cc-111-modern-conceptions-of-freedom-spring-2013|Modern Conceptions of Freedom]] — CC.111, Spring 2013
+- [[sts-350-social-study-of-science-and-technology-spring-2004|Social Study of Science and Technology]] — STS.350, Spring 2004
+- [[21l-701-literary-interpretation-interpreting-poetry-fall-2003|Literary Interpretation: Interpreting Poetry]] — 21L.701, Fall 2003
+- [[24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005|Language and its Structure III: Semantics and Pragmatics]] — 24.903, Spring 2005
 - [[24-912-black-matters-introduction-to-black-studies-spring-2017|Black Matters: Introduction to Black Studies]] — 24.912, Spring 2017
 - [[esd-932-engineering-ethics-spring-2006|Engineering Ethics]] — ESD.932, Spring 2006
 - [[res-7-003-brave-new-planet-fall-2020|Brave New Planet]] — RES.7-003, Fall 2020

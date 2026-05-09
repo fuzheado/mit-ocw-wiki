@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012|Conversations You Can't Have on Campus: Race, Ethnicity, Gender and Identity]] — 17.S914, Spring 2012
+- [[21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013|Dilemmas in Bio-Medical Ethics: Playing God or Doing Good?]] — 21A.302J, Fall 2013
+- [[21a-218j-identity-and-difference-spring-2010|Identity and Difference]] — 21A.101J (formerly 21A.218J), Spring 2010
 - [[es-242-gender-issues-in-academics-and-academia-spring-2004|Gender Issues in Academics and Academia]] — ES.242, Spring 2004
 - [[21h-927j-the-economic-history-of-work-and-family-spring-2005|The Economic History of Work and Family]] — 21H.927J, Spring 2005
 - [[wgs-160j-science-activism-gender-race-and-power-fall-2019|Science Activism: Gender, Race, and Power]] — WGS.160J, Fall 2019

@@ -20,6 +20,33 @@ courses_count: 0
 
 ## Courses
 
+- [[21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014|The City of Athens in the Age of Pericles]] — 21H.237, Fall 2014
+- [[21a-217-anthropology-of-war-and-peace-fall-2004|Anthropology of War and Peace]] — 21A.217, Fall 2004
+- [[21l-004-major-poets-fall-2001|Major Poets]] — 21L.004, Fall 2001
+- [[21w-759-writing-science-fiction-spring-2016|Writing Science Fiction]] — 21W.759, Spring 2016
+- [[21g-716-introduction-to-contemporary-hispanic-literature-fall-2007|Introduction to Contemporary Hispanic Literature]] — 21G.716, Fall 2007
+- [[17-522-politics-and-religion-fall-2006|Politics and Religion]] — 17.522, Fall 2006
+- [[21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012|Studies in Western Music History: Quantitative and Computational Approaches to Music History]] — 21M.269, Spring 2012
+- [[21w-758-genre-fiction-workshop-spring-2013|Genre Fiction Workshop]] — 21W.758, Spring 2013
+- [[21h-346-france-1660-1815-enlightenment-revolution-napoleon-spring-2011|France, 1660-1815: Enlightenment, Revolution, Napoleon]] — 21H.346, Spring 2011
+- [[21w-756-writing-and-reading-poems-fall-2006|Writing and Reading Poems]] — 21W.756, Fall 2006
+- [[9-93-marathon-moral-reasoning-laboratory-january-iap-2007|Marathon Moral Reasoning Laboratory]] — 9.93, January IAP 2007
+- [[21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013|Dilemmas in Bio-Medical Ethics: Playing God or Doing Good?]] — 21A.302J, Fall 2013
+- [[21g-101-chinese-i-regular-fall-2014|Chinese I (Regular)]] — 21G.101, Fall 2014
+- [[es-256-the-coming-years-spring-2008|The Coming Years]] — ES.256, Spring 2008
+- [[21g-714-spanish-for-bilingual-students-spring-2003|Spanish for Bilingual Students]] — 21G.714, Spring 2003
+- [[21m-263-music-since-1960-spring-2006|Music Since 1960]] — 21M.263, Spring 2006
+- [[cc-111-modern-conceptions-of-freedom-spring-2013|Modern Conceptions of Freedom]] — CC.111, Spring 2013
+- [[21g-504-japanese-iv-spring-2020|Japanese IV]] — 21G.504, Spring 2020
+- [[24-946-linguistic-theory-and-the-japanese-language-fall-2004|Linguistic Theory and the Japanese Language]] — 24.946, Fall 2004
+- [[sts-350-social-study-of-science-and-technology-spring-2004|Social Study of Science and Technology]] — STS.350, Spring 2004
+- [[21m-271-symphony-and-concerto-spring-2007|Symphony and Concerto]] — 21M.271, Spring 2007
+- [[21l-015-introduction-to-media-studies-fall-2003|Introduction to Media Studies]] — 21L.015, Fall 2003
+- [[21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004|Studies in Poetry - British Poetry and the Sciences of the Mind]] — 21L.704, Fall 2004
+- [[21l-701-literary-interpretation-interpreting-poetry-fall-2003|Literary Interpretation: Interpreting Poetry]] — 21L.701, Fall 2003
+- [[sts-050-the-history-of-mit-spring-2016|The History of MIT]] — STS.050, Spring 2016
+- [[24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005|Language and its Structure III: Semantics and Pragmatics]] — 24.903, Spring 2005
+- [[9-98-language-and-mind-january-iap-2003|Language and Mind]] — 9.98, January IAP 2003
 - [[24-912-black-matters-introduction-to-black-studies-spring-2017|Black Matters: Introduction to Black Studies]] — 24.912, Spring 2017
 - [[21m-410-vocal-repertoire-and-performance-women-composers-spring-2007|Vocal Repertoire and Performance: Women Composers]] — 21M.410, Spring 2007
 - [[21l-460-medieval-literature-medieval-women-writers-spring-2004|Medieval Literature: Medieval Women Writers]] — 21L.460, Spring 2004

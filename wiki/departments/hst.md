@@ -12,6 +12,11 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[hst-542j-quantitative-physiology-organ-transport-systems-spring-2004|Quantitative Physiology: Organ Transport Systems]] (HST.542J)
+- [[hst-953-collaborative-data-science-for-healthcare-fall-2020|Collaborative Data Science for Healthcare]] (HST.953)
+- [[6-047-computational-biology-fall-2015|Computational Biology]] (6.047)
+- [[hst-720-physiology-of-the-ear-fall-2004|Physiology of the Ear]] (HST.720)
+- [[hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006|Magnetic Resonance Analytic, Biochemical, and Imaging Techniques]] (HST.584J)
 - [[6-551j-acoustics-of-speech-and-hearing-fall-2004|Acoustics of Speech and Hearing]] (6.551J)
 - [[6-s897-machine-learning-for-healthcare-spring-2019|Machine Learning for Healthcare]] (6.S897)
 - [[hst-035-principle-and-practice-of-human-pathology-spring-2003|Principle and Practice of Human Pathology]] (HST.035)

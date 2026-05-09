@@ -12,6 +12,8 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[12-307-weather-and-climate-laboratory-spring-2009|Weather and Climate Laboratory]] — 12.307, Spring 2009
+- [[22-011-nuclear-engineering-science-systems-and-society-spring-2020|Nuclear Engineering: Science, Systems and Society]] — 22.011, Spring 2020
 - [[res-7-003-brave-new-planet-fall-2020|Brave New Planet]] — RES.7-003, Fall 2020
 - [[21h-s01-food-in-american-history-fall-2014|Food in American History]] — 21H.S01, Fall 2014
 - [[17-559-comparative-security-and-sustainability-fall-2004|Comparative Security and Sustainability]] — 17.559, Fall 2004

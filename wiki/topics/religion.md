@@ -12,4 +12,5 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
-*None yet.*
+- [[17-522-politics-and-religion-fall-2006|Politics and Religion]] — 17.522, Fall 2006
+- [[17-522-politics-and-religion-fall-2006|Politics and Religion]] — 17.522, Fall 2006

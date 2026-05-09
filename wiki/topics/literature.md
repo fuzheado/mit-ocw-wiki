@@ -12,6 +12,16 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014|The City of Athens in the Age of Pericles]] — 21H.237, Fall 2014
+- [[21l-004-major-poets-fall-2001|Major Poets]] — 21L.004, Fall 2001
+- [[21w-759-writing-science-fiction-spring-2016|Writing Science Fiction]] — 21W.759, Spring 2016
+- [[21g-716-introduction-to-contemporary-hispanic-literature-fall-2007|Introduction to Contemporary Hispanic Literature]] — 21G.716, Fall 2007
+- [[21w-758-genre-fiction-workshop-spring-2013|Genre Fiction Workshop]] — 21W.758, Spring 2013
+- [[21w-756-writing-and-reading-poems-fall-2006|Writing and Reading Poems]] — 21W.756, Fall 2006
+- [[21g-714-spanish-for-bilingual-students-spring-2003|Spanish for Bilingual Students]] — 21G.714, Spring 2003
+- [[21l-015-introduction-to-media-studies-fall-2003|Introduction to Media Studies]] — 21L.015, Fall 2003
+- [[21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004|Studies in Poetry - British Poetry and the Sciences of the Mind]] — 21L.704, Fall 2004
+- [[21l-701-literary-interpretation-interpreting-poetry-fall-2003|Literary Interpretation: Interpreting Poetry]] — 21L.701, Fall 2003
 - [[24-912-black-matters-introduction-to-black-studies-spring-2017|Black Matters: Introduction to Black Studies]] — 24.912, Spring 2017
 - [[21l-460-medieval-literature-medieval-women-writers-spring-2004|Medieval Literature: Medieval Women Writers]] — 21L.460, Spring 2004
 - [[21g-026-global-africa-creative-cultures-spring-2018|Global Africa: Creative Cultures]] — 21G.026, Spring 2018

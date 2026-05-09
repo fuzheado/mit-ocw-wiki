@@ -12,6 +12,17 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[22-51-quantum-theory-of-radiation-interactions-fall-2012|Quantum Theory of Radiation Interactions]] — 22.51, Fall 2012
+- [[3-012-fundamentals-of-materials-science-fall-2005|Fundamentals of Materials Science]] — 3.012, Fall 2005
+- [[8-811-particle-physics-ii-fall-2005|Particle Physics II]] — 8.811, Fall 2005
+- [[5-72-non-equilibrium-statistical-mechanics-spring-2012|Non-Equilibrium Statistical Mechanics]] — 5.72, Spring 2012
+- [[8-821-string-theory-and-holographic-duality-fall-2014|String Theory and Holographic Duality]] — 8.821, Fall 2014
+- [[2-12-introduction-to-robotics-fall-2005|Introduction to Robotics]] — 2.12, Fall 2005
+- [[2-61-internal-combustion-engines-spring-2017|Internal Combustion Engines]] — 2.61, Spring 2017
+- [[5-067-crystal-structure-refinement-fall-2009|Crystal Structure Refinement]] — 5.067, Fall 2009
+- [[8-324-relativistic-quantum-field-theory-ii-fall-2010|Relativistic Quantum Field Theory II]] — 8.324, Fall 2010
+- [[8-962-general-relativity-spring-2020|General Relativity]] — 8.962, Spring 2020
+- [[16-120-compressible-flow-spring-2003|Compressible Flow]] — 16.120, Spring 2003
 - [[8-01sc-classical-mechanics-fall-2016|Classical Mechanics]] — 8.01SC, Fall 2016
 - [[8-513-many-body-theory-for-condensed-matter-systems-fall-2004|Many-Body Theory for Condensed Matter Systems]] — 8.513, Fall 2004
 - [[8-513-modern-quantum-many-body-physics-for-condensed-matter-systems-fall-2021|Modern Quantum Many-body Physics for Condensed Matter Systems]] — 8.513, Fall 2021

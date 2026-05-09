@@ -12,6 +12,14 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[11-208-introduction-to-computers-in-public-management-ii-january-iap-2002|Introduction to Computers in Public Management II]] — 11.208, January IAP 2002
+- [[16-s498-risk-aware-and-robust-nonlinear-planning-fall-2019|Risk Aware and Robust Nonlinear Planning]] — 16.S498, Fall 2019
+- [[1-204-computer-algorithms-in-systems-engineering-spring-2010|Computer Algorithms in Systems Engineering]] — 1.204, Spring 2010
+- [[1-571-structural-analysis-and-control-spring-2004|Structural Analysis and Control]] — 1.571, Spring 2004
+- [[2-29-numerical-marine-hydrodynamics-13-024-spring-2003|Numerical Marine Hydrodynamics (13.024)]] — 2.29, Spring 2003
+- [[9-98-language-and-mind-january-iap-2003|Language and Mind]] — 9.98, January IAP 2003
+- [[18-335j-introduction-to-numerical-methods-spring-2019|Introduction to Numerical Methods ]] — 18.335J, Spring 2019
+- [[1-206j-airline-schedule-planning-spring-2003|Airline Schedule Planning]] — 1.206J, Spring 2003
 - [[20-181-computation-for-biological-engineers-fall-2006|Computation for Biological Engineers]] — 20.181, Fall 2006
 - [[2-00b-toy-product-design-spring-2021|Toy Product Design]] — 2.00B, Spring 2021
 - [[14-06-intermediate-macroeconomic-theory-spring-2003|Intermediate Macroeconomic Theory]] — 14.06, Spring 2003

@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-482-u-s-military-power-spring-2015|U.S. Military Power]] — 17.482, Spring 2015
+- [[11-373-science-politics-and-environmental-policy-fall-2004|Science, Politics, and Environmental Policy]] — 11.373, Fall 2004
+- [[17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012|Conversations You Can't Have on Campus: Race, Ethnicity, Gender and Identity]] — 17.S914, Spring 2012
+- [[17-522-politics-and-religion-fall-2006|Politics and Religion]] — 17.522, Fall 2006
+- [[17-407-chinese-foreign-policy-fall-2005|Chinese Foreign Policy]] — 17.407, Fall 2005
+- [[17-s950-social-science-and-the-iraq-and-syrian-wars-fall-2016|Social Science and the Iraq and Syrian Wars]] — 17.S950, Fall 2016
 - [[sts-080-youth-political-participation-spring-2016|Youth Political Participation]] — STS.080, Spring 2016
 - [[17-955-civil-society-social-capital-and-the-state-in-comparative-perspective-fall-2004|Civil Society, Social Capital, and the State in Comparative Perspective]] — 17.955, Fall 2004
 - [[17-559-comparative-security-and-sustainability-fall-2004|Comparative Security and Sustainability]] — 17.559, Fall 2004

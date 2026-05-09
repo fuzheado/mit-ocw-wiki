@@ -10,6 +10,8 @@ courses_count: 0
 
 ## Courses
 
+- [[es-256-the-coming-years-spring-2008|The Coming Years]] (ES.256)
+- [[es-010-chemistry-of-sports-spring-2013|Chemistry of Sports]] (ES.010)
 - [[es-242-gender-issues-in-academics-and-academia-spring-2004|Gender Issues in Academics and Academia]] (ES.242)
 - [[es-272-culture-tech-spring-2003|Culture Tech]] (ES.272)
 - [[es-255-physics-of-rock-climbing-spring-2006|Physics of Rock Climbing]] (ES.255)

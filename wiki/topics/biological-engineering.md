@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-047-computational-biology-fall-2015|Computational Biology]] — 6.047, Fall 2015
 - [[20-181-computation-for-biological-engineers-fall-2006|Computation for Biological Engineers]] — 20.181, Fall 2006
 - [[20-462j-molecular-principles-of-biomaterials-spring-2006|Molecular Principles of Biomaterials]] — 20.462J, Spring 2006
 - [[9-29j-introduction-to-computational-neuroscience-spring-2004|Introduction to Computational Neuroscience]] — 9.29J, Spring 2004

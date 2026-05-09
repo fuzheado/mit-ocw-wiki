@@ -12,6 +12,8 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[sts-350-social-study-of-science-and-technology-spring-2004|Social Study of Science and Technology]] (STS.350)
+- [[sts-050-the-history-of-mit-spring-2016|The History of MIT]] (STS.050)
 - [[sts-360-ethnography-spring-2003|Ethnography]] (STS.360)
 - [[sts-080-youth-political-participation-spring-2016|Youth Political Participation]] (STS.080)
 - [[wgs-160j-science-activism-gender-race-and-power-fall-2019|Science Activism: Gender, Race, and Power]] (WGS.160J)

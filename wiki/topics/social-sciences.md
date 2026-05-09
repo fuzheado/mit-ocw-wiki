@@ -25,6 +25,39 @@ courses_count: 0
 
 ## Courses
 
+- [[15-968-the-sociology-of-strategy-spring-2005|The Sociology of Strategy]] — 15.968, Spring 2005
+- [[17-482-u-s-military-power-spring-2015|U.S. Military Power]] — 17.482, Spring 2015
+- [[21a-217-anthropology-of-war-and-peace-fall-2004|Anthropology of War and Peace]] — 21A.217, Fall 2004
+- [[15-821-listening-to-the-customer-fall-2002|Listening to the Customer]] — 15.821, Fall 2002
+- [[11-373-science-politics-and-environmental-policy-fall-2004|Science, Politics, and Environmental Policy]] — 11.373, Fall 2004
+- [[11-914-planning-communication-spring-2007|Planning Communication]] — 11.914, Spring 2007
+- [[17-s916-all-the-presidents-generals-civil-military-relations-in-the-us-and-beyond-january-iap-2020|All the President's Generals: Civil-Military Relations in the US and Beyond]] — 17.S916, January IAP 2020
+- [[4-614-religious-architecture-and-islamic-cultures-fall-2002|Religious Architecture and Islamic Cultures]] — 4.614, Fall 2002
+- [[11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007|Water and Sanitation Infrastructure in Developing Countries]] — 11.479J, Spring 2007
+- [[17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012|Conversations You Can't Have on Campus: Race, Ethnicity, Gender and Identity]] — 17.S914, Spring 2012
+- [[11-957-frameworks-of-urban-governance-january-iap-2007|Frameworks of Urban Governance]] — 11.957, January IAP 2007
+- [[17-522-politics-and-religion-fall-2006|Politics and Religion]] — 17.522, Fall 2006
+- [[11-945-springfield-studio-fall-2005|Springfield Studio]] — 11.945, Fall 2005
+- [[21g-717-introduction-to-spanish-culture-fall-2004|Introduction to Spanish Culture]] — 21G.717, Fall 2004
+- [[21h-346-france-1660-1815-enlightenment-revolution-napoleon-spring-2011|France, 1660-1815: Enlightenment, Revolution, Napoleon]] — 21H.346, Spring 2011
+- [[9-93-marathon-moral-reasoning-laboratory-january-iap-2007|Marathon Moral Reasoning Laboratory]] — 9.93, January IAP 2007
+- [[21a-120-american-dream-using-storytelling-to-explore-social-class-in-the-united-states-spring-2018|American Dream: Using Storytelling to Explore Social Class in the United States]] — 21A.120, Spring 2018
+- [[21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013|Dilemmas in Bio-Medical Ethics: Playing God or Doing Good?]] — 21A.302J, Fall 2013
+- [[11-208-introduction-to-computers-in-public-management-ii-january-iap-2002|Introduction to Computers in Public Management II]] — 11.208, January IAP 2002
+- [[22-812j-managing-nuclear-technology-spring-2004|Managing Nuclear Technology]] — 22.812J, Spring 2004
+- [[22-011-nuclear-engineering-science-systems-and-society-spring-2020|Nuclear Engineering: Science, Systems and Society]] — 22.011, Spring 2020
+- [[21a-218j-identity-and-difference-spring-2010|Identity and Difference]] — 21A.101J (formerly 21A.218J), Spring 2010
+- [[17-407-chinese-foreign-policy-fall-2005|Chinese Foreign Policy]] — 17.407, Fall 2005
+- [[sts-350-social-study-of-science-and-technology-spring-2004|Social Study of Science and Technology]] — STS.350, Spring 2004
+- [[11-401-introduction-to-housing-community-and-economic-development-fall-2003|Introduction to Housing, Community and Economic Development]] — 11.401, Fall 2003
+- [[21l-015-introduction-to-media-studies-fall-2003|Introduction to Media Studies]] — 21L.015, Fall 2003
+- [[21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004|Studies in Poetry - British Poetry and the Sciences of the Mind]] — 21L.704, Fall 2004
+- [[12-103-strange-bedfellows-science-and-environmental-policy-fall-2005|Strange Bedfellows: Science and Environmental Policy]] — 12.103, Fall 2005
+- [[11-360-community-growth-and-land-use-planning-fall-2006|Community Growth and Land Use Planning]] — 11.360, Fall 2006
+- [[17-s950-social-science-and-the-iraq-and-syrian-wars-fall-2016|Social Science and the Iraq and Syrian Wars]] — 17.S950, Fall 2016
+- [[11-165j-urban-energy-systems-and-policy-fall-2022|Urban Energy Systems and Policy]] — 11.165J, Fall 2022
+- [[9-98-language-and-mind-january-iap-2003|Language and Mind]] — 9.98, January IAP 2003
+- [[1-206j-airline-schedule-planning-spring-2003|Airline Schedule Planning]] — 1.206J, Spring 2003
 - [[es-242-gender-issues-in-academics-and-academia-spring-2004|Gender Issues in Academics and Academia]] — ES.242, Spring 2004
 - [[sts-360-ethnography-spring-2003|Ethnography]] — STS.360, Spring 2003
 - [[14-05-intermediate-macroeconomics-spring-2013|Intermediate Macroeconomics]] — 14.05, Spring 2013

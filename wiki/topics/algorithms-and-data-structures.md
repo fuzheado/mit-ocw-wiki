@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[1-204-computer-algorithms-in-systems-engineering-spring-2010|Computer Algorithms in Systems Engineering]] — 1.204, Spring 2010
+- [[18-335j-introduction-to-numerical-methods-spring-2019|Introduction to Numerical Methods ]] — 18.335J, Spring 2019
 - [[6-854j-advanced-algorithms-fall-2008|Advanced Algorithms]] — 6.854J, Fall 2008
 - [[6-856j-randomized-algorithms-fall-2002|Randomized Algorithms]] — 6.856J, Fall 2002
 - [[18-409-behavior-of-algorithms-spring-2002|Behavior of Algorithms]] — 18.409, Spring 2002

@@ -12,6 +12,9 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007|Water and Sanitation Infrastructure in Developing Countries]] — 11.479J, Spring 2007
+- [[hst-953-collaborative-data-science-for-healthcare-fall-2020|Collaborative Data Science for Healthcare]] — HST.953, Fall 2020
+- [[es-010-chemistry-of-sports-spring-2013|Chemistry of Sports]] — ES.010, Spring 2013
 - [[6-s897-machine-learning-for-healthcare-spring-2019|Machine Learning for Healthcare]] — 6.S897, Spring 2019
 - [[21h-s01-food-in-american-history-fall-2014|Food in American History]] — 21H.S01, Fall 2014
 - [[6-811-principles-and-practice-of-assistive-technology-fall-2014|Principles and Practice of Assistive Technology]] — 6.811, Fall 2014

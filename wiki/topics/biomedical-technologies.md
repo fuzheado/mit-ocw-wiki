@@ -12,6 +12,8 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[hst-720-physiology-of-the-ear-fall-2004|Physiology of the Ear]] — HST.720, Fall 2004
+- [[hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006|Magnetic Resonance Analytic, Biochemical, and Imaging Techniques]] — HST.584J, Spring 2006
 - [[res-9-004-nancys-brain-talks-fall-2022|Nancy's Brain Talks]] — RES.9-004, Fall 2022
 - [[9-036-the-visual-system-spring-2005|The Visual System]] — 9.036, Spring 2005
 - [[7-016-introductory-biology-fall-2018|Introductory Biology]] — 7.016, Fall 2018

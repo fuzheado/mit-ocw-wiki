@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-945-adventures-in-advanced-symbolic-programming-spring-2009|Adventures in Advanced Symbolic Programming]] — 6.945, Spring 2009
+- [[6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010|Introduction to C Memory Management and C++ Object-Oriented Programming]] — 6.088, January IAP 2010
 - [[11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015|Computer Games and Simulations for Education and Exploration]] — 11.127J, Spring 2015
 - [[6-826-principles-of-computer-systems-spring-2002|Principles of Computer Systems]] — 6.826, Spring 2002
 - [[cms-611j-creating-video-games-fall-2014|Creating Video Games]] — CMS.611J, Fall 2014

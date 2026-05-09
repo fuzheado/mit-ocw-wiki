@@ -12,6 +12,8 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013|Dilemmas in Bio-Medical Ethics: Playing God or Doing Good?]] (21A.302J)
+- [[21a-218j-identity-and-difference-spring-2010|Identity and Difference]] (21A.101J (formerly 21A.218J))
 - [[24-912-black-matters-introduction-to-black-studies-spring-2017|Black Matters: Introduction to Black Studies]] (24.912)
 - [[21l-460-medieval-literature-medieval-women-writers-spring-2004|Medieval Literature: Medieval Women Writers]] (21L.460)
 - [[21h-927j-the-economic-history-of-work-and-family-spring-2005|The Economic History of Work and Family]] (21H.927J)

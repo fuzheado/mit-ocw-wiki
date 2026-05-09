@@ -12,6 +12,10 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[9-97-introduction-to-neuroanatomy-january-iap-2003|Introduction to Neuroanatomy]] — 9.97, January IAP 2003
+- [[hst-542j-quantitative-physiology-organ-transport-systems-spring-2004|Quantitative Physiology: Organ Transport Systems]] — HST.542J, Spring 2004
+- [[hst-720-physiology-of-the-ear-fall-2004|Physiology of the Ear]] — HST.720, Fall 2004
+- [[es-010-chemistry-of-sports-spring-2013|Chemistry of Sports]] — ES.010, Spring 2013
 - [[6-551j-acoustics-of-speech-and-hearing-fall-2004|Acoustics of Speech and Hearing]] — 6.551J, Fall 2004
 - [[9-036-the-visual-system-spring-2005|The Visual System]] — 9.036, Spring 2005
 - [[hst-035-principle-and-practice-of-human-pathology-spring-2003|Principle and Practice of Human Pathology]] — HST.035, Spring 2003

@@ -12,6 +12,10 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014|The City of Athens in the Age of Pericles]] — 21H.237, Fall 2014
+- [[4-614-religious-architecture-and-islamic-cultures-fall-2002|Religious Architecture and Islamic Cultures]] — 4.614, Fall 2002
+- [[4-493-emergent-materials-ii-spring-2005|Emergent Materials II]] — 4.493, Spring 2005
+- [[4-463-building-technologies-iii-building-structural-systems-ii-fall-2002|Building Technologies III: Building Structural Systems II]] — 4.463, Fall 2002
 - [[4-696-a-global-history-of-architecture-writing-seminar-spring-2008|A Global History of Architecture Writing Seminar]] — 4.696, Spring 2008
 - [[4-196-architecture-design-level-ii-cuba-studio-spring-2004|Architecture Design, Level II: Cuba Studio]] — 4.196, Spring 2004
 - [[4-125a-architecture-studio-building-in-landscapes-fall-2005|Architecture Studio: Building in Landscapes]] — 4.125A, Fall 2005

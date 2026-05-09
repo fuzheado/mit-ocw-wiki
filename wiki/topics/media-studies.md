@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21m-263-music-since-1960-spring-2006|Music Since 1960]] — 21M.263, Spring 2006
+- [[21l-015-introduction-to-media-studies-fall-2003|Introduction to Media Studies]] — 21L.015, Fall 2003
 - [[cms-100-introduction-to-media-studies-fall-2014|Introduction to Media Studies]] — CMS.100, Fall 2014
 - [[4-602-modern-art-and-mass-culture-spring-2012|Modern Art and Mass Culture]] — 4.602, Spring 2012
 - [[cms-611j-creating-video-games-fall-2014|Creating Video Games]] — CMS.611J, Fall 2014

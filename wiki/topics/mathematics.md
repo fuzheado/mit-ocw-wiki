@@ -12,6 +12,15 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[16-322-stochastic-estimation-and-control-fall-2004|Stochastic Estimation and Control]] — 16.322, Fall 2004
+- [[18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004|Seminar in Algebra and Number Theory: Rational Points on Elliptic Curves]] — 18.704, Fall 2004
+- [[5-72-non-equilibrium-statistical-mechanics-spring-2012|Non-Equilibrium Statistical Mechanics]] — 5.72, Spring 2012
+- [[res-18-003-calculus-for-beginners-and-artists-spring-2005|Calculus for Beginners and Artists]] — RES.18-003, Spring 2005
+- [[18-212-algebraic-combinatorics-spring-2019|Algebraic Combinatorics]] — 18.212, Spring 2019
+- [[18-01-single-variable-calculus-fall-2006|Single Variable Calculus]] — 18.01, Fall 2006
+- [[res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014|The Art of Insight in Science and Engineering: Mastering Complexity]] — RES.6-011, Fall 2014
+- [[2-29-numerical-marine-hydrodynamics-13-024-spring-2003|Numerical Marine Hydrodynamics (13.024)]] — 2.29, Spring 2003
+- [[18-335j-introduction-to-numerical-methods-spring-2019|Introduction to Numerical Methods ]] — 18.335J, Spring 2019
 - [[18-098-street-fighting-mathematics-january-iap-2008|Street-Fighting Mathematics]] — 18.098, January IAP 2008
 - [[18-357-interfacial-phenomena-fall-2010|Interfacial Phenomena]] — 18.357, Fall 2010
 - [[18-303-linear-partial-differential-equations-fall-2006|Linear Partial Differential Equations]] — 18.303, Fall 2006
