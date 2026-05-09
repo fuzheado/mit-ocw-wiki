@@ -12,6 +12,8 @@ School: [[school-architecture-planning|School of Architecture and Planning]]
 
 ## Courses
 
+- [[res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022|RAISE (Responsible AI for Social Empowerment and Education)]] (RES.MAS-001)
+- [[res-mas-002-day-of-ai-spring-2022|Day of AI]] (RES.MAS-002)
 - [[mas-s62-cryptocurrency-engineering-and-design-spring-2018|Cryptocurrency Engineering and Design]] (MAS.S62)
 - [[mas-845-special-topics-in-cinematic-storytelling-spring-2004|Special Topics in Cinematic Storytelling]] (MAS.845)
 - [[mas-712-how-to-learn-almost-anything-spring-2001|How to Learn (Almost) Anything]] (MAS.712)

@@ -12,6 +12,7 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-s96-linguistics-and-social-justice-language-education-and-human-rights-fall-2021|Linguistics and Social Justice: Language, Education, and Human Rights]] — 24.S96, Fall 2021
 - [[24-954-pragmatics-in-linguistic-theory-fall-2006|Pragmatics in Linguistic Theory]] — 24.954, Fall 2006
 - [[6-541j-speech-communication-spring-2004|Speech Communication]] — 6.541J, Spring 2004
 - [[24-979-topics-in-semantics-negative-polarity-items-fall-2018|Topics in Semantics: Negative Polarity Items]] — 24.979, Fall 2018

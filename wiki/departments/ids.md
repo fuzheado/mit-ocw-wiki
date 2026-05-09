@@ -12,6 +12,8 @@ School: [[school-schwarzman-computing|MIT Schwarzman College of Computing]]
 
 ## Courses
 
+- [[16-89j-space-systems-engineering-spring-2007|Space Systems Engineering]] (16.89J)
+- [[ids-410j-modeling-and-assessment-for-policy-spring-2013|Modeling and Assessment for Policy]] (IDS.410J)
 - [[15-075j-statistical-thinking-and-data-analysis-fall-2011|Statistical Thinking and Data Analysis]] (15.075J)
 - [[ids-900-doctoral-seminar-in-engineering-systems-fall-2011|Doctoral Seminar in Engineering Systems]] (IDS.900)
 - [[ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010|Tools for Analysis: Design for Real Estate and Infrastructure Development]] (IDS.720J)

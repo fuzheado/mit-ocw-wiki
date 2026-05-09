@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[16-89j-space-systems-engineering-spring-2007|Space Systems Engineering]] — 16.89J, Spring 2007
+- [[16-682-technology-in-transportation-spring-2011|Technology in Transportation]] — 16.682, Spring 2011
 - [[16-682-prototyping-avionics-spring-2006|Prototyping Avionics]] — 16.682, Spring 2006
 - [[16-61-aerospace-dynamics-spring-2003|Aerospace Dynamics]] — 16.61, Spring 2003
 - [[16-050-thermal-energy-fall-2002|Thermal Energy]] — 16.050, Fall 2002

@@ -12,6 +12,11 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-830j-control-of-manufacturing-processes-sma-6303-spring-2008|Control of Manufacturing Processes (SMA 6303)]] — 2.830J, Spring 2008
+- [[2-18-biomolecular-feedback-systems-spring-2015|Biomolecular Feedback Systems]] — 2.18, Spring 2015
+- [[6-254-game-theory-with-engineering-applications-spring-2010|Game Theory with Engineering Applications]] — 6.254, Spring 2010
+- [[6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007|Design and Fabrication of Microelectromechanical Devices]] — 6.777J, Spring 2007
+- [[16-682-technology-in-transportation-spring-2011|Technology in Transportation]] — 16.682, Spring 2011
 - [[2-14-analysis-and-design-of-feedback-control-systems-spring-2014|Analysis and Design of Feedback Control Systems]] — 2.14, Spring 2014
 - [[3-22-mechanical-behavior-of-materials-spring-2008|Mechanical Behavior of Materials]] — 3.22, Spring 2008
 - [[es-293-lego-robotics-spring-2007|Lego Robotics]] — ES.293, Spring 2007

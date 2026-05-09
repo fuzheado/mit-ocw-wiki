@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015|Writing and Rhetoric: Rhetoric and Contemporary Issues]] — 21W.011, Fall 2015
+- [[15-599-workshop-in-it-collaborative-innovation-networks-fall-2011|Workshop in IT: Collaborative Innovation Networks]] — 15.599, Fall 2011
 - [[18-091-mathematical-exposition-spring-2005|Mathematical Exposition]] — 18.091, Spring 2005
 - [[11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007|Doctoral Research Seminar: Knowledge in the Public Arena]] — 11.800, Spring 2007
 - [[18-310-principles-of-discrete-applied-mathematics-fall-2013|Principles of Discrete Applied Mathematics]] — 18.310, Fall 2013

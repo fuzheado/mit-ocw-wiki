@@ -12,6 +12,10 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-411-building-technology-laboratory-spring-2004|Building Technology Laboratory]] — 4.411, Spring 2004
+- [[4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014|History of Urban Form: Locating Capitalism: Producing Early Modern Cities and Objects]] — 4.663, Spring 2014
+- [[11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998|Imaging the City: The Place of Media in City Design and Development]] — 11.947, Fall 1998
+- [[11-332j-urban-design-fall-2003|Urban Design]] — 11.332J, Fall 2003
 - [[4-104-architecture-studio-intentions-spring-2005|Architecture Studio: Intentions]] — 4.104, Spring 2005
 - [[11-301j-introduction-to-urban-design-and-development-fall-2016|Introduction to Urban Design and Development]] — 11.301J, Fall 2016
 - [[4-313-advanced-studio-on-the-production-of-space-fall-2016|Advanced Studio on the Production of Space]] — 4.313, Fall 2016

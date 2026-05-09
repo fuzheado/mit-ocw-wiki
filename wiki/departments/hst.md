@@ -12,6 +12,8 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[9-22j-a-clinical-approach-to-the-human-brain-fall-2006|A Clinical Approach to the Human Brain]] (9.22J)
+- [[hst-935-narrative-ethics-literary-texts-and-moral-issues-in-medicine-january-iap-2007|Narrative Ethics: Literary Texts and Moral Issues in Medicine]] (HST.935)
 - [[hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005|Brain Mechanisms for Hearing and Speech]] (HST.722J)
 - [[6-021j-quantitative-physiology-cells-and-tissues-fall-2004|Quantitative Physiology: Cells and Tissues]] (6.021J)
 - [[6-541j-speech-communication-spring-2004|Speech Communication]] (6.541J)

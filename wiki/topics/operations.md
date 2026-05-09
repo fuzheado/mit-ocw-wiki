@@ -12,6 +12,10 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[16-89j-space-systems-engineering-spring-2007|Space Systems Engineering]] — 16.89J, Spring 2007
+- [[15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003|System Optimization and Analysis for Manufacturing]] — 15.066J, Summer 2003
+- [[1-224j-carrier-systems-fall-2003|Carrier Systems]] — 1.224J, Fall 2003
+- [[17-261-congress-and-the-american-political-system-ii-fall-2005|Congress and the American Political System II]] — 17.261, Fall 2005
 - [[2-852-manufacturing-systems-analysis-spring-2010|Manufacturing Systems Analysis]] — 2.852, Spring 2010
 - [[15-760b-introduction-to-operations-management-spring-2004|Introduction to Operations Management]] — 15.760B, Spring 2004
 - [[15-053-optimization-methods-in-management-science-spring-2013|Optimization Methods in Management Science]] — 15.053, Spring 2013

@@ -12,6 +12,8 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[9-458-parkinsons-disease-workshop-summer-2006|Parkinson's Disease Workshop]] — 9.458, Summer 2006
+- [[9-40-introduction-to-neural-computation-spring-2018|Introduction to Neural Computation]] — 9.40, Spring 2018
 - [[22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005|Noninvasive Imaging in Biology and Medicine]] — 22.56J, Fall 2005
 - [[22-058-principles-of-medical-imaging-fall-2002|Principles of Medical Imaging]] — 22.058, Fall 2002
 - [[22-a09-career-options-for-biomedical-research-fall-2006|Career Options for Biomedical Research]] — 22.A09, Fall 2006

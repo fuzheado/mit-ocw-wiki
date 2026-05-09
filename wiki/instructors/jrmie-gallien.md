@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003|System Optimization and Analysis for Manufacturing]]
 - [[15-760b-introduction-to-operations-management-spring-2004|Introduction to Operations Management]]

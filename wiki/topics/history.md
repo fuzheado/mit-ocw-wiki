@@ -12,6 +12,12 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21w-775-writing-about-nature-and-environmental-issues-spring-2017|Writing about Nature and Environmental Issues]] — 21W.775, Spring 2017
+- [[4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014|History of Urban Form: Locating Capitalism: Producing Early Modern Cities and Objects]] — 4.663, Spring 2014
+- [[wgs-181-queer-cinema-and-visual-culture-fall-2017|Queer Cinema and Visual Culture]] — WGS.181, Fall 2017
+- [[sts-036-technology-and-nature-in-american-history-spring-2008|Technology and Nature in American History]] — STS.036, Spring 2008
+- [[21h-153j-race-and-gender-in-asian-america-spring-2006|Race and Gender in Asian America]] — 21H.153J, Spring 2006
+- [[21h-319-race-crime-and-citizenship-in-american-law-fall-2014|Race, Crime, and Citizenship in American Law]] — 21H.319, Fall 2014
 - [[sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007|American Science: Ethical Conflicts and Political Choices]] — STS.011, Fall 2007
 - [[sts-035-the-history-of-computing-spring-2004|The History of Computing]] — STS.035, Spring 2004
 - [[21h-381j-women-and-war-in-the-20th-century-fall-2015|Women and War in the 20th Century]] — 21H.381J, Fall 2015

@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[12-000-solving-complex-problems-fall-2003|Solving Complex Problems]] — 12.000, Fall 2003
+- [[ids-410j-modeling-and-assessment-for-policy-spring-2013|Modeling and Assessment for Policy]] — IDS.410J, Spring 2013
+- [[1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004|Chemicals in the Environment: Fate and Transport]] — 1.725J, Fall 2004
 - [[4-313-advanced-studio-on-the-production-of-space-fall-2016|Advanced Studio on the Production of Space]] — 4.313, Fall 2016
 - [[17-441-international-politics-and-climate-change-fall-2007|International Politics and Climate Change]] — 17.441, Fall 2007
 - [[1-782-environmental-engineering-masters-of-engineering-project-fall-2007-spring-2008|Environmental Engineering Masters of Engineering Project]] — 1.782, Fall 2007

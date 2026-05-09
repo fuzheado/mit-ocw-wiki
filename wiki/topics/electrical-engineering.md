@@ -12,6 +12,15 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008|Electromagnetic Field Theory: A Problem Solving Approach]] — RES.6-002, Spring 2008
+- [[6-243j-dynamics-of-nonlinear-systems-fall-2003|Dynamics of Nonlinear Systems]] — 6.243J, Fall 2003
+- [[6-453-quantum-optical-communication-fall-2016|Quantum Optical Communication]] — 6.453, Fall 2016
+- [[15-020-competition-in-telecommunications-fall-2003|Competition in Telecommunications]] — 15.020, Fall 2003
+- [[6-881-representation-and-modeling-for-image-analysis-spring-2005|Representation and Modeling for Image Analysis]] — 6.881, Spring 2005
+- [[es-259-information-and-communication-technology-in-africa-spring-2006|Information and Communication Technology in Africa]] — ES.259, Spring 2006
+- [[6-780-semiconductor-manufacturing-spring-2003|Semiconductor Manufacturing]] — 6.780, Spring 2003
+- [[res-6-008-digital-signal-processing-spring-2011|Digital Signal Processing]] — RES.6-008, Spring 2011
+- [[6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007|Design and Fabrication of Microelectromechanical Devices]] — 6.777J, Spring 2007
 - [[15-564-information-technology-i-spring-2003|Information Technology I]] — 15.564, Spring 2003
 - [[16-682-prototyping-avionics-spring-2006|Prototyping Avionics]] — 16.682, Spring 2006
 - [[2-14-analysis-and-design-of-feedback-control-systems-spring-2014|Analysis and Design of Feedback Control Systems]] — 2.14, Spring 2014

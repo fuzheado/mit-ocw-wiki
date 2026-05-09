@@ -12,6 +12,14 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-476-romantic-poetry-spring-2005|Romantic Poetry]] — 21L.476, Spring 2005
+- [[21l-715-media-in-cultural-context-fall-2015|Media in Cultural Context]] — 21L.715, Fall 2015
+- [[21w-775-writing-about-nature-and-environmental-issues-spring-2017|Writing about Nature and Environmental Issues]] — 21W.775, Spring 2017
+- [[21g-311-introduction-to-french-culture-spring-2014|Introduction to French Culture]] — 21G.311, Spring 2014
+- [[21g-325j-new-culture-of-gender-queer-france-fall-2011|New Culture of Gender: Queer France]] — 21G.325J, Fall 2011
+- [[21g-022j-international-womens-voices-spring-2004|International Women's Voices]] — 21G.022J, Spring 2004
+- [[21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015|Writing and Rhetoric: Rhetoric and Contemporary Issues]] — 21W.011, Fall 2015
+- [[hst-935-narrative-ethics-literary-texts-and-moral-issues-in-medicine-january-iap-2007|Narrative Ethics: Literary Texts and Moral Issues in Medicine]] — HST.935, January IAP 2007
 - [[21l-003-2-reading-fiction-spring-2007|Reading Fiction]] — 21L.003-2, Spring 2007
 - [[21l-501-the-american-novel-stranger-and-stranger-spring-2013|The American Novel: Stranger and Stranger]] — 21L.501, Spring 2013
 - [[21l-485-modern-fiction-fall-2015|Modern Fiction]] — 21L.485, Fall 2015

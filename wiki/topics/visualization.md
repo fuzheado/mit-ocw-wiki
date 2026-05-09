@@ -2,6 +2,8 @@
 
 ## Courses
 
+- [[6-881-representation-and-modeling-for-image-analysis-spring-2005|Representation and Modeling for Image Analysis]] — 6.881, Spring 2005
+- [[6-s980-machine-learning-for-inverse-graphics-fall-2022|Machine Learning for Inverse Graphics]] — 6.S980, Fall 2022
 - [[11-501-introduction-to-technology-and-cities-fall-2002|Introduction to Technology and Cities]] — 11.501, Fall 2002
 - [[6-838-algorithms-for-computer-animation-fall-2002|Algorithms for Computer Animation]] — 6.838, Fall 2002
 - [[mas-965-social-visualization-fall-2004|Social Visualization]] — MAS.965, Fall 2004

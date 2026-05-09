@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-828-operating-system-engineering-fall-2012|Operating System Engineering]] — 6.828, Fall 2012
+- [[6-170-laboratory-in-software-engineering-fall-2005|Laboratory in Software Engineering]] — 6.170, Fall 2005
 - [[mas-s62-cryptocurrency-engineering-and-design-spring-2018|Cryptocurrency Engineering and Design]] — MAS.S62, Spring 2018
 - [[1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012|Introduction to Computers and Engineering Problem Solving]] — 1.00, Spring 2012
 - [[6-170-software-studio-spring-2013|Software Studio]] — 6.170, Spring 2013

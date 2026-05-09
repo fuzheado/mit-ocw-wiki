@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[9-22j-a-clinical-approach-to-the-human-brain-fall-2006|A Clinical Approach to the Human Brain]] — 9.22J, Fall 2006
+- [[9-75j-psychology-of-gender-spring-2003|Psychology of Gender]] — 9.75J, Spring 2003
+- [[9-95-a-research-topics-in-neuroscience-january-iap-2003|Research Topics in Neuroscience]] — 9.95-A, January IAP 2003
 - [[11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007|Reflective Practice: An Approach for Expanding Your Learning Frontiers]] — 11.965, January IAP 2007
 - [[es-s60-the-art-and-science-of-happiness-spring-2013|The Art and Science of Happiness]] — ES.S60, Spring 2013
 - [[24-09-minds-and-machines-fall-2011|Minds and Machines]] — 24.09, Fall 2011

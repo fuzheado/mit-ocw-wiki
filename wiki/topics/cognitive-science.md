@@ -12,6 +12,10 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-22j-a-clinical-approach-to-the-human-brain-fall-2006|A Clinical Approach to the Human Brain]] — 9.22J, Fall 2006
+- [[9-20-animal-behavior-fall-2013|Animal Behavior]] — 9.20, Fall 2013
+- [[9-40-introduction-to-neural-computation-spring-2018|Introduction to Neural Computation]] — 9.40, Spring 2018
+- [[9-95-a-research-topics-in-neuroscience-january-iap-2003|Research Topics in Neuroscience]] — 9.95-A, January IAP 2003
 - [[9-67-object-and-face-recognition-spring-2001|Object and Face Recognition]] — 9.67, Spring 2001
 - [[9-123-neurotechnology-in-action-fall-2014|Neurotechnology in Action]] — 9.123, Fall 2014
 - [[es-258-goedel-escher-bach-spring-2007|Gödel, Escher, Bach]] — ES.258, Spring 2007

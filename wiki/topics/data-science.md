@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[ids-410j-modeling-and-assessment-for-policy-spring-2013|Modeling and Assessment for Policy]] — IDS.410J, Spring 2013
+- [[15-599-workshop-in-it-collaborative-innovation-networks-fall-2011|Workshop in IT: Collaborative Innovation Networks]] — 15.599, Fall 2011
 - [[15-564-information-technology-i-spring-2003|Information Technology I]] — 15.564, Spring 2003
 - [[mas-s62-cryptocurrency-engineering-and-design-spring-2018|Cryptocurrency Engineering and Design]] — MAS.S62, Spring 2018
 - [[15-075j-statistical-thinking-and-data-analysis-fall-2011|Statistical Thinking and Data Analysis]] — 15.075J, Fall 2011

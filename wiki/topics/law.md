@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-467j-property-rights-in-transition-spring-2005|Property Rights in Transition]] — 11.467J, Spring 2005
+- [[21h-319-race-crime-and-citizenship-in-american-law-fall-2014|Race, Crime, and Citizenship in American Law]] — 21H.319, Fall 2014
 - [[3-a27-case-studies-in-forensic-metallurgy-fall-2007|Case Studies in Forensic Metallurgy]] — 3.A27, Fall 2007
 - [[15-649-the-law-of-mergers-and-acquisitions-spring-2003|The Law of Mergers and Acquisitions]] — 15.649, Spring 2003
 - [[21h-907-trials-in-history-fall-2000|Trials in History]] — 21H.907, Fall 2000

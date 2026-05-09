@@ -12,6 +12,14 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[11-943j-urban-transportation-land-use-and-the-environment-spring-2002|Urban Transportation, Land Use, and the Environment]] — 11.943J, Spring 2002
+- [[12-000-solving-complex-problems-fall-2003|Solving Complex Problems]] — 12.000, Fall 2003
+- [[12-201-essentials-of-geophysics-fall-2004|Essentials of Geophysics]] — 12.201, Fall 2004
+- [[ids-410j-modeling-and-assessment-for-policy-spring-2013|Modeling and Assessment for Policy]] — IDS.410J, Spring 2013
+- [[1-89-environmental-microbiology-fall-2004|Environmental Microbiology]] — 1.89, Fall 2004
+- [[12-753-geodynamics-seminar-spring-2001|Geodynamics Seminar]] — 12.753, Spring 2001
+- [[1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004|Chemicals in the Environment: Fate and Transport]] — 1.725J, Fall 2004
+- [[12-490-advanced-igneous-petrology-fall-2005|Advanced Igneous Petrology]] — 12.490, Fall 2005
 - [[2-011-introduction-to-ocean-science-and-engineering-spring-2006|Introduction to Ocean Science and Engineering]] — 2.011, Spring 2006
 - [[12-811-tropical-meteorology-spring-2011|Tropical Meteorology]] — 12.811, Spring 2011
 - [[12-815-atmospheric-radiation-fall-2006|Atmospheric Radiation]] — 12.815, Fall 2006

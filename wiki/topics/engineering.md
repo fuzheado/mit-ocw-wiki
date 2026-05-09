@@ -25,6 +25,43 @@ courses_count: 0
 
 ## Courses
 
+- [[4-411-building-technology-laboratory-spring-2004|Building Technology Laboratory]] — 4.411, Spring 2004
+- [[10-37-chemical-and-biological-reaction-engineering-spring-2007|Chemical and Biological Reaction Engineering]] — 10.37, Spring 2007
+- [[16-89j-space-systems-engineering-spring-2007|Space Systems Engineering]] — 16.89J, Spring 2007
+- [[esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007|Frameworks and Models in Engineering Systems / Engineering System Design]] — ESD.04J, Spring 2007
+- [[8-370x-quantum-information-science-i-spring-2018|Quantum Information Science I]] — 8.370x, Spring 2018
+- [[6-828-operating-system-engineering-fall-2012|Operating System Engineering]] — 6.828, Fall 2012
+- [[2-830j-control-of-manufacturing-processes-sma-6303-spring-2008|Control of Manufacturing Processes (SMA 6303)]] — 2.830J, Spring 2008
+- [[2-18-biomolecular-feedback-systems-spring-2015|Biomolecular Feedback Systems]] — 2.18, Spring 2015
+- [[12-000-solving-complex-problems-fall-2003|Solving Complex Problems]] — 12.000, Fall 2003
+- [[res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020|Exploring Fairness in Machine Learning for International Development]] — RES.EC-001, Spring 2020
+- [[res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008|Electromagnetic Field Theory: A Problem Solving Approach]] — RES.6-002, Spring 2008
+- [[6-243j-dynamics-of-nonlinear-systems-fall-2003|Dynamics of Nonlinear Systems]] — 6.243J, Fall 2003
+- [[6-453-quantum-optical-communication-fall-2016|Quantum Optical Communication]] — 6.453, Fall 2016
+- [[15-020-competition-in-telecommunications-fall-2003|Competition in Telecommunications]] — 15.020, Fall 2003
+- [[3-20-materials-at-equilibrium-sma-5111-fall-2003|Materials at Equilibrium (SMA 5111)]] — 3.20, Fall 2003
+- [[sts-036-technology-and-nature-in-american-history-spring-2008|Technology and Nature in American History]] — STS.036, Spring 2008
+- [[ids-410j-modeling-and-assessment-for-policy-spring-2013|Modeling and Assessment for Policy]] — IDS.410J, Spring 2013
+- [[res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022|RAISE (Responsible AI for Social Empowerment and Education)]] — RES.MAS-001, Spring 2022
+- [[15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003|System Optimization and Analysis for Manufacturing]] — 15.066J, Summer 2003
+- [[6-881-representation-and-modeling-for-image-analysis-spring-2005|Representation and Modeling for Image Analysis]] — 6.881, Spring 2005
+- [[6-034-artificial-intelligence-fall-2010|Artificial Intelligence]] — 6.034, Fall 2010
+- [[6-s980-machine-learning-for-inverse-graphics-fall-2022|Machine Learning for Inverse Graphics]] — 6.S980, Fall 2022
+- [[6-170-laboratory-in-software-engineering-fall-2005|Laboratory in Software Engineering]] — 6.170, Fall 2005
+- [[9-40-introduction-to-neural-computation-spring-2018|Introduction to Neural Computation]] — 9.40, Spring 2018
+- [[1-224j-carrier-systems-fall-2003|Carrier Systems]] — 1.224J, Fall 2003
+- [[res-mas-002-day-of-ai-spring-2022|Day of AI]] — RES.MAS-002, Spring 2022
+- [[15-599-workshop-in-it-collaborative-innovation-networks-fall-2011|Workshop in IT: Collaborative Innovation Networks]] — 15.599, Fall 2011
+- [[es-259-information-and-communication-technology-in-africa-spring-2006|Information and Communication Technology in Africa]] — ES.259, Spring 2006
+- [[res-6-013-ai-101-fall-2021|AI 101]] — RES.6-013, Fall 2021
+- [[6-821-programming-languages-fall-2002|Programming Languages]] — 6.821, Fall 2002
+- [[6-780-semiconductor-manufacturing-spring-2003|Semiconductor Manufacturing]] — 6.780, Spring 2003
+- [[1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004|Chemicals in the Environment: Fate and Transport]] — 1.725J, Fall 2004
+- [[res-6-008-digital-signal-processing-spring-2011|Digital Signal Processing]] — RES.6-008, Spring 2011
+- [[6-254-game-theory-with-engineering-applications-spring-2010|Game Theory with Engineering Applications]] — 6.254, Spring 2010
+- [[6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007|Design and Fabrication of Microelectromechanical Devices]] — 6.777J, Spring 2007
+- [[18-085-computational-science-and-engineering-i-fall-2008|Computational Science and Engineering I]] — 18.085, Fall 2008
+- [[16-682-technology-in-transportation-spring-2011|Technology in Transportation]] — 16.682, Spring 2011
 - [[15-564-information-technology-i-spring-2003|Information Technology I]] — 15.564, Spring 2003
 - [[mas-s62-cryptocurrency-engineering-and-design-spring-2018|Cryptocurrency Engineering and Design]] — MAS.S62, Spring 2018
 - [[18-783-elliptic-curves-spring-2021|Elliptic Curves]] — 18.783, Spring 2021

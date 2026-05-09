@@ -12,6 +12,11 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[wgs-181-queer-cinema-and-visual-culture-fall-2017|Queer Cinema and Visual Culture]] (WGS.181)
+- [[21g-325j-new-culture-of-gender-queer-france-fall-2011|New Culture of Gender: Queer France]] (21G.325J)
+- [[21g-022j-international-womens-voices-spring-2004|International Women's Voices]] (21G.022J)
+- [[21h-153j-race-and-gender-in-asian-america-spring-2006|Race and Gender in Asian America]] (21H.153J)
+- [[wgs-s10-gender-power-leadership-and-the-workplace-spring-2014|Gender, Power, Leadership, and the Workplace]] (WGS.S10)
 - [[21h-381j-women-and-war-in-the-20th-century-fall-2015|Women and War in the 20th Century]] (21H.381J)
 - [[21g-068j-the-invention-of-french-theory-a-history-of-transatlantic-intellectual-life-since-1945-spring-2012|The Invention of French Theory: A History of Transatlantic Intellectual Life since 1945]] (21G.068J)
 - [[wgs-s10-reproductive-politics-in-the-united-states-spring-2013|Reproductive Politics in the United States]] (WGS.S10)

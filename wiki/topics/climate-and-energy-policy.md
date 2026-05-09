@@ -12,6 +12,9 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[11-943j-urban-transportation-land-use-and-the-environment-spring-2002|Urban Transportation, Land Use, and the Environment]] — 11.943J, Spring 2002
+- [[12-000-solving-complex-problems-fall-2003|Solving Complex Problems]] — 12.000, Fall 2003
+- [[ids-410j-modeling-and-assessment-for-policy-spring-2013|Modeling and Assessment for Policy]] — IDS.410J, Spring 2013
 - [[12-103-science-and-policy-of-natural-hazards-spring-2010|Science and Policy of Natural Hazards]] — 12.103, Spring 2010
 - [[11-384-malaysia-sustainable-cities-practicum-spring-2018|Malaysia Sustainable Cities Practicum]] — 11.384, Spring 2018
 - [[11-945-katrina-practicum-spring-2006|Katrina Practicum]] — 11.945, Spring 2006

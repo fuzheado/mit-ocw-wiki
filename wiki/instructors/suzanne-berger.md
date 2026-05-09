@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[17-148-political-economy-of-globalization-spring-2006|Political Economy of Globalization]]
 - [[17-100j-political-economy-i-spring-2016|Political Economy I]]

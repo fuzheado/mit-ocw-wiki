@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998|Imaging the City: The Place of Media in City Design and Development]] — 11.947, Fall 1998
+- [[21g-325j-new-culture-of-gender-queer-france-fall-2011|New Culture of Gender: Queer France]] — 21G.325J, Fall 2011
+- [[cms-615-games-for-social-change-fall-2013|Games for Social Change]] — CMS.615, Fall 2013
 - [[21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012|DV Lab: Documenting Science Through Video and New Media]] — 21A.550J, Fall 2012
 - [[mas-845-special-topics-in-cinematic-storytelling-spring-2004|Special Topics in Cinematic Storytelling]] — MAS.845, Spring 2004
 - [[4-351-introduction-to-video-spring-2004|Introduction to Video]] — 4.351, Spring 2004

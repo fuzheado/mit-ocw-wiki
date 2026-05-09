@@ -12,6 +12,15 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-943j-urban-transportation-land-use-and-the-environment-spring-2002|Urban Transportation, Land Use, and the Environment]] — 11.943J, Spring 2002
+- [[12-000-solving-complex-problems-fall-2003|Solving Complex Problems]] — 12.000, Fall 2003
+- [[ids-410j-modeling-and-assessment-for-policy-spring-2013|Modeling and Assessment for Policy]] — IDS.410J, Spring 2013
+- [[21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015|Writing and Rhetoric: Rhetoric and Contemporary Issues]] — 21W.011, Fall 2015
+- [[11-467j-property-rights-in-transition-spring-2005|Property Rights in Transition]] — 11.467J, Spring 2005
+- [[14-73-the-challenge-of-world-poverty-spring-2011|The Challenge of World Poverty]] — 14.73, Spring 2011
+- [[17-918-new-global-agenda-exploring-21st-century-challenges-through-innovations-in-information-technologies-january-iap-2006|New Global Agenda: Exploring 21st Century Challenges through Innovations in Information Technologies]] — 17.918, January IAP 2006
+- [[21h-319-race-crime-and-citizenship-in-american-law-fall-2014|Race, Crime, and Citizenship in American Law]] — 21H.319, Fall 2014
+- [[wgs-s10-gender-power-leadership-and-the-workplace-spring-2014|Gender, Power, Leadership, and the Workplace]] — WGS.S10, Spring 2014
 - [[11-483-housing-and-land-use-in-rapidly-urbanizing-regions-fall-2011|Housing and Land Use in Rapidly Urbanizing Regions]] — 11.483, Fall 2011
 - [[11-501-introduction-to-technology-and-cities-fall-2002|Introduction to Technology and Cities]] — 11.501, Fall 2002
 - [[11-128-information-technology-and-the-labor-market-spring-2005|Information Technology and the Labor Market]] — 11.128, Spring 2005

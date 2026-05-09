@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-411-building-technology-laboratory-spring-2004|Building Technology Laboratory]] — 4.411, Spring 2004
+- [[11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998|Imaging the City: The Place of Media in City Design and Development]] — 11.947, Fall 1998
+- [[11-332j-urban-design-fall-2003|Urban Design]] — 11.332J, Fall 2003
 - [[11-337j-urban-design-policy-and-action-spring-2009|Urban Design Policy and Action]] — 11.337J, Spring 2009
 - [[4-123-architectural-design-level-i-perceptions-and-processes-fall-2003|Architectural Design, Level I: Perceptions and Processes]] — 4.123, Fall 2003
 - [[4-163j-urban-design-studio-providence-spring-2005|Urban Design Studio: Providence]] — 4.163J, Spring 2005

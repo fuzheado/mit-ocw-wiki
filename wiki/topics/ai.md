@@ -12,6 +12,12 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020|Exploring Fairness in Machine Learning for International Development]] — RES.EC-001, Spring 2020
+- [[res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022|RAISE (Responsible AI for Social Empowerment and Education)]] — RES.MAS-001, Spring 2022
+- [[6-034-artificial-intelligence-fall-2010|Artificial Intelligence]] — 6.034, Fall 2010
+- [[6-s980-machine-learning-for-inverse-graphics-fall-2022|Machine Learning for Inverse Graphics]] — 6.S980, Fall 2022
+- [[res-mas-002-day-of-ai-spring-2022|Day of AI]] — RES.MAS-002, Spring 2022
+- [[res-6-013-ai-101-fall-2021|AI 101]] — RES.6-013, Fall 2021
 - [[6-370-the-battlecode-programming-competition-january-iap-2013|The Battlecode Programming Competition]] — 6.370, January IAP 2013
 - [[6-4210-robotic-manipulation-fall-2022|Robotic Manipulation]] — 6.4210, Fall 2022
 - [[res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021|Media Literacy in the Age of Deepfakes]] — RES.CMS-001, Spring 2021

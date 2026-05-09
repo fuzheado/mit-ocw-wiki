@@ -12,6 +12,10 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[wgs-181-queer-cinema-and-visual-culture-fall-2017|Queer Cinema and Visual Culture]] — WGS.181, Fall 2017
+- [[21a-348-photography-and-truth-spring-2008|Photography and Truth]] — 21A.348, Spring 2008
+- [[11-139-the-city-in-film-spring-2015|The City in Film]] — 11.139, Spring 2015
+- [[21l-011-the-film-experience-fall-2013|The Film Experience]] — 21L.011, Fall 2013
 - [[21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012|DV Lab: Documenting Science Through Video and New Media]] — 21A.550J, Fall 2012
 - [[mas-845-special-topics-in-cinematic-storytelling-spring-2004|Special Topics in Cinematic Storytelling]] — MAS.845, Spring 2004
 - [[4-351-introduction-to-video-spring-2004|Introduction to Video]] — 4.351, Spring 2004

@@ -12,6 +12,15 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[18-s190-introduction-to-metric-spaces-january-iap-2023|Introduction to Metric Spaces ]] — 18.S190, January IAP 2023
+- [[8-370x-quantum-information-science-i-spring-2018|Quantum Information Science I]] — 8.370x, Spring 2018
+- [[2-830j-control-of-manufacturing-processes-sma-6303-spring-2008|Control of Manufacturing Processes (SMA 6303)]] — 2.830J, Spring 2008
+- [[res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008|Electromagnetic Field Theory: A Problem Solving Approach]] — RES.6-002, Spring 2008
+- [[18-785-number-theory-i-fall-2021|Number Theory I]] — 18.785, Fall 2021
+- [[15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003|System Optimization and Analysis for Manufacturing]] — 15.066J, Summer 2003
+- [[15-s50-poker-theory-and-analytics-january-iap-2015|Poker Theory and Analytics]] — 15.S50, January IAP 2015
+- [[18-022-calculus-of-several-variables-fall-2010|Calculus of Several Variables]] — 18.022, Fall 2010
+- [[18-085-computational-science-and-engineering-i-fall-2008|Computational Science and Engineering I]] — 18.085, Fall 2008
 - [[18-783-elliptic-curves-spring-2021|Elliptic Curves]] — 18.783, Spring 2021
 - [[18-385j-nonlinear-dynamics-and-chaos-fall-2014|Nonlinear Dynamics and Chaos]] — 18.385J, Fall 2014
 - [[18-338j-infinite-random-matrix-theory-fall-2004|Infinite Random Matrix Theory]] — 18.338J, Fall 2004

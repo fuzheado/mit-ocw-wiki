@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[8-370x-quantum-information-science-i-spring-2018|Quantum Information Science I]]
 - [[mas-865j-quantum-information-science-spring-2006|Quantum Information Science]]

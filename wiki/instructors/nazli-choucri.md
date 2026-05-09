@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[17-918-new-global-agenda-exploring-21st-century-challenges-through-innovations-in-information-technologies-january-iap-2006|New Global Agenda: Exploring 21st Century Challenges through Innovations in Information Technologies]]
 - [[17-441-international-politics-and-climate-change-fall-2007|International Politics and Climate Change]]
 - [[17-447-cyberpolitics-in-international-relations-theory-methods-policy-fall-2011|Cyberpolitics in International Relations: Theory, Methods, Policy]]
 - [[17-445-international-relations-theory-in-the-cyber-age-fall-2015|International Relations Theory in the Cyber Age]]

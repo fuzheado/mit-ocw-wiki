@@ -12,6 +12,14 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[8-06-quantum-physics-iii-spring-2016|Quantum Physics III]] — 8.06, Spring 2016
+- [[8-370x-quantum-information-science-i-spring-2018|Quantum Information Science I]] — 8.370x, Spring 2018
+- [[8-033-relativity-fall-2006|Relativity]] — 8.033, Fall 2006
+- [[res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008|Electromagnetic Field Theory: A Problem Solving Approach]] — RES.6-002, Spring 2008
+- [[6-453-quantum-optical-communication-fall-2016|Quantum Optical Communication]] — 6.453, Fall 2016
+- [[3-20-materials-at-equilibrium-sma-5111-fall-2003|Materials at Equilibrium (SMA 5111)]] — 3.20, Fall 2003
+- [[6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007|Design and Fabrication of Microelectromechanical Devices]] — 6.777J, Spring 2007
+- [[22-611j-introduction-to-plasma-physics-i-fall-2006|Introduction to Plasma Physics I]] — 22.611J, Fall 2006
 - [[18-338j-infinite-random-matrix-theory-fall-2004|Infinite Random Matrix Theory]] — 18.338J, Fall 2004
 - [[5-73-quantum-mechanics-i-fall-2018|Quantum Mechanics I]] — 5.73, Fall 2018
 - [[2-71-optics-spring-2009|Optics]] — 2.71, Spring 2009

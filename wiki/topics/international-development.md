@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-943j-urban-transportation-land-use-and-the-environment-spring-2002|Urban Transportation, Land Use, and the Environment]] — 11.943J, Spring 2002
+- [[21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015|Writing and Rhetoric: Rhetoric and Contemporary Issues]] — 21W.011, Fall 2015
+- [[14-73-the-challenge-of-world-poverty-spring-2011|The Challenge of World Poverty]] — 14.73, Spring 2011
+- [[es-259-information-and-communication-technology-in-africa-spring-2006|Information and Communication Technology in Africa]] — ES.259, Spring 2006
+- [[24-s96-linguistics-and-social-justice-language-education-and-human-rights-fall-2021|Linguistics and Social Justice: Language, Education, and Human Rights]] — 24.S96, Fall 2021
 - [[17-55j-introduction-to-latin-american-studies-fall-2006|Introduction to Latin American Studies]] — 17.55J, Fall 2006
 - [[11-947-urbanization-and-development-spring-2009|Urbanization and Development]] — 11.947, Spring 2009
 - [[sts-089-technology-and-innovation-in-africa-fall-2014|Technology and Innovation in Africa]] — STS.089, Fall 2014

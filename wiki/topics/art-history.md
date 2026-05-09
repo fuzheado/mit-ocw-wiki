@@ -12,6 +12,7 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014|History of Urban Form: Locating Capitalism: Producing Early Modern Cities and Objects]] — 4.663, Spring 2014
 - [[4-601-introduction-to-art-history-fall-2018|Introduction to Art History]] — 4.601, Fall 2018
 - [[21h-402-the-making-of-a-roman-emperor-fall-2005|The Making of a Roman Emperor]] — 21H.402, Fall 2005
 - [[mas-110-fundamentals-of-computational-media-design-fall-2008|Fundamentals of Computational Media Design]] — MAS.110, Fall 2008

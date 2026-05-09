@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[10-37-chemical-and-biological-reaction-engineering-spring-2007|Chemical and Biological Reaction Engineering]] — 10.37, Spring 2007
+- [[2-18-biomolecular-feedback-systems-spring-2015|Biomolecular Feedback Systems]] — 2.18, Spring 2015
+- [[9-40-introduction-to-neural-computation-spring-2018|Introduction to Neural Computation]] — 9.40, Spring 2018
 - [[9-123-neurotechnology-in-action-fall-2014|Neurotechnology in Action]] — 9.123, Fall 2014
 - [[6-092-bioinformatics-and-proteomics-january-iap-2005|Bioinformatics and Proteomics]] — 6.092, January IAP 2005
 - [[7-89j-topics-in-computational-and-systems-biology-fall-2010|Topics in Computational and Systems Biology]] — 7.89J, Fall 2010

@@ -12,6 +12,10 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[5-111-principles-of-chemical-science-fall-2008|Principles of Chemical Science]] — 5.111, Fall 2008
+- [[10-37-chemical-and-biological-reaction-engineering-spring-2007|Chemical and Biological Reaction Engineering]] — 10.37, Spring 2007
+- [[1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004|Chemicals in the Environment: Fate and Transport]] — 1.725J, Fall 2004
+- [[22-611j-introduction-to-plasma-physics-i-fall-2006|Introduction to Plasma Physics I]] — 22.611J, Fall 2006
 - [[5-73-quantum-mechanics-i-fall-2018|Quantum Mechanics I]] — 5.73, Fall 2018
 - [[10-626-electrochemical-energy-systems-spring-2014|Electrochemical Energy Systems]] — 10.626, Spring 2014
 - [[22-103-microscopic-theory-of-transport-fall-2003|Microscopic Theory of Transport]] — 22.103, Fall 2003

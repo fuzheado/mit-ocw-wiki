@@ -12,6 +12,17 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[sts-010-neuroscience-and-society-spring-2010|Neuroscience and Society]] — STS.010, Spring 2010
+- [[wgs-181-queer-cinema-and-visual-culture-fall-2017|Queer Cinema and Visual Culture]] — WGS.181, Fall 2017
+- [[21g-311-introduction-to-french-culture-spring-2014|Introduction to French Culture]] — 21G.311, Spring 2014
+- [[21g-325j-new-culture-of-gender-queer-france-fall-2011|New Culture of Gender: Queer France]] — 21G.325J, Fall 2011
+- [[9-75j-psychology-of-gender-spring-2003|Psychology of Gender]] — 9.75J, Spring 2003
+- [[11-467j-property-rights-in-transition-spring-2005|Property Rights in Transition]] — 11.467J, Spring 2005
+- [[21h-153j-race-and-gender-in-asian-america-spring-2006|Race and Gender in Asian America]] — 21H.153J, Spring 2006
+- [[24-s96-linguistics-and-social-justice-language-education-and-human-rights-fall-2021|Linguistics and Social Justice: Language, Education, and Human Rights]] — 24.S96, Fall 2021
+- [[21h-319-race-crime-and-citizenship-in-american-law-fall-2014|Race, Crime, and Citizenship in American Law]] — 21H.319, Fall 2014
+- [[24-04j-justice-spring-2012|Justice]] — 24.04J, Spring 2012
+- [[wgs-s10-gender-power-leadership-and-the-workplace-spring-2014|Gender, Power, Leadership, and the Workplace]] — WGS.S10, Spring 2014
 - [[11-501-introduction-to-technology-and-cities-fall-2002|Introduction to Technology and Cities]] — 11.501, Fall 2002
 - [[17-55j-introduction-to-latin-american-studies-fall-2006|Introduction to Latin American Studies]] — 17.55J, Fall 2006
 - [[11-128-information-technology-and-the-labor-market-spring-2005|Information Technology and the Labor Market]] — 11.128, Spring 2005

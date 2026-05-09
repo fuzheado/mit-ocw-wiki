@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[12-201-essentials-of-geophysics-fall-2004|Essentials of Geophysics]]
 - [[12-510-introduction-to-seismology-spring-2010|Introduction to Seismology]]

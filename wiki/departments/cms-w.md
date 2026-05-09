@@ -12,6 +12,10 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21w-775-writing-about-nature-and-environmental-issues-spring-2017|Writing about Nature and Environmental Issues]] (21W.775)
+- [[cms-594-education-technology-studio-spring-2019|Education Technology Studio]] (CMS.594)
+- [[21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015|Writing and Rhetoric: Rhetoric and Contemporary Issues]] (21W.011)
+- [[cms-615-games-for-social-change-fall-2013|Games for Social Change]] (CMS.615)
 - [[21w-755-writing-and-reading-short-stories-spring-2012|Writing and Reading Short Stories]] (21W.755)
 - [[res-cms-502-competency-based-education-the-why-what-and-how-spring-2020|Competency-Based Education: The Why, What, and How]] (RES.CMS-502)
 - [[res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021|Media Literacy in the Age of Deepfakes]] (RES.CMS-001)

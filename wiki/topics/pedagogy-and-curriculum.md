@@ -12,6 +12,10 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020|Exploring Fairness in Machine Learning for International Development]] — RES.EC-001, Spring 2020
+- [[res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022|RAISE (Responsible AI for Social Empowerment and Education)]] — RES.MAS-001, Spring 2022
+- [[res-mas-002-day-of-ai-spring-2022|Day of AI]] — RES.MAS-002, Spring 2022
+- [[11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011|Introduction to Education: Looking Forward and Looking Back on Education]] — 11.124, Fall 2011
 - [[11-131-educational-theory-and-practice-iii-spring-2012|Educational Theory and Practice III]] — 11.131, Spring 2012
 - [[res-env-006-teaching-with-sustainability-january-iap-2022|Teaching with Sustainability]] — RES.ENV-006, January IAP 2022
 - [[mas-712-how-to-learn-almost-anything-spring-2001|How to Learn (Almost) Anything]] — MAS.712, Spring 2001

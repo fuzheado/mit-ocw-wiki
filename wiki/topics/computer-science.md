@@ -12,6 +12,20 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[8-370x-quantum-information-science-i-spring-2018|Quantum Information Science I]] — 8.370x, Spring 2018
+- [[6-828-operating-system-engineering-fall-2012|Operating System Engineering]] — 6.828, Fall 2012
+- [[res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020|Exploring Fairness in Machine Learning for International Development]] — RES.EC-001, Spring 2020
+- [[6-243j-dynamics-of-nonlinear-systems-fall-2003|Dynamics of Nonlinear Systems]] — 6.243J, Fall 2003
+- [[ids-410j-modeling-and-assessment-for-policy-spring-2013|Modeling and Assessment for Policy]] — IDS.410J, Spring 2013
+- [[res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022|RAISE (Responsible AI for Social Empowerment and Education)]] — RES.MAS-001, Spring 2022
+- [[6-881-representation-and-modeling-for-image-analysis-spring-2005|Representation and Modeling for Image Analysis]] — 6.881, Spring 2005
+- [[6-034-artificial-intelligence-fall-2010|Artificial Intelligence]] — 6.034, Fall 2010
+- [[6-s980-machine-learning-for-inverse-graphics-fall-2022|Machine Learning for Inverse Graphics]] — 6.S980, Fall 2022
+- [[6-170-laboratory-in-software-engineering-fall-2005|Laboratory in Software Engineering]] — 6.170, Fall 2005
+- [[res-mas-002-day-of-ai-spring-2022|Day of AI]] — RES.MAS-002, Spring 2022
+- [[15-599-workshop-in-it-collaborative-innovation-networks-fall-2011|Workshop in IT: Collaborative Innovation Networks]] — 15.599, Fall 2011
+- [[res-6-013-ai-101-fall-2021|AI 101]] — RES.6-013, Fall 2021
+- [[6-821-programming-languages-fall-2002|Programming Languages]] — 6.821, Fall 2002
 - [[15-564-information-technology-i-spring-2003|Information Technology I]] — 15.564, Spring 2003
 - [[mas-s62-cryptocurrency-engineering-and-design-spring-2018|Cryptocurrency Engineering and Design]] — MAS.S62, Spring 2018
 - [[18-783-elliptic-curves-spring-2021|Elliptic Curves]] — 18.783, Spring 2021

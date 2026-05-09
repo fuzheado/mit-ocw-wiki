@@ -10,6 +10,10 @@ courses_count: 0
 
 ## Courses
 
+- [[11-943j-urban-transportation-land-use-and-the-environment-spring-2002|Urban Transportation, Land Use, and the Environment]] (11.943J)
+- [[esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007|Frameworks and Models in Engineering Systems / Engineering System Design]] (ESD.04J)
+- [[2-830j-control-of-manufacturing-processes-sma-6303-spring-2008|Control of Manufacturing Processes (SMA 6303)]] (2.830J)
+- [[1-224j-carrier-systems-fall-2003|Carrier Systems]] (1.224J)
 - [[1-201j-introduction-to-transportation-systems-fall-2006|Introduction to Transportation Systems]] (1.201J)
 - [[esd-70j-engineering-economy-module-fall-2009|Engineering Economy Module]] (ESD.70J)
 - [[16-885j-aircraft-systems-engineering-fall-2004|Aircraft Systems Engineering]] (16.885J)

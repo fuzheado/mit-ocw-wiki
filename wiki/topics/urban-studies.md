@@ -12,6 +12,15 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-943j-urban-transportation-land-use-and-the-environment-spring-2002|Urban Transportation, Land Use, and the Environment]] — 11.943J, Spring 2002
+- [[11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998|Imaging the City: The Place of Media in City Design and Development]] — 11.947, Fall 1998
+- [[sts-036-technology-and-nature-in-american-history-spring-2008|Technology and Nature in American History]] — STS.036, Spring 2008
+- [[11-027-city-to-city-comparing-researching-and-writing-about-cities-new-orleans-spring-2011|City to City: Comparing, Researching and Writing about Cities: New Orleans]] — 11.027, Spring 2011
+- [[11-467j-property-rights-in-transition-spring-2005|Property Rights in Transition]] — 11.467J, Spring 2005
+- [[1-224j-carrier-systems-fall-2003|Carrier Systems]] — 1.224J, Fall 2003
+- [[11-332j-urban-design-fall-2003|Urban Design]] — 11.332J, Fall 2003
+- [[11-139-the-city-in-film-spring-2015|The City in Film]] — 11.139, Spring 2015
+- [[4-220-urban-housing-paris-london-new-york-fall-2004|Urban Housing: Paris, London, New York]] — 4.220, Fall 2004
 - [[11-201-gateway-planning-action-fall-2002|Gateway: Planning Action]] — 11.201, Fall 2002
 - [[11-483-housing-and-land-use-in-rapidly-urbanizing-regions-fall-2011|Housing and Land Use in Rapidly Urbanizing Regions]] — 11.483, Fall 2011
 - [[11-501-introduction-to-technology-and-cities-fall-2002|Introduction to Technology and Cities]] — 11.501, Fall 2002

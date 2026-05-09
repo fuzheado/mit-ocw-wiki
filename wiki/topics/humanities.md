@@ -20,6 +20,27 @@ courses_count: 0
 
 ## Courses
 
+- [[21g-109-chinese-iii-streamlined-fall-2005|Chinese III (Streamlined)]] — 21G.109, Fall 2005
+- [[21l-476-romantic-poetry-spring-2005|Romantic Poetry]] — 21L.476, Spring 2005
+- [[21l-715-media-in-cultural-context-fall-2015|Media in Cultural Context]] — 21L.715, Fall 2015
+- [[21w-775-writing-about-nature-and-environmental-issues-spring-2017|Writing about Nature and Environmental Issues]] — 21W.775, Spring 2017
+- [[24-211-theory-of-knowledge-spring-2014|Theory of Knowledge]] — 24.211, Spring 2014
+- [[4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014|History of Urban Form: Locating Capitalism: Producing Early Modern Cities and Objects]] — 4.663, Spring 2014
+- [[wgs-181-queer-cinema-and-visual-culture-fall-2017|Queer Cinema and Visual Culture]] — WGS.181, Fall 2017
+- [[21g-311-introduction-to-french-culture-spring-2014|Introduction to French Culture]] — 21G.311, Spring 2014
+- [[21g-108-chinese-ii-streamlined-spring-2015|Chinese II (Streamlined)]] — 21G.108, Spring 2015
+- [[21g-325j-new-culture-of-gender-queer-france-fall-2011|New Culture of Gender: Queer France]] — 21G.325J, Fall 2011
+- [[sts-036-technology-and-nature-in-american-history-spring-2008|Technology and Nature in American History]] — STS.036, Spring 2008
+- [[21g-022j-international-womens-voices-spring-2004|International Women's Voices]] — 21G.022J, Spring 2004
+- [[21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015|Writing and Rhetoric: Rhetoric and Contemporary Issues]] — 21W.011, Fall 2015
+- [[11-467j-property-rights-in-transition-spring-2005|Property Rights in Transition]] — 11.467J, Spring 2005
+- [[hst-935-narrative-ethics-literary-texts-and-moral-issues-in-medicine-january-iap-2007|Narrative Ethics: Literary Texts and Moral Issues in Medicine]] — HST.935, January IAP 2007
+- [[21h-153j-race-and-gender-in-asian-america-spring-2006|Race and Gender in Asian America]] — 21H.153J, Spring 2006
+- [[24-222-decisions-games-and-rational-choice-spring-2008|Decisions, Games, and Rational Choice]] — 24.222, Spring 2008
+- [[24-s96-linguistics-and-social-justice-language-education-and-human-rights-fall-2021|Linguistics and Social Justice: Language, Education, and Human Rights]] — 24.S96, Fall 2021
+- [[21h-319-race-crime-and-citizenship-in-american-law-fall-2014|Race, Crime, and Citizenship in American Law]] — 21H.319, Fall 2014
+- [[21g-802-portuguese-ii-spring-2012|Portuguese II]] — 21G.802, Spring 2012
+- [[24-04j-justice-spring-2012|Justice]] — 24.04J, Spring 2012
 - [[sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007|American Science: Ethical Conflicts and Political Choices]] — STS.011, Fall 2007
 - [[21l-003-2-reading-fiction-spring-2007|Reading Fiction]] — 21L.003-2, Spring 2007
 - [[21l-501-the-american-novel-stranger-and-stranger-spring-2013|The American Novel: Stranger and Stranger]] — 21L.501, Spring 2013

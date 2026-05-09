@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-034-artificial-intelligence-fall-2010|Artificial Intelligence]]
 - [[6-803-the-human-intelligence-enterprise-spring-2019|The Human Intelligence Enterprise]]

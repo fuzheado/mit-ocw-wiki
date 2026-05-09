@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[3-20-materials-at-equilibrium-sma-5111-fall-2003|Materials at Equilibrium (SMA 5111)]] — 3.20, Fall 2003
+- [[6-780-semiconductor-manufacturing-spring-2003|Semiconductor Manufacturing]] — 6.780, Spring 2003
 - [[3-22-mechanical-behavior-of-materials-spring-2008|Mechanical Behavior of Materials]] — 3.22, Spring 2008
 - [[10-626-electrochemical-energy-systems-spring-2014|Electrochemical Energy Systems]] — 10.626, Spring 2014
 - [[3-a27-case-studies-in-forensic-metallurgy-fall-2007|Case Studies in Forensic Metallurgy]] — 3.A27, Fall 2007

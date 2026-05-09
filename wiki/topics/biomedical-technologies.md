@@ -12,6 +12,8 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[9-40-introduction-to-neural-computation-spring-2018|Introduction to Neural Computation]] — 9.40, Spring 2018
+- [[9-05-neural-basis-of-movement-spring-2003|Neural Basis of Movement]] — 9.05, Spring 2003
 - [[hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005|Brain Mechanisms for Hearing and Speech]] — HST.722J, Fall 2005
 - [[9-123-neurotechnology-in-action-fall-2014|Neurotechnology in Action]] — 9.123, Fall 2014
 - [[22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005|Noninvasive Imaging in Biology and Medicine]] — 22.56J, Fall 2005

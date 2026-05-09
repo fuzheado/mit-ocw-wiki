@@ -12,6 +12,11 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-211-theory-of-knowledge-spring-2014|Theory of Knowledge]] — 24.211, Spring 2014
+- [[11-467j-property-rights-in-transition-spring-2005|Property Rights in Transition]] — 11.467J, Spring 2005
+- [[hst-935-narrative-ethics-literary-texts-and-moral-issues-in-medicine-january-iap-2007|Narrative Ethics: Literary Texts and Moral Issues in Medicine]] — HST.935, January IAP 2007
+- [[24-222-decisions-games-and-rational-choice-spring-2008|Decisions, Games, and Rational Choice]] — 24.222, Spring 2008
+- [[24-04j-justice-spring-2012|Justice]] — 24.04J, Spring 2012
 - [[sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007|American Science: Ethical Conflicts and Political Choices]] — STS.011, Fall 2007
 - [[11-947-urbanization-and-development-spring-2009|Urbanization and Development]] — 11.947, Spring 2009
 - [[24-03-good-food-ethics-and-politics-of-food-spring-2017|Good Food: Ethics and Politics of Food]] — 24.03, Spring 2017

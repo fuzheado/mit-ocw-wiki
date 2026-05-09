@@ -12,6 +12,9 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[9-22j-a-clinical-approach-to-the-human-brain-fall-2006|A Clinical Approach to the Human Brain]] — 9.22J, Fall 2006
+- [[9-458-parkinsons-disease-workshop-summer-2006|Parkinson's Disease Workshop]] — 9.458, Summer 2006
+- [[9-05-neural-basis-of-movement-spring-2003|Neural Basis of Movement]] — 9.05, Spring 2003
 - [[hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005|Brain Mechanisms for Hearing and Speech]] — HST.722J, Fall 2005
 - [[6-021j-quantitative-physiology-cells-and-tissues-fall-2004|Quantitative Physiology: Cells and Tissues]] — 6.021J, Fall 2004
 - [[9-16-cellular-neurophysiology-spring-2002|Cellular Neurophysiology]] — 9.16, Spring 2002

@@ -12,6 +12,8 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[4-411-building-technology-laboratory-spring-2004|Building Technology Laboratory]] — 4.411, Spring 2004
+- [[esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007|Frameworks and Models in Engineering Systems / Engineering System Design]] — ESD.04J, Spring 2007
 - [[12-340-global-warming-science-spring-2012|Global Warming Science]] — 12.340, Spring 2012
 - [[2-627-fundamentals-of-photovoltaics-fall-2013|Fundamentals of Photovoltaics]] — 2.627, Fall 2013
 - [[6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011|Electromagnetic Energy: From Motors to Lasers]] — 6.007, Spring 2011

@@ -12,6 +12,16 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[16-89j-space-systems-engineering-spring-2007|Space Systems Engineering]] — 16.89J, Spring 2007
+- [[esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007|Frameworks and Models in Engineering Systems / Engineering System Design]] — ESD.04J, Spring 2007
+- [[2-830j-control-of-manufacturing-processes-sma-6303-spring-2008|Control of Manufacturing Processes (SMA 6303)]] — 2.830J, Spring 2008
+- [[2-18-biomolecular-feedback-systems-spring-2015|Biomolecular Feedback Systems]] — 2.18, Spring 2015
+- [[6-243j-dynamics-of-nonlinear-systems-fall-2003|Dynamics of Nonlinear Systems]] — 6.243J, Fall 2003
+- [[ids-410j-modeling-and-assessment-for-policy-spring-2013|Modeling and Assessment for Policy]] — IDS.410J, Spring 2013
+- [[15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003|System Optimization and Analysis for Manufacturing]] — 15.066J, Summer 2003
+- [[6-881-representation-and-modeling-for-image-analysis-spring-2005|Representation and Modeling for Image Analysis]] — 6.881, Spring 2005
+- [[6-780-semiconductor-manufacturing-spring-2003|Semiconductor Manufacturing]] — 6.780, Spring 2003
+- [[18-085-computational-science-and-engineering-i-fall-2008|Computational Science and Engineering I]] — 18.085, Fall 2008
 - [[1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012|Introduction to Computers and Engineering Problem Solving]] — 1.00, Spring 2012
 - [[res-6-004-principles-of-computer-system-design-an-introduction-spring-2009|Principles of Computer System Design: An Introduction]] — RES.6-033, Spring 2009
 - [[esd-70j-engineering-economy-module-fall-2009|Engineering Economy Module]] — ESD.70J, Fall 2009

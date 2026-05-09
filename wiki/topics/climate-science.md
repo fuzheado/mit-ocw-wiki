@@ -12,6 +12,8 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[11-943j-urban-transportation-land-use-and-the-environment-spring-2002|Urban Transportation, Land Use, and the Environment]] — 11.943J, Spring 2002
+- [[ids-410j-modeling-and-assessment-for-policy-spring-2013|Modeling and Assessment for Policy]] — IDS.410J, Spring 2013
 - [[12-811-tropical-meteorology-spring-2011|Tropical Meteorology]] — 12.811, Spring 2011
 - [[res-env-006-teaching-with-sustainability-january-iap-2022|Teaching with Sustainability]] — RES.ENV-006, January IAP 2022
 - [[ec-s06-prototypes-to-products-fall-2005|Prototypes to Products]] — EC.S06, Fall 2005

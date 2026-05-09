@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-220-global-strategy-and-organization-spring-2008|Global Strategy and Organization]] — 15.220, Spring 2008
+- [[15-328-team-project-fall-2003|Team Project]] — 15.328, Fall 2003
+- [[15-s50-poker-theory-and-analytics-january-iap-2015|Poker Theory and Analytics]] — 15.S50, January IAP 2015
 - [[15-062-data-mining-spring-2003|Data Mining]] — 15.062, Spring 2003
 - [[15-063-communicating-with-data-summer-2003|Communicating With Data]] — 15.063, Summer 2003
 - [[res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016|Mission & Metrics: Finance Training for Federal Credit Program Professionals]] — RES.15-002, Summer 2016

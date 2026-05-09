@@ -12,6 +12,8 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[sts-010-neuroscience-and-society-spring-2010|Neuroscience and Society]] (STS.010)
+- [[sts-036-technology-and-nature-in-american-history-spring-2008|Technology and Nature in American History]] (STS.036)
 - [[sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007|American Science: Ethical Conflicts and Political Choices]] (STS.011)
 - [[sts-035-the-history-of-computing-spring-2004|The History of Computing]] (STS.035)
 - [[21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012|DV Lab: Documenting Science Through Video and New Media]] (21A.550J)

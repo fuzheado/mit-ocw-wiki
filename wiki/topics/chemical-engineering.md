@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[10-37-chemical-and-biological-reaction-engineering-spring-2007|Chemical and Biological Reaction Engineering]] — 10.37, Spring 2007
+- [[2-830j-control-of-manufacturing-processes-sma-6303-spring-2008|Control of Manufacturing Processes (SMA 6303)]] — 2.830J, Spring 2008
+- [[6-780-semiconductor-manufacturing-spring-2003|Semiconductor Manufacturing]] — 6.780, Spring 2003
+- [[1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004|Chemicals in the Environment: Fate and Transport]] — 1.725J, Fall 2004
 - [[10-626-electrochemical-energy-systems-spring-2014|Electrochemical Energy Systems]] — 10.626, Spring 2014
 - [[22-103-microscopic-theory-of-transport-fall-2003|Microscopic Theory of Transport]] — 22.103, Fall 2003
 - [[hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005|Tumor Pathophysiology and Transport Phenomena]] — HST.525J, Fall 2005

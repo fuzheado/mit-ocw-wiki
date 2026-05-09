@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[8-06-quantum-physics-iii-spring-2016|Quantum Physics III]]
 - [[8-371x-quantum-information-science-ii-spring-2018|Quantum Information Science II]]

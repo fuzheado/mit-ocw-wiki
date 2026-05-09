@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21g-311-introduction-to-french-culture-spring-2014|Introduction to French Culture]] — 21G.311, Spring 2014
+- [[21g-325j-new-culture-of-gender-queer-france-fall-2011|New Culture of Gender: Queer France]] — 21G.325J, Fall 2011
+- [[21a-348-photography-and-truth-spring-2008|Photography and Truth]] — 21A.348, Spring 2008
+- [[21h-153j-race-and-gender-in-asian-america-spring-2006|Race and Gender in Asian America]] — 21H.153J, Spring 2006
+- [[24-s96-linguistics-and-social-justice-language-education-and-human-rights-fall-2021|Linguistics and Social Justice: Language, Education, and Human Rights]] — 24.S96, Fall 2021
 - [[17-55j-introduction-to-latin-american-studies-fall-2006|Introduction to Latin American Studies]] — 17.55J, Fall 2006
 - [[21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012|DV Lab: Documenting Science Through Video and New Media]] — 21A.550J, Fall 2012
 - [[3-986-the-human-past-introduction-to-archaeology-fall-2006|The Human Past: Introduction to Archaeology]] — 3.986, Fall 2006

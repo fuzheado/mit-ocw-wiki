@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[wgs-181-queer-cinema-and-visual-culture-fall-2017|Queer Cinema and Visual Culture]] — WGS.181, Fall 2017
+- [[21g-325j-new-culture-of-gender-queer-france-fall-2011|New Culture of Gender: Queer France]] — 21G.325J, Fall 2011
+- [[9-75j-psychology-of-gender-spring-2003|Psychology of Gender]] — 9.75J, Spring 2003
+- [[21h-153j-race-and-gender-in-asian-america-spring-2006|Race and Gender in Asian America]] — 21H.153J, Spring 2006
+- [[wgs-s10-gender-power-leadership-and-the-workplace-spring-2014|Gender, Power, Leadership, and the Workplace]] — WGS.S10, Spring 2014
 - [[21h-381j-women-and-war-in-the-20th-century-fall-2015|Women and War in the 20th Century]] — 21H.381J, Fall 2015
 - [[wgs-s10-reproductive-politics-in-the-united-states-spring-2013|Reproductive Politics in the United States]] — WGS.S10, Spring 2013
 - [[es-260-womens-novels-a-weekly-book-club-spring-2006|Women's Novels: A Weekly Book Club]] — ES.260, Spring 2006

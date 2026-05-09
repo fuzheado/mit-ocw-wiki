@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-918-new-global-agenda-exploring-21st-century-challenges-through-innovations-in-information-technologies-january-iap-2006|New Global Agenda: Exploring 21st Century Challenges through Innovations in Information Technologies]] — 17.918, January IAP 2006
+- [[21h-319-race-crime-and-citizenship-in-american-law-fall-2014|Race, Crime, and Citizenship in American Law]] — 21H.319, Fall 2014
+- [[17-148-political-economy-of-globalization-spring-2006|Political Economy of Globalization]] — 17.148, Spring 2006
+- [[17-261-congress-and-the-american-political-system-ii-fall-2005|Congress and the American Political System II]] — 17.261, Fall 2005
+- [[24-04j-justice-spring-2012|Justice]] — 24.04J, Spring 2012
+- [[wgs-s10-gender-power-leadership-and-the-workplace-spring-2014|Gender, Power, Leadership, and the Workplace]] — WGS.S10, Spring 2014
 - [[sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007|American Science: Ethical Conflicts and Political Choices]] — STS.011, Fall 2007
 - [[17-269-race-ethnicity-and-american-politics-spring-2017|Race, Ethnicity, and American Politics]] — 17.269, Spring 2017
 - [[11-483-housing-and-land-use-in-rapidly-urbanizing-regions-fall-2011|Housing and Land Use in Rapidly Urbanizing Regions]] — 11.483, Fall 2011

@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[12-000-solving-complex-problems-fall-2003|Solving Complex Problems]]
 - [[12-103-strange-bedfellows-science-and-environmental-policy-fall-2005|Strange Bedfellows: Science and Environmental Policy]]

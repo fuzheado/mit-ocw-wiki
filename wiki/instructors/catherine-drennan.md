@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[5-111-principles-of-chemical-science-fall-2008|Principles of Chemical Science]]
 - [[res-7-009-7-int-inclusive-teaching-module-fall-2022|7.InT: Inclusive Teaching Module]]
 - [[5-111sc-principles-of-chemical-science-fall-2014|Principles of Chemical Science]]

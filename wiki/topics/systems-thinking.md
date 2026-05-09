@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007|Frameworks and Models in Engineering Systems / Engineering System Design]] — ESD.04J, Spring 2007
+- [[2-18-biomolecular-feedback-systems-spring-2015|Biomolecular Feedback Systems]] — 2.18, Spring 2015
+- [[15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003|System Optimization and Analysis for Manufacturing]] — 15.066J, Summer 2003
 - [[res-6-004-principles-of-computer-system-design-an-introduction-spring-2009|Principles of Computer System Design: An Introduction]] — RES.6-033, Spring 2009
 - [[2-00b-toy-product-design-spring-2008|Toy Product Design]] — 2.00B, Spring 2008
 - [[ec-s06-prototypes-to-products-fall-2005|Prototypes to Products]] — EC.S06, Fall 2005

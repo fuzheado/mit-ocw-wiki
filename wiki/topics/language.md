@@ -12,6 +12,11 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-109-chinese-iii-streamlined-fall-2005|Chinese III (Streamlined)]] — 21G.109, Fall 2005
+- [[21g-311-introduction-to-french-culture-spring-2014|Introduction to French Culture]] — 21G.311, Spring 2014
+- [[21g-108-chinese-ii-streamlined-spring-2015|Chinese II (Streamlined)]] — 21G.108, Spring 2015
+- [[21g-325j-new-culture-of-gender-queer-france-fall-2011|New Culture of Gender: Queer France]] — 21G.325J, Fall 2011
+- [[21g-802-portuguese-ii-spring-2012|Portuguese II]] — 21G.802, Spring 2012
 - [[21g-105-chinese-v-regular-chinese-cultures-society-fall-2003|Chinese V (Regular): Chinese Cultures & Society]] — 21G.105, Fall 2003
 - [[21g-068j-the-invention-of-french-theory-a-history-of-transatlantic-intellectual-life-since-1945-spring-2012|The Invention of French Theory: A History of Transatlantic Intellectual Life since 1945]] — 21G.068J, Spring 2012
 - [[21g-052-french-film-classics-spring-2015|French Film Classics]] — 21G.052, Spring 2015
