@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011|Introduction to Electrical Engineering and Computer Science I]] — 6.01SC, Spring 2011
+- [[res-10-002-ethics-of-ai-bias-spring-2023|Ethics of AI Bias]] — RES.10-002, Spring 2023
 - [[6-270-autonomous-robot-design-competition-january-iap-2005|Autonomous Robot Design Competition]] — 6.270, January IAP 2005
 - [[9-913-pattern-recognition-for-machine-vision-fall-2004|Pattern Recognition for Machine Vision]] — 9.913, Fall 2004
 - [[res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026|Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work]] — RES.10-001, Spring 2026

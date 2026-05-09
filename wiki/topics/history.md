@@ -12,6 +12,16 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[wgs-s10-history-of-women-in-science-and-engineering-fall-2017|History of Women in Science and Engineering]] — WGS.S10, Fall 2017
+- [[21l-460-medieval-literature-legends-of-arthur-fall-2013|Medieval Literature: Legends of Arthur]] — 21L.460, Fall 2013
+- [[res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021|Visualizing the Birth of Modern Tokyo]] — RES.21H-001, Spring 2021
+- [[21h-968j-nature-environment-and-empire-spring-2010|Nature, Environment, and Empire]] — 21H.968J, Spring 2010
+- [[21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003|From the Silk Road to the Great Game: China, Russia, and Central Eurasia]] — 21H.580, Fall 2003
+- [[8-s271-nuclear-weapons-history-and-future-prospects-spring-2022|Nuclear Weapons – History and Future Prospects]] — 8.S271, Spring 2022
+- [[21a-453-anthropology-of-the-middle-east-spring-2004|Anthropology of the Middle East]] — 21A.453, Spring 2004
+- [[21h-154-inventing-the-samurai-fall-2022|Inventing the Samurai]] — 21H.154, Fall 2022
+- [[11-013j-american-urban-history-i-spring-2010|American Urban History I]] — 11.013J, Spring 2010
+- [[mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015|Indistinguishable From... Magic as Interface, Technology, and Tradition]] — MAS.S66, Spring 2015
 - [[21l-448j-darwin-and-design-fall-2003|Darwin and Design]] — 21L.448J, Fall 2003
 - [[21l-715-media-in-cultural-context-popular-readerships-fall-2007|Media in Cultural Context: Popular Readerships]] — 21L.715, Fall 2007
 - [[21h-181-libertarianism-in-history-spring-2014|Libertarianism in History]] — 21H.181, Spring 2014

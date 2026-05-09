@@ -12,6 +12,9 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[6-685-electric-machines-fall-2013|Electric Machines]] — 6.685, Fall 2013
+- [[8-s271-nuclear-weapons-history-and-future-prospects-spring-2022|Nuclear Weapons – History and Future Prospects]] — 8.S271, Spring 2022
+- [[4-401-environmental-technologies-in-buildings-fall-2018|Environmental Technologies in Buildings]] — 4.401, Fall 2018
 - [[18-s191-introduction-to-computational-thinking-fall-2020|Introduction to Computational Thinking]] — 18.S191, Fall 2020
 - [[3-53-electrochemical-processing-of-materials-spring-2001|Electrochemical Processing of Materials]] — 3.53, Spring 2001
 - [[res-env-004-mit-climate-portal-fall-2020|MIT Climate Portal]] — RES.ENV-004, Fall 2020

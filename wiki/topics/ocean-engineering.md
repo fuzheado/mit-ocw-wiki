@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-27-turbulent-flow-and-transport-spring-2002|Turbulent Flow and Transport]] — 2.27, Spring 2002
 - [[2-20-marine-hydrodynamics-13-021-spring-2005|Marine Hydrodynamics (13.021)]] — 2.20, Spring 2005
 - [[sts-467-research-seminar-in-deep-sea-archaeology-spring-2002|Research Seminar in Deep Sea Archaeology]] — STS.467, Spring 2002
 - [[12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004|Wave Motions in the Ocean and Atmosphere]] — 12.802, Spring 2004

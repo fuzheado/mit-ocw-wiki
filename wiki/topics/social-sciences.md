@@ -25,6 +25,37 @@ courses_count: 0
 
 ## Courses
 
+- [[17-199j-working-in-a-global-economy-fall-2005|Working in a Global Economy]] — 17.199J, Fall 2005
+- [[3-080-economic-environmental-issues-in-materials-selection-fall-2005|Economic & Environmental Issues in Materials Selection]] — 3.080, Fall 2005
+- [[11-423-information-and-communication-technologies-in-community-development-spring-2004|Information and Communication Technologies in Community Development]] — 11.423, Spring 2004
+- [[6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005|Ethics and the Law on the Electronic Frontier]] — 6.805, Fall 2005
+- [[14-384-time-series-analysis-fall-2013|Time Series Analysis]] — 14.384, Fall 2013
+- [[11-952-gaoming-studio-china-spring-2005|Gaoming Studio - China]] — 11.952, Spring 2005
+- [[11-941-disaster-vulnerability-and-resilience-spring-2005|Disaster, Vulnerability and Resilience]] — 11.941, Spring 2005
+- [[wgs-s10-history-of-women-in-science-and-engineering-fall-2017|History of Women in Science and Engineering]] — WGS.S10, Fall 2017
+- [[11-433j-real-estate-economics-fall-2008|Real Estate Economics]] — 11.433J, Fall 2008
+- [[cms-362-civic-media-codesign-studio-spring-2016|Civic Media Codesign Studio]] — CMS.362, Spring 2016
+- [[17-486-japan-and-east-asian-security-fall-2016|Japan and East Asian Security]] — 17.486, Fall 2016
+- [[11-487-urban-public-finance-in-developing-countries-fall-2004|Urban Public Finance in Developing Countries]] — 11.487, Fall 2004
+- [[11-011-the-art-and-science-of-negotiation-spring-2006|The Art and Science of Negotiation]] — 11.011, Spring 2006
+- [[11-329-social-theory-and-the-city-fall-2005|Social Theory and the City]] — 11.329, Fall 2005
+- [[15-535-business-analysis-using-financial-statements-spring-2003|Business Analysis Using Financial Statements]] — 15.535, Spring 2003
+- [[21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022|Science Writing and New Media: Writing and the Environment]] — 21W.036, Spring 2022
+- [[21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003|From the Silk Road to the Great Game: China, Russia, and Central Eurasia]] — 21H.580, Fall 2003
+- [[21a-270-anthropology-through-speculative-fiction-fall-2009|Anthropology Through Speculative Fiction]] — 21A.270, Fall 2009
+- [[8-s271-nuclear-weapons-history-and-future-prospects-spring-2022|Nuclear Weapons – History and Future Prospects]] — 8.S271, Spring 2022
+- [[21a-453-anthropology-of-the-middle-east-spring-2004|Anthropology of the Middle East]] — 21A.453, Spring 2004
+- [[2-997-decision-making-in-large-scale-systems-spring-2004|Decision Making in Large Scale Systems]] — 2.997, Spring 2004
+- [[15-280-communication-for-managers-fall-2016|Communication for Managers]] — 15.280, Fall 2016
+- [[11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007|Regional Socioeconomic Impact Analyses and Modeling]] — 11.482J, Fall 2007
+- [[14-16-strategy-and-information-spring-2016|Strategy and Information]] — 14.16, Spring 2016
+- [[11-013j-american-urban-history-i-spring-2010|American Urban History I]] — 11.013J, Spring 2010
+- [[11-122-environment-and-society-fall-2002|Environment and Society]] — 11.122, Fall 2002
+- [[15-316-building-and-leading-effective-teams-summer-2005|Building and Leading Effective Teams]] — 15.316, Summer 2005
+- [[4-s26-territory-spatial-reification-of-power-spring-2016|Territory: Spatial Reification of Power]] — 4.S26, Spring 2016
+- [[14-662-labor-economics-ii-spring-2015|Labor Economics II]] — 14.662, Spring 2015
+- [[21l-512-american-authors-american-women-authors-spring-2003|American Authors: American Women Authors]] — 21L.512, Spring 2003
+- [[15-281-advanced-communication-for-leaders-spring-2016|Advanced Communication for Leaders]] — 15.281, Spring 2016
 - [[res-stp-001-science-policy-bootcamp-january-iap-2011|Science Policy Bootcamp]] — RES.STP-001, January IAP 2011
 - [[21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008|Traditions in American Concert Dance: Gender and Autobiography]] — 21M.670, Spring 2008
 - [[21w-747-classical-rhetoric-and-modern-political-discourse-fall-2009|Classical Rhetoric and Modern Political Discourse]] — 21W.747, Fall 2009

@@ -12,6 +12,8 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010|Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies]] — HST.934J, Spring 2010
+- [[es-s71-increasing-your-physical-intelligence-enhancing-your-social-smarts-spring-2014|Increasing Your Physical Intelligence, Enhancing Your Social Smarts]] — ES.S71, Spring 2014
 - [[pe-920-pe-for-me-spring-2005|PE for ME]] — PE.920, Spring 2005
 - [[11-003j-methods-of-policy-analysis-spring-2016|Methods of Policy Analysis]] — 11.003J, Spring 2016
 - [[wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014|Gender, Health and Marginalization Through a Critical Feminist Lens]] — WGS.645, Fall 2014

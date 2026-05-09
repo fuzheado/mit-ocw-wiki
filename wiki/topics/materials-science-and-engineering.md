@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[3-080-economic-environmental-issues-in-materials-selection-fall-2005|Economic & Environmental Issues in Materials Selection]] — 3.080, Fall 2005
+- [[res-3-004-visualizing-materials-science-fall-2017|Visualizing Materials Science]] — RES.3-004, Fall 2017
+- [[3-020-thermodynamics-of-materials-spring-2021|Thermodynamics of Materials]] — 3.020, Spring 2021
 - [[3-35-fracture-and-fatigue-fall-2003|Fracture and Fatigue]] — 3.35, Fall 2003
 - [[3-034-organic-biomaterials-chemistry-fall-2005|Organic & Biomaterials Chemistry]] — 3.034, Fall 2005
 - [[3-45-magnetic-materials-spring-2004|Magnetic Materials]] — 3.45, Spring 2004

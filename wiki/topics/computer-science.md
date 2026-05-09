@@ -12,6 +12,17 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011|Introduction to Electrical Engineering and Computer Science I]] — 6.01SC, Spring 2011
+- [[6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005|Ethics and the Law on the Electronic Frontier]] — 6.805, Fall 2005
+- [[res-10-002-ethics-of-ai-bias-spring-2023|Ethics of AI Bias]] — RES.10-002, Spring 2023
+- [[18-408-topics-in-theoretical-computer-science-probabilistically-checkable-proofs-fall-2022|Topics in Theoretical Computer Science: Probabilistically Checkable Proofs]] — 18.408, Fall 2022
+- [[6-252j-nonlinear-programming-spring-2003|Nonlinear Programming]] — 6.252J, Spring 2003
+- [[6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016|Introduction to Computer Science and Programming in Python]] — 6.0001, Fall 2016
+- [[20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006|Foundations of Algorithms and Computational Techniques in Systems Biology]] — 20.482J, Spring 2006
+- [[2-997-decision-making-in-large-scale-systems-spring-2004|Decision Making in Large Scale Systems]] — 2.997, Spring 2004
+- [[16-622-experimental-projects-ii-fall-2003|Experimental Projects II]] — 16.622, Fall 2003
+- [[6-006-introduction-to-algorithms-spring-2008|Introduction to Algorithms]] — 6.006, Spring 2008
+- [[6-092-introduction-to-programming-in-java-january-iap-2010|Introduction to Programming in Java]] — 6.092, January IAP 2010
 - [[18-433-combinatorial-optimization-fall-2003|Combinatorial Optimization]] — 18.433, Fall 2003
 - [[6-844-computability-theory-of-and-with-scheme-spring-2003|Computability Theory of and with Scheme]] — 6.844, Spring 2003
 - [[6-s096-introduction-to-c-and-c-january-iap-2013|Introduction to C and C++]] — 6.S096, January IAP 2013

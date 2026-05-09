@@ -12,6 +12,10 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[cms-362-civic-media-codesign-studio-spring-2016|Civic Media Codesign Studio]] (CMS.362)
+- [[21w-735-writing-and-reading-the-essay-fall-2004|Writing and Reading the Essay]] (21W.735)
+- [[21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022|Science Writing and New Media: Writing and the Environment]] (21W.036)
+- [[cms-300-introduction-to-videogame-studies-fall-2011|Introduction to Videogame Studies]] (CMS.300)
 - [[21w-747-classical-rhetoric-and-modern-political-discourse-fall-2009|Classical Rhetoric and Modern Political Discourse]] (21W.747)
 - [[21w-777-the-science-essay-spring-2009|The Science Essay]] (21W.777)
 - [[21w-780-communicating-in-technical-organizations-fall-2001|Communicating in Technical Organizations]] (21W.780)

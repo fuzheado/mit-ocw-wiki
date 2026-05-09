@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21a-453-anthropology-of-the-middle-east-spring-2004|Anthropology of the Middle East]] — 21A.453, Spring 2004
+- [[mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015|Indistinguishable From... Magic as Interface, Technology, and Tradition]] — MAS.S66, Spring 2015
 - [[21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008|Traditions in American Concert Dance: Gender and Autobiography]] — 21M.670, Spring 2008
 - [[21m-873-theater-arts-topics-suburbia-january-iap-2008|Theater Arts Topics - Suburbia]] — 21M.873, January IAP 2008
 - [[21m-734-design-for-the-theater-scenery-spring-2005|Design for the Theater: Scenery]] — 21M.734, Spring 2005

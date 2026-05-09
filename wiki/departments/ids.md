@@ -12,6 +12,7 @@ School: [[school-schwarzman-computing|MIT Schwarzman College of Computing]]
 
 ## Courses
 
+- [[16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006|Aerospace Biomedical and Life Support Engineering]] (16.423J)
 - [[16-63j-system-safety-spring-2016|System Safety]] (16.63J)
 - [[ids-333-risk-and-decision-analysis-fall-2021|IDS.333 Risk and Decision Analysis]] (IDS.333)
 - [[15-136j-principles-and-practice-of-drug-development-fall-2013|Principles and Practice of Drug Development]] (15.136J)

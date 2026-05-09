@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[11-952-gaoming-studio-china-spring-2005|Gaoming Studio - China]] — 11.952, Spring 2005
+- [[4-401-environmental-technologies-in-buildings-fall-2018|Environmental Technologies in Buildings]] — 4.401, Fall 2018
+- [[4-171-the-space-between-workshop-fall-2004|The Space Between Workshop]] — 4.171, Fall 2004
 - [[4-170-ecuador-workshop-fall-2006|Ecuador Workshop]] — 4.170, Fall 2006
 - [[11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001|Power of Place: Media Technology, Youth, and City Design and Development]] — 11.948, Spring 2001
 - [[11-945-springfield-studio-spring-2004|Springfield Studio]] — 11.945, Spring 2004

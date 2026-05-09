@@ -12,6 +12,12 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-279-management-communication-for-undergraduates-fall-2012|Management Communication for Undergraduates]] — 15.279, Fall 2012
+- [[15-483-consumer-finance-markets-product-design-and-fintech-spring-2018|Consumer Finance: Markets, Product Design, and FinTech]] — 15.483, Spring 2018
+- [[15-280-communication-for-managers-fall-2016|Communication for Managers]] — 15.280, Fall 2016
+- [[15-316-building-and-leading-effective-teams-summer-2005|Building and Leading Effective Teams]] — 15.316, Summer 2005
+- [[15-281-advanced-communication-for-leaders-spring-2016|Advanced Communication for Leaders]] — 15.281, Spring 2016
+- [[15-810-marketing-management-fall-2004|Marketing Management]] — 15.810, Fall 2004
 - [[15-978-leadership-tools-and-teams-a-product-development-lab-spring-2007|Leadership Tools and Teams: A Product Development Lab]] — 15.978, Spring 2007
 - [[15-902-strategic-management-i-fall-2006|Strategic Management I]] — 15.902, Fall 2006
 - [[15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018|New Executive Thinking Social-Impact Technology Projects]] — 15.960, Fall 2017

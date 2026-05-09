@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[17-199j-working-in-a-global-economy-fall-2005|Working in a Global Economy]]
 - [[17-196-globalization-fall-2005|Globalization]]
 - [[17-148-political-economy-of-globalization-spring-2006|Political Economy of Globalization]]
 - [[17-100j-political-economy-i-spring-2016|Political Economy I]]

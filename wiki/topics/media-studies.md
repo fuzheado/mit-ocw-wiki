@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016|Music and Technology: Recording Techniques and Audio Production]] — 21M.380, Fall 2016
+- [[cms-300-introduction-to-videogame-studies-fall-2011|Introduction to Videogame Studies]] — CMS.300, Fall 2011
+- [[4-343-photography-and-related-media-fall-2002|Photography and Related Media]] — 4.343, Fall 2002
 - [[21l-715-media-in-cultural-context-popular-readerships-fall-2007|Media in Cultural Context: Popular Readerships]] — 21L.715, Fall 2007
 - [[mas-961-seminar-on-deep-engagement-fall-2004|Seminar on Deep Engagement]] — MAS.961, Fall 2004
 - [[11-310j-media-technology-and-city-design-and-development-spring-2002|Media Technology and City Design and Development]] — 11.310J, Spring 2002

@@ -12,6 +12,9 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010|Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies]] (HST.934J)
+- [[6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005|Ethics and the Law on the Electronic Frontier]] (6.805)
+- [[21h-968j-nature-environment-and-empire-spring-2010|Nature, Environment, and Empire]] (21H.968J)
 - [[sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017|Innovation Systems for Science, Technology, Energy, Manufacturing, and Health]] (STS.081)
 - [[21a-859j-social-theory-and-analysis-spring-2021|Social Theory and Analysis]] (21A.859J)
 - [[sts-467-research-seminar-in-deep-sea-archaeology-spring-2002|Research Seminar in Deep Sea Archaeology]] (STS.467)

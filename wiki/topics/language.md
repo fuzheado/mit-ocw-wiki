@@ -12,6 +12,8 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-701-spanish-i-fall-2003|Spanish I]] — 21G.701, Fall 2003
+- [[21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007|Advanced Workshop in Writing for Social Sciences and Architecture (ELS)]] — 21G.228, Spring 2007
 - [[es-s41-speak-italian-with-your-mouth-full-spring-2012|Speak Italian With Your Mouth Full]] — ES.S41, Spring 2012
 - [[21l-640j-the-new-spain-1977-present-fall-2015|The New Spain:1977-Present]] — 21L.640J, Fall 2015
 - [[21g-730-hispanic-america-one-hundred-years-of-literature-and-film-spring-2014|Hispanic America: One Hundred Years of Literature and Film]] — 21G.730, Spring 2014

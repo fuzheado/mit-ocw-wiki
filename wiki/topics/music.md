@@ -12,6 +12,8 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016|Music and Technology: Recording Techniques and Audio Production]] — 21M.380, Fall 2016
+- [[21m-113-developing-musical-structures-fall-2002|Developing Musical Structures]] — 21M.113, Fall 2002
 - [[21m-295-american-popular-music-fall-2014|American Popular Music]] — 21M.295, Fall 2014
 - [[21m-065-introduction-to-musical-composition-spring-2014|Introduction to Musical Composition]] — 21M.065, Spring 2014
 - [[21m-350-musical-analysis-spring-2008|Musical Analysis]] — 21M.350, Spring 2008

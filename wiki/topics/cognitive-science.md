@@ -12,6 +12,7 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-520-statistical-learning-theory-and-applications-spring-2006|Statistical Learning Theory and Applications]] — 9.520, Spring 2006
 - [[21l-448j-darwin-and-design-fall-2003|Darwin and Design]] — 21L.448J, Fall 2003
 - [[9-13-the-human-brain-spring-2019|The Human Brain]] — 9.13, Spring 2019
 - [[9-916-a-probability-and-causality-in-human-cognition-spring-2003|Probability and Causality in Human Cognition]] — 9.916-A, Spring 2003

@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21h-154-inventing-the-samurai-fall-2022|Inventing the Samurai]]
 - [[21h-155-modern-japan-1868-to-present-spring-2017|Modern Japan: 1868 to Present]]

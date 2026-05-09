@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-423-information-and-communication-technologies-in-community-development-spring-2004|Information and Communication Technologies in Community Development]] — 11.423, Spring 2004
+- [[6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005|Ethics and the Law on the Electronic Frontier]] — 6.805, Fall 2005
+- [[cms-362-civic-media-codesign-studio-spring-2016|Civic Media Codesign Studio]] — CMS.362, Spring 2016
+- [[21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022|Science Writing and New Media: Writing and the Environment]] — 21W.036, Spring 2022
+- [[15-280-communication-for-managers-fall-2016|Communication for Managers]] — 15.280, Fall 2016
+- [[15-281-advanced-communication-for-leaders-spring-2016|Advanced Communication for Leaders]] — 15.281, Spring 2016
 - [[21w-747-classical-rhetoric-and-modern-political-discourse-fall-2009|Classical Rhetoric and Modern Political Discourse]] — 21W.747, Fall 2009
 - [[mas-961-seminar-on-deep-engagement-fall-2004|Seminar on Deep Engagement]] — MAS.961, Fall 2004
 - [[11-310j-media-technology-and-city-design-and-development-spring-2002|Media Technology and City Design and Development]] — 11.310J, Spring 2002

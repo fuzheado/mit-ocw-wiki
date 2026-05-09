@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[11-952-gaoming-studio-china-spring-2005|Gaoming Studio - China]] — 11.952, Spring 2005
+- [[1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004|Environmental Engineering Masters of Engineering Project]] — 1.782, Fall 2003
+- [[11-122-environment-and-society-fall-2002|Environment and Society]] — 11.122, Fall 2002
 - [[1-061-transport-processes-in-the-environment-fall-2008|Transport Processes in the Environment]] — 1.061, Fall 2008
 - [[12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004|Wave Motions in the Ocean and Atmosphere]] — 12.802, Spring 2004
 - [[11-366j-planning-for-sustainable-development-spring-2006|Planning for Sustainable Development]] — 11.366J, Spring 2006

@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[18-994-seminar-in-geometry-fall-2004|Seminar in Geometry]]
 - [[18-091-mathematical-exposition-spring-2005|Mathematical Exposition]]

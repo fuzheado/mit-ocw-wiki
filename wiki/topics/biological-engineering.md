@@ -12,6 +12,12 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010|Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies]] — HST.934J, Spring 2010
+- [[20-109-laboratory-fundamentals-in-biological-engineering-fall-2007|Laboratory Fundamentals in Biological Engineering]] — 20.109, Fall 2007
+- [[20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006|Foundations of Algorithms and Computational Techniques in Systems Biology]] — 20.482J, Spring 2006
+- [[16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006|Aerospace Biomedical and Life Support Engineering]] — 16.423J, Spring 2006
+- [[2-782j-design-of-medical-devices-and-implants-spring-2006|Design of Medical Devices and Implants]] — 2.782J, Spring 2006
+- [[12-517-dynamics-of-complex-systems-complexity-in-ecology-spring-2000|Dynamics of Complex Systems: Complexity in Ecology]] — 12.517, Spring 2000
 - [[hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007|Projects in Microscale Engineering for the Life Sciences]] — HST.410J, Spring 2007
 - [[hst-021-musculoskeletal-pathophysiology-january-iap-2006|Musculoskeletal Pathophysiology]] — HST.021, January IAP 2006
 - [[3-034-organic-biomaterials-chemistry-fall-2005|Organic & Biomaterials Chemistry]] — 3.034, Fall 2005

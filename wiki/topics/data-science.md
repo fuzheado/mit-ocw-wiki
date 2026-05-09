@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005|Ethics and the Law on the Electronic Frontier]] — 6.805, Fall 2005
+- [[16-622-experimental-projects-ii-fall-2003|Experimental Projects II]] — 16.622, Fall 2003
 - [[res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020|Mathematics of Big Data and Machine Learning]] — RES.LL-005, January IAP 2020
 - [[20-453j-biomedical-information-technology-fall-2008|Biomedical Information Technology]] — 20.453J, Fall 2008
 - [[ids-410j-modeling-and-assessment-for-policy-spring-2013|Modeling and Assessment for Policy]] — IDS.410J, Spring 2013

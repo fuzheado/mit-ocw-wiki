@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004|Environmental Engineering Masters of Engineering Project]]
 - [[ec-719-d-lab-water-climate-change-and-health-spring-2019|D-Lab: Water, Climate Change, and Health]]
 - [[1-782-environmental-engineering-masters-of-engineering-project-fall-2007-spring-2008|Environmental Engineering Masters of Engineering Project]]
 - [[ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007|D-Lab: Disseminating Innovations for the Common Good]]

@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[res-3-004-visualizing-materials-science-fall-2017|Visualizing Materials Science]]
 - [[3-016-mathematics-for-materials-scientists-and-engineers-fall-2005|Mathematics for Materials Scientists and Engineers]]
 - [[3-00-thermodynamics-of-materials-fall-2002|Thermodynamics of Materials]]

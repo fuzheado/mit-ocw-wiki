@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-952-gaoming-studio-china-spring-2005|Gaoming Studio - China]]
 - [[11-360-community-growth-and-land-use-planning-fall-2005|Community Growth and Land Use Planning]]
 - [[11-304j-site-and-infrastructure-systems-planning-spring-2009|Site and Infrastructure Systems Planning]]
 - [[11-360-community-growth-and-land-use-planning-fall-2006|Community Growth and Land Use Planning]]

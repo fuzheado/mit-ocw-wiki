@@ -12,6 +12,19 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-199j-working-in-a-global-economy-fall-2005|Working in a Global Economy]] — 17.199J, Fall 2005
+- [[3-080-economic-environmental-issues-in-materials-selection-fall-2005|Economic & Environmental Issues in Materials Selection]] — 3.080, Fall 2005
+- [[14-384-time-series-analysis-fall-2013|Time Series Analysis]] — 14.384, Fall 2013
+- [[11-952-gaoming-studio-china-spring-2005|Gaoming Studio - China]] — 11.952, Spring 2005
+- [[11-433j-real-estate-economics-fall-2008|Real Estate Economics]] — 11.433J, Fall 2008
+- [[cms-362-civic-media-codesign-studio-spring-2016|Civic Media Codesign Studio]] — CMS.362, Spring 2016
+- [[17-486-japan-and-east-asian-security-fall-2016|Japan and East Asian Security]] — 17.486, Fall 2016
+- [[11-487-urban-public-finance-in-developing-countries-fall-2004|Urban Public Finance in Developing Countries]] — 11.487, Fall 2004
+- [[15-535-business-analysis-using-financial-statements-spring-2003|Business Analysis Using Financial Statements]] — 15.535, Spring 2003
+- [[2-997-decision-making-in-large-scale-systems-spring-2004|Decision Making in Large Scale Systems]] — 2.997, Spring 2004
+- [[11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007|Regional Socioeconomic Impact Analyses and Modeling]] — 11.482J, Fall 2007
+- [[14-16-strategy-and-information-spring-2016|Strategy and Information]] — 14.16, Spring 2016
+- [[14-662-labor-economics-ii-spring-2015|Labor Economics II]] — 14.662, Spring 2015
 - [[11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004|Planning in Transition Economies for Growth and Equity]] — 11.946, Spring 2004
 - [[15-014-applied-macro-and-international-economics-ii-spring-2016|Applied Macro- and International Economics II]] — 15.014, Spring 2016
 - [[14-74-foundations-of-development-policy-spring-2009|Foundations of Development Policy]] — 14.74, Spring 2009

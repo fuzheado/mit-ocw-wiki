@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011|Introduction to Electrical Engineering and Computer Science I]] — 6.01SC, Spring 2011
+- [[6-092-introduction-to-programming-in-java-january-iap-2010|Introduction to Programming in Java]] — 6.092, January IAP 2010
 - [[6-s096-introduction-to-c-and-c-january-iap-2013|Introduction to C and C++]] — 6.S096, January IAP 2013
 - [[6-270-autonomous-robot-design-competition-january-iap-2005|Autonomous Robot Design Competition]] — 6.270, January IAP 2005
 - [[18-s191-introduction-to-computational-thinking-fall-2020|Introduction to Computational Thinking]] — 18.S191, Fall 2020

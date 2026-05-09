@@ -12,6 +12,11 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[18-408-topics-in-theoretical-computer-science-probabilistically-checkable-proofs-fall-2022|Topics in Theoretical Computer Science: Probabilistically Checkable Proofs]] — 18.408, Fall 2022
+- [[6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016|Introduction to Computer Science and Programming in Python]] — 6.0001, Fall 2016
+- [[20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006|Foundations of Algorithms and Computational Techniques in Systems Biology]] — 20.482J, Spring 2006
+- [[2-997-decision-making-in-large-scale-systems-spring-2004|Decision Making in Large Scale Systems]] — 2.997, Spring 2004
+- [[6-006-introduction-to-algorithms-spring-2008|Introduction to Algorithms]] — 6.006, Spring 2008
 - [[18-433-combinatorial-optimization-fall-2003|Combinatorial Optimization]] — 18.433, Fall 2003
 - [[18-s191-introduction-to-computational-thinking-fall-2020|Introduction to Computational Thinking]] — 18.S191, Fall 2020
 - [[18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009|Topics in Theoretical Computer Science: An Algorithmist's Toolkit]] — 18.409, Fall 2009

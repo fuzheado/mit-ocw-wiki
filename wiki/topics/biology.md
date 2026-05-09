@@ -12,6 +12,13 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[20-109-laboratory-fundamentals-in-biological-engineering-fall-2007|Laboratory Fundamentals in Biological Engineering]] — 20.109, Fall 2007
+- [[21h-968j-nature-environment-and-empire-spring-2010|Nature, Environment, and Empire]] — 21H.968J, Spring 2010
+- [[20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006|Foundations of Algorithms and Computational Techniques in Systems Biology]] — 20.482J, Spring 2006
+- [[12-517-dynamics-of-complex-systems-complexity-in-ecology-spring-2000|Dynamics of Complex Systems: Complexity in Ecology]] — 12.517, Spring 2000
+- [[9-520-statistical-learning-theory-and-applications-spring-2006|Statistical Learning Theory and Applications]] — 9.520, Spring 2006
+- [[mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015|Indistinguishable From... Magic as Interface, Technology, and Tradition]] — MAS.S66, Spring 2015
+- [[7-02ci-experimental-biology-communications-intensive-spring-2005|Experimental Biology - Communications Intensive]] — 7.02CI, Spring 2005
 - [[7-13-experimental-microbial-genetics-fall-2008|Experimental Microbial Genetics]] — 7.13, Fall 2008
 - [[9-13-the-human-brain-spring-2019|The Human Brain]] — 9.13, Spring 2019
 - [[res-7-008-7-28x-molecular-biology|7.28x Molecular Biology]] — RES.7-008, Spring 2023

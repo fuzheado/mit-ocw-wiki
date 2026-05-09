@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[16-00-introduction-to-aerospace-engineering-and-design-spring-2003|Introduction to Aerospace Engineering and Design]] — 16.00, Spring 2003
+- [[16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006|Aerospace Biomedical and Life Support Engineering]] — 16.423J, Spring 2006
+- [[16-622-experimental-projects-ii-fall-2003|Experimental Projects II]] — 16.622, Fall 2003
+- [[16-20-structural-mechanics-fall-2002|Structural Mechanics]] — 16.20, Fall 2002
 - [[16-982-bio-inspired-structures-spring-2009|Bio-Inspired Structures]] — 16.982, Spring 2009
 - [[16-512-rocket-propulsion-fall-2005|Rocket Propulsion]] — 16.512, Fall 2005
 - [[16-63j-system-safety-spring-2016|System Safety]] — 16.63J, Spring 2016

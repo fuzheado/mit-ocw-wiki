@@ -12,6 +12,13 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[11-952-gaoming-studio-china-spring-2005|Gaoming Studio - China]] — 11.952, Spring 2005
+- [[4-520-computational-design-i-theory-and-applications-fall-2005|Computational Design I: Theory and Applications]] — 4.520, Fall 2005
+- [[4-107-march-portfolio-seminar-fall-2003|MArch Portfolio Seminar]] — 4.107, Fall 2003
+- [[4-401-environmental-technologies-in-buildings-fall-2018|Environmental Technologies in Buildings]] — 4.401, Fall 2018
+- [[4-143-immaterial-limits-process-and-duration-fall-2002|Immaterial Limits: Process and Duration]] — 4.143, Fall 2002
+- [[4-171-the-space-between-workshop-fall-2004|The Space Between Workshop]] — 4.171, Fall 2004
+- [[4-s26-territory-spatial-reification-of-power-spring-2016|Territory: Spatial Reification of Power]] — 4.S26, Spring 2016
 - [[4-296-furniture-making-spring-2005|Furniture Making]] — 4.296, Spring 2005
 - [[4-184-architectural-design-workshop-collage-method-and-form-spring-2004|Architectural Design Workshop: Collage - Method and Form]] — 4.184, Spring 2004
 - [[4-104-architectural-design-intentions-spring-2004|Architectural Design: Intentions]] — 4.104, Spring 2004

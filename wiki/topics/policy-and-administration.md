@@ -12,6 +12,15 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005|Ethics and the Law on the Electronic Frontier]] — 6.805, Fall 2005
+- [[11-941-disaster-vulnerability-and-resilience-spring-2005|Disaster, Vulnerability and Resilience]] — 11.941, Spring 2005
+- [[11-433j-real-estate-economics-fall-2008|Real Estate Economics]] — 11.433J, Fall 2008
+- [[cms-362-civic-media-codesign-studio-spring-2016|Civic Media Codesign Studio]] — CMS.362, Spring 2016
+- [[17-486-japan-and-east-asian-security-fall-2016|Japan and East Asian Security]] — 17.486, Fall 2016
+- [[11-487-urban-public-finance-in-developing-countries-fall-2004|Urban Public Finance in Developing Countries]] — 11.487, Fall 2004
+- [[8-s271-nuclear-weapons-history-and-future-prospects-spring-2022|Nuclear Weapons – History and Future Prospects]] — 8.S271, Spring 2022
+- [[11-013j-american-urban-history-i-spring-2010|American Urban History I]] — 11.013J, Spring 2010
+- [[11-122-environment-and-society-fall-2002|Environment and Society]] — 11.122, Fall 2002
 - [[res-stp-001-science-policy-bootcamp-january-iap-2011|Science Policy Bootcamp]] — RES.STP-001, January IAP 2011
 - [[14-74-foundations-of-development-policy-spring-2009|Foundations of Development Policy]] — 14.74, Spring 2009
 - [[esd-933-technology-policy-negotiations-and-dispute-resolution-spring-2005|Technology Policy Negotiations and Dispute Resolution]] — ESD.933, Spring 2005

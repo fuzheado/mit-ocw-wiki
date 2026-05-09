@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[cms-300-introduction-to-videogame-studies-fall-2011|Introduction to Videogame Studies]] — CMS.300, Fall 2011
+- [[mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015|Indistinguishable From... Magic as Interface, Technology, and Tradition]] — MAS.S66, Spring 2015
 - [[cms-608-game-design-fall-2010|Game Design]] — CMS.608, Fall 2010
 - [[4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013|Design Across Scales, Disciplines and Problem Contexts]] — 4.110J, Spring 2013
 - [[cms-615-games-for-social-change-fall-2013|Games for Social Change]] — CMS.615, Fall 2013

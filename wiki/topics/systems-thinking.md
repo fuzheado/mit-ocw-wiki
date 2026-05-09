@@ -12,6 +12,10 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[6-252j-nonlinear-programming-spring-2003|Nonlinear Programming]] — 6.252J, Spring 2003
+- [[2-997-decision-making-in-large-scale-systems-spring-2004|Decision Making in Large Scale Systems]] — 2.997, Spring 2004
+- [[16-622-experimental-projects-ii-fall-2003|Experimental Projects II]] — 16.622, Fall 2003
+- [[15-099-readings-in-optimization-fall-2003|Readings in Optimization]] — 15.099, Fall 2003
 - [[18-433-combinatorial-optimization-fall-2003|Combinatorial Optimization]] — 18.433, Fall 2003
 - [[2-141-modeling-and-simulation-of-dynamic-systems-fall-2006|Modeling and Simulation of Dynamic Systems]] — 2.141, Fall 2006
 - [[esd-051j-engineering-innovation-and-design-fall-2012|Engineering Innovation and Design]] — ESD.051J, Fall 2012

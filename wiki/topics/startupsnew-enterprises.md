@@ -12,6 +12,7 @@ Part of: [[innovation-and-entrepreneurship|Innovation & Entrepreneurship]]
 
 ## Courses
 
+- [[2-96-management-in-engineering-fall-2012|Management in Engineering]] — 2.96, Fall 2012
 - [[6-901-inventions-and-patents-fall-2005|Inventions and Patents]] — 6.901, Fall 2005
 - [[15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018|New Executive Thinking Social-Impact Technology Projects]] — 15.960, Fall 2017
 - [[15-351-managing-innovation-and-entrepreneurship-spring-2008|Managing Innovation and Entrepreneurship]] — 15.351, Spring 2008

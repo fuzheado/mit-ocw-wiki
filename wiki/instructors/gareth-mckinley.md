@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[2-341j-macromolecular-hydrodynamics-spring-2016|Macromolecular Hydrodynamics]]
 - [[2-25-advanced-fluid-mechanics-fall-2013|Advanced Fluid Mechanics]]

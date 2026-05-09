@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011|Introduction to Electrical Engineering and Computer Science I]] — 6.01SC, Spring 2011
+- [[21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016|Music and Technology: Recording Techniques and Audio Production]] — 21M.380, Fall 2016
+- [[6-685-electric-machines-fall-2013|Electric Machines]] — 6.685, Fall 2013
+- [[hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008|Functional Magnetic Resonance Imaging: Data Acquisition and Analysis]] — HST.583, Fall 2008
 - [[6-270-autonomous-robot-design-competition-january-iap-2005|Autonomous Robot Design Competition]] — 6.270, January IAP 2005
 - [[9-913-pattern-recognition-for-machine-vision-fall-2004|Pattern Recognition for Machine Vision]] — 9.913, Fall 2004
 - [[6-012-microelectronic-devices-and-circuits-fall-2009|Microelectronic Devices and Circuits]] — 6.012, Fall 2009

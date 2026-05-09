@@ -25,6 +25,42 @@ courses_count: 0
 
 ## Courses
 
+- [[22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005|Photon and Neutron Scattering Spectroscopy and Its Applications in Condensed Matter]] — 22.903, Spring 2005
+- [[6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011|Introduction to Electrical Engineering and Computer Science I]] — 6.01SC, Spring 2011
+- [[3-080-economic-environmental-issues-in-materials-selection-fall-2005|Economic & Environmental Issues in Materials Selection]] — 3.080, Fall 2005
+- [[hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010|Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies]] — HST.934J, Spring 2010
+- [[12-108-structure-of-earth-materials-fall-2004|Structure of Earth Materials]] — 12.108, Fall 2004
+- [[21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016|Music and Technology: Recording Techniques and Audio Production]] — 21M.380, Fall 2016
+- [[20-109-laboratory-fundamentals-in-biological-engineering-fall-2007|Laboratory Fundamentals in Biological Engineering]] — 20.109, Fall 2007
+- [[6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005|Ethics and the Law on the Electronic Frontier]] — 6.805, Fall 2005
+- [[11-952-gaoming-studio-china-spring-2005|Gaoming Studio - China]] — 11.952, Spring 2005
+- [[res-10-002-ethics-of-ai-bias-spring-2023|Ethics of AI Bias]] — RES.10-002, Spring 2023
+- [[18-408-topics-in-theoretical-computer-science-probabilistically-checkable-proofs-fall-2022|Topics in Theoretical Computer Science: Probabilistically Checkable Proofs]] — 18.408, Fall 2022
+- [[wgs-s10-history-of-women-in-science-and-engineering-fall-2017|History of Women in Science and Engineering]] — WGS.S10, Fall 2017
+- [[4-520-computational-design-i-theory-and-applications-fall-2005|Computational Design I: Theory and Applications]] — 4.520, Fall 2005
+- [[6-252j-nonlinear-programming-spring-2003|Nonlinear Programming]] — 6.252J, Spring 2003
+- [[6-685-electric-machines-fall-2013|Electric Machines]] — 6.685, Fall 2013
+- [[hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008|Functional Magnetic Resonance Imaging: Data Acquisition and Analysis]] — HST.583, Fall 2008
+- [[16-00-introduction-to-aerospace-engineering-and-design-spring-2003|Introduction to Aerospace Engineering and Design]] — 16.00, Spring 2003
+- [[6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016|Introduction to Computer Science and Programming in Python]] — 6.0001, Fall 2016
+- [[res-3-004-visualizing-materials-science-fall-2017|Visualizing Materials Science]] — RES.3-004, Fall 2017
+- [[20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006|Foundations of Algorithms and Computational Techniques in Systems Biology]] — 20.482J, Spring 2006
+- [[3-020-thermodynamics-of-materials-spring-2021|Thermodynamics of Materials]] — 3.020, Spring 2021
+- [[16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006|Aerospace Biomedical and Life Support Engineering]] — 16.423J, Spring 2006
+- [[2-341j-macromolecular-hydrodynamics-spring-2016|Macromolecular Hydrodynamics]] — 2.341J, Spring 2016
+- [[1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004|Environmental Engineering Masters of Engineering Project]] — 1.782, Fall 2003
+- [[2-782j-design-of-medical-devices-and-implants-spring-2006|Design of Medical Devices and Implants]] — 2.782J, Spring 2006
+- [[4-401-environmental-technologies-in-buildings-fall-2018|Environmental Technologies in Buildings]] — 4.401, Fall 2018
+- [[2-997-decision-making-in-large-scale-systems-spring-2004|Decision Making in Large Scale Systems]] — 2.997, Spring 2004
+- [[16-622-experimental-projects-ii-fall-2003|Experimental Projects II]] — 16.622, Fall 2003
+- [[16-20-structural-mechanics-fall-2002|Structural Mechanics]] — 16.20, Fall 2002
+- [[2-27-turbulent-flow-and-transport-spring-2002|Turbulent Flow and Transport]] — 2.27, Spring 2002
+- [[11-122-environment-and-society-fall-2002|Environment and Society]] — 11.122, Fall 2002
+- [[6-006-introduction-to-algorithms-spring-2008|Introduction to Algorithms]] — 6.006, Spring 2008
+- [[15-099-readings-in-optimization-fall-2003|Readings in Optimization]] — 15.099, Fall 2003
+- [[6-092-introduction-to-programming-in-java-january-iap-2010|Introduction to Programming in Java]] — 6.092, January IAP 2010
+- [[12-517-dynamics-of-complex-systems-complexity-in-ecology-spring-2000|Dynamics of Complex Systems: Complexity in Ecology]] — 12.517, Spring 2000
+- [[2-674-micro-nano-engineering-laboratory-spring-2016|Micro/Nano Engineering Laboratory]] — 2.674, Spring 2016
 - [[3-35-fracture-and-fatigue-fall-2003|Fracture and Fatigue]] — 3.35, Fall 2003
 - [[hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007|Projects in Microscale Engineering for the Life Sciences]] — HST.410J, Spring 2007
 - [[hst-021-musculoskeletal-pathophysiology-january-iap-2006|Musculoskeletal Pathophysiology]] — HST.021, January IAP 2006

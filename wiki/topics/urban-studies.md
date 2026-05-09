@@ -12,6 +12,15 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-423-information-and-communication-technologies-in-community-development-spring-2004|Information and Communication Technologies in Community Development]] — 11.423, Spring 2004
+- [[11-952-gaoming-studio-china-spring-2005|Gaoming Studio - China]] — 11.952, Spring 2005
+- [[11-941-disaster-vulnerability-and-resilience-spring-2005|Disaster, Vulnerability and Resilience]] — 11.941, Spring 2005
+- [[11-433j-real-estate-economics-fall-2008|Real Estate Economics]] — 11.433J, Fall 2008
+- [[cms-362-civic-media-codesign-studio-spring-2016|Civic Media Codesign Studio]] — CMS.362, Spring 2016
+- [[11-487-urban-public-finance-in-developing-countries-fall-2004|Urban Public Finance in Developing Countries]] — 11.487, Fall 2004
+- [[11-329-social-theory-and-the-city-fall-2005|Social Theory and the City]] — 11.329, Fall 2005
+- [[11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007|Regional Socioeconomic Impact Analyses and Modeling]] — 11.482J, Fall 2007
+- [[11-013j-american-urban-history-i-spring-2010|American Urban History I]] — 11.013J, Spring 2010
 - [[11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004|Planning in Transition Economies for Growth and Equity]] — 11.946, Spring 2004
 - [[11-310j-media-technology-and-city-design-and-development-spring-2002|Media Technology and City Design and Development]] — 11.310J, Spring 2002
 - [[1-225j-transportation-flow-systems-fall-2002|Transportation Flow Systems]] — 1.225J, Fall 2002

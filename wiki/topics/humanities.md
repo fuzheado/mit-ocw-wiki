@@ -20,6 +20,34 @@ courses_count: 0
 
 ## Courses
 
+- [[hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010|Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies]] — HST.934J, Spring 2010
+- [[21l-007-world-literatures-travel-writing-fall-2008|World Literatures: Travel Writing]] — 21L.007, Fall 2008
+- [[21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016|Music and Technology: Recording Techniques and Audio Production]] — 21M.380, Fall 2016
+- [[6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005|Ethics and the Law on the Electronic Frontier]] — 6.805, Fall 2005
+- [[21g-701-spanish-i-fall-2003|Spanish I]] — 21G.701, Fall 2003
+- [[res-10-002-ethics-of-ai-bias-spring-2023|Ethics of AI Bias]] — RES.10-002, Spring 2023
+- [[11-941-disaster-vulnerability-and-resilience-spring-2005|Disaster, Vulnerability and Resilience]] — 11.941, Spring 2005
+- [[wgs-s10-history-of-women-in-science-and-engineering-fall-2017|History of Women in Science and Engineering]] — WGS.S10, Fall 2017
+- [[21l-460-medieval-literature-legends-of-arthur-fall-2013|Medieval Literature: Legends of Arthur]] — 21L.460, Fall 2013
+- [[cms-362-civic-media-codesign-studio-spring-2016|Civic Media Codesign Studio]] — CMS.362, Spring 2016
+- [[21l-421-comedy-spring-2008|Comedy]] — 21L.421, Spring 2008
+- [[21m-113-developing-musical-structures-fall-2002|Developing Musical Structures]] — 21M.113, Fall 2002
+- [[21l-002x-foundations-of-world-culture-ii-world-literatures-and-texts-spring-2012|Foundations of World Culture II: World Literatures and Texts]] — 21L.002X, Spring 2012
+- [[21w-735-writing-and-reading-the-essay-fall-2004|Writing and Reading the Essay]] — 21W.735, Fall 2004
+- [[21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022|Science Writing and New Media: Writing and the Environment]] — 21W.036, Spring 2022
+- [[res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021|Visualizing the Birth of Modern Tokyo]] — RES.21H-001, Spring 2021
+- [[21h-968j-nature-environment-and-empire-spring-2010|Nature, Environment, and Empire]] — 21H.968J, Spring 2010
+- [[21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003|From the Silk Road to the Great Game: China, Russia, and Central Eurasia]] — 21H.580, Fall 2003
+- [[21a-270-anthropology-through-speculative-fiction-fall-2009|Anthropology Through Speculative Fiction]] — 21A.270, Fall 2009
+- [[8-s271-nuclear-weapons-history-and-future-prospects-spring-2022|Nuclear Weapons – History and Future Prospects]] — 8.S271, Spring 2022
+- [[21l-702-studies-in-fiction-stowe-twain-and-the-transformation-of-19th-century-america-fall-2004|Studies in Fiction: Stowe, Twain, and the Transformation of 19th-Century America]] — 21L.702, Fall 2004
+- [[21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007|Advanced Workshop in Writing for Social Sciences and Architecture (ELS)]] — 21G.228, Spring 2007
+- [[21a-453-anthropology-of-the-middle-east-spring-2004|Anthropology of the Middle East]] — 21A.453, Spring 2004
+- [[21h-154-inventing-the-samurai-fall-2022|Inventing the Samurai]] — 21H.154, Fall 2022
+- [[11-013j-american-urban-history-i-spring-2010|American Urban History I]] — 11.013J, Spring 2010
+- [[21l-512-american-authors-american-women-authors-spring-2003|American Authors: American Women Authors]] — 21L.512, Spring 2003
+- [[mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015|Indistinguishable From... Magic as Interface, Technology, and Tradition]] — MAS.S66, Spring 2015
+- [[7-02ci-experimental-biology-communications-intensive-spring-2005|Experimental Biology - Communications Intensive]] — 7.02CI, Spring 2005
 - [[21w-747-classical-rhetoric-and-modern-political-discourse-fall-2009|Classical Rhetoric and Modern Political Discourse]] — 21W.747, Fall 2009
 - [[11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004|Planning in Transition Economies for Growth and Equity]] — 11.946, Spring 2004
 - [[21l-448j-darwin-and-design-fall-2003|Darwin and Design]] — 21L.448J, Fall 2003

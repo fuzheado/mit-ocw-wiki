@@ -12,6 +12,20 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[14-384-time-series-analysis-fall-2013|Time Series Analysis]] — 14.384, Fall 2013
+- [[18-408-topics-in-theoretical-computer-science-probabilistically-checkable-proofs-fall-2022|Topics in Theoretical Computer Science: Probabilistically Checkable Proofs]] — 18.408, Fall 2022
+- [[18-821-project-laboratory-in-mathematics-spring-2013|Project Laboratory in Mathematics]] — 18.821, Spring 2013
+- [[8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014|Statistical Mechanics II: Statistical Physics of Fields]] — 8.334, Spring 2014
+- [[18-01-single-variable-calculus-fall-2005|Single Variable Calculus]] — 18.01, Fall 2005
+- [[18-156-differential-analysis-ii-partial-differential-equations-and-fourier-analysis-spring-2016|Differential Analysis II: Partial Differential Equations and Fourier Analysis]] — 18.156, Spring 2016
+- [[18-786-topics-in-algebraic-number-theory-spring-2010|Topics in Algebraic Number Theory]] — 18.786, Spring 2010
+- [[res-3-004-visualizing-materials-science-fall-2017|Visualizing Materials Science]] — RES.3-004, Fall 2017
+- [[18-994-seminar-in-geometry-fall-2004|Seminar in Geometry]] — 18.994, Fall 2004
+- [[15-348-doctoral-seminar-in-research-methods-ii-spring-2004|Doctoral Seminar in Research Methods II]] — 15.348, Spring 2004
+- [[6-006-introduction-to-algorithms-spring-2008|Introduction to Algorithms]] — 6.006, Spring 2008
+- [[18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006|Topics in Algebraic Geometry: Intersection Theory on Moduli Spaces]] — 18.727, Spring 2006
+- [[15-099-readings-in-optimization-fall-2003|Readings in Optimization]] — 15.099, Fall 2003
+- [[9-520-statistical-learning-theory-and-applications-spring-2006|Statistical Learning Theory and Applications]] — 9.520, Spring 2006
 - [[18-433-combinatorial-optimization-fall-2003|Combinatorial Optimization]] — 18.433, Fall 2003
 - [[8-08-statistical-physics-ii-spring-2005|Statistical Physics II]] — 8.08, Spring 2005
 - [[17-871-political-science-laboratory-spring-2012|Political Science Laboratory]] — 17.871, Spring 2012

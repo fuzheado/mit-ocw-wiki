@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011|Introduction to Electrical Engineering and Computer Science I]]
 - [[8-370x-quantum-information-science-i-spring-2018|Quantum Information Science I]]
 - [[mas-863-how-to-make-almost-anything-fall-2002|How to Make (Almost) Anything]]
 - [[8-371x-quantum-information-science-ii-spring-2018|Quantum Information Science II]]

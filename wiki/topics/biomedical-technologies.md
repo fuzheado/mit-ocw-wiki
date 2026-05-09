@@ -12,6 +12,9 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010|Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies]] — HST.934J, Spring 2010
+- [[hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008|Functional Magnetic Resonance Imaging: Data Acquisition and Analysis]] — HST.583, Fall 2008
+- [[16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006|Aerospace Biomedical and Life Support Engineering]] — 16.423J, Spring 2006
 - [[9-13-the-human-brain-spring-2019|The Human Brain]] — 9.13, Spring 2019
 - [[9-35-sensation-and-perception-spring-2009|Sensation And Perception]] — 9.35, Spring 2009
 - [[9-357-special-topics-in-vision-science-fall-2001|Special Topics in Vision Science]] — 9.357, Fall 2001

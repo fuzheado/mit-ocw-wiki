@@ -12,6 +12,10 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010|Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies]] — HST.934J, Spring 2010
+- [[6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005|Ethics and the Law on the Electronic Frontier]] — 6.805, Fall 2005
+- [[res-10-002-ethics-of-ai-bias-spring-2023|Ethics of AI Bias]] — RES.10-002, Spring 2023
+- [[11-941-disaster-vulnerability-and-resilience-spring-2005|Disaster, Vulnerability and Resilience]] — 11.941, Spring 2005
 - [[11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004|Planning in Transition Economies for Growth and Equity]] — 11.946, Spring 2004
 - [[21l-448j-darwin-and-design-fall-2003|Darwin and Design]] — 21L.448J, Fall 2003
 - [[24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004|Feeling and Imagination in Art, Science, and Technology]] — 24.262, Spring 2004

@@ -12,6 +12,7 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[15-316-building-and-leading-effective-teams-summer-2005|Building and Leading Effective Teams]] — 15.316, Summer 2005
 - [[mas-961-seminar-on-deep-engagement-fall-2004|Seminar on Deep Engagement]] — MAS.961, Fall 2004
 - [[24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004|Feeling and Imagination in Art, Science, and Technology]] — 24.262, Spring 2004
 - [[9-35-sensation-and-perception-spring-2009|Sensation And Perception]] — 9.35, Spring 2009

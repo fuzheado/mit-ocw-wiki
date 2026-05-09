@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[wgs-s10-history-of-women-in-science-and-engineering-fall-2017|History of Women in Science and Engineering]] — WGS.S10, Fall 2017
+- [[21l-512-american-authors-american-women-authors-spring-2003|American Authors: American Women Authors]] — 21L.512, Spring 2003
 - [[21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008|Traditions in American Concert Dance: Gender and Autobiography]] — 21M.670, Spring 2008
 - [[21l-715-media-in-cultural-context-popular-readerships-fall-2007|Media in Cultural Context: Popular Readerships]] — 21L.715, Fall 2007
 - [[21l-504j-race-and-identity-in-american-literature-keepin-it-real-fake-spring-2007|Race and Identity in American Literature: Keepin' it Real Fake]] — 21L.504J, Spring 2007

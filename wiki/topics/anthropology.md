@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-329-social-theory-and-the-city-fall-2005|Social Theory and the City]] — 11.329, Fall 2005
+- [[21a-270-anthropology-through-speculative-fiction-fall-2009|Anthropology Through Speculative Fiction]] — 21A.270, Fall 2009
+- [[21a-453-anthropology-of-the-middle-east-spring-2004|Anthropology of the Middle East]] — 21A.453, Spring 2004
 - [[21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008|Traditions in American Concert Dance: Gender and Autobiography]] — 21M.670, Spring 2008
 - [[4-651-art-since-1940-fall-2010|Art Since 1940]] — 4.651, Fall 2010
 - [[21g-011-topics-in-indian-popular-culture-spectacle-masala-and-genre-fall-2006|Topics in Indian Popular Culture: Spectacle, Masala, and Genre]] — 21G.011, Fall 2006

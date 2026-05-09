@@ -12,6 +12,7 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[es-s71-increasing-your-physical-intelligence-enhancing-your-social-smarts-spring-2014|Increasing Your Physical Intelligence, Enhancing Your Social Smarts]] — ES.S71, Spring 2014
 - [[pe-550-designing-your-life-spring-2009|Designing Your Life]] — PE.550, Spring 2009
 - [[wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014|Gender, Health and Marginalization Through a Critical Feminist Lens]] — WGS.645, Fall 2014
 - [[mas-771-autism-theory-and-technology-spring-2011|Autism Theory and Technology]] — MAS.771, Spring 2011

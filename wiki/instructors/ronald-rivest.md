@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-006-introduction-to-algorithms-spring-2008|Introduction to Algorithms]]
 - [[6-s898-climate-change-seminar-fall-2019|Climate Change Seminar]]

@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-341j-macromolecular-hydrodynamics-spring-2016|Macromolecular Hydrodynamics]] — 2.341J, Spring 2016
+- [[2-27-turbulent-flow-and-transport-spring-2002|Turbulent Flow and Transport]] — 2.27, Spring 2002
 - [[1-061-transport-processes-in-the-environment-fall-2008|Transport Processes in the Environment]] — 1.061, Fall 2008
 - [[3-034-organic-biomaterials-chemistry-fall-2005|Organic & Biomaterials Chemistry]] — 3.034, Fall 2005
 - [[18-366-random-walks-and-diffusion-fall-2006|Random Walks and Diffusion]] — 18.366, Fall 2006

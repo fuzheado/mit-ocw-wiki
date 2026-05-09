@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005|Photon and Neutron Scattering Spectroscopy and Its Applications in Condensed Matter]] — 22.903, Spring 2005
 - [[12-091-radon-research-in-multidisciplines-a-review-january-iap-2007|Radon Research in Multidisciplines: A Review]] — 12.091, January IAP 2007
 - [[res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015|Reducing the Danger of Nuclear Weapons and Proliferation]] — RES.8-004, January IAP 2015
 - [[22-06-engineering-of-nuclear-systems-fall-2010|Engineering of Nuclear Systems]] — 22.06, Fall 2010

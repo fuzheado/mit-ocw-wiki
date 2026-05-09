@@ -12,6 +12,12 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[12-108-structure-of-earth-materials-fall-2004|Structure of Earth Materials]] — 12.108, Fall 2004
+- [[2-341j-macromolecular-hydrodynamics-spring-2016|Macromolecular Hydrodynamics]] — 2.341J, Spring 2016
+- [[2-782j-design-of-medical-devices-and-implants-spring-2006|Design of Medical Devices and Implants]] — 2.782J, Spring 2006
+- [[16-20-structural-mechanics-fall-2002|Structural Mechanics]] — 16.20, Fall 2002
+- [[2-27-turbulent-flow-and-transport-spring-2002|Turbulent Flow and Transport]] — 2.27, Spring 2002
+- [[2-674-micro-nano-engineering-laboratory-spring-2016|Micro/Nano Engineering Laboratory]] — 2.674, Spring 2016
 - [[3-35-fracture-and-fatigue-fall-2003|Fracture and Fatigue]] — 3.35, Fall 2003
 - [[hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007|Projects in Microscale Engineering for the Life Sciences]] — HST.410J, Spring 2007
 - [[2-141-modeling-and-simulation-of-dynamic-systems-fall-2006|Modeling and Simulation of Dynamic Systems]] — 2.141, Fall 2006

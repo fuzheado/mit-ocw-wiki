@@ -12,6 +12,8 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-108-structure-of-earth-materials-fall-2004|Structure of Earth Materials]] — 12.108, Fall 2004
+- [[res-5-0001-digital-lab-techniques-manual-spring-2007|Digital Lab Techniques Manual]] — RES.5-0001, Spring 2007
 - [[5-80-small-molecule-spectroscopy-and-dynamics-fall-2008|Small-Molecule Spectroscopy and Dynamics]] — 5.80, Fall 2008
 - [[3-034-organic-biomaterials-chemistry-fall-2005|Organic & Biomaterials Chemistry]] — 3.034, Fall 2005
 - [[12-746-marine-organic-geochemistry-spring-2005|Marine Organic Geochemistry]] — 12.746, Spring 2005

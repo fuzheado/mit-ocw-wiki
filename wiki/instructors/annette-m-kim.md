@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-487-urban-public-finance-in-developing-countries-fall-2004|Urban Public Finance in Developing Countries]]
 - [[11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004|Planning in Transition Economies for Growth and Equity]]
 - [[11-467j-property-rights-in-transition-spring-2005|Property Rights in Transition]]
 - [[11-483-housing-and-land-use-in-rapidly-urbanizing-regions-fall-2011|Housing and Land Use in Rapidly Urbanizing Regions]]

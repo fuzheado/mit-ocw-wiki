@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-006-introduction-to-algorithms-spring-2008|Introduction to Algorithms]]
 - [[6-046j-design-and-analysis-of-algorithms-spring-2015|Design and Analysis of Algorithms]]
 - [[6-170-laboratory-in-software-engineering-fall-2005|Laboratory in Software Engineering]]
 - [[6-006-introduction-to-algorithms-fall-2011|Introduction to Algorithms]]

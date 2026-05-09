@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021|Visualizing the Birth of Modern Tokyo]]
 - [[es-259-information-and-communication-technology-in-africa-spring-2006|Information and Communication Technology in Africa]]
 - [[res-21g-01-kana-spring-2010|Kana]]
 - [[21g-034-media-education-and-the-marketplace-fall-2005|Media Education and the Marketplace]]

@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-952-gaoming-studio-china-spring-2005|Gaoming Studio - China]]
 - [[11-952-foshan-china-workshop-spring-2004|Foshan China Workshop]]

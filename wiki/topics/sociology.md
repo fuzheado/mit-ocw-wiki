@@ -12,6 +12,15 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-423-information-and-communication-technologies-in-community-development-spring-2004|Information and Communication Technologies in Community Development]] — 11.423, Spring 2004
+- [[wgs-s10-history-of-women-in-science-and-engineering-fall-2017|History of Women in Science and Engineering]] — WGS.S10, Fall 2017
+- [[cms-362-civic-media-codesign-studio-spring-2016|Civic Media Codesign Studio]] — CMS.362, Spring 2016
+- [[17-486-japan-and-east-asian-security-fall-2016|Japan and East Asian Security]] — 17.486, Fall 2016
+- [[11-011-the-art-and-science-of-negotiation-spring-2006|The Art and Science of Negotiation]] — 11.011, Spring 2006
+- [[11-329-social-theory-and-the-city-fall-2005|Social Theory and the City]] — 11.329, Fall 2005
+- [[21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003|From the Silk Road to the Great Game: China, Russia, and Central Eurasia]] — 21H.580, Fall 2003
+- [[21a-453-anthropology-of-the-middle-east-spring-2004|Anthropology of the Middle East]] — 21A.453, Spring 2004
+- [[21l-512-american-authors-american-women-authors-spring-2003|American Authors: American Women Authors]] — 21L.512, Spring 2003
 - [[21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008|Traditions in American Concert Dance: Gender and Autobiography]] — 21M.670, Spring 2008
 - [[21l-715-media-in-cultural-context-popular-readerships-fall-2007|Media in Cultural Context: Popular Readerships]] — 21L.715, Fall 2007
 - [[11-310j-media-technology-and-city-design-and-development-spring-2002|Media Technology and City Design and Development]] — 11.310J, Spring 2002

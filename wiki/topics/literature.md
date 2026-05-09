@@ -12,6 +12,18 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-007-world-literatures-travel-writing-fall-2008|World Literatures: Travel Writing]] — 21L.007, Fall 2008
+- [[21l-460-medieval-literature-legends-of-arthur-fall-2013|Medieval Literature: Legends of Arthur]] — 21L.460, Fall 2013
+- [[21l-421-comedy-spring-2008|Comedy]] — 21L.421, Spring 2008
+- [[21l-002x-foundations-of-world-culture-ii-world-literatures-and-texts-spring-2012|Foundations of World Culture II: World Literatures and Texts]] — 21L.002X, Spring 2012
+- [[21w-735-writing-and-reading-the-essay-fall-2004|Writing and Reading the Essay]] — 21W.735, Fall 2004
+- [[21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022|Science Writing and New Media: Writing and the Environment]] — 21W.036, Spring 2022
+- [[21a-270-anthropology-through-speculative-fiction-fall-2009|Anthropology Through Speculative Fiction]] — 21A.270, Fall 2009
+- [[21l-702-studies-in-fiction-stowe-twain-and-the-transformation-of-19th-century-america-fall-2004|Studies in Fiction: Stowe, Twain, and the Transformation of 19th-Century America]] — 21L.702, Fall 2004
+- [[21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007|Advanced Workshop in Writing for Social Sciences and Architecture (ELS)]] — 21G.228, Spring 2007
+- [[21a-453-anthropology-of-the-middle-east-spring-2004|Anthropology of the Middle East]] — 21A.453, Spring 2004
+- [[21l-512-american-authors-american-women-authors-spring-2003|American Authors: American Women Authors]] — 21L.512, Spring 2003
+- [[7-02ci-experimental-biology-communications-intensive-spring-2005|Experimental Biology - Communications Intensive]] — 7.02CI, Spring 2005
 - [[21w-747-classical-rhetoric-and-modern-political-discourse-fall-2009|Classical Rhetoric and Modern Political Discourse]] — 21W.747, Fall 2009
 - [[21l-448j-darwin-and-design-fall-2003|Darwin and Design]] — 21L.448J, Fall 2003
 - [[21w-777-the-science-essay-spring-2009|The Science Essay]] — 21W.777, Spring 2009

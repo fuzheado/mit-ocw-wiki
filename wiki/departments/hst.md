@@ -12,6 +12,10 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010|Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies]] (HST.934J)
+- [[hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008|Functional Magnetic Resonance Imaging: Data Acquisition and Analysis]] (HST.583)
+- [[16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006|Aerospace Biomedical and Life Support Engineering]] (16.423J)
+- [[2-782j-design-of-medical-devices-and-implants-spring-2006|Design of Medical Devices and Implants]] (2.782J)
 - [[hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007|Projects in Microscale Engineering for the Life Sciences]] (HST.410J)
 - [[hst-021-musculoskeletal-pathophysiology-january-iap-2006|Musculoskeletal Pathophysiology]] (HST.021)
 - [[hst-508-quantitative-genomics-fall-2005|Quantitative Genomics]] (HST.508)

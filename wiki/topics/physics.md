@@ -12,6 +12,15 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005|Photon and Neutron Scattering Spectroscopy and Its Applications in Condensed Matter]] — 22.903, Spring 2005
+- [[8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014|Statistical Mechanics II: Statistical Physics of Fields]] — 8.334, Spring 2014
+- [[8-701-introduction-to-nuclear-and-particle-physics-fall-2020|Introduction to Nuclear and Particle Physics]] — 8.701, Fall 2020
+- [[8-02-physics-ii-electricity-and-magnetism-spring-2007|Physics II: Electricity and Magnetism]] — 8.02, Spring 2007
+- [[8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006|Strong Interactions: Effective Field Theories of QCD]] — 8.851, Spring 2006
+- [[8-s271-nuclear-weapons-history-and-future-prospects-spring-2022|Nuclear Weapons – History and Future Prospects]] — 8.S271, Spring 2022
+- [[3-020-thermodynamics-of-materials-spring-2021|Thermodynamics of Materials]] — 3.020, Spring 2021
+- [[2-341j-macromolecular-hydrodynamics-spring-2016|Macromolecular Hydrodynamics]] — 2.341J, Spring 2016
+- [[2-27-turbulent-flow-and-transport-spring-2002|Turbulent Flow and Transport]] — 2.27, Spring 2002
 - [[22-68j-superconducting-magnets-spring-2003|Superconducting Magnets]] — 22.68J, Spring 2003
 - [[8-08-statistical-physics-ii-spring-2005|Statistical Physics II]] — 8.08, Spring 2005
 - [[5-80-small-molecule-spectroscopy-and-dynamics-fall-2008|Small-Molecule Spectroscopy and Dynamics]] — 5.80, Fall 2008

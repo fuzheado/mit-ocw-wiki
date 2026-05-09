@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21a-270-anthropology-through-speculative-fiction-fall-2009|Anthropology Through Speculative Fiction]]
 - [[21a-859j-social-theory-and-analysis-spring-2021|Social Theory and Analysis]]
 - [[21a-303j-the-anthropology-of-biology-spring-2022|The Anthropology of Biology]]
 - [[21a-500j-technology-and-culture-spring-2014|Technology and Culture]]

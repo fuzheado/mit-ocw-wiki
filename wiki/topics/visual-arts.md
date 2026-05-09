@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021|Visualizing the Birth of Modern Tokyo]] — RES.21H-001, Spring 2021
+- [[4-343-photography-and-related-media-fall-2002|Photography and Related Media]] — 4.343, Fall 2002
+- [[mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015|Indistinguishable From... Magic as Interface, Technology, and Tradition]] — MAS.S66, Spring 2015
 - [[4-366-advanced-projects-in-the-visual-arts-personal-narrative-spring-2004|Advanced Projects in the Visual Arts: Personal Narrative]] — 4.366, Spring 2004
 - [[21g-011-topics-in-indian-popular-culture-spectacle-masala-and-genre-fall-2006|Topics in Indian Popular Culture: Spectacle, Masala, and Genre]] — 21G.011, Fall 2006
 - [[4-367-studio-seminar-in-public-art-spring-2006|Studio Seminar in Public Art]] — 4.367, Spring 2006

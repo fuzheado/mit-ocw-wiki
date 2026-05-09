@@ -12,6 +12,10 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-199j-working-in-a-global-economy-fall-2005|Working in a Global Economy]] — 17.199J, Fall 2005
+- [[11-941-disaster-vulnerability-and-resilience-spring-2005|Disaster, Vulnerability and Resilience]] — 11.941, Spring 2005
+- [[cms-362-civic-media-codesign-studio-spring-2016|Civic Media Codesign Studio]] — CMS.362, Spring 2016
+- [[17-486-japan-and-east-asian-security-fall-2016|Japan and East Asian Security]] — 17.486, Fall 2016
 - [[17-871-political-science-laboratory-spring-2012|Political Science Laboratory]] — 17.871, Spring 2012
 - [[21h-181-libertarianism-in-history-spring-2014|Libertarianism in History]] — 21H.181, Spring 2014
 - [[21a-506-the-anthropology-of-politics-persuasion-and-power-spring-2019|The Anthropology of Politics: Persuasion and Power]] — 21A.506, Spring 2019

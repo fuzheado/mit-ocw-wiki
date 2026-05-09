@@ -12,6 +12,11 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[3-080-economic-environmental-issues-in-materials-selection-fall-2005|Economic & Environmental Issues in Materials Selection]] — 3.080, Fall 2005
+- [[12-108-structure-of-earth-materials-fall-2004|Structure of Earth Materials]] — 12.108, Fall 2004
+- [[21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022|Science Writing and New Media: Writing and the Environment]] — 21W.036, Spring 2022
+- [[21h-968j-nature-environment-and-empire-spring-2010|Nature, Environment, and Empire]] — 21H.968J, Spring 2010
+- [[12-517-dynamics-of-complex-systems-complexity-in-ecology-spring-2000|Dynamics of Complex Systems: Complexity in Ecology]] — 12.517, Spring 2000
 - [[sts-467-research-seminar-in-deep-sea-archaeology-spring-2002|Research Seminar in Deep Sea Archaeology]] — STS.467, Spring 2002
 - [[18-s191-introduction-to-computational-thinking-fall-2020|Introduction to Computational Thinking]] — 18.S191, Fall 2020
 - [[12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004|Wave Motions in the Ocean and Atmosphere]] — 12.802, Spring 2004

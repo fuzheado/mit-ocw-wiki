@@ -12,6 +12,13 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[20-109-laboratory-fundamentals-in-biological-engineering-fall-2007|Laboratory Fundamentals in Biological Engineering]] — 20.109, Fall 2007
+- [[4-520-computational-design-i-theory-and-applications-fall-2005|Computational Design I: Theory and Applications]] — 4.520, Fall 2005
+- [[6-252j-nonlinear-programming-spring-2003|Nonlinear Programming]] — 6.252J, Spring 2003
+- [[20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006|Foundations of Algorithms and Computational Techniques in Systems Biology]] — 20.482J, Spring 2006
+- [[2-997-decision-making-in-large-scale-systems-spring-2004|Decision Making in Large Scale Systems]] — 2.997, Spring 2004
+- [[16-622-experimental-projects-ii-fall-2003|Experimental Projects II]] — 16.622, Fall 2003
+- [[15-099-readings-in-optimization-fall-2003|Readings in Optimization]] — 15.099, Fall 2003
 - [[18-433-combinatorial-optimization-fall-2003|Combinatorial Optimization]] — 18.433, Fall 2003
 - [[2-141-modeling-and-simulation-of-dynamic-systems-fall-2006|Modeling and Simulation of Dynamic Systems]] — 2.141, Fall 2006
 - [[sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017|Innovation Systems for Science, Technology, Energy, Manufacturing, and Health]] — STS.081, Spring 2017
