@@ -1,0 +1,9 @@
+Git is ideal here — Karpathy explicitly calls it out in the gist: "The wiki is just a git repo of markdown files. You get version history, branching, and collaboration for free."
+Key practices:
+1. One repo, two dirs — raw/ and wiki/ in the same repo. The schema file (AGENTS.md or similar) lives at the root so the LLM always has context.
+2. Commit after every ingest — each batch of courses gets its own commit. Makes it trivial to roll back if the LLM introduces bad data.
+3. Use log.md as commit message source — since each log entry already summarizes what changed, you can use it directly. E.g., git commit -m "$(head -1 wiki/log.md)".
+4. Branch for experiments — try a different topic hierarchy or crossref strategy on a branch. If the LLM goes off the rails, just git checkout main.
+5. GitHub is fine — but it's just markdown, so any Git host works. The benefit of GitHub is Actions: you could automate re-fetching the API weekly and opening a PR with new/updated courses.
+6. Don't commit raw/ JSON if you can regenerate it — either .gitignore it or keep it if you want a reproducible source snapshot. The API could change.
+One caveat: the wiki might eventually have thousands of files. Git handles this fine, but git status will be noisy. A .gitignore for raw/api/ (or use Git LFS for large JSON blobs) keeps the working tree clean.

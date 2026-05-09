@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "stages": {
+    "smoke_test": true,
+    "departments_topics": false,
+    "courses_bootstrap": {
+      "complete": false,
+      "batches_done": 0,
+      "total_batches": 26,
+      "last_offset": 0,
+      "last_commit": ""
+    },
+    "asset_scan": {
+      "complete": false,
+      "courses_done": 0,
+      "last_course_id": null
+    },
+    "crossref": {
+      "complete": false,
+      "courses_done": 0
+    },
+    "lint_report": false
+  },
+  "stats": {
+    "total_courses_api": 2577,
+    "courses_in_wiki": 0,
+    "departments": 37,
+    "topics": 110,
+    "instructors": 0,
+    "crossrefs": 0
+  }
+}

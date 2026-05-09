@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": ["Read", "Write", "Edit", "Glob", "Grep", "Bash(*)"]
+  },
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo \"[Active file: $(cat .claude/active-file 2>/dev/null || echo none)]\"",
+            "timeout": 2000
+          }
+        ]
+      }
+    ]
+  }
+}
