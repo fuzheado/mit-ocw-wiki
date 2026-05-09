@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-016-hydrodynamics-13-012-fall-2005|Hydrodynamics (13.012)]] — 2.016, Fall 2005
 - [[12-950-atmospheric-and-oceanic-modeling-spring-2004|Atmospheric and Oceanic Modeling]] — 12.950, Spring 2004
 - [[12-808-introduction-to-observational-physical-oceanography-fall-2004|Introduction to Observational Physical Oceanography]] — 12.808, Fall 2004
 - [[2-26-compressible-fluid-dynamics-spring-2004|Compressible Fluid Dynamics]] — 2.26, Spring 2004

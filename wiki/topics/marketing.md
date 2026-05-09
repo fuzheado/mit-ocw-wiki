@@ -12,4 +12,5 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
-*None yet.*
+- [[15-810-marketing-management-analytics-frameworks-and-applications-fall-2015|Marketing Management: Analytics, Frameworks, and Applications]] — 15.810, Fall 2015
+- [[15-810-marketing-management-analytics-frameworks-and-applications-fall-2015|Marketing Management: Analytics, Frameworks, and Applications]] — 15.810, Fall 2015

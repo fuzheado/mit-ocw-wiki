@@ -12,6 +12,19 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015|Computer Games and Simulations for Education and Exploration]] — 11.127J, Spring 2015
+- [[6-826-principles-of-computer-systems-spring-2002|Principles of Computer Systems]] — 6.826, Spring 2002
+- [[6-832-underactuated-robotics-spring-2022|Underactuated Robotics]] — 6.832, Spring 2022
+- [[6-854j-advanced-algorithms-fall-2008|Advanced Algorithms]] — 6.854J, Fall 2008
+- [[res-7-003-brave-new-planet-fall-2020|Brave New Planet]] — RES.7-003, Fall 2020
+- [[6-s897-machine-learning-for-healthcare-spring-2019|Machine Learning for Healthcare]] — 6.S897, Spring 2019
+- [[14-387-applied-econometrics-mostly-harmless-big-data-fall-2014|Applied Econometrics: Mostly Harmless Big Data]] — 14.387, Fall 2014
+- [[6-811-principles-and-practice-of-assistive-technology-fall-2014|Principles and Practice of Assistive Technology]] — 6.811, Fall 2014
+- [[cms-611j-creating-video-games-fall-2014|Creating Video Games]] — CMS.611J, Fall 2014
+- [[6-092-java-preparation-for-6-170-january-iap-2006|Java Preparation for 6.170]] — 6.092, January IAP 2006
+- [[6-856j-randomized-algorithms-fall-2002|Randomized Algorithms]] — 6.856J, Fall 2002
+- [[1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004|Environmental Engineering Applications of Geographic Information Systems]] — 1.963, Fall 2004
+- [[6-858-computer-systems-security-fall-2014|Computer Systems Security]] — 6.858, Fall 2014
 - [[10-34-numerical-methods-applied-to-chemical-engineering-fall-2005|Numerical Methods Applied to Chemical Engineering]] — 10.34, Fall 2005
 - [[6-042j-mathematics-for-computer-science-fall-2010|Mathematics for Computer Science]] — 6.042J, Fall 2010
 - [[hst-950j-medical-computing-spring-2003|Medical Computing]] — HST.950J, Spring 2003

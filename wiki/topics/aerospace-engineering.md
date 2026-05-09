@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[16-001-unified-engineering-materials-and-structures-fall-2021|Unified Engineering: Materials and Structures]] — 16.001, Fall 2021
+- [[16-121-analytical-subsonic-aerodynamics-fall-2017|Analytical Subsonic Aerodynamics]] — 16.121, Fall 2017
 - [[16-100-aerodynamics-fall-2005|Aerodynamics]] — 16.100, Fall 2005
 - [[16-540-internal-flows-in-turbomachines-spring-2006|Internal Flows in Turbomachines]] — 16.540, Spring 2006
 - [[16-21-techniques-for-structural-analysis-and-design-spring-2005|Techniques for Structural Analysis and Design]] — 16.21, Spring 2005

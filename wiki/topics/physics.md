@@ -12,6 +12,12 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[8-01sc-classical-mechanics-fall-2016|Classical Mechanics]] — 8.01SC, Fall 2016
+- [[8-513-many-body-theory-for-condensed-matter-systems-fall-2004|Many-Body Theory for Condensed Matter Systems]] — 8.513, Fall 2004
+- [[8-513-modern-quantum-many-body-physics-for-condensed-matter-systems-fall-2021|Modern Quantum Many-body Physics for Condensed Matter Systems]] — 8.513, Fall 2021
+- [[res-tll-004-stem-concept-videos-fall-2013|STEM Concept Videos]] — RES.TLL-004, Fall 2013
+- [[es-255-physics-of-rock-climbing-spring-2006|Physics of Rock Climbing]] — ES.255, Spring 2006
+- [[8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003|Exploring Black Holes: General Relativity & Astrophysics]] — 8.224, Spring 2003
 - [[res-10-s95-physics-of-covid-19-transmission-fall-2020|Physics of COVID-19 Transmission]] — RES.10-S95, Fall 2020
 - [[2-71-optics-spring-2014|Optics]] — 2.71, Spring 2014
 - [[22-02-introduction-to-applied-nuclear-physics-spring-2012|Introduction to Applied Nuclear Physics]] — 22.02, Spring 2012

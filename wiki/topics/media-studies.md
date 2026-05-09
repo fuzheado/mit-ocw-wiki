@@ -12,6 +12,12 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[cms-100-introduction-to-media-studies-fall-2014|Introduction to Media Studies]] — CMS.100, Fall 2014
+- [[4-602-modern-art-and-mass-culture-spring-2012|Modern Art and Mass Culture]] — 4.602, Spring 2012
+- [[cms-611j-creating-video-games-fall-2014|Creating Video Games]] — CMS.611J, Fall 2014
+- [[20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015|Becoming the Next Bill Nye: Writing and Hosting the Educational Show]] — 20.219, January IAP 2015
+- [[es-272-culture-tech-spring-2003|Culture Tech]] — ES.272, Spring 2003
+- [[21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008|Writing About Race: Narratives of Multiraciality]] — 21W.742J, Fall 2008
 - [[21a-850j-the-anthropology-of-cybercultures-spring-2009|The Anthropology of Cybercultures]] — 21A.850J, Spring 2009
 - [[21m-361-composing-with-computers-i-electronic-music-composition-spring-2008|Composing with Computers I (Electronic Music Composition)]] — 21M.361, Spring 2008
 - [[21g-213-high-intermediate-academic-communication-spring-2004|High-Intermediate Academic Communication]] — 21G.213, Spring 2004

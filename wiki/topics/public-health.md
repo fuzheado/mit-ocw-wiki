@@ -12,6 +12,9 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[6-s897-machine-learning-for-healthcare-spring-2019|Machine Learning for Healthcare]] — 6.S897, Spring 2019
+- [[21h-s01-food-in-american-history-fall-2014|Food in American History]] — 21H.S01, Fall 2014
+- [[6-811-principles-and-practice-of-assistive-technology-fall-2014|Principles and Practice of Assistive Technology]] — 6.811, Fall 2014
 - [[res-10-s95-physics-of-covid-19-transmission-fall-2020|Physics of COVID-19 Transmission]] — RES.10-S95, Fall 2020
 - [[wgs-151-gender-health-and-society-spring-2016|Gender, Health, and Society]] — WGS.151, Spring 2016
 - [[15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013|Business Model Innovation: Global Health in Frontier Markets]] — 15.232, Fall 2013

@@ -12,6 +12,9 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[res-7-003-brave-new-planet-fall-2020|Brave New Planet]] — RES.7-003, Fall 2020
+- [[21h-s01-food-in-american-history-fall-2014|Food in American History]] — 21H.S01, Fall 2014
+- [[11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017|Global Cityscope - Disaster Planning and Post-Disaster Rebuilding and Recovery]] — 11.027, Spring 2017
 - [[4-430-daylighting-spring-2012|Daylighting]] — 4.430, Spring 2012
 - [[4-401-introduction-to-building-technology-spring-2006|Introduction to Building Technology]] — 4.401, Spring 2006
 - [[22-033-nuclear-systems-design-project-fall-2011|Nuclear Systems Design Project]] — 22.033, Fall 2011

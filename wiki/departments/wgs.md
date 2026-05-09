@@ -12,6 +12,11 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[24-912-black-matters-introduction-to-black-studies-spring-2017|Black Matters: Introduction to Black Studies]] (24.912)
+- [[21l-460-medieval-literature-medieval-women-writers-spring-2004|Medieval Literature: Medieval Women Writers]] (21L.460)
+- [[21h-927j-the-economic-history-of-work-and-family-spring-2005|The Economic History of Work and Family]] (21H.927J)
+- [[wgs-160j-science-activism-gender-race-and-power-fall-2019|Science Activism: Gender, Race, and Power]] (WGS.160J)
+- [[21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008|Writing About Race: Narratives of Multiraciality]] (21W.742J)
 - [[wgs-151-gender-health-and-society-spring-2016|Gender, Health, and Society]] (WGS.151)
 - [[21a-338j-gender-power-and-international-development-fall-2003|Gender, Power, and International Development]] (21A.338J)
 - [[21g-067j-cultural-performances-of-asia-fall-2005|Cultural Performances of Asia]] (21G.067J)

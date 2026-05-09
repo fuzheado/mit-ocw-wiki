@@ -12,6 +12,11 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-696-a-global-history-of-architecture-writing-seminar-spring-2008|A Global History of Architecture Writing Seminar]] — 4.696, Spring 2008
+- [[4-196-architecture-design-level-ii-cuba-studio-spring-2004|Architecture Design, Level II: Cuba Studio]] — 4.196, Spring 2004
+- [[4-125a-architecture-studio-building-in-landscapes-fall-2005|Architecture Studio: Building in Landscapes]] — 4.125A, Fall 2005
+- [[4-580-inquiry-into-computation-and-design-fall-2006|Inquiry into Computation and Design]] — 4.580, Fall 2006
+- [[11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009|Revitalizing Urban Main Streets: St. Claude Avenue, New Orleans]] — 11.439, Spring 2009
 - [[4-42j-fundamentals-of-energy-in-buildings-fall-2010|Fundamentals of Energy in Buildings]] — 4.42J, Fall 2010
 - [[4-101-experiencing-architecture-studio-spring-2003|Experiencing Architecture Studio]] — 4.101, Spring 2003
 - [[4-430-daylighting-spring-2012|Daylighting]] — 4.430, Spring 2012

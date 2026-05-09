@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-040-project-management-spring-2009|Project Management]] — 1.040, Spring 2009
+- [[11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017|Global Cityscope - Disaster Planning and Post-Disaster Rebuilding and Recovery]] — 11.027, Spring 2017
 - [[4-430-daylighting-spring-2012|Daylighting]] — 4.430, Spring 2012
 - [[4-401-introduction-to-building-technology-spring-2006|Introduction to Building Technology]] — 4.401, Spring 2006
 - [[11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003|Spatial Database Management and Advanced Geographic Information Systems]] — 11.521, Spring 2003

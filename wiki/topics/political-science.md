@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[sts-080-youth-political-participation-spring-2016|Youth Political Participation]] — STS.080, Spring 2016
+- [[17-955-civil-society-social-capital-and-the-state-in-comparative-perspective-fall-2004|Civil Society, Social Capital, and the State in Comparative Perspective]] — 17.955, Fall 2004
+- [[17-559-comparative-security-and-sustainability-fall-2004|Comparative Security and Sustainability]] — 17.559, Fall 2004
 - [[21g-084j-introduction-to-latin-american-studies-fall-2005|Introduction to Latin American Studies]] — 21G.084J, Fall 2005
 - [[11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005|Workshop on Deliberative Democracy and Dispute Resolution]] — 11.969, Summer 2005
 - [[17-523-ethnicity-and-race-in-world-politics-fall-2005|Ethnicity and Race in World Politics]] — 17.523, Fall 2005

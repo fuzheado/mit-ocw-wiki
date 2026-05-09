@@ -12,6 +12,9 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[sts-360-ethnography-spring-2003|Ethnography]] (STS.360)
+- [[sts-080-youth-political-participation-spring-2016|Youth Political Participation]] (STS.080)
+- [[wgs-160j-science-activism-gender-race-and-power-fall-2019|Science Activism: Gender, Race, and Power]] (WGS.160J)
 - [[21a-850j-the-anthropology-of-cybercultures-spring-2009|The Anthropology of Cybercultures]] (21A.850J)
 - [[sts-429-food-and-power-in-the-twentieth-century-spring-2005|Food and Power in the Twentieth Century]] (STS.429)
 - [[sts-436-cold-war-science-fall-2008|Cold War Science]] (STS.436)

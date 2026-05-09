@@ -12,6 +12,12 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-912-black-matters-introduction-to-black-studies-spring-2017|Black Matters: Introduction to Black Studies]] — 24.912, Spring 2017
+- [[esd-932-engineering-ethics-spring-2006|Engineering Ethics]] — ESD.932, Spring 2006
+- [[res-7-003-brave-new-planet-fall-2020|Brave New Planet]] — RES.7-003, Fall 2020
+- [[24-902-language-and-its-structure-ii-syntax-fall-2003|Language and its Structure II: Syntax]] — 24.902, Fall 2003
+- [[24-118-paradox-and-infinity-spring-2019|Paradox and Infinity]] — 24.118, Spring 2019
+- [[24-213-philosophy-of-film-fall-2004|Philosophy of Film]] — 24.213, Fall 2004
 - [[21l-449-end-of-nature-spring-2002|End of Nature]] — 21L.449, Spring 2002
 - [[21g-084j-introduction-to-latin-american-studies-fall-2005|Introduction to Latin American Studies]] — 21G.084J, Fall 2005
 - [[21a-338j-gender-power-and-international-development-fall-2003|Gender, Power, and International Development]] — 21A.338J, Fall 2003

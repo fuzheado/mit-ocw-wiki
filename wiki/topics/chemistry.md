@@ -12,6 +12,9 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[5-301-chemistry-laboratory-techniques-january-iap-2012|Chemistry Laboratory Techniques]] — 5.301, January IAP 2012
+- [[res-tll-004-stem-concept-videos-fall-2013|STEM Concept Videos]] — RES.TLL-004, Fall 2013
+- [[5-13-organic-chemistry-ii-fall-2003|Organic Chemistry II]] — 5.13, Fall 2003
 - [[5-12-organic-chemistry-i-spring-2005|Organic Chemistry I]] — 5.12, Spring 2005
 - [[22-05-neutron-science-and-reactor-physics-fall-2009|Neutron Science and Reactor Physics]] — 22.05, Fall 2009
 - [[5-61-physical-chemistry-fall-2007|Physical Chemistry]] — 5.61, Fall 2007

@@ -12,6 +12,17 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-912-black-matters-introduction-to-black-studies-spring-2017|Black Matters: Introduction to Black Studies]] — 24.912, Spring 2017
+- [[21l-460-medieval-literature-medieval-women-writers-spring-2004|Medieval Literature: Medieval Women Writers]] — 21L.460, Spring 2004
+- [[21g-026-global-africa-creative-cultures-spring-2018|Global Africa: Creative Cultures]] — 21G.026, Spring 2018
+- [[4-696-a-global-history-of-architecture-writing-seminar-spring-2008|A Global History of Architecture Writing Seminar]] — 4.696, Spring 2008
+- [[21l-704-studies-in-poetry-20th-century-irish-poetry-the-shadow-of-w-b-yeats-spring-2008|Studies in Poetry: 20th Century Irish Poetry: The Shadow of W. B. Yeats]] — 21L.704, Spring 2008
+- [[12-757-science-and-communication-spring-2005|Science and Communication]] — 12.757, Spring 2005
+- [[21g-412-texts-topics-and-times-in-german-literature-fall-2009|Texts, Topics, and Times in German Literature]] — 21G.412, Fall 2009
+- [[21g-716-introduction-to-contemporary-hispanic-literature-spring-2005|Introduction to Contemporary Hispanic Literature]] — 21G.716, Spring 2005
+- [[21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008|Writing About Race: Narratives of Multiraciality]] — 21W.742J, Fall 2008
+- [[21l-003-2-reading-fiction-fall-2006|Reading Fiction]] — 21L.003-2, Fall 2006
+- [[21l-019-introduction-to-european-and-latin-american-fiction-great-books-on-the-page-and-on-the-screen-spring-2017|Introduction to European and Latin American Fiction: Great Books on the Page and on the Screen]] — 21L.019, Spring 2017
 - [[21l-463-renaissance-literature-fall-2008|Renaissance Literature]] — 21L.463, Fall 2008
 - [[21l-449-end-of-nature-spring-2002|End of Nature]] — 21L.449, Spring 2002
 - [[21w-758-genre-fiction-workshop-fantasy-fall-2016|Genre Fiction Workshop: Fantasy]] — 21W.758, Fall 2016

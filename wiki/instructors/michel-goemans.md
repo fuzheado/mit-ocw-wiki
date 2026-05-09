@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-854j-advanced-algorithms-fall-2008|Advanced Algorithms]]
 - [[18-997-topics-in-combinatorial-optimization-spring-2004|Topics in Combinatorial Optimization]]

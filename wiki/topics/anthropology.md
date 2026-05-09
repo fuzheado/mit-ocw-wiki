@@ -12,6 +12,14 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[sts-360-ethnography-spring-2003|Ethnography]] — STS.360, Spring 2003
+- [[21g-026-global-africa-creative-cultures-spring-2018|Global Africa: Creative Cultures]] — 21G.026, Spring 2018
+- [[4-196-architecture-design-level-ii-cuba-studio-spring-2004|Architecture Design, Level II: Cuba Studio]] — 4.196, Spring 2004
+- [[21h-927j-the-economic-history-of-work-and-family-spring-2005|The Economic History of Work and Family]] — 21H.927J, Spring 2005
+- [[21g-412-texts-topics-and-times-in-german-literature-fall-2009|Texts, Topics, and Times in German Literature]] — 21G.412, Fall 2009
+- [[21a-441-the-conquest-of-america-spring-2004|The Conquest of America]] — 21A.441, Spring 2004
+- [[es-272-culture-tech-spring-2003|Culture Tech]] — ES.272, Spring 2003
+- [[21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008|Writing About Race: Narratives of Multiraciality]] — 21W.742J, Fall 2008
 - [[21a-850j-the-anthropology-of-cybercultures-spring-2009|The Anthropology of Cybercultures]] — 21A.850J, Spring 2009
 - [[21a-338j-gender-power-and-international-development-fall-2003|Gender, Power, and International Development]] — 21A.338J, Fall 2003
 - [[21a-219-law-and-society-spring-2003|Law and Society]] — 21A.219, Spring 2003

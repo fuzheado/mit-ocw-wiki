@@ -25,6 +25,38 @@ courses_count: 0
 
 ## Courses
 
+- [[es-242-gender-issues-in-academics-and-academia-spring-2004|Gender Issues in Academics and Academia]] — ES.242, Spring 2004
+- [[sts-360-ethnography-spring-2003|Ethnography]] — STS.360, Spring 2003
+- [[14-05-intermediate-macroeconomics-spring-2013|Intermediate Macroeconomics]] — 14.05, Spring 2013
+- [[17-953-u-s-budgets-for-national-security-fall-2010|U.S. Budgets for National Security]] — 17.953, Fall 2010
+- [[21g-026-global-africa-creative-cultures-spring-2018|Global Africa: Creative Cultures]] — 21G.026, Spring 2018
+- [[res-7-003-brave-new-planet-fall-2020|Brave New Planet]] — RES.7-003, Fall 2020
+- [[11-s945-equity-inclusion-local-policy-driven-strategies-for-economic-development-the-just-city-spring-2019|Equity & Inclusion: Local Policy-Driven Strategies for Economic Development & the Just City]] — 11.S945, Spring 2019
+- [[4-196-architecture-design-level-ii-cuba-studio-spring-2004|Architecture Design, Level II: Cuba Studio]] — 4.196, Spring 2004
+- [[sts-080-youth-political-participation-spring-2016|Youth Political Participation]] — STS.080, Spring 2016
+- [[15-225-economy-and-business-in-modern-china-and-india-spring-2008|Economy and Business in Modern China and India]] — 15.225, Spring 2008
+- [[9-96-experimental-methods-of-adjustable-tetrode-array-neurophysiology-january-iap-2001|Experimental Methods of Adjustable Tetrode Array Neurophysiology]] — 9.96, January IAP 2001
+- [[14-06-intermediate-macroeconomic-theory-spring-2003|Intermediate Macroeconomic Theory]] — 14.06, Spring 2003
+- [[14-387-applied-econometrics-mostly-harmless-big-data-fall-2014|Applied Econometrics: Mostly Harmless Big Data]] — 14.387, Fall 2014
+- [[21h-927j-the-economic-history-of-work-and-family-spring-2005|The Economic History of Work and Family]] — 21H.927J, Spring 2005
+- [[14-282-organizational-economics-spring-2009|Organizational Economics]] — 14.282, Spring 2009
+- [[17-955-civil-society-social-capital-and-the-state-in-comparative-perspective-fall-2004|Civil Society, Social Capital, and the State in Comparative Perspective]] — 17.955, Fall 2004
+- [[17-559-comparative-security-and-sustainability-fall-2004|Comparative Security and Sustainability]] — 17.559, Fall 2004
+- [[11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005|Revitalizing Urban Main Streets: Hyde/Jackson Square & Roslindale Square, Boston]] — 11.439, Spring 2005
+- [[20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015|Becoming the Next Bill Nye: Writing and Hosting the Educational Show]] — 20.219, January IAP 2015
+- [[wgs-160j-science-activism-gender-race-and-power-fall-2019|Science Activism: Gender, Race, and Power]] — WGS.160J, Fall 2019
+- [[12-757-science-and-communication-spring-2005|Science and Communication]] — 12.757, Spring 2005
+- [[21g-412-texts-topics-and-times-in-german-literature-fall-2009|Texts, Topics, and Times in German Literature]] — 21G.412, Fall 2009
+- [[res-tll-004-stem-concept-videos-fall-2013|STEM Concept Videos]] — RES.TLL-004, Fall 2013
+- [[24-118-paradox-and-infinity-spring-2019|Paradox and Infinity]] — 24.118, Spring 2019
+- [[21h-601-islam-the-middle-east-and-the-west-fall-2006|Islam, the Middle East, and the West]] — 21H.601, Fall 2006
+- [[21g-402-german-ii-spring-2005|German II]] — 21G.402, Spring 2005
+- [[21a-441-the-conquest-of-america-spring-2004|The Conquest of America]] — 21A.441, Spring 2004
+- [[1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004|Environmental Engineering Applications of Geographic Information Systems]] — 1.963, Fall 2004
+- [[es-272-culture-tech-spring-2003|Culture Tech]] — ES.272, Spring 2003
+- [[21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008|Writing About Race: Narratives of Multiraciality]] — 21W.742J, Fall 2008
+- [[11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009|Revitalizing Urban Main Streets: St. Claude Avenue, New Orleans]] — 11.439, Spring 2009
+- [[11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017|Global Cityscope - Disaster Planning and Post-Disaster Rebuilding and Recovery]] — 11.027, Spring 2017
 - [[15-518-taxes-and-business-strategy-fall-2002|Taxes and Business Strategy]] — 15.518, Fall 2002
 - [[21g-084j-introduction-to-latin-american-studies-fall-2005|Introduction to Latin American Studies]] — 21G.084J, Fall 2005
 - [[21a-850j-the-anthropology-of-cybercultures-spring-2009|The Anthropology of Cybercultures]] — 21A.850J, Spring 2009

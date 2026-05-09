@@ -25,6 +25,42 @@ courses_count: 0
 
 ## Courses
 
+- [[20-181-computation-for-biological-engineers-fall-2006|Computation for Biological Engineers]] — 20.181, Fall 2006
+- [[11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015|Computer Games and Simulations for Education and Exploration]] — 11.127J, Spring 2015
+- [[2-00b-toy-product-design-spring-2021|Toy Product Design]] — 2.00B, Spring 2021
+- [[6-826-principles-of-computer-systems-spring-2002|Principles of Computer Systems]] — 6.826, Spring 2002
+- [[6-832-underactuated-robotics-spring-2022|Underactuated Robotics]] — 6.832, Spring 2022
+- [[6-854j-advanced-algorithms-fall-2008|Advanced Algorithms]] — 6.854J, Fall 2008
+- [[esd-932-engineering-ethics-spring-2006|Engineering Ethics]] — ESD.932, Spring 2006
+- [[res-7-003-brave-new-planet-fall-2020|Brave New Planet]] — RES.7-003, Fall 2020
+- [[6-551j-acoustics-of-speech-and-hearing-fall-2004|Acoustics of Speech and Hearing]] — 6.551J, Fall 2004
+- [[18-357-interfacial-phenomena-fall-2010|Interfacial Phenomena]] — 18.357, Fall 2010
+- [[6-s897-machine-learning-for-healthcare-spring-2019|Machine Learning for Healthcare]] — 6.S897, Spring 2019
+- [[16-001-unified-engineering-materials-and-structures-fall-2021|Unified Engineering: Materials and Structures]] — 16.001, Fall 2021
+- [[6-091-hands-on-introduction-to-electrical-engineering-lab-skills-january-iap-2008|Hands-On Introduction to Electrical Engineering Lab Skills]] — 6.091, January IAP 2008
+- [[2-016-hydrodynamics-13-012-fall-2005|Hydrodynamics (13.012)]] — 2.016, Fall 2005
+- [[14-06-intermediate-macroeconomic-theory-spring-2003|Intermediate Macroeconomic Theory]] — 14.06, Spring 2003
+- [[2-971-2nd-summer-introduction-to-design-january-iap-2003|2nd Summer Introduction to Design]] — 2.971, January IAP 2003
+- [[14-387-applied-econometrics-mostly-harmless-big-data-fall-2014|Applied Econometrics: Mostly Harmless Big Data]] — 14.387, Fall 2014
+- [[6-811-principles-and-practice-of-assistive-technology-fall-2014|Principles and Practice of Assistive Technology]] — 6.811, Fall 2014
+- [[1-040-project-management-spring-2009|Project Management]] — 1.040, Spring 2009
+- [[cms-611j-creating-video-games-fall-2014|Creating Video Games]] — CMS.611J, Fall 2014
+- [[6-301-solid-state-circuits-fall-2010|Solid-State Circuits]] — 6.301, Fall 2010
+- [[6-450-principles-of-digital-communication-i-fall-2009|Principles of Digital Communication I]] — 6.450, Fall 2009
+- [[6-092-java-preparation-for-6-170-january-iap-2006|Java Preparation for 6.170]] — 6.092, January IAP 2006
+- [[2-993-designing-paths-to-peace-fall-2002|Designing Paths to Peace]] — 2.993, Fall 2002
+- [[res-bloss-blended-learning-open-source-science-or-math-studies-blossoms-spring-2010|Blended Learning Open Source Science or Math Studies (BLOSSOMS)]] — RES.BLOSS, Spring 2010
+- [[res-tll-004-stem-concept-videos-fall-2013|STEM Concept Videos]] — RES.TLL-004, Fall 2013
+- [[16-121-analytical-subsonic-aerodynamics-fall-2017|Analytical Subsonic Aerodynamics]] — 16.121, Fall 2017
+- [[4-580-inquiry-into-computation-and-design-fall-2006|Inquiry into Computation and Design]] — 4.580, Fall 2006
+- [[6-856j-randomized-algorithms-fall-2002|Randomized Algorithms]] — 6.856J, Fall 2002
+- [[1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004|Environmental Engineering Applications of Geographic Information Systems]] — 1.963, Fall 2004
+- [[20-462j-molecular-principles-of-biomaterials-spring-2006|Molecular Principles of Biomaterials]] — 20.462J, Spring 2006
+- [[9-29j-introduction-to-computational-neuroscience-spring-2004|Introduction to Computational Neuroscience]] — 9.29J, Spring 2004
+- [[es-255-physics-of-rock-climbing-spring-2006|Physics of Rock Climbing]] — ES.255, Spring 2006
+- [[res-6-007-signals-and-systems-spring-2011|Signals and Systems]] — RES.6-007, Spring 2011
+- [[11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017|Global Cityscope - Disaster Planning and Post-Disaster Rebuilding and Recovery]] — 11.027, Spring 2017
+- [[6-858-computer-systems-security-fall-2014|Computer Systems Security]] — 6.858, Fall 2014
 - [[16-100-aerodynamics-fall-2005|Aerodynamics]] — 16.100, Fall 2005
 - [[res-10-s95-physics-of-covid-19-transmission-fall-2020|Physics of COVID-19 Transmission]] — RES.10-S95, Fall 2020
 - [[12-950-atmospheric-and-oceanic-modeling-spring-2004|Atmospheric and Oceanic Modeling]] — 12.950, Spring 2004

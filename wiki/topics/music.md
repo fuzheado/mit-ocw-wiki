@@ -12,6 +12,9 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21m-410-vocal-repertoire-and-performance-women-composers-spring-2007|Vocal Repertoire and Performance: Women Composers]] — 21M.410, Spring 2007
+- [[21g-026-global-africa-creative-cultures-spring-2018|Global Africa: Creative Cultures]] — 21G.026, Spring 2018
+- [[21m-220-early-music-fall-2010|Early Music]] — 21M.220, Fall 2010
 - [[21m-051-fundamentals-of-music-spring-2007|Fundamentals of Music]] — 21M.051, Spring 2007
 - [[21m-361-composing-with-computers-i-electronic-music-composition-spring-2008|Composing with Computers I (Electronic Music Composition)]] — 21M.361, Spring 2008
 - [[21m-361-composing-with-computers-i-electronic-music-composition-spring-2008|Composing with Computers I (Electronic Music Composition)]] — 21M.361, Spring 2008

@@ -12,6 +12,11 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[20-181-computation-for-biological-engineers-fall-2006|Computation for Biological Engineers]] — 20.181, Fall 2006
+- [[2-00b-toy-product-design-spring-2021|Toy Product Design]] — 2.00B, Spring 2021
+- [[14-06-intermediate-macroeconomic-theory-spring-2003|Intermediate Macroeconomic Theory]] — 14.06, Spring 2003
+- [[2-971-2nd-summer-introduction-to-design-january-iap-2003|2nd Summer Introduction to Design]] — 2.971, January IAP 2003
+- [[2-993-designing-paths-to-peace-fall-2002|Designing Paths to Peace]] — 2.993, Fall 2002
 - [[18-997-topics-in-combinatorial-optimization-spring-2004|Topics in Combinatorial Optimization]] — 18.997, Spring 2004
 - [[esd-71-engineering-systems-analysis-for-design-fall-2008|Engineering Systems Analysis for Design]] — ESD.71, Fall 2008
 - [[20-180-biological-engineering-programming-spring-2006|Biological Engineering Programming]] — 20.180, Spring 2006

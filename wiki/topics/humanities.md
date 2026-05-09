@@ -20,6 +20,33 @@ courses_count: 0
 
 ## Courses
 
+- [[24-912-black-matters-introduction-to-black-studies-spring-2017|Black Matters: Introduction to Black Studies]] — 24.912, Spring 2017
+- [[21m-410-vocal-repertoire-and-performance-women-composers-spring-2007|Vocal Repertoire and Performance: Women Composers]] — 21M.410, Spring 2007
+- [[21l-460-medieval-literature-medieval-women-writers-spring-2004|Medieval Literature: Medieval Women Writers]] — 21L.460, Spring 2004
+- [[esd-932-engineering-ethics-spring-2006|Engineering Ethics]] — ESD.932, Spring 2006
+- [[21g-026-global-africa-creative-cultures-spring-2018|Global Africa: Creative Cultures]] — 21G.026, Spring 2018
+- [[res-7-003-brave-new-planet-fall-2020|Brave New Planet]] — RES.7-003, Fall 2020
+- [[4-696-a-global-history-of-architecture-writing-seminar-spring-2008|A Global History of Architecture Writing Seminar]] — 4.696, Spring 2008
+- [[sts-080-youth-political-participation-spring-2016|Youth Political Participation]] — STS.080, Spring 2016
+- [[21l-704-studies-in-poetry-20th-century-irish-poetry-the-shadow-of-w-b-yeats-spring-2008|Studies in Poetry: 20th Century Irish Poetry: The Shadow of W. B. Yeats]] — 21L.704, Spring 2008
+- [[21h-009-the-world-1400-present-spring-2014|The World: 1400-Present]] — 21H.009, Spring 2014
+- [[21h-s01-food-in-american-history-fall-2014|Food in American History]] — 21H.S01, Fall 2014
+- [[21h-927j-the-economic-history-of-work-and-family-spring-2005|The Economic History of Work and Family]] — 21H.927J, Spring 2005
+- [[4-602-modern-art-and-mass-culture-spring-2012|Modern Art and Mass Culture]] — 4.602, Spring 2012
+- [[12-757-science-and-communication-spring-2005|Science and Communication]] — 12.757, Spring 2005
+- [[21g-412-texts-topics-and-times-in-german-literature-fall-2009|Texts, Topics, and Times in German Literature]] — 21G.412, Fall 2009
+- [[24-902-language-and-its-structure-ii-syntax-fall-2003|Language and its Structure II: Syntax]] — 24.902, Fall 2003
+- [[24-118-paradox-and-infinity-spring-2019|Paradox and Infinity]] — 24.118, Spring 2019
+- [[21h-601-islam-the-middle-east-and-the-west-fall-2006|Islam, the Middle East, and the West]] — 21H.601, Fall 2006
+- [[21m-220-early-music-fall-2010|Early Music]] — 21M.220, Fall 2010
+- [[21g-402-german-ii-spring-2005|German II]] — 21G.402, Spring 2005
+- [[21a-441-the-conquest-of-america-spring-2004|The Conquest of America]] — 21A.441, Spring 2004
+- [[21g-716-introduction-to-contemporary-hispanic-literature-spring-2005|Introduction to Contemporary Hispanic Literature]] — 21G.716, Spring 2005
+- [[es-272-culture-tech-spring-2003|Culture Tech]] — ES.272, Spring 2003
+- [[24-213-philosophy-of-film-fall-2004|Philosophy of Film]] — 24.213, Fall 2004
+- [[21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008|Writing About Race: Narratives of Multiraciality]] — 21W.742J, Fall 2008
+- [[21l-003-2-reading-fiction-fall-2006|Reading Fiction]] — 21L.003-2, Fall 2006
+- [[21l-019-introduction-to-european-and-latin-american-fiction-great-books-on-the-page-and-on-the-screen-spring-2017|Introduction to European and Latin American Fiction: Great Books on the Page and on the Screen]] — 21L.019, Spring 2017
 - [[21l-463-renaissance-literature-fall-2008|Renaissance Literature]] — 21L.463, Fall 2008
 - [[21l-449-end-of-nature-spring-2002|End of Nature]] — 21L.449, Spring 2002
 - [[21g-084j-introduction-to-latin-american-studies-fall-2005|Introduction to Latin American Studies]] — 21G.084J, Fall 2005

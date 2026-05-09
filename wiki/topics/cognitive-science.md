@@ -12,6 +12,10 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-10-cognitive-neuroscience-spring-2006|Cognitive Neuroscience]] — 9.10, Spring 2006
+- [[9-96-experimental-methods-of-adjustable-tetrode-array-neurophysiology-january-iap-2001|Experimental Methods of Adjustable Tetrode Array Neurophysiology]] — 9.96, January IAP 2001
+- [[9-s915-developmental-cognitive-neuroscience-spring-2012|Developmental Cognitive Neuroscience]] — 9.S915, Spring 2012
+- [[9-29j-introduction-to-computational-neuroscience-spring-2004|Introduction to Computational Neuroscience]] — 9.29J, Spring 2004
 - [[9-081-human-memory-and-learning-fall-2002|Human Memory and Learning]] — 9.081, Fall 2002
 - [[18-465-topics-in-statistics-statistical-learning-theory-spring-2007|Topics in Statistics: Statistical Learning Theory]] (18.465) — Spring 2007
 - [[6-864-advanced-natural-language-processing-fall-2005|Advanced Natural Language Processing]] (6.864) — Fall 2005

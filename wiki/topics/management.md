@@ -12,6 +12,7 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-810-marketing-management-analytics-frameworks-and-applications-fall-2015|Marketing Management: Analytics, Frameworks, and Applications]] — 15.810, Fall 2015
 - [[15-518-taxes-and-business-strategy-fall-2002|Taxes and Business Strategy]] — 15.518, Fall 2002
 - [[15-872-system-dynamics-ii-fall-2013|System Dynamics II]] — 15.872, Fall 2013
 - [[15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003|Designing and Leading the Entrepreneurial Organization]] — 15.394, Spring 2003

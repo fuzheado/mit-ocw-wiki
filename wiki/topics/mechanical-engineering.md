@@ -12,6 +12,14 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-00b-toy-product-design-spring-2021|Toy Product Design]] — 2.00B, Spring 2021
+- [[18-357-interfacial-phenomena-fall-2010|Interfacial Phenomena]] — 18.357, Fall 2010
+- [[2-016-hydrodynamics-13-012-fall-2005|Hydrodynamics (13.012)]] — 2.016, Fall 2005
+- [[2-971-2nd-summer-introduction-to-design-january-iap-2003|2nd Summer Introduction to Design]] — 2.971, January IAP 2003
+- [[6-811-principles-and-practice-of-assistive-technology-fall-2014|Principles and Practice of Assistive Technology]] — 6.811, Fall 2014
+- [[2-993-designing-paths-to-peace-fall-2002|Designing Paths to Peace]] — 2.993, Fall 2002
+- [[20-462j-molecular-principles-of-biomaterials-spring-2006|Molecular Principles of Biomaterials]] — 20.462J, Spring 2006
+- [[es-255-physics-of-rock-climbing-spring-2006|Physics of Rock Climbing]] — ES.255, Spring 2006
 - [[16-100-aerodynamics-fall-2005|Aerodynamics]] — 16.100, Fall 2005
 - [[12-950-atmospheric-and-oceanic-modeling-spring-2004|Atmospheric and Oceanic Modeling]] — 12.950, Spring 2004
 - [[2-71-optics-spring-2014|Optics]] — 2.71, Spring 2014
