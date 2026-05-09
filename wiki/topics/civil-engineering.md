@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[4-461-building-technology-i-materials-and-construction-fall-2004|Building Technology I: Materials and Construction]] — 4.461, Fall 2004
+- [[12-540-principles-of-the-global-positioning-system-spring-2012|Principles of the Global Positioning System]] — 12.540, Spring 2012
 - [[1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005|An Introduction to Intelligent Transportation Systems]] — 1.212J, Spring 2005
 - [[1-221j-transportation-systems-fall-2004|Transportation Systems]] — 1.221J, Fall 2004
 - [[1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003|Strategic Management in the Design and Construction Value Chain]] — 1.46, Fall 2003

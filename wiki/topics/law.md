@@ -12,6 +12,7 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[15-628j-patents-copyrights-and-the-law-of-intellectual-property-spring-2013|Patents, Copyrights, and the Law of Intellectual Property]] — 15.628J, Spring 2013
 - [[17-271-mass-incarceration-in-the-united-states-fall-2020|Mass Incarceration in the United States]] — 17.271, Fall 2020
 - [[6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005|Ethics and the Law on the Electronic Frontier]] — 6.805, Fall 2005
 - [[6-901-inventions-and-patents-fall-2005|Inventions and Patents]] — 6.901, Fall 2005

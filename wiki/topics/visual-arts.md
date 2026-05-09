@@ -12,6 +12,10 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017|Intentional Public Disruptions: Art, Responsibility, and Pedagogy]] — RES.11-002, Fall 2017
+- [[4-a21-stories-without-words-photographing-the-first-year-fall-2006|Stories Without Words: Photographing the First Year]] — 4.A21, Fall 2006
+- [[4-302-bsad-foundations-in-the-visual-arts-fall-2003|BSAD Foundations in the Visual Arts]] — 4.302, Fall 2003
+- [[21g-414-german-culture-media-and-society-fall-2006|German Culture, Media, and Society]] — 21G.414, Fall 2006
 - [[es-333-producing-educational-videos-spring-2015|Producing Educational Videos]] — ES.333, Spring 2015
 - [[24-264-film-as-visual-and-literary-mythmaking-fall-2005|Film as Visual and Literary Mythmaking]] — 24.264, Fall 2005
 - [[6-163-strobe-project-laboratory-fall-2005|Strobe Project Laboratory]] — 6.163, Fall 2005

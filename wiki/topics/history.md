@@ -12,6 +12,14 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21h-161-the-middle-east-in-the-20th-century-fall-2015|The Middle East in the 20th Century]] — 21H.161, Fall 2015
+- [[21h-207-the-energy-crisis-past-and-present-fall-2010|The Energy Crisis: Past and Present]] — 21H.207, Fall 2010
+- [[21h-223-war-american-society-fall-2002|War & American Society]] — 21H.223, Fall 2002
+- [[es-113-ancient-greek-philosophy-and-mathematics-spring-2016|Ancient Greek Philosophy and Mathematics]] — ES.113, Spring 2016
+- [[21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016|Globalization: The Good, the Bad and the In-Between]] — 21L.020J, Fall 2016
+- [[res-8-008-nuclear-weapons-education-project-spring-2022|Nuclear Weapons Education Project]] — RES.8-008, Spring 2022
+- [[21h-301-the-ancient-world-greece-fall-2004|The Ancient World: Greece]] — 21H.301, Fall 2004
+- [[sts-002-toward-the-scientific-revolution-fall-2003|Toward the Scientific Revolution]] — STS.002, Fall 2003
 - [[sts-462-social-and-political-implications-of-technology-spring-2006|Social and Political Implications of Technology]] — STS.462, Spring 2006
 - [[21h-914-jewish-history-from-biblical-to-modern-times-fall-2007|Jewish History from Biblical to Modern Times]] — 21H.914, Fall 2007
 - [[21h-105-american-classics-spring-2006|American Classics]] — 21H.105, Spring 2006

@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[12-812-general-circulation-of-the-earths-atmosphere-fall-2005|General Circulation of the Earth's Atmosphere]] — 12.812, Fall 2005
+- [[1-77-water-quality-control-spring-2006|Water Quality Control]] — 1.77, Spring 2006
+- [[1-63-advanced-fluid-dynamics-of-the-environment-fall-2002|Advanced Fluid Dynamics of the Environment]] — 1.63, Fall 2002
 - [[11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001|Special Studies in Urban Studies and Planning - The Cardener River Corridor Workshop]] — 11.943, Fall 2001
 - [[2-500-desalination-and-water-purification-spring-2009|Desalination and Water Purification]] — 2.500, Spring 2009
 - [[11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003|Use of Joint Fact Finding in Science Intensive Policy Disputes, Part I]] — 11.941, Fall 2003

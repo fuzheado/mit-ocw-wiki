@@ -12,6 +12,21 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-705-major-authors-john-milton-spring-2008|Major Authors: John Milton]] — 21L.705, Spring 2008
+- [[21g-404-german-iv-spring-2005|German IV]] — 21G.404, Spring 2005
+- [[11-233-crafting-research-questions-and-qualitative-methodology-fall-2005|Crafting Research Questions and Qualitative Methodology]] — 11.233, Fall 2005
+- [[21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011|Cross-Cultural Perspectives on Contemporary French Society]] — 21G.315, Fall 2011
+- [[21l-005-introduction-to-drama-fall-2004|Introduction to Drama]] — 21L.005, Fall 2004
+- [[21l-460-medieval-literature-love-sex-and-marriage-spring-2015|Medieval Literature: Love, Sex, and Marriage]] — 21L.460, Spring 2015
+- [[21l-450-literature-and-ethical-values-fall-2002|Literature and Ethical Values]] — 21L.450, Fall 2002
+- [[21l-701-literary-interpretation-literature-and-urban-experience-spring-2009|Literary Interpretation: Literature and Urban Experience]] — 21L.701, Spring 2009
+- [[21l-009-shakespeare-spring-2004|Shakespeare]] — 21L.009, Spring 2004
+- [[es-261-poetry-in-translation-spring-2006|Poetry in Translation]] — ES.261, Spring 2006
+- [[21l-015-introduction-to-media-studies-fall-2005|Introduction to Media Studies]] — 21L.015, Fall 2005
+- [[es-113-ancient-greek-philosophy-and-mathematics-spring-2016|Ancient Greek Philosophy and Mathematics]] — ES.113, Spring 2016
+- [[21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016|Globalization: The Good, the Bad and the In-Between]] — 21L.020J, Fall 2016
+- [[21g-225-advanced-workshop-in-writing-for-science-and-engineering-els-spring-2016|Advanced Workshop in Writing for Science and Engineering (ELS)]] — 21G.225, Spring 2016
+- [[21h-301-the-ancient-world-greece-fall-2004|The Ancient World: Greece]] — 21H.301, Fall 2004
 - [[21l-000j-writing-about-literature-writing-about-love-fall-2015|Writing About Literature: Writing About Love]] — 21L.000J, Fall 2015
 - [[es-269-passing-flexibility-in-race-and-gender-spring-2009|Passing: Flexibility in Race and Gender]] — ES.269, Spring 2009
 - [[21m-621-theater-and-cultural-diversity-in-the-u-s-spring-2008|Theater and Cultural Diversity in the U.S.]] — 21M.621, Spring 2008

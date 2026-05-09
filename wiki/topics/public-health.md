@@ -12,6 +12,9 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008|Designing and Sustaining Technology Innovation for Global Health Practice]] — HST.939, Spring 2008
+- [[sts-062j-drugs-politics-and-culture-spring-2006|Drugs, Politics, and Culture]] — STS.062J, Spring 2006
+- [[hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012|Health Information Systems to Improve Quality of Care in Resource-Poor Settings]] — HST.S14, Spring 2012
 - [[hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020|Global Health Informatics to Improve Quality of Care]] — HST.936x, Spring 2020
 - [[pe-740-fencing-spring-2007|Fencing]] — PE.740, Spring 2007
 - [[hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010|Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies]] — HST.934J, Spring 2010

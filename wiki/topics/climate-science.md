@@ -12,6 +12,8 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008|Designing and Sustaining Technology Innovation for Global Health Practice]] — HST.939, Spring 2008
+- [[res-env-003-earthdnas-climate-101-fall-2019|EarthDNA's Climate 101]] — RES.ENV-003, Fall 2019
 - [[12-340x-global-warming-science-spring-2020|Global Warming Science]] — 12.340x, Spring 2020
 - [[11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001|Special Studies in Urban Studies and Planning - The Cardener River Corridor Workshop]] — 11.943, Fall 2001
 - [[2-500-desalination-and-water-purification-spring-2009|Desalination and Water Purification]] — 2.500, Spring 2009

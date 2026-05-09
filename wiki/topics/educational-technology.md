@@ -12,6 +12,7 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[mas-714j-technologies-for-creative-learning-fall-2009|Technologies for Creative Learning]] — MAS.714J, Fall 2009
 - [[es-333-producing-educational-videos-spring-2015|Producing Educational Videos]] — ES.333, Spring 2015
 - [[res-tll-005-how-to-speak-january-iap-2018|How to Speak]] — RES.TLL-005, January IAP 2018
 - [[5-95j-teaching-college-level-science-and-engineering-fall-2015|Teaching College-Level Science and Engineering]] — 5.95J, Fall 2015

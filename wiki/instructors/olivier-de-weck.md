@@ -8,6 +8,8 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[16-810-engineering-design-and-rapid-prototyping-january-iap-2007|Engineering Design and Rapid Prototyping]]
+- [[16-842-fundamentals-of-systems-engineering-fall-2015|Fundamentals of Systems Engineering]]
 - [[16-810-engineering-design-and-rapid-prototyping-january-iap-2005|Engineering Design and Rapid Prototyping]]
 - [[esd-36-system-project-management-fall-2012|System Project Management]]
 - [[16-89j-space-systems-engineering-spring-2007|Space Systems Engineering]]

@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[16-459-bioengineering-journal-article-seminar-fall-2011|Bioengineering Journal Article Seminar]] — 16.459, Fall 2011
+- [[16-810-engineering-design-and-rapid-prototyping-january-iap-2007|Engineering Design and Rapid Prototyping]] — 16.810, January IAP 2007
+- [[16-06-principles-of-automatic-control-fall-2012|Principles of Automatic Control]] — 16.06, Fall 2012
+- [[16-842-fundamentals-of-systems-engineering-fall-2015|Fundamentals of Systems Engineering]] — 16.842, Fall 2015
 - [[16-30-feedback-control-systems-fall-2010|Feedback Control Systems]] — 16.30, Fall 2010
 - [[16-430j-sensory-neural-systems-spatial-orientation-from-end-organs-to-behavior-and-adaptation-spring-2012|Sensory-Neural Systems: Spatial Orientation from End Organs to Behavior and Adaptation]] — 16.430J, Spring 2012
 - [[1-050-solid-mechanics-fall-2004|Solid Mechanics]] — 1.050, Fall 2004

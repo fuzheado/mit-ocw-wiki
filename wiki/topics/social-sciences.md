@@ -25,6 +25,36 @@ courses_count: 0
 
 ## Courses
 
+- [[21a-s01-reparations-for-slavery-and-colonization-contemporary-movements-for-justice-fall-2021|Reparations for Slavery and Colonization: Contemporary Movements for Justice]] — 21A.S01, Fall 2021
+- [[res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017|Intentional Public Disruptions: Art, Responsibility, and Pedagogy]] — RES.11-002, Fall 2017
+- [[21g-404-german-iv-spring-2005|German IV]] — 21G.404, Spring 2005
+- [[11-233-crafting-research-questions-and-qualitative-methodology-fall-2005|Crafting Research Questions and Qualitative Methodology]] — 11.233, Fall 2005
+- [[15-628j-patents-copyrights-and-the-law-of-intellectual-property-spring-2013|Patents, Copyrights, and the Law of Intellectual Property]] — 15.628J, Spring 2013
+- [[9-85-infant-and-early-childhood-cognition-fall-2012|Infant and Early Childhood Cognition]] — 9.85, Fall 2012
+- [[14-461-advanced-macroeconomics-i-fall-2012|Advanced Macroeconomics I]] — 14.461, Fall 2012
+- [[21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011|Cross-Cultural Perspectives on Contemporary French Society]] — 21G.315, Fall 2011
+- [[21a-00-introduction-to-anthropology-spring-2022|Introduction to Anthropology]] — 21A.00, Spring 2022
+- [[22-251-systems-analysis-of-the-nuclear-fuel-cycle-fall-2009|Systems Analysis of the Nuclear Fuel Cycle]] — 22.251, Fall 2009
+- [[15-450-analytics-of-finance-fall-2010|Analytics of Finance]] — 15.450, Fall 2010
+- [[15-401-finance-theory-i-fall-2008|Finance Theory I]] — 15.401, Fall 2008
+- [[9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013|Affect: Neurobiological, Psychological and Sociocultural Counterparts of "Feelings"]] — 9.68, Spring 2013
+- [[sts-062j-drugs-politics-and-culture-spring-2006|Drugs, Politics, and Culture]] — STS.062J, Spring 2006
+- [[21l-701-literary-interpretation-literature-and-urban-experience-spring-2009|Literary Interpretation: Literature and Urban Experience]] — 21L.701, Spring 2009
+- [[21h-207-the-energy-crisis-past-and-present-fall-2010|The Energy Crisis: Past and Present]] — 21H.207, Fall 2010
+- [[15-772j-d-lab-supply-chains-fall-2014|D-Lab: Supply Chains]] — 15.772J, Fall 2014
+- [[21h-223-war-american-society-fall-2002|War & American Society]] — 21H.223, Fall 2002
+- [[hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012|Health Information Systems to Improve Quality of Care in Resource-Poor Settings]] — HST.S14, Spring 2012
+- [[21l-015-introduction-to-media-studies-fall-2005|Introduction to Media Studies]] — 21L.015, Fall 2005
+- [[15-025-game-theory-for-strategic-advantage-spring-2015|Game Theory for Strategic Advantage]] — 15.025, Spring 2015
+- [[21g-053-understanding-contemporary-french-politics-spring-2014|Understanding Contemporary French Politics]] — 21G.053, Spring 2014
+- [[21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016|Globalization: The Good, the Bad and the In-Between]] — 21L.020J, Fall 2016
+- [[12-540-principles-of-the-global-positioning-system-spring-2012|Principles of the Global Positioning System]] — 12.540, Spring 2012
+- [[15-223-global-markets-national-politics-and-the-competitive-advantage-of-firms-fall-2011|Global Markets, National Politics and the Competitive Advantage of Firms]] — 15.223, Fall 2011
+- [[11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020|Wanderings in Psychogeography: Exploring Landscapes of History, Biography, Memory, Culture, Nature, Poetry, Surreality, Fantasy, and Madness]] — 11.S942, Fall 2020
+- [[21g-401-german-i-fall-2008|German I]] — 21G.401, Fall 2008
+- [[21g-039j-gender-and-japanese-popular-culture-fall-2015|Gender and Japanese Popular Culture]] — 21G.039J, Fall 2015
+- [[21g-414-german-culture-media-and-society-fall-2006|German Culture, Media, and Society]] — 21G.414, Fall 2006
+- [[11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009|Getting Things Implemented: Strategy, People, Performance, and Leadership]] — 11.958, January IAP 2009
 - [[11-308j-advanced-seminar-urban-nature-and-city-design-fall-2012|Advanced Seminar: Urban Nature and City Design]] — 11.308J, Fall 2012
 - [[sts-462-social-and-political-implications-of-technology-spring-2006|Social and Political Implications of Technology]] — STS.462, Spring 2006
 - [[15-031j-energy-decisions-markets-and-policies-spring-2012|Energy Decisions, Markets, and Policies]] — 15.031J, Spring 2012

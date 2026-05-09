@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[res-8-008-nuclear-weapons-education-project-spring-2022|Nuclear Weapons Education Project]]
 - [[8-s271-nuclear-weapons-history-and-future-prospects-spring-2022|Nuclear Weapons – History and Future Prospects]]

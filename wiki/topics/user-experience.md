@@ -12,6 +12,7 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[16-459-bioengineering-journal-article-seminar-fall-2011|Bioengineering Journal Article Seminar]] — 16.459, Fall 2011
 - [[16-422-human-supervisory-control-of-automated-systems-spring-2004|Human Supervisory Control of Automated Systems]] — 16.422, Spring 2004
 - [[mas-962-common-sense-reasoning-for-interactive-applications-fall-2006|Common Sense Reasoning for Interactive Applications]] — MAS.962, Fall 2006
 - [[21m-380-music-and-technology-live-electronics-performance-practices-spring-2011|Music and Technology: Live Electronics Performance Practices]] — 21M.380, Spring 2011

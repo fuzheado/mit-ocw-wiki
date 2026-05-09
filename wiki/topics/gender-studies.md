@@ -12,6 +12,7 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21g-039j-gender-and-japanese-popular-culture-fall-2015|Gender and Japanese Popular Culture]] — 21G.039J, Fall 2015
 - [[es-269-passing-flexibility-in-race-and-gender-spring-2009|Passing: Flexibility in Race and Gender]] — ES.269, Spring 2009
 - [[21l-707-writing-early-american-lives-gender-race-nation-faith-fall-2005|Writing Early American Lives: Gender, Race, Nation, Faith]] — 21L.707, Fall 2005
 - [[wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016|Gender & Media: Collaborations in Feminism and Technology]] — WGS.111, Spring 2016

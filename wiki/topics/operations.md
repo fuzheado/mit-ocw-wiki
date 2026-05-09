@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020|System Dynamics: Systems Thinking and Modeling for a Complex World]] — RES.15-004, January IAP 2020
+- [[15-057-systems-optimization-spring-2003|Systems Optimization]] — 15.057, Spring 2003
+- [[15-768-management-of-services-concepts-design-and-delivery-fall-2010|Management of Services: Concepts, Design, and Delivery]] — 15.768, Fall 2010
 - [[15-010-economic-analysis-for-business-decisions-fall-2004|Economic Analysis for Business Decisions]] — 15.010, Fall 2004
 - [[1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004|E-Commerce and the Internet in Real Estate and Construction]] — 1.464, Spring 2004
 - [[15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003|Information Technology as an Integrating Force in Manufacturing]] — 15.566, Spring 2003

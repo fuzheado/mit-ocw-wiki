@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[10-467-polymer-science-laboratory-fall-2005|Polymer Science Laboratory]] — 10.467, Fall 2005
+- [[4-461-building-technology-i-materials-and-construction-fall-2004|Building Technology I: Materials and Construction]] — 4.461, Fall 2004
+- [[6-774-physics-of-microfabrication-front-end-processing-fall-2004|Physics of Microfabrication: Front End Processing]] — 6.774, Fall 2004
 - [[1-050-solid-mechanics-fall-2004|Solid Mechanics]] — 1.050, Fall 2004
 - [[3-003-principles-of-engineering-practice-spring-2010|Principles of Engineering Practice]] — 3.003, Spring 2010
 - [[3-15-electrical-optical-magnetic-materials-and-devices-fall-2006|Electrical, Optical & Magnetic Materials and Devices]] — 3.15, Fall 2006

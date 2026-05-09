@@ -12,6 +12,7 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008|Designing and Sustaining Technology Innovation for Global Health Practice]] — HST.939, Spring 2008
 - [[11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001|Special Studies in Urban Studies and Planning - The Cardener River Corridor Workshop]] — 11.943, Fall 2001
 - [[14-42-environmental-policy-and-economics-spring-2011|Environmental Policy and Economics]] — 14.42, Spring 2011
 - [[11-947-sustainable-economic-development-spring-2004|Sustainable Economic Development]] — 11.947, Spring 2004

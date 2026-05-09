@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[12-812-general-circulation-of-the-earths-atmosphere-fall-2005|General Circulation of the Earth's Atmosphere]] — 12.812, Fall 2005
+- [[1-63-advanced-fluid-dynamics-of-the-environment-fall-2002|Advanced Fluid Dynamics of the Environment]] — 1.63, Fall 2002
 - [[2-500-desalination-and-water-purification-spring-2009|Desalination and Water Purification]] — 2.500, Spring 2009
 - [[2-068-computational-ocean-acoustics-13-853-spring-2003|Computational Ocean Acoustics (13.853)]] — 2.068, Spring 2003
 - [[12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007|Turbulence in the Ocean and Atmosphere]] — 12.820, Spring 2007

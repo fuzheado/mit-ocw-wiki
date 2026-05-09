@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-057-systems-optimization-spring-2003|Systems Optimization]] — 15.057, Spring 2003
+- [[15-772j-d-lab-supply-chains-fall-2014|D-Lab: Supply Chains]] — 15.772J, Fall 2014
+- [[15-768-management-of-services-concepts-design-and-delivery-fall-2010|Management of Services: Concepts, Design, and Delivery]] — 15.768, Fall 2010
 - [[1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003|Strategic Management in the Design and Construction Value Chain]] — 1.46, Fall 2003
 - [[esd-273j-logistics-and-supply-chain-management-fall-2009|Logistics and Supply Chain Management]] — ESD.273J, Fall 2009
 - [[esd-260j-logistics-systems-fall-2006|Logistics Systems]] — ESD.260J, Fall 2006

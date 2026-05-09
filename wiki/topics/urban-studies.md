@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017|Intentional Public Disruptions: Art, Responsibility, and Pedagogy]] — RES.11-002, Fall 2017
+- [[11-233-crafting-research-questions-and-qualitative-methodology-fall-2005|Crafting Research Questions and Qualitative Methodology]] — 11.233, Fall 2005
+- [[21l-701-literary-interpretation-literature-and-urban-experience-spring-2009|Literary Interpretation: Literature and Urban Experience]] — 21L.701, Spring 2009
+- [[11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020|Wanderings in Psychogeography: Exploring Landscapes of History, Biography, Memory, Culture, Nature, Poetry, Surreality, Fantasy, and Madness]] — 11.S942, Fall 2020
+- [[11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009|Getting Things Implemented: Strategy, People, Performance, and Leadership]] — 11.958, January IAP 2009
 - [[11-308j-advanced-seminar-urban-nature-and-city-design-fall-2012|Advanced Seminar: Urban Nature and City Design]] — 11.308J, Fall 2012
 - [[1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005|An Introduction to Intelligent Transportation Systems]] — 1.212J, Spring 2005
 - [[11-s945-urbanizing-china-a-reflective-dialogue-fall-2013|Urbanizing China: A Reflective Dialogue]] — 11.S945, Fall 2013

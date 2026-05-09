@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-720j-integrated-microelectronic-devices-spring-2007|Integrated Microelectronic Devices]]
 - [[6-012-microelectronic-devices-and-circuits-spring-2009|Microelectronic Devices and Circuits]]
 - [[6-012-microelectronic-devices-and-circuits-fall-2005|Microelectronic Devices and Circuits]]

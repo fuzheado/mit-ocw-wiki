@@ -12,6 +12,15 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-033-computer-system-engineering-spring-2018|Computer System Engineering]] — 6.033, Spring 2018
+- [[16-459-bioengineering-journal-article-seminar-fall-2011|Bioengineering Journal Article Seminar]] — 16.459, Fall 2011
+- [[6-441-information-theory-spring-2016|Information Theory]] — 6.441, Spring 2016
+- [[hst-952-computing-for-biomedical-scientists-fall-2002|Computing for Biomedical Scientists]] — HST.952, Fall 2002
+- [[4-195-special-problems-in-architectural-design-spring-2005|Special Problems in Architectural Design]] — 4.195, Spring 2005
+- [[6-892-computational-models-of-discourse-spring-2004|Computational Models of Discourse]] — 6.892, Spring 2004
+- [[15-768-management-of-services-concepts-design-and-delivery-fall-2010|Management of Services: Concepts, Design, and Delivery]] — 15.768, Fall 2010
+- [[1-124j-foundations-of-software-engineering-fall-2000|Foundations of Software Engineering]] — 1.124J, Fall 2000
+- [[16-355j-software-engineering-concepts-fall-2005|Software Engineering Concepts]] — 16.355J, Fall 2005
 - [[6-875-cryptography-and-cryptanalysis-spring-2005|Cryptography and Cryptanalysis]] — 6.875, Spring 2005
 - [[6-004-computation-structures-spring-2009|Computation Structures]] — 6.004, Spring 2009
 - [[15-561-information-technology-essentials-spring-2005|Information Technology Essentials]] — 15.561, Spring 2005

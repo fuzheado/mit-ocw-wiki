@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[9-85-infant-and-early-childhood-cognition-fall-2012|Infant and Early Childhood Cognition]] — 9.85, Fall 2012
+- [[9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013|Affect: Neurobiological, Psychological and Sociocultural Counterparts of "Feelings"]] — 9.68, Spring 2013
 - [[9-00-introduction-to-psychology-fall-2004|Introduction to Psychology]] — 9.00, Fall 2004
 - [[9-00sc-introduction-to-psychology-fall-2011|Introduction to Psychology]] — 9.00SC, Fall 2011
 - [[9-69-foundations-of-cognition-spring-2003|Foundations of Cognition]] — 9.69, Spring 2003

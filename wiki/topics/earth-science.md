@@ -12,6 +12,14 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008|Designing and Sustaining Technology Innovation for Global Health Practice]] — HST.939, Spring 2008
+- [[12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005|Seminar in Geophysics: Thermal and Chemical Evolution of the Earth]] — 12.570, Spring 2005
+- [[12-812-general-circulation-of-the-earths-atmosphere-fall-2005|General Circulation of the Earth's Atmosphere]] — 12.812, Fall 2005
+- [[1-018j-ecology-i-the-earth-system-fall-2009|Ecology I: The Earth System]] — 1.018J, Fall 2009
+- [[res-env-003-earthdnas-climate-101-fall-2019|EarthDNA's Climate 101]] — RES.ENV-003, Fall 2019
+- [[12-753-geodynamics-seminar-spring-2006|Geodynamics Seminar]] — 12.753, Spring 2006
+- [[12-540-principles-of-the-global-positioning-system-spring-2012|Principles of the Global Positioning System]] — 12.540, Spring 2012
+- [[12-102-environmental-earth-science-fall-2005|Environmental Earth Science]] — 12.102, Fall 2005
 - [[12-007-geobiology-spring-2013|Geobiology]] — 12.007, Spring 2013
 - [[12-006j-nonlinear-dynamics-chaos-fall-2022|Nonlinear Dynamics: Chaos]] — 12.006J, Fall 2022
 - [[12-340x-global-warming-science-spring-2020|Global Warming Science]] — 12.340x, Spring 2020

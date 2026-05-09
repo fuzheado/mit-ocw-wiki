@@ -12,6 +12,15 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[15-057-systems-optimization-spring-2003|Systems Optimization]] — 15.057, Spring 2003
+- [[24-964-topics-in-phonology-fall-2004|Topics in Phonology]] — 24.964, Fall 2004
+- [[16-810-engineering-design-and-rapid-prototyping-january-iap-2007|Engineering Design and Rapid Prototyping]] — 16.810, January IAP 2007
+- [[22-251-systems-analysis-of-the-nuclear-fuel-cycle-fall-2009|Systems Analysis of the Nuclear Fuel Cycle]] — 22.251, Fall 2009
+- [[22-15-essential-numerical-methods-fall-2014|Essential Numerical Methods]] — 22.15, Fall 2014
+- [[mas-961-networks-complexity-and-its-applications-spring-2011|Networks, Complexity and Its Applications]] — MAS.961, Spring 2011
+- [[7-91j-foundations-of-computational-and-systems-biology-spring-2014|Foundations of Computational and Systems Biology]] — 7.91J, Spring 2014
+- [[16-355j-software-engineering-concepts-fall-2005|Software Engineering Concepts]] — 16.355J, Fall 2005
+- [[16-842-fundamentals-of-systems-engineering-fall-2015|Fundamentals of Systems Engineering]] — 16.842, Fall 2015
 - [[2-717j-optical-engineering-spring-2002|Optical Engineering]] — 2.717J, Spring 2002
 - [[10-34-numerical-methods-applied-to-chemical-engineering-fall-2015|Numerical Methods Applied to Chemical Engineering]] — 10.34, Fall 2015
 - [[16-810-engineering-design-and-rapid-prototyping-january-iap-2005|Engineering Design and Rapid Prototyping]] — 16.810, January IAP 2005

@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[8-591j-systems-biology-fall-2014|Systems Biology]] — 8.591J, Fall 2014
+- [[hst-952-computing-for-biomedical-scientists-fall-2002|Computing for Biomedical Scientists]] — HST.952, Fall 2002
+- [[7-16-experimental-molecular-biology-biotechnology-ii-spring-2005|Experimental Molecular Biology: Biotechnology II]] — 7.16, Spring 2005
+- [[7-91j-foundations-of-computational-and-systems-biology-spring-2014|Foundations of Computational and Systems Biology]] — 7.91J, Spring 2014
 - [[hst-951j-medical-decision-support-fall-2005|Medical Decision Support]] — HST.951J, Fall 2005
 - [[hst-930j-social-studies-of-bioscience-and-biotech-fall-2005|Social Studies of Bioscience and Biotech]] — HST.930J, Fall 2005
 - [[20-109-laboratory-fundamentals-in-biological-engineering-spring-2010|Laboratory Fundamentals in Biological Engineering]] — 20.109, Spring 2010

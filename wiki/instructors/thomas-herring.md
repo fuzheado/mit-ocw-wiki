@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[12-540-principles-of-the-global-positioning-system-spring-2012|Principles of the Global Positioning System]]
 - [[12-010-computational-methods-of-scientific-programming-fall-2011|Computational Methods of Scientific Programming]]

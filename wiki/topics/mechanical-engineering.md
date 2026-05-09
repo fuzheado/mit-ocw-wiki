@@ -12,6 +12,11 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-034j-nonlinear-dynamics-and-waves-spring-2007|Nonlinear Dynamics and Waves]] — 2.034J, Spring 2007
+- [[6-720j-integrated-microelectronic-devices-spring-2007|Integrated Microelectronic Devices]] — 6.720J, Spring 2007
+- [[16-810-engineering-design-and-rapid-prototyping-january-iap-2007|Engineering Design and Rapid Prototyping]] — 16.810, January IAP 2007
+- [[6-774-physics-of-microfabrication-front-end-processing-fall-2004|Physics of Microfabrication: Front End Processing]] — 6.774, Fall 2004
+- [[1-63-advanced-fluid-dynamics-of-the-environment-fall-2002|Advanced Fluid Dynamics of the Environment]] — 1.63, Fall 2002
 - [[1-050-solid-mechanics-fall-2004|Solid Mechanics]] — 1.050, Fall 2004
 - [[2-003sc-engineering-dynamics-fall-2011|Engineering Dynamics]] — 2.003SC, Fall 2011
 - [[mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003|Industrial Design Intelligence: A Cognitive Approach to Engineering]] — MAS.742, Fall 2003

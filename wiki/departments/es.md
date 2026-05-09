@@ -10,6 +10,8 @@ courses_count: 0
 
 ## Courses
 
+- [[es-261-poetry-in-translation-spring-2006|Poetry in Translation]] (ES.261)
+- [[es-113-ancient-greek-philosophy-and-mathematics-spring-2016|Ancient Greek Philosophy and Mathematics]] (ES.113)
 - [[es-269-passing-flexibility-in-race-and-gender-spring-2009|Passing: Flexibility in Race and Gender]] (ES.269)
 - [[es-333-producing-educational-videos-spring-2015|Producing Educational Videos]] (ES.333)
 - [[es-291-learning-seminar-experiments-in-education-spring-2003|Learning Seminar: Experiments in Education]] (ES.291)

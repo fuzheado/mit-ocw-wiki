@@ -12,6 +12,8 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016|Globalization: The Good, the Bad and the In-Between]] (21L.020J)
+- [[21g-039j-gender-and-japanese-popular-culture-fall-2015|Gender and Japanese Popular Culture]] (21G.039J)
 - [[21m-621-theater-and-cultural-diversity-in-the-u-s-spring-2008|Theater and Cultural Diversity in the U.S.]] (21M.621)
 - [[wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016|Gender & Media: Collaborations in Feminism and Technology]] (WGS.111)
 - [[wgs-225-science-and-race-sex-and-gender-spring-2023|Science of Race, Sex, and Gender]] (WGS.225J)

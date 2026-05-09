@@ -12,6 +12,8 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[cms-950-workshop-i-fall-2005|Workshop I]] (CMS.950)
+- [[cms-301-introduction-to-game-design-methods-spring-2016|Introduction to Game Design Methods]] (CMS.301)
 - [[21w-747-2-rhetoric-rhetoric-of-science-spring-2006|Rhetoric: Rhetoric of Science]] (21W.747-2)
 - [[21w-021-writing-and-experience-mit-inside-live-fall-2013|Writing and Experience: MIT: Inside, Live]] (21W.021)
 - [[21w-031-science-writing-and-new-media-explorations-in-communicating-about-science-technology-spring-2017|Science Writing and New Media: Explorations in Communicating about Science & Technology]] (21W.031)

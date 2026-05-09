@@ -12,6 +12,17 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[15-057-systems-optimization-spring-2003|Systems Optimization]] — 15.057, Spring 2003
+- [[6-441-information-theory-spring-2016|Information Theory]] — 6.441, Spring 2016
+- [[15-450-analytics-of-finance-fall-2010|Analytics of Finance]] — 15.450, Fall 2010
+- [[22-15-essential-numerical-methods-fall-2014|Essential Numerical Methods]] — 22.15, Fall 2014
+- [[6-262-discrete-stochastic-processes-spring-2011|Discrete Stochastic Processes]] — 6.262, Spring 2011
+- [[mas-961-networks-complexity-and-its-applications-spring-2011|Networks, Complexity and Its Applications]] — MAS.961, Spring 2011
+- [[18-01-calculus-i-single-variable-calculus-fall-2020|Calculus I: Single Variable Calculus]] — 18.01, Fall 2020
+- [[es-113-ancient-greek-philosophy-and-mathematics-spring-2016|Ancient Greek Philosophy and Mathematics]] — ES.113, Spring 2016
+- [[18-112-functions-of-a-complex-variable-fall-2008|Functions of a Complex Variable]] — 18.112, Fall 2008
+- [[18-440-probability-and-random-variables-spring-2014|Probability and Random Variables]] — 18.440, Spring 2014
+- [[18-s997-high-dimensional-statistics-spring-2015|High-Dimensional Statistics]] — 18.S997, Spring 2015
 - [[6-004-computation-structures-spring-2009|Computation Structures]] — 6.004, Spring 2009
 - [[18-906-algebraic-topology-ii-spring-2020|Algebraic Topology II]] — 18.906, Spring 2020
 - [[12-006j-nonlinear-dynamics-chaos-fall-2022|Nonlinear Dynamics: Chaos]] — 12.006J, Fall 2022

@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[1-124j-foundations-of-software-engineering-fall-2000|Foundations of Software Engineering]]
 - [[18-327-wavelets-filter-banks-and-applications-spring-2003|Wavelets, Filter Banks and Applications]]

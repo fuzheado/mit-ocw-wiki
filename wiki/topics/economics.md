@@ -12,6 +12,13 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[14-461-advanced-macroeconomics-i-fall-2012|Advanced Macroeconomics I]] — 14.461, Fall 2012
+- [[15-450-analytics-of-finance-fall-2010|Analytics of Finance]] — 15.450, Fall 2010
+- [[15-401-finance-theory-i-fall-2008|Finance Theory I]] — 15.401, Fall 2008
+- [[hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012|Health Information Systems to Improve Quality of Care in Resource-Poor Settings]] — HST.S14, Spring 2012
+- [[15-025-game-theory-for-strategic-advantage-spring-2015|Game Theory for Strategic Advantage]] — 15.025, Spring 2015
+- [[21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016|Globalization: The Good, the Bad and the In-Between]] — 21L.020J, Fall 2016
+- [[15-223-global-markets-national-politics-and-the-competitive-advantage-of-firms-fall-2011|Global Markets, National Politics and the Competitive Advantage of Firms]] — 15.223, Fall 2011
 - [[15-031j-energy-decisions-markets-and-policies-spring-2012|Energy Decisions, Markets, and Policies]] — 15.031J, Spring 2012
 - [[15-389b-global-entrepreneurship-lab-latin-america-the-middle-east-and-africa-fall-2010|Global Entrepreneurship Lab: Latin America, the Middle East, and Africa]] — 15.389B, Fall 2010
 - [[11-s945-urbanizing-china-a-reflective-dialogue-fall-2013|Urbanizing China: A Reflective Dialogue]] — 11.S945, Fall 2013

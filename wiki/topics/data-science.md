@@ -12,6 +12,7 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[15-768-management-of-services-concepts-design-and-delivery-fall-2010|Management of Services: Concepts, Design, and Delivery]] — 15.768, Fall 2010
 - [[15-561-information-technology-essentials-spring-2005|Information Technology Essentials]] — 15.561, Spring 2005
 - [[10-34-numerical-methods-applied-to-chemical-engineering-fall-2015|Numerical Methods Applied to Chemical Engineering]] — 10.34, Fall 2015
 - [[1-017-computing-and-data-analysis-for-environmental-applications-fall-2003|Computing and Data Analysis for Environmental Applications]] — 1.017, Fall 2003

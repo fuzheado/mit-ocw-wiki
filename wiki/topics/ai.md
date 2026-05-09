@@ -12,6 +12,7 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-892-computational-models-of-discourse-spring-2004|Computational Models of Discourse]] — 6.892, Spring 2004
 - [[mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001|Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context]] — MAS.963, Fall 2001
 - [[hst-951j-medical-decision-support-fall-2005|Medical Decision Support]] — HST.951J, Fall 2005
 - [[6-801-machine-vision-fall-2004|Machine Vision]] — 6.801, Fall 2004

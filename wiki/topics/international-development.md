@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017|Intentional Public Disruptions: Art, Responsibility, and Pedagogy]] — RES.11-002, Fall 2017
+- [[15-772j-d-lab-supply-chains-fall-2014|D-Lab: Supply Chains]] — 15.772J, Fall 2014
+- [[21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016|Globalization: The Good, the Bad and the In-Between]] — 21L.020J, Fall 2016
 - [[11-006-poverty-and-economic-security-fall-2016|Poverty and Economic Security]] — 11.006, Fall 2016
 - [[11-941-learning-by-comparison-first-world-third-world-cities-fall-2008|Learning by Comparison: First World/Third World Cities]] — 11.941, Fall 2008
 - [[res-11-001-cite-reports-fall-2015|CITE Reports]] — RES.11-001, Fall 2015

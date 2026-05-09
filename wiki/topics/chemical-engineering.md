@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[10-467-polymer-science-laboratory-fall-2005|Polymer Science Laboratory]] — 10.467, Fall 2005
 - [[10-34-numerical-methods-applied-to-chemical-engineering-fall-2015|Numerical Methods Applied to Chemical Engineering]] — 10.34, Fall 2015
 - [[10-520-molecular-aspects-of-chemical-engineering-fall-2004|Molecular Aspects of Chemical Engineering]] — 10.520, Fall 2004
 - [[2-500-desalination-and-water-purification-spring-2009|Desalination and Water Purification]] — 2.500, Spring 2009

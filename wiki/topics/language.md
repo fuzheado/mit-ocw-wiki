@@ -12,6 +12,14 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-404-german-iv-spring-2005|German IV]] — 21G.404, Spring 2005
+- [[21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011|Cross-Cultural Perspectives on Contemporary French Society]] — 21G.315, Fall 2011
+- [[21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007|Advanced Speaking and Critical Listening Skills (ELS)]] — 21G.232, Spring 2007
+- [[21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016|Globalization: The Good, the Bad and the In-Between]] — 21L.020J, Fall 2016
+- [[21g-225-advanced-workshop-in-writing-for-science-and-engineering-els-spring-2016|Advanced Workshop in Writing for Science and Engineering (ELS)]] — 21G.225, Spring 2016
+- [[21g-401-german-i-fall-2008|German I]] — 21G.401, Fall 2008
+- [[21g-039j-gender-and-japanese-popular-culture-fall-2015|Gender and Japanese Popular Culture]] — 21G.039J, Fall 2015
+- [[21g-414-german-culture-media-and-society-fall-2006|German Culture, Media, and Society]] — 21G.414, Fall 2006
 - [[24-947-language-disorders-in-children-spring-2013|Language Disorders in Children]] — 24.947, Spring 2013
 - [[21g-820-the-beat-of-brazil-brazilian-society-through-its-music-fall-2016|The Beat of Brazil: Brazilian Society Through Its Music]] — 21G.820, Fall 2016
 - [[21g-502-japanese-ii-spring-2020|Japanese II]] — 21G.502, Spring 2020

@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[24-910-topics-in-linguistics-theory-spring-2003|Topics in Linguistics Theory]]
 - [[24-973-advanced-semantics-spring-2009|Advanced Semantics]]
 - [[24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005|Language and its Structure III: Semantics and Pragmatics]]

@@ -25,6 +25,36 @@ courses_count: 0
 
 ## Courses
 
+- [[6-033-computer-system-engineering-spring-2018|Computer System Engineering]] — 6.033, Spring 2018
+- [[12-812-general-circulation-of-the-earths-atmosphere-fall-2005|General Circulation of the Earth's Atmosphere]] — 12.812, Fall 2005
+- [[15-057-systems-optimization-spring-2003|Systems Optimization]] — 15.057, Spring 2003
+- [[10-467-polymer-science-laboratory-fall-2005|Polymer Science Laboratory]] — 10.467, Fall 2005
+- [[16-459-bioengineering-journal-article-seminar-fall-2011|Bioengineering Journal Article Seminar]] — 16.459, Fall 2011
+- [[6-161-modern-optics-project-laboratory-fall-2005|Modern Optics Project Laboratory]] — 6.161, Fall 2005
+- [[2-034j-nonlinear-dynamics-and-waves-spring-2007|Nonlinear Dynamics and Waves]] — 2.034J, Spring 2007
+- [[6-720j-integrated-microelectronic-devices-spring-2007|Integrated Microelectronic Devices]] — 6.720J, Spring 2007
+- [[24-964-topics-in-phonology-fall-2004|Topics in Phonology]] — 24.964, Fall 2004
+- [[16-810-engineering-design-and-rapid-prototyping-january-iap-2007|Engineering Design and Rapid Prototyping]] — 16.810, January IAP 2007
+- [[6-441-information-theory-spring-2016|Information Theory]] — 6.441, Spring 2016
+- [[8-591j-systems-biology-fall-2014|Systems Biology]] — 8.591J, Fall 2014
+- [[22-251-systems-analysis-of-the-nuclear-fuel-cycle-fall-2009|Systems Analysis of the Nuclear Fuel Cycle]] — 22.251, Fall 2009
+- [[1-77-water-quality-control-spring-2006|Water Quality Control]] — 1.77, Spring 2006
+- [[hst-952-computing-for-biomedical-scientists-fall-2002|Computing for Biomedical Scientists]] — HST.952, Fall 2002
+- [[22-15-essential-numerical-methods-fall-2014|Essential Numerical Methods]] — 22.15, Fall 2014
+- [[4-195-special-problems-in-architectural-design-spring-2005|Special Problems in Architectural Design]] — 4.195, Spring 2005
+- [[6-892-computational-models-of-discourse-spring-2004|Computational Models of Discourse]] — 6.892, Spring 2004
+- [[mas-961-networks-complexity-and-its-applications-spring-2011|Networks, Complexity and Its Applications]] — MAS.961, Spring 2011
+- [[7-16-experimental-molecular-biology-biotechnology-ii-spring-2005|Experimental Molecular Biology: Biotechnology II]] — 7.16, Spring 2005
+- [[7-91j-foundations-of-computational-and-systems-biology-spring-2014|Foundations of Computational and Systems Biology]] — 7.91J, Spring 2014
+- [[15-768-management-of-services-concepts-design-and-delivery-fall-2010|Management of Services: Concepts, Design, and Delivery]] — 15.768, Fall 2010
+- [[1-124j-foundations-of-software-engineering-fall-2000|Foundations of Software Engineering]] — 1.124J, Fall 2000
+- [[4-461-building-technology-i-materials-and-construction-fall-2004|Building Technology I: Materials and Construction]] — 4.461, Fall 2004
+- [[6-774-physics-of-microfabrication-front-end-processing-fall-2004|Physics of Microfabrication: Front End Processing]] — 6.774, Fall 2004
+- [[16-355j-software-engineering-concepts-fall-2005|Software Engineering Concepts]] — 16.355J, Fall 2005
+- [[16-06-principles-of-automatic-control-fall-2012|Principles of Automatic Control]] — 16.06, Fall 2012
+- [[12-540-principles-of-the-global-positioning-system-spring-2012|Principles of the Global Positioning System]] — 12.540, Spring 2012
+- [[16-842-fundamentals-of-systems-engineering-fall-2015|Fundamentals of Systems Engineering]] — 16.842, Fall 2015
+- [[1-63-advanced-fluid-dynamics-of-the-environment-fall-2002|Advanced Fluid Dynamics of the Environment]] — 1.63, Fall 2002
 - [[16-30-feedback-control-systems-fall-2010|Feedback Control Systems]] — 16.30, Fall 2010
 - [[6-875-cryptography-and-cryptanalysis-spring-2005|Cryptography and Cryptanalysis]] — 6.875, Spring 2005
 - [[2-717j-optical-engineering-spring-2002|Optical Engineering]] — 2.717J, Spring 2002

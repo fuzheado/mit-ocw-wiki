@@ -12,6 +12,16 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005|Seminar in Geophysics: Thermal and Chemical Evolution of the Earth]] — 12.570, Spring 2005
+- [[6-161-modern-optics-project-laboratory-fall-2005|Modern Optics Project Laboratory]] — 6.161, Fall 2005
+- [[2-034j-nonlinear-dynamics-and-waves-spring-2007|Nonlinear Dynamics and Waves]] — 2.034J, Spring 2007
+- [[6-635-advanced-electromagnetism-spring-2003|Advanced Electromagnetism]] — 6.635, Spring 2003
+- [[6-720j-integrated-microelectronic-devices-spring-2007|Integrated Microelectronic Devices]] — 6.720J, Spring 2007
+- [[8-591j-systems-biology-fall-2014|Systems Biology]] — 8.591J, Fall 2014
+- [[8-282j-introduction-to-astronomy-spring-2006|Introduction to Astronomy]] — 8.282J, Spring 2006
+- [[6-774-physics-of-microfabrication-front-end-processing-fall-2004|Physics of Microfabrication: Front End Processing]] — 6.774, Fall 2004
+- [[8-20-introduction-to-special-relativity-january-iap-2021|Introduction to Special Relativity]] — 8.20, January IAP 2021
+- [[res-8-008-nuclear-weapons-education-project-spring-2022|Nuclear Weapons Education Project]] — RES.8-008, Spring 2022
 - [[2-717j-optical-engineering-spring-2002|Optical Engineering]] — 2.717J, Spring 2002
 - [[res-8-003-physics-demonstration-videos-spring-2012|Physics Demonstration Videos]] — RES.8-003, Spring 2012
 - [[8-284-modern-astrophysics-spring-2006|Modern Astrophysics]] — 8.284, Spring 2006

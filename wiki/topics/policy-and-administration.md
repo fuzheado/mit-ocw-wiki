@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017|Intentional Public Disruptions: Art, Responsibility, and Pedagogy]] — RES.11-002, Fall 2017
+- [[15-628j-patents-copyrights-and-the-law-of-intellectual-property-spring-2013|Patents, Copyrights, and the Law of Intellectual Property]] — 15.628J, Spring 2013
+- [[22-251-systems-analysis-of-the-nuclear-fuel-cycle-fall-2009|Systems Analysis of the Nuclear Fuel Cycle]] — 22.251, Fall 2009
+- [[21h-207-the-energy-crisis-past-and-present-fall-2010|The Energy Crisis: Past and Present]] — 21H.207, Fall 2010
+- [[15-223-global-markets-national-politics-and-the-competitive-advantage-of-firms-fall-2011|Global Markets, National Politics and the Competitive Advantage of Firms]] — 15.223, Fall 2011
 - [[15-031j-energy-decisions-markets-and-policies-spring-2012|Energy Decisions, Markets, and Policies]] — 15.031J, Spring 2012
 - [[11-235-analyzing-projects-and-organizations-fall-2009|Analyzing Projects and Organizations]] — 11.235, Fall 2009
 - [[11-s945-urbanizing-china-a-reflective-dialogue-fall-2013|Urbanizing China: A Reflective Dialogue]] — 11.S945, Fall 2013

@@ -12,6 +12,11 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008|Designing and Sustaining Technology Innovation for Global Health Practice]] (HST.939)
+- [[hst-121-gastroenterology-fall-2005|Gastroenterology]] (HST.121)
+- [[hst-952-computing-for-biomedical-scientists-fall-2002|Computing for Biomedical Scientists]] (HST.952)
+- [[7-91j-foundations-of-computational-and-systems-biology-spring-2014|Foundations of Computational and Systems Biology]] (7.91J)
+- [[hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012|Health Information Systems to Improve Quality of Care in Resource-Poor Settings]] (HST.S14)
 - [[hst-723j-neural-coding-and-perception-of-sound-spring-2005|Neural Coding and Perception of Sound]] (HST.723J)
 - [[16-430j-sensory-neural-systems-spatial-orientation-from-end-organs-to-behavior-and-adaptation-spring-2012|Sensory-Neural Systems: Spatial Orientation from End Organs to Behavior and Adaptation]] (16.430J)
 - [[6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005|Laboratory on the Physiology, Acoustics, and Perception of Speech]] (6.542J)

@@ -12,6 +12,11 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020|System Dynamics: Systems Thinking and Modeling for a Complex World]] — RES.15-004, January IAP 2020
+- [[15-628j-patents-copyrights-and-the-law-of-intellectual-property-spring-2013|Patents, Copyrights, and the Law of Intellectual Property]] — 15.628J, Spring 2013
+- [[15-665-power-and-negotiation-spring-2014|Power and Negotiation]] — 15.665, Spring 2014
+- [[15-025-game-theory-for-strategic-advantage-spring-2015|Game Theory for Strategic Advantage]] — 15.025, Spring 2015
+- [[11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009|Getting Things Implemented: Strategy, People, Performance, and Leadership]] — 11.958, January IAP 2009
 - [[15-912-technology-strategy-fall-2008|Technology Strategy]] — 15.912, Fall 2008
 - [[15-229-managing-global-integration-spring-2012|Managing Global Integration]] — 15.229, Spring 2012
 - [[15-071-the-analytics-edge-spring-2017|The Analytics Edge]] — 15.071, Spring 2017

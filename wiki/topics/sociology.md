@@ -12,6 +12,13 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017|Intentional Public Disruptions: Art, Responsibility, and Pedagogy]] — RES.11-002, Fall 2017
+- [[21g-404-german-iv-spring-2005|German IV]] — 21G.404, Spring 2005
+- [[sts-062j-drugs-politics-and-culture-spring-2006|Drugs, Politics, and Culture]] — STS.062J, Spring 2006
+- [[21g-053-understanding-contemporary-french-politics-spring-2014|Understanding Contemporary French Politics]] — 21G.053, Spring 2014
+- [[21g-401-german-i-fall-2008|German I]] — 21G.401, Fall 2008
+- [[21g-039j-gender-and-japanese-popular-culture-fall-2015|Gender and Japanese Popular Culture]] — 21G.039J, Fall 2015
+- [[21g-414-german-culture-media-and-society-fall-2006|German Culture, Media, and Society]] — 21G.414, Fall 2006
 - [[sts-462-social-and-political-implications-of-technology-spring-2006|Social and Political Implications of Technology]] — STS.462, Spring 2006
 - [[es-269-passing-flexibility-in-race-and-gender-spring-2009|Passing: Flexibility in Race and Gender]] — ES.269, Spring 2009
 - [[11-235-analyzing-projects-and-organizations-fall-2009|Analyzing Projects and Organizations]] — 11.235, Fall 2009

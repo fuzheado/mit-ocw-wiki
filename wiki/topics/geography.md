@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[12-540-principles-of-the-global-positioning-system-spring-2012|Principles of the Global Positioning System]] — 12.540, Spring 2012
+- [[11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020|Wanderings in Psychogeography: Exploring Landscapes of History, Biography, Memory, Culture, Nature, Poetry, Surreality, Fantasy, and Madness]] — 11.S942, Fall 2020
 - [[11-s945-urbanizing-china-a-reflective-dialogue-fall-2013|Urbanizing China: A Reflective Dialogue]] — 11.S945, Fall 2013
 - [[11-205-introduction-to-spatial-analysis-fall-2019|Introduction to Spatial Analysis]] — 11.205, Fall 2019
 - [[12-114-field-geology-i-fall-2005|Field Geology I]] — 12.114, Fall 2005

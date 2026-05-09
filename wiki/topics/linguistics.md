@@ -12,6 +12,10 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-964-topics-in-phonology-fall-2004|Topics in Phonology]] — 24.964, Fall 2004
+- [[24-917-conlangs-how-to-construct-a-language-fall-2018|ConLangs: How to Construct a Language]] — 24.917, Fall 2018
+- [[6-892-computational-models-of-discourse-spring-2004|Computational Models of Discourse]] — 6.892, Spring 2004
+- [[24-910-topics-in-linguistics-theory-spring-2003|Topics in Linguistics Theory]] — 24.910, Spring 2003
 - [[24-964-topics-in-phonology-phonetic-realization-fall-2006|Topics in Phonology: Phonetic Realization]] — 24.964, Fall 2006
 - [[24-947-language-disorders-in-children-spring-2013|Language Disorders in Children]] — 24.947, Spring 2013
 - [[24-962-advanced-phonology-spring-2005|Advanced Phonology]] — 24.962, Spring 2005

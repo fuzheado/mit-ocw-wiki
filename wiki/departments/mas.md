@@ -12,6 +12,8 @@ School: [[school-architecture-planning|School of Architecture and Planning]]
 
 ## Courses
 
+- [[mas-714j-technologies-for-creative-learning-fall-2009|Technologies for Creative Learning]] (MAS.714J)
+- [[mas-961-networks-complexity-and-its-applications-spring-2011|Networks, Complexity and Its Applications]] (MAS.961)
 - [[2-717j-optical-engineering-spring-2002|Optical Engineering]] (2.717J)
 - [[mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003|Industrial Design Intelligence: A Cognitive Approach to Engineering]] (MAS.742)
 - [[mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001|Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context]] (MAS.963)

@@ -10,6 +10,7 @@ courses_count: 0
 
 ## Courses
 
+- [[15-772j-d-lab-supply-chains-fall-2014|D-Lab: Supply Chains]] (15.772J)
 - [[ec-s06-practical-electronics-fall-2004|Practical Electronics]] (EC.S06)
 - [[ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016|Visualization for Mathematics, Science, and Technology Education]] (EC.210)
 - [[ec-s07-photovoltaic-solar-energy-systems-fall-2004|Photovoltaic Solar Energy Systems]] (EC.S07)

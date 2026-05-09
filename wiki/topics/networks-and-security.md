@@ -12,6 +12,7 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-033-computer-system-engineering-spring-2018|Computer System Engineering]] — 6.033, Spring 2018
 - [[6-875-cryptography-and-cryptanalysis-spring-2005|Cryptography and Cryptanalysis]] — 6.875, Spring 2005
 - [[15-561-information-technology-essentials-spring-2005|Information Technology Essentials]] — 15.561, Spring 2005
 - [[6-045j-automata-computability-and-complexity-spring-2011|Automata, Computability, and Complexity]] — 6.045J, Spring 2011

@@ -12,6 +12,8 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008|Designing and Sustaining Technology Innovation for Global Health Practice]] — HST.939, Spring 2008
+- [[hst-952-computing-for-biomedical-scientists-fall-2002|Computing for Biomedical Scientists]] — HST.952, Fall 2002
 - [[hst-723j-neural-coding-and-perception-of-sound-spring-2005|Neural Coding and Perception of Sound]] — HST.723J, Spring 2005
 - [[9-71-functional-mri-of-high-level-vision-fall-2007|Functional MRI of High-Level Vision]] — 9.71, Fall 2007
 - [[hst-951j-medical-decision-support-fall-2005|Medical Decision Support]] — HST.951J, Fall 2005

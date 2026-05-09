@@ -20,6 +20,36 @@ courses_count: 0
 
 ## Courses
 
+- [[21l-705-major-authors-john-milton-spring-2008|Major Authors: John Milton]] — 21L.705, Spring 2008
+- [[21g-404-german-iv-spring-2005|German IV]] — 21G.404, Spring 2005
+- [[11-233-crafting-research-questions-and-qualitative-methodology-fall-2005|Crafting Research Questions and Qualitative Methodology]] — 11.233, Fall 2005
+- [[24-964-topics-in-phonology-fall-2004|Topics in Phonology]] — 24.964, Fall 2004
+- [[21h-161-the-middle-east-in-the-20th-century-fall-2015|The Middle East in the 20th Century]] — 21H.161, Fall 2015
+- [[21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011|Cross-Cultural Perspectives on Contemporary French Society]] — 21G.315, Fall 2011
+- [[21l-005-introduction-to-drama-fall-2004|Introduction to Drama]] — 21L.005, Fall 2004
+- [[24-917-conlangs-how-to-construct-a-language-fall-2018|ConLangs: How to Construct a Language]] — 24.917, Fall 2018
+- [[21l-460-medieval-literature-love-sex-and-marriage-spring-2015|Medieval Literature: Love, Sex, and Marriage]] — 21L.460, Spring 2015
+- [[21l-450-literature-and-ethical-values-fall-2002|Literature and Ethical Values]] — 21L.450, Fall 2002
+- [[21l-701-literary-interpretation-literature-and-urban-experience-spring-2009|Literary Interpretation: Literature and Urban Experience]] — 21L.701, Spring 2009
+- [[21h-207-the-energy-crisis-past-and-present-fall-2010|The Energy Crisis: Past and Present]] — 21H.207, Fall 2010
+- [[6-892-computational-models-of-discourse-spring-2004|Computational Models of Discourse]] — 6.892, Spring 2004
+- [[21l-009-shakespeare-spring-2004|Shakespeare]] — 21L.009, Spring 2004
+- [[21h-223-war-american-society-fall-2002|War & American Society]] — 21H.223, Fall 2002
+- [[es-261-poetry-in-translation-spring-2006|Poetry in Translation]] — ES.261, Spring 2006
+- [[21l-015-introduction-to-media-studies-fall-2005|Introduction to Media Studies]] — 21L.015, Fall 2005
+- [[21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007|Advanced Speaking and Critical Listening Skills (ELS)]] — 21G.232, Spring 2007
+- [[es-113-ancient-greek-philosophy-and-mathematics-spring-2016|Ancient Greek Philosophy and Mathematics]] — ES.113, Spring 2016
+- [[21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016|Globalization: The Good, the Bad and the In-Between]] — 21L.020J, Fall 2016
+- [[21m-302-harmony-and-counterpoint-ii-spring-2005|Harmony and Counterpoint II]] — 21M.302, Spring 2005
+- [[21g-225-advanced-workshop-in-writing-for-science-and-engineering-els-spring-2016|Advanced Workshop in Writing for Science and Engineering (ELS)]] — 21G.225, Spring 2016
+- [[24-910-topics-in-linguistics-theory-spring-2003|Topics in Linguistics Theory]] — 24.910, Spring 2003
+- [[res-8-008-nuclear-weapons-education-project-spring-2022|Nuclear Weapons Education Project]] — RES.8-008, Spring 2022
+- [[21h-301-the-ancient-world-greece-fall-2004|The Ancient World: Greece]] — 21H.301, Fall 2004
+- [[11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020|Wanderings in Psychogeography: Exploring Landscapes of History, Biography, Memory, Culture, Nature, Poetry, Surreality, Fantasy, and Madness]] — 11.S942, Fall 2020
+- [[21g-401-german-i-fall-2008|German I]] — 21G.401, Fall 2008
+- [[21g-039j-gender-and-japanese-popular-culture-fall-2015|Gender and Japanese Popular Culture]] — 21G.039J, Fall 2015
+- [[21g-414-german-culture-media-and-society-fall-2006|German Culture, Media, and Society]] — 21G.414, Fall 2006
+- [[sts-002-toward-the-scientific-revolution-fall-2003|Toward the Scientific Revolution]] — STS.002, Fall 2003
 - [[sts-462-social-and-political-implications-of-technology-spring-2006|Social and Political Implications of Technology]] — STS.462, Spring 2006
 - [[21l-000j-writing-about-literature-writing-about-love-fall-2015|Writing About Literature: Writing About Love]] — 21L.000J, Fall 2015
 - [[es-269-passing-flexibility-in-race-and-gender-spring-2009|Passing: Flexibility in Race and Gender]] — ES.269, Spring 2009

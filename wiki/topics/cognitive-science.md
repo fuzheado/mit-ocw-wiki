@@ -12,6 +12,10 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-85-infant-and-early-childhood-cognition-fall-2012|Infant and Early Childhood Cognition]] — 9.85, Fall 2012
+- [[9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013|Affect: Neurobiological, Psychological and Sociocultural Counterparts of "Feelings"]] — 9.68, Spring 2013
+- [[9-011-the-brain-and-cognitive-sciences-i-fall-2002|The Brain and Cognitive Sciences I]] — 9.011, Fall 2002
+- [[9-641j-introduction-to-neural-networks-spring-2005|Introduction to Neural Networks]] — 9.641J, Spring 2005
 - [[hst-723j-neural-coding-and-perception-of-sound-spring-2005|Neural Coding and Perception of Sound]] — HST.723J, Spring 2005
 - [[9-00-introduction-to-psychology-fall-2004|Introduction to Psychology]] — 9.00, Fall 2004
 - [[9-00sc-introduction-to-psychology-fall-2011|Introduction to Psychology]] — 9.00SC, Fall 2011

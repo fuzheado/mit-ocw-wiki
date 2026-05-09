@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21g-053-understanding-contemporary-french-politics-spring-2014|Understanding Contemporary French Politics]] — 21G.053, Spring 2014
+- [[21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016|Globalization: The Good, the Bad and the In-Between]] — 21L.020J, Fall 2016
 - [[sts-462-social-and-political-implications-of-technology-spring-2006|Social and Political Implications of Technology]] — STS.462, Spring 2006
 - [[11-235-analyzing-projects-and-organizations-fall-2009|Analyzing Projects and Organizations]] — 11.235, Fall 2009
 - [[17-914-international-politics-in-the-new-century-via-simulation-interactive-gaming-and-edutainment-january-iap-2005|International Politics in the New Century - via Simulation, Interactive Gaming, and  'Edutainment']] — 17.914, January IAP 2005

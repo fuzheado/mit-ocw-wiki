@@ -12,6 +12,8 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[21h-207-the-energy-crisis-past-and-present-fall-2010|The Energy Crisis: Past and Present]] — 21H.207, Fall 2010
+- [[res-8-008-nuclear-weapons-education-project-spring-2022|Nuclear Weapons Education Project]] — RES.8-008, Spring 2022
 - [[15-031j-energy-decisions-markets-and-policies-spring-2012|Energy Decisions, Markets, and Policies]] — 15.031J, Spring 2012
 - [[res-2-006-girls-who-build-cameras-summer-2016|Girls Who Build Cameras]] — RES.2-006, Summer 2016
 - [[12-340x-global-warming-science-spring-2020|Global Warming Science]] — 12.340x, Spring 2020

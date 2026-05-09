@@ -12,6 +12,7 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[10-467-polymer-science-laboratory-fall-2005|Polymer Science Laboratory]] — 10.467, Fall 2005
 - [[5-05-principles-of-inorganic-chemistry-iii-spring-2005|Principles of Inorganic Chemistry III]] — 5.05, Spring 2005
 - [[5-43-advanced-organic-chemistry-spring-2007|Advanced Organic Chemistry]] — 5.43, Spring 2007
 - [[10-520-molecular-aspects-of-chemical-engineering-fall-2004|Molecular Aspects of Chemical Engineering]] — 10.520, Fall 2004

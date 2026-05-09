@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[cms-950-workshop-i-fall-2005|Workshop I]]
 - [[21w-780-communicating-in-technical-organizations-fall-2001|Communicating in Technical Organizations]]

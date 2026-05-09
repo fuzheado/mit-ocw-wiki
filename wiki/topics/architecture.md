@@ -12,6 +12,10 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-302-bsad-foundations-in-the-visual-arts-fall-2003|BSAD Foundations in the Visual Arts]] — 4.302, Fall 2003
+- [[4-195-special-problems-in-architectural-design-spring-2005|Special Problems in Architectural Design]] — 4.195, Spring 2005
+- [[4-645-selected-topics-in-architecture-architecture-from-1750-to-the-present-fall-2004|Selected Topics in Architecture: Architecture from 1750 to the Present]] — 4.645, Fall 2004
+- [[4-461-building-technology-i-materials-and-construction-fall-2004|Building Technology I: Materials and Construction]] — 4.461, Fall 2004
 - [[4-241j-theory-of-city-form-spring-2013|Theory of City Form]] — 4.241J, Spring 2013
 - [[11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004|Urban Design Skills: Observing, Interpreting, and Representing the City]] — 11.328J, Fall 2004
 - [[11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001|Special Studies in Urban Studies and Planning - The Cardener River Corridor Workshop]] — 11.943, Fall 2001

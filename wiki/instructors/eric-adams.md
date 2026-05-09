@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[1-77-water-quality-control-spring-2006|Water Quality Control]]
 - [[1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004|Environmental Engineering Masters of Engineering Project]]
 - [[1-964-design-for-sustainability-fall-2006|Design for Sustainability]]
 - [[1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007|Masters of Engineering Concepts of Engineering Practice]]

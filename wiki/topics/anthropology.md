@@ -12,6 +12,14 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21a-s01-reparations-for-slavery-and-colonization-contemporary-movements-for-justice-fall-2021|Reparations for Slavery and Colonization: Contemporary Movements for Justice]] — 21A.S01, Fall 2021
+- [[21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011|Cross-Cultural Perspectives on Contemporary French Society]] — 21G.315, Fall 2011
+- [[21a-00-introduction-to-anthropology-spring-2022|Introduction to Anthropology]] — 21A.00, Spring 2022
+- [[21h-223-war-american-society-fall-2002|War & American Society]] — 21H.223, Fall 2002
+- [[21l-015-introduction-to-media-studies-fall-2005|Introduction to Media Studies]] — 21L.015, Fall 2005
+- [[21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016|Globalization: The Good, the Bad and the In-Between]] — 21L.020J, Fall 2016
+- [[21g-039j-gender-and-japanese-popular-culture-fall-2015|Gender and Japanese Popular Culture]] — 21G.039J, Fall 2015
+- [[21g-414-german-culture-media-and-society-fall-2006|German Culture, Media, and Society]] — 21G.414, Fall 2006
 - [[sts-462-social-and-political-implications-of-technology-spring-2006|Social and Political Implications of Technology]] — STS.462, Spring 2006
 - [[21h-914-jewish-history-from-biblical-to-modern-times-fall-2007|Jewish History from Biblical to Modern Times]] — 21H.914, Fall 2007
 - [[21m-621-theater-and-cultural-diversity-in-the-u-s-spring-2008|Theater and Cultural Diversity in the U.S.]] — 21M.621, Spring 2008

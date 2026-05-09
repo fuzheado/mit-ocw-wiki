@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-161-modern-optics-project-laboratory-fall-2005|Modern Optics Project Laboratory]] — 6.161, Fall 2005
+- [[6-720j-integrated-microelectronic-devices-spring-2007|Integrated Microelectronic Devices]] — 6.720J, Spring 2007
+- [[12-540-principles-of-the-global-positioning-system-spring-2012|Principles of the Global Positioning System]] — 12.540, Spring 2012
 - [[6-004-computation-structures-spring-2009|Computation Structures]] — 6.004, Spring 2009
 - [[mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003|Industrial Design Intelligence: A Cognitive Approach to Engineering]] — MAS.742, Fall 2003
 - [[6-781j-submicrometer-and-nanometer-technology-spring-2006|Submicrometer and Nanometer Technology]] — 6.781J, Spring 2006

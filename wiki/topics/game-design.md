@@ -12,6 +12,7 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[cms-301-introduction-to-game-design-methods-spring-2016|Introduction to Game Design Methods]] — CMS.301, Spring 2016
 - [[es-268-the-mathematics-in-toys-and-games-spring-2010|The Mathematics in Toys and Games]] — ES.268, Spring 2010
 - [[17-914-international-politics-in-the-new-century-via-simulation-interactive-gaming-and-edutainment-january-iap-2005|International Politics in the New Century - via Simulation, Interactive Gaming, and  'Edutainment']] — 17.914, January IAP 2005
 - [[res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017|Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft Kinect]] — RES.3-003, January IAP 2017

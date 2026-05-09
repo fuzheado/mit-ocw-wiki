@@ -12,6 +12,9 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[mas-714j-technologies-for-creative-learning-fall-2009|Technologies for Creative Learning]] (MAS.714J)
+- [[sts-062j-drugs-politics-and-culture-spring-2006|Drugs, Politics, and Culture]] (STS.062J)
+- [[sts-002-toward-the-scientific-revolution-fall-2003|Toward the Scientific Revolution]] (STS.002)
 - [[sts-462-social-and-political-implications-of-technology-spring-2006|Social and Political Implications of Technology]] (STS.462)
 - [[sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018|Energy, Environment, and Society: Global Politics, Technologies, and Ecologies of the Water-Energy-Food Crises]] (STS.032)
 - [[sts-460-histories-of-information-communication-and-computing-technologies-spring-2015|Histories of Information, Communication, and Computing Technologies]] (STS.460)

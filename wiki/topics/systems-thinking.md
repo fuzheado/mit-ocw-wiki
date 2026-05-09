@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-057-systems-optimization-spring-2003|Systems Optimization]] — 15.057, Spring 2003
+- [[16-810-engineering-design-and-rapid-prototyping-january-iap-2007|Engineering Design and Rapid Prototyping]] — 16.810, January IAP 2007
+- [[16-355j-software-engineering-concepts-fall-2005|Software Engineering Concepts]] — 16.355J, Fall 2005
 - [[2-717j-optical-engineering-spring-2002|Optical Engineering]] — 2.717J, Spring 2002
 - [[16-810-engineering-design-and-rapid-prototyping-january-iap-2005|Engineering Design and Rapid Prototyping]] — 16.810, January IAP 2005
 - [[6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006|Algebraic Techniques and Semidefinite Optimization]] — 6.972, Spring 2006

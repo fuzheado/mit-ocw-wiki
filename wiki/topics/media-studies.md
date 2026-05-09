@@ -12,6 +12,14 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21g-404-german-iv-spring-2005|German IV]] — 21G.404, Spring 2005
+- [[4-195-special-problems-in-architectural-design-spring-2005|Special Problems in Architectural Design]] — 4.195, Spring 2005
+- [[mas-961-networks-complexity-and-its-applications-spring-2011|Networks, Complexity and Its Applications]] — MAS.961, Spring 2011
+- [[21l-015-introduction-to-media-studies-fall-2005|Introduction to Media Studies]] — 21L.015, Fall 2005
+- [[21g-039j-gender-and-japanese-popular-culture-fall-2015|Gender and Japanese Popular Culture]] — 21G.039J, Fall 2015
+- [[21g-414-german-culture-media-and-society-fall-2006|German Culture, Media, and Society]] — 21G.414, Fall 2006
+- [[cms-950-workshop-i-fall-2005|Workshop I]] — CMS.950, Fall 2005
+- [[cms-301-introduction-to-game-design-methods-spring-2016|Introduction to Game Design Methods]] — CMS.301, Spring 2016
 - [[21w-021-writing-and-experience-mit-inside-live-fall-2013|Writing and Experience: MIT: Inside, Live]] — 21W.021, Fall 2013
 - [[res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017|Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft Kinect]] — RES.3-003, January IAP 2017
 - [[cms-407-media-and-methods-sound-fall-2012|Media and Methods: Sound]] — CMS.407, Fall 2012

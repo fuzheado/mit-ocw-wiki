@@ -12,6 +12,7 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21m-302-harmony-and-counterpoint-ii-spring-2005|Harmony and Counterpoint II]] — 21M.302, Spring 2005
 - [[21m-294-popular-musics-of-the-world-spring-2005|Popular Musics of the World]] — 21M.294, Spring 2005
 - [[cms-407-media-and-methods-sound-fall-2012|Media and Methods: Sound]] — CMS.407, Fall 2012
 - [[21a-360j-the-anthropology-of-sound-spring-2008|The Anthropology of Sound]] — 21A.360J, Spring 2008

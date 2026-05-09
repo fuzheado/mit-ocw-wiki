@@ -5,23 +5,23 @@ title: "Ecology I: The Earth System"
 year_published: 2009
 instructors: ["Prof. Edward DeLong", "Prof. Penny Chisholm"]
 level: ["undergraduate"]
-department: "1"
-topics: ["Science & Math", "Biology", "Earth Science"]
+department: "7"
+topics: ["Biology", "Earth Science", "Science & Math"]
 license: "CC BY-NC-SA"
 views: 725
-completeness: 0.48
+completeness: 0.4816666666666667
 last_modified: "2026-05-06T16:51:13Z"
-type: course
+type: "course"
 ---
 
 # Ecology I: The Earth System
 
-We will cover fundamentals of ecology, considering Earth as an integrated dynamic system. Topics include coevolution of the biosphere, geosphere, atmosphere and oceans; photosynthesis and respiration; the hydrologic, carbon and nitrogen cycles. We will examine the flow of energy and materials through ecosystems; regulation of the distribution and abundance of organisms; structure and function of ecosystems, including evolution and natural selection; metabolic diversity; productivity; trophic dynamics; models of population growth, competition, mutualism and predation.
+We will cover fundamentals of ecology, considering Earth as an integrated dynamic system. Topics include coevolution of the biosphere, geosphere, atmosphere and oceans; photosynthesis and respiration; the hydrologic, carbon and nitrogen cycles. We will examine the flow of energy and materials through ecosystems; regulation of the distribution and abundance of organisms; structure and function of ecosystems, including evolution and natural selection; metabolic diversity; productivity; trophic dynamics; models of population growth, competition, mutualism and predation. This course is designated as Communication-Intensive; instruction and practice in oral and written communication provided. Biology is a recommended prerequisite.
 
 ## Course Info
 
-- **Department:** [[1|Civil and Environmental Engineering]] (also cross-listed as [[7|Biology]])
-- **Course Number:** 1.018J / 7.30J
+- **Department:** [[7|Biology]], [[1|Civil and Environmental Engineering]]
+- **Course Number:** 1.018J
 - **Instructors:** [[edward-delong|Prof. Edward DeLong]], [[penny-chisholm|Prof. Penny Chisholm]]
 - **Year:** 2009
 - **Level:** Undergraduate
@@ -30,10 +30,12 @@ We will cover fundamentals of ecology, considering Earth as an integrated dynami
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-- [Problem-Set] Problem sets with solutions
-- [Exam] Exams with solutions
-- [Project] Projects with examples
+- [Exam Solutions] Exam Solutions
+- [Exams] Exams
+- [Lecture Notes] Lecture Notes
+- [Problem Set Solutions] Problem Set Solutions
+- [Problem Sets] Problem Sets
+- [Projects with Examples] Projects with Examples
 
 ## Wikipedia Bridge
 

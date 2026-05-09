@@ -12,6 +12,11 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-450-literature-and-ethical-values-fall-2002|Literature and Ethical Values]] — 21L.450, Fall 2002
+- [[21l-701-literary-interpretation-literature-and-urban-experience-spring-2009|Literary Interpretation: Literature and Urban Experience]] — 21L.701, Spring 2009
+- [[es-113-ancient-greek-philosophy-and-mathematics-spring-2016|Ancient Greek Philosophy and Mathematics]] — ES.113, Spring 2016
+- [[21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016|Globalization: The Good, the Bad and the In-Between]] — 21L.020J, Fall 2016
+- [[11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020|Wanderings in Psychogeography: Exploring Landscapes of History, Biography, Memory, Culture, Nature, Poetry, Surreality, Fantasy, and Madness]] — 11.S942, Fall 2020
 - [[24-231-ethics-fall-2009|Ethics]] — 24.231, Fall 2009
 - [[9-911-reasonable-conduct-in-science-january-iap-2002|Reasonable Conduct in Science]] — 9.911, January IAP 2002
 - [[9-69-foundations-of-cognition-spring-2003|Foundations of Cognition]] — 9.69, Spring 2003

@@ -12,6 +12,9 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-033-computer-system-engineering-spring-2018|Computer System Engineering]] — 6.033, Spring 2018
+- [[1-124j-foundations-of-software-engineering-fall-2000|Foundations of Software Engineering]] — 1.124J, Fall 2000
+- [[16-355j-software-engineering-concepts-fall-2005|Software Engineering Concepts]] — 16.355J, Fall 2005
 - [[6-004-computation-structures-spring-2009|Computation Structures]] — 6.004, Spring 2009
 - [[6-035-computer-language-engineering-sma-5502-fall-2005|Computer Language Engineering (SMA 5502)]] — 6.035, Fall 2005
 - [[res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017|Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft Kinect]] — RES.3-003, January IAP 2017

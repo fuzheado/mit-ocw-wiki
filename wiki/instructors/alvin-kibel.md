@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21l-450-literature-and-ethical-values-fall-2002|Literature and Ethical Values]]
 - [[21l-017-the-art-of-the-probable-literature-and-probability-spring-2008|The Art of the Probable: Literature and Probability]]
 - [[21l-448j-darwin-and-design-fall-2003|Darwin and Design]]
 - [[21l-706-studies-in-film-fall-2005|Studies in Film]]

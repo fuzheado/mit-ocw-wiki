@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21l-005-introduction-to-drama-fall-2004|Introduction to Drama]] — 21L.005, Fall 2004
+- [[21m-873-theater-arts-topics-fall-2004-january-iap-2005|Theater Arts Topics]] — 21M.873, Fall 2004
 - [[21m-621-theater-and-cultural-diversity-in-the-u-s-spring-2008|Theater and Cultural Diversity in the U.S.]] — 21M.621, Spring 2008
 - [[21m-734-lighting-design-for-the-theatre-fall-2003|Lighting Design for the Theatre]] — 21M.734, Fall 2003
 - [[21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003|English Renaissance Drama: Theatre and Society in the Age of Shakespeare]] — 21L.703, Fall 2003

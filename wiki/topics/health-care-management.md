@@ -12,6 +12,8 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008|Designing and Sustaining Technology Innovation for Global Health Practice]] — HST.939, Spring 2008
+- [[hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012|Health Information Systems to Improve Quality of Care in Resource-Poor Settings]] — HST.S14, Spring 2012
 - [[6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005|Laboratory on the Physiology, Acoustics, and Perception of Speech]] — 6.542J, Fall 2005
 - [[hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020|Global Health Informatics to Improve Quality of Care]] — HST.936x, Spring 2020
 - [[11-003j-methods-of-policy-analysis-spring-2016|Methods of Policy Analysis]] — 11.003J, Spring 2016

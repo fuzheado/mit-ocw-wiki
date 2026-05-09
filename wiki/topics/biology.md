@@ -12,6 +12,13 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[1-018j-ecology-i-the-earth-system-fall-2009|Ecology I: The Earth System]] — 1.018J, Fall 2009
+- [[8-591j-systems-biology-fall-2014|Systems Biology]] — 8.591J, Fall 2014
+- [[9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013|Affect: Neurobiological, Psychological and Sociocultural Counterparts of "Feelings"]] — 9.68, Spring 2013
+- [[9-011-the-brain-and-cognitive-sciences-i-fall-2002|The Brain and Cognitive Sciences I]] — 9.011, Fall 2002
+- [[9-641j-introduction-to-neural-networks-spring-2005|Introduction to Neural Networks]] — 9.641J, Spring 2005
+- [[7-16-experimental-molecular-biology-biotechnology-ii-spring-2005|Experimental Molecular Biology: Biotechnology II]] — 7.16, Spring 2005
+- [[7-91j-foundations-of-computational-and-systems-biology-spring-2014|Foundations of Computational and Systems Biology]] — 7.91J, Spring 2014
 - [[hst-723j-neural-coding-and-perception-of-sound-spring-2005|Neural Coding and Perception of Sound]] — HST.723J, Spring 2005
 - [[16-430j-sensory-neural-systems-spatial-orientation-from-end-organs-to-behavior-and-adaptation-spring-2012|Sensory-Neural Systems: Spatial Orientation from End Organs to Behavior and Adaptation]] — 16.430J, Spring 2012
 - [[9-71-functional-mri-of-high-level-vision-fall-2007|Functional MRI of High-Level Vision]] — 9.71, Fall 2007

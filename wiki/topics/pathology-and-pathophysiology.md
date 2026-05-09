@@ -12,6 +12,7 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[hst-121-gastroenterology-fall-2005|Gastroenterology]] — HST.121, Fall 2005
 - [[6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005|Laboratory on the Physiology, Acoustics, and Perception of Speech]] — 6.542J, Fall 2005
 - [[9-14-brain-structure-and-its-origins-spring-2014|Brain Structure and Its Origins]] — 9.14, Spring 2014
 - [[hst-021-musculoskeletal-pathophysiology-january-iap-2006|Musculoskeletal Pathophysiology]] — HST.021, January IAP 2006
