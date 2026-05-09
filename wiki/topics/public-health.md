@@ -12,6 +12,8 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[pe-810-sailing-spring-2007|Sailing]] — PE.810, Spring 2007
+- [[20-102-macroepidemiology-be-102-spring-2005|Macroepidemiology (BE.102)]] — 20.102, Spring 2005
 - [[11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007|Water and Sanitation Infrastructure in Developing Countries]] — 11.479J, Spring 2007
 - [[hst-953-collaborative-data-science-for-healthcare-fall-2020|Collaborative Data Science for Healthcare]] — HST.953, Fall 2020
 - [[es-010-chemistry-of-sports-spring-2013|Chemistry of Sports]] — ES.010, Spring 2013

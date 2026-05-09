@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21a-470j-gender-and-representation-of-asian-women-spring-2010|Gender and Representation of Asian Women]] — 21A.470J, Spring 2010
+- [[21l-707-reading-cookbooks-from-the-forme-of-cury-to-the-smitten-kitchen-spring-2017|Reading Cookbooks: from The Forme of Cury to The Smitten Kitchen]] — 21L.707, Spring 2017
 - [[17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012|Conversations You Can't Have on Campus: Race, Ethnicity, Gender and Identity]] — 17.S914, Spring 2012
 - [[21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013|Dilemmas in Bio-Medical Ethics: Playing God or Doing Good?]] — 21A.302J, Fall 2013
 - [[21a-218j-identity-and-difference-spring-2010|Identity and Difference]] — 21A.101J (formerly 21A.218J), Spring 2010

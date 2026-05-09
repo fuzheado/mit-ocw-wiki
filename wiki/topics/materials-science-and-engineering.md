@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-763-applied-superconductivity-fall-2005|Applied Superconductivity]] — 6.763, Fall 2005
 - [[3-012-fundamentals-of-materials-science-fall-2005|Fundamentals of Materials Science]] — 3.012, Fall 2005
 - [[4-493-emergent-materials-ii-spring-2005|Emergent Materials II]] — 4.493, Spring 2005
 - [[4-463-building-technologies-iii-building-structural-systems-ii-fall-2002|Building Technologies III: Building Structural Systems II]] — 4.463, Fall 2002

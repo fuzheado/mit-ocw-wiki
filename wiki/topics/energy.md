@@ -12,6 +12,8 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006|Structural Mechanics in Nuclear Power Technology]] — 22.314J, Fall 2006
+- [[2-58j-radiative-transfer-spring-2006|Radiative Transfer]] — 2.58J, Spring 2006
 - [[res-ec-003-d-lab-student-showcases-spring-2022|D-Lab Student Showcases]] — RES.EC-003, Spring 2022
 - [[2-61-internal-combustion-engines-spring-2017|Internal Combustion Engines]] — 2.61, Spring 2017
 - [[22-812j-managing-nuclear-technology-spring-2004|Managing Nuclear Technology]] — 22.812J, Spring 2004

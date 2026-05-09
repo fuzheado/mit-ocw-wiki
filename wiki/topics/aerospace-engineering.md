@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006|Structural Mechanics in Nuclear Power Technology]] — 22.314J, Fall 2006
+- [[16-323-principles-of-optimal-control-spring-2008|Principles of Optimal Control]] — 16.323, Spring 2008
 - [[16-322-stochastic-estimation-and-control-fall-2004|Stochastic Estimation and Control]] — 16.322, Fall 2004
 - [[16-001-unified-engineering-materials-and-structures-fall-2021|Unified Engineering: Materials and Structures]] — 16.001, Fall 2021
 - [[16-121-analytical-subsonic-aerodynamics-fall-2017|Analytical Subsonic Aerodynamics]] — 16.121, Fall 2017

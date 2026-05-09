@@ -12,6 +12,7 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[res-8-007-cosmic-origin-of-the-chemical-elements-fall-2019|Cosmic Origin of the Chemical Elements ]] — RES.8-007, Fall 2019
 - [[5-72-non-equilibrium-statistical-mechanics-spring-2012|Non-Equilibrium Statistical Mechanics]] — 5.72, Spring 2012
 - [[5-067-crystal-structure-refinement-fall-2009|Crystal Structure Refinement]] — 5.067, Fall 2009
 - [[12-141-electron-microprobe-analysis-january-iap-2012|Electron Microprobe Analysis]] — 12.141, January IAP 2012

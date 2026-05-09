@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]] — 11.364, Fall 2010
+- [[2-062j-wave-propagation-spring-2017|Wave Propagation]] — 2.062J, Spring 2017
 - [[12-802-wave-motion-in-the-ocean-and-the-atmosphere-spring-2008|Wave Motion in the Ocean and the Atmosphere]] — 12.802, Spring 2008
 - [[11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007|Water and Sanitation Infrastructure in Developing Countries]] — 11.479J, Spring 2007
 - [[12-103-strange-bedfellows-science-and-environmental-policy-fall-2005|Strange Bedfellows: Science and Environmental Policy]] — 12.103, Fall 2005

@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002|Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems]] — 4.285, Fall 2002
+- [[11-946j-beijing-urban-design-studio-summer-2004|Beijing Urban Design Studio]] — 11.946J, Summer 2004
+- [[11-001j-introduction-to-urban-design-and-development-spring-2006|Introduction to Urban Design and Development]] — 11.001J, Spring 2006
 - [[4-196-architecture-design-level-ii-cuba-studio-spring-2004|Architecture Design, Level II: Cuba Studio]] — 4.196, Spring 2004
 - [[4-125a-architecture-studio-building-in-landscapes-fall-2005|Architecture Studio: Building in Landscapes]] — 4.125A, Fall 2005
 - [[11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009|Revitalizing Urban Main Streets: St. Claude Avenue, New Orleans]] — 11.439, Spring 2009

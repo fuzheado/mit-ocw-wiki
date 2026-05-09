@@ -12,6 +12,12 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012|Geometric Disciplines and Architecture Skills: Reciprocal Methodologies]] — 4.105, Fall 2012
+- [[4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002|Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems]] — 4.285, Fall 2002
+- [[4-661-theory-and-method-in-the-study-of-architecture-and-art-fall-2015|Theory and Method in the Study of Architecture and Art]] — 4.661, Fall 2015
+- [[4-638-drawings-numbers-five-centuries-of-digital-design-fall-2002|Drawings & Numbers: Five Centuries of Digital Design]] — 4.638, Fall 2002
+- [[11-946j-beijing-urban-design-studio-summer-2004|Beijing Urban Design Studio]] — 11.946J, Summer 2004
+- [[11-001j-introduction-to-urban-design-and-development-spring-2006|Introduction to Urban Design and Development]] — 11.001J, Spring 2006
 - [[21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014|The City of Athens in the Age of Pericles]] — 21H.237, Fall 2014
 - [[4-614-religious-architecture-and-islamic-cultures-fall-2002|Religious Architecture and Islamic Cultures]] — 4.614, Fall 2002
 - [[4-493-emergent-materials-ii-spring-2005|Emergent Materials II]] — 4.493, Spring 2005

@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016|Introduction to Nuclear Engineering and Ionizing Radiation]]
 - [[22-011-nuclear-engineering-science-systems-and-society-spring-2020|Nuclear Engineering: Science, Systems and Society]]
 - [[22-tht-undergraduate-thesis-tutorial-fall-2015|Undergraduate Thesis Tutorial]]
 - [[22-033-nuclear-systems-design-project-fall-2011|Nuclear Systems Design Project]]

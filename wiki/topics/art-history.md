@@ -12,4 +12,5 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
-*None yet.*
+- [[4-661-theory-and-method-in-the-study-of-architecture-and-art-fall-2015|Theory and Method in the Study of Architecture and Art]] — 4.661, Fall 2015
+- [[4-661-theory-and-method-in-the-study-of-architecture-and-art-fall-2015|Theory and Method in the Study of Architecture and Art]] — 4.661, Fall 2015

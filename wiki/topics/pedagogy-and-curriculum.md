@@ -12,6 +12,7 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014|Teaching and Learning: Cross-Cultural Perspectives]] — 21A.150, Fall 2014
 - [[11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009|Introduction to Education: Understanding and Evaluating Education]] — 11.125, Spring 2009
 - [[4-696-a-global-history-of-architecture-writing-seminar-spring-2008|A Global History of Architecture Writing Seminar]] — 4.696, Spring 2008
 - [[20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015|Becoming the Next Bill Nye: Writing and Hosting the Educational Show]] — 20.219, January IAP 2015

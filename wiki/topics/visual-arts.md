@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21l-325-small-wonders-staying-alive-spring-2007|Small Wonders: Staying Alive]] — 21L.325, Spring 2007
+- [[sts-004-science-technology-world-fall-2013|Science, Technology, & World]] — STS.004, Fall 2013
 - [[cms-100-introduction-to-media-studies-fall-2014|Introduction to Media Studies]] — CMS.100, Fall 2014
 - [[21g-026-global-africa-creative-cultures-spring-2018|Global Africa: Creative Cultures]] — 21G.026, Spring 2018
 - [[4-602-modern-art-and-mass-culture-spring-2012|Modern Art and Mass Culture]] — 4.602, Spring 2012

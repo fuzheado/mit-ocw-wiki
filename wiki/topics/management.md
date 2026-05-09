@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-615-law-for-the-entrepreneur-and-manager-spring-2003|Law for the Entrepreneur and Manager]] — 15.615, Spring 2003
+- [[15-053x-optimization-methods-in-business-analytics-summer-2021|Optimization Methods in Business Analytics]] — 15.053x, Spring 2021
+- [[15-351-managing-the-innovation-process-fall-2002|Managing the Innovation Process]] — 15.351, Fall 2002
 - [[15-968-the-sociology-of-strategy-spring-2005|The Sociology of Strategy]] — 15.968, Spring 2005
 - [[15-514-financial-and-managerial-accounting-summer-2003|Financial and Managerial Accounting]] — 15.514, Summer 2003
 - [[22-812j-managing-nuclear-technology-spring-2004|Managing Nuclear Technology]] — 22.812J, Spring 2004

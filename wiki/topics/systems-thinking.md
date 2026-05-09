@@ -12,6 +12,11 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002|Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems]] — 4.285, Fall 2002
+- [[16-323-principles-of-optimal-control-spring-2008|Principles of Optimal Control]] — 16.323, Spring 2008
+- [[6-973-communication-system-design-spring-2006|Communication System Design]] — 6.973, Spring 2006
+- [[6-231-dynamic-programming-and-stochastic-control-fall-2015|Dynamic Programming and Stochastic Control]] — 6.231, Fall 2015
+- [[15-783j-product-design-and-development-spring-2006|Product Design and Development]] — 15.783J, Spring 2006
 - [[16-s498-risk-aware-and-robust-nonlinear-planning-fall-2019|Risk Aware and Robust Nonlinear Planning]] — 16.S498, Fall 2019
 - [[1-206j-airline-schedule-planning-spring-2003|Airline Schedule Planning]] — 1.206J, Spring 2003
 - [[20-181-computation-for-biological-engineers-fall-2006|Computation for Biological Engineers]] — 20.181, Fall 2006

@@ -12,6 +12,16 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-753-geodynamics-seminar-spring-2005|Geodynamics Seminar]] — 12.753, Spring 2005
+- [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]] — 11.364, Fall 2010
+- [[12-517-dynamics-of-complex-systems-biological-and-environmental-coevolution-preceding-the-cambrian-explosion-spring-2005|Dynamics of Complex Systems: Biological and Environmental Coevolution Preceding the Cambrian Explosion]] — 12.517, Spring 2005
+- [[11-941-urban-climate-adaptation-spring-2011|Urban Climate Adaptation]] — 11.941, Spring 2011
+- [[12-815-atmospheric-radiation-fall-2008|Atmospheric Radiation]] — 12.815, Fall 2008
+- [[6-s898-climate-change-seminar-fall-2019|Climate Change Seminar]] — 6.S898, Fall 2019
+- [[2-062j-wave-propagation-spring-2017|Wave Propagation]] — 2.062J, Spring 2017
+- [[2-58j-radiative-transfer-spring-2006|Radiative Transfer]] — 2.58J, Spring 2006
+- [[2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004|Principles of Oceanographic Instrument Systems -- Sensors and Measurements (13.998)]] — 2.693, Spring 2004
+- [[12-491-biogeochemistry-of-sulfur-fall-2007|Biogeochemistry of Sulfur]] — 12.491, Fall 2007
 - [[12-802-wave-motion-in-the-ocean-and-the-atmosphere-spring-2008|Wave Motion in the Ocean and the Atmosphere]] — 12.802, Spring 2008
 - [[12-307-weather-and-climate-laboratory-spring-2009|Weather and Climate Laboratory]] — 12.307, Spring 2009
 - [[12-110-sedimentary-geology-fall-2004|Sedimentary Geology]] — 12.110, Fall 2004

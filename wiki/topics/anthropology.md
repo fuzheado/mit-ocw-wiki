@@ -12,6 +12,16 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014|Teaching and Learning: Cross-Cultural Perspectives]] — 21A.150, Fall 2014
+- [[21m-293-music-of-africa-fall-2005|Music of Africa]] — 21M.293, Fall 2005
+- [[21a-470j-gender-and-representation-of-asian-women-spring-2010|Gender and Representation of Asian Women]] — 21A.470J, Spring 2010
+- [[15-269b-literature-ethics-and-authority-fall-2002|Literature, Ethics and Authority]] — 15.269B, Fall 2002
+- [[17-506-ethnic-politics-ii-spring-2007|Ethnic Politics II]] — 17.506, Spring 2007
+- [[21a-01-how-culture-works-fall-2019|How Culture Works]] — 21A.01, Fall 2019
+- [[sts-004-science-technology-world-fall-2013|Science, Technology, & World]] — STS.004, Fall 2013
+- [[21a-215-disease-and-health-culture-society-and-ethics-spring-2012|Disease and Health: Culture, Society, and Ethics]] — 21A.215, Spring 2012
+- [[21a-240-race-and-science-spring-2004|Race and Science]] — 21A.240, Spring 2004
+- [[21g-064-intro-to-japanese-culture-spring-2012|Intro to Japanese Culture]] — 21G.064, Spring 2012
 - [[21a-217-anthropology-of-war-and-peace-fall-2004|Anthropology of War and Peace]] — 21A.217, Fall 2004
 - [[17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012|Conversations You Can't Have on Campus: Race, Ethnicity, Gender and Identity]] — 17.S914, Spring 2012
 - [[17-522-politics-and-religion-fall-2006|Politics and Religion]] — 17.522, Fall 2006

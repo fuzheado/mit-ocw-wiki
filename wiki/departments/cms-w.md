@@ -12,6 +12,7 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[cms-608-game-design-spring-2008|Game Design]] (CMS.608)
 - [[21w-759-writing-science-fiction-spring-2016|Writing Science Fiction]] (21W.759)
 - [[21w-758-genre-fiction-workshop-spring-2013|Genre Fiction Workshop]] (21W.758)
 - [[21w-756-writing-and-reading-poems-fall-2006|Writing and Reading Poems]] (21W.756)

@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[res-8-007-cosmic-origin-of-the-chemical-elements-fall-2019|Cosmic Origin of the Chemical Elements ]]
 - [[8-01sc-classical-mechanics-fall-2016|Classical Mechanics]]

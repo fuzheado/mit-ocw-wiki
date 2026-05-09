@@ -12,6 +12,15 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002|Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems]] — 4.285, Fall 2002
+- [[16-323-principles-of-optimal-control-spring-2008|Principles of Optimal Control]] — 16.323, Spring 2008
+- [[18-085-computational-science-and-engineering-i-summer-2020|Computational Science and Engineering I]] — 18.085, Summer 2020
+- [[6-973-communication-system-design-spring-2006|Communication System Design]] — 6.973, Spring 2006
+- [[6-231-dynamic-programming-and-stochastic-control-fall-2015|Dynamic Programming and Stochastic Control]] — 6.231, Fall 2015
+- [[2-004-systems-modeling-and-control-ii-fall-2007|Systems, Modeling, and Control II]] — 2.004, Fall 2007
+- [[6-s898-climate-change-seminar-fall-2019|Climate Change Seminar]] — 6.S898, Fall 2019
+- [[esd-141-technology-policy-negotiations-spring-2006|Technology Policy Negotiations]] — ESD.141, Spring 2006
+- [[15-783j-product-design-and-development-spring-2006|Product Design and Development]] — 15.783J, Spring 2006
 - [[11-208-introduction-to-computers-in-public-management-ii-january-iap-2002|Introduction to Computers in Public Management II]] — 11.208, January IAP 2002
 - [[16-s498-risk-aware-and-robust-nonlinear-planning-fall-2019|Risk Aware and Robust Nonlinear Planning]] — 16.S498, Fall 2019
 - [[1-204-computer-algorithms-in-systems-engineering-spring-2010|Computer Algorithms in Systems Engineering]] — 1.204, Spring 2010

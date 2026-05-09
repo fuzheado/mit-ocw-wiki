@@ -12,6 +12,10 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002|Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems]] — 4.285, Fall 2002
+- [[mas-111-introduction-to-doing-research-in-media-arts-and-sciences-spring-2011|Introduction to Doing Research in Media Arts and Sciences]] — MAS.111, Spring 2011
+- [[cms-608-game-design-spring-2008|Game Design]] — CMS.608, Spring 2008
+- [[21l-325-small-wonders-staying-alive-spring-2007|Small Wonders: Staying Alive]] — 21L.325, Spring 2007
 - [[21m-263-music-since-1960-spring-2006|Music Since 1960]] — 21M.263, Spring 2006
 - [[21l-015-introduction-to-media-studies-fall-2003|Introduction to Media Studies]] — 21L.015, Fall 2003
 - [[cms-100-introduction-to-media-studies-fall-2014|Introduction to Media Studies]] — CMS.100, Fall 2014

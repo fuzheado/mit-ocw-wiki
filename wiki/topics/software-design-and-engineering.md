@@ -12,6 +12,7 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[18-337j-parallel-computing-fall-2011|Parallel Computing]] — 18.337J, Fall 2011
 - [[6-945-adventures-in-advanced-symbolic-programming-spring-2009|Adventures in Advanced Symbolic Programming]] — 6.945, Spring 2009
 - [[6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010|Introduction to C Memory Management and C++ Object-Oriented Programming]] — 6.088, January IAP 2010
 - [[11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015|Computer Games and Simulations for Education and Exploration]] — 11.127J, Spring 2015

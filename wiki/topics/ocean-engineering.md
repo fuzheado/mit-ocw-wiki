@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007|Special Topics in Mechanical Engineering: The Art and Science of Boat Design]] — 2.993, January IAP 2007
+- [[2-062j-wave-propagation-spring-2017|Wave Propagation]] — 2.062J, Spring 2017
+- [[2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004|Principles of Oceanographic Instrument Systems -- Sensors and Measurements (13.998)]] — 2.693, Spring 2004
 - [[12-802-wave-motion-in-the-ocean-and-the-atmosphere-spring-2008|Wave Motion in the Ocean and the Atmosphere]] — 12.802, Spring 2008
 - [[2-29-numerical-marine-hydrodynamics-13-024-spring-2003|Numerical Marine Hydrodynamics (13.024)]] — 2.29, Spring 2003
 - [[2-016-hydrodynamics-13-012-fall-2005|Hydrodynamics (13.012)]] — 2.016, Fall 2005

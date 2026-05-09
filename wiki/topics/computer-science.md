@@ -12,6 +12,15 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-s095-programming-for-the-puzzled-january-iap-2018|Programming for the Puzzled]] — 6.S095, January IAP 2018
+- [[6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003|Natural Language and the Computer Representation of Knowledge]] — 6.863J, Spring 2003
+- [[6-803-the-human-intelligence-enterprise-spring-2019|The Human Intelligence Enterprise]] — 6.803, Spring 2019
+- [[6-973-communication-system-design-spring-2006|Communication System Design]] — 6.973, Spring 2006
+- [[6-231-dynamic-programming-and-stochastic-control-fall-2015|Dynamic Programming and Stochastic Control]] — 6.231, Fall 2015
+- [[6-829-computer-networks-fall-2002|Computer Networks]] — 6.829, Fall 2002
+- [[18-337j-parallel-computing-fall-2011|Parallel Computing]] — 18.337J, Fall 2011
+- [[6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002|Techniques in Artificial Intelligence (SMA 5504)]] — 6.825, Fall 2002
+- [[mas-630-affective-computing-fall-2015|Affective Computing]] — MAS.630, Fall 2015
 - [[6-945-adventures-in-advanced-symbolic-programming-spring-2009|Adventures in Advanced Symbolic Programming]] — 6.945, Spring 2009
 - [[6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010|Introduction to C Memory Management and C++ Object-Oriented Programming]] — 6.088, January IAP 2010
 - [[hst-953-collaborative-data-science-for-healthcare-fall-2020|Collaborative Data Science for Healthcare]] — HST.953, Fall 2020

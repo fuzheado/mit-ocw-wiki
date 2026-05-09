@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[15-615-law-for-the-entrepreneur-and-manager-spring-2003|Law for the Entrepreneur and Manager]]
 - [[15-617-the-law-of-corporate-finance-and-financial-markets-spring-2004|The Law of Corporate Finance and Financial Markets]]

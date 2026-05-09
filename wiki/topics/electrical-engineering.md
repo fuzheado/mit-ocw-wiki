@@ -12,6 +12,12 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-763-applied-superconductivity-fall-2005|Applied Superconductivity]] — 6.763, Fall 2005
+- [[6-973-communication-system-design-spring-2006|Communication System Design]] — 6.973, Spring 2006
+- [[6-231-dynamic-programming-and-stochastic-control-fall-2015|Dynamic Programming and Stochastic Control]] — 6.231, Fall 2015
+- [[mas-836-sensor-technologies-for-interactive-environments-spring-2011|Sensor Technologies for Interactive Environments]] — MAS.836, Spring 2011
+- [[2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004|Principles of Oceanographic Instrument Systems -- Sensors and Measurements (13.998)]] — 2.693, Spring 2004
+- [[6-661-receivers-antennas-and-signals-spring-2003|Receivers, Antennas, and Signals]] — 6.661, Spring 2003
 - [[2-12-introduction-to-robotics-fall-2005|Introduction to Robotics]] — 2.12, Fall 2005
 - [[16-s498-risk-aware-and-robust-nonlinear-planning-fall-2019|Risk Aware and Robust Nonlinear Planning]] — 16.S498, Fall 2019
 - [[6-832-underactuated-robotics-spring-2022|Underactuated Robotics]] — 6.832, Spring 2022

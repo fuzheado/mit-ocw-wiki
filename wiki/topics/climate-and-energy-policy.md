@@ -12,6 +12,8 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]] — 11.364, Fall 2010
+- [[11-941-urban-climate-adaptation-spring-2011|Urban Climate Adaptation]] — 11.941, Spring 2011
 - [[11-373-science-politics-and-environmental-policy-fall-2004|Science, Politics, and Environmental Policy]] — 11.373, Fall 2004
 - [[11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007|Water and Sanitation Infrastructure in Developing Countries]] — 11.479J, Spring 2007
 - [[2-61-internal-combustion-engines-spring-2017|Internal Combustion Engines]] — 2.61, Spring 2017

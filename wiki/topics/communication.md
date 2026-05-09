@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014|Teaching and Learning: Cross-Cultural Perspectives]] — 21A.150, Fall 2014
+- [[15-974-practical-leadership-fall-2004|Practical Leadership]] — 15.974, Fall 2004
+- [[sts-004-science-technology-world-fall-2013|Science, Technology, & World]] — STS.004, Fall 2013
 - [[15-821-listening-to-the-customer-fall-2002|Listening to the Customer]] — 15.821, Fall 2002
 - [[11-914-planning-communication-spring-2007|Planning Communication]] — 11.914, Spring 2007
 - [[22-011-nuclear-engineering-science-systems-and-society-spring-2020|Nuclear Engineering: Science, Systems and Society]] — 22.011, Spring 2020

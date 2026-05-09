@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[18-03sc-differential-equations-fall-2011|Differential Equations]]
 - [[18-905-algebraic-topology-i-fall-2016|Algebraic Topology I]]

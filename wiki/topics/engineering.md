@@ -25,6 +25,39 @@ courses_count: 0
 
 ## Courses
 
+- [[4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002|Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems]] — 4.285, Fall 2002
+- [[22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006|Structural Mechanics in Nuclear Power Technology]] — 22.314J, Fall 2006
+- [[6-s095-programming-for-the-puzzled-january-iap-2018|Programming for the Puzzled]] — 6.S095, January IAP 2018
+- [[6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003|Natural Language and the Computer Representation of Knowledge]] — 6.863J, Spring 2003
+- [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]] — 11.364, Fall 2010
+- [[2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007|Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations]] — 2.035, Spring 2007
+- [[16-323-principles-of-optimal-control-spring-2008|Principles of Optimal Control]] — 16.323, Spring 2008
+- [[6-763-applied-superconductivity-fall-2005|Applied Superconductivity]] — 6.763, Fall 2005
+- [[18-085-computational-science-and-engineering-i-summer-2020|Computational Science and Engineering I]] — 18.085, Summer 2020
+- [[6-803-the-human-intelligence-enterprise-spring-2019|The Human Intelligence Enterprise]] — 6.803, Spring 2019
+- [[6-973-communication-system-design-spring-2006|Communication System Design]] — 6.973, Spring 2006
+- [[22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016|Introduction to Nuclear Engineering and Ionizing Radiation]] — 22.01, Fall 2016
+- [[2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007|Special Topics in Mechanical Engineering: The Art and Science of Boat Design]] — 2.993, January IAP 2007
+- [[2-003j-dynamics-and-control-i-spring-2007|Dynamics and Control I]] — 2.003J, Spring 2007
+- [[6-231-dynamic-programming-and-stochastic-control-fall-2015|Dynamic Programming and Stochastic Control]] — 6.231, Fall 2015
+- [[22-101-applied-nuclear-physics-fall-2006|Applied Nuclear Physics]] — 22.101, Fall 2006
+- [[mas-836-sensor-technologies-for-interactive-environments-spring-2011|Sensor Technologies for Interactive Environments]] — MAS.836, Spring 2011
+- [[2-004-systems-modeling-and-control-ii-fall-2007|Systems, Modeling, and Control II]] — 2.004, Fall 2007
+- [[6-829-computer-networks-fall-2002|Computer Networks]] — 6.829, Fall 2002
+- [[18-337j-parallel-computing-fall-2011|Parallel Computing]] — 18.337J, Fall 2011
+- [[6-s898-climate-change-seminar-fall-2019|Climate Change Seminar]] — 6.S898, Fall 2019
+- [[esd-141-technology-policy-negotiations-spring-2006|Technology Policy Negotiations]] — ESD.141, Spring 2006
+- [[6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002|Techniques in Artificial Intelligence (SMA 5504)]] — 6.825, Fall 2002
+- [[2-062j-wave-propagation-spring-2017|Wave Propagation]] — 2.062J, Spring 2017
+- [[15-783j-product-design-and-development-spring-2006|Product Design and Development]] — 15.783J, Spring 2006
+- [[2-58j-radiative-transfer-spring-2006|Radiative Transfer]] — 2.58J, Spring 2006
+- [[2-003j-dynamics-and-control-i-fall-2007|Dynamics and Control I]] — 2.003J, Fall 2007
+- [[20-106j-systems-microbiology-fall-2006|Systems Microbiology]] — 20.106J, Fall 2006
+- [[2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004|Principles of Oceanographic Instrument Systems -- Sensors and Measurements (13.998)]] — 2.693, Spring 2004
+- [[18-417-introduction-to-computational-molecular-biology-fall-2004|Introduction to Computational Molecular Biology]] — 18.417, Fall 2004
+- [[6-661-receivers-antennas-and-signals-spring-2003|Receivers, Antennas, and Signals]] — 6.661, Spring 2003
+- [[1-258j-public-transportation-systems-spring-2017|Public Transportation Systems]] — 1.258J, Spring 2017
+- [[mas-630-affective-computing-fall-2015|Affective Computing]] — MAS.630, Fall 2015
 - [[16-322-stochastic-estimation-and-control-fall-2004|Stochastic Estimation and Control]] — 16.322, Fall 2004
 - [[22-51-quantum-theory-of-radiation-interactions-fall-2012|Quantum Theory of Radiation Interactions]] — 22.51, Fall 2012
 - [[3-012-fundamentals-of-materials-science-fall-2005|Fundamentals of Materials Science]] — 3.012, Fall 2005

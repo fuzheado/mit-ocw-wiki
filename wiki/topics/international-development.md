@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-941-urban-climate-adaptation-spring-2011|Urban Climate Adaptation]] — 11.941, Spring 2011
+- [[ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007|D-Lab: Disseminating Innovations for the Common Good]] — EC.715, Spring 2007
 - [[11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007|Water and Sanitation Infrastructure in Developing Countries]] — 11.479J, Spring 2007
 - [[21g-084j-introduction-to-latin-american-studies-fall-2005|Introduction to Latin American Studies]] — 21G.084J, Fall 2005
 - [[21a-338j-gender-power-and-international-development-fall-2003|Gender, Power, and International Development]] — 21A.338J, Fall 2003

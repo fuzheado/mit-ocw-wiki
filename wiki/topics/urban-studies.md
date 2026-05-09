@@ -12,6 +12,15 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]] — 11.364, Fall 2010
+- [[11-941-urban-climate-adaptation-spring-2011|Urban Climate Adaptation]] — 11.941, Spring 2011
+- [[11-s943-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2017|Development, Planning, and Implementation: The Dialectic of Theory and Practice]] — 11.S943, Fall 2017
+- [[11-360-community-growth-and-land-use-planning-fall-2010|Community Growth and Land Use Planning]] — 11.360, Fall 2010
+- [[11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008|Regional Socioeconomic Impact Analyses and Modeling]] — 11.482J, Fall 2008
+- [[11-946j-beijing-urban-design-studio-summer-2004|Beijing Urban Design Studio]] — 11.946J, Summer 2004
+- [[11-001j-introduction-to-urban-design-and-development-spring-2006|Introduction to Urban Design and Development]] — 11.001J, Spring 2006
+- [[1-223j-transportation-policy-strategy-and-management-fall-2004|Transportation Policy, Strategy, and Management]] — 1.223J, Fall 2004
+- [[1-258j-public-transportation-systems-spring-2017|Public Transportation Systems]] — 1.258J, Spring 2017
 - [[17-482-u-s-military-power-spring-2015|U.S. Military Power]] — 17.482, Spring 2015
 - [[11-914-planning-communication-spring-2007|Planning Communication]] — 11.914, Spring 2007
 - [[11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007|Water and Sanitation Infrastructure in Developing Countries]] — 11.479J, Spring 2007

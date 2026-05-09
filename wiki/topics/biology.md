@@ -12,6 +12,15 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-98-neuropharmacology-january-iap-2009|Neuropharmacology]] — 9.98, January IAP 2009
+- [[12-517-dynamics-of-complex-systems-biological-and-environmental-coevolution-preceding-the-cambrian-explosion-spring-2005|Dynamics of Complex Systems: Biological and Environmental Coevolution Preceding the Cambrian Explosion]] — 12.517, Spring 2005
+- [[9-916-special-topics-social-animals-fall-2009|Special Topics: Social Animals]] — 9.916, Fall 2009
+- [[7-15-experimental-molecular-genetics-spring-2015|Experimental Molecular Genetics]] — 7.15, Spring 2015
+- [[20-106j-systems-microbiology-fall-2006|Systems Microbiology]] — 20.106J, Fall 2006
+- [[12-491-biogeochemistry-of-sulfur-fall-2007|Biogeochemistry of Sulfur]] — 12.491, Fall 2007
+- [[18-417-introduction-to-computational-molecular-biology-fall-2004|Introduction to Computational Molecular Biology]] — 18.417, Fall 2004
+- [[res-7-004-bionook-online-biology-resources-spring-2021|BioNook Online Biology Resources]] — RES.7-004, Spring 2021
+- [[20-102-macroepidemiology-be-102-spring-2005|Macroepidemiology (BE.102)]] — 20.102, Spring 2005
 - [[9-97-introduction-to-neuroanatomy-january-iap-2003|Introduction to Neuroanatomy]] — 9.97, January IAP 2003
 - [[hst-542j-quantitative-physiology-organ-transport-systems-spring-2004|Quantitative Physiology: Organ Transport Systems]] — HST.542J, Spring 2004
 - [[res-7-006-7-03x-genetics|7.03x Genetics]] — RES.7-006, Spring 2023

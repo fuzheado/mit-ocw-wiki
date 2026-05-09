@@ -1,0 +1,11 @@
+---
+name: "Prof. Rosalind W. Picard"
+type: instructor
+courses_count: 1
+---
+
+# Prof. Rosalind W. Picard
+
+## Courses Taught at MIT
+
+- [[mas-630-affective-computing-fall-2015|Affective Computing]]

@@ -12,6 +12,10 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003|Natural Language and the Computer Representation of Knowledge]] — 6.863J, Spring 2003
+- [[6-803-the-human-intelligence-enterprise-spring-2019|The Human Intelligence Enterprise]] — 6.803, Spring 2019
+- [[6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002|Techniques in Artificial Intelligence (SMA 5504)]] — 6.825, Fall 2002
+- [[mas-630-affective-computing-fall-2015|Affective Computing]] — MAS.630, Fall 2015
 - [[6-945-adventures-in-advanced-symbolic-programming-spring-2009|Adventures in Advanced Symbolic Programming]] — 6.945, Spring 2009
 - [[hst-953-collaborative-data-science-for-healthcare-fall-2020|Collaborative Data Science for Healthcare]] — HST.953, Fall 2020
 - [[6-832-underactuated-robotics-spring-2022|Underactuated Robotics]] — 6.832, Spring 2022

@@ -12,6 +12,17 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-470-eighteenth-century-literature-versions-of-the-self-in-18th-c-britain-spring-2003|Eighteenth-Century Literature: Versions of the Self in 18th-C Britain]] — 21L.470, Spring 2003
+- [[21l-003-introduction-to-fiction-fall-2003|Introduction to Fiction]] — 21L.003, Fall 2003
+- [[7-15-experimental-molecular-genetics-spring-2015|Experimental Molecular Genetics]] — 7.15, Spring 2015
+- [[21l-004-reading-poetry-spring-2009|Reading Poetry]] — 21L.004, Spring 2009
+- [[15-269b-literature-ethics-and-authority-fall-2002|Literature, Ethics and Authority]] — 15.269B, Fall 2002
+- [[21l-005-introduction-to-drama-fall-2016|Introduction to Drama]] — 21L.005, Fall 2016
+- [[21l-501-the-american-novel-fall-2006|The American Novel]] — 21L.501, Fall 2006
+- [[21l-325-small-wonders-staying-alive-spring-2007|Small Wonders: Staying Alive]] — 21L.325, Spring 2007
+- [[21l-012-forms-of-western-narrative-fall-2007|Forms of Western Narrative]] — 21L.012, Fall 2007
+- [[21l-707-reading-cookbooks-from-the-forme-of-cury-to-the-smitten-kitchen-spring-2017|Reading Cookbooks: from The Forme of Cury to The Smitten Kitchen]] — 21L.707, Spring 2017
+- [[21l-310-bestsellers-detective-fiction-fall-2006|Bestsellers: Detective Fiction]] — 21L.310, Fall 2006
 - [[21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014|The City of Athens in the Age of Pericles]] — 21H.237, Fall 2014
 - [[21l-004-major-poets-fall-2001|Major Poets]] — 21L.004, Fall 2001
 - [[21w-759-writing-science-fiction-spring-2016|Writing Science Fiction]] — 21W.759, Spring 2016

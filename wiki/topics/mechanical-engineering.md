@@ -12,6 +12,13 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006|Structural Mechanics in Nuclear Power Technology]] — 22.314J, Fall 2006
+- [[2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007|Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations]] — 2.035, Spring 2007
+- [[2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007|Special Topics in Mechanical Engineering: The Art and Science of Boat Design]] — 2.993, January IAP 2007
+- [[2-003j-dynamics-and-control-i-spring-2007|Dynamics and Control I]] — 2.003J, Spring 2007
+- [[2-004-systems-modeling-and-control-ii-fall-2007|Systems, Modeling, and Control II]] — 2.004, Fall 2007
+- [[2-062j-wave-propagation-spring-2017|Wave Propagation]] — 2.062J, Spring 2017
+- [[2-003j-dynamics-and-control-i-fall-2007|Dynamics and Control I]] — 2.003J, Fall 2007
 - [[12-802-wave-motion-in-the-ocean-and-the-atmosphere-spring-2008|Wave Motion in the Ocean and the Atmosphere]] — 12.802, Spring 2008
 - [[2-12-introduction-to-robotics-fall-2005|Introduction to Robotics]] — 2.12, Fall 2005
 - [[2-61-internal-combustion-engines-spring-2017|Internal Combustion Engines]] — 2.61, Spring 2017

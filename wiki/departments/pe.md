@@ -10,4 +10,5 @@ courses_count: 0
 
 ## Courses
 
-*None yet.*
+- [[pe-810-sailing-spring-2007|Sailing]] (PE.810)
+- [[pe-810-sailing-spring-2007|Sailing]] (PE.810)

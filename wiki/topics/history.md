@@ -12,6 +12,14 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-470-eighteenth-century-literature-versions-of-the-self-in-18th-c-britain-spring-2003|Eighteenth-Century Literature: Versions of the Self in 18th-C Britain]] — 21L.470, Spring 2003
+- [[4-661-theory-and-method-in-the-study-of-architecture-and-art-fall-2015|Theory and Method in the Study of Architecture and Art]] — 4.661, Fall 2015
+- [[21m-293-music-of-africa-fall-2005|Music of Africa]] — 21M.293, Fall 2005
+- [[21l-501-the-american-novel-fall-2006|The American Novel]] — 21L.501, Fall 2006
+- [[sts-009-evolution-and-society-spring-2012|Evolution and Society]] — STS.009, Spring 2012
+- [[21a-215-disease-and-health-culture-society-and-ethics-spring-2012|Disease and Health: Culture, Society, and Ethics]] — 21A.215, Spring 2012
+- [[21l-707-reading-cookbooks-from-the-forme-of-cury-to-the-smitten-kitchen-spring-2017|Reading Cookbooks: from The Forme of Cury to The Smitten Kitchen]] — 21L.707, Spring 2017
+- [[21g-064-intro-to-japanese-culture-spring-2012|Intro to Japanese Culture]] — 21G.064, Spring 2012
 - [[21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014|The City of Athens in the Age of Pericles]] — 21H.237, Fall 2014
 - [[21a-217-anthropology-of-war-and-peace-fall-2004|Anthropology of War and Peace]] — 21A.217, Fall 2004
 - [[21h-346-france-1660-1815-enlightenment-revolution-napoleon-spring-2011|France, 1660-1815: Enlightenment, Revolution, Napoleon]] — 21H.346, Spring 2011

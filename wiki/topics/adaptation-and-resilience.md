@@ -12,6 +12,7 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]] — 11.364, Fall 2010
 - [[21h-s01-food-in-american-history-fall-2014|Food in American History]] — 21H.S01, Fall 2014
 - [[17-559-comparative-security-and-sustainability-fall-2004|Comparative Security and Sustainability]] — 17.559, Fall 2004
 - [[ec-701j-d-lab-i-development-fall-2009|D-Lab I: Development]] — EC.701J, Fall 2009

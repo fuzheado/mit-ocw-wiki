@@ -12,6 +12,7 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21a-470j-gender-and-representation-of-asian-women-spring-2010|Gender and Representation of Asian Women]] (21A.470J)
 - [[21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013|Dilemmas in Bio-Medical Ethics: Playing God or Doing Good?]] (21A.302J)
 - [[21a-218j-identity-and-difference-spring-2010|Identity and Difference]] (21A.101J (formerly 21A.218J))
 - [[24-912-black-matters-introduction-to-black-studies-spring-2017|Black Matters: Introduction to Black Studies]] (24.912)

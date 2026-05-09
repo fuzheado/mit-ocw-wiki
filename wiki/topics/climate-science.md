@@ -12,6 +12,10 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]] — 11.364, Fall 2010
+- [[11-941-urban-climate-adaptation-spring-2011|Urban Climate Adaptation]] — 11.941, Spring 2011
+- [[6-s898-climate-change-seminar-fall-2019|Climate Change Seminar]] — 6.S898, Fall 2019
+- [[2-58j-radiative-transfer-spring-2006|Radiative Transfer]] — 2.58J, Spring 2006
 - [[12-307-weather-and-climate-laboratory-spring-2009|Weather and Climate Laboratory]] — 12.307, Spring 2009
 - [[22-011-nuclear-engineering-science-systems-and-society-spring-2020|Nuclear Engineering: Science, Systems and Society]] — 22.011, Spring 2020
 - [[res-7-003-brave-new-planet-fall-2020|Brave New Planet]] — RES.7-003, Fall 2020

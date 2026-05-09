@@ -12,6 +12,11 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014|Teaching and Learning: Cross-Cultural Perspectives]] — 21A.150, Fall 2014
+- [[24-908-creole-languages-and-caribbean-identities-spring-2017|Creole Languages and Caribbean Identities]] — 24.908, Spring 2017
+- [[6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003|Natural Language and the Computer Representation of Knowledge]] — 6.863J, Spring 2003
+- [[9-59j-lab-in-psycholinguistics-spring-2017|Lab in Psycholinguistics]] — 9.59J, Spring 2017
+- [[24-902-language-and-its-structure-ii-syntax-fall-2015|Language and its Structure II: Syntax]] — 24.902, Fall 2015
 - [[24-946-linguistic-theory-and-the-japanese-language-fall-2004|Linguistic Theory and the Japanese Language]] — 24.946, Fall 2004
 - [[24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005|Language and its Structure III: Semantics and Pragmatics]] — 24.903, Spring 2005
 - [[9-98-language-and-mind-january-iap-2003|Language and Mind]] — 9.98, January IAP 2003

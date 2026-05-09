@@ -20,6 +20,33 @@ courses_count: 0
 
 ## Courses
 
+- [[21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014|Teaching and Learning: Cross-Cultural Perspectives]] — 21A.150, Fall 2014
+- [[21g-410-advanced-german-professional-communication-spring-2017|Advanced German: Professional Communication]] — 21G.410, Spring 2017
+- [[21l-470-eighteenth-century-literature-versions-of-the-self-in-18th-c-britain-spring-2003|Eighteenth-Century Literature: Versions of the Self in 18th-C Britain]] — 21L.470, Spring 2003
+- [[21g-223-listening-speaking-and-pronunciation-fall-2004|Listening, Speaking, and Pronunciation]] — 21G.223, Fall 2004
+- [[24-908-creole-languages-and-caribbean-identities-spring-2017|Creole Languages and Caribbean Identities]] — 24.908, Spring 2017
+- [[6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003|Natural Language and the Computer Representation of Knowledge]] — 6.863J, Spring 2003
+- [[9-59j-lab-in-psycholinguistics-spring-2017|Lab in Psycholinguistics]] — 9.59J, Spring 2017
+- [[4-661-theory-and-method-in-the-study-of-architecture-and-art-fall-2015|Theory and Method in the Study of Architecture and Art]] — 4.661, Fall 2015
+- [[21m-293-music-of-africa-fall-2005|Music of Africa]] — 21M.293, Fall 2005
+- [[21l-003-introduction-to-fiction-fall-2003|Introduction to Fiction]] — 21L.003, Fall 2003
+- [[21g-110-chinese-iv-streamlined-spring-2004|Chinese IV (Streamlined)]] — 21G.110, Spring 2004
+- [[21g-880-accelerated-introductory-portuguese-for-spanish-speakers-fall-2013|Accelerated Introductory Portuguese for Spanish Speakers]] — 21G.880, Fall 2013
+- [[7-15-experimental-molecular-genetics-spring-2015|Experimental Molecular Genetics]] — 7.15, Spring 2015
+- [[21l-004-reading-poetry-spring-2009|Reading Poetry]] — 21L.004, Spring 2009
+- [[15-269b-literature-ethics-and-authority-fall-2002|Literature, Ethics and Authority]] — 15.269B, Fall 2002
+- [[24-235j-philosophy-of-law-spring-2012|Philosophy of Law]] — 24.235J, Spring 2012
+- [[24-902-language-and-its-structure-ii-syntax-fall-2015|Language and its Structure II: Syntax]] — 24.902, Fall 2015
+- [[21l-005-introduction-to-drama-fall-2016|Introduction to Drama]] — 21L.005, Fall 2016
+- [[21l-501-the-american-novel-fall-2006|The American Novel]] — 21L.501, Fall 2006
+- [[sts-009-evolution-and-society-spring-2012|Evolution and Society]] — STS.009, Spring 2012
+- [[21l-325-small-wonders-staying-alive-spring-2007|Small Wonders: Staying Alive]] — 21L.325, Spring 2007
+- [[21l-012-forms-of-western-narrative-fall-2007|Forms of Western Narrative]] — 21L.012, Fall 2007
+- [[21a-215-disease-and-health-culture-society-and-ethics-spring-2012|Disease and Health: Culture, Society, and Ethics]] — 21A.215, Spring 2012
+- [[21g-820-portuguese-advanced-conversation-and-composition-fall-2014|Portuguese Advanced Conversation and Composition]] — 21G.820, Fall 2014
+- [[21l-707-reading-cookbooks-from-the-forme-of-cury-to-the-smitten-kitchen-spring-2017|Reading Cookbooks: from The Forme of Cury to The Smitten Kitchen]] — 21L.707, Spring 2017
+- [[21l-310-bestsellers-detective-fiction-fall-2006|Bestsellers: Detective Fiction]] — 21L.310, Fall 2006
+- [[21g-064-intro-to-japanese-culture-spring-2012|Intro to Japanese Culture]] — 21G.064, Spring 2012
 - [[21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014|The City of Athens in the Age of Pericles]] — 21H.237, Fall 2014
 - [[21a-217-anthropology-of-war-and-peace-fall-2004|Anthropology of War and Peace]] — 21A.217, Fall 2004
 - [[21l-004-major-poets-fall-2001|Major Poets]] — 21L.004, Fall 2001

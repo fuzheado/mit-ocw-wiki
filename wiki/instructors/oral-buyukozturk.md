@@ -1,0 +1,11 @@
+---
+name: "Prof. Oral Buyukozturk"
+type: instructor
+courses_count: 1
+---
+
+# Prof. Oral Buyukozturk
+
+## Courses Taught at MIT
+
+- [[22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006|Structural Mechanics in Nuclear Power Technology]]

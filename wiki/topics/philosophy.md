@@ -12,6 +12,10 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-470-eighteenth-century-literature-versions-of-the-self-in-18th-c-britain-spring-2003|Eighteenth-Century Literature: Versions of the Self in 18th-C Britain]] — 21L.470, Spring 2003
+- [[15-269b-literature-ethics-and-authority-fall-2002|Literature, Ethics and Authority]] — 15.269B, Fall 2002
+- [[24-235j-philosophy-of-law-spring-2012|Philosophy of Law]] — 24.235J, Spring 2012
+- [[21a-215-disease-and-health-culture-society-and-ethics-spring-2012|Disease and Health: Culture, Society, and Ethics]] — 21A.215, Spring 2012
 - [[21h-346-france-1660-1815-enlightenment-revolution-napoleon-spring-2011|France, 1660-1815: Enlightenment, Revolution, Napoleon]] — 21H.346, Spring 2011
 - [[9-93-marathon-moral-reasoning-laboratory-january-iap-2007|Marathon Moral Reasoning Laboratory]] — 9.93, January IAP 2007
 - [[21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013|Dilemmas in Bio-Medical Ethics: Playing God or Doing Good?]] — 21A.302J, Fall 2013

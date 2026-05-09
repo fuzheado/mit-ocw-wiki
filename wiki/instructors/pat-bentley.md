@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[15-974-practical-leadership-fall-2004|Practical Leadership]]
 - [[15-996-cross-cultural-leadership-fall-2004|Cross-Cultural Leadership]]

@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006|Structural Mechanics in Nuclear Power Technology]] — 22.314J, Fall 2006
+- [[22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016|Introduction to Nuclear Engineering and Ionizing Radiation]] — 22.01, Fall 2016
+- [[22-101-applied-nuclear-physics-fall-2006|Applied Nuclear Physics]] — 22.101, Fall 2006
 - [[22-51-quantum-theory-of-radiation-interactions-fall-2012|Quantum Theory of Radiation Interactions]] — 22.51, Fall 2012
 - [[22-812j-managing-nuclear-technology-spring-2004|Managing Nuclear Technology]] — 22.812J, Spring 2004
 - [[22-02-introduction-to-applied-nuclear-physics-spring-2012|Introduction to Applied Nuclear Physics]] — 22.02, Spring 2012

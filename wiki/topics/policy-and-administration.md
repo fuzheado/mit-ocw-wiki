@@ -12,6 +12,13 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002|Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems]] — 4.285, Fall 2002
+- [[17-410-globalization-migration-and-international-relations-spring-2006|Globalization, Migration, and International Relations]] — 17.410, Spring 2006
+- [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]] — 11.364, Fall 2010
+- [[11-941-urban-climate-adaptation-spring-2011|Urban Climate Adaptation]] — 11.941, Spring 2011
+- [[11-s943-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2017|Development, Planning, and Implementation: The Dialectic of Theory and Practice]] — 11.S943, Fall 2017
+- [[11-360-community-growth-and-land-use-planning-fall-2010|Community Growth and Land Use Planning]] — 11.360, Fall 2010
+- [[esd-141-technology-policy-negotiations-spring-2006|Technology Policy Negotiations]] — ESD.141, Spring 2006
 - [[17-482-u-s-military-power-spring-2015|U.S. Military Power]] — 17.482, Spring 2015
 - [[21a-217-anthropology-of-war-and-peace-fall-2004|Anthropology of War and Peace]] — 21A.217, Fall 2004
 - [[11-373-science-politics-and-environmental-policy-fall-2004|Science, Politics, and Environmental Policy]] — 11.373, Fall 2004

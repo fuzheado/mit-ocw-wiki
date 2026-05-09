@@ -12,6 +12,14 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[res-8-007-cosmic-origin-of-the-chemical-elements-fall-2019|Cosmic Origin of the Chemical Elements ]] — RES.8-007, Fall 2019
+- [[6-763-applied-superconductivity-fall-2005|Applied Superconductivity]] — 6.763, Fall 2005
+- [[22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016|Introduction to Nuclear Engineering and Ionizing Radiation]] — 22.01, Fall 2016
+- [[12-815-atmospheric-radiation-fall-2008|Atmospheric Radiation]] — 12.815, Fall 2008
+- [[22-101-applied-nuclear-physics-fall-2006|Applied Nuclear Physics]] — 22.101, Fall 2006
+- [[8-06-quantum-physics-iii-spring-2018|Quantum Physics III]] — 8.06, Spring 2018
+- [[2-062j-wave-propagation-spring-2017|Wave Propagation]] — 2.062J, Spring 2017
+- [[2-58j-radiative-transfer-spring-2006|Radiative Transfer]] — 2.58J, Spring 2006
 - [[22-51-quantum-theory-of-radiation-interactions-fall-2012|Quantum Theory of Radiation Interactions]] — 22.51, Fall 2012
 - [[3-012-fundamentals-of-materials-science-fall-2005|Fundamentals of Materials Science]] — 3.012, Fall 2005
 - [[8-811-particle-physics-ii-fall-2005|Particle Physics II]] — 8.811, Fall 2005

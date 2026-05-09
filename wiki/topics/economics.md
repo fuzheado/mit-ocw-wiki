@@ -12,6 +12,13 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-100j-political-economy-i-spring-2016|Political Economy I]] — 17.100J, Spring 2016
+- [[21g-410-advanced-german-professional-communication-spring-2017|Advanced German: Professional Communication]] — 21G.410, Spring 2017
+- [[17-410-globalization-migration-and-international-relations-spring-2006|Globalization, Migration, and International Relations]] — 17.410, Spring 2006
+- [[15-431-entrepreneurial-finance-spring-2011|Entrepreneurial Finance]] — 15.431, Spring 2011
+- [[11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008|Regional Socioeconomic Impact Analyses and Modeling]] — 11.482J, Fall 2008
+- [[ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007|D-Lab: Disseminating Innovations for the Common Good]] — EC.715, Spring 2007
+- [[11-946j-beijing-urban-design-studio-summer-2004|Beijing Urban Design Studio]] — 11.946J, Summer 2004
 - [[15-968-the-sociology-of-strategy-spring-2005|The Sociology of Strategy]] — 15.968, Spring 2005
 - [[11-957-frameworks-of-urban-governance-january-iap-2007|Frameworks of Urban Governance]] — 11.957, January IAP 2007
 - [[11-945-springfield-studio-fall-2005|Springfield Studio]] — 11.945, Fall 2005

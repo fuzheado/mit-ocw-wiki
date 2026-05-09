@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-100j-political-economy-i-spring-2016|Political Economy I]] — 17.100J, Spring 2016
+- [[17-410-globalization-migration-and-international-relations-spring-2006|Globalization, Migration, and International Relations]] — 17.410, Spring 2006
+- [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]] — 11.364, Fall 2010
+- [[17-506-ethnic-politics-ii-spring-2007|Ethnic Politics II]] — 17.506, Spring 2007
+- [[11-946j-beijing-urban-design-studio-summer-2004|Beijing Urban Design Studio]] — 11.946J, Summer 2004
 - [[17-482-u-s-military-power-spring-2015|U.S. Military Power]] — 17.482, Spring 2015
 - [[11-373-science-politics-and-environmental-policy-fall-2004|Science, Politics, and Environmental Policy]] — 11.373, Fall 2004
 - [[17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012|Conversations You Can't Have on Campus: Race, Ethnicity, Gender and Identity]] — 17.S914, Spring 2012

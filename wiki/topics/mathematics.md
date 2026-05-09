@@ -12,6 +12,22 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[18-024-multivariable-calculus-with-theory-spring-2011|Multivariable Calculus with Theory]] — 18.024, Spring 2011
+- [[2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007|Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations]] — 2.035, Spring 2007
+- [[18-085-computational-science-and-engineering-i-summer-2020|Computational Science and Engineering I]] — 18.085, Summer 2020
+- [[18-600-probability-and-random-variables-fall-2019|Probability and Random Variables]] — 18.600, Fall 2019
+- [[18-03sc-differential-equations-fall-2011|Differential Equations]] — 18.03SC, Fall 2011
+- [[2-003j-dynamics-and-control-i-spring-2007|Dynamics and Control I]] — 2.003J, Spring 2007
+- [[4-638-drawings-numbers-five-centuries-of-digital-design-fall-2002|Drawings & Numbers: Five Centuries of Digital Design]] — 4.638, Fall 2002
+- [[6-231-dynamic-programming-and-stochastic-control-fall-2015|Dynamic Programming and Stochastic Control]] — 6.231, Fall 2015
+- [[2-004-systems-modeling-and-control-ii-fall-2007|Systems, Modeling, and Control II]] — 2.004, Fall 2007
+- [[18-337j-parallel-computing-fall-2011|Parallel Computing]] — 18.337J, Fall 2011
+- [[9-07-statistics-for-brain-and-cognitive-science-fall-2016|Statistics for Brain and Cognitive Science]] — 9.07, Fall 2016
+- [[15-053x-optimization-methods-in-business-analytics-summer-2021|Optimization Methods in Business Analytics]] — 15.053x, Spring 2021
+- [[18-100b-analysis-i-fall-2010|Analysis I]] — 18.100B, Fall 2010
+- [[2-003j-dynamics-and-control-i-fall-2007|Dynamics and Control I]] — 2.003J, Fall 2007
+- [[18-417-introduction-to-computational-molecular-biology-fall-2004|Introduction to Computational Molecular Biology]] — 18.417, Fall 2004
+- [[18-02sc-multivariable-calculus-fall-2010|Multivariable Calculus]] — 18.02SC, Fall 2010
 - [[16-322-stochastic-estimation-and-control-fall-2004|Stochastic Estimation and Control]] — 16.322, Fall 2004
 - [[18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004|Seminar in Algebra and Number Theory: Rational Points on Elliptic Curves]] — 18.704, Fall 2004
 - [[5-72-non-equilibrium-statistical-mechanics-spring-2012|Non-Equilibrium Statistical Mechanics]] — 5.72, Spring 2012

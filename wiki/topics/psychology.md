@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[9-916-special-topics-social-animals-fall-2009|Special Topics: Social Animals]] — 9.916, Fall 2009
+- [[mas-630-affective-computing-fall-2015|Affective Computing]] — MAS.630, Fall 2015
 - [[9-93-marathon-moral-reasoning-laboratory-january-iap-2007|Marathon Moral Reasoning Laboratory]] — 9.93, January IAP 2007
 - [[21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004|Studies in Poetry - British Poetry and the Sciences of the Mind]] — 21L.704, Fall 2004
 - [[9-98-language-and-mind-january-iap-2003|Language and Mind]] — 9.98, January IAP 2003

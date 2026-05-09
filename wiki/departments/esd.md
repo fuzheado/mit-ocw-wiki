@@ -10,6 +10,9 @@ courses_count: 0
 
 ## Courses
 
+- [[esd-141-technology-policy-negotiations-spring-2006|Technology Policy Negotiations]] (ESD.141)
+- [[11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008|Regional Socioeconomic Impact Analyses and Modeling]] (11.482J)
+- [[1-223j-transportation-policy-strategy-and-management-fall-2004|Transportation Policy, Strategy, and Management]] (1.223J)
 - [[1-040-project-management-spring-2004|Project Management]] (1.040)
 - [[22-812j-managing-nuclear-technology-spring-2004|Managing Nuclear Technology]] (22.812J)
 - [[1-206j-airline-schedule-planning-spring-2003|Airline Schedule Planning]] (1.206J)

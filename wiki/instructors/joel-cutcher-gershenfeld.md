@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[esd-141-technology-policy-negotiations-spring-2006|Technology Policy Negotiations]]
 - [[esd-932-technology-policy-organizations-spring-2005|Technology Policy Organizations]]

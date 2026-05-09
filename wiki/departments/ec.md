@@ -10,6 +10,7 @@ courses_count: 0
 
 ## Courses
 
+- [[ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007|D-Lab: Disseminating Innovations for the Common Good]] (EC.715)
 - [[res-ec-003-d-lab-student-showcases-spring-2022|D-Lab Student Showcases]] (RES.EC-003)
 - [[ec-701j-d-lab-i-development-fall-2009|D-Lab I: Development]] (EC.701J)
 - [[ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005|Engineering Capacity in Community-Based Healthcare]] (EC.S11) — Fall 2005

@@ -12,6 +12,8 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[sts-009-evolution-and-society-spring-2012|Evolution and Society]] (STS.009)
+- [[sts-004-science-technology-world-fall-2013|Science, Technology, & World]] (STS.004)
 - [[sts-350-social-study-of-science-and-technology-spring-2004|Social Study of Science and Technology]] (STS.350)
 - [[sts-050-the-history-of-mit-spring-2016|The History of MIT]] (STS.050)
 - [[sts-360-ethnography-spring-2003|Ethnography]] (STS.360)

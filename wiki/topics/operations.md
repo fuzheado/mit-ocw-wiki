@@ -12,6 +12,8 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-783j-product-design-and-development-spring-2006|Product Design and Development]] — 15.783J, Spring 2006
+- [[1-223j-transportation-policy-strategy-and-management-fall-2004|Transportation Policy, Strategy, and Management]] — 1.223J, Fall 2004
 - [[15-763j-manufacturing-system-and-supply-chain-design-spring-2005|Manufacturing System and Supply Chain Design]] — 15.763J, Spring 2005
 - [[15-963-advanced-strategy-spring-2008|Advanced Strategy]] — 15.963, Spring 2008
 - [[15-762j-supply-chain-planning-spring-2011|Supply Chain Planning]] — 15.762J, Spring 2011

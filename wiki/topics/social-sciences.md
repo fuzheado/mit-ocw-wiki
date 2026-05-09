@@ -25,6 +25,41 @@ courses_count: 0
 
 ## Courses
 
+- [[17-100j-political-economy-i-spring-2016|Political Economy I]] — 17.100J, Spring 2016
+- [[21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014|Teaching and Learning: Cross-Cultural Perspectives]] — 21A.150, Fall 2014
+- [[4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002|Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems]] — 4.285, Fall 2002
+- [[21g-410-advanced-german-professional-communication-spring-2017|Advanced German: Professional Communication]] — 21G.410, Spring 2017
+- [[24-908-creole-languages-and-caribbean-identities-spring-2017|Creole Languages and Caribbean Identities]] — 24.908, Spring 2017
+- [[15-615-law-for-the-entrepreneur-and-manager-spring-2003|Law for the Entrepreneur and Manager]] — 15.615, Spring 2003
+- [[17-410-globalization-migration-and-international-relations-spring-2006|Globalization, Migration, and International Relations]] — 17.410, Spring 2006
+- [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]] — 11.364, Fall 2010
+- [[21m-293-music-of-africa-fall-2005|Music of Africa]] — 21M.293, Fall 2005
+- [[9-916-special-topics-social-animals-fall-2009|Special Topics: Social Animals]] — 9.916, Fall 2009
+- [[21g-880-accelerated-introductory-portuguese-for-spanish-speakers-fall-2013|Accelerated Introductory Portuguese for Spanish Speakers]] — 21G.880, Fall 2013
+- [[21a-470j-gender-and-representation-of-asian-women-spring-2010|Gender and Representation of Asian Women]] — 21A.470J, Spring 2010
+- [[11-941-urban-climate-adaptation-spring-2011|Urban Climate Adaptation]] — 11.941, Spring 2011
+- [[11-s943-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2017|Development, Planning, and Implementation: The Dialectic of Theory and Practice]] — 11.S943, Fall 2017
+- [[15-269b-literature-ethics-and-authority-fall-2002|Literature, Ethics and Authority]] — 15.269B, Fall 2002
+- [[11-360-community-growth-and-land-use-planning-fall-2010|Community Growth and Land Use Planning]] — 11.360, Fall 2010
+- [[15-431-entrepreneurial-finance-spring-2011|Entrepreneurial Finance]] — 15.431, Spring 2011
+- [[esd-141-technology-policy-negotiations-spring-2006|Technology Policy Negotiations]] — ESD.141, Spring 2006
+- [[11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008|Regional Socioeconomic Impact Analyses and Modeling]] — 11.482J, Fall 2008
+- [[ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007|D-Lab: Disseminating Innovations for the Common Good]] — EC.715, Spring 2007
+- [[24-235j-philosophy-of-law-spring-2012|Philosophy of Law]] — 24.235J, Spring 2012
+- [[17-506-ethnic-politics-ii-spring-2007|Ethnic Politics II]] — 17.506, Spring 2007
+- [[15-974-practical-leadership-fall-2004|Practical Leadership]] — 15.974, Fall 2004
+- [[11-946j-beijing-urban-design-studio-summer-2004|Beijing Urban Design Studio]] — 11.946J, Summer 2004
+- [[11-001j-introduction-to-urban-design-and-development-spring-2006|Introduction to Urban Design and Development]] — 11.001J, Spring 2006
+- [[21a-01-how-culture-works-fall-2019|How Culture Works]] — 21A.01, Fall 2019
+- [[1-223j-transportation-policy-strategy-and-management-fall-2004|Transportation Policy, Strategy, and Management]] — 1.223J, Fall 2004
+- [[sts-004-science-technology-world-fall-2013|Science, Technology, & World]] — STS.004, Fall 2013
+- [[21a-215-disease-and-health-culture-society-and-ethics-spring-2012|Disease and Health: Culture, Society, and Ethics]] — 21A.215, Spring 2012
+- [[21a-240-race-and-science-spring-2004|Race and Science]] — 21A.240, Spring 2004
+- [[21g-820-portuguese-advanced-conversation-and-composition-fall-2014|Portuguese Advanced Conversation and Composition]] — 21G.820, Fall 2014
+- [[1-258j-public-transportation-systems-spring-2017|Public Transportation Systems]] — 1.258J, Spring 2017
+- [[21l-707-reading-cookbooks-from-the-forme-of-cury-to-the-smitten-kitchen-spring-2017|Reading Cookbooks: from The Forme of Cury to The Smitten Kitchen]] — 21L.707, Spring 2017
+- [[mas-630-affective-computing-fall-2015|Affective Computing]] — MAS.630, Fall 2015
+- [[21g-064-intro-to-japanese-culture-spring-2012|Intro to Japanese Culture]] — 21G.064, Spring 2012
 - [[15-968-the-sociology-of-strategy-spring-2005|The Sociology of Strategy]] — 15.968, Spring 2005
 - [[17-482-u-s-military-power-spring-2015|U.S. Military Power]] — 17.482, Spring 2015
 - [[21a-217-anthropology-of-war-and-peace-fall-2004|Anthropology of War and Peace]] — 21A.217, Fall 2004

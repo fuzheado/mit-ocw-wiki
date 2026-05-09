@@ -12,6 +12,9 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-s095-programming-for-the-puzzled-january-iap-2018|Programming for the Puzzled]] — 6.S095, January IAP 2018
+- [[18-337j-parallel-computing-fall-2011|Parallel Computing]] — 18.337J, Fall 2011
+- [[6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002|Techniques in Artificial Intelligence (SMA 5504)]] — 6.825, Fall 2002
 - [[1-204-computer-algorithms-in-systems-engineering-spring-2010|Computer Algorithms in Systems Engineering]] — 1.204, Spring 2010
 - [[18-335j-introduction-to-numerical-methods-spring-2019|Introduction to Numerical Methods ]] — 18.335J, Spring 2019
 - [[6-854j-advanced-algorithms-fall-2008|Advanced Algorithms]] — 6.854J, Fall 2008

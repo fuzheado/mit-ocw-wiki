@@ -12,6 +12,7 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21m-293-music-of-africa-fall-2005|Music of Africa]] — 21M.293, Fall 2005
 - [[21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012|Studies in Western Music History: Quantitative and Computational Approaches to Music History]] — 21M.269, Spring 2012
 - [[21m-263-music-since-1960-spring-2006|Music Since 1960]] — 21M.263, Spring 2006
 - [[21m-271-symphony-and-concerto-spring-2007|Symphony and Concerto]] — 21M.271, Spring 2007

@@ -12,6 +12,17 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014|Teaching and Learning: Cross-Cultural Perspectives]] — 21A.150, Fall 2014
+- [[24-908-creole-languages-and-caribbean-identities-spring-2017|Creole Languages and Caribbean Identities]] — 24.908, Spring 2017
+- [[21g-880-accelerated-introductory-portuguese-for-spanish-speakers-fall-2013|Accelerated Introductory Portuguese for Spanish Speakers]] — 21G.880, Fall 2013
+- [[21a-470j-gender-and-representation-of-asian-women-spring-2010|Gender and Representation of Asian Women]] — 21A.470J, Spring 2010
+- [[11-360-community-growth-and-land-use-planning-fall-2010|Community Growth and Land Use Planning]] — 11.360, Fall 2010
+- [[ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007|D-Lab: Disseminating Innovations for the Common Good]] — EC.715, Spring 2007
+- [[sts-004-science-technology-world-fall-2013|Science, Technology, & World]] — STS.004, Fall 2013
+- [[21a-240-race-and-science-spring-2004|Race and Science]] — 21A.240, Spring 2004
+- [[21g-820-portuguese-advanced-conversation-and-composition-fall-2014|Portuguese Advanced Conversation and Composition]] — 21G.820, Fall 2014
+- [[21l-707-reading-cookbooks-from-the-forme-of-cury-to-the-smitten-kitchen-spring-2017|Reading Cookbooks: from The Forme of Cury to The Smitten Kitchen]] — 21L.707, Spring 2017
+- [[21g-064-intro-to-japanese-culture-spring-2012|Intro to Japanese Culture]] — 21G.064, Spring 2012
 - [[15-968-the-sociology-of-strategy-spring-2005|The Sociology of Strategy]] — 15.968, Spring 2005
 - [[11-914-planning-communication-spring-2007|Planning Communication]] — 11.914, Spring 2007
 - [[4-614-religious-architecture-and-islamic-cultures-fall-2002|Religious Architecture and Islamic Cultures]] — 4.614, Fall 2002
