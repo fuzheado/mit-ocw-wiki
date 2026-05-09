@@ -12,6 +12,17 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[8-04-quantum-physics-i-spring-2016|Quantum Physics I]] — 8.04, Spring 2016
+- [[8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017|Experimental Physics I & II "Junior Lab"]] — 8.13-14, Fall 2016
+- [[16-050-thermal-energy-fall-2002|Thermal Energy]] — 16.050, Fall 2002
+- [[res-6-001-continuum-electromechanics-spring-2009|Continuum Electromechanics]] — RES.6-001, Spring 2009
+- [[12-803-quasi-balanced-circulations-in-oceans-and-atmospheres-fall-2009|Quasi-Balanced Circulations in Oceans and Atmospheres]] — 12.803, Fall 2009
+- [[16-07-dynamics-fall-2009|Dynamics]] — 16.07, Fall 2009
+- [[22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005|Noninvasive Imaging in Biology and Medicine]] — 22.56J, Fall 2005
+- [[2-627-fundamentals-of-photovoltaics-fall-2013|Fundamentals of Photovoltaics]] — 2.627, Fall 2013
+- [[3-46-photonic-materials-and-devices-spring-2006|Photonic Materials and Devices]] — 3.46, Spring 2006
+- [[8-851-effective-field-theory-spring-2013|Effective Field Theory]] — 8.851, Spring 2013
+- [[5-73-introductory-quantum-mechanics-i-fall-2005|Introductory Quantum Mechanics I]] — 5.73, Fall 2005
 - [[8-223-classical-mechanics-ii-january-iap-2017|Classical Mechanics II]] — 8.223, January IAP 2017
 - [[8-371x-quantum-information-science-ii-spring-2018|Quantum Information Science II]] — 8.371x, Spring 2018
 - [[6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011|Electromagnetic Energy: From Motors to Lasers]] — 6.007, Spring 2011

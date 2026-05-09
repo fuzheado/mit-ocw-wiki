@@ -12,6 +12,10 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-4210-robotic-manipulation-fall-2022|Robotic Manipulation]] — 6.4210, Fall 2022
+- [[res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021|Media Literacy in the Age of Deepfakes]] — RES.CMS-001, Spring 2021
+- [[mas-965-relational-machines-spring-2005|Relational Machines]] — MAS.965, Spring 2005
+- [[24-09-minds-and-machines-fall-2011|Minds and Machines]] — 24.09, Fall 2011
 - [[16-410-principles-of-autonomy-and-decision-making-fall-2010|Principles of Autonomy and Decision Making]] — 16.410, Fall 2010
 - [[16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020|Visual Navigation for Autonomous Vehicles (VNAV)]] — 16.485, Fall 2020
 - [[6-832-underactuated-robotics-spring-2009|Underactuated Robotics]] — 6.832, Spring 2009

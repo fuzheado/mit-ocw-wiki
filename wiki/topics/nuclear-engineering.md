@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[17-473-the-politics-of-nuclear-proliferation-nuclear-history-strategy-and-statecraft-fall-2015|The Politics of Nuclear Proliferation: Nuclear History, Strategy, and Statecraft]] — 17.473, Fall 2015
 - [[22-058-principles-of-medical-imaging-fall-2002|Principles of Medical Imaging]] — 22.058, Fall 2002
 - [[22-a09-career-options-for-biomedical-research-fall-2006|Career Options for Biomedical Research]] — 22.A09, Fall 2006
 - [[22-39-integration-of-reactor-design-operations-and-safety-fall-2006|Integration of Reactor Design, Operations, and Safety]] — 22.39, Fall 2006

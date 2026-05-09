@@ -12,6 +12,11 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-03-good-food-ethics-and-politics-of-food-spring-2017|Good Food: Ethics and Politics of Food]] — 24.03, Spring 2017
+- [[11-164-human-rights-at-home-and-abroad-fall-2015|Human Rights: At Home and Abroad]] — 11.164, Fall 2015
+- [[24-209-philosophy-in-film-and-other-media-spring-2004|Philosophy In Film and Other Media]] — 24.209, Spring 2004
+- [[es-258-goedel-escher-bach-spring-2007|Gödel, Escher, Bach]] — ES.258, Spring 2007
+- [[24-09-minds-and-machines-fall-2011|Minds and Machines]] — 24.09, Fall 2011
 - [[21h-112-the-american-revolution-spring-2006|The American Revolution]] — 21H.112, Spring 2006
 - [[11-020-poverty-public-policy-and-controversy-fall-2003|Poverty, Public Policy and Controversy]] — 11.020, Fall 2003
 - [[21l-701-literary-interpretation-literature-and-photography-the-image-fall-2005|Literary Interpretation: Literature and Photography: The Image]] — 21L.701, Fall 2005

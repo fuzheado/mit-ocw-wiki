@@ -12,6 +12,7 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[15-063-communicating-with-data-summer-2003|Communicating With Data]] — 15.063, Summer 2003
 - [[15-277-special-seminar-in-communications-leadership-and-personal-effectiveness-coaching-fall-2008|Special Seminar in Communications: Leadership and Personal Effectiveness Coaching]] — 15.277, Fall 2008
 - [[21g-221-communicating-in-american-culture-s-spring-2019|Communicating in American Culture(s)]] — 21G.221, Spring 2019
 - [[cms-360-introduction-to-civic-media-fall-2012|Introduction to Civic Media]] — CMS.360, Fall 2012

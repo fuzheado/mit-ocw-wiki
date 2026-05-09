@@ -12,6 +12,8 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[6-541j-speech-communication-spring-2004|Speech Communication]] — 6.541J, Spring 2004
+- [[hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009|Information Technology in the Health Care System of the Future]] — HST.921, Spring 2009
 - [[15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015|Global Health Innovation: Delivering Targeted Advice to an Organization in the Field]] — 15.ES718, Spring 2015
 - [[9-56j-abnormal-language-fall-2004|Abnormal Language]] — 9.56J, Fall 2004
 - [[esd-69-seminar-on-health-care-systems-innovation-fall-2010|Seminar on Health Care Systems Innovation]] — ESD.69, Fall 2010

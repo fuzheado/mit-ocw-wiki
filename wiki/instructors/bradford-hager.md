@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[12-520-geodynamics-fall-2006|Geodynamics]]
 - [[12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006|Applications of Continuum Mechanics to Earth, Atmospheric, and Planetary Sciences]]

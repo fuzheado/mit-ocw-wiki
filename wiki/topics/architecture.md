@@ -12,6 +12,11 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-313-advanced-studio-on-the-production-of-space-fall-2016|Advanced Studio on the Production of Space]] — 4.313, Fall 2016
+- [[4-605-introduction-to-the-history-and-theory-of-architecture-spring-2012|Introduction to the History and Theory of Architecture]] — 4.605, Spring 2012
+- [[4-184-architectural-design-workshops-computational-design-for-housing-spring-2002|Architectural Design Workshops: Computational Design for Housing]] — 4.184, Spring 2002
+- [[11-337j-urban-design-policy-and-action-spring-2009|Urban Design Policy and Action]] — 11.337J, Spring 2009
+- [[4-123-architectural-design-level-i-perceptions-and-processes-fall-2003|Architectural Design, Level I: Perceptions and Processes]] — 4.123, Fall 2003
 - [[4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004|Form-Finding and Structural Optimization: Gaudi Workshop]] — 4.491, Fall 2004
 - [[4-615-the-architecture-of-cairo-spring-2002|The Architecture of Cairo]] — 4.615, Spring 2002
 - [[4-665-contemporary-architecture-and-critical-debate-spring-2002|Contemporary Architecture and Critical Debate]] — 4.665, Spring 2002

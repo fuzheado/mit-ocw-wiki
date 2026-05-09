@@ -12,6 +12,11 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-759-marine-chemistry-seminar-spring-2006|Marine Chemistry Seminar]] — 12.759, Spring 2006
+- [[12-097-chemical-investigations-of-boston-harbor-january-iap-2006|Chemical Investigations of Boston Harbor]] — 12.097, January IAP 2006
+- [[5-35-introduction-to-experimental-chemistry-fall-2012|Introduction to Experimental Chemistry]] — 5.35, Fall 2012
+- [[5-13-organic-chemistry-ii-fall-2006|Organic Chemistry II]] — 5.13, Fall 2006
+- [[5-111sc-principles-of-chemical-science-fall-2014|Principles of Chemical Science]] — 5.111SC, Fall 2014
 - [[5-08j-biological-chemistry-ii-spring-2016|Biological Chemistry II]] — 5.08J, Spring 2016
 - [[12-119-analytical-techniques-for-studying-environmental-and-geologic-samples-spring-2011|Analytical Techniques for Studying Environmental and Geologic Samples]] — 12.119, Spring 2011
 - [[3-205-thermodynamics-and-kinetics-of-materials-fall-2006|Thermodynamics and Kinetics of Materials]] — 3.205, Fall 2006

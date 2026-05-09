@@ -12,6 +12,9 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-052-french-film-classics-spring-2015|French Film Classics]] — 21G.052, Spring 2015
+- [[res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022|Kanji Learning Any Time, Any Place for Japanese V]] — RES.21G-505, Spring 2022
+- [[21g-322j-frenchness-in-an-era-of-globalization-fall-2016|Frenchness in an Era of Globalization]] — 21G.322J, Fall 2016
 - [[21g-503-japanese-iii-fall-2019|Japanese III]] — 21G.503, Fall 2019
 - [[21g-712-spanish-conversation-and-composition-fall-2003|Spanish Conversation and Composition]] — 21G.712, Fall 2003
 - [[res-21g-01-kana-spring-2010|Kana]] — RES.21G-01, Spring 2010

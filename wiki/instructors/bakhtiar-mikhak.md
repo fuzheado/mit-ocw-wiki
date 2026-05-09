@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[mas-712-how-to-learn-almost-anything-spring-2001|How to Learn (Almost) Anything]]
 - [[mas-963-technological-tools-for-school-reform-fall-2005|Technological Tools for School Reform]]

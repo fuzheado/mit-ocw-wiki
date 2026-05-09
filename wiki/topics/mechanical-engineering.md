@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[res-6-001-continuum-electromechanics-spring-2009|Continuum Electromechanics]] — RES.6-001, Spring 2009
+- [[16-07-dynamics-fall-2009|Dynamics]] — 16.07, Fall 2009
+- [[1-054-mechanics-and-design-of-concrete-structures-spring-2004|Mechanics and Design of Concrete Structures]] — 1.054, Spring 2004
+- [[ec-s06-design-for-demining-spring-2007|Design for Demining]] — EC.S06, Spring 2007
 - [[12-510-introduction-to-seismology-spring-2010|Introduction to Seismology]] — 12.510, Spring 2010
 - [[8-511-theory-of-solids-i-fall-2004|Theory of Solids I]] — 8.511, Fall 2004
 - [[2-001-mechanics-materials-i-fall-2006|Mechanics & Materials I]] — 2.001, Fall 2006

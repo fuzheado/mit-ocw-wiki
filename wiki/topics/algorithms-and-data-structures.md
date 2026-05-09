@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[12-010-computational-methods-of-scientific-programming-fall-2011|Computational Methods of Scientific Programming]] — 12.010, Fall 2011
+- [[6-006-introduction-to-algorithms-spring-2020|Introduction to Algorithms]] — 6.006, Spring 2020
 - [[6-005-software-construction-spring-2016|Software Construction]] — 6.005, Spring 2016
 - [[8-371x-quantum-information-science-ii-spring-2018|Quantum Information Science II]] — 8.371x, Spring 2018
 - [[16-410-principles-of-autonomy-and-decision-making-fall-2010|Principles of Autonomy and Decision Making]] — 16.410, Fall 2010

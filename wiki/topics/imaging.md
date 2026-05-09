@@ -12,6 +12,7 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005|Noninvasive Imaging in Biology and Medicine]] — 22.56J, Fall 2005
 - [[22-058-principles-of-medical-imaging-fall-2002|Principles of Medical Imaging]] — 22.058, Fall 2002
 - [[22-a09-career-options-for-biomedical-research-fall-2006|Career Options for Biomedical Research]] — 22.A09, Fall 2006
 - [[hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006|Magnetic Resonance Analytic, Biochemical, and Imaging Techniques]] — HST.584J, Spring 2006

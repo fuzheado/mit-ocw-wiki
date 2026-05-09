@@ -12,6 +12,15 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-052-french-film-classics-spring-2015|French Film Classics]] — 21G.052, Spring 2015
+- [[21m-785-playwrights-workshop-spring-2012|Playwrights' Workshop]] — 21M.785, Spring 2012
+- [[es-292-writing-workshop-spring-2008|Writing Workshop]] — ES.292, Spring 2008
+- [[11-s948-seeing-the-city-afresh-spring-2018|Seeing the City Afresh]] — 11.S948, Spring 2018
+- [[cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013|At the Limit: Violence in Contemporary Representation]] — CMS.840, Fall 2013
+- [[24-209-philosophy-in-film-and-other-media-spring-2004|Philosophy In Film and Other Media]] — 24.209, Spring 2004
+- [[es-258-goedel-escher-bach-spring-2007|Gödel, Escher, Bach]] — ES.258, Spring 2007
+- [[21g-322j-frenchness-in-an-era-of-globalization-fall-2016|Frenchness in an Era of Globalization]] — 21G.322J, Fall 2016
+- [[21l-010-writing-with-shakespeare-fall-2010|Writing with Shakespeare]] — 21L.010, Fall 2010
 - [[21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015|Popular Culture and Narrative: Use and Abuse of the Fairy Tale]] — 21L.430, Fall 2015
 - [[21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005|Studies in Drama: Theater and Science in a Time of War]] — 21L.703, Spring 2005
 - [[21l-315-prizewinners-spring-2007|Prizewinners]] — 21L.315, Spring 2007

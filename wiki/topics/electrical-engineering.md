@@ -12,6 +12,14 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-541j-speech-communication-spring-2004|Speech Communication]] — 6.541J, Spring 2004
+- [[res-6-001-continuum-electromechanics-spring-2009|Continuum Electromechanics]] — RES.6-001, Spring 2009
+- [[6-4210-robotic-manipulation-fall-2022|Robotic Manipulation]] — 6.4210, Fall 2022
+- [[2-627-fundamentals-of-photovoltaics-fall-2013|Fundamentals of Photovoltaics]] — 2.627, Fall 2013
+- [[mas-965-relational-machines-spring-2005|Relational Machines]] — MAS.965, Spring 2005
+- [[15-565j-integrating-esystems-global-information-systems-spring-2002|Integrating eSystems & Global Information Systems]] — 15.565J, Spring 2002
+- [[21m-380-music-and-technology-sound-design-spring-2016|Music and Technology: Sound Design]] — 21M.380, Spring 2016
+- [[mas-863-how-to-make-almost-anything-fall-2002|How to Make (Almost) Anything]] — MAS.863, Fall 2002
 - [[6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011|Electromagnetic Energy: From Motors to Lasers]] — 6.007, Spring 2011
 - [[18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018|Matrix Methods in Data Analysis, Signal Processing, and Machine Learning]] — 18.065, Spring 2018
 - [[res-6-003-electromechanical-dynamics-spring-2009|Electromechanical Dynamics]] — RES.6-003, Spring 2009

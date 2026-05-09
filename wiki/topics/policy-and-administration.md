@@ -12,6 +12,15 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009|Chinese Foreign Policy: International Relations and Strategy]] — 17.407, Spring 2009
+- [[12-103-science-and-policy-of-natural-hazards-spring-2010|Science and Policy of Natural Hazards]] — 12.103, Spring 2010
+- [[11-302j-urban-design-politics-spring-2010|Urban Design Politics]] — 11.302J, Spring 2010
+- [[11-164-human-rights-at-home-and-abroad-fall-2015|Human Rights: At Home and Abroad]] — 11.164, Fall 2015
+- [[res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016|Mission & Metrics: Finance Training for Federal Credit Program Professionals]] — RES.15-002, Summer 2016
+- [[11-337j-urban-design-policy-and-action-spring-2009|Urban Design Policy and Action]] — 11.337J, Spring 2009
+- [[17-473-the-politics-of-nuclear-proliferation-nuclear-history-strategy-and-statecraft-fall-2015|The Politics of Nuclear Proliferation: Nuclear History, Strategy, and Statecraft]] — 17.473, Fall 2015
+- [[17-951-intelligence-practice-problems-and-prospects-spring-2005|Intelligence: Practice, Problems and Prospects]] — 17.951, Spring 2005
+- [[11-489-the-growth-and-spatial-structure-of-cities-fall-2005|The Growth and Spatial Structure of Cities]] — 11.489, Fall 2005
 - [[11-384-malaysia-sustainable-cities-practicum-spring-2018|Malaysia Sustainable Cities Practicum]] — 11.384, Spring 2018
 - [[11-360-community-growth-and-land-use-planning-fall-2003|Community Growth and Land Use Planning]] — 11.360, Fall 2003
 - [[res-15-003-shaping-the-future-of-work-15-662x-spring-2016|Shaping the Future of Work (15.662x)]] — RES.15-003, Spring 2016

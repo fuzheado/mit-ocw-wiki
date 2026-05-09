@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[12-803-quasi-balanced-circulations-in-oceans-and-atmospheres-fall-2009|Quasi-Balanced Circulations in Oceans and Atmospheres]] — 12.803, Fall 2009
 - [[2-s998-marine-autonomy-sensing-and-communications-spring-2012|Marine Autonomy, Sensing and Communications]] — 2.S998, Spring 2012
 - [[12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006|Turbulence in the Ocean and Atmosphere]] — 12.820, Spring 2006
 - [[2-25-advanced-fluid-mechanics-fall-2013|Advanced Fluid Mechanics]] — 2.25, Fall 2013

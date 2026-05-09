@@ -12,6 +12,14 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[ids-900-doctoral-seminar-in-engineering-systems-fall-2011|Doctoral Seminar in Engineering Systems]] — IDS.900, Fall 2011
+- [[12-010-computational-methods-of-scientific-programming-fall-2011|Computational Methods of Scientific Programming]] — 12.010, Fall 2011
+- [[ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010|Tools for Analysis: Design for Real Estate and Infrastructure Development]] — IDS.720J, Spring 2010
+- [[15-053-optimization-methods-in-management-science-spring-2013|Optimization Methods in Management Science]] — 15.053, Spring 2013
+- [[ec-s06-design-for-demining-spring-2007|Design for Demining]] — EC.S06, Spring 2007
+- [[4-184-architectural-design-workshops-computational-design-for-housing-spring-2002|Architectural Design Workshops: Computational Design for Housing]] — 4.184, Spring 2002
+- [[16-881-robust-system-design-summer-1998|Robust System Design]] — 16.881, Summer 1998
+- [[mas-863-how-to-make-almost-anything-fall-2002|How to Make (Almost) Anything]] — MAS.863, Fall 2002
 - [[16-885j-aircraft-systems-engineering-fall-2004|Aircraft Systems Engineering]] — 16.885J, Fall 2004
 - [[16-410-principles-of-autonomy-and-decision-making-fall-2010|Principles of Autonomy and Decision Making]] — 16.410, Fall 2010
 - [[12-s990-quantifying-uncertainty-fall-2012|Quantifying Uncertainty]] — 12.S990, Fall 2012

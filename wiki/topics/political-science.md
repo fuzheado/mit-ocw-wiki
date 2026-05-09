@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009|Chinese Foreign Policy: International Relations and Strategy]] — 17.407, Spring 2009
+- [[17-441-international-politics-and-climate-change-fall-2007|International Politics and Climate Change]] — 17.441, Fall 2007
+- [[11-302j-urban-design-politics-spring-2010|Urban Design Politics]] — 11.302J, Spring 2010
+- [[11-164-human-rights-at-home-and-abroad-fall-2015|Human Rights: At Home and Abroad]] — 11.164, Fall 2015
+- [[17-473-the-politics-of-nuclear-proliferation-nuclear-history-strategy-and-statecraft-fall-2015|The Politics of Nuclear Proliferation: Nuclear History, Strategy, and Statecraft]] — 17.473, Fall 2015
+- [[17-951-intelligence-practice-problems-and-prospects-spring-2005|Intelligence: Practice, Problems and Prospects]] — 17.951, Spring 2005
 - [[11-384-malaysia-sustainable-cities-practicum-spring-2018|Malaysia Sustainable Cities Practicum]] — 11.384, Spring 2018
 - [[14-770-introduction-to-political-economy-fall-2017|Introduction to Political Economy]] — 14.770, Fall 2017
 - [[21h-112-the-american-revolution-spring-2006|The American Revolution]] — 21H.112, Spring 2006

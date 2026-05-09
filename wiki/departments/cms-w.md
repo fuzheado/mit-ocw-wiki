@@ -12,6 +12,10 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[res-cms-502-competency-based-education-the-why-what-and-how-spring-2020|Competency-Based Education: The Why, What, and How]] (RES.CMS-502)
+- [[res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021|Media Literacy in the Age of Deepfakes]] (RES.CMS-001)
+- [[cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013|At the Limit: Violence in Contemporary Representation]] (CMS.840)
+- [[cms-801-media-in-transition-fall-2012|Media in Transition]] (CMS.801)
 - [[21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015|Popular Culture and Narrative: Use and Abuse of the Fairy Tale]] (21L.430)
 - [[res-cms-504-sorting-truth-from-fiction-civic-online-reasoning-spring-2021|Sorting Truth From Fiction: Civic Online Reasoning]] (RES.CMS-504)
 - [[res-cms-501-envisioning-the-graduate-of-the-future-spring-2020|Envisioning the Graduate of the Future]] (RES.CMS-501)

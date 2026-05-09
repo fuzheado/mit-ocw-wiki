@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[4-313-advanced-studio-on-the-production-of-space-fall-2016|Advanced Studio on the Production of Space]] — 4.313, Fall 2016
+- [[17-441-international-politics-and-climate-change-fall-2007|International Politics and Climate Change]] — 17.441, Fall 2007
+- [[1-782-environmental-engineering-masters-of-engineering-project-fall-2007-spring-2008|Environmental Engineering Masters of Engineering Project]] — 1.782, Fall 2007
+- [[12-097-chemical-investigations-of-boston-harbor-january-iap-2006|Chemical Investigations of Boston Harbor]] — 12.097, January IAP 2006
 - [[11-945-katrina-practicum-spring-2006|Katrina Practicum]] — 11.945, Spring 2006
 - [[res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017|Climate Action Hands-On: Harnessing Science with Communities to Cut Carbon]] — RES.ENV-001, January IAP 2017
 - [[11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005|Water and Sanitation Infrastructure Planning in Developing Countries]] — 11.479, Spring 2005

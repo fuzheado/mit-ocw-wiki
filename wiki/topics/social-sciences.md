@@ -25,6 +25,29 @@ courses_count: 0
 
 ## Courses
 
+- [[21a-226-ethnic-and-national-identity-fall-2011|Ethnic and National Identity]] — 21A.102 (formerly 21A.226), Fall 2011
+- [[17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009|Chinese Foreign Policy: International Relations and Strategy]] — 17.407, Spring 2009
+- [[17-441-international-politics-and-climate-change-fall-2007|International Politics and Climate Change]] — 17.441, Fall 2007
+- [[ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010|Tools for Analysis: Design for Real Estate and Infrastructure Development]] — IDS.720J, Spring 2010
+- [[11-947-history-and-theory-of-historic-preservation-spring-2007|History and Theory of Historic Preservation]] — 11.947, Spring 2007
+- [[24-03-good-food-ethics-and-politics-of-food-spring-2017|Good Food: Ethics and Politics of Food]] — 24.03, Spring 2017
+- [[15-053-optimization-methods-in-management-science-spring-2013|Optimization Methods in Management Science]] — 15.053, Spring 2013
+- [[15-063-communicating-with-data-summer-2003|Communicating With Data]] — 15.063, Summer 2003
+- [[12-103-science-and-policy-of-natural-hazards-spring-2010|Science and Policy of Natural Hazards]] — 12.103, Spring 2010
+- [[ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010|D-Lab: Medical Technologies for the Developing World]] — EC.710, Spring 2010
+- [[11-302j-urban-design-politics-spring-2010|Urban Design Politics]] — 11.302J, Spring 2010
+- [[21a-212-myth-ritual-and-symbolism-spring-2004|Myth, Ritual, and Symbolism]] — 21A.212, Spring 2004
+- [[11-164-human-rights-at-home-and-abroad-fall-2015|Human Rights: At Home and Abroad]] — 11.164, Fall 2015
+- [[res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016|Mission & Metrics: Finance Training for Federal Credit Program Professionals]] — RES.15-002, Summer 2016
+- [[4-184-architectural-design-workshops-computational-design-for-housing-spring-2002|Architectural Design Workshops: Computational Design for Housing]] — 4.184, Spring 2002
+- [[11-337j-urban-design-policy-and-action-spring-2009|Urban Design Policy and Action]] — 11.337J, Spring 2009
+- [[14-772-development-economics-macroeconomics-spring-2013|Development Economics: Macroeconomics]] — 14.772, Spring 2013
+- [[17-473-the-politics-of-nuclear-proliferation-nuclear-history-strategy-and-statecraft-fall-2015|The Politics of Nuclear Proliferation: Nuclear History, Strategy, and Statecraft]] — 17.473, Fall 2015
+- [[15-040-game-theory-for-managers-spring-2004|Game Theory for Managers]] — 15.040, Spring 2004
+- [[wgs-110j-sexual-and-gender-identities-spring-2016|Sexual and Gender Identities]] — WGS.110J, Spring 2016
+- [[24-09-minds-and-machines-fall-2011|Minds and Machines]] — 24.09, Fall 2011
+- [[17-951-intelligence-practice-problems-and-prospects-spring-2005|Intelligence: Practice, Problems and Prospects]] — 17.951, Spring 2005
+- [[11-489-the-growth-and-spatial-structure-of-cities-fall-2005|The Growth and Spatial Structure of Cities]] — 11.489, Fall 2005
 - [[21a-501j-art-craft-science-spring-2013|Art, Craft, Science]] — 21A.501J, Spring 2013
 - [[16-410-principles-of-autonomy-and-decision-making-fall-2010|Principles of Autonomy and Decision Making]] — 16.410, Fall 2010
 - [[mas-965-social-visualization-fall-2004|Social Visualization]] — MAS.965, Fall 2004

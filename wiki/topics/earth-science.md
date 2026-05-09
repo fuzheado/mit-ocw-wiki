@@ -12,6 +12,14 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-520-geodynamics-fall-2006|Geodynamics]] — 12.520, Fall 2006
+- [[17-441-international-politics-and-climate-change-fall-2007|International Politics and Climate Change]] — 17.441, Fall 2007
+- [[12-759-marine-chemistry-seminar-spring-2006|Marine Chemistry Seminar]] — 12.759, Spring 2006
+- [[12-340-global-warming-science-spring-2012|Global Warming Science]] — 12.340, Spring 2012
+- [[12-097-chemical-investigations-of-boston-harbor-january-iap-2006|Chemical Investigations of Boston Harbor]] — 12.097, January IAP 2006
+- [[12-803-quasi-balanced-circulations-in-oceans-and-atmospheres-fall-2009|Quasi-Balanced Circulations in Oceans and Atmospheres]] — 12.803, Fall 2009
+- [[12-103-science-and-policy-of-natural-hazards-spring-2010|Science and Policy of Natural Hazards]] — 12.103, Spring 2010
+- [[12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008|Physics and Chemistry of the Terrestrial Planets]] — 12.002, Fall 2008
 - [[12-510-introduction-to-seismology-spring-2010|Introduction to Seismology]] — 12.510, Spring 2010
 - [[21h-421-introduction-to-environmental-history-spring-2011|Introduction to Environmental History]] — 21H.421, Spring 2011
 - [[12-571-near-surface-geophysical-imaging-fall-2009|Near-Surface Geophysical Imaging]] — 12.571, Fall 2009

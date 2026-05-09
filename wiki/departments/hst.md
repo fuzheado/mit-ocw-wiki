@@ -12,6 +12,11 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[6-541j-speech-communication-spring-2004|Speech Communication]] (6.541J)
+- [[hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005|Tumor Pathophysiology and Transport Phenomena]] (HST.525J)
+- [[22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005|Noninvasive Imaging in Biology and Medicine]] (22.56J)
+- [[hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009|Information Technology in the Health Care System of the Future]] (HST.921)
+- [[hst-512-genomic-medicine-spring-2004|Genomic Medicine]] (HST.512)
 - [[hst-176-cellular-and-molecular-immunology-fall-2005|Cellular and Molecular Immunology]] (HST.176)
 - [[hst-151-principles-of-pharmacology-spring-2005|Principles of Pharmacology]] (HST.151)
 - [[2-785j-cell-matrix-mechanics-fall-2014|Cell-Matrix Mechanics]] (2.785J)

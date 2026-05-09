@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[4-184-architectural-design-workshops-computational-design-for-housing-spring-2002|Architectural Design Workshops: Computational Design for Housing]]
 - [[4-580-inquiry-into-computation-and-design-fall-2006|Inquiry into Computation and Design]]

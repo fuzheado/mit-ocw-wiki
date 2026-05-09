@@ -12,6 +12,19 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[15-062-data-mining-spring-2003|Data Mining]] — 15.062, Spring 2003
+- [[12-010-computational-methods-of-scientific-programming-fall-2011|Computational Methods of Scientific Programming]] — 12.010, Fall 2011
+- [[6-4210-robotic-manipulation-fall-2022|Robotic Manipulation]] — 6.4210, Fall 2022
+- [[res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021|Media Literacy in the Age of Deepfakes]] — RES.CMS-001, Spring 2021
+- [[15-063-communicating-with-data-summer-2003|Communicating With Data]] — 15.063, Summer 2003
+- [[mas-965-relational-machines-spring-2005|Relational Machines]] — MAS.965, Spring 2005
+- [[6-00-introduction-to-computer-science-and-programming-fall-2008|Introduction to Computer Science and Programming]] — 6.00, Fall 2008
+- [[6-820-fundamentals-of-program-analysis-fall-2015|Fundamentals of Program Analysis]] — 6.820, Fall 2015
+- [[15-565j-integrating-esystems-global-information-systems-spring-2002|Integrating eSystems & Global Information Systems]] — 15.565J, Spring 2002
+- [[es-258-goedel-escher-bach-spring-2007|Gödel, Escher, Bach]] — ES.258, Spring 2007
+- [[16-400-human-factors-engineering-fall-2011|Human Factors Engineering]] — 16.400, Fall 2011
+- [[6-006-introduction-to-algorithms-spring-2020|Introduction to Algorithms]] — 6.006, Spring 2020
+- [[24-09-minds-and-machines-fall-2011|Minds and Machines]] — 24.09, Fall 2011
 - [[6-005-software-construction-spring-2016|Software Construction]] — 6.005, Spring 2016
 - [[8-371x-quantum-information-science-ii-spring-2018|Quantum Information Science II]] — 8.371x, Spring 2018
 - [[16-410-principles-of-autonomy-and-decision-making-fall-2010|Principles of Autonomy and Decision Making]] — 16.410, Fall 2010

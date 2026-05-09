@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[24-03-good-food-ethics-and-politics-of-food-spring-2017|Good Food: Ethics and Politics of Food]] — 24.03, Spring 2017
+- [[wgs-110j-sexual-and-gender-identities-spring-2016|Sexual and Gender Identities]] — WGS.110J, Spring 2016
 - [[21h-983-gender-spring-2017|Gender]] — 21H.983, Spring 2017
 - [[wgs-s10-black-feminist-health-science-studies-spring-2021|Black Feminist Health Science Studies]] — WGS.S10, Spring 2021
 - [[sts-049j-technology-and-gender-in-american-history-spring-2004|Technology and Gender in American History]] — STS.049J, Spring 2004

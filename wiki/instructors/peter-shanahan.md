@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[1-782-environmental-engineering-masters-of-engineering-project-fall-2007-spring-2008|Environmental Engineering Masters of Engineering Project]]
 - [[1-34-waste-containment-and-remediation-technology-spring-2004|Waste Containment and Remediation Technology]]

@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[24-209-philosophy-in-film-and-other-media-spring-2004|Philosophy In Film and Other Media]]
 - [[24-213-philosophy-of-film-fall-2004|Philosophy of Film]]

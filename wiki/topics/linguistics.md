@@ -12,6 +12,9 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[6-541j-speech-communication-spring-2004|Speech Communication]] — 6.541J, Spring 2004
+- [[24-979-topics-in-semantics-negative-polarity-items-fall-2018|Topics in Semantics: Negative Polarity Items]] — 24.979, Fall 2018
+- [[21a-212-myth-ritual-and-symbolism-spring-2004|Myth, Ritual, and Symbolism]] — 21A.212, Spring 2004
 - [[24-910-topics-in-linguistic-theory-propositional-attitudes-spring-2009|Topics in Linguistic Theory: Propositional Attitudes]] — 24.910, Spring 2009
 - [[24-960-syntactic-models-spring-2006|Syntactic Models]] — 24.960, Spring 2006
 - [[mas-962-digital-typography-fall-1997|Digital Typography]] — MAS.962, Fall 1997

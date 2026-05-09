@@ -12,6 +12,18 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[18-900-geometry-and-topology-in-the-plane-spring-2023|Geometry and Topology in the Plane]] — 18.900, Spring 2023
+- [[18-996a-simplicity-theory-spring-2004|Simplicity Theory]] — 18.996A, Spring 2004
+- [[15-053-optimization-methods-in-management-science-spring-2013|Optimization Methods in Management Science]] — 15.053, Spring 2013
+- [[18-950-differential-geometry-fall-2008|Differential Geometry]] — 18.950, Fall 2008
+- [[18-01sc-single-variable-calculus-fall-2010|Single Variable Calculus]] — 18.01SC, Fall 2010
+- [[18-445-introduction-to-stochastic-processes-spring-2015|Introduction to Stochastic Processes]] — 18.445, Spring 2015
+- [[18-306-advanced-partial-differential-equations-with-applications-fall-2009|Advanced Partial Differential Equations with Applications]] — 18.306, Fall 2009
+- [[16-881-robust-system-design-summer-1998|Robust System Design]] — 16.881, Summer 1998
+- [[18-782-introduction-to-arithmetic-geometry-fall-2013|Introduction to Arithmetic Geometry]] — 18.782, Fall 2013
+- [[18-102-introduction-to-functional-analysis-spring-2009|Introduction to Functional Analysis]] — 18.102, Spring 2009
+- [[6-006-introduction-to-algorithms-spring-2020|Introduction to Algorithms]] — 6.006, Spring 2020
+- [[res-18-010-a-2020-vision-of-linear-algebra-spring-2020|A Vision of Linear Algebra]] — RES.18-010, Spring 2020
 - [[18-712-introduction-to-representation-theory-fall-2010|Introduction to Representation Theory]] — 18.712, Fall 2010
 - [[8-371x-quantum-information-science-ii-spring-2018|Quantum Information Science II]] — 8.371x, Spring 2018
 - [[18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018|Matrix Methods in Data Analysis, Signal Processing, and Machine Learning]] — 18.065, Spring 2018

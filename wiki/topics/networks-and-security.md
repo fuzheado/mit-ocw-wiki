@@ -12,6 +12,7 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[es-258-goedel-escher-bach-spring-2007|Gödel, Escher, Bach]] — ES.258, Spring 2007
 - [[6-005-software-construction-spring-2016|Software Construction]] — 6.005, Spring 2016
 - [[8-371x-quantum-information-science-ii-spring-2018|Quantum Information Science II]] — 8.371x, Spring 2018
 - [[6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012|Introduction to EECS II: Digital Communication Systems]] — 6.02, Fall 2012

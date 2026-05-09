@@ -12,6 +12,8 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[mas-712-how-to-learn-almost-anything-spring-2001|How to Learn (Almost) Anything]] — MAS.712, Spring 2001
+- [[res-7-009-7-int-inclusive-teaching-module-fall-2022|7.InT: Inclusive Teaching Module]] — RES.7-009, Fall 2022
 - [[res-cms-501-envisioning-the-graduate-of-the-future-spring-2020|Envisioning the Graduate of the Future]] — RES.CMS-501, Spring 2020
 - [[mas-963-technological-tools-for-school-reform-fall-2005|Technological Tools for School Reform]] — MAS.963, Fall 2005
 - [[res-cms-503-becoming-a-more-equitable-educator-mindsets-and-practices-spring-2020|Becoming a More Equitable Educator: Mindsets and Practices]] — RES.CMS-503, Spring 2020

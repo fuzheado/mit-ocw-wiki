@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[7-89j-topics-in-computational-and-systems-biology-fall-2010|Topics in Computational and Systems Biology]] — 7.89J, Fall 2010
 - [[20-201-mechanisms-of-drug-actions-fall-2013|Mechanisms of Drug Actions]] — 20.201, Fall 2013
 - [[2-785j-cell-matrix-mechanics-fall-2014|Cell-Matrix Mechanics]] — 2.785J, Fall 2014
 - [[20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005|Chemicals in the Environment: Toxicology and Public Health (BE.104J)]] — 20.104J, Spring 2005

@@ -12,6 +12,10 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-062-data-mining-spring-2003|Data Mining]] — 15.062, Spring 2003
+- [[15-063-communicating-with-data-summer-2003|Communicating With Data]] — 15.063, Summer 2003
+- [[res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016|Mission & Metrics: Finance Training for Federal Credit Program Professionals]] — RES.15-002, Summer 2016
+- [[15-040-game-theory-for-managers-spring-2004|Game Theory for Managers]] — 15.040, Spring 2004
 - [[res-15-003-shaping-the-future-of-work-15-662x-spring-2016|Shaping the Future of Work (15.662x)]] — RES.15-003, Spring 2016
 - [[15-668-people-and-organizations-fall-2010|People and Organizations]] — 15.668, Fall 2010
 - [[res-15-001-mit-sloan-learningedge-fall-2008|MIT Sloan Teaching Resources Library]] — RES.15-001, Fall 2008

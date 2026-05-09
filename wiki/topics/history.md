@@ -12,6 +12,14 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21h-402-the-making-of-a-roman-emperor-fall-2005|The Making of a Roman Emperor]] — 21H.402, Fall 2005
+- [[ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010|Recreate Experiments from History: Inform the Future from the Past: Galileo]] — EC.050, January IAP 2010
+- [[11-947-history-and-theory-of-historic-preservation-spring-2007|History and Theory of Historic Preservation]] — 11.947, Spring 2007
+- [[4-605-introduction-to-the-history-and-theory-of-architecture-spring-2012|Introduction to the History and Theory of Architecture]] — 4.605, Spring 2012
+- [[17-473-the-politics-of-nuclear-proliferation-nuclear-history-strategy-and-statecraft-fall-2015|The Politics of Nuclear Proliferation: Nuclear History, Strategy, and Statecraft]] — 17.473, Fall 2015
+- [[21h-991-theories-and-methods-in-the-study-of-history-fall-2010|Theories and Methods in the Study of History]] — 21H.991, Fall 2010
+- [[cms-801-media-in-transition-fall-2012|Media in Transition]] — CMS.801, Fall 2012
+- [[wgs-110j-sexual-and-gender-identities-spring-2016|Sexual and Gender Identities]] — WGS.110J, Spring 2016
 - [[21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005|Studies in Drama: Theater and Science in a Time of War]] — 21L.703, Spring 2005
 - [[21h-421-introduction-to-environmental-history-spring-2011|Introduction to Environmental History]] — 21H.421, Spring 2011
 - [[11-384-malaysia-sustainable-cities-practicum-spring-2018|Malaysia Sustainable Cities Practicum]] — 11.384, Spring 2018

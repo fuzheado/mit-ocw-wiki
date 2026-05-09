@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21a-226-ethnic-and-national-identity-fall-2011|Ethnic and National Identity]] — 21A.102 (formerly 21A.226), Fall 2011
+- [[21a-212-myth-ritual-and-symbolism-spring-2004|Myth, Ritual, and Symbolism]] — 21A.212, Spring 2004
 - [[21a-501j-art-craft-science-spring-2013|Art, Craft, Science]] — 21A.501J, Spring 2013
 - [[mas-965-social-visualization-fall-2004|Social Visualization]] — MAS.965, Fall 2004
 - [[21h-983-gender-spring-2017|Gender]] — 21H.983, Spring 2017

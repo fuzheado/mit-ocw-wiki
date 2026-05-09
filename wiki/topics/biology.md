@@ -12,6 +12,10 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[7-a12-freshman-seminar-structural-basis-of-genetic-material-nucleic-acids-fall-2005|Freshman Seminar: Structural Basis of Genetic Material: Nucleic Acids]] — 7.A12, Fall 2005
+- [[7-89j-topics-in-computational-and-systems-biology-fall-2010|Topics in Computational and Systems Biology]] — 7.89J, Fall 2010
+- [[7-014-introductory-biology-spring-2005|Introductory Biology]] — 7.014, Spring 2005
+- [[hst-512-genomic-medicine-spring-2004|Genomic Medicine]] — HST.512, Spring 2004
 - [[20-201-mechanisms-of-drug-actions-fall-2013|Mechanisms of Drug Actions]] — 20.201, Fall 2013
 - [[5-08j-biological-chemistry-ii-spring-2016|Biological Chemistry II]] — 5.08J, Spring 2016
 - [[21h-421-introduction-to-environmental-history-spring-2011|Introduction to Environmental History]] — 21H.421, Spring 2011

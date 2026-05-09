@@ -12,6 +12,9 @@ School: [[school-architecture-planning|School of Architecture and Planning]]
 
 ## Courses
 
+- [[mas-712-how-to-learn-almost-anything-spring-2001|How to Learn (Almost) Anything]] (MAS.712)
+- [[mas-965-relational-machines-spring-2005|Relational Machines]] (MAS.965)
+- [[mas-863-how-to-make-almost-anything-fall-2002|How to Make (Almost) Anything]] (MAS.863)
 - [[mas-110-fundamentals-of-computational-media-design-fall-2008|Fundamentals of Computational Media Design]] (MAS.110)
 - [[mas-965-social-visualization-fall-2004|Social Visualization]] (MAS.965)
 - [[mas-450-holographic-imaging-spring-2003|Holographic Imaging]] (MAS.450)

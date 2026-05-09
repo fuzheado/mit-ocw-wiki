@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21m-785-playwrights-workshop-spring-2012|Playwrights' Workshop]] — 21M.785, Spring 2012
+- [[21m-380-music-and-technology-sound-design-spring-2016|Music and Technology: Sound Design]] — 21M.380, Spring 2016
 - [[21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005|Studies in Drama: Theater and Science in a Time of War]] — 21L.703, Spring 2005
 - [[21m-030-introduction-to-world-music-spring-2013|Introduction to World Music]] — 21M.030, Spring 2013
 - [[21l-703-studies-in-drama-stoppard-and-company-spring-2014|Studies in Drama: Stoppard and Company]] — 21L.703, Spring 2014

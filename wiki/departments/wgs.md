@@ -12,6 +12,7 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[wgs-110j-sexual-and-gender-identities-spring-2016|Sexual and Gender Identities]] (WGS.110J)
 - [[wgs-s10-black-feminist-health-science-studies-spring-2021|Black Feminist Health Science Studies]] (WGS.S10)
 - [[21a-460j-medicine-religion-and-politics-in-africa-and-the-african-diaspora-spring-2005|Medicine, Religion and Politics in Africa and the African Diaspora]] (21A.460J)
 - [[21l-705-major-authors-melville-and-morrison-fall-2003|Major Authors: Melville and Morrison]] (21L.705)

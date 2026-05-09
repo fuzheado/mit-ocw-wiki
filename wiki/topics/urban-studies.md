@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010|Tools for Analysis: Design for Real Estate and Infrastructure Development]] — IDS.720J, Spring 2010
+- [[11-947-history-and-theory-of-historic-preservation-spring-2007|History and Theory of Historic Preservation]] — 11.947, Spring 2007
+- [[11-302j-urban-design-politics-spring-2010|Urban Design Politics]] — 11.302J, Spring 2010
+- [[4-184-architectural-design-workshops-computational-design-for-housing-spring-2002|Architectural Design Workshops: Computational Design for Housing]] — 4.184, Spring 2002
+- [[11-337j-urban-design-policy-and-action-spring-2009|Urban Design Policy and Action]] — 11.337J, Spring 2009
+- [[11-489-the-growth-and-spatial-structure-of-cities-fall-2005|The Growth and Spatial Structure of Cities]] — 11.489, Fall 2005
 - [[11-384-malaysia-sustainable-cities-practicum-spring-2018|Malaysia Sustainable Cities Practicum]] — 11.384, Spring 2018
 - [[11-360-community-growth-and-land-use-planning-fall-2003|Community Growth and Land Use Planning]] — 11.360, Fall 2003
 - [[11-422-downtown-management-organizations-fall-2006|Downtown Management Organizations]] — 11.422, Fall 2006

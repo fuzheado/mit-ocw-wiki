@@ -12,6 +12,7 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-760b-introduction-to-operations-management-spring-2004|Introduction to Operations Management]] — 15.760B, Spring 2004
 - [[15-760a-operations-management-spring-2002|Operations Management]] — 15.760A, Spring 2002
 - [[15-769-operations-strategy-spring-2003|Operations Strategy]] — 15.769, Spring 2003
 - [[11-975-feeding-cities-in-the-global-south-challenges-and-opportunities-for-action-in-cartagena-fall-2009|Feeding Cities in the Global South: Challenges and Opportunities for Action in Cartagena]] — 11.975, Fall 2009

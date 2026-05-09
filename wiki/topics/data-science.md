@@ -12,6 +12,9 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[15-062-data-mining-spring-2003|Data Mining]] — 15.062, Spring 2003
+- [[15-063-communicating-with-data-summer-2003|Communicating With Data]] — 15.063, Summer 2003
+- [[15-565j-integrating-esystems-global-information-systems-spring-2002|Integrating eSystems & Global Information Systems]] — 15.565J, Spring 2002
 - [[esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007|Models, Data and Inference for Socio-Technical Systems]] — ESD.86, Spring 2007
 - [[18-s096-topics-in-mathematics-of-data-science-fall-2015|Topics in Mathematics of Data Science]] — 18.S096, Fall 2015
 - [[12-571-near-surface-geophysical-imaging-fall-2009|Near-Surface Geophysical Imaging]] — 12.571, Fall 2009

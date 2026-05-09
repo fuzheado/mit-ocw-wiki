@@ -12,6 +12,12 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21h-402-the-making-of-a-roman-emperor-fall-2005|The Making of a Roman Emperor]] — 21H.402, Fall 2005
+- [[res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021|Media Literacy in the Age of Deepfakes]] — RES.CMS-001, Spring 2021
+- [[mas-965-relational-machines-spring-2005|Relational Machines]] — MAS.965, Spring 2005
+- [[cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013|At the Limit: Violence in Contemporary Representation]] — CMS.840, Fall 2013
+- [[24-209-philosophy-in-film-and-other-media-spring-2004|Philosophy In Film and Other Media]] — 24.209, Spring 2004
+- [[cms-801-media-in-transition-fall-2012|Media in Transition]] — CMS.801, Fall 2012
 - [[mas-110-fundamentals-of-computational-media-design-fall-2008|Fundamentals of Computational Media Design]] — MAS.110, Fall 2008
 - [[mas-965-social-visualization-fall-2004|Social Visualization]] — MAS.965, Fall 2004
 - [[mas-450-holographic-imaging-spring-2003|Holographic Imaging]] — MAS.450, Spring 2003

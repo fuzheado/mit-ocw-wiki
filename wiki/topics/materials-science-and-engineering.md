@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-627-fundamentals-of-photovoltaics-fall-2013|Fundamentals of Photovoltaics]] — 2.627, Fall 2013
+- [[3-46-photonic-materials-and-devices-spring-2006|Photonic Materials and Devices]] — 3.46, Spring 2006
 - [[2-001-mechanics-materials-i-fall-2006|Mechanics & Materials I]] — 2.001, Fall 2006
 - [[3-016-mathematics-for-materials-scientists-and-engineers-fall-2005|Mathematics for Materials Scientists and Engineers]] — 3.016, Fall 2005
 - [[3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007|Electrical, Optical, and Magnetic Properties of Materials]] — 3.23, Fall 2007

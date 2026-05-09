@@ -12,6 +12,11 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21g-052-french-film-classics-spring-2015|French Film Classics]] — 21G.052, Spring 2015
+- [[cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013|At the Limit: Violence in Contemporary Representation]] — CMS.840, Fall 2013
+- [[24-209-philosophy-in-film-and-other-media-spring-2004|Philosophy In Film and Other Media]] — 24.209, Spring 2004
+- [[21m-380-music-and-technology-sound-design-spring-2016|Music and Technology: Sound Design]] — 21M.380, Spring 2016
+- [[21m-299-the-beatles-fall-2017|The Beatles]] — 21M.299, Fall 2017
 - [[mas-110-fundamentals-of-computational-media-design-fall-2008|Fundamentals of Computational Media Design]] — MAS.110, Fall 2008
 - [[21l-701-literary-interpretation-literature-and-photography-the-image-fall-2005|Literary Interpretation: Literature and Photography: The Image]] — 21L.701, Fall 2005
 - [[cms-405-media-and-methods-seeing-and-expression-spring-2013|Media and Methods: Seeing and Expression]] — CMS.405, Spring 2013

@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[5-13-organic-chemistry-ii-fall-2006|Organic Chemistry II]]
 - [[5-13-organic-chemistry-ii-fall-2003|Organic Chemistry II]]

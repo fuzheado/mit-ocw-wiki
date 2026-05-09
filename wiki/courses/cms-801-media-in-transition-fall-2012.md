@@ -1,0 +1,51 @@
+---
+url: "https://ocw.mit.edu/courses/cms-801-media-in-transition-fall-2012/"
+course_id: "CMS.801"
+title: "Media in Transition"
+year_published: 2012
+instructors: ["Prof. Jeffrey S. Ravel"]
+level: ["graduate"]
+department: "CMS-W"
+topics: ["Art, Design & Architecture", "Humanities", "History", "Media Studies"]
+license: "CC BY-NC-SA"
+views: 116
+completeness: 0.04000000000000001
+last_modified: "2026-05-06T17:09:12Z"
+type: "course"
+---
+
+# Media in Transition
+
+This course centers on historical eras in which the form and function of media technologies were radically transformed. It includes consideration of the “Gutenberg Revolution,” the rise of modern mass media, and the “digital revolution,” among other case studies of media transformation and cultural change. Readings are in cultural and social history and historiographic method.
+
+## Course Info
+
+- **Department:** [[cms-w|Comparative Media Studies/Writing]]
+- **Course Number:** CMS.801
+- **Instructors:** [[jeffrey-s-ravel|Prof. Jeffrey S. Ravel]]
+- **Year:** 2012
+- **Level:** Graduate
+- **Topics:** [[art-design-architecture|Art, Design & Architecture]], [[humanities|Humanities]], [[history|History]], [[media-studies|Media Studies]]
+- **License:** CC BY-NC-SA
+
+## Materials
+
+- [Written Assignments] Written Assignments
+
+## Wikipedia Bridge
+
+### Related Articles
+
+TBD — crossref not yet run.
+
+### Citation Template
+
+```wikitext
+{{cite web
+ |url=https://ocw.mit.edu/courses/cms-801-media-in-transition-fall-2012/
+ |title=Media in Transition
+ |author=Prof. Jeffrey S. Ravel
+ |website=MIT OpenCourseWare
+ |access-date=2026-05-09
+}}
+```

@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-006-introduction-to-algorithms-spring-2020|Introduction to Algorithms]]
 - [[4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004|Form-Finding and Structural Optimization: Gaudi Workshop]]
 - [[6-006-introduction-to-algorithms-fall-2011|Introduction to Algorithms]]
 - [[6-851-advanced-data-structures-spring-2012|Advanced Data Structures]]

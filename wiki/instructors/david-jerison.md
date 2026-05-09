@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[18-01sc-single-variable-calculus-fall-2010|Single Variable Calculus]]
 - [[18-01-single-variable-calculus-fall-2006|Single Variable Calculus]]

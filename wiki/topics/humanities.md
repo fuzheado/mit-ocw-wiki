@@ -20,6 +20,32 @@ courses_count: 0
 
 ## Courses
 
+- [[6-541j-speech-communication-spring-2004|Speech Communication]] — 6.541J, Spring 2004
+- [[21g-052-french-film-classics-spring-2015|French Film Classics]] — 21G.052, Spring 2015
+- [[21m-785-playwrights-workshop-spring-2012|Playwrights' Workshop]] — 21M.785, Spring 2012
+- [[res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022|Kanji Learning Any Time, Any Place for Japanese V]] — RES.21G-505, Spring 2022
+- [[21h-402-the-making-of-a-roman-emperor-fall-2005|The Making of a Roman Emperor]] — 21H.402, Fall 2005
+- [[ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010|Recreate Experiments from History: Inform the Future from the Past: Galileo]] — EC.050, January IAP 2010
+- [[es-292-writing-workshop-spring-2008|Writing Workshop]] — ES.292, Spring 2008
+- [[24-979-topics-in-semantics-negative-polarity-items-fall-2018|Topics in Semantics: Negative Polarity Items]] — 24.979, Fall 2018
+- [[11-947-history-and-theory-of-historic-preservation-spring-2007|History and Theory of Historic Preservation]] — 11.947, Spring 2007
+- [[11-s948-seeing-the-city-afresh-spring-2018|Seeing the City Afresh]] — 11.S948, Spring 2018
+- [[24-03-good-food-ethics-and-politics-of-food-spring-2017|Good Food: Ethics and Politics of Food]] — 24.03, Spring 2017
+- [[4-605-introduction-to-the-history-and-theory-of-architecture-spring-2012|Introduction to the History and Theory of Architecture]] — 4.605, Spring 2012
+- [[cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013|At the Limit: Violence in Contemporary Representation]] — CMS.840, Fall 2013
+- [[21a-212-myth-ritual-and-symbolism-spring-2004|Myth, Ritual, and Symbolism]] — 21A.212, Spring 2004
+- [[11-164-human-rights-at-home-and-abroad-fall-2015|Human Rights: At Home and Abroad]] — 11.164, Fall 2015
+- [[24-209-philosophy-in-film-and-other-media-spring-2004|Philosophy In Film and Other Media]] — 24.209, Spring 2004
+- [[21m-380-music-and-technology-sound-design-spring-2016|Music and Technology: Sound Design]] — 21M.380, Spring 2016
+- [[es-258-goedel-escher-bach-spring-2007|Gödel, Escher, Bach]] — ES.258, Spring 2007
+- [[21g-322j-frenchness-in-an-era-of-globalization-fall-2016|Frenchness in an Era of Globalization]] — 21G.322J, Fall 2016
+- [[17-473-the-politics-of-nuclear-proliferation-nuclear-history-strategy-and-statecraft-fall-2015|The Politics of Nuclear Proliferation: Nuclear History, Strategy, and Statecraft]] — 17.473, Fall 2015
+- [[21l-010-writing-with-shakespeare-fall-2010|Writing with Shakespeare]] — 21L.010, Fall 2010
+- [[21h-991-theories-and-methods-in-the-study-of-history-fall-2010|Theories and Methods in the Study of History]] — 21H.991, Fall 2010
+- [[cms-801-media-in-transition-fall-2012|Media in Transition]] — CMS.801, Fall 2012
+- [[wgs-110j-sexual-and-gender-identities-spring-2016|Sexual and Gender Identities]] — WGS.110J, Spring 2016
+- [[24-09-minds-and-machines-fall-2011|Minds and Machines]] — 24.09, Fall 2011
+- [[21m-299-the-beatles-fall-2017|The Beatles]] — 21M.299, Fall 2017
 - [[21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015|Popular Culture and Narrative: Use and Abuse of the Fairy Tale]] — 21L.430, Fall 2015
 - [[21g-503-japanese-iii-fall-2019|Japanese III]] — 21G.503, Fall 2019
 - [[21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005|Studies in Drama: Theater and Science in a Time of War]] — 21L.703, Spring 2005

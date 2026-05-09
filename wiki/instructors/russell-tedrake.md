@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-4210-robotic-manipulation-fall-2022|Robotic Manipulation]]
 - [[6-832-underactuated-robotics-spring-2009|Underactuated Robotics]]
 - [[6-832-underactuated-robotics-spring-2022|Underactuated Robotics]]

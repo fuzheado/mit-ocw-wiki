@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[4-313-advanced-studio-on-the-production-of-space-fall-2016|Advanced Studio on the Production of Space]] — 4.313, Fall 2016
+- [[1-054-mechanics-and-design-of-concrete-structures-spring-2004|Mechanics and Design of Concrete Structures]] — 1.054, Spring 2004
 - [[4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004|Form-Finding and Structural Optimization: Gaudi Workshop]] — 4.491, Fall 2004
 - [[1-050-engineering-mechanics-i-fall-2007|Engineering Mechanics I]] — 1.050, Fall 2007
 - [[1-361-advanced-soil-mechanics-fall-2004|Advanced Soil Mechanics]] — 1.361, Fall 2004

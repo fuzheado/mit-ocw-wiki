@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[16-050-thermal-energy-fall-2002|Thermal Energy]] — 16.050, Fall 2002
+- [[16-07-dynamics-fall-2009|Dynamics]] — 16.07, Fall 2009
+- [[16-400-human-factors-engineering-fall-2011|Human Factors Engineering]] — 16.400, Fall 2011
 - [[16-885j-aircraft-systems-engineering-fall-2004|Aircraft Systems Engineering]] — 16.885J, Fall 2004
 - [[16-346-astrodynamics-fall-2008|Astrodynamics]] — 16.346, Fall 2008
 - [[16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020|Visual Navigation for Autonomous Vehicles (VNAV)]] — 16.485, Fall 2020

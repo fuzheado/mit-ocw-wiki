@@ -12,6 +12,7 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-820-fundamentals-of-program-analysis-fall-2015|Fundamentals of Program Analysis]] — 6.820, Fall 2015
 - [[6-005-software-construction-spring-2016|Software Construction]] — 6.005, Spring 2016
 - [[6-251j-introduction-to-mathematical-programming-fall-2009|Introduction to Mathematical Programming]] — 6.251J, Fall 2009
 - [[6-823-computer-system-architecture-fall-2005|Computer System Architecture]] — 6.823, Fall 2005

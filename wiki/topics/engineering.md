@@ -25,6 +25,42 @@ courses_count: 0
 
 ## Courses
 
+- [[ids-900-doctoral-seminar-in-engineering-systems-fall-2011|Doctoral Seminar in Engineering Systems]] — IDS.900, Fall 2011
+- [[6-541j-speech-communication-spring-2004|Speech Communication]] — 6.541J, Spring 2004
+- [[15-062-data-mining-spring-2003|Data Mining]] — 15.062, Spring 2003
+- [[16-050-thermal-energy-fall-2002|Thermal Energy]] — 16.050, Fall 2002
+- [[4-313-advanced-studio-on-the-production-of-space-fall-2016|Advanced Studio on the Production of Space]] — 4.313, Fall 2016
+- [[17-441-international-politics-and-climate-change-fall-2007|International Politics and Climate Change]] — 17.441, Fall 2007
+- [[12-010-computational-methods-of-scientific-programming-fall-2011|Computational Methods of Scientific Programming]] — 12.010, Fall 2011
+- [[1-782-environmental-engineering-masters-of-engineering-project-fall-2007-spring-2008|Environmental Engineering Masters of Engineering Project]] — 1.782, Fall 2007
+- [[12-097-chemical-investigations-of-boston-harbor-january-iap-2006|Chemical Investigations of Boston Harbor]] — 12.097, January IAP 2006
+- [[res-6-001-continuum-electromechanics-spring-2009|Continuum Electromechanics]] — RES.6-001, Spring 2009
+- [[6-4210-robotic-manipulation-fall-2022|Robotic Manipulation]] — 6.4210, Fall 2022
+- [[12-803-quasi-balanced-circulations-in-oceans-and-atmospheres-fall-2009|Quasi-Balanced Circulations in Oceans and Atmospheres]] — 12.803, Fall 2009
+- [[7-89j-topics-in-computational-and-systems-biology-fall-2010|Topics in Computational and Systems Biology]] — 7.89J, Fall 2010
+- [[hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005|Tumor Pathophysiology and Transport Phenomena]] — HST.525J, Fall 2005
+- [[ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010|Tools for Analysis: Design for Real Estate and Infrastructure Development]] — IDS.720J, Spring 2010
+- [[res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021|Media Literacy in the Age of Deepfakes]] — RES.CMS-001, Spring 2021
+- [[15-053-optimization-methods-in-management-science-spring-2013|Optimization Methods in Management Science]] — 15.053, Spring 2013
+- [[16-07-dynamics-fall-2009|Dynamics]] — 16.07, Fall 2009
+- [[1-054-mechanics-and-design-of-concrete-structures-spring-2004|Mechanics and Design of Concrete Structures]] — 1.054, Spring 2004
+- [[15-063-communicating-with-data-summer-2003|Communicating With Data]] — 15.063, Summer 2003
+- [[2-627-fundamentals-of-photovoltaics-fall-2013|Fundamentals of Photovoltaics]] — 2.627, Fall 2013
+- [[ec-s06-design-for-demining-spring-2007|Design for Demining]] — EC.S06, Spring 2007
+- [[mas-965-relational-machines-spring-2005|Relational Machines]] — MAS.965, Spring 2005
+- [[6-00-introduction-to-computer-science-and-programming-fall-2008|Introduction to Computer Science and Programming]] — 6.00, Fall 2008
+- [[6-820-fundamentals-of-program-analysis-fall-2015|Fundamentals of Program Analysis]] — 6.820, Fall 2015
+- [[15-565j-integrating-esystems-global-information-systems-spring-2002|Integrating eSystems & Global Information Systems]] — 15.565J, Spring 2002
+- [[3-46-photonic-materials-and-devices-spring-2006|Photonic Materials and Devices]] — 3.46, Spring 2006
+- [[4-184-architectural-design-workshops-computational-design-for-housing-spring-2002|Architectural Design Workshops: Computational Design for Housing]] — 4.184, Spring 2002
+- [[21m-380-music-and-technology-sound-design-spring-2016|Music and Technology: Sound Design]] — 21M.380, Spring 2016
+- [[es-258-goedel-escher-bach-spring-2007|Gödel, Escher, Bach]] — ES.258, Spring 2007
+- [[16-881-robust-system-design-summer-1998|Robust System Design]] — 16.881, Summer 1998
+- [[mas-863-how-to-make-almost-anything-fall-2002|How to Make (Almost) Anything]] — MAS.863, Fall 2002
+- [[17-473-the-politics-of-nuclear-proliferation-nuclear-history-strategy-and-statecraft-fall-2015|The Politics of Nuclear Proliferation: Nuclear History, Strategy, and Statecraft]] — 17.473, Fall 2015
+- [[16-400-human-factors-engineering-fall-2011|Human Factors Engineering]] — 16.400, Fall 2011
+- [[6-006-introduction-to-algorithms-spring-2020|Introduction to Algorithms]] — 6.006, Spring 2020
+- [[24-09-minds-and-machines-fall-2011|Minds and Machines]] — 24.09, Fall 2011
 - [[6-005-software-construction-spring-2016|Software Construction]] — 6.005, Spring 2016
 - [[12-510-introduction-to-seismology-spring-2010|Introduction to Seismology]] — 12.510, Spring 2010
 - [[16-885j-aircraft-systems-engineering-fall-2004|Aircraft Systems Engineering]] — 16.885J, Fall 2004

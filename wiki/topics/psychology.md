@@ -12,6 +12,7 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[24-09-minds-and-machines-fall-2011|Minds and Machines]] — 24.09, Fall 2011
 - [[9-52-b-topics-in-brain-and-cognitive-sciences-human-ethology-spring-2001|Topics in Brain and Cognitive Sciences Human Ethology]] — 9.52-B, Spring 2001
 - [[9-916-the-neural-basis-of-visual-object-recognition-in-monkeys-and-humans-spring-2005|The Neural Basis of Visual Object Recognition in Monkeys and Humans]] — 9.916, Spring 2005
 - [[15-301-managerial-psychology-laboratory-fall-2004|Managerial Psychology Laboratory]] — 15.301, Fall 2004
