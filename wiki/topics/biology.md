@@ -12,6 +12,12 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-14-brain-structure-and-its-origins-spring-2014|Brain Structure and Its Origins]] — 9.14, Spring 2014
+- [[9-01-neuroscience-and-behavior-fall-2003|Neuroscience and Behavior]] — 9.01, Fall 2003
+- [[7-29j-cellular-neurobiology-spring-2012|Cellular Neurobiology]] — 7.29J, Spring 2012
+- [[9-012-the-brain-and-cognitive-sciences-ii-spring-2006|The Brain and Cognitive Sciences II]] — 9.012, Spring 2006
+- [[20-109-laboratory-fundamentals-in-biological-engineering-spring-2010|Laboratory Fundamentals in Biological Engineering]] — 20.109, Spring 2010
+- [[7-03-genetics-fall-2004|Genetics]] — 7.03, Fall 2004
 - [[hst-131-introduction-to-neuroscience-fall-2005|Introduction to Neuroscience]] — HST.131, Fall 2005
 - [[20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004|Statistical Thermodynamics of Biomolecular Systems (BE.011J)]] — 20.011J, Spring 2004
 - [[20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004|Biomolecular Kinetics and Cellular Dynamics (BE.420J)]] — 20.420J, Fall 2004

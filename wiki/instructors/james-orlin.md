@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[15-082j-network-optimization-fall-2010|Network Optimization]]
 - [[15-053-optimization-methods-in-management-science-spring-2013|Optimization Methods in Management Science]]
 - [[15-053x-optimization-methods-in-business-analytics-summer-2021|Optimization Methods in Business Analytics]]

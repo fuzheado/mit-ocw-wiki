@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[hst-930j-social-studies-of-bioscience-and-biotech-fall-2005|Social Studies of Bioscience and Biotech]] — HST.930J, Fall 2005
+- [[20-109-laboratory-fundamentals-in-biological-engineering-spring-2010|Laboratory Fundamentals in Biological Engineering]] — 20.109, Spring 2010
 - [[20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004|Statistical Thermodynamics of Biomolecular Systems (BE.011J)]] — 20.011J, Spring 2004
 - [[20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004|Biomolecular Kinetics and Cellular Dynamics (BE.420J)]] — 20.420J, Fall 2004
 - [[hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007|Molecular Biology and Genetics in Modern Medicine]] — HST.161, Fall 2007

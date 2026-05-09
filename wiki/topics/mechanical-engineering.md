@@ -12,6 +12,14 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[12-864-inference-from-data-and-models-spring-2005|Inference from Data and Models]] — 12.864, Spring 2005
+- [[2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005|System Design and Analysis based on AD and Complexity Theories]] — 2.882, Spring 2005
+- [[2-086-numerical-computation-for-mechanical-engineers-fall-2014|Numerical Computation for Mechanical Engineers]] — 2.086, Fall 2014
+- [[res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010|Finite Element Procedures for Solids and Structures]] — RES.2-002, Spring 2010
+- [[2-086-numerical-computation-for-mechanical-engineers-fall-2012|Numerical Computation for Mechanical Engineers]] — 2.086, Fall 2012
+- [[2-51-intermediate-heat-and-mass-transfer-fall-2008|Intermediate Heat and Mass Transfer]] — 2.51, Fall 2008
+- [[2-068-computational-ocean-acoustics-13-853-spring-2003|Computational Ocean Acoustics (13.853)]] — 2.068, Spring 2003
+- [[2-75-precision-machine-design-fall-2001|Precision Machine Design]] — 2.75, Fall 2001
 - [[12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007|Turbulence in the Ocean and Atmosphere]] — 12.820, Spring 2007
 - [[22-312-engineering-of-nuclear-reactors-fall-2015|Engineering of Nuclear Reactors]] — 22.312, Fall 2015
 - [[12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006|Introduction to Fluid Motions, Sediment Transport, and Current-Generated Sedimentary Structures]] — 12.090, Fall 2006

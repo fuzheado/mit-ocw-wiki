@@ -1,0 +1,11 @@
+---
+name: "Dr. John Macomber"
+type: instructor
+courses_count: 1
+---
+
+# Dr. John Macomber
+
+## Courses Taught at MIT
+
+- [[1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003|Strategic Management in the Design and Construction Value Chain]]

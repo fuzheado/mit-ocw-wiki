@@ -10,6 +10,7 @@ courses_count: 0
 
 ## Courses
 
+- [[es-298-art-of-color-spring-2005|Art of Color]] (ES.298)
 - [[es-s71-increasing-your-physical-intelligence-enhancing-your-social-smarts-spring-2014|Increasing Your Physical Intelligence, Enhancing Your Social Smarts]] (ES.S71)
 - [[es-s41-speak-italian-with-your-mouth-full-spring-2012|Speak Italian With Your Mouth Full]] (ES.S41)
 - [[es-287-kitchen-chemistry-spring-2009|Kitchen Chemistry]] (ES.287)

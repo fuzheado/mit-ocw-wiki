@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21m-294-popular-musics-of-the-world-spring-2005|Popular Musics of the World]] — 21M.294, Spring 2005
+- [[21g-041-topics-in-south-asian-literature-and-culture-fall-2004|Topics in South Asian Literature and Culture]] — 21G.041, Fall 2004
+- [[mas-966-digital-anthropology-spring-2003|Digital Anthropology]] — MAS.966, Spring 2003
+- [[21a-360j-the-anthropology-of-sound-spring-2008|The Anthropology of Sound]] — 21A.360J, Spring 2008
+- [[21g-059-european-thought-and-culture-spring-2008|European Thought and Culture]] — 21G.059, Spring 2008
+- [[17-905-forms-of-political-participation-old-and-new-spring-2005|Forms of Political Participation: Old and New]] — 17.905, Spring 2005
 - [[21h-380j-people-and-other-animals-fall-2013|People and Other Animals]] — 21H.380J, Fall 2013
 - [[wgs-225-science-and-race-sex-and-gender-spring-2023|Science of Race, Sex, and Gender]] — WGS.225J, Spring 2023
 - [[21g-043j-introduction-to-asian-american-studies-literature-culture-and-historical-experience-fall-2013|Introduction to Asian American Studies: Literature, Culture, and Historical Experience]] — 21G.043J, Fall 2013

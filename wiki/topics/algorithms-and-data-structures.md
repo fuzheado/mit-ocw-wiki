@@ -12,6 +12,10 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[18-435j-quantum-computation-fall-2003|Quantum Computation]] — 18.435J, Fall 2003
+- [[18-409-algorithmic-aspects-of-machine-learning-spring-2015|Algorithmic Aspects of Machine Learning]] — 18.409, Spring 2015
+- [[15-082j-network-optimization-fall-2010|Network Optimization]] — 15.082J, Fall 2010
+- [[18-336-numerical-methods-for-partial-differential-equations-spring-2009|Numerical Methods for Partial Differential Equations]] — 18.336, Spring 2009
 - [[18-408-topics-in-theoretical-computer-science-probabilistically-checkable-proofs-fall-2022|Topics in Theoretical Computer Science: Probabilistically Checkable Proofs]] — 18.408, Fall 2022
 - [[6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016|Introduction to Computer Science and Programming in Python]] — 6.0001, Fall 2016
 - [[20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006|Foundations of Algorithms and Computational Techniques in Systems Biology]] — 20.482J, Spring 2006

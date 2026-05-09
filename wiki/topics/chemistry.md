@@ -12,6 +12,8 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[10-520-molecular-aspects-of-chemical-engineering-fall-2004|Molecular Aspects of Chemical Engineering]] — 10.520, Fall 2004
+- [[12-335-experimental-atmospheric-chemistry-fall-2014|Experimental Atmospheric Chemistry]] — 12.335, Fall 2014
 - [[20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004|Statistical Thermodynamics of Biomolecular Systems (BE.011J)]] — 20.011J, Spring 2004
 - [[5-62-physical-chemistry-ii-spring-2008|Physical Chemistry II]] — 5.62, Spring 2008
 - [[10-490-integrated-chemical-engineering-i-fall-2006|Integrated Chemical Engineering I]] — 10.490, Fall 2006

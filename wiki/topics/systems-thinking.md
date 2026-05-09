@@ -12,6 +12,12 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-875-applications-of-system-dynamics-spring-2004|Applications of System Dynamics]] — 15.875, Spring 2004
+- [[2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005|System Design and Analysis based on AD and Complexity Theories]] — 2.882, Spring 2005
+- [[6-079-introduction-to-convex-optimization-fall-2009|Introduction to Convex Optimization]] — 6.079, Fall 2009
+- [[15-082j-network-optimization-fall-2010|Network Optimization]] — 15.082J, Fall 2010
+- [[15-980j-organizing-for-innovative-product-development-spring-2007|Organizing for Innovative Product Development]] — 15.980J, Spring 2007
+- [[2-75-precision-machine-design-fall-2001|Precision Machine Design]] — 2.75, Fall 2001
 - [[15-879-research-seminar-in-system-dynamics-spring-2014|Research Seminar in System Dynamics]] — 15.879, Spring 2014
 - [[hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020|Global Health Informatics to Improve Quality of Care]] — HST.936x, Spring 2020
 - [[esd-342-advanced-system-architecture-spring-2006|Advanced System Architecture]] — ESD.342, Spring 2006

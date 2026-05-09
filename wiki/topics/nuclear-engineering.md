@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015|Do-It-Yourself (DIY) Geiger Counters]] — 22.S902, January IAP 2015
 - [[22-312-engineering-of-nuclear-reactors-fall-2015|Engineering of Nuclear Reactors]] — 22.312, Fall 2015
 - [[22-313j-thermal-hydraulics-in-power-technology-spring-2007|Thermal Hydraulics in Power Technology]] — 22.313J, Spring 2007
 - [[22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005|Photon and Neutron Scattering Spectroscopy and Its Applications in Condensed Matter]] — 22.903, Spring 2005

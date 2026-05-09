@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-125b-architecture-studio-building-in-landscapes-fall-2005|Architecture Studio: Building in Landscapes]] — 4.125B, Fall 2005
+- [[11-370-brownfields-policy-and-practice-fall-2005|Brownfields Policy and Practice]] — 11.370, Fall 2005
+- [[4-500-introduction-to-design-computing-fall-2008|Introduction to Design Computing]] — 4.500, Fall 2008
 - [[4-111-introduction-to-architecture-environmental-design-spring-2014|Introduction to Architecture & Environmental Design]] — 4.111, Spring 2014
 - [[4-210-precedents-in-critical-practice-fall-2012|Precedents in Critical Practice]] — 4.210, Fall 2012
 - [[4-273-introduction-to-design-inquiry-fall-2004|Introduction to Design Inquiry]] — 4.273, Fall 2004

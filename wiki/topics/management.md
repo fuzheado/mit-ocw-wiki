@@ -12,6 +12,14 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-071-the-analytics-edge-spring-2017|The Analytics Edge]] — 15.071, Spring 2017
+- [[15-676-work-employment-and-industrial-relations-theory-spring-2008|Work, Employment, and Industrial Relations Theory]] — 15.676, Spring 2008
+- [[15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016|MBA Study Tour: Innovation Islands - How New Zealand Became A Global Player in the Race to Innovate]] — 15.228, Spring 2016
+- [[15-024-applied-economics-for-managers-summer-2004|Applied Economics for Managers]] — 15.024, Summer 2004
+- [[esd-36-system-project-management-fall-2012|System Project Management]] — ESD.36, Fall 2012
+- [[15-390-new-enterprises-spring-2013|New Enterprises]] — 15.390, Spring 2013
+- [[15-311-organizational-processes-fall-2003|Organizational Processes]] — 15.311, Fall 2003
+- [[15-343-managing-transformations-in-work-organizations-and-society-spring-2002|Managing Transformations in Work, Organizations, and Society]] — 15.343, Spring 2002
 - [[15-879-research-seminar-in-system-dynamics-spring-2014|Research Seminar in System Dynamics]] — 15.879, Spring 2014
 - [[3-003-principles-of-engineering-practice-spring-2010|Principles of Engineering Practice]] — 3.003, Spring 2010
 - [[15-515-financial-accounting-fall-2003|Financial Accounting]] — 15.515, Fall 2003

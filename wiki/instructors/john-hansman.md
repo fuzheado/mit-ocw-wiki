@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[16-422-human-supervisory-control-of-automated-systems-spring-2004|Human Supervisory Control of Automated Systems]]
 - [[16-72-air-traffic-control-fall-2006|Air Traffic Control]]
 - [[16-885j-aircraft-systems-engineering-fall-2004|Aircraft Systems Engineering]]
 - [[16-886-air-transportation-systems-architecting-spring-2004|Air Transportation Systems Architecting]]

@@ -12,6 +12,7 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[hst-930j-social-studies-of-bioscience-and-biotech-fall-2005|Social Studies of Bioscience and Biotech]] (HST.930J)
 - [[hst-131-introduction-to-neuroscience-fall-2005|Introduction to Neuroscience]] (HST.131)
 - [[hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020|Global Health Informatics to Improve Quality of Care]] (HST.936x)
 - [[24-941j-the-lexicon-and-its-features-spring-2007|The Lexicon and Its Features]] (24.941J)

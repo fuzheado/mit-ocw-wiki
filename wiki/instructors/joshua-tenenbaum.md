@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[9-012-the-brain-and-cognitive-sciences-ii-spring-2006|The Brain and Cognitive Sciences II]]
 - [[9-916-a-probability-and-causality-in-human-cognition-spring-2003|Probability and Causality in Human Cognition]]
 - [[9-52-c-computational-cognitive-science-spring-2003|Computational Cognitive Science]]
 - [[9-66j-computational-cognitive-science-fall-2004|Computational Cognitive Science]]

@@ -12,6 +12,12 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[16-422-human-supervisory-control-of-automated-systems-spring-2004|Human Supervisory Control of Automated Systems]] — 16.422, Spring 2004
+- [[9-14-brain-structure-and-its-origins-spring-2014|Brain Structure and Its Origins]] — 9.14, Spring 2014
+- [[9-01-neuroscience-and-behavior-fall-2003|Neuroscience and Behavior]] — 9.01, Fall 2003
+- [[7-29j-cellular-neurobiology-spring-2012|Cellular Neurobiology]] — 7.29J, Spring 2012
+- [[9-012-the-brain-and-cognitive-sciences-ii-spring-2006|The Brain and Cognitive Sciences II]] — 9.012, Spring 2006
+- [[mas-962-common-sense-reasoning-for-interactive-applications-fall-2006|Common Sense Reasoning for Interactive Applications]] — MAS.962, Fall 2006
 - [[24-941j-the-lexicon-and-its-features-spring-2007|The Lexicon and Its Features]] — 24.941J, Spring 2007
 - [[9-520-statistical-learning-theory-and-applications-spring-2006|Statistical Learning Theory and Applications]] — 9.520, Spring 2006
 - [[21l-448j-darwin-and-design-fall-2003|Darwin and Design]] — 21L.448J, Fall 2003

@@ -12,6 +12,7 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[mas-962-special-topics-in-media-technology-computational-semantics-fall-2002|Special Topics in Media Technology: Computational Semantics]] — MAS.962, Fall 2002
 - [[24-941j-the-lexicon-and-its-features-spring-2007|The Lexicon and Its Features]] — 24.941J, Spring 2007
 - [[24-901-language-and-its-structure-i-phonology-fall-2010|Language and Its Structure I: Phonology]] — 24.901, Fall 2010
 - [[24-961-introduction-to-phonology-fall-2014|Introduction to Phonology]] — 24.961, Fall 2014

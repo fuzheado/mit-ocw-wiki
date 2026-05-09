@@ -12,6 +12,16 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[16-422-human-supervisory-control-of-automated-systems-spring-2004|Human Supervisory Control of Automated Systems]] — 16.422, Spring 2004
+- [[6-111-introductory-digital-systems-laboratory-spring-2006|Introductory Digital Systems Laboratory]] — 6.111, Spring 2006
+- [[6-163-strobe-project-laboratory-fall-2005|Strobe Project Laboratory]] — 6.163, Fall 2005
+- [[6-331-advanced-circuit-techniques-spring-2002|Advanced Circuit Techniques]] — 6.331, Spring 2002
+- [[6-441-information-theory-spring-2010|Information Theory]] — 6.441, Spring 2010
+- [[6-801-machine-vision-fall-2004|Machine Vision]] — 6.801, Fall 2004
+- [[6-691-seminar-in-electric-power-systems-spring-2006|Seminar in Electric Power Systems]] — 6.691, Spring 2006
+- [[6-079-introduction-to-convex-optimization-fall-2009|Introduction to Convex Optimization]] — 6.079, Fall 2009
+- [[mas-160-signals-systems-and-information-for-media-technology-fall-2007|Signals, Systems and Information for Media Technology]] — MAS.160, Fall 2007
+- [[22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015|Do-It-Yourself (DIY) Geiger Counters]] — 22.S902, January IAP 2015
 - [[3-003-principles-of-engineering-practice-spring-2010|Principles of Engineering Practice]] — 3.003, Spring 2010
 - [[6-974-fundamentals-of-photonics-quantum-electronics-spring-2006|Fundamentals of Photonics: Quantum Electronics]] — 6.974, Spring 2006
 - [[6-012-microelectronic-devices-and-circuits-spring-2009|Microelectronic Devices and Circuits]] — 6.012, Spring 2009

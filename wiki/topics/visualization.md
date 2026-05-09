@@ -2,6 +2,7 @@
 
 ## Courses
 
+- [[4-500-introduction-to-design-computing-fall-2008|Introduction to Design Computing]] — 4.500, Fall 2008
 - [[6-801-machine-vision-fall-2020|Machine Vision]] — 6.801, Fall 2020
 - [[9-357-special-topics-in-vision-science-fall-2001|Special Topics in Vision Science]] — 9.357, Fall 2001
 - [[6-837-computer-graphics-fall-2012|Computer Graphics]] — 6.837, Fall 2012

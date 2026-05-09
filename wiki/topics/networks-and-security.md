@@ -12,6 +12,9 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[18-435j-quantum-computation-fall-2003|Quantum Computation]] — 18.435J, Fall 2003
+- [[6-857-network-and-computer-security-spring-2014|Network and Computer Security]] — 6.857, Spring 2014
+- [[15-082j-network-optimization-fall-2010|Network Optimization]] — 15.082J, Fall 2010
 - [[18-s191-introduction-to-computational-thinking-fall-2020|Introduction to Computational Thinking]] — 18.S191, Fall 2020
 - [[6-824-distributed-computer-systems-engineering-spring-2006|Distributed Computer Systems Engineering]] — 6.824, Spring 2006
 - [[6-897-selected-topics-in-cryptography-spring-2004|Selected Topics in Cryptography]] — 6.897, Spring 2004

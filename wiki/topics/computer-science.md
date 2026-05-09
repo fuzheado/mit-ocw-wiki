@@ -12,6 +12,21 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[16-422-human-supervisory-control-of-automated-systems-spring-2004|Human Supervisory Control of Automated Systems]] — 16.422, Spring 2004
+- [[6-111-introductory-digital-systems-laboratory-spring-2006|Introductory Digital Systems Laboratory]] — 6.111, Spring 2006
+- [[6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005|Building Programming Experience: A Lead-In to 6.001]] — 6.090, January IAP 2005
+- [[18-435j-quantum-computation-fall-2003|Quantum Computation]] — 18.435J, Fall 2003
+- [[6-441-information-theory-spring-2010|Information Theory]] — 6.441, Spring 2010
+- [[2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005|System Design and Analysis based on AD and Complexity Theories]] — 2.882, Spring 2005
+- [[18-409-algorithmic-aspects-of-machine-learning-spring-2015|Algorithmic Aspects of Machine Learning]] — 18.409, Spring 2015
+- [[4-500-introduction-to-design-computing-fall-2008|Introduction to Design Computing]] — 4.500, Fall 2008
+- [[6-801-machine-vision-fall-2004|Machine Vision]] — 6.801, Fall 2004
+- [[6-857-network-and-computer-security-spring-2014|Network and Computer Security]] — 6.857, Spring 2014
+- [[2-086-numerical-computation-for-mechanical-engineers-fall-2014|Numerical Computation for Mechanical Engineers]] — 2.086, Fall 2014
+- [[mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003|Special Topics in Media Technology: Cooperative Machines]] — MAS.965, Fall 2003
+- [[15-082j-network-optimization-fall-2010|Network Optimization]] — 15.082J, Fall 2010
+- [[18-336-numerical-methods-for-partial-differential-equations-spring-2009|Numerical Methods for Partial Differential Equations]] — 18.336, Spring 2009
+- [[mas-962-common-sense-reasoning-for-interactive-applications-fall-2006|Common Sense Reasoning for Interactive Applications]] — MAS.962, Fall 2006
 - [[6-801-machine-vision-fall-2020|Machine Vision]] — 6.801, Fall 2020
 - [[hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020|Global Health Informatics to Improve Quality of Care]] — HST.936x, Spring 2020
 - [[6-012-microelectronic-devices-and-circuits-spring-2009|Microelectronic Devices and Circuits]] — 6.012, Spring 2009

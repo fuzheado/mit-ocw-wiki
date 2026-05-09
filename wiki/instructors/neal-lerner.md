@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[20-109-laboratory-fundamentals-in-biological-engineering-spring-2010|Laboratory Fundamentals in Biological Engineering]]
 - [[20-109-laboratory-fundamentals-in-biological-engineering-fall-2007|Laboratory Fundamentals in Biological Engineering]]
 - [[7-02ci-experimental-biology-communications-intensive-spring-2005|Experimental Biology - Communications Intensive]]

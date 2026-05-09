@@ -1,0 +1,51 @@
+---
+url: "https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/"
+course_id: "2.51"
+title: "Intermediate Heat and Mass Transfer"
+year_published: 2008
+instructors: ["Prof. Bora Mikic"]
+level: ["undergraduate"]
+department: "2"
+topics: ["Physics", "Mechanical Engineering", "Engineering", "Science & Math"]
+license: "CC BY-NC-SA"
+views: 527
+completeness: 0.0
+last_modified: "2026-05-06T16:58:23Z"
+type: "course"
+---
+
+# Intermediate Heat and Mass Transfer
+
+2.51 is a 12-unit subject, serving as the Mechanical Engineering Department’s advanced undergraduate course in heat and mass transfer. The prerequisites for this course are the undergraduate courses in thermodynamics and fluid mechanics, specifically Thermal Fluids Engineering I and Thermal Fluids Engineering II or their equivalents. This course covers problems of heat and mass transfer in greater depth and complexity than is done in those courses and incorporates many subjects that are not included or are treated lightly in those courses; analysis is given greater emphasis than the use of correlations. Course 2.51 is directed at undergraduates having a strong interest in thermal science and graduate students who have not previously studied heat transfer.
+
+## Course Info
+
+- **Department:** [[2|Mechanical Engineering]]
+- **Course Number:** 2.51
+- **Instructors:** [[bora-mikic|Prof. Bora Mikic]]
+- **Year:** 2008
+- **Level:** Undergraduate
+- **Topics:** [[physics|Physics]], [[mechanical-engineering|Mechanical Engineering]], [[engineering|Engineering]], [[science-math|Science & Math]]
+- **License:** CC BY-NC-SA
+
+## Materials
+
+- [Open Textbooks] Open Textbooks
+
+## Wikipedia Bridge
+
+### Related Articles
+
+TBD — crossref not yet run.
+
+### Citation Template
+
+```wikitext
+{{cite web
+ |url=https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/
+ |title=Intermediate Heat and Mass Transfer
+ |author=Prof. Bora Mikic
+ |website=MIT OpenCourseWare
+ |access-date=2026-05-09
+}}
+```

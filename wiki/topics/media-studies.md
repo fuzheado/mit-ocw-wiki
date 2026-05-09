@@ -12,6 +12,15 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[cms-407-media-and-methods-sound-fall-2012|Media and Methods: Sound]] — CMS.407, Fall 2012
+- [[21l-012-forms-of-western-narrative-spring-2004|Forms of Western Narrative]] — 21L.012, Spring 2004
+- [[21g-041-topics-in-south-asian-literature-and-culture-fall-2004|Topics in South Asian Literature and Culture]] — 21G.041, Fall 2004
+- [[mas-966-digital-anthropology-spring-2003|Digital Anthropology]] — MAS.966, Spring 2003
+- [[mas-962-special-topics-in-media-technology-computational-semantics-fall-2002|Special Topics in Media Technology: Computational Semantics]] — MAS.962, Fall 2002
+- [[mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003|Special Topics in Media Technology: Cooperative Machines]] — MAS.965, Fall 2003
+- [[21a-360j-the-anthropology-of-sound-spring-2008|The Anthropology of Sound]] — 21A.360J, Spring 2008
+- [[mas-160-signals-systems-and-information-for-media-technology-fall-2007|Signals, Systems and Information for Media Technology]] — MAS.160, Fall 2007
+- [[mas-962-common-sense-reasoning-for-interactive-applications-fall-2006|Common Sense Reasoning for Interactive Applications]] — MAS.962, Fall 2006
 - [[4-s33-unmanageability-pathless-realities-and-approaches-spring-2015|Unmanageability: Pathless Realities and Approaches]] — 4.S33, Spring 2015
 - [[21h-418-from-print-to-digital-technologies-of-the-word-1450-present-fall-2005|From Print to Digital: Technologies of the Word, 1450-Present]] — 21H.418, Fall 2005
 - [[21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011|Germany Today: Intensive Study of German Language and Culture]] — 21G.405, January IAP 2011

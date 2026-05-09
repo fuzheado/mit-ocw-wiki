@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[7-03-genetics-fall-2004|Genetics]]
 - [[7-014-introductory-biology-spring-2005|Introductory Biology]]

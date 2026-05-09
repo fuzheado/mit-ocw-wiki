@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-111-introductory-digital-systems-laboratory-spring-2006|Introductory Digital Systems Laboratory]] — 6.111, Spring 2006
+- [[6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005|Building Programming Experience: A Lead-In to 6.001]] — 6.090, January IAP 2005
 - [[hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020|Global Health Informatics to Improve Quality of Care]] — HST.936x, Spring 2020
 - [[6-012-microelectronic-devices-and-circuits-spring-2009|Microelectronic Devices and Circuits]] — 6.012, Spring 2009
 - [[6-871-knowledge-based-applications-systems-spring-2005|Knowledge-Based Applications Systems]] — 6.871, Spring 2005

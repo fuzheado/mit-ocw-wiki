@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[8-901-astrophysics-i-spring-2006|Astrophysics I]]
 - [[8-01sc-classical-mechanics-fall-2016|Classical Mechanics]]

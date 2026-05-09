@@ -12,6 +12,7 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[res-tll-005-how-to-speak-january-iap-2018|How to Speak]] — RES.TLL-005, January IAP 2018
 - [[5-95j-teaching-college-level-science-and-engineering-fall-2015|Teaching College-Level Science and Engineering]] — 5.95J, Fall 2015
 - [[ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016|Visualization for Mathematics, Science, and Technology Education]] — EC.210, Spring 2016
 - [[cms-594-education-technology-studio-spring-2019|Education Technology Studio]] — CMS.594, Spring 2019

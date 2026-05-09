@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[2-75-precision-machine-design-fall-2001|Precision Machine Design]]
 - [[pe-920-pe-for-me-spring-2005|PE for ME]]
 - [[2-971-2nd-summer-introduction-to-design-january-iap-2003|2nd Summer Introduction to Design]]
 - [[2-993-designing-paths-to-peace-fall-2002|Designing Paths to Peace]]

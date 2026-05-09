@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-125b-architecture-studio-building-in-landscapes-fall-2005|Architecture Studio: Building in Landscapes]] — 4.125B, Fall 2005
+- [[11-370-brownfields-policy-and-practice-fall-2005|Brownfields Policy and Practice]] — 11.370, Fall 2005
 - [[4-111-introduction-to-architecture-environmental-design-spring-2014|Introduction to Architecture & Environmental Design]] — 4.111, Spring 2014
 - [[11-952-gaoming-studio-china-spring-2005|Gaoming Studio - China]] — 11.952, Spring 2005
 - [[4-401-environmental-technologies-in-buildings-fall-2018|Environmental Technologies in Buildings]] — 4.401, Fall 2018

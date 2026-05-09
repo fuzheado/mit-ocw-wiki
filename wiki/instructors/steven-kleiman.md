@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[18-705-commutative-algebra-fall-2008|Commutative Algebra]]
 - [[18-704-seminar-in-algebra-and-number-theory-computational-commutative-algebra-and-algebraic-geometry-fall-2008|Seminar in Algebra and Number Theory: Computational Commutative Algebra and Algebraic Geometry]]

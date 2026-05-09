@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-500-desalination-and-water-purification-spring-2009|Desalination and Water Purification]] — 2.500, Spring 2009
+- [[2-068-computational-ocean-acoustics-13-853-spring-2003|Computational Ocean Acoustics (13.853)]] — 2.068, Spring 2003
 - [[12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007|Turbulence in the Ocean and Atmosphere]] — 12.820, Spring 2007
 - [[12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006|Introduction to Fluid Motions, Sediment Transport, and Current-Generated Sedimentary Structures]] — 12.090, Fall 2006
 - [[2-27-turbulent-flow-and-transport-spring-2002|Turbulent Flow and Transport]] — 2.27, Spring 2002

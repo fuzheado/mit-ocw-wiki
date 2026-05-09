@@ -12,6 +12,12 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[sts-460-histories-of-information-communication-and-computing-technologies-spring-2015|Histories of Information, Communication, and Computing Technologies]] (STS.460)
+- [[sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020|Einstein, Oppenheimer, Feynman: Physics in the 20th Century]] (STS.042J)
+- [[hst-930j-social-studies-of-bioscience-and-biotech-fall-2005|Social Studies of Bioscience and Biotech]] (HST.930J)
+- [[sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013|History and Anthropology of Medicine and Biology]] (STS.330)
+- [[21h-952j-readings-in-american-history-since-1877-fall-2003|Readings in American History Since 1877]] (21H.952J)
+- [[21a-360j-the-anthropology-of-sound-spring-2008|The Anthropology of Sound]] (21A.360J)
 - [[wgs-225-science-and-race-sex-and-gender-spring-2023|Science of Race, Sex, and Gender]] (WGS.225J)
 - [[hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010|Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies]] (HST.934J)
 - [[6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005|Ethics and the Law on the Electronic Frontier]] (6.805)

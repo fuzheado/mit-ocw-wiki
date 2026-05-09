@@ -12,6 +12,9 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[2-500-desalination-and-water-purification-spring-2009|Desalination and Water Purification]] — 2.500, Spring 2009
+- [[6-691-seminar-in-electric-power-systems-spring-2006|Seminar in Electric Power Systems]] — 6.691, Spring 2006
+- [[22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015|Do-It-Yourself (DIY) Geiger Counters]] — 22.S902, January IAP 2015
 - [[res-2-008-thermodynamics-and-climate-change-summer-2020|Thermodynamics and Climate Change]] — RES.2-008, Summer 2022
 - [[22-313j-thermal-hydraulics-in-power-technology-spring-2007|Thermal Hydraulics in Power Technology]] — 22.313J, Spring 2007
 - [[8-21-the-physics-of-energy-fall-2009|The Physics of Energy]] — 8.21, Fall 2009

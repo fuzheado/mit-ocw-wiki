@@ -12,6 +12,10 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003|Strategic Management in the Design and Construction Value Chain]] — 1.46, Fall 2003
+- [[15-071-the-analytics-edge-spring-2017|The Analytics Edge]] — 15.071, Spring 2017
+- [[15-875-applications-of-system-dynamics-spring-2004|Applications of System Dynamics]] — 15.875, Spring 2004
+- [[esd-273j-logistics-and-supply-chain-management-fall-2009|Logistics and Supply Chain Management]] — ESD.273J, Fall 2009
 - [[15-879-research-seminar-in-system-dynamics-spring-2014|Research Seminar in System Dynamics]] — 15.879, Spring 2014
 - [[esd-260j-logistics-systems-fall-2006|Logistics Systems]] — ESD.260J, Fall 2006
 - [[15-764-the-theory-of-operations-management-spring-2004|The Theory of Operations Management]] — 15.764, Spring 2004

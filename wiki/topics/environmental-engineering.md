@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-500-desalination-and-water-purification-spring-2009|Desalination and Water Purification]] — 2.500, Spring 2009
+- [[11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003|Use of Joint Fact Finding in Science Intensive Policy Disputes, Part I]] — 11.941, Fall 2003
+- [[1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006|Introduction to Civil and Environmental Engineering Design I]] — 1.101, Fall 2006
+- [[11-382-water-diplomacy-spring-2021|Water Diplomacy]] — 11.382, Spring 2021
 - [[11-s196-global-freshwater-crisis-spring-2011|Global Freshwater Crisis]] — 11.S196, Spring 2011
 - [[1-017-computing-and-data-analysis-for-environmental-applications-fall-2003|Computing and Data Analysis for Environmental Applications]] — 1.017, Fall 2003
 - [[11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004|Use of Joint Fact Finding in Science Intensive Policy Disputes, Part II]] — 11.942, Spring 2004

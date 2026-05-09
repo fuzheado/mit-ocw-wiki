@@ -20,6 +20,27 @@ courses_count: 0
 
 ## Courses
 
+- [[21w-031-science-writing-and-new-media-explorations-in-communicating-about-science-technology-spring-2017|Science Writing and New Media: Explorations in Communicating about Science & Technology]] — 21W.031, Spring 2017
+- [[sts-460-histories-of-information-communication-and-computing-technologies-spring-2015|Histories of Information, Communication, and Computing Technologies]] — STS.460, Spring 2015
+- [[24-264-film-as-visual-and-literary-mythmaking-fall-2005|Film as Visual and Literary Mythmaking]] — 24.264, Fall 2005
+- [[sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020|Einstein, Oppenheimer, Feynman: Physics in the 20th Century]] — STS.042J, Fall 2020
+- [[17-581-riots-rebellions-revolutions-spring-2013|Riots, Rebellions, Revolutions]] — 17.581, Spring 2013
+- [[21m-294-popular-musics-of-the-world-spring-2005|Popular Musics of the World]] — 21M.294, Spring 2005
+- [[21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010|Foundations of Western Culture: The Making of the Modern World ]] — 21L.002, Spring 2010
+- [[cms-407-media-and-methods-sound-fall-2012|Media and Methods: Sound]] — CMS.407, Fall 2012
+- [[21h-411-history-of-western-thought-500-1300-fall-2004|History of Western Thought, 500-1300]] — 21H.411, Fall 2004
+- [[sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013|History and Anthropology of Medicine and Biology]] — STS.330, Spring 2013
+- [[21l-012-forms-of-western-narrative-spring-2004|Forms of Western Narrative]] — 21L.012, Spring 2004
+- [[21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003|English Renaissance Drama: Theatre and Society in the Age of Shakespeare]] — 21L.703, Fall 2003
+- [[21g-017-germany-and-its-european-context-fall-2002|Germany and its European Context]] — 21G.017, Fall 2002
+- [[21g-041-topics-in-south-asian-literature-and-culture-fall-2004|Topics in South Asian Literature and Culture]] — 21G.041, Fall 2004
+- [[mas-962-special-topics-in-media-technology-computational-semantics-fall-2002|Special Topics in Media Technology: Computational Semantics]] — MAS.962, Fall 2002
+- [[21h-952j-readings-in-american-history-since-1877-fall-2003|Readings in American History Since 1877]] — 21H.952J, Fall 2003
+- [[16-891j-space-policy-seminar-spring-2003|Space Policy Seminar]] — 16.891J, Spring 2003
+- [[21a-360j-the-anthropology-of-sound-spring-2008|The Anthropology of Sound]] — 21A.360J, Spring 2008
+- [[21h-001-how-to-stage-a-revolution-fall-2013|How to Stage a Revolution]] — 21H.001, Fall 2013
+- [[21g-059-european-thought-and-culture-spring-2008|European Thought and Culture]] — 21G.059, Spring 2008
+- [[17-524-nationalism-fall-2004|Nationalism]] — 17.524, Fall 2004
 - [[21g-820-the-beat-of-brazil-brazilian-society-through-its-music-fall-2016|The Beat of Brazil: Brazilian Society Through Its Music]] — 21G.820, Fall 2016
 - [[4-s33-unmanageability-pathless-realities-and-approaches-spring-2015|Unmanageability: Pathless Realities and Approaches]] — 4.S33, Spring 2015
 - [[21l-006-american-literature-spring-2013|American Literature]] — 21L.006, Spring 2013

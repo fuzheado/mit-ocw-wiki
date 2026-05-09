@@ -12,6 +12,8 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21w-031-science-writing-and-new-media-explorations-in-communicating-about-science-technology-spring-2017|Science Writing and New Media: Explorations in Communicating about Science & Technology]] (21W.031)
+- [[cms-407-media-and-methods-sound-fall-2012|Media and Methods: Sound]] (CMS.407)
 - [[21w-747-rhetoric-spring-2005|Rhetoric]] (21W.747)
 - [[cms-631-data-storytelling-studio-climate-change-spring-2017|Data Storytelling Studio: Climate Change]] (CMS.631)
 - [[cms-362-civic-media-codesign-studio-spring-2016|Civic Media Codesign Studio]] (CMS.362)

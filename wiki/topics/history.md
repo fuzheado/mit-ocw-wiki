@@ -12,6 +12,16 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[sts-460-histories-of-information-communication-and-computing-technologies-spring-2015|Histories of Information, Communication, and Computing Technologies]] — STS.460, Spring 2015
+- [[sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020|Einstein, Oppenheimer, Feynman: Physics in the 20th Century]] — STS.042J, Fall 2020
+- [[17-581-riots-rebellions-revolutions-spring-2013|Riots, Rebellions, Revolutions]] — 17.581, Spring 2013
+- [[21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010|Foundations of Western Culture: The Making of the Modern World ]] — 21L.002, Spring 2010
+- [[21h-411-history-of-western-thought-500-1300-fall-2004|History of Western Thought, 500-1300]] — 21H.411, Fall 2004
+- [[sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013|History and Anthropology of Medicine and Biology]] — STS.330, Spring 2013
+- [[21h-952j-readings-in-american-history-since-1877-fall-2003|Readings in American History Since 1877]] — 21H.952J, Fall 2003
+- [[16-891j-space-policy-seminar-spring-2003|Space Policy Seminar]] — 16.891J, Spring 2003
+- [[21h-001-how-to-stage-a-revolution-fall-2013|How to Stage a Revolution]] — 21H.001, Fall 2013
+- [[21g-059-european-thought-and-culture-spring-2008|European Thought and Culture]] — 21G.059, Spring 2008
 - [[21g-820-the-beat-of-brazil-brazilian-society-through-its-music-fall-2016|The Beat of Brazil: Brazilian Society Through Its Music]] — 21G.820, Fall 2016
 - [[4-s33-unmanageability-pathless-realities-and-approaches-spring-2015|Unmanageability: Pathless Realities and Approaches]] — 4.S33, Spring 2015
 - [[21h-380j-people-and-other-animals-fall-2013|People and Other Animals]] — 21H.380J, Fall 2013

@@ -12,6 +12,7 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21h-411-history-of-western-thought-500-1300-fall-2004|History of Western Thought, 500-1300]] — 21H.411, Fall 2004
 - [[21l-458-the-bible-spring-2007|The Bible]] — 21L.458, Spring 2007
 - [[24-00-problems-of-philosophy-fall-2019|Problems of Philosophy]] — 24.00, Fall 2019
 - [[21a-212-myth-ritual-and-symbolism-spring-2004|Myth, Ritual, and Symbolism]] — 21A.212, Spring 2004

@@ -12,6 +12,8 @@ Part of: [[innovation-and-entrepreneurship|Innovation & Entrepreneurship]]
 
 ## Courses
 
+- [[15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016|MBA Study Tour: Innovation Islands - How New Zealand Became A Global Player in the Race to Innovate]] — 15.228, Spring 2016
+- [[15-390-new-enterprises-spring-2013|New Enterprises]] — 15.390, Spring 2013
 - [[15-395-entrepreneurship-without-borders-fall-2016|Entrepreneurship Without Borders]] — 15.395, Fall 2016
 - [[2-96-management-in-engineering-fall-2012|Management in Engineering]] — 2.96, Fall 2012
 - [[6-901-inventions-and-patents-fall-2005|Inventions and Patents]] — 6.901, Fall 2005

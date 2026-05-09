@@ -8,6 +8,8 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013|History and Anthropology of Medicine and Biology]]
+- [[21a-360j-the-anthropology-of-sound-spring-2008|The Anthropology of Sound]]
 - [[wgs-225-science-and-race-sex-and-gender-spring-2023|Science of Race, Sex, and Gender]]
 - [[21a-270-anthropology-through-speculative-fiction-fall-2009|Anthropology Through Speculative Fiction]]
 - [[21a-859j-social-theory-and-analysis-spring-2021|Social Theory and Analysis]]

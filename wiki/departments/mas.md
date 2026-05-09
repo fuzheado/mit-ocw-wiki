@@ -12,6 +12,11 @@ School: [[school-architecture-planning|School of Architecture and Planning]]
 
 ## Courses
 
+- [[mas-966-digital-anthropology-spring-2003|Digital Anthropology]] (MAS.966)
+- [[mas-962-special-topics-in-media-technology-computational-semantics-fall-2002|Special Topics in Media Technology: Computational Semantics]] (MAS.962)
+- [[mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003|Special Topics in Media Technology: Cooperative Machines]] (MAS.965)
+- [[mas-160-signals-systems-and-information-for-media-technology-fall-2007|Signals, Systems and Information for Media Technology]] (MAS.160)
+- [[mas-962-common-sense-reasoning-for-interactive-applications-fall-2006|Common Sense Reasoning for Interactive Applications]] (MAS.962)
 - [[mas-s63-engineering-health-towards-the-tricorder-fall-2013|Engineering Health: Towards the Tricorder]] (MAS.S63)
 - [[cms-631-data-storytelling-studio-climate-change-spring-2017|Data Storytelling Studio: Climate Change]] (CMS.631)
 - [[mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015|Indistinguishable From... Magic as Interface, Technology, and Tradition]] (MAS.S66)

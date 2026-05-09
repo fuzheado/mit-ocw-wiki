@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-801-machine-vision-fall-2004|Machine Vision]] — 6.801, Fall 2004
+- [[mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003|Special Topics in Media Technology: Cooperative Machines]] — MAS.965, Fall 2003
 - [[6-801-machine-vision-fall-2020|Machine Vision]] — 6.801, Fall 2020
 - [[6-871-knowledge-based-applications-systems-spring-2005|Knowledge-Based Applications Systems]] — 6.871, Spring 2005
 - [[6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011|Introduction to Electrical Engineering and Computer Science I]] — 6.01SC, Spring 2011

@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013|History and Anthropology of Medicine and Biology]]
 - [[hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010|Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies]]
 - [[24-06j-bioethics-spring-2009|Bioethics]]

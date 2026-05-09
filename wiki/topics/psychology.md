@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[9-01-neuroscience-and-behavior-fall-2003|Neuroscience and Behavior]] — 9.01, Fall 2003
+- [[9-012-the-brain-and-cognitive-sciences-ii-spring-2006|The Brain and Cognitive Sciences II]] — 9.012, Spring 2006
 - [[15-316-building-and-leading-effective-teams-summer-2005|Building and Leading Effective Teams]] — 15.316, Summer 2005
 - [[mas-961-seminar-on-deep-engagement-fall-2004|Seminar on Deep Engagement]] — MAS.961, Fall 2004
 - [[24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004|Feeling and Imagination in Art, Science, and Technology]] — 24.262, Spring 2004

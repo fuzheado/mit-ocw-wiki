@@ -12,6 +12,7 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[21m-294-popular-musics-of-the-world-spring-2005|Popular Musics of the World]] — 21M.294, Spring 2005
 - [[15-810-marketing-management-fall-2004|Marketing Management]] — 15.810, Fall 2004
 - [[15-840-special-seminar-in-marketing-marketing-management-spring-2004|Special Seminar in Marketing: Marketing Management]] — 15.840, Spring 2004
 - [[15-351-managing-innovation-and-entrepreneurship-spring-2008|Managing Innovation and Entrepreneurship]] — 15.351, Spring 2008

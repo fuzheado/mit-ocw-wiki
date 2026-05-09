@@ -6,17 +6,17 @@ year_published: 2017
 instructors: ["Prof. Dimitris Bertsimas"]
 level: ["graduate"]
 department: "15"
-topics: ["Business & Management", "Operations", "Management", "Science & Math", "Mathematics"]
+topics: ["Management", "Operations", "Mathematics", "Business & Management", "Science & Math"]
 license: "CC BY-NC-SA"
 views: 768
-completeness: Unknown
+completeness: 0.8
 last_modified: "2026-05-06T17:11:32Z"
-type: course
+type: "course"
 ---
 
 # The Analytics Edge
 
-This course presents real-world examples in which quantitative methods provide a significant competitive edge that has led to a first order impact on some of today's most important companies. We outline the competitive landscape and present the key quantitative methods that created the edge (data-mining, dynamic optimization, simulation), and discuss their impact.
+This course presents real-world examples in which quantitative methods provide a significant competitive edge that has led to a first order impact on some of today’s most important companies. We outline the competitive landscape and present the key quantitative methods that created the edge (data-mining, dynamic optimization, simulation), and discuss their impact.
 
 ## Course Info
 
@@ -25,14 +25,15 @@ This course presents real-world examples in which quantitative methods provide a
 - **Instructors:** [[dimitris-bertsimas|Prof. Dimitris Bertsimas]]
 - **Year:** 2017
 - **Level:** Graduate
-- **Topics:** [[business-and-management|Business & Management]], [[operations|Operations]], [[mathematics|Mathematics]]
+- **Topics:** [[management|Management]], [[operations|Operations]], [[mathematics|Mathematics]], [[business-management|Business & Management]], [[science-math|Science & Math]]
 - **License:** CC BY-NC-SA
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-- [Video-Transcript] Lecture videos
-- [Problem-Set] Problem sets with solutions
+- [Lecture Notes] Lecture Notes
+- [Lecture Videos] Lecture Videos
+- [Problem Set Solutions] Problem Set Solutions
+- [Problem Sets] Problem Sets
 
 ## Wikipedia Bridge
 

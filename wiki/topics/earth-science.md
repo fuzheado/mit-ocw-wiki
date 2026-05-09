@@ -12,6 +12,11 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[2-500-desalination-and-water-purification-spring-2009|Desalination and Water Purification]] — 2.500, Spring 2009
+- [[14-42-environmental-policy-and-economics-spring-2011|Environmental Policy and Economics]] — 14.42, Spring 2011
+- [[12-335-experimental-atmospheric-chemistry-fall-2014|Experimental Atmospheric Chemistry]] — 12.335, Fall 2014
+- [[12-472-building-earth-like-planets-from-nebular-gas-to-ocean-worlds-fall-2008|Building Earth-like Planets: From Nebular Gas to Ocean Worlds]] — 12.472, Fall 2008
+- [[2-068-computational-ocean-acoustics-13-853-spring-2003|Computational Ocean Acoustics (13.853)]] — 2.068, Spring 2003
 - [[12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007|Turbulence in the Ocean and Atmosphere]] — 12.820, Spring 2007
 - [[12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006|Introduction to Fluid Motions, Sediment Transport, and Current-Generated Sedimentary Structures]] — 12.090, Fall 2006
 - [[res-2-008-thermodynamics-and-climate-change-summer-2020|Thermodynamics and Climate Change]] — RES.2-008, Summer 2022

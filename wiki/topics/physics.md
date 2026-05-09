@@ -12,6 +12,19 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-864-inference-from-data-and-models-spring-2005|Inference from Data and Models]] — 12.864, Spring 2005
+- [[6-163-strobe-project-laboratory-fall-2005|Strobe Project Laboratory]] — 6.163, Fall 2005
+- [[sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020|Einstein, Oppenheimer, Feynman: Physics in the 20th Century]] — STS.042J, Fall 2020
+- [[18-435j-quantum-computation-fall-2003|Quantum Computation]] — 18.435J, Fall 2003
+- [[8-321-quantum-theory-i-fall-2017|Quantum Theory I]] — 8.321, Fall 2017
+- [[8-901-astrophysics-i-spring-2006|Astrophysics I]] — 8.901, Spring 2006
+- [[12-472-building-earth-like-planets-from-nebular-gas-to-ocean-worlds-fall-2008|Building Earth-like Planets: From Nebular Gas to Ocean Worlds]] — 12.472, Fall 2008
+- [[6-641-electromagnetic-fields-forces-and-motion-spring-2009|Electromagnetic Fields, Forces, and Motion]] — 6.641, Spring 2009
+- [[8-322-quantum-theory-ii-spring-2003|Quantum Theory II]] — 8.322, Spring 2003
+- [[8-942-cosmology-fall-2001|Cosmology]] — 8.942, Fall 2001
+- [[2-51-intermediate-heat-and-mass-transfer-fall-2008|Intermediate Heat and Mass Transfer]] — 2.51, Fall 2008
+- [[22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015|Do-It-Yourself (DIY) Geiger Counters]] — 22.S902, January IAP 2015
+- [[2-068-computational-ocean-acoustics-13-853-spring-2003|Computational Ocean Acoustics (13.853)]] — 2.068, Spring 2003
 - [[8-09-classical-mechanics-iii-fall-2014|Classical Mechanics III]] — 8.09, Fall 2014
 - [[20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004|Statistical Thermodynamics of Biomolecular Systems (BE.011J)]] — 20.011J, Spring 2004
 - [[5-62-physical-chemistry-ii-spring-2008|Physical Chemistry II]] — 5.62, Spring 2008

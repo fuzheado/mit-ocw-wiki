@@ -12,6 +12,7 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[hst-930j-social-studies-of-bioscience-and-biotech-fall-2005|Social Studies of Bioscience and Biotech]] — HST.930J, Fall 2005
 - [[mas-s63-engineering-health-towards-the-tricorder-fall-2013|Engineering Health: Towards the Tricorder]] — MAS.S63, Fall 2013
 - [[hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007|Molecular Biology and Genetics in Modern Medicine]] — HST.161, Fall 2007
 - [[hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010|Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies]] — HST.934J, Spring 2010

@@ -12,6 +12,8 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[res-tll-005-how-to-speak-january-iap-2018|How to Speak]] — RES.TLL-005, January IAP 2018
+- [[res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009|The Torch or The Firehose: A Guide to Section Teaching]] — RES.18-004, Spring 2009
 - [[16-a47-the-engineer-of-2020-fall-2009|The Engineer of 2020]] — 16.A47, Fall 2009
 - [[5-95j-teaching-college-level-science-and-engineering-fall-2015|Teaching College-Level Science and Engineering]] — 5.95J, Fall 2015
 - [[11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001|Power of Place: Media Technology, Youth, and City Design and Development]] — 11.948, Spring 2001

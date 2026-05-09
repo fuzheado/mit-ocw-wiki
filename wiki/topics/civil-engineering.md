@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003|Strategic Management in the Design and Construction Value Chain]] — 1.46, Fall 2003
+- [[1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006|Introduction to Civil and Environmental Engineering Design I]] — 1.101, Fall 2006
 - [[1-151-probability-and-statistics-in-engineering-spring-2005|Probability and Statistics in Engineering]] — 1.151, Spring 2005
 - [[8-21-the-physics-of-energy-fall-2009|The Physics of Energy]] — 8.21, Fall 2009
 - [[4-401-environmental-technologies-in-buildings-fall-2018|Environmental Technologies in Buildings]] — 4.401, Fall 2018

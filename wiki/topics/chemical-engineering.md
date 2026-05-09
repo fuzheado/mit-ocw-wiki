@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[10-520-molecular-aspects-of-chemical-engineering-fall-2004|Molecular Aspects of Chemical Engineering]] — 10.520, Fall 2004
+- [[2-500-desalination-and-water-purification-spring-2009|Desalination and Water Purification]] — 2.500, Spring 2009
 - [[5-62-physical-chemistry-ii-spring-2008|Physical Chemistry II]] — 5.62, Spring 2008
 - [[10-490-integrated-chemical-engineering-i-fall-2006|Integrated Chemical Engineering I]] — 10.490, Fall 2006
 - [[22-616-plasma-transport-theory-fall-2003|Plasma Transport Theory]] — 22.616, Fall 2003

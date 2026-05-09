@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-581-riots-rebellions-revolutions-spring-2013|Riots, Rebellions, Revolutions]] — 17.581, Spring 2013
+- [[11-954-community-owned-enterprise-and-civic-participation-spring-2005|Community-Owned Enterprise and Civic Participation]] — 11.954, Spring 2005
+- [[17-20-introduction-to-the-american-political-process-fall-2020|Introduction to the American Political Process]] — 17.20, Fall 2020
+- [[17-905-forms-of-political-participation-old-and-new-spring-2005|Forms of Political Participation: Old and New]] — 17.905, Spring 2005
+- [[17-524-nationalism-fall-2004|Nationalism]] — 17.524, Fall 2004
+- [[11-382-water-diplomacy-spring-2021|Water Diplomacy]] — 11.382, Spring 2021
 - [[11-002j-making-public-policy-fall-2014|Making Public Policy]] — 11.002J, Fall 2014
 - [[17-584-civil-military-relations-spring-2003|Civil-Military Relations]] — 17.584, Spring 2003
 - [[21h-447-nazi-germany-and-the-holocaust-fall-2004|Nazi Germany and the Holocaust]] — 21H.447, Fall 2004

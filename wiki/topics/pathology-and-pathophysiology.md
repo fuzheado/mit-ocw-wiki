@@ -12,6 +12,7 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[9-14-brain-structure-and-its-origins-spring-2014|Brain Structure and Its Origins]] — 9.14, Spring 2014
 - [[hst-021-musculoskeletal-pathophysiology-january-iap-2006|Musculoskeletal Pathophysiology]] — HST.021, January IAP 2006
 - [[9-22j-a-clinical-approach-to-the-human-brain-fall-2006|A Clinical Approach to the Human Brain]] — 9.22J, Fall 2006
 - [[9-458-parkinsons-disease-workshop-summer-2006|Parkinson's Disease Workshop]] — 9.458, Summer 2006

@@ -25,6 +25,45 @@ courses_count: 0
 
 ## Courses
 
+- [[16-422-human-supervisory-control-of-automated-systems-spring-2004|Human Supervisory Control of Automated Systems]] — 16.422, Spring 2004
+- [[1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003|Strategic Management in the Design and Construction Value Chain]] — 1.46, Fall 2003
+- [[6-111-introductory-digital-systems-laboratory-spring-2006|Introductory Digital Systems Laboratory]] — 6.111, Spring 2006
+- [[10-520-molecular-aspects-of-chemical-engineering-fall-2004|Molecular Aspects of Chemical Engineering]] — 10.520, Fall 2004
+- [[12-864-inference-from-data-and-models-spring-2005|Inference from Data and Models]] — 12.864, Spring 2005
+- [[6-163-strobe-project-laboratory-fall-2005|Strobe Project Laboratory]] — 6.163, Fall 2005
+- [[6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005|Building Programming Experience: A Lead-In to 6.001]] — 6.090, January IAP 2005
+- [[hst-930j-social-studies-of-bioscience-and-biotech-fall-2005|Social Studies of Bioscience and Biotech]] — HST.930J, Fall 2005
+- [[2-500-desalination-and-water-purification-spring-2009|Desalination and Water Purification]] — 2.500, Spring 2009
+- [[6-331-advanced-circuit-techniques-spring-2002|Advanced Circuit Techniques]] — 6.331, Spring 2002
+- [[15-875-applications-of-system-dynamics-spring-2004|Applications of System Dynamics]] — 15.875, Spring 2004
+- [[18-435j-quantum-computation-fall-2003|Quantum Computation]] — 18.435J, Fall 2003
+- [[6-441-information-theory-spring-2010|Information Theory]] — 6.441, Spring 2010
+- [[2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005|System Design and Analysis based on AD and Complexity Theories]] — 2.882, Spring 2005
+- [[11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003|Use of Joint Fact Finding in Science Intensive Policy Disputes, Part I]] — 11.941, Fall 2003
+- [[18-409-algorithmic-aspects-of-machine-learning-spring-2015|Algorithmic Aspects of Machine Learning]] — 18.409, Spring 2015
+- [[4-500-introduction-to-design-computing-fall-2008|Introduction to Design Computing]] — 4.500, Fall 2008
+- [[6-801-machine-vision-fall-2004|Machine Vision]] — 6.801, Fall 2004
+- [[1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006|Introduction to Civil and Environmental Engineering Design I]] — 1.101, Fall 2006
+- [[6-857-network-and-computer-security-spring-2014|Network and Computer Security]] — 6.857, Spring 2014
+- [[esd-72-engineering-risk-benefit-analysis-spring-2007|Engineering Risk-Benefit Analysis]] — ESD.72, Spring 2007
+- [[2-086-numerical-computation-for-mechanical-engineers-fall-2014|Numerical Computation for Mechanical Engineers]] — 2.086, Fall 2014
+- [[mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003|Special Topics in Media Technology: Cooperative Machines]] — MAS.965, Fall 2003
+- [[res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010|Finite Element Procedures for Solids and Structures]] — RES.2-002, Spring 2010
+- [[6-691-seminar-in-electric-power-systems-spring-2006|Seminar in Electric Power Systems]] — 6.691, Spring 2006
+- [[20-109-laboratory-fundamentals-in-biological-engineering-spring-2010|Laboratory Fundamentals in Biological Engineering]] — 20.109, Spring 2010
+- [[6-079-introduction-to-convex-optimization-fall-2009|Introduction to Convex Optimization]] — 6.079, Fall 2009
+- [[15-082j-network-optimization-fall-2010|Network Optimization]] — 15.082J, Fall 2010
+- [[2-086-numerical-computation-for-mechanical-engineers-fall-2012|Numerical Computation for Mechanical Engineers]] — 2.086, Fall 2012
+- [[esd-273j-logistics-and-supply-chain-management-fall-2009|Logistics and Supply Chain Management]] — ESD.273J, Fall 2009
+- [[15-980j-organizing-for-innovative-product-development-spring-2007|Organizing for Innovative Product Development]] — 15.980J, Spring 2007
+- [[mas-160-signals-systems-and-information-for-media-technology-fall-2007|Signals, Systems and Information for Media Technology]] — MAS.160, Fall 2007
+- [[18-336-numerical-methods-for-partial-differential-equations-spring-2009|Numerical Methods for Partial Differential Equations]] — 18.336, Spring 2009
+- [[mas-962-common-sense-reasoning-for-interactive-applications-fall-2006|Common Sense Reasoning for Interactive Applications]] — MAS.962, Fall 2006
+- [[2-51-intermediate-heat-and-mass-transfer-fall-2008|Intermediate Heat and Mass Transfer]] — 2.51, Fall 2008
+- [[22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015|Do-It-Yourself (DIY) Geiger Counters]] — 22.S902, January IAP 2015
+- [[2-068-computational-ocean-acoustics-13-853-spring-2003|Computational Ocean Acoustics (13.853)]] — 2.068, Spring 2003
+- [[11-382-water-diplomacy-spring-2021|Water Diplomacy]] — 11.382, Spring 2021
+- [[2-75-precision-machine-design-fall-2001|Precision Machine Design]] — 2.75, Fall 2001
 - [[15-879-research-seminar-in-system-dynamics-spring-2014|Research Seminar in System Dynamics]] — 15.879, Spring 2014
 - [[esd-260j-logistics-systems-fall-2006|Logistics Systems]] — ESD.260J, Fall 2006
 - [[20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004|Statistical Thermodynamics of Biomolecular Systems (BE.011J)]] — 20.011J, Spring 2004

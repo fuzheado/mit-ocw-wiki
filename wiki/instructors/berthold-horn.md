@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-801-machine-vision-fall-2004|Machine Vision]]
 - [[6-801-machine-vision-fall-2020|Machine Vision]]

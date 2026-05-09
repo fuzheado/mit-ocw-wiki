@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-954-community-owned-enterprise-and-civic-participation-spring-2005|Community-Owned Enterprise and Civic Participation]] — 11.954, Spring 2005
+- [[21g-017-germany-and-its-european-context-fall-2002|Germany and its European Context]] — 21G.017, Fall 2002
+- [[21g-041-topics-in-south-asian-literature-and-culture-fall-2004|Topics in South Asian Literature and Culture]] — 21G.041, Fall 2004
+- [[21g-059-european-thought-and-culture-spring-2008|European Thought and Culture]] — 21G.059, Spring 2008
+- [[17-905-forms-of-political-participation-old-and-new-spring-2005|Forms of Political Participation: Old and New]] — 17.905, Spring 2005
 - [[21g-820-the-beat-of-brazil-brazilian-society-through-its-music-fall-2016|The Beat of Brazil: Brazilian Society Through Its Music]] — 21G.820, Fall 2016
 - [[4-s33-unmanageability-pathless-realities-and-approaches-spring-2015|Unmanageability: Pathless Realities and Approaches]] — 4.S33, Spring 2015
 - [[wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016|Gender & Media: Collaborations in Feminism and Technology]] — WGS.111, Spring 2016

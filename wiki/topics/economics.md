@@ -12,6 +12,13 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[hst-930j-social-studies-of-bioscience-and-biotech-fall-2005|Social Studies of Bioscience and Biotech]] — HST.930J, Fall 2005
+- [[14-42-environmental-policy-and-economics-spring-2011|Environmental Policy and Economics]] — 14.42, Spring 2011
+- [[15-012-applied-macro-and-international-economics-spring-2011|Applied Macro- and International Economics]] — 15.012, Spring 2011
+- [[11-954-community-owned-enterprise-and-civic-participation-spring-2005|Community-Owned Enterprise and Civic Participation]] — 11.954, Spring 2005
+- [[15-676-work-employment-and-industrial-relations-theory-spring-2008|Work, Employment, and Industrial Relations Theory]] — 15.676, Spring 2008
+- [[15-024-applied-economics-for-managers-summer-2004|Applied Economics for Managers]] — 15.024, Summer 2004
+- [[14-124-microeconomic-theory-iv-spring-2017|Microeconomic Theory IV]] — 14.124, Spring 2017
 - [[14-30-introduction-to-statistical-methods-in-economics-spring-2009|Introduction to Statistical Methods in Economics]] — 14.30, Spring 2009
 - [[11-167-economic-development-technical-capabilities-spring-2004|Economic Development & Technical Capabilities]] — 11.167, Spring 2004
 - [[15-395-entrepreneurship-without-borders-fall-2016|Entrepreneurship Without Borders]] — 15.395, Fall 2016

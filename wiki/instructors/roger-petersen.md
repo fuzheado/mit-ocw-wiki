@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[17-581-riots-rebellions-revolutions-spring-2013|Riots, Rebellions, Revolutions]]
 - [[17-584-civil-military-relations-spring-2003|Civil-Military Relations]]
 - [[11-949-cities-in-conflict-theory-and-practice-fall-2003|Cities in Conflict: Theory and Practice]]
 - [[17-s950-emotions-and-politics-fall-2018|Emotions and Politics]]

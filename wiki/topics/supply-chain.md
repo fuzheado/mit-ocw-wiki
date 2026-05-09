@@ -12,6 +12,8 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003|Strategic Management in the Design and Construction Value Chain]] — 1.46, Fall 2003
+- [[esd-273j-logistics-and-supply-chain-management-fall-2009|Logistics and Supply Chain Management]] — ESD.273J, Fall 2009
 - [[esd-260j-logistics-systems-fall-2006|Logistics Systems]] — ESD.260J, Fall 2006
 - [[15-764-the-theory-of-operations-management-spring-2004|The Theory of Operations Management]] — 15.764, Spring 2004
 - [[16-852j-integrating-the-lean-enterprise-fall-2005|Integrating the Lean Enterprise]] — 16.852J, Fall 2005

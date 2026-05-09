@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-370-brownfields-policy-and-practice-fall-2005|Brownfields Policy and Practice]] — 11.370, Fall 2005
+- [[11-201-gateway-to-the-profession-of-planning-fall-2010|Gateway to the Profession of Planning]] — 11.201, Fall 2010
 - [[11-201-gateway-planning-action-fall-2005|Gateway: Planning Action]] — 11.201, Fall 2005
 - [[16-72-air-traffic-control-fall-2006|Air Traffic Control]] — 16.72, Fall 2006
 - [[11-949-cities-in-conflict-theory-and-practice-fall-2003|Cities in Conflict: Theory and Practice]] — 11.949, Fall 2003

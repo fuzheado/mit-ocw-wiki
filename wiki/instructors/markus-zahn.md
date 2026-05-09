@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-641-electromagnetic-fields-forces-and-motion-spring-2009|Electromagnetic Fields, Forces, and Motion]]
 - [[res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008|Electromagnetic Field Theory: A Problem Solving Approach]]
 - [[6-642-continuum-electromechanics-fall-2008|Continuum Electromechanics]]
 - [[6-641-electromagnetic-fields-forces-and-motion-spring-2005|Electromagnetic Fields, Forces, and Motion]]

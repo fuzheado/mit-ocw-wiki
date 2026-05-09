@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[24-264-film-as-visual-and-literary-mythmaking-fall-2005|Film as Visual and Literary Mythmaking]] — 24.264, Fall 2005
+- [[6-163-strobe-project-laboratory-fall-2005|Strobe Project Laboratory]] — 6.163, Fall 2005
+- [[es-298-art-of-color-spring-2005|Art of Color]] — ES.298, Spring 2005
 - [[cms-631-data-storytelling-studio-climate-change-spring-2017|Data Storytelling Studio: Climate Change]] — CMS.631, Spring 2017
 - [[res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021|Visualizing the Birth of Modern Tokyo]] — RES.21H-001, Spring 2021
 - [[4-343-photography-and-related-media-fall-2002|Photography and Related Media]] — 4.343, Fall 2002

@@ -12,6 +12,10 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-264-film-as-visual-and-literary-mythmaking-fall-2005|Film as Visual and Literary Mythmaking]] — 24.264, Fall 2005
+- [[21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010|Foundations of Western Culture: The Making of the Modern World ]] — 21L.002, Spring 2010
+- [[21g-059-european-thought-and-culture-spring-2008|European Thought and Culture]] — 21G.059, Spring 2008
+- [[17-524-nationalism-fall-2004|Nationalism]] — 17.524, Fall 2004
 - [[4-s33-unmanageability-pathless-realities-and-approaches-spring-2015|Unmanageability: Pathless Realities and Approaches]] — 4.S33, Spring 2015
 - [[17-584-civil-military-relations-spring-2003|Civil-Military Relations]] — 17.584, Spring 2003
 - [[21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008|Contemporary Literature: Literature, Development, and Human Rights]] — 21L.488, Spring 2008

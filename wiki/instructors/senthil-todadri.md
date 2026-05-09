@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[8-321-quantum-theory-i-fall-2017|Quantum Theory I]]
 - [[8-513-many-body-theory-for-condensed-matter-systems-fall-2004|Many-Body Theory for Condensed Matter Systems]]

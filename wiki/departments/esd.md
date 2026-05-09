@@ -10,6 +10,13 @@ courses_count: 0
 
 ## Courses
 
+- [[18-435j-quantum-computation-fall-2003|Quantum Computation]] (18.435J)
+- [[esd-72-engineering-risk-benefit-analysis-spring-2007|Engineering Risk-Benefit Analysis]] (ESD.72)
+- [[esd-36-system-project-management-fall-2012|System Project Management]] (ESD.36)
+- [[16-891j-space-policy-seminar-spring-2003|Space Policy Seminar]] (16.891J)
+- [[15-082j-network-optimization-fall-2010|Network Optimization]] (15.082J)
+- [[esd-273j-logistics-and-supply-chain-management-fall-2009|Logistics and Supply Chain Management]] (ESD.273J)
+- [[15-980j-organizing-for-innovative-product-development-spring-2007|Organizing for Innovative Product Development]] (15.980J)
 - [[esd-260j-logistics-systems-fall-2006|Logistics Systems]] (ESD.260J)
 - [[esd-342-advanced-system-architecture-spring-2006|Advanced System Architecture]] (ESD.342)
 - [[11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007|Regional Socioeconomic Impact Analyses and Modeling]] (11.482J)

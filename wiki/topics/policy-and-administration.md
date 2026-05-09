@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-370-brownfields-policy-and-practice-fall-2005|Brownfields Policy and Practice]] — 11.370, Fall 2005
+- [[14-42-environmental-policy-and-economics-spring-2011|Environmental Policy and Economics]] — 14.42, Spring 2011
+- [[11-954-community-owned-enterprise-and-civic-participation-spring-2005|Community-Owned Enterprise and Civic Participation]] — 11.954, Spring 2005
+- [[11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003|Use of Joint Fact Finding in Science Intensive Policy Disputes, Part I]] — 11.941, Fall 2003
+- [[6-857-network-and-computer-security-spring-2014|Network and Computer Security]] — 6.857, Spring 2014
+- [[16-891j-space-policy-seminar-spring-2003|Space Policy Seminar]] — 16.891J, Spring 2003
 - [[11-002j-making-public-policy-fall-2014|Making Public Policy]] — 11.002J, Fall 2014
 - [[11-167-economic-development-technical-capabilities-spring-2004|Economic Development & Technical Capabilities]] — 11.167, Spring 2004
 - [[17-584-civil-military-relations-spring-2003|Civil-Military Relations]] — 17.584, Spring 2003

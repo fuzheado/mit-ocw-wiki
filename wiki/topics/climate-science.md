@@ -12,6 +12,8 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[2-500-desalination-and-water-purification-spring-2009|Desalination and Water Purification]] — 2.500, Spring 2009
+- [[14-42-environmental-policy-and-economics-spring-2011|Environmental Policy and Economics]] — 14.42, Spring 2011
 - [[res-2-008-thermodynamics-and-climate-change-summer-2020|Thermodynamics and Climate Change]] — RES.2-008, Summer 2022
 - [[8-21-the-physics-of-energy-fall-2009|The Physics of Energy]] — 8.21, Fall 2009
 - [[18-s191-introduction-to-computational-thinking-fall-2020|Introduction to Computational Thinking]] — 18.S191, Fall 2020

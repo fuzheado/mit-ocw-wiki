@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[2-086-numerical-computation-for-mechanical-engineers-fall-2012|Numerical Computation for Mechanical Engineers]]
 - [[2-007-design-and-manufacturing-i-spring-2009|Design and Manufacturing I]]
 - [[esd-33-systems-engineering-summer-2004|Systems Engineering]]
 - [[res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020|Exploring Fairness in Machine Learning for International Development]]

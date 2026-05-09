@@ -12,6 +12,21 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[15-875-applications-of-system-dynamics-spring-2004|Applications of System Dynamics]] — 15.875, Spring 2004
+- [[2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005|System Design and Analysis based on AD and Complexity Theories]] — 2.882, Spring 2005
+- [[4-500-introduction-to-design-computing-fall-2008|Introduction to Design Computing]] — 4.500, Fall 2008
+- [[6-801-machine-vision-fall-2004|Machine Vision]] — 6.801, Fall 2004
+- [[esd-72-engineering-risk-benefit-analysis-spring-2007|Engineering Risk-Benefit Analysis]] — ESD.72, Spring 2007
+- [[res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010|Finite Element Procedures for Solids and Structures]] — RES.2-002, Spring 2010
+- [[6-079-introduction-to-convex-optimization-fall-2009|Introduction to Convex Optimization]] — 6.079, Fall 2009
+- [[15-082j-network-optimization-fall-2010|Network Optimization]] — 15.082J, Fall 2010
+- [[2-086-numerical-computation-for-mechanical-engineers-fall-2012|Numerical Computation for Mechanical Engineers]] — 2.086, Fall 2012
+- [[esd-273j-logistics-and-supply-chain-management-fall-2009|Logistics and Supply Chain Management]] — ESD.273J, Fall 2009
+- [[15-980j-organizing-for-innovative-product-development-spring-2007|Organizing for Innovative Product Development]] — 15.980J, Spring 2007
+- [[mas-160-signals-systems-and-information-for-media-technology-fall-2007|Signals, Systems and Information for Media Technology]] — MAS.160, Fall 2007
+- [[18-336-numerical-methods-for-partial-differential-equations-spring-2009|Numerical Methods for Partial Differential Equations]] — 18.336, Spring 2009
+- [[2-068-computational-ocean-acoustics-13-853-spring-2003|Computational Ocean Acoustics (13.853)]] — 2.068, Spring 2003
+- [[2-75-precision-machine-design-fall-2001|Precision Machine Design]] — 2.75, Fall 2001
 - [[15-879-research-seminar-in-system-dynamics-spring-2014|Research Seminar in System Dynamics]] — 15.879, Spring 2014
 - [[esd-260j-logistics-systems-fall-2006|Logistics Systems]] — ESD.260J, Fall 2006
 - [[hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020|Global Health Informatics to Improve Quality of Care]] — HST.936x, Spring 2020

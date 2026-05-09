@@ -12,6 +12,13 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21w-031-science-writing-and-new-media-explorations-in-communicating-about-science-technology-spring-2017|Science Writing and New Media: Explorations in Communicating about Science & Technology]] — 21W.031, Spring 2017
+- [[24-264-film-as-visual-and-literary-mythmaking-fall-2005|Film as Visual and Literary Mythmaking]] — 24.264, Fall 2005
+- [[21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010|Foundations of Western Culture: The Making of the Modern World ]] — 21L.002, Spring 2010
+- [[21l-012-forms-of-western-narrative-spring-2004|Forms of Western Narrative]] — 21L.012, Spring 2004
+- [[21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003|English Renaissance Drama: Theatre and Society in the Age of Shakespeare]] — 21L.703, Fall 2003
+- [[21g-017-germany-and-its-european-context-fall-2002|Germany and its European Context]] — 21G.017, Fall 2002
+- [[21g-041-topics-in-south-asian-literature-and-culture-fall-2004|Topics in South Asian Literature and Culture]] — 21G.041, Fall 2004
 - [[21l-006-american-literature-spring-2013|American Literature]] — 21L.006, Spring 2013
 - [[21l-709-ethnic-literature-in-america-spring-2017|Ethnic Literature in America]] — 21L.709, Spring 2017
 - [[21l-458-the-bible-spring-2007|The Bible]] — 21L.458, Spring 2007

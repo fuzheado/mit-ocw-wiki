@@ -12,6 +12,23 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-864-inference-from-data-and-models-spring-2005|Inference from Data and Models]] — 12.864, Spring 2005
+- [[15-071-the-analytics-edge-spring-2017|The Analytics Edge]] — 15.071, Spring 2017
+- [[18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008|Topics in Algebraic Geometry: Algebraic Surfaces]] — 18.727, Spring 2008
+- [[18-435j-quantum-computation-fall-2003|Quantum Computation]] — 18.435J, Fall 2003
+- [[18-409-algorithmic-aspects-of-machine-learning-spring-2015|Algorithmic Aspects of Machine Learning]] — 18.409, Spring 2015
+- [[mas-962-special-topics-in-media-technology-computational-semantics-fall-2002|Special Topics in Media Technology: Computational Semantics]] — MAS.962, Fall 2002
+- [[esd-72-engineering-risk-benefit-analysis-spring-2007|Engineering Risk-Benefit Analysis]] — ESD.72, Spring 2007
+- [[2-086-numerical-computation-for-mechanical-engineers-fall-2014|Numerical Computation for Mechanical Engineers]] — 2.086, Fall 2014
+- [[18-013a-calculus-with-applications-spring-2005|Calculus with Applications]] — 18.013A, Spring 2005
+- [[18-705-commutative-algebra-fall-2008|Commutative Algebra]] — 18.705, Fall 2008
+- [[18-781-theory-of-numbers-spring-2012|Theory of Numbers]] — 18.781, Spring 2012
+- [[18-700-linear-algebra-fall-2013|Linear Algebra]] — 18.700, Fall 2013
+- [[6-079-introduction-to-convex-optimization-fall-2009|Introduction to Convex Optimization]] — 6.079, Fall 2009
+- [[15-082j-network-optimization-fall-2010|Network Optimization]] — 15.082J, Fall 2010
+- [[2-086-numerical-computation-for-mechanical-engineers-fall-2012|Numerical Computation for Mechanical Engineers]] — 2.086, Fall 2012
+- [[18-336-numerical-methods-for-partial-differential-equations-spring-2009|Numerical Methods for Partial Differential Equations]] — 18.336, Spring 2009
+- [[18-117-topics-in-several-complex-variables-spring-2005|Topics in Several Complex Variables]] — 18.117, Spring 2005
 - [[res-18-006-calculus-revisited-single-variable-calculus-fall-2010|Calculus Revisited: Single Variable Calculus]] — RES.18-006, Fall 2010
 - [[18-726-algebraic-geometry-spring-2009|Algebraic Geometry]] — 18.726, Spring 2009
 - [[14-30-introduction-to-statistical-methods-in-economics-spring-2009|Introduction to Statistical Methods in Economics]] — 14.30, Spring 2009

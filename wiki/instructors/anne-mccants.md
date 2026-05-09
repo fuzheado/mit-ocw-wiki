@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21h-411-history-of-western-thought-500-1300-fall-2004|History of Western Thought, 500-1300]]
 - [[21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012|Medieval Economic History in Comparative Perspective]]
 - [[21h-991-theories-and-methods-in-the-study-of-history-fall-2014|Theories and Methods in the Study of History]]
 - [[21h-931-seminar-in-historical-methods-spring-2004|Seminar in Historical Methods]]

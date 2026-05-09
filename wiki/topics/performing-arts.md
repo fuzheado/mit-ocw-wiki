@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003|English Renaissance Drama: Theatre and Society in the Age of Shakespeare]] — 21L.703, Fall 2003
+- [[21m-715-the-craft-of-costume-design-fall-2009|The Craft of Costume Design]] — 21M.715, Fall 2009
 - [[21m-710-script-analysis-fall-2005|Script Analysis]] — 21M.710, Fall 2005
 - [[21l-486-modern-drama-spring-2006|Modern Drama]] — 21L.486, Spring 2006
 - [[21a-453-anthropology-of-the-middle-east-spring-2004|Anthropology of the Middle East]] — 21A.453, Spring 2004

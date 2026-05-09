@@ -12,6 +12,9 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21m-294-popular-musics-of-the-world-spring-2005|Popular Musics of the World]] — 21M.294, Spring 2005
+- [[cms-407-media-and-methods-sound-fall-2012|Media and Methods: Sound]] — CMS.407, Fall 2012
+- [[21a-360j-the-anthropology-of-sound-spring-2008|The Anthropology of Sound]] — 21A.360J, Spring 2008
 - [[21g-820-the-beat-of-brazil-brazilian-society-through-its-music-fall-2016|The Beat of Brazil: Brazilian Society Through Its Music]] — 21G.820, Fall 2016
 - [[21m-250-beethoven-to-mahler-spring-2014|Beethoven to Mahler]] — 21M.250, Spring 2014
 - [[21m-011-introduction-to-western-music-spring-2006|Introduction to Western Music]] — 21M.011, Spring 2006

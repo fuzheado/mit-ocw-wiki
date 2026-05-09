@@ -25,6 +25,32 @@ courses_count: 0
 
 ## Courses
 
+- [[11-370-brownfields-policy-and-practice-fall-2005|Brownfields Policy and Practice]] — 11.370, Fall 2005
+- [[sts-460-histories-of-information-communication-and-computing-technologies-spring-2015|Histories of Information, Communication, and Computing Technologies]] — STS.460, Spring 2015
+- [[hst-930j-social-studies-of-bioscience-and-biotech-fall-2005|Social Studies of Bioscience and Biotech]] — HST.930J, Fall 2005
+- [[17-581-riots-rebellions-revolutions-spring-2013|Riots, Rebellions, Revolutions]] — 17.581, Spring 2013
+- [[21m-294-popular-musics-of-the-world-spring-2005|Popular Musics of the World]] — 21M.294, Spring 2005
+- [[14-42-environmental-policy-and-economics-spring-2011|Environmental Policy and Economics]] — 14.42, Spring 2011
+- [[15-012-applied-macro-and-international-economics-spring-2011|Applied Macro- and International Economics]] — 15.012, Spring 2011
+- [[11-954-community-owned-enterprise-and-civic-participation-spring-2005|Community-Owned Enterprise and Civic Participation]] — 11.954, Spring 2005
+- [[11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003|Use of Joint Fact Finding in Science Intensive Policy Disputes, Part I]] — 11.941, Fall 2003
+- [[9-01-neuroscience-and-behavior-fall-2003|Neuroscience and Behavior]] — 9.01, Fall 2003
+- [[15-676-work-employment-and-industrial-relations-theory-spring-2008|Work, Employment, and Industrial Relations Theory]] — 15.676, Spring 2008
+- [[11-201-gateway-to-the-profession-of-planning-fall-2010|Gateway to the Profession of Planning]] — 11.201, Fall 2010
+- [[21g-017-germany-and-its-european-context-fall-2002|Germany and its European Context]] — 21G.017, Fall 2002
+- [[15-024-applied-economics-for-managers-summer-2004|Applied Economics for Managers]] — 15.024, Summer 2004
+- [[21g-041-topics-in-south-asian-literature-and-culture-fall-2004|Topics in South Asian Literature and Culture]] — 21G.041, Fall 2004
+- [[6-857-network-and-computer-security-spring-2014|Network and Computer Security]] — 6.857, Spring 2014
+- [[mas-966-digital-anthropology-spring-2003|Digital Anthropology]] — MAS.966, Spring 2003
+- [[16-891j-space-policy-seminar-spring-2003|Space Policy Seminar]] — 16.891J, Spring 2003
+- [[14-124-microeconomic-theory-iv-spring-2017|Microeconomic Theory IV]] — 14.124, Spring 2017
+- [[17-20-introduction-to-the-american-political-process-fall-2020|Introduction to the American Political Process]] — 17.20, Fall 2020
+- [[21a-360j-the-anthropology-of-sound-spring-2008|The Anthropology of Sound]] — 21A.360J, Spring 2008
+- [[9-012-the-brain-and-cognitive-sciences-ii-spring-2006|The Brain and Cognitive Sciences II]] — 9.012, Spring 2006
+- [[21g-059-european-thought-and-culture-spring-2008|European Thought and Culture]] — 21G.059, Spring 2008
+- [[17-905-forms-of-political-participation-old-and-new-spring-2005|Forms of Political Participation: Old and New]] — 17.905, Spring 2005
+- [[17-524-nationalism-fall-2004|Nationalism]] — 17.524, Fall 2004
+- [[11-382-water-diplomacy-spring-2021|Water Diplomacy]] — 11.382, Spring 2021
 - [[11-201-gateway-planning-action-fall-2005|Gateway: Planning Action]] — 11.201, Fall 2005
 - [[11-002j-making-public-policy-fall-2014|Making Public Policy]] — 11.002J, Fall 2014
 - [[21g-820-the-beat-of-brazil-brazilian-society-through-its-music-fall-2016|The Beat of Brazil: Brazilian Society Through Its Music]] — 21G.820, Fall 2016
