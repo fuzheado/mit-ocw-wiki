@@ -12,6 +12,12 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[11-368-environmental-justice-fall-2004|Environmental Justice]] — 11.368, Fall 2004
+- [[24-120-moral-psychology-spring-2009|Moral Psychology]] — 24.120, Spring 2009
+- [[24-02-moral-problems-and-the-good-life-fall-2008|Moral Problems and the Good Life]] — 24.02, Fall 2008
+- [[24-111-philosophy-of-quantum-mechanics-spring-2005|Philosophy of Quantum Mechanics]] — 24.111, Spring 2005
+- [[21a-442j-violence-human-rights-and-justice-fall-2014|Violence, Human Rights, and Justice]] — 21A.442J, Fall 2014
+- [[21a-260-culture-embodiment-and-the-senses-fall-2005|Culture, Embodiment and the Senses]] — 21A.260, Fall 2005
 - [[21a-350j-cultures-of-computing-fall-2011|Cultures of Computing]] — 21A.350J, Fall 2011
 - [[24-244-modal-logic-spring-2015|Modal Logic]] — 24.244, Spring 2015
 - [[17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005|Special Graduate Topic in Political Science: Political Behavior]] — 17.951, Fall 2005

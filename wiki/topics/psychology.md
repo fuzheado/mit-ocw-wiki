@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[24-120-moral-psychology-spring-2009|Moral Psychology]] — 24.120, Spring 2009
+- [[21a-260-culture-embodiment-and-the-senses-fall-2005|Culture, Embodiment and the Senses]] — 21A.260, Fall 2005
+- [[mas-771-autism-theory-and-technology-spring-2011|Autism Theory and Technology]] — MAS.771, Spring 2011
 - [[9-916-special-topics-social-animals-fall-2009|Special Topics: Social Animals]] — 9.916, Fall 2009
 - [[mas-630-affective-computing-fall-2015|Affective Computing]] — MAS.630, Fall 2015
 - [[9-93-marathon-moral-reasoning-laboratory-january-iap-2007|Marathon Moral Reasoning Laboratory]] — 9.93, January IAP 2007

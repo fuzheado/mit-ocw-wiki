@@ -12,6 +12,10 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[6-241j-dynamic-systems-and-control-spring-2011|Dynamic Systems and Control]] — 6.241J, Spring 2011
+- [[15-093j-optimization-methods-fall-2009|Optimization Methods]] — 15.093J, Fall 2009
+- [[15-988-system-dynamics-self-study-fall-1998-spring-1999|System Dynamics Self Study]] — 15.988, Fall 1998
+- [[15-356-how-to-develop-breakthrough-products-and-services-spring-2004|How to Develop "Breakthrough" Products and Services]] — 15.356, Spring 2004
 - [[4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002|Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems]] — 4.285, Fall 2002
 - [[16-323-principles-of-optimal-control-spring-2008|Principles of Optimal Control]] — 16.323, Spring 2008
 - [[6-973-communication-system-design-spring-2006|Communication System Design]] — 6.973, Spring 2006

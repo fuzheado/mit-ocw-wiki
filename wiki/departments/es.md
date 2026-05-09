@@ -10,6 +10,8 @@ courses_count: 0
 
 ## Courses
 
+- [[8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005|Physics II: Electricity & Magnetism with an Experimental Focus]] (8.02X)
+- [[es-246-current-events-and-social-issues-fall-2004|Current Events and Social Issues]] (ES.246)
 - [[es-256-the-coming-years-spring-2008|The Coming Years]] (ES.256)
 - [[es-010-chemistry-of-sports-spring-2013|Chemistry of Sports]] (ES.010)
 - [[es-242-gender-issues-in-academics-and-academia-spring-2004|Gender Issues in Academics and Academia]] (ES.242)

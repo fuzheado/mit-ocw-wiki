@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003|Introduction to Planning & Institutional Processes in Developing Countries]] — 11.701, Fall 2003
+- [[11-304j-site-and-infrastructure-systems-planning-spring-2009|Site and Infrastructure Systems Planning]] — 11.304J, Spring 2009
+- [[11-471-targeting-the-poor-local-economic-development-in-developing-countries-spring-2010|Targeting the Poor: Local Economic Development in Developing Countries]] — 11.471, Spring 2010
 - [[1-259j-transit-management-fall-2006|Transit Management]] — 1.259J, Fall 2006
 - [[11-947-race-immigration-and-planning-spring-2005|Race, Immigration, and Planning]] — 11.947, Spring 2005
 - [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]] — 11.364, Fall 2010

@@ -12,6 +12,9 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[9-520-statistical-learning-theory-and-applications-spring-2003|Statistical Learning Theory and Applications]] — 9.520, Spring 2003
+- [[6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008|The Art of Approximation in Science and Engineering]] — 6.055J, Spring 2008
+- [[6-852j-distributed-algorithms-fall-2009|Distributed Algorithms]] — 6.852J, Fall 2009
 - [[6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014|Algorithmic Lower Bounds: Fun with Hardness Proofs]] — 6.890, Fall 2014
 - [[6-s095-programming-for-the-puzzled-january-iap-2018|Programming for the Puzzled]] — 6.S095, January IAP 2018
 - [[18-337j-parallel-computing-fall-2011|Parallel Computing]] — 18.337J, Fall 2011

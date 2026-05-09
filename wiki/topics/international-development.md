@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003|Introduction to Planning & Institutional Processes in Developing Countries]] — 11.701, Fall 2003
+- [[11-471-targeting-the-poor-local-economic-development-in-developing-countries-spring-2010|Targeting the Poor: Local Economic Development in Developing Countries]] — 11.471, Spring 2010
 - [[ec-721-wheelchair-design-in-developing-countries-spring-2009|Wheelchair Design in Developing Countries]] — EC.721, Spring 2009
 - [[11-005-introduction-to-international-development-spring-2015|Introduction to International Development]] — 11.005, Spring 2015
 - [[11-941-urban-climate-adaptation-spring-2011|Urban Climate Adaptation]] — 11.941, Spring 2011

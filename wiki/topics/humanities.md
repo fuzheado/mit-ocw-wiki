@@ -20,6 +20,35 @@ courses_count: 0
 
 ## Courses
 
+- [[11-368-environmental-justice-fall-2004|Environmental Justice]] — 11.368, Fall 2004
+- [[3-094-materials-in-human-experience-spring-2004|Materials in Human Experience]] — 3.094, Spring 2004
+- [[21h-575j-women-in-south-asia-from-1800-to-present-fall-2006|Women in South Asia from 1800 to Present]] — 21H.575J, Fall 2006
+- [[21g-801-portuguese-i-fall-2011|Portuguese I]] — 21G.801, Fall 2011
+- [[24-120-moral-psychology-spring-2009|Moral Psychology]] — 24.120, Spring 2009
+- [[24-02-moral-problems-and-the-good-life-fall-2008|Moral Problems and the Good Life]] — 24.02, Fall 2008
+- [[17-428-american-foreign-policy-theory-and-method-fall-2004|American Foreign Policy: Theory and Method]] — 17.428, Fall 2004
+- [[21l-016-learning-from-the-past-drama-science-performance-spring-2009|Learning from the Past: Drama, Science, Performance]] — 21L.016, Spring 2009
+- [[21g-302-french-ii-fall-2004|French II]] — 21G.302, Fall 2004
+- [[21g-s55-japanese-v-fall-2022|Japanese V]] — 21G.S55, Fall 2022
+- [[21h-931-seminar-in-historical-methods-spring-2002|Seminar in Historical Methods]] — 21H.931, Spring 2002
+- [[24-111-philosophy-of-quantum-mechanics-spring-2005|Philosophy of Quantum Mechanics]] — 24.111, Spring 2005
+- [[21l-715-media-in-cultural-context-spring-2007|Media in Cultural Context]] — 21L.715, Spring 2007
+- [[17-565-israel-history-politics-culture-identity-spring-2019|Israel: History, Politics, Culture, Identity]] — 17.565, Spring 2019
+- [[21g-025-africa-and-the-politics-of-knowledge-spring-2019|Africa and the Politics of Knowledge]] — 21G.025, Spring 2019
+- [[21a-336-marketing-microchips-and-mcdonalds-debating-globalization-spring-2004|Marketing, Microchips and McDonalds: Debating Globalization]] — 21A.336, Spring 2004
+- [[21m-846-topics-in-performance-studies-comedy-across-media-spring-2018|Topics in Performance Studies: Comedy Across Media]] — 21M.846, Spring 2018
+- [[21l-704-studies-in-poetry-gender-and-lyric-renaissance-men-and-women-writing-about-love-spring-2003|Studies in Poetry: Gender and Lyric -- Renaissance Men and Women Writing about Love]] — 21L.704, Spring 2003
+- [[21l-705-major-authors-oscar-wilde-and-the-90s-spring-2003|Major Authors: Oscar Wilde and the '90's]] — 21L.705, Spring 2003
+- [[21a-442j-violence-human-rights-and-justice-fall-2014|Violence, Human Rights, and Justice]] — 21A.442J, Fall 2014
+- [[21h-907-trials-in-history-fall-2000|Trials in History]] — 21H.907, Fall 2000
+- [[21l-512-american-authors-autobiography-and-memoir-fall-2013|American Authors: Autobiography and Memoir]] — 21L.512, Fall 2013
+- [[21m-611-foundations-of-theater-practice-fall-2009|Foundations of Theater Practice]] — 21M.611, Fall 2009
+- [[21a-260-culture-embodiment-and-the-senses-fall-2005|Culture, Embodiment and the Senses]] — 21A.260, Fall 2005
+- [[9-56j-abnormal-language-fall-2004|Abnormal Language]] — 9.56J, Fall 2004
+- [[21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014|Advanced German Literature & Culture: Madness, Murder, Mysteries]] — 21G.412, Fall 2014
+- [[21g-312-basic-themes-in-french-literature-and-culture-spring-2011|Basic Themes in French Literature and Culture]] — 21G.312, Spring 2011
+- [[11-225-argumentation-and-communication-fall-2006|Argumentation and Communication]] — 11.225, Fall 2006
+- [[21w-742-writing-about-race-spring-2013|Writing About Race]] — 21W.742, Spring 2013
 - [[4-671-nationalism-internationalism-and-globalism-in-modern-art-spring-2016|Nationalism, Internationalism, and Globalism in Modern Art]] — 4.671, Spring 2016
 - [[21a-350j-cultures-of-computing-fall-2011|Cultures of Computing]] — 21A.350J, Fall 2011
 - [[21l-488-contemporary-literature-spring-2003|Contemporary Literature]] — 21L.488, Spring 2003

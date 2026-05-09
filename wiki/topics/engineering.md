@@ -25,6 +25,50 @@ courses_count: 0
 
 ## Courses
 
+- [[6-241j-dynamic-systems-and-control-spring-2011|Dynamic Systems and Control]] — 6.241J, Spring 2011
+- [[6-111-introductory-digital-systems-laboratory-fall-2002|Introductory Digital Systems Laboratory]] — 6.111, Fall 2002
+- [[1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005|Introduction to Civil and Environmental Engineering Design I]] — 1.101, Fall 2005
+- [[1-051-structural-engineering-design-fall-2003|Structural Engineering Design]] — 1.051, Fall 2003
+- [[9-520-statistical-learning-theory-and-applications-spring-2003|Statistical Learning Theory and Applications]] — 9.520, Spring 2003
+- [[16-333-aircraft-stability-and-control-fall-2004|Aircraft Stability and Control]] — 16.333, Fall 2004
+- [[15-093j-optimization-methods-fall-2009|Optimization Methods]] — 15.093J, Fall 2009
+- [[22-14-materials-in-nuclear-engineering-spring-2015|Materials in Nuclear Engineering]] — 22.14, Spring 2015
+- [[3-094-materials-in-human-experience-spring-2004|Materials in Human Experience]] — 3.094, Spring 2004
+- [[6-186-mobile-autonomous-systems-laboratory-january-iap-2005|Mobile Autonomous Systems Laboratory]] — 6.186, January IAP 2005
+- [[6-772-compound-semiconductor-devices-spring-2003|Compound Semiconductor Devices]] — 6.772, Spring 2003
+- [[15-988-system-dynamics-self-study-fall-1998-spring-1999|System Dynamics Self Study]] — 15.988, Fall 1998
+- [[6-034-artificial-intelligence-spring-2005|Artificial Intelligence]] — 6.034, Spring 2005
+- [[3-021j-introduction-to-modeling-and-simulation-spring-2012|Introduction to Modeling and Simulation]] — 3.021J, Spring 2012
+- [[6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008|A Gentle Introduction to Programming Using Python]] — 6.189, January IAP 2008
+- [[20-441j-biomaterials-tissue-interactions-fall-2009|Biomaterials-Tissue Interactions]] — 20.441J, Fall 2009
+- [[2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004|Maneuvering and Control of Surface and Underwater Vehicles (13.49)]] — 2.154, Fall 2004
+- [[12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010|Parallel Programming for Multicore Machines Using OpenMP and MPI]] — 12.950, January IAP 2010
+- [[11-363-civil-society-and-the-environment-spring-2005|Civil Society and the Environment]] — 11.363, Spring 2005
+- [[2-086-numerical-computation-for-mechanical-engineers-spring-2013|Numerical Computation for Mechanical Engineers]] — 2.086, Spring 2013
+- [[11-304j-site-and-infrastructure-systems-planning-spring-2009|Site and Infrastructure Systems Planning]] — 11.304J, Spring 2009
+- [[12-086-modeling-environmental-complexity-fall-2014|Modeling Environmental Complexity]] — 12.086, Fall 2014
+- [[22-106-neutron-interactions-and-applications-spring-2010|Neutron Interactions and Applications]] — 22.106, Spring 2010
+- [[ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005|Integrating Doctoral Seminar on Emerging Technologies]] — IDS.900, Fall 2005
+- [[esd-57-technology-based-business-transformation-fall-2007|Technology-based Business Transformation]] — ESD.57, Fall 2007
+- [[1-34-waste-containment-and-remediation-technology-spring-2004|Waste Containment and Remediation Technology]] — 1.34, Spring 2004
+- [[18-404j-theory-of-computation-fall-2020|Theory of Computation]] — 18.404J, Fall 2020
+- [[3-051j-materials-for-biomedical-applications-spring-2006|Materials for Biomedical Applications]] — 3.051J, Spring 2006
+- [[res-gem4-global-enterprise-for-micro-mechanics-and-molecular-medicine-gem4-summer-2006-summer-2007|Global Enterprise for Micro-Mechanics and Molecular Medicine (GEM4)]] — RES.GEM4, Summer 2006
+- [[mas-771-autism-theory-and-technology-spring-2011|Autism Theory and Technology]] — MAS.771, Spring 2011
+- [[2-019-design-of-ocean-systems-spring-2011|Design of Ocean Systems]] — 2.019, Spring 2011
+- [[6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008|The Art of Approximation in Science and Engineering]] — 6.055J, Spring 2008
+- [[6-730-physics-for-solid-state-applications-spring-2003|Physics for Solid-State Applications]] — 6.730, Spring 2003
+- [[15-356-how-to-develop-breakthrough-products-and-services-spring-2004|How to Develop "Breakthrough" Products and Services]] — 15.356, Spring 2004
+- [[10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004|Integrated Chemical Engineering Topics I: Introduction to Biocatalysis]] — 10.492-2, Fall 2004
+- [[res-12-000-evolution-of-physical-oceanography-spring-2007|Evolution of Physical Oceanography]] — RES.12-000, Spring 2007
+- [[6-852j-distributed-algorithms-fall-2009|Distributed Algorithms]] — 6.852J, Fall 2009
+- [[2-081j-plates-and-shells-spring-2007|Plates and Shells]] — 2.081J, Spring 2007
+- [[18-086-mathematical-methods-for-engineers-ii-spring-2006|Mathematical Methods for Engineers II]] — 18.086, Spring 2006
+- [[2-161-signal-processing-continuous-and-discrete-fall-2008|Signal Processing: Continuous and Discrete]] — 2.161, Fall 2008
+- [[2-080j-structural-mechanics-fall-2013|Structural Mechanics]] — 2.080J, Fall 2013
+- [[6-004-computation-structures-spring-2017|Computation Structures]] — 6.004, Spring 2017
+- [[21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004|Technical Design: Scenery, Mechanisms, and Special Effects]] — 21M.735, Spring 2004
+- [[2-700-principles-of-naval-architecture-fall-2014|Principles of Naval Architecture]] — 2.700, Fall 2014
 - [[hst-950j-biomedical-computing-fall-2010|Biomedical Computing]] — HST.950J, Fall 2010
 - [[6-973-organic-optoelectronics-spring-2003|Organic Optoelectronics]] — 6.973, Spring 2003
 - [[6-827-multithreaded-parallelism-languages-and-compilers-fall-2002|Multithreaded Parallelism: Languages and Compilers]] — 6.827, Fall 2002

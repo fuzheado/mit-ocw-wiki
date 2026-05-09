@@ -12,6 +12,18 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21h-575j-women-in-south-asia-from-1800-to-present-fall-2006|Women in South Asia from 1800 to Present]] — 21H.575J, Fall 2006
+- [[21g-801-portuguese-i-fall-2011|Portuguese I]] — 21G.801, Fall 2011
+- [[21l-715-media-in-cultural-context-spring-2007|Media in Cultural Context]] — 21L.715, Spring 2007
+- [[17-565-israel-history-politics-culture-identity-spring-2019|Israel: History, Politics, Culture, Identity]] — 17.565, Spring 2019
+- [[21g-025-africa-and-the-politics-of-knowledge-spring-2019|Africa and the Politics of Knowledge]] — 21G.025, Spring 2019
+- [[21a-336-marketing-microchips-and-mcdonalds-debating-globalization-spring-2004|Marketing, Microchips and McDonalds: Debating Globalization]] — 21A.336, Spring 2004
+- [[21a-442j-violence-human-rights-and-justice-fall-2014|Violence, Human Rights, and Justice]] — 21A.442J, Fall 2014
+- [[21a-260-culture-embodiment-and-the-senses-fall-2005|Culture, Embodiment and the Senses]] — 21A.260, Fall 2005
+- [[21g-312-basic-themes-in-french-literature-and-culture-spring-2011|Basic Themes in French Literature and Culture]] — 21G.312, Spring 2011
+- [[21a-429j-environmental-conflict-fall-2016|Environmental Conflict]] — 21A.429J, Fall 2016
+- [[21a-520-magic-science-and-religion-fall-2021|Magic, Science, and Religion]] — 21A.520, Fall 2021
+- [[21w-742-writing-about-race-spring-2013|Writing About Race]] — 21W.742, Spring 2013
 - [[21a-350j-cultures-of-computing-fall-2011|Cultures of Computing]] — 21A.350J, Fall 2011
 - [[21a-303j-anthropology-of-biology-fall-2013|Anthropology of Biology]] — 21A.303J, Fall 2013
 - [[21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004|Advanced Topics: Plotting Terror in European Culture]] — 21G.061, Spring 2004

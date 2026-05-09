@@ -12,6 +12,9 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[9-520-statistical-learning-theory-and-applications-spring-2003|Statistical Learning Theory and Applications]] — 9.520, Spring 2003
+- [[6-186-mobile-autonomous-systems-laboratory-january-iap-2005|Mobile Autonomous Systems Laboratory]] — 6.186, January IAP 2005
+- [[6-034-artificial-intelligence-spring-2005|Artificial Intelligence]] — 6.034, Spring 2005
 - [[6-s191-introduction-to-deep-learning-january-iap-2020|Introduction to Deep Learning]] — 6.S191, January IAP 2020
 - [[6-s062-generative-artificial-intelligence-in-k12-education-fall-2023|Generative Artificial Intelligence in K–12 Education]] — 6.S062, Fall 2023
 - [[mas-961-ambient-intelligence-spring-2005|Ambient Intelligence]] — MAS.961, Spring 2005

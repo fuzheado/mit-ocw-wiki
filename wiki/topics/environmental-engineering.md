@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005|Introduction to Civil and Environmental Engineering Design I]] — 1.101, Fall 2005
+- [[11-363-civil-society-and-the-environment-spring-2005|Civil Society and the Environment]] — 11.363, Spring 2005
+- [[1-34-waste-containment-and-remediation-technology-spring-2004|Waste Containment and Remediation Technology]] — 1.34, Spring 2004
 - [[1-731-water-resource-systems-fall-2006|Water Resource Systems]] — 1.731, Fall 2006
 - [[10-805j-technology-law-and-the-working-environment-spring-2006|Technology, Law, and the Working Environment]] — 10.805J, Spring 2006
 - [[11-364-international-environmental-negotiation-fall-2010|International Environmental Negotiation]] — 11.364, Fall 2010

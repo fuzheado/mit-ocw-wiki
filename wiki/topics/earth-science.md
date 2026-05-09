@@ -12,6 +12,10 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-163-surface-processes-and-landscape-evolution-fall-2004|Surface Processes and Landscape Evolution]] — 12.163, Fall 2004
+- [[12-086-modeling-environmental-complexity-fall-2014|Modeling Environmental Complexity]] — 12.086, Fall 2014
+- [[21a-429j-environmental-conflict-fall-2016|Environmental Conflict]] — 21A.429J, Fall 2016
+- [[res-12-000-evolution-of-physical-oceanography-spring-2007|Evolution of Physical Oceanography]] — RES.12-000, Spring 2007
 - [[12-009j-theoretical-environmental-analysis-spring-2015|Theoretical Environmental Analysis]] — 12.009J, Spring 2015
 - [[12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004|Fluid Dynamics of the Atmosphere and Ocean]] — 12.800, Fall 2004
 - [[1-322-soil-behavior-spring-2005|Soil Behavior]] — 1.322, Spring 2005

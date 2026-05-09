@@ -12,6 +12,8 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21h-575j-women-in-south-asia-from-1800-to-present-fall-2006|Women in South Asia from 1800 to Present]] (21H.575J)
+- [[21a-442j-violence-human-rights-and-justice-fall-2014|Violence, Human Rights, and Justice]] (21A.442J)
 - [[wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009|Gender, Race, and the Complexities of Science and Technology: A Problem-Based Learning Experiment]] (WGS.693)
 - [[21a-350j-cultures-of-computing-fall-2011|Cultures of Computing]] (21A.350J)
 - [[21l-705-major-authors-after-the-masterpiece-novels-by-melville-twain-faulkner-and-morrison-fall-2006|Major Authors: After the Masterpiece: Novels by Melville, Twain, Faulkner, and Morrison]] (21L.705)

@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[20-441j-biomaterials-tissue-interactions-fall-2009|Biomaterials-Tissue Interactions]] — 20.441J, Fall 2009
+- [[3-051j-materials-for-biomedical-applications-spring-2006|Materials for Biomedical Applications]] — 3.051J, Spring 2006
+- [[res-gem4-global-enterprise-for-micro-mechanics-and-molecular-medicine-gem4-summer-2006-summer-2007|Global Enterprise for Micro-Mechanics and Molecular Medicine (GEM4)]] — RES.GEM4, Summer 2006
+- [[10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004|Integrated Chemical Engineering Topics I: Introduction to Biocatalysis]] — 10.492-2, Fall 2004
 - [[hst-950j-biomedical-computing-fall-2010|Biomedical Computing]] — HST.950J, Fall 2010
 - [[6-973-organic-optoelectronics-spring-2003|Organic Optoelectronics]] — 6.973, Spring 2003
 - [[2-a35-biomimetic-principles-and-design-fall-2013|Biomimetic Principles and Design]] — 2.A35, Fall 2013

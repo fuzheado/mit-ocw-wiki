@@ -12,6 +12,16 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[3-094-materials-in-human-experience-spring-2004|Materials in Human Experience]] — 3.094, Spring 2004
+- [[21h-575j-women-in-south-asia-from-1800-to-present-fall-2006|Women in South Asia from 1800 to Present]] — 21H.575J, Fall 2006
+- [[17-428-american-foreign-policy-theory-and-method-fall-2004|American Foreign Policy: Theory and Method]] — 17.428, Fall 2004
+- [[21l-016-learning-from-the-past-drama-science-performance-spring-2009|Learning from the Past: Drama, Science, Performance]] — 21L.016, Spring 2009
+- [[21h-931-seminar-in-historical-methods-spring-2002|Seminar in Historical Methods]] — 21H.931, Spring 2002
+- [[17-565-israel-history-politics-culture-identity-spring-2019|Israel: History, Politics, Culture, Identity]] — 17.565, Spring 2019
+- [[21g-025-africa-and-the-politics-of-knowledge-spring-2019|Africa and the Politics of Knowledge]] — 21G.025, Spring 2019
+- [[21a-336-marketing-microchips-and-mcdonalds-debating-globalization-spring-2004|Marketing, Microchips and McDonalds: Debating Globalization]] — 21A.336, Spring 2004
+- [[21h-907-trials-in-history-fall-2000|Trials in History]] — 21H.907, Fall 2000
+- [[21w-742-writing-about-race-spring-2013|Writing About Race]] — 21W.742, Spring 2013
 - [[4-671-nationalism-internationalism-and-globalism-in-modern-art-spring-2016|Nationalism, Internationalism, and Globalism in Modern Art]] — 4.671, Spring 2016
 - [[21a-350j-cultures-of-computing-fall-2011|Cultures of Computing]] — 21A.350J, Fall 2011
 - [[21h-266-apartheid-and-south-africa-spring-2020|Apartheid and South Africa]] — 21H.266, Spring 2020

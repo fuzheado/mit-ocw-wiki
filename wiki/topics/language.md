@@ -12,6 +12,11 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-801-portuguese-i-fall-2011|Portuguese I]] — 21G.801, Fall 2011
+- [[21g-302-french-ii-fall-2004|French II]] — 21G.302, Fall 2004
+- [[21g-s55-japanese-v-fall-2022|Japanese V]] — 21G.S55, Fall 2022
+- [[21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014|Advanced German Literature & Culture: Madness, Murder, Mysteries]] — 21G.412, Fall 2014
+- [[21g-312-basic-themes-in-french-literature-and-culture-spring-2011|Basic Themes in French Literature and Culture]] — 21G.312, Spring 2011
 - [[21g-705-oral-communication-in-spanish-spring-2004|Oral Communication in Spanish]] — 21G.705, Spring 2004
 - [[21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014|Teaching and Learning: Cross-Cultural Perspectives]] — 21A.150, Fall 2014
 - [[21g-410-advanced-german-professional-communication-spring-2017|Advanced German: Professional Communication]] — 21G.410, Spring 2017

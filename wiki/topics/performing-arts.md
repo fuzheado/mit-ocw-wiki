@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21m-846-topics-in-performance-studies-comedy-across-media-spring-2018|Topics in Performance Studies: Comedy Across Media]] — 21M.846, Spring 2018
+- [[21m-611-foundations-of-theater-practice-fall-2009|Foundations of Theater Practice]] — 21M.611, Fall 2009
+- [[21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004|Technical Design: Scenery, Mechanisms, and Special Effects]] — 21M.735, Spring 2004
 - [[21m-293-music-of-africa-fall-2005|Music of Africa]] — 21M.293, Fall 2005
 - [[21l-005-introduction-to-drama-fall-2016|Introduction to Drama]] — 21L.005, Fall 2016
 - [[21g-067j-cultural-performances-of-asia-fall-2005|Cultural Performances of Asia]] — 21G.067J, Fall 2005

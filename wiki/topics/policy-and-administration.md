@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003|Introduction to Planning & Institutional Processes in Developing Countries]] — 11.701, Fall 2003
+- [[11-368-environmental-justice-fall-2004|Environmental Justice]] — 11.368, Fall 2004
+- [[17-428-american-foreign-policy-theory-and-method-fall-2004|American Foreign Policy: Theory and Method]] — 17.428, Fall 2004
+- [[11-363-civil-society-and-the-environment-spring-2005|Civil Society and the Environment]] — 11.363, Spring 2005
+- [[17-565-israel-history-politics-culture-identity-spring-2019|Israel: History, Politics, Culture, Identity]] — 17.565, Spring 2019
+- [[es-246-current-events-and-social-issues-fall-2004|Current Events and Social Issues]] — ES.246, Fall 2004
 - [[17-447-cyberpolitics-in-international-relations-theory-methods-policy-fall-2011|Cyberpolitics in International Relations: Theory, Methods, Policy]] — 17.447, Fall 2011
 - [[11-942-regional-energy-environmental-economic-modeling-spring-2007|Regional Energy-Environmental Economic Modeling]] — 11.942, Spring 2007
 - [[10-805j-technology-law-and-the-working-environment-spring-2006|Technology, Law, and the Working Environment]] — 10.805J, Spring 2006

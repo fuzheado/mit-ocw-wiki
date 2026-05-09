@@ -12,6 +12,10 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-111-introductory-digital-systems-laboratory-fall-2002|Introductory Digital Systems Laboratory]] — 6.111, Fall 2002
+- [[6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008|A Gentle Introduction to Programming Using Python]] — 6.189, January IAP 2008
+- [[12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010|Parallel Programming for Multicore Machines Using OpenMP and MPI]] — 12.950, January IAP 2010
+- [[6-004-computation-structures-spring-2017|Computation Structures]] — 6.004, Spring 2017
 - [[6-827-multithreaded-parallelism-languages-and-compilers-fall-2002|Multithreaded Parallelism: Languages and Compilers]] — 6.827, Fall 2002
 - [[6-s191-introduction-to-deep-learning-january-iap-2020|Introduction to Deep Learning]] — 6.S191, January IAP 2020
 - [[6-976-high-speed-communication-circuits-and-systems-spring-2003|High Speed Communication Circuits and Systems]] — 6.976, Spring 2003

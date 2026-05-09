@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-730-physics-for-solid-state-applications-spring-2003|Physics for Solid-State Applications]]
 - [[6-763-applied-superconductivity-fall-2005|Applied Superconductivity]]

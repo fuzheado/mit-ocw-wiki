@@ -12,6 +12,16 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-368-environmental-justice-fall-2004|Environmental Justice]] — 11.368, Fall 2004
+- [[21h-575j-women-in-south-asia-from-1800-to-present-fall-2006|Women in South Asia from 1800 to Present]] — 21H.575J, Fall 2006
+- [[21g-801-portuguese-i-fall-2011|Portuguese I]] — 21G.801, Fall 2011
+- [[24-02-moral-problems-and-the-good-life-fall-2008|Moral Problems and the Good Life]] — 24.02, Fall 2008
+- [[21l-704-studies-in-poetry-gender-and-lyric-renaissance-men-and-women-writing-about-love-spring-2003|Studies in Poetry: Gender and Lyric -- Renaissance Men and Women Writing about Love]] — 21L.704, Spring 2003
+- [[21a-442j-violence-human-rights-and-justice-fall-2014|Violence, Human Rights, and Justice]] — 21A.442J, Fall 2014
+- [[21h-907-trials-in-history-fall-2000|Trials in History]] — 21H.907, Fall 2000
+- [[es-246-current-events-and-social-issues-fall-2004|Current Events and Social Issues]] — ES.246, Fall 2004
+- [[21a-429j-environmental-conflict-fall-2016|Environmental Conflict]] — 21A.429J, Fall 2016
+- [[11-471-targeting-the-poor-local-economic-development-in-developing-countries-spring-2010|Targeting the Poor: Local Economic Development in Developing Countries]] — 11.471, Spring 2010
 - [[wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009|Gender, Race, and the Complexities of Science and Technology: A Problem-Based Learning Experiment]] — WGS.693, Spring 2009
 - [[wgs-150-gender-power-leadership-and-the-workplace-spring-2015|Gender, Power, Leadership and the Workplace]] — WGS.150, Spring 2015
 - [[21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013|Advanced Topics in Hispanic Literature and Film: The Films of Luis Buñuel]] — 21G.735, Fall 2013

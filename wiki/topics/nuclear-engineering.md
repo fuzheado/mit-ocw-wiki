@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[22-14-materials-in-nuclear-engineering-spring-2015|Materials in Nuclear Engineering]] — 22.14, Spring 2015
+- [[22-106-neutron-interactions-and-applications-spring-2010|Neutron Interactions and Applications]] — 22.106, Spring 2010
 - [[22-105-electromagnetic-interactions-fall-2005|Electromagnetic Interactions]] — 22.105, Fall 2005
 - [[22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006|Structural Mechanics in Nuclear Power Technology]] — 22.314J, Fall 2006
 - [[22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016|Introduction to Nuclear Engineering and Ionizing Radiation]] — 22.01, Fall 2016

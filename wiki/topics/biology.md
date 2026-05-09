@@ -12,6 +12,12 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-17-systems-neuroscience-lab-spring-2013|Systems Neuroscience Lab]] — 9.17, Spring 2013
+- [[20-441j-biomaterials-tissue-interactions-fall-2009|Biomaterials-Tissue Interactions]] — 20.441J, Fall 2009
+- [[hst-071-human-reproductive-biology-fall-2005|Human Reproductive Biology]] — HST.071, Fall 2005
+- [[res-gem4-global-enterprise-for-micro-mechanics-and-molecular-medicine-gem4-summer-2006-summer-2007|Global Enterprise for Micro-Mechanics and Molecular Medicine (GEM4)]] — RES.GEM4, Summer 2006
+- [[21a-429j-environmental-conflict-fall-2016|Environmental Conflict]] — 21A.429J, Fall 2016
+- [[10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004|Integrated Chemical Engineering Topics I: Introduction to Biocatalysis]] — 10.492-2, Fall 2004
 - [[12-009j-theoretical-environmental-analysis-spring-2015|Theoretical Environmental Analysis]] — 12.009J, Spring 2015
 - [[2-a35-biomimetic-principles-and-design-fall-2013|Biomimetic Principles and Design]] — 2.A35, Fall 2013
 - [[6-877j-computational-evolutionary-biology-fall-2005|Computational Evolutionary Biology]] — 6.877J, Fall 2005

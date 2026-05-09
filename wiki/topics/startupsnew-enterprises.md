@@ -12,6 +12,7 @@ Part of: [[innovation-and-entrepreneurship|Innovation & Entrepreneurship]]
 
 ## Courses
 
+- [[15-356-how-to-develop-breakthrough-products-and-services-spring-2004|How to Develop "Breakthrough" Products and Services]] — 15.356, Spring 2004
 - [[15-361-executing-strategy-for-results-fall-2017|Executing Strategy for Results]] — 15.361, Fall 2017
 - [[15-391-early-stage-capital-fall-2010|Early Stage Capital]] — 15.391, Fall 2010
 - [[15-615-law-for-the-entrepreneur-and-manager-spring-2003|Law for the Entrepreneur and Manager]] — 15.615, Spring 2003

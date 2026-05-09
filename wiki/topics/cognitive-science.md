@@ -12,6 +12,8 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-520-statistical-learning-theory-and-applications-spring-2003|Statistical Learning Theory and Applications]] — 9.520, Spring 2003
+- [[9-56j-abnormal-language-fall-2004|Abnormal Language]] — 9.56J, Fall 2004
 - [[9-916-modularity-domain-specificity-and-the-organization-of-knowledge-fall-2001|Modularity, Domain-specificity, and the Organization of Knowledge]] — 9.916, Fall 2001
 - [[6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003|Natural Language and the Computer Representation of Knowledge]] — 6.863J, Spring 2003
 - [[9-59j-lab-in-psycholinguistics-spring-2017|Lab in Psycholinguistics]] — 9.59J, Spring 2017

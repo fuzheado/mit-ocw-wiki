@@ -12,6 +12,8 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21l-715-media-in-cultural-context-spring-2007|Media in Cultural Context]] (21L.715)
+- [[21w-742-writing-about-race-spring-2013|Writing About Race]] (21W.742)
 - [[cms-361-networked-social-movements-media-mobilization-spring-2014|Networked Social Movements: Media & Mobilization]] (CMS.361)
 - [[21w-016-writing-and-rhetoric-designing-meaning-fall-2016|Writing and Rhetoric: Designing Meaning]] (21W.016)
 - [[cms-608-game-design-spring-2008|Game Design]] (CMS.608)

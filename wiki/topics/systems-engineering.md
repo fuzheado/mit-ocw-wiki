@@ -12,6 +12,17 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-241j-dynamic-systems-and-control-spring-2011|Dynamic Systems and Control]] — 6.241J, Spring 2011
+- [[15-093j-optimization-methods-fall-2009|Optimization Methods]] — 15.093J, Fall 2009
+- [[15-988-system-dynamics-self-study-fall-1998-spring-1999|System Dynamics Self Study]] — 15.988, Fall 1998
+- [[3-021j-introduction-to-modeling-and-simulation-spring-2012|Introduction to Modeling and Simulation]] — 3.021J, Spring 2012
+- [[2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004|Maneuvering and Control of Surface and Underwater Vehicles (13.49)]] — 2.154, Fall 2004
+- [[12-086-modeling-environmental-complexity-fall-2014|Modeling Environmental Complexity]] — 12.086, Fall 2014
+- [[ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005|Integrating Doctoral Seminar on Emerging Technologies]] — IDS.900, Fall 2005
+- [[esd-57-technology-based-business-transformation-fall-2007|Technology-based Business Transformation]] — ESD.57, Fall 2007
+- [[2-019-design-of-ocean-systems-spring-2011|Design of Ocean Systems]] — 2.019, Spring 2011
+- [[15-356-how-to-develop-breakthrough-products-and-services-spring-2004|How to Develop "Breakthrough" Products and Services]] — 15.356, Spring 2004
+- [[18-086-mathematical-methods-for-engineers-ii-spring-2006|Mathematical Methods for Engineers II]] — 18.086, Spring 2006
 - [[esd-69-seminar-on-health-care-systems-innovation-fall-2010|Seminar on Health Care Systems Innovation]] — ESD.69, Fall 2010
 - [[18-s997-introduction-to-matlab-programming-fall-2011|Introduction To MATLAB Programming]] — 18.S997, Fall 2011
 - [[4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002|Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems]] — 4.285, Fall 2002

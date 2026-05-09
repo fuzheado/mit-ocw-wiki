@@ -12,6 +12,7 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21h-907-trials-in-history-fall-2000|Trials in History]] — 21H.907, Fall 2000
 - [[10-805j-technology-law-and-the-working-environment-spring-2006|Technology, Law, and the Working Environment]] — 10.805J, Spring 2006
 - [[15-615-law-for-the-entrepreneur-and-manager-spring-2003|Law for the Entrepreneur and Manager]] — 15.615, Spring 2003
 - [[24-235j-philosophy-of-law-spring-2012|Philosophy of Law]] — 24.235J, Spring 2012

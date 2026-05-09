@@ -12,6 +12,10 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003|Introduction to Planning & Institutional Processes in Developing Countries]] — 11.701, Fall 2003
+- [[14-121-microeconomic-theory-i-fall-2015|Microeconomic Theory I]] — 14.121, Fall 2015
+- [[14-454-economic-crises-spring-2011|Economic Crises]] — 14.454, Spring 2011
+- [[11-471-targeting-the-poor-local-economic-development-in-developing-countries-spring-2010|Targeting the Poor: Local Economic Development in Developing Countries]] — 11.471, Spring 2010
 - [[15-433-investments-spring-2003|Investments]] — 15.433, Spring 2003
 - [[11-942-regional-energy-environmental-economic-modeling-spring-2007|Regional Energy-Environmental Economic Modeling]] — 11.942, Spring 2007
 - [[18-655-mathematical-statistics-spring-2016|Mathematical Statistics]] — 18.655, Spring 2016

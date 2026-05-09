@@ -12,6 +12,14 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[6-772-compound-semiconductor-devices-spring-2003|Compound Semiconductor Devices]] — 6.772, Spring 2003
+- [[3-021j-introduction-to-modeling-and-simulation-spring-2012|Introduction to Modeling and Simulation]] — 3.021J, Spring 2012
+- [[8-07-electromagnetism-ii-fall-2012|Electromagnetism II]] — 8.07, Fall 2012
+- [[8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005|Physics II: Electricity & Magnetism with an Experimental Focus]] — 8.02X, Spring 2005
+- [[24-111-philosophy-of-quantum-mechanics-spring-2005|Philosophy of Quantum Mechanics]] — 24.111, Spring 2005
+- [[8-01l-physics-i-classical-mechanics-fall-2005|Physics I: Classical Mechanics]] — 8.01L, Fall 2005
+- [[6-730-physics-for-solid-state-applications-spring-2003|Physics for Solid-State Applications]] — 6.730, Spring 2003
+- [[8-02t-electricity-and-magnetism-spring-2005|Electricity and Magnetism]] — 8.02T, Spring 2005
 - [[8-04-quantum-physics-i-spring-2013|Quantum Physics I]] — 8.04, Spring 2013
 - [[3-00-thermodynamics-of-materials-fall-2002|Thermodynamics of Materials]] — 3.00, Fall 2002
 - [[res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008|Video Demonstrations in Lasers and Optics]] — RES.6-006, Spring 2008

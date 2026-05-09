@@ -12,6 +12,10 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-988-system-dynamics-self-study-fall-1998-spring-1999|System Dynamics Self Study]] — 15.988, Fall 1998
+- [[15-220-global-strategy-and-organization-spring-2012|Global Strategy and Organization]] — 15.220, Spring 2012
+- [[15-067-competitive-decision-making-and-negotiation-spring-2011|Competitive Decision-Making and Negotiation]] — 15.067, Spring 2011
+- [[15-352-managing-innovation-emerging-trends-spring-2005|Managing Innovation: Emerging Trends]] — 15.352, Spring 2005
 - [[15-361-executing-strategy-for-results-fall-2017|Executing Strategy for Results]] — 15.361, Fall 2017
 - [[15-963-management-accounting-and-control-spring-2007|Management Accounting and Control]] — 15.963, Spring 2007
 - [[15-598-it-and-business-transformation-spring-2003|IT and Business Transformation]] — 15.598, Spring 2003

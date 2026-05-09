@@ -12,6 +12,12 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[22-14-materials-in-nuclear-engineering-spring-2015|Materials in Nuclear Engineering]] — 22.14, Spring 2015
+- [[3-094-materials-in-human-experience-spring-2004|Materials in Human Experience]] — 3.094, Spring 2004
+- [[6-772-compound-semiconductor-devices-spring-2003|Compound Semiconductor Devices]] — 6.772, Spring 2003
+- [[3-021j-introduction-to-modeling-and-simulation-spring-2012|Introduction to Modeling and Simulation]] — 3.021J, Spring 2012
+- [[3-051j-materials-for-biomedical-applications-spring-2006|Materials for Biomedical Applications]] — 3.051J, Spring 2006
+- [[6-730-physics-for-solid-state-applications-spring-2003|Physics for Solid-State Applications]] — 6.730, Spring 2003
 - [[3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005|Symmetry, Structure, and Tensor Properties of Materials]] — 3.60, Fall 2005
 - [[3-00-thermodynamics-of-materials-fall-2002|Thermodynamics of Materials]] — 3.00, Fall 2002
 - [[6-977-semiconductor-optoelectronics-theory-and-design-fall-2002|Semiconductor Optoelectronics: Theory and Design]] — 6.977, Fall 2002

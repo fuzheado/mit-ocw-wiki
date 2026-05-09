@@ -12,6 +12,8 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[20-441j-biomaterials-tissue-interactions-fall-2009|Biomaterials-Tissue Interactions]] (20.441J)
+- [[hst-071-human-reproductive-biology-fall-2005|Human Reproductive Biology]] (HST.071)
 - [[hst-950j-biomedical-computing-fall-2010|Biomedical Computing]] (HST.950J)
 - [[esd-69-seminar-on-health-care-systems-innovation-fall-2010|Seminar on Health Care Systems Innovation]] (ESD.69)
 - [[6-877j-computational-evolutionary-biology-fall-2005|Computational Evolutionary Biology]] (6.877J)

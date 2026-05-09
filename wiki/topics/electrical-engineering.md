@@ -12,6 +12,13 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-241j-dynamic-systems-and-control-spring-2011|Dynamic Systems and Control]] — 6.241J, Spring 2011
+- [[6-111-introductory-digital-systems-laboratory-fall-2002|Introductory Digital Systems Laboratory]] — 6.111, Fall 2002
+- [[6-186-mobile-autonomous-systems-laboratory-january-iap-2005|Mobile Autonomous Systems Laboratory]] — 6.186, January IAP 2005
+- [[6-772-compound-semiconductor-devices-spring-2003|Compound Semiconductor Devices]] — 6.772, Spring 2003
+- [[6-730-physics-for-solid-state-applications-spring-2003|Physics for Solid-State Applications]] — 6.730, Spring 2003
+- [[2-161-signal-processing-continuous-and-discrete-fall-2008|Signal Processing: Continuous and Discrete]] — 2.161, Fall 2008
+- [[6-004-computation-structures-spring-2017|Computation Structures]] — 6.004, Spring 2017
 - [[6-973-organic-optoelectronics-spring-2003|Organic Optoelectronics]] — 6.973, Spring 2003
 - [[6-976-high-speed-communication-circuits-and-systems-spring-2003|High Speed Communication Circuits and Systems]] — 6.976, Spring 2003
 - [[6-152j-micro-nano-processing-technology-fall-2005|Micro/Nano Processing Technology]] — 6.152J, Fall 2005

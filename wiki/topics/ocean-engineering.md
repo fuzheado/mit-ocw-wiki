@@ -12,6 +12,11 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004|Maneuvering and Control of Surface and Underwater Vehicles (13.49)]] — 2.154, Fall 2004
+- [[2-019-design-of-ocean-systems-spring-2011|Design of Ocean Systems]] — 2.019, Spring 2011
+- [[res-12-000-evolution-of-physical-oceanography-spring-2007|Evolution of Physical Oceanography]] — RES.12-000, Spring 2007
+- [[2-081j-plates-and-shells-spring-2007|Plates and Shells]] — 2.081J, Spring 2007
+- [[2-700-principles-of-naval-architecture-fall-2014|Principles of Naval Architecture]] — 2.700, Fall 2014
 - [[12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004|Fluid Dynamics of the Atmosphere and Ocean]] — 12.800, Fall 2004
 - [[2-a35-biomimetic-principles-and-design-fall-2013|Biomimetic Principles and Design]] — 2.A35, Fall 2013
 - [[2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007|Special Topics in Mechanical Engineering: The Art and Science of Boat Design]] — 2.993, January IAP 2007

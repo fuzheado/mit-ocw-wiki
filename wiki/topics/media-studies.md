@@ -12,6 +12,10 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003|Special Topics in Multimedia Production: Experiences in Interactive Art]] — MAS.878, Fall 2003
+- [[21l-715-media-in-cultural-context-spring-2007|Media in Cultural Context]] — 21L.715, Spring 2007
+- [[21m-846-topics-in-performance-studies-comedy-across-media-spring-2018|Topics in Performance Studies: Comedy Across Media]] — 21M.846, Spring 2018
+- [[21l-430-popular-culture-and-narrative-serial-storytelling-spring-2013|Popular Culture and Narrative: Serial Storytelling]] — 21L.430, Spring 2013
 - [[17-447-cyberpolitics-in-international-relations-theory-methods-policy-fall-2011|Cyberpolitics in International Relations: Theory, Methods, Policy]] — 17.447, Fall 2011
 - [[mas-961-ambient-intelligence-spring-2005|Ambient Intelligence]] — MAS.961, Spring 2005
 - [[cms-361-networked-social-movements-media-mobilization-spring-2014|Networked Social Movements: Media & Mobilization]] — CMS.361, Spring 2014

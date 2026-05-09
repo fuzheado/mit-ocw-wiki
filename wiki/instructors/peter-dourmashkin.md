@@ -8,4 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005|Physics II: Electricity & Magnetism with an Experimental Focus]]
+- [[8-02t-electricity-and-magnetism-spring-2005|Electricity and Magnetism]]
 - [[8-01sc-classical-mechanics-fall-2016|Classical Mechanics]]

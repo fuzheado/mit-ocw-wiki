@@ -12,6 +12,7 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[9-56j-abnormal-language-fall-2004|Abnormal Language]] — 9.56J, Fall 2004
 - [[24-244-modal-logic-spring-2015|Modal Logic]] — 24.244, Spring 2015
 - [[24-973-advanced-semantics-spring-2009|Advanced Semantics]] — 24.973, Spring 2009
 - [[21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014|Teaching and Learning: Cross-Cultural Perspectives]] — 21A.150, Fall 2014

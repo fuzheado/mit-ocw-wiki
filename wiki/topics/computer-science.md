@@ -12,6 +12,19 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-241j-dynamic-systems-and-control-spring-2011|Dynamic Systems and Control]] — 6.241J, Spring 2011
+- [[6-111-introductory-digital-systems-laboratory-fall-2002|Introductory Digital Systems Laboratory]] — 6.111, Fall 2002
+- [[9-520-statistical-learning-theory-and-applications-spring-2003|Statistical Learning Theory and Applications]] — 9.520, Spring 2003
+- [[6-186-mobile-autonomous-systems-laboratory-january-iap-2005|Mobile Autonomous Systems Laboratory]] — 6.186, January IAP 2005
+- [[6-034-artificial-intelligence-spring-2005|Artificial Intelligence]] — 6.034, Spring 2005
+- [[6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008|A Gentle Introduction to Programming Using Python]] — 6.189, January IAP 2008
+- [[12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010|Parallel Programming for Multicore Machines Using OpenMP and MPI]] — 12.950, January IAP 2010
+- [[2-086-numerical-computation-for-mechanical-engineers-spring-2013|Numerical Computation for Mechanical Engineers]] — 2.086, Spring 2013
+- [[18-404j-theory-of-computation-fall-2020|Theory of Computation]] — 18.404J, Fall 2020
+- [[mas-771-autism-theory-and-technology-spring-2011|Autism Theory and Technology]] — MAS.771, Spring 2011
+- [[6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008|The Art of Approximation in Science and Engineering]] — 6.055J, Spring 2008
+- [[6-852j-distributed-algorithms-fall-2009|Distributed Algorithms]] — 6.852J, Fall 2009
+- [[6-004-computation-structures-spring-2017|Computation Structures]] — 6.004, Spring 2017
 - [[6-827-multithreaded-parallelism-languages-and-compilers-fall-2002|Multithreaded Parallelism: Languages and Compilers]] — 6.827, Fall 2002
 - [[6-s191-introduction-to-deep-learning-january-iap-2020|Introduction to Deep Learning]] — 6.S191, January IAP 2020
 - [[6-976-high-speed-communication-circuits-and-systems-spring-2003|High Speed Communication Circuits and Systems]] — 6.976, Spring 2003

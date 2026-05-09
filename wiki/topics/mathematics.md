@@ -12,6 +12,20 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[6-241j-dynamic-systems-and-control-spring-2011|Dynamic Systems and Control]] — 6.241J, Spring 2011
+- [[9-520-statistical-learning-theory-and-applications-spring-2003|Statistical Learning Theory and Applications]] — 9.520, Spring 2003
+- [[15-093j-optimization-methods-fall-2009|Optimization Methods]] — 15.093J, Fall 2009
+- [[18-034-honors-differential-equations-spring-2009|Honors Differential Equations]] — 18.034, Spring 2009
+- [[res-18-011-algebra-i-student-notes-fall-2021|Algebra I Student Notes]] — RES.18-011, Fall 2021
+- [[18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013|Topics in Mathematics with Applications in Finance]] — 18.S096, Fall 2013
+- [[2-086-numerical-computation-for-mechanical-engineers-spring-2013|Numerical Computation for Mechanical Engineers]] — 2.086, Spring 2013
+- [[18-02-multivariable-calculus-fall-2007|Multivariable Calculus]] — 18.02, Fall 2007
+- [[18-04-complex-variables-with-applications-spring-2018|Complex Variables with Applications ]] — 18.04, Spring 2018
+- [[18-177-universal-random-structures-in-2d-fall-2015|Universal Random Structures in 2D]] — 18.177, Fall 2015
+- [[18-404j-theory-of-computation-fall-2020|Theory of Computation]] — 18.404J, Fall 2020
+- [[6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008|The Art of Approximation in Science and Engineering]] — 6.055J, Spring 2008
+- [[18-086-mathematical-methods-for-engineers-ii-spring-2006|Mathematical Methods for Engineers II]] — 18.086, Spring 2006
+- [[2-161-signal-processing-continuous-and-discrete-fall-2008|Signal Processing: Continuous and Discrete]] — 2.161, Fall 2008
 - [[18-075-advanced-calculus-for-engineers-fall-2004|Advanced Calculus for Engineers]] — 18.075, Fall 2004
 - [[18-03-differential-equations-spring-2010|Differential Equations]] — 18.03, Spring 2010
 - [[18-s997-introduction-to-matlab-programming-fall-2011|Introduction To MATLAB Programming]] — 18.S997, Fall 2011

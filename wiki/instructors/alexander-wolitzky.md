@@ -1,0 +1,11 @@
+---
+name: "Prof. Alexander Wolitzky"
+type: instructor
+courses_count: 1
+---
+
+# Prof. Alexander Wolitzky
+
+## Courses Taught at MIT
+
+- [[14-121-microeconomic-theory-i-fall-2015|Microeconomic Theory I]]

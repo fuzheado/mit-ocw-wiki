@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005|Introduction to Civil and Environmental Engineering Design I]] — 1.101, Fall 2005
+- [[1-051-structural-engineering-design-fall-2003|Structural Engineering Design]] — 1.051, Fall 2003
+- [[11-304j-site-and-infrastructure-systems-planning-spring-2009|Site and Infrastructure Systems Planning]] — 11.304J, Spring 2009
+- [[1-34-waste-containment-and-remediation-technology-spring-2004|Waste Containment and Remediation Technology]] — 1.34, Spring 2004
 - [[1-322-soil-behavior-spring-2005|Soil Behavior]] — 1.322, Spring 2005
 - [[1-258j-public-transportation-systems-spring-2017|Public Transportation Systems]] — 1.258J, Spring 2017
 - [[1-040-project-management-spring-2004|Project Management]] — 1.040, Spring 2004

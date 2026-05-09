@@ -12,6 +12,14 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-368-environmental-justice-fall-2004|Environmental Justice]] — 11.368, Fall 2004
+- [[17-428-american-foreign-policy-theory-and-method-fall-2004|American Foreign Policy: Theory and Method]] — 17.428, Fall 2004
+- [[17-20-introduction-to-the-american-political-process-spring-2004|Introduction to the American Political Process]] — 17.20, Spring 2004
+- [[11-363-civil-society-and-the-environment-spring-2005|Civil Society and the Environment]] — 11.363, Spring 2005
+- [[17-565-israel-history-politics-culture-identity-spring-2019|Israel: History, Politics, Culture, Identity]] — 17.565, Spring 2019
+- [[21g-025-africa-and-the-politics-of-knowledge-spring-2019|Africa and the Politics of Knowledge]] — 21G.025, Spring 2019
+- [[17-568-comparative-politics-and-international-relations-of-the-middle-east-spring-2017|Comparative Politics and International Relations of the Middle East]] — 17.568, Spring 2017
+- [[es-246-current-events-and-social-issues-fall-2004|Current Events and Social Issues]] — ES.246, Fall 2004
 - [[17-447-cyberpolitics-in-international-relations-theory-methods-policy-fall-2011|Cyberpolitics in International Relations: Theory, Methods, Policy]] — 17.447, Fall 2011
 - [[17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005|Special Graduate Topic in Political Science: Political Behavior]] — 17.951, Fall 2005
 - [[17-478-great-power-military-intervention-fall-2013|Great Power Military Intervention]] — 17.478, Fall 2013

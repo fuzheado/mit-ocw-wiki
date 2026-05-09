@@ -12,6 +12,8 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005|Integrating Doctoral Seminar on Emerging Technologies]] (IDS.900)
+- [[21a-429j-environmental-conflict-fall-2016|Environmental Conflict]] (21A.429J)
 - [[21a-350j-cultures-of-computing-fall-2011|Cultures of Computing]] (21A.350J)
 - [[21a-303j-anthropology-of-biology-fall-2013|Anthropology of Biology]] (21A.303J)
 - [[sts-009-evolution-and-society-spring-2012|Evolution and Society]] (STS.009)

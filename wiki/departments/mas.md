@@ -12,6 +12,8 @@ School: [[school-architecture-planning|School of Architecture and Planning]]
 
 ## Courses
 
+- [[mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003|Special Topics in Multimedia Production: Experiences in Interactive Art]] (MAS.878)
+- [[mas-771-autism-theory-and-technology-spring-2011|Autism Theory and Technology]] (MAS.771)
 - [[6-s062-generative-artificial-intelligence-in-k12-education-fall-2023|Generative Artificial Intelligence in K–12 Education]] (6.S062)
 - [[mas-961-ambient-intelligence-spring-2005|Ambient Intelligence]] (MAS.961)
 - [[mas-964-common-sense-reasoning-for-interactive-applications-fall-2002|Common Sense Reasoning for Interactive Applications]] (MAS.964)

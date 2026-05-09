@@ -12,6 +12,7 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[11-304j-site-and-infrastructure-systems-planning-spring-2009|Site and Infrastructure Systems Planning]] — 11.304J, Spring 2009
 - [[4-671-nationalism-internationalism-and-globalism-in-modern-art-spring-2016|Nationalism, Internationalism, and Globalism in Modern Art]] — 4.671, Spring 2016
 - [[4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004|Architectural Design, Level III: A Student Center for MIT]] — 4.155B, Fall 2004
 - [[4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012|Geometric Disciplines and Architecture Skills: Reciprocal Methodologies]] — 4.105, Fall 2012

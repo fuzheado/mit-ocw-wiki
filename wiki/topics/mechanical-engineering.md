@@ -12,6 +12,16 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-051-structural-engineering-design-fall-2003|Structural Engineering Design]] — 1.051, Fall 2003
+- [[6-186-mobile-autonomous-systems-laboratory-january-iap-2005|Mobile Autonomous Systems Laboratory]] — 6.186, January IAP 2005
+- [[2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004|Maneuvering and Control of Surface and Underwater Vehicles (13.49)]] — 2.154, Fall 2004
+- [[2-086-numerical-computation-for-mechanical-engineers-spring-2013|Numerical Computation for Mechanical Engineers]] — 2.086, Spring 2013
+- [[2-019-design-of-ocean-systems-spring-2011|Design of Ocean Systems]] — 2.019, Spring 2011
+- [[2-081j-plates-and-shells-spring-2007|Plates and Shells]] — 2.081J, Spring 2007
+- [[2-161-signal-processing-continuous-and-discrete-fall-2008|Signal Processing: Continuous and Discrete]] — 2.161, Fall 2008
+- [[2-080j-structural-mechanics-fall-2013|Structural Mechanics]] — 2.080J, Fall 2013
+- [[21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004|Technical Design: Scenery, Mechanisms, and Special Effects]] — 21M.735, Spring 2004
+- [[2-700-principles-of-naval-architecture-fall-2014|Principles of Naval Architecture]] — 2.700, Fall 2014
 - [[6-973-organic-optoelectronics-spring-2003|Organic Optoelectronics]] — 6.973, Spring 2003
 - [[3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005|Symmetry, Structure, and Tensor Properties of Materials]] — 3.60, Fall 2005
 - [[ec-721-wheelchair-design-in-developing-countries-spring-2009|Wheelchair Design in Developing Countries]] — EC.721, Spring 2009

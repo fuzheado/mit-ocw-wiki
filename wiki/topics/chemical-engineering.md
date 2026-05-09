@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[22-106-neutron-interactions-and-applications-spring-2010|Neutron Interactions and Applications]] — 22.106, Spring 2010
+- [[10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004|Integrated Chemical Engineering Topics I: Introduction to Biocatalysis]] — 10.492-2, Fall 2004
 - [[10-32-separation-processes-spring-2005|Separation Processes]] — 10.32, Spring 2005
 - [[3-91-mechanical-behavior-of-plastics-spring-2007|Mechanical Behavior of Plastics]] — 3.91, Spring 2007
 - [[10-450-process-dynamics-operations-and-control-spring-2006|Process Dynamics, Operations, and Control]] — 10.450, Spring 2006

@@ -12,6 +12,8 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-988-system-dynamics-self-study-fall-1998-spring-1999|System Dynamics Self Study]] — 15.988, Fall 1998
+- [[15-220-global-strategy-and-organization-spring-2012|Global Strategy and Organization]] — 15.220, Spring 2012
 - [[1-259j-transit-management-fall-2006|Transit Management]] — 1.259J, Fall 2006
 - [[15-963-management-accounting-and-control-spring-2007|Management Accounting and Control]] — 15.963, Spring 2007
 - [[15-783j-product-design-and-development-spring-2006|Product Design and Development]] — 15.783J, Spring 2006

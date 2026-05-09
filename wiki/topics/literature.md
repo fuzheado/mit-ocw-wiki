@@ -12,6 +12,16 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-016-learning-from-the-past-drama-science-performance-spring-2009|Learning from the Past: Drama, Science, Performance]] — 21L.016, Spring 2009
+- [[21l-715-media-in-cultural-context-spring-2007|Media in Cultural Context]] — 21L.715, Spring 2007
+- [[21m-846-topics-in-performance-studies-comedy-across-media-spring-2018|Topics in Performance Studies: Comedy Across Media]] — 21M.846, Spring 2018
+- [[21l-704-studies-in-poetry-gender-and-lyric-renaissance-men-and-women-writing-about-love-spring-2003|Studies in Poetry: Gender and Lyric -- Renaissance Men and Women Writing about Love]] — 21L.704, Spring 2003
+- [[21l-705-major-authors-oscar-wilde-and-the-90s-spring-2003|Major Authors: Oscar Wilde and the '90's]] — 21L.705, Spring 2003
+- [[21l-512-american-authors-autobiography-and-memoir-fall-2013|American Authors: Autobiography and Memoir]] — 21L.512, Fall 2013
+- [[21m-611-foundations-of-theater-practice-fall-2009|Foundations of Theater Practice]] — 21M.611, Fall 2009
+- [[21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014|Advanced German Literature & Culture: Madness, Murder, Mysteries]] — 21G.412, Fall 2014
+- [[21g-312-basic-themes-in-french-literature-and-culture-spring-2011|Basic Themes in French Literature and Culture]] — 21G.312, Spring 2011
+- [[11-225-argumentation-and-communication-fall-2006|Argumentation and Communication]] — 11.225, Fall 2006
 - [[21l-488-contemporary-literature-spring-2003|Contemporary Literature]] — 21L.488, Spring 2003
 - [[21l-705-major-authors-after-the-masterpiece-novels-by-melville-twain-faulkner-and-morrison-fall-2006|Major Authors: After the Masterpiece: Novels by Melville, Twain, Faulkner, and Morrison]] — 21L.705, Fall 2006
 - [[21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003|Foundations of Western Culture II: Renaissance to Modernity]] — 21L.002-2, Spring 2003

@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21h-575j-women-in-south-asia-from-1800-to-present-fall-2006|Women in South Asia from 1800 to Present]] — 21H.575J, Fall 2006
+- [[21l-704-studies-in-poetry-gender-and-lyric-renaissance-men-and-women-writing-about-love-spring-2003|Studies in Poetry: Gender and Lyric -- Renaissance Men and Women Writing about Love]] — 21L.704, Spring 2003
 - [[wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009|Gender, Race, and the Complexities of Science and Technology: A Problem-Based Learning Experiment]] — WGS.693, Spring 2009
 - [[wgs-150-gender-power-leadership-and-the-workplace-spring-2015|Gender, Power, Leadership and the Workplace]] — WGS.150, Spring 2015
 - [[21a-470j-gender-and-representation-of-asian-women-spring-2010|Gender and Representation of Asian Women]] — 21A.470J, Spring 2010
