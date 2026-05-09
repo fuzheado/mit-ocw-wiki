@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-8300-advances-in-computer-vision-spring-2025|Advances in Computer Vision]]
 - [[6-s980-machine-learning-for-inverse-graphics-fall-2022|Machine Learning for Inverse Graphics]]

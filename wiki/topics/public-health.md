@@ -12,6 +12,7 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[res-sud-01-substance-use-disorder-ventures-program-spring-2025|Substance Use Disorder Ventures Program ]] — RES.SUD-01, Spring 2025
 - [[sts-005-disease-and-society-in-america-fall-2005|Disease and Society in America]] — STS.005, Fall 2005
 - [[pe-710-tennis-spring-2007|Tennis]] — PE.710, Spring 2007
 - [[ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010|Special Topics at Edgerton Center:Developing World Prosthetics]] — EC.722, Spring 2010

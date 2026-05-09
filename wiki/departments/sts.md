@@ -12,6 +12,9 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[6-4590-foundations-of-information-policy-fall-2024|Foundations of Information Policy]] (6.4590)
+- [[res-sts-001-mit-project-on-embodied-education-fall-2024|MIT Project on Embodied Education]] (RES.STS-001)
+- [[sts-464-technology-and-the-literary-imagination-spring-2008|Technology and the Literary Imagination]] (STS.464)
 - [[sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007|Engineering Apollo: The Moon Project as a Complex System]] (STS.471J)
 - [[sts-001-technology-in-american-history-spring-2006|Technology in American History]] (STS.001)
 - [[sts-007-technology-in-history-fall-2010|Technology in History]] (STS.007)

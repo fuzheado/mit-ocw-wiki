@@ -12,6 +12,9 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21m-383-computational-music-theory-and-analysis-spring-2023|Computational Music Theory and Analysis]] — 21M.383, Spring 2023
+- [[21m-011-introduction-to-western-music-fall-2024|Introduction to Western Music]] — 21M.011, Fall 2024
+- [[res-21m-001-heavy-metal-101-january-iap-2025|Heavy Metal 101]] — RES.21M-001, January IAP 2025
 - [[21m-385-interactive-music-systems-fall-2016|Interactive Music Systems]] — 21M.385, Fall 2016
 - [[21m-303-writing-in-tonal-forms-i-spring-2009|Writing in Tonal Forms I]] — 21M.303, Spring 2009
 - [[21m-289-islam-media-spring-2015|Islam/Media]] — 21M.289, Spring 2015

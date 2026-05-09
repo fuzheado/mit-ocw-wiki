@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[12-010-computational-methods-of-scientific-programming-fall-2024|Computational Methods of Scientific Programming]] — 12.010, Fall 2024
+- [[6-1200j-mathematics-for-computer-science-spring-2024|Mathematics for Computer Science]] — 6.1200J, Spring 2024
 - [[6-895-essential-coding-theory-fall-2004|Essential Coding Theory]] — 6.895, Fall 2004
 - [[6-096-algorithms-for-computational-biology-spring-2005|Algorithms for Computational Biology]] — 6.096, Spring 2005
 - [[6-438-algorithms-for-inference-fall-2014|Algorithms for Inference]] — 6.438, Fall 2014

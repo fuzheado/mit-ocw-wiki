@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-1200j-mathematics-for-computer-science-spring-2024|Mathematics for Computer Science]]
 - [[6-046j-introduction-to-algorithms-sma-5503-fall-2005|Introduction to Algorithms (SMA 5503)]]
 - [[es-268-the-mathematics-in-toys-and-games-spring-2010|The Mathematics in Toys and Games]]
 - [[6-006-introduction-to-algorithms-spring-2008|Introduction to Algorithms]]

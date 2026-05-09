@@ -12,6 +12,22 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[8-033-introduction-to-relativity-and-spacetime-physics-fall-2024|Introduction to Relativity and Spacetime Physics]] — 8.033, Fall 2024
+- [[8-902-astrophysics-ii-fall-2023|Astrophysics II]] — 8.902, Fall 2023
+- [[2-43-advanced-thermodynamics-spring-2024|Advanced Thermodynamics]] — 2.43, Spring 2024
+- [[res-12-001-topics-in-fluid-dynamics-fall-2024|Topics in Fluid Dynamics]] — RES.12-001, Fall 2024
+- [[18-238-geometry-and-quantum-field-theory-spring-2023|Geometry and Quantum Field Theory]] — 18.238, Spring 2023
+- [[22-67j-principles-of-plasma-diagnostics-fall-2023|Principles of Plasma Diagnostics]] — 22.67J, Fall 2023
+- [[res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012|STAR: Software Tools for Academics and Researchers]] — RES.TLL-002, Spring 2012
+- [[22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-spring-2024|Introduction to Nuclear Engineering and Ionizing Radiation]] — 22.01, Spring 2024
+- [[res-8-002-a-wikitextbook-for-introductory-mechanics-fall-2009|A WikiTextBook for Introductory Mechanics]] — RES.8-002, Fall 2009
+- [[8-02-physics-ii-electricity-and-magnetism-spring-2019|Physics II: Electricity and Magnetism]] — 8.02, Spring 2019
+- [[3-225-electronic-and-mechanical-properties-of-materials-fall-2007|Electronic and Mechanical Properties of Materials]] — 3.225, Fall 2007
+- [[res-hs-001-chandra-astrophysics-institute|Chandra Astrophysics Institute]] — RES.HS-001, None None
+- [[8-323-relativistic-quantum-field-theory-i-spring-2023|Relativistic Quantum Field Theory I]] — 8.323, Spring 2023
+- [[1-033-mechanics-of-material-systems-an-energy-approach-fall-2003|Mechanics of Material Systems: An Energy Approach]] — 1.033, Fall 2003
+- [[3-a08-attraction-and-repulsion-the-magic-of-magnets-fall-2005|Attraction and Repulsion: The Magic of Magnets]] — 3.A08, Fall 2005
+- [[10-40-chemical-engineering-thermodynamics-fall-2003|Chemical Engineering Thermodynamics]] — 10.40, Fall 2003
 - [[18-969-topics-in-geometry-mirror-symmetry-spring-2009|Topics in Geometry: Mirror Symmetry]] — 18.969, Spring 2009
 - [[8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013|Statistical Mechanics I:  Statistical Mechanics of Particles]] — 8.333, Fall 2013
 - [[12-581-phase-transitions-in-the-earths-interior-spring-2005|Phase Transitions in the Earth's Interior]] — 12.581, Spring 2005

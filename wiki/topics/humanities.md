@@ -20,6 +20,46 @@ courses_count: 0
 
 ## Courses
 
+- [[21h-151-dynastic-china-fall-2024|Dynastic China]] — 21h.151, Fall 2024
+- [[11-013j-american-urban-history-spring-2025|American Urban History]] — 11.013J, Spring 2025
+- [[6-c35-interactive-data-visualization-and-society-spring-2025|Interactive Data Visualization and Society]] — 6.C35, Spring 2025
+- [[21l-434-the-science-fiction-of-freedom-fall-2024|The Science Fiction of Freedom]] — 21L.434, Fall 2024
+- [[21g-111-chinese-calligraphy-spring-2024|Chinese Calligraphy]] — 21G.111, Spring 2024
+- [[21m-383-computational-music-theory-and-analysis-spring-2023|Computational Music Theory and Analysis]] — 21M.383, Spring 2023
+- [[21m-011-introduction-to-western-music-fall-2024|Introduction to Western Music]] — 21M.011, Fall 2024
+- [[cms-621-fans-and-fan-cultures-fall-2024|Fans and Fan Cultures]] — CMS.621, Fall 2024
+- [[res-21m-001-heavy-metal-101-january-iap-2025|Heavy Metal 101]] — RES.21M-001, January IAP 2025
+- [[21a-s01-anthro-engineering-decarbonization-at-the-million-person-scale-fall-2023|Anthro-Engineering: Decarbonization at the Million-Person Scale]] — 21A.S01, Fall 2023
+- [[res-21g-108-project-based-language-learning-for-chinese-streamlined-ii-spring-2024|Project-Based Language Learning for Chinese II (Streamlined)]] — RES.21G-108, Spring 2024
+- [[24-906j-the-linguistic-study-of-bilingualism-fall-2024|The Linguistic Study of Bilingualism]] — 24.906J, Fall 2024
+- [[24-220-moral-psychology-spring-2024|Moral Psychology]] — 24.220, Spring 2024
+- [[21h-336-the-making-of-a-roman-emperor-spring-2023|The Making of a Roman Emperor]] — 21h.336, Spring 2023
+- [[wgs-110j-sexual-and-gender-identities-in-the-modern-united-states-spring-2024|Sexual and Gender Identities in the Modern United States]] — WGS.110J, Spring 2024
+- [[24-150j-liberalism-toleration-and-freedom-of-speech-fall-2023|Liberalism, Toleration, and Freedom of Speech]] — 24.150J, Fall 2023
+- [[21l-004-reading-poetry-social-poetics-spring-2023|Reading Poetry: Social Poetics]] — 21L.004, Spring 2023
+- [[21g-s56-japanese-vi-spring-2023|Japanese VI]] — 21G.S56, Spring 2023
+- [[21g-321-childhood-and-youth-in-french-and-francophone-cultures-spring-2024|Childhood and Youth in French and Francophone Cultures]] — 21G.321, Spring 2024
+- [[21g-346-north-america-through-french-eyes-fall-2023|North America through French Eyes]] — 21G.346, Fall 2023
+- [[21g-320-introduction-to-french-literature-spring-2023|Introduction to French Literature	]] — 21G.320, Spring 2023
+- [[24-904-language-acquisition-spring-2022|Language Acquisition]] — 24.904, Spring 2022
+- [[2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007|Undergraduate Thesis for Course 2-A]] — 2.ThA, January IAP 2007
+- [[res-21w-01-angles-fall-2015|Angles]] — RES.21W-01, Fall 2015
+- [[res-21g-3001-teaching-la-princesse-de-cleves-fall-2023|Teaching La Princesse de Clèves]] — RES.21G-3001, Fall 2023
+- [[res-21g-3004-marguerite-de-navarre-society-website-fall-2023|Marguerite de Navarre Society Website]] — RES.21G-3004, Fall 2023
+- [[res-21g-3003-marguerite-de-roberval-a-web-based-approach-to-teaching-a-renaissance-heroine-fall-2023|Marguerite de Roberval: A Web-Based Approach to Teaching a Renaissance Heroine]] — RES.21G-3003, Fall 2023
+- [[res-21g-3002-teaching-marguerite-de-navarres-heptameron-fall-2023|Teaching Marguerite de Navarre's Heptaméron]] — RES.21G-3002, Fall 2023
+- [[res-21g-601-telebridges-russian-conversation-exchange-site-fall-2021|Телемосты (Telebridges) Russian Conversation Exchange Site]] — RES.21G-601, Fall 2021
+- [[21h-390-theories-and-methods-in-the-study-of-history-fall-2022|Theories and Methods in the Study of History]] — 21H.390, Fall 2022
+- [[21l-601j-old-english-and-beowulf-spring-2023|Old English and Beowulf]] — 21L.601J, Spring 2023
+- [[24-906j-linguistic-studies-of-bilingualism-fall-2012|Linguistic Studies of Bilingualism]] — 24.906J, Fall 2012
+- [[21l-705-masterworks-in-american-short-fiction-fall-2005|Masterworks in American Short Fiction]] — 21L.705, Fall 2005
+- [[3-a08-attraction-and-repulsion-the-magic-of-magnets-fall-2005|Attraction and Repulsion: The Magic of Magnets]] — 3.A08, Fall 2005
+- [[21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006|Japan in the Age of the Samurai:  History and Film]] — 21H.522, Fall 2006
+- [[18-06ci-linear-algebra-communications-intensive-spring-2004|Linear Algebra - Communications Intensive]] — 18.06CI, Spring 2004
+- [[15-289-communication-skills-for-academics-spring-2002|Communication Skills for Academics]] — 15.289, Spring 2002
+- [[21l-488-contemporary-literature-british-novels-now-spring-2007|Contemporary Literature: British Novels Now]] — 21L.488, Spring 2007
+- [[sts-464-technology-and-the-literary-imagination-spring-2008|Technology and the Literary Imagination]] — STS.464, Spring 2008
+- [[24-s95-linguistics-in-k-12-education-spring-2023|Linguistics in K–12 Education]] — 24.S95, Spring 2023
 - [[21a-111j-for-love-and-money-rethinking-the-family-spring-2016|For Love and Money: Rethinking the Family]] — 21A.111J, Spring 2016
 - [[21g-403-german-iii-spring-2004|German III]] — 21G.403, Spring 2004
 - [[res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021|Kanji Learning Any Time, Any Place for Japanese VI]] — RES.21G-506, Spring 2021

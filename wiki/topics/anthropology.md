@@ -12,6 +12,13 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-506-ethnic-politics-fall-2024|Ethnic Politics]] — 17.506, Fall 2024
+- [[21g-321-childhood-and-youth-in-french-and-francophone-cultures-spring-2024|Childhood and Youth in French and Francophone Cultures]] — 21G.321, Spring 2024
+- [[21g-346-north-america-through-french-eyes-fall-2023|North America through French Eyes]] — 21G.346, Fall 2023
+- [[21a-445j-slavery-and-human-trafficking-in-the-21st-century-spring-2015|Slavery and Human Trafficking in the 21st Century]] — 21A.445J, Spring 2015
+- [[21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006|Japan in the Age of the Samurai:  History and Film]] — 21H.522, Fall 2006
+- [[21a-00-introduction-to-anthropology-spring-2013|Introduction to Anthropology]] — 21A.00, Spring 2013
+- [[sts-464-technology-and-the-literary-imagination-spring-2008|Technology and the Literary Imagination]] — STS.464, Spring 2008
 - [[21a-111j-for-love-and-money-rethinking-the-family-spring-2016|For Love and Money: Rethinking the Family]] — 21A.111J, Spring 2016
 - [[21g-013-out-of-ground-zero-catastrophe-and-memory-fall-2005|Out of Ground Zero: Catastrophe and Memory]] — 21G.013, Fall 2005
 - [[21h-235-metropolis-history-of-new-york-city-fall-2009|Metropolis: History of New York City]] — 21H.235, Fall 2009

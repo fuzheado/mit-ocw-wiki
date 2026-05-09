@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21h-151-dynastic-china-fall-2024|Dynastic China]]
 - [[21h-152-modern-china-spring-2022|Modern China]]

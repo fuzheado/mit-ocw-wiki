@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[2-008-design-and-manufacturing-ii-spring-2025|Design and Manufacturing II]] — 2.008, Spring 2025
+- [[15-060-data-models-and-decisions-fall-2014|Data, Models, and Decisions]] — 15.060, Fall 2014
+- [[15-972-professional-seminar-in-sustainability-spring-2010|Professional Seminar in Sustainability]] — 15.972, Spring 2010
 - [[res-16-001-lean-enterprise-en-espanol-january-iap-2012|Lean Enterprise en Español]] — RES.16-001, January IAP 2012
 - [[15-792j-proseminar-in-manufacturing-fall-2005|Proseminar in Manufacturing]] — 15.792J, Fall 2005
 - [[15-818-pricing-spring-2010|Pricing]] — 15.818, Spring 2010

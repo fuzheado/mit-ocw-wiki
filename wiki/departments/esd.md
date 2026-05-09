@@ -10,6 +10,7 @@ courses_count: 0
 
 ## Courses
 
+- [[1-201j-transportation-systems-analysis-demand-and-economics-fall-2008|Transportation Systems Analysis: Demand and Economics]] (1.201J)
 - [[1-203j-logistical-and-transportation-planning-methods-fall-2006|Logistical and Transportation Planning Methods]] (1.203J)
 - [[sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007|Engineering Apollo: The Moon Project as a Complex System]] (STS.471J)
 - [[esd-123j-systems-perspectives-on-industrial-ecology-spring-2006|Systems Perspectives on Industrial Ecology]] (ESD.123J)

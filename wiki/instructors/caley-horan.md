@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[wgs-110j-sexual-and-gender-identities-in-the-modern-united-states-spring-2024|Sexual and Gender Identities in the Modern United States]]
 - [[21h-211-the-united-states-in-the-nuclear-age-spring-2016|The United States in the Nuclear Age]]
 - [[21h-102-american-history-since-1865-spring-2018|American History Since 1865]]
 - [[wgs-110j-sexual-and-gender-identities-spring-2016|Sexual and Gender Identities]]

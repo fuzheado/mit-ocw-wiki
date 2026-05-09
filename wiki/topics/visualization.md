@@ -2,6 +2,12 @@
 
 ## Courses
 
+- [[6-7960-deep-learning-fall-2024|Deep Learning]] — 6.7960, Fall 2024
+- [[6-c35-interactive-data-visualization-and-society-spring-2025|Interactive Data Visualization and Society]] — 6.C35, Spring 2025
+- [[introduction-to-r-and-gis-fall-2023|Introduction to R and Geographic Information Systems (GIS)]] — RES.1-002, Fall 2023
+- [[res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009|Statistics and Visualization for Data Analysis and Inference]] — RES.9-0002, January IAP 2009
+- [[11-204-planning-communications-and-digital-media-fall-2004|Planning, Communications, and Digital Media]] — 11.204, Fall 2004
+- [[11-520-a-workshop-on-geographic-information-systems-fall-2005|A Workshop on Geographic Information Systems]] — 11.520, Fall 2005
 - [[mas-531-computational-camera-and-photography-fall-2009|Computational Camera and Photography]] — MAS.531, Fall 2009
 - [[6-438-algorithms-for-inference-fall-2014|Algorithms for Inference]] — 6.438, Fall 2014
 - [[11-522-research-seminar-on-urban-information-systems-fall-2005|Research Seminar on Urban Information Systems]] — 11.522, Fall 2005

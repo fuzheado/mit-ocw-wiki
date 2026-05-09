@@ -25,6 +25,55 @@ courses_count: 0
 
 ## Courses
 
+- [[4-241j-the-making-of-cities-spring-2025|The Making of Cities]] — 4.241J, Spring 2025
+- [[res-11-003-climate-justice-instructional-toolkit-spring-2025|Climate Justice Instructional Toolkit]] — RES.11-003, Spring 2025
+- [[res-14-004-seven-questions-about-tariffs-that-everyone-should-know-the-answer-to-january-iap-2026|Seven Questions About Tariffs That Everyone Should Know the Answer To]] — RES.14-004, January IAP 2026
+- [[17-506-ethnic-politics-fall-2024|Ethnic Politics]] — 17.506, Fall 2024
+- [[14-41-public-finance-and-public-policy-fall-2024|Public Finance and Public Policy]] — 14.41, Fall 2024
+- [[11-013j-american-urban-history-spring-2025|American Urban History]] — 11.013J, Spring 2025
+- [[18-200-principles-of-discrete-applied-mathematics-spring-2024|Principles of Discrete Applied Mathematics]] — 18.200, Spring 2024
+- [[6-c35-interactive-data-visualization-and-society-spring-2025|Interactive Data Visualization and Society]] — 6.C35, Spring 2025
+- [[14-661-labor-economics-i-fall-2024|Labor Economics I]] — 14.661, Fall 2024
+- [[6-4590-foundations-of-information-policy-fall-2024|Foundations of Information Policy]] — 6.4590, Fall 2024
+- [[14.126-game-theory-spring-2024|Game Theory]] — 14.126, Spring 2024
+- [[14-01-principles-of-microeconomics-fall-2023|Principles of Microeconomics ]] — 14.01, Fall 2023
+- [[res-11-004-facilitative-leadership-in-the-public-sector-fall-2024|Facilitative Leadership in the Public Sector]] — RES.11-004, Fall 2024
+- [[24-220-moral-psychology-spring-2024|Moral Psychology]] — 24.220, Spring 2024
+- [[17-588-field-seminar-in-comparative-politics-spring-2024|Field Seminar in Comparative Politics ]] — 17.588, Spring 2024
+- [[wgs-110j-sexual-and-gender-identities-in-the-modern-united-states-spring-2024|Sexual and Gender Identities in the Modern United States]] — WGS.110J, Spring 2024
+- [[14-271-industrial-organization-i-fall-2022|Industrial Organization I]] — 14.271, Fall 2022
+- [[17-46-u-s-national-security-policy-fall-2023|U.S. National Security Policy]] — 17.46, Fall 2023
+- [[wgs-301j-feminist-thought-fall-2023|Feminist Thought]] — WGS.301J, Fall 2023
+- [[14-02-principles-of-macroeconomics-spring-2023|Principles of Macroeconomics]] — 14.02, Spring 2023
+- [[21g-321-childhood-and-youth-in-french-and-francophone-cultures-spring-2024|Childhood and Youth in French and Francophone Cultures]] — 21G.321, Spring 2024
+- [[21g-346-north-america-through-french-eyes-fall-2023|North America through French Eyes]] — 21G.346, Fall 2023
+- [[15-481x-adaptive-markets-financial-market-dynamics-and-human-behavior-fall-2022|Adaptive Markets: Financial Market Dynamics and Human Behavior]] — 15.481X, Fall 2022
+- [[11-309j-sensing-place-photography-as-inquiry-spring-2024|Sensing Place: Photography as Inquiry]] — 11.309J, Spring 2024
+- [[11-308j-ecological-urbanism-spring-2024|Ecological Urbanism]] — 11.308J, Spring 2024
+- [[wgs-109-women-and-global-activism-in-art-media-and-politics-fall-2023|Women and Global Activism in Art, Media and Politics]] — WGS.109, Fall 2023
+- [[wgs-101-introduction-to-womens-and-gender-studies-spring-2023|Introduction to Women's and Gender Studies]] — WGS.101, Spring 2023
+- [[res-21w-01-angles-fall-2015|Angles]] — RES.21W-01, Fall 2015
+- [[14-310x-data-analysis-for-social-scientists-spring-2023|Data Analysis for Social Scientists]] — 14.310x, Spring 2023
+- [[res-14-003-the-roosevelt-project-spring-2023|The Roosevelt Project]] — RES.14-003, Spring 2023
+- [[17-41-introduction-to-international-relations-spring-2023|Introduction to International Relations]] — 17.41, Spring 2023
+- [[res-ec-004-energy-needs-assessment-toolkit|Energy Needs Assessment Toolkit]] — RES.EC-004, Spring 2017
+- [[res-1-001-project-evaluation-essays-and-case-studies-fall-2023|Project Evaluation: Essays and Case Studies]] — RES.1-001, Fall 2023
+- [[17-262-congress-and-the-american-political-system-ii-spring-2023|Congress and the American Political System II]] — 17.262, Spring 2023
+- [[21a-445j-slavery-and-human-trafficking-in-the-21st-century-spring-2015|Slavery and Human Trafficking in the 21st Century]] — 21A.445J, Spring 2015
+- [[14-452-macroeconomic-theory-ii-spring-2007|Macroeconomic Theory II]] — 14.452, Spring 2007
+- [[21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006|Japan in the Age of the Samurai:  History and Film]] — 21H.522, Fall 2006
+- [[1-201j-transportation-systems-analysis-demand-and-economics-fall-2008|Transportation Systems Analysis: Demand and Economics]] — 1.201J, Fall 2008
+- [[11-948-the-politics-of-reconstructing-iraq-spring-2005|The Politics of Reconstructing Iraq]] — 11.948, Spring 2005
+- [[21a-00-introduction-to-anthropology-spring-2013|Introduction to Anthropology]] — 21A.00, Spring 2013
+- [[15-289-communication-skills-for-academics-spring-2002|Communication Skills for Academics]] — 15.289, Spring 2002
+- [[11-204-planning-communications-and-digital-media-fall-2004|Planning, Communications, and Digital Media]] — 11.204, Fall 2004
+- [[mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008|NextLab I: Designing Mobile Technologies for the Next Billion Users]] — MAS.965, Fall 2008
+- [[14-30-introduction-to-statistical-method-in-economics-spring-2006|Introduction to Statistical Method in Economics]] — 14.30, Spring 2006
+- [[11-520-a-workshop-on-geographic-information-systems-fall-2005|A Workshop on Geographic Information Systems]] — 11.520, Fall 2005
+- [[sts-464-technology-and-the-literary-imagination-spring-2008|Technology and the Literary Imagination]] — STS.464, Spring 2008
+- [[12-215-modern-navigation-fall-2006|Modern Navigation]] — 12.215, Fall 2006
+- [[15-972-professional-seminar-in-sustainability-spring-2010|Professional Seminar in Sustainability]] — 15.972, Spring 2010
+- [[14-471-public-economics-i-fall-2012|Public Economics I]] — 14.471, Fall 2012
 - [[21a-111j-for-love-and-money-rethinking-the-family-spring-2016|For Love and Money: Rethinking the Family]] — 21A.111J, Spring 2016
 - [[1-203j-logistical-and-transportation-planning-methods-fall-2006|Logistical and Transportation Planning Methods]] — 1.203J, Fall 2006
 - [[14-12-economic-applications-of-game-theory-fall-2012|Economic Applications of Game Theory]] — 14.12, Fall 2012

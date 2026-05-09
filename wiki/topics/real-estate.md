@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[11-350-sustainable-real-estate-spring-2023|Sustainable Real Estate]] — 11.350, Spring 2023
+- [[res-1-001-project-evaluation-essays-and-case-studies-fall-2023|Project Evaluation: Essays and Case Studies]] — RES.1-001, Fall 2023
 - [[11-333-urban-design-seminar-spring-2016|Urban Design Seminar]] — 11.333, Spring 2016
 - [[1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004|E-Commerce and the Internet in Real Estate and Construction]] — 1.464, Spring 2004
 - [[11-433j-real-estate-economics-fall-2008|Real Estate Economics]] — 11.433J, Fall 2008

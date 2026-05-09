@@ -12,6 +12,7 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-481x-adaptive-markets-financial-market-dynamics-and-human-behavior-fall-2022|Adaptive Markets: Financial Market Dynamics and Human Behavior]] — 15.481X, Fall 2022
 - [[15-818-pricing-spring-2010|Pricing]] — 15.818, Spring 2010
 - [[15-965-technology-strategy-for-system-design-and-management-spring-2009|Technology Strategy for System Design and Management]] — 15.965, Spring 2009
 - [[15-912-technology-strategy-fall-2008|Technology Strategy]] — 15.912, Fall 2008

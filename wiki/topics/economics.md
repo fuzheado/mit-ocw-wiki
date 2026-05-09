@@ -12,6 +12,24 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[res-14-004-seven-questions-about-tariffs-that-everyone-should-know-the-answer-to-january-iap-2026|Seven Questions About Tariffs That Everyone Should Know the Answer To]] — RES.14-004, January IAP 2026
+- [[14-41-public-finance-and-public-policy-fall-2024|Public Finance and Public Policy]] — 14.41, Fall 2024
+- [[14-661-labor-economics-i-fall-2024|Labor Economics I]] — 14.661, Fall 2024
+- [[14.126-game-theory-spring-2024|Game Theory]] — 14.126, Spring 2024
+- [[14-01-principles-of-microeconomics-fall-2023|Principles of Microeconomics ]] — 14.01, Fall 2023
+- [[14-271-industrial-organization-i-fall-2022|Industrial Organization I]] — 14.271, Fall 2022
+- [[14-02-principles-of-macroeconomics-spring-2023|Principles of Macroeconomics]] — 14.02, Spring 2023
+- [[15-481x-adaptive-markets-financial-market-dynamics-and-human-behavior-fall-2022|Adaptive Markets: Financial Market Dynamics and Human Behavior]] — 15.481X, Fall 2022
+- [[14-310x-data-analysis-for-social-scientists-spring-2023|Data Analysis for Social Scientists]] — 14.310x, Spring 2023
+- [[res-14-003-the-roosevelt-project-spring-2023|The Roosevelt Project]] — RES.14-003, Spring 2023
+- [[res-1-001-project-evaluation-essays-and-case-studies-fall-2023|Project Evaluation: Essays and Case Studies]] — RES.1-001, Fall 2023
+- [[21a-445j-slavery-and-human-trafficking-in-the-21st-century-spring-2015|Slavery and Human Trafficking in the 21st Century]] — 21A.445J, Spring 2015
+- [[14-452-macroeconomic-theory-ii-spring-2007|Macroeconomic Theory II]] — 14.452, Spring 2007
+- [[1-201j-transportation-systems-analysis-demand-and-economics-fall-2008|Transportation Systems Analysis: Demand and Economics]] — 1.201J, Fall 2008
+- [[11-948-the-politics-of-reconstructing-iraq-spring-2005|The Politics of Reconstructing Iraq]] — 11.948, Spring 2005
+- [[14-30-introduction-to-statistical-method-in-economics-spring-2006|Introduction to Statistical Method in Economics]] — 14.30, Spring 2006
+- [[15-972-professional-seminar-in-sustainability-spring-2010|Professional Seminar in Sustainability]] — 15.972, Spring 2010
+- [[14-471-public-economics-i-fall-2012|Public Economics I]] — 14.471, Fall 2012
 - [[14-12-economic-applications-of-game-theory-fall-2012|Economic Applications of Game Theory]] — 14.12, Fall 2012
 - [[15-818-pricing-spring-2010|Pricing]] — 15.818, Spring 2010
 - [[esd-123j-systems-perspectives-on-industrial-ecology-spring-2006|Systems Perspectives on Industrial Ecology]] — ESD.123J, Spring 2006

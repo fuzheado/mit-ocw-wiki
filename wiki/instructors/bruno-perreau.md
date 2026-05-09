@@ -8,6 +8,9 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21g-321-childhood-and-youth-in-french-and-francophone-cultures-spring-2024|Childhood and Youth in French and Francophone Cultures]]
+- [[21g-346-north-america-through-french-eyes-fall-2023|North America through French Eyes]]
+- [[21g-320-introduction-to-french-literature-spring-2023|Introduction to French Literature	]]
 - [[21g-053-understanding-contemporary-french-politics-spring-2014|Understanding Contemporary French Politics]]
 - [[21g-347-contemporary-short-french-fiction-social-and-literary-trends-since-1990-fall-2013|Contemporary Short French Fiction: Social and Literary Trends since 1990]]
 - [[21g-325j-new-culture-of-gender-queer-france-fall-2011|New Culture of Gender: Queer France]]

@@ -12,6 +12,11 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-35-perception-spring-2024|Perception]] — 9.35, Spring 2024
+- [[res-9-009-introduction-to-computational-neuroscience-with-neuroblox-january-iap-2025|Introduction to Computational Neuroscience with Neuroblox]] — RES.9-009, January IAP 2025
+- [[24-906j-the-linguistic-study-of-bilingualism-fall-2024|The Linguistic Study of Bilingualism]] — 24.906J, Fall 2024
+- [[https://openlearninglibrary.mit.edu/courses/course-v1:OCW+Pre-7.01+1T2020/about|Getting up to Speed in Biology]] — Pre_7.01r, Spring 2020
+- [[res-9-008-brain-and-cognitive-sciences-computational-tutorials|Brain and Cognitive Sciences Computational Tutorial Series]] — RES.9-008, Fall 2023
 - [[9-401-tools-for-robust-science-fall-2022|Tools for Robust Science]] — 9.401, Fall 2022
 - [[9-51-affective-priming-at-short-and-extremely-short-exposures-spring-2003|Affective Priming at Short and Extremely Short Exposures]] — 9.51, Spring 2003
 - [[9-459-scene-understanding-symposium-spring-2006|Scene Understanding Symposium]] — 9.459, Spring 2006

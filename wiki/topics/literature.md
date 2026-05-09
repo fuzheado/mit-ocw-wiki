@@ -12,6 +12,23 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-434-the-science-fiction-of-freedom-fall-2024|The Science Fiction of Freedom]] — 21L.434, Fall 2024
+- [[cms-621-fans-and-fan-cultures-fall-2024|Fans and Fan Cultures]] — CMS.621, Fall 2024
+- [[21l-004-reading-poetry-social-poetics-spring-2023|Reading Poetry: Social Poetics]] — 21L.004, Spring 2023
+- [[21g-321-childhood-and-youth-in-french-and-francophone-cultures-spring-2024|Childhood and Youth in French and Francophone Cultures]] — 21G.321, Spring 2024
+- [[21g-346-north-america-through-french-eyes-fall-2023|North America through French Eyes]] — 21G.346, Fall 2023
+- [[21g-320-introduction-to-french-literature-spring-2023|Introduction to French Literature	]] — 21G.320, Spring 2023
+- [[2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007|Undergraduate Thesis for Course 2-A]] — 2.ThA, January IAP 2007
+- [[res-21w-01-angles-fall-2015|Angles]] — RES.21W-01, Fall 2015
+- [[res-21g-3001-teaching-la-princesse-de-cleves-fall-2023|Teaching La Princesse de Clèves]] — RES.21G-3001, Fall 2023
+- [[res-21g-3004-marguerite-de-navarre-society-website-fall-2023|Marguerite de Navarre Society Website]] — RES.21G-3004, Fall 2023
+- [[res-21g-3003-marguerite-de-roberval-a-web-based-approach-to-teaching-a-renaissance-heroine-fall-2023|Marguerite de Roberval: A Web-Based Approach to Teaching a Renaissance Heroine]] — RES.21G-3003, Fall 2023
+- [[res-21g-3002-teaching-marguerite-de-navarres-heptameron-fall-2023|Teaching Marguerite de Navarre's Heptaméron]] — RES.21G-3002, Fall 2023
+- [[21l-601j-old-english-and-beowulf-spring-2023|Old English and Beowulf]] — 21L.601J, Spring 2023
+- [[21l-705-masterworks-in-american-short-fiction-fall-2005|Masterworks in American Short Fiction]] — 21L.705, Fall 2005
+- [[18-06ci-linear-algebra-communications-intensive-spring-2004|Linear Algebra - Communications Intensive]] — 18.06CI, Spring 2004
+- [[15-289-communication-skills-for-academics-spring-2002|Communication Skills for Academics]] — 15.289, Spring 2002
+- [[21l-488-contemporary-literature-british-novels-now-spring-2007|Contemporary Literature: British Novels Now]] — 21L.488, Spring 2007
 - [[21g-403-german-iii-spring-2004|German III]] — 21G.403, Spring 2004
 - [[21l-001-foundations-of-western-culture-homer-to-dante-fall-2008|Foundations of Western Culture:  Homer to Dante]] — 21L.001, Fall 2008
 - [[21w-035-science-writing-and-new-media-science-writing-for-the-public-spring-2018|Science Writing and New Media: Science Writing for the Public]] — 21W.035, Spring 2018

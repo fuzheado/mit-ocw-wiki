@@ -12,6 +12,10 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.05r_10+2022_Summer/about|Introduction to Probability and Statistics]] — 18.05, Summer 2022
+- [[res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009|Statistics and Visualization for Data Analysis and Inference]] — RES.9-0002, January IAP 2009
+- [[11-520-a-workshop-on-geographic-information-systems-fall-2005|A Workshop on Geographic Information Systems]] — 11.520, Fall 2005
+- [[15-060-data-models-and-decisions-fall-2014|Data, Models, and Decisions]] — 15.060, Fall 2014
 - [[16-621-experimental-projects-i-spring-2003|Experimental Projects I]] — 16.621, Spring 2003
 - [[11-522-research-seminar-on-urban-information-systems-fall-2005|Research Seminar on Urban Information Systems]] — 11.522, Fall 2005
 - [[15-768-management-of-services-concepts-design-and-delivery-fall-2010|Management of Services: Concepts, Design, and Delivery]] — 15.768, Fall 2010

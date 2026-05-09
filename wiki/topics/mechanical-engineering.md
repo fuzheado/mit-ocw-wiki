@@ -12,6 +12,19 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-008-design-and-manufacturing-ii-spring-2025|Design and Manufacturing II]] — 2.008, Spring 2025
+- [[2-782j-design-of-medical-devices-and-implants-spring-2025|Design of Medical Devices and Implants]] — 2.782J, Spring 2025
+- [[2-79j-biomaterials-tissue-interactions-fall-2022|Biomaterials-Tissue Interactions]] — 2.79J, Fall 2022
+- [[2-785j-cell-matrix-mechanics-fall-2016|Cell-Matrix Mechanics]] — 2.785J, Fall 2016
+- [[2-787j-tissue-engineering-and-organ-regeneration-fall-2024|Tissue Engineering and Organ Regeneration]] — 2.787J, Fall 2024
+- [[2-43-advanced-thermodynamics-spring-2024|Advanced Thermodynamics]] — 2.43, Spring 2024
+- [[res-12-001-topics-in-fluid-dynamics-fall-2024|Topics in Fluid Dynamics]] — RES.12-001, Fall 2024
+- [[res-16-002-how-to-cad-almost-anything-january-iap-2024|How to CAD Almost Anything]] — RES.16-002, January IAP 2024
+- [[2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007|Undergraduate Thesis for Course 2-A]] — 2.ThA, January IAP 2007
+- [[3-054-cellular-solids-structure-properties-and-applications-spring-2015|Cellular Solids: Structure, Properties and Applications]] — 3.054, Spring 2015
+- [[3-225-electronic-and-mechanical-properties-of-materials-fall-2007|Electronic and Mechanical Properties of Materials]] — 3.225, Fall 2007
+- [[1-033-mechanics-of-material-systems-an-energy-approach-fall-2003|Mechanics of Material Systems: An Energy Approach]] — 1.033, Fall 2003
+- [[22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006|Nuclear Power Plant Dynamics and Control]] — 22.921, January IAP 2006
 - [[16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006|Unified Engineering I, II, III, & IV]] — 16.01, Fall 2005
 - [[2-22-design-principles-for-ocean-vehicles-13-42-spring-2005|Design Principles for Ocean Vehicles (13.42)]] — 2.22, Spring 2005
 - [[16-13-aerodynamics-of-viscous-fluids-fall-2003|Aerodynamics of Viscous Fluids]] — 16.13, Fall 2003

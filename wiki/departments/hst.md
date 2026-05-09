@@ -12,6 +12,12 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[hst-953-clinical-data-learning-visualization-and-deployments-fall-2024|Clinical Data Learning, Visualization, and Deployments]] (HST.953)
+- [[2-782j-design-of-medical-devices-and-implants-spring-2025|Design of Medical Devices and Implants]] (2.782J)
+- [[2-79j-biomaterials-tissue-interactions-fall-2022|Biomaterials-Tissue Interactions]] (2.79J)
+- [[2-785j-cell-matrix-mechanics-fall-2016|Cell-Matrix Mechanics]] (2.785J)
+- [[2-787j-tissue-engineering-and-organ-regeneration-fall-2024|Tissue Engineering and Organ Regeneration]] (2.787J)
+- [[hst-508-genomics-and-computational-biology-fall-2002|Genomics and Computational Biology]] (HST.508)
 - [[hst-725-music-perception-and-cognition-spring-2009|Music Perception and Cognition]] (HST.725)
 - [[hst-582j-biomedical-signal-and-image-processing-spring-2007|Biomedical Signal and Image Processing]] (HST.582J)
 - [[hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008|Designing and Sustaining Technology Innovation for Global Health Practice]] (HST.939)

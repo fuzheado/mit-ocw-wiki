@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[17-588-field-seminar-in-comparative-politics-spring-2024|Field Seminar in Comparative Politics ]]
 - [[17-801-political-science-scope-and-methods-fall-2017|Political Science Scope and Methods]]
 - [[17-55j-introduction-to-latin-american-studies-fall-2006|Introduction to Latin American Studies]]
 - [[17-588-field-seminar-in-comparative-politics-fall-2013|Field Seminar in Comparative Politics]]

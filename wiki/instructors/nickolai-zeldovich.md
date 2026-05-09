@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-5660-computer-systems-security-spring-2024|Computer Systems Security]]
 - [[6-858-computer-systems-security-fall-2014|Computer Systems Security]]

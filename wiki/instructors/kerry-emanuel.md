@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[res-env-005-climate-science-risk-solutions-a-climate-primer|Climate Science, Risk & Solutions: A Climate Primer]]
 - [[12-842-climate-physics-and-chemistry-fall-2008|Climate Physics and Chemistry]]
 - [[12-340x-global-warming-science-spring-2020|Global Warming Science]]
 - [[12-811-tropical-meteorology-spring-2011|Tropical Meteorology]]

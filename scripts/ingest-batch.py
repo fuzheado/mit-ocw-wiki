@@ -55,10 +55,20 @@ def instructor_slug(full_name: str) -> str:
     return slugify(name)
 
 
-def build_course_page(course: dict) -> str:
+def course_slug(run: dict) -> str:
+    """Derive a wiki slug from a course run."""
+    if run.get("slug"):
+        return run["slug"].replace("courses/", "")
+    url = run.get("url", "")
+    if url:
+        return url.replace("https://ocw.mit.edu/courses/", "").rstrip("/")
+    return None
+
+def build_course_page(course: dict, slug: str = None) -> str:
     """Generate the markdown for a single course page."""
     run = course["runs"][0]
-    slug = run["slug"].replace("courses/", "")
+    if not slug:
+        slug = course_slug(run)
     course_id = course["course"]["course_numbers"][0]["value"]
     title = run["title"]
     description = run.get("description", "") or ""
@@ -196,25 +206,36 @@ def _process_batch(offset: int, limit: int):
     courses = data["results"]
 
     for course in courses:
+        if not course.get("runs") or not course["runs"][0]:
+            print(f"  SKIP {course.get('title', 'unknown')} (id={course.get('id')}) — no runs data")
+            continue
         run = course["runs"][0]
-        slug = run["slug"].replace("courses/", "")
-        page_path = WIKI_DIR / "courses" / f"{slug}.md"
+        slug = course_slug(run)
+        if not slug:
+            print(f"  SKIP {course.get('title', 'unknown')} (id={course.get('id')}) — no slug")
+            continue
 
-        page = build_course_page(course)
+        page = build_course_page(course, slug)
+        page_path = WIKI_DIR / "courses" / f"{slug}.md"
         page_path.parent.mkdir(parents=True, exist_ok=True)
         page_path.write_text(page)
         print(f"  wrote {slug}")
 
+        # Get course number safely
+        course_num = "Unknown"
+        if course.get("course") and course["course"].get("course_numbers"):
+            course_num = course["course"]["course_numbers"][0]["value"]
+
         # Link from departments
         for dept in course.get("departments", []):
             dept_path = WIKI_DIR / "departments" / f"{dept['department_id'].lower()}.md"
-            line = f"- [[{slug}|{run['title']}]] ({course['course']['course_numbers'][0]['value']})"
+            line = f"- [[{slug}|{run['title']}]] ({course_num})"
             append_to_list(dept_path, line)
 
         # Link from topics
         for topic in course.get("topics", []):
             topic_path = WIKI_DIR / "topics" / f"{topic_slug(topic['name'])}.md"
-            line = f"- [[{slug}|{run['title']}]] — {course['course']['course_numbers'][0]['value']}, {run.get('semester', '')} {run.get('year', '')}"
+            line = f"- [[{slug}|{run['title']}]] — {course_num}, {run.get('semester', '')} {run.get('year', '')}"
             append_to_list(topic_path, line.strip())
 
         # Create instructor pages

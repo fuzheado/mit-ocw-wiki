@@ -12,6 +12,15 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21h-151-dynastic-china-fall-2024|Dynastic China]] — 21h.151, Fall 2024
+- [[11-013j-american-urban-history-spring-2025|American Urban History]] — 11.013J, Spring 2025
+- [[21m-011-introduction-to-western-music-fall-2024|Introduction to Western Music]] — 21M.011, Fall 2024
+- [[21h-336-the-making-of-a-roman-emperor-spring-2023|The Making of a Roman Emperor]] — 21h.336, Spring 2023
+- [[wgs-110j-sexual-and-gender-identities-in-the-modern-united-states-spring-2024|Sexual and Gender Identities in the Modern United States]] — WGS.110J, Spring 2024
+- [[21h-390-theories-and-methods-in-the-study-of-history-fall-2022|Theories and Methods in the Study of History]] — 21H.390, Fall 2022
+- [[3-a08-attraction-and-repulsion-the-magic-of-magnets-fall-2005|Attraction and Repulsion: The Magic of Magnets]] — 3.A08, Fall 2005
+- [[21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006|Japan in the Age of the Samurai:  History and Film]] — 21H.522, Fall 2006
+- [[sts-464-technology-and-the-literary-imagination-spring-2008|Technology and the Literary Imagination]] — STS.464, Spring 2008
 - [[21a-111j-for-love-and-money-rethinking-the-family-spring-2016|For Love and Money: Rethinking the Family]] — 21A.111J, Spring 2016
 - [[11-014j-american-urban-history-ii-fall-2011|American Urban History II]] — 11.014J, Fall 2011
 - [[sts-001-technology-in-american-history-spring-2006|Technology in American History]] — STS.001, Spring 2006

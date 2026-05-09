@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[6-7220j-nonlinear-optimization-spring-2025|Nonlinear Optimization]] — 6.7220J, Spring 2025
+- [[2-008-design-and-manufacturing-ii-spring-2025|Design and Manufacturing II]] — 2.008, Spring 2025
+- [[15-060-data-models-and-decisions-fall-2014|Data, Models, and Decisions]] — 15.060, Fall 2014
 - [[1-203j-logistical-and-transportation-planning-methods-fall-2006|Logistical and Transportation Planning Methods]] — 1.203J, Fall 2006
 - [[16-621-experimental-projects-i-spring-2003|Experimental Projects I]] — 16.621, Spring 2003
 - [[esd-60-lean-six-sigma-processes-summer-2004|Lean/Six Sigma Processes]] — ESD.60, Summer 2004

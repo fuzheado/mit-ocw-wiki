@@ -12,6 +12,7 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-060-data-models-and-decisions-fall-2014|Data, Models, and Decisions]] — 15.060, Fall 2014
 - [[15-795-seminar-in-operations-management-fall-2002|Seminar in Operations Management]] — 15.795, Fall 2002
 - [[15-769-operations-strategy-fall-2010|Operations Strategy]] — 15.769, Fall 2010
 - [[esd-s43-green-supply-chain-management-spring-2014|Green Supply Chain Management]] — ESD.S43, Spring 2014

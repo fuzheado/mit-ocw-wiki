@@ -12,6 +12,7 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-370-interrogative-design-workshop-fall-2005|Interrogative Design Workshop]] — 4.370, Fall 2005
 - [[4-651-art-since-1940-fall-2010|Art Since 1940]] — 4.651, Fall 2010
 - [[4-184-architectural-design-workshop-collage-method-and-form-spring-2004|Architectural Design Workshop: Collage - Method and Form]] — 4.184, Spring 2004
 - [[4-367-studio-seminar-in-public-art-spring-2006|Studio Seminar in Public Art]] — 4.367, Spring 2006

@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[14-271-industrial-organization-i-fall-2022|Industrial Organization I]]
 - [[14-122-microeconomic-theory-ii-fall-2002|Microeconomic Theory II]]

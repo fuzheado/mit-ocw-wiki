@@ -12,6 +12,8 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-358-the-software-business-fall-2005|The Software Business]] — 15.358, Fall 2005
+- [[15-060-data-models-and-decisions-fall-2014|Data, Models, and Decisions]] — 15.060, Fall 2014
 - [[15-965-technology-strategy-for-system-design-and-management-spring-2009|Technology Strategy for System Design and Management]] — 15.965, Spring 2009
 - [[15-571-generating-business-value-from-information-technology-spring-2009|Generating Business Value from Information Technology]] — 15.571, Spring 2009
 - [[15-480x-the-science-and-business-of-biotechnology-fall-2021|The Science and Business of Biotechnology]] — 15.480x, Fall 2021

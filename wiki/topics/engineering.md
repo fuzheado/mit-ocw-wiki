@@ -25,6 +25,64 @@ courses_count: 0
 
 ## Courses
 
+- [[6-s890-topics-in-multiagent-learning-fall-2024|Topics in Multiagent Learning]] — 6.S890, Fall 2024
+- [[6-7220j-nonlinear-optimization-spring-2025|Nonlinear Optimization]] — 6.7220J, Spring 2025
+- [[18-783-elliptic-curves-fall-2025|Elliptic Curves]] — 18.783, Fall 2025
+- [[hst-953-clinical-data-learning-visualization-and-deployments-fall-2024|Clinical Data Learning, Visualization, and Deployments]] — HST.953, Fall 2024
+- [[6-7960-deep-learning-fall-2024|Deep Learning]] — 6.7960, Fall 2024
+- [[2-008-design-and-manufacturing-ii-spring-2025|Design and Manufacturing II]] — 2.008, Spring 2025
+- [[15-773-hands-on-deep-learning-spring-2024|Hands-on Deep Learning]] — 15.773, Spring 2024
+- [[6-c35-interactive-data-visualization-and-society-spring-2025|Interactive Data Visualization and Society]] — 6.C35, Spring 2025
+- [[6-5950-secure-hardware-design-spring-2025|Secure Hardware Design]] — 6.5950, Spring 2025
+- [[res-env-007-geothermal-energy-networks-transforming-our-thermal-energy-system-january-iap-2025|Geothermal Energy Networks: Transforming Our Thermal Energy System]] — RES.ENV-007, January IAP 2025
+- [[15-371-innovation-teams-fall-2024|Innovation Teams]] — 10.807/2.907/15.371, Fall 2024
+- [[12-010-computational-methods-of-scientific-programming-fall-2024|Computational Methods of Scientific Programming]] — 12.010, Fall 2024
+- [[6-8300-advances-in-computer-vision-spring-2025|Advances in Computer Vision]] — 6.8300, Spring 2025
+- [[6-1200j-mathematics-for-computer-science-spring-2024|Mathematics for Computer Science]] — 6.1200J, Spring 2024
+- [[res-9-009-introduction-to-computational-neuroscience-with-neuroblox-january-iap-2025|Introduction to Computational Neuroscience with Neuroblox]] — RES.9-009, January IAP 2025
+- [[2-782j-design-of-medical-devices-and-implants-spring-2025|Design of Medical Devices and Implants]] — 2.782J, Spring 2025
+- [[2-79j-biomaterials-tissue-interactions-fall-2022|Biomaterials-Tissue Interactions]] — 2.79J, Fall 2022
+- [[6-s087-foundation-models-and-generative-ai-january-iap-2024|Foundation Models and Generative AI]] — 6.S087, January IAP 2024
+- [[6-4590-foundations-of-information-policy-fall-2024|Foundations of Information Policy]] — 6.4590, Fall 2024
+- [[mas-s60-how-to-ai-almost-anything-spring-2025|How to AI (Almost) Anything]] — MAS.S60, Spring 2025
+- [[2-785j-cell-matrix-mechanics-fall-2016|Cell-Matrix Mechanics]] — 2.785J, Fall 2016
+- [[2-787j-tissue-engineering-and-organ-regeneration-fall-2024|Tissue Engineering and Organ Regeneration]] — 2.787J, Fall 2024
+- [[6-5630-advanced-topics-in-cryptography-fall-2023|Advanced Topics in Cryptography]] — 6.5630, Fall 2023
+- [[6-5660-computer-systems-security-spring-2024|Computer Systems Security]] — 6.5660, Spring 2024
+- [[2-43-advanced-thermodynamics-spring-2024|Advanced Thermodynamics]] — 2.43, Spring 2024
+- [[res-12-001-topics-in-fluid-dynamics-fall-2024|Topics in Fluid Dynamics]] — RES.12-001, Fall 2024
+- [[6-1810-operating-system-engineering-fall-2023|Operating System Engineering]] — 6.1810, Fall 2023
+- [[res-sp-001-defining-real-world-problems-with-the-d-i-s-method-describe-inquire-state-spring-2024|Defining Real-World Problems With the D.I.S. Method: Describe, Inquire, State]] — RES.SP-001, Spring 2024
+- [[sp-248-neet-ways-of-thinking-fall-2023|NEET Ways of Thinking]] — SP.248, Fall 2023
+- [[11-350-sustainable-real-estate-spring-2023|Sustainable Real Estate]] — 11.350, Spring 2023
+- [[res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012|STAR: Software Tools for Academics and Researchers]] — RES.TLL-002, Spring 2012
+- [[6-622-power-electronics-spring-2023|Power Electronics]] — 6.622, Spring 2023
+- [[22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-spring-2024|Introduction to Nuclear Engineering and Ionizing Radiation]] — 22.01, Spring 2024
+- [[introduction-to-r-and-gis-fall-2023|Introduction to R and Geographic Information Systems (GIS)]] — RES.1-002, Fall 2023
+- [[6-100l-introduction-to-cs-and-programming-using-python-fall-2022|Introduction to CS and Programming using Python]] — 6.100L, Fall 2022
+- [[res-16-002-how-to-cad-almost-anything-january-iap-2024|How to CAD Almost Anything]] — RES.16-002, January IAP 2024
+- [[2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007|Undergraduate Thesis for Course 2-A]] — 2.ThA, January IAP 2007
+- [[3-a26-freshman-seminar-the-nature-of-engineering-fall-2005|Freshman Seminar: The Nature of Engineering]] — 3.A26, Fall 2005
+- [[3-054-cellular-solids-structure-properties-and-applications-spring-2015|Cellular Solids: Structure, Properties and Applications]] — 3.054, Spring 2015
+- [[3-071-amorphous-materials-fall-2015|Amorphous Materials]] — 3.071, Fall 2015
+- [[3-225-electronic-and-mechanical-properties-of-materials-fall-2007|Electronic and Mechanical Properties of Materials]] — 3.225, Fall 2007
+- [[res-1-001-project-evaluation-essays-and-case-studies-fall-2023|Project Evaluation: Essays and Case Studies]] — RES.1-001, Fall 2023
+- [[1-033-mechanics-of-material-systems-an-energy-approach-fall-2003|Mechanics of Material Systems: An Energy Approach]] — 1.033, Fall 2003
+- [[15-358-the-software-business-fall-2005|The Software Business]] — 15.358, Fall 2005
+- [[1-103-civil-engineering-materials-laboratory-spring-2004|Civil Engineering Materials Laboratory]] — 1.103, Spring 2004
+- [[1-85-water-and-wastewater-treatment-engineering-spring-2006|Water and Wastewater Treatment Engineering]] — 1.85, Spring 2006
+- [[res-18-002-introduction-to-matlab-spring-2008|Introduction to MATLAB]] — RES.18-002, Spring 2008
+- [[22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006|Nuclear Power Plant Dynamics and Control]] — 22.921, January IAP 2006
+- [[10-40-chemical-engineering-thermodynamics-fall-2003|Chemical Engineering Thermodynamics]] — 10.40, Fall 2003
+- [[1-201j-transportation-systems-analysis-demand-and-economics-fall-2008|Transportation Systems Analysis: Demand and Economics]] — 1.201J, Fall 2008
+- [[res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009|Statistics and Visualization for Data Analysis and Inference]] — RES.9-0002, January IAP 2009
+- [[1-022-introduction-to-network-models-fall-2018|Introduction to Network Models]] — 1.022, Fall 2018
+- [[11-204-planning-communications-and-digital-media-fall-2004|Planning, Communications, and Digital Media]] — 11.204, Fall 2004
+- [[mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008|NextLab I: Designing Mobile Technologies for the Next Billion Users]] — MAS.965, Fall 2008
+- [[hst-508-genomics-and-computational-biology-fall-2002|Genomics and Computational Biology]] — HST.508, Fall 2002
+- [[11-520-a-workshop-on-geographic-information-systems-fall-2005|A Workshop on Geographic Information Systems]] — 11.520, Fall 2005
+- [[15-060-data-models-and-decisions-fall-2014|Data, Models, and Decisions]] — 15.060, Fall 2014
+- [[12-215-modern-navigation-fall-2006|Modern Navigation]] — 12.215, Fall 2006
 - [[1-203j-logistical-and-transportation-planning-methods-fall-2006|Logistical and Transportation Planning Methods]] — 1.203J, Fall 2006
 - [[sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007|Engineering Apollo: The Moon Project as a Complex System]] — STS.471J, Spring 2007
 - [[6-895-essential-coding-theory-fall-2004|Essential Coding Theory]] — 6.895, Fall 2004

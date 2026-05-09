@@ -12,6 +12,34 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-s890-topics-in-multiagent-learning-fall-2024|Topics in Multiagent Learning]] — 6.S890, Fall 2024
+- [[6-7220j-nonlinear-optimization-spring-2025|Nonlinear Optimization]] — 6.7220J, Spring 2025
+- [[18-783-elliptic-curves-fall-2025|Elliptic Curves]] — 18.783, Fall 2025
+- [[hst-953-clinical-data-learning-visualization-and-deployments-fall-2024|Clinical Data Learning, Visualization, and Deployments]] — HST.953, Fall 2024
+- [[6-7960-deep-learning-fall-2024|Deep Learning]] — 6.7960, Fall 2024
+- [[15-773-hands-on-deep-learning-spring-2024|Hands-on Deep Learning]] — 15.773, Spring 2024
+- [[6-c35-interactive-data-visualization-and-society-spring-2025|Interactive Data Visualization and Society]] — 6.C35, Spring 2025
+- [[6-5950-secure-hardware-design-spring-2025|Secure Hardware Design]] — 6.5950, Spring 2025
+- [[12-010-computational-methods-of-scientific-programming-fall-2024|Computational Methods of Scientific Programming]] — 12.010, Fall 2024
+- [[6-8300-advances-in-computer-vision-spring-2025|Advances in Computer Vision]] — 6.8300, Spring 2025
+- [[6-1200j-mathematics-for-computer-science-spring-2024|Mathematics for Computer Science]] — 6.1200J, Spring 2024
+- [[res-9-009-introduction-to-computational-neuroscience-with-neuroblox-january-iap-2025|Introduction to Computational Neuroscience with Neuroblox]] — RES.9-009, January IAP 2025
+- [[6-s087-foundation-models-and-generative-ai-january-iap-2024|Foundation Models and Generative AI]] — 6.S087, January IAP 2024
+- [[6-4590-foundations-of-information-policy-fall-2024|Foundations of Information Policy]] — 6.4590, Fall 2024
+- [[mas-s60-how-to-ai-almost-anything-spring-2025|How to AI (Almost) Anything]] — MAS.S60, Spring 2025
+- [[6-5630-advanced-topics-in-cryptography-fall-2023|Advanced Topics in Cryptography]] — 6.5630, Fall 2023
+- [[6-5660-computer-systems-security-spring-2024|Computer Systems Security]] — 6.5660, Spring 2024
+- [[6-1810-operating-system-engineering-fall-2023|Operating System Engineering]] — 6.1810, Fall 2023
+- [[https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about|Mathematics for Computer Science]] — 6.042J, Summer 2019
+- [[res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012|STAR: Software Tools for Academics and Researchers]] — RES.TLL-002, Spring 2012
+- [[introduction-to-r-and-gis-fall-2023|Introduction to R and Geographic Information Systems (GIS)]] — RES.1-002, Fall 2023
+- [[6-100l-introduction-to-cs-and-programming-using-python-fall-2022|Introduction to CS and Programming using Python]] — 6.100L, Fall 2022
+- [[15-358-the-software-business-fall-2005|The Software Business]] — 15.358, Fall 2005
+- [[res-18-002-introduction-to-matlab-spring-2008|Introduction to MATLAB]] — RES.18-002, Spring 2008
+- [[res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009|Statistics and Visualization for Data Analysis and Inference]] — RES.9-0002, January IAP 2009
+- [[11-204-planning-communications-and-digital-media-fall-2004|Planning, Communications, and Digital Media]] — 11.204, Fall 2004
+- [[11-520-a-workshop-on-geographic-information-systems-fall-2005|A Workshop on Geographic Information Systems]] — 11.520, Fall 2005
+- [[15-060-data-models-and-decisions-fall-2014|Data, Models, and Decisions]] — 15.060, Fall 2014
 - [[6-895-essential-coding-theory-fall-2004|Essential Coding Theory]] — 6.895, Fall 2004
 - [[6-0002-introduction-to-computational-thinking-and-data-science-fall-2016|Introduction to Computational Thinking and Data Science]] — 6.0002, Fall 2016
 - [[6-096-algorithms-for-computational-biology-spring-2005|Algorithms for Computational Biology]] — 6.096, Spring 2005

@@ -12,6 +12,18 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[res-11-003-climate-justice-instructional-toolkit-spring-2025|Climate Justice Instructional Toolkit]] — RES.11-003, Spring 2025
+- [[res-env-008-climate-environment-and-sustainability-infusion-fellowship-cesif-spring-2025|Climate, Environment, and Sustainability Infusion Fellowship (CESIF)]] — RES.ENV-008, Spring 2025
+- [[res-env-007-geothermal-energy-networks-transforming-our-thermal-energy-system-january-iap-2025|Geothermal Energy Networks: Transforming Our Thermal Energy System]] — RES.ENV-007, January IAP 2025
+- [[2-43-advanced-thermodynamics-spring-2024|Advanced Thermodynamics]] — 2.43, Spring 2024
+- [[11-350-sustainable-real-estate-spring-2023|Sustainable Real Estate]] — 11.350, Spring 2023
+- [[6-622-power-electronics-spring-2023|Power Electronics]] — 6.622, Spring 2023
+- [[res-env-005-climate-science-risk-solutions-a-climate-primer|Climate Science, Risk & Solutions: A Climate Primer]] — RES.ENV-005, None None
+- [[res-14-003-the-roosevelt-project-spring-2023|The Roosevelt Project]] — RES.14-003, Spring 2023
+- [[res-ec-004-energy-needs-assessment-toolkit|Energy Needs Assessment Toolkit]] — RES.EC-004, Spring 2017
+- [[res-1-001-project-evaluation-essays-and-case-studies-fall-2023|Project Evaluation: Essays and Case Studies]] — RES.1-001, Fall 2023
+- [[1-033-mechanics-of-material-systems-an-energy-approach-fall-2003|Mechanics of Material Systems: An Energy Approach]] — 1.033, Fall 2003
+- [[22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006|Nuclear Power Plant Dynamics and Control]] — 22.921, January IAP 2006
 - [[11-333-urban-design-seminar-spring-2016|Urban Design Seminar]] — 11.333, Spring 2016
 - [[ec-711-d-lab-energy-spring-2011|D-Lab: Energy]] — EC.711, Spring 2011
 - [[2-60j-fundamentals-of-advanced-energy-conversion-spring-2020|Fundamentals of Advanced Energy Conversion]] — 2.60J, Spring 2020

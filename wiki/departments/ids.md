@@ -12,6 +12,7 @@ School: [[school-schwarzman-computing|MIT Schwarzman College of Computing]]
 
 ## Courses
 
+- [[6-c35-interactive-data-visualization-and-society-spring-2025|Interactive Data Visualization and Society]] (6.C35)
 - [[ids-910-leadership-development-fall-2014|Leadership Development]] (IDS.910)
 - [[ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010|Engineering, Economics and Regulation of the Electric Power Sector]] (IDS.505J)
 - [[16-355j-software-engineering-concepts-fall-2005|Software Engineering Concepts]] (16.355J)

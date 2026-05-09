@@ -12,6 +12,9 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[cms-595-learning-media-and-technology-spring-2024|Learning, Media, and Technology]] — CMS.595, Spring 2024
+- [[https://openlearninglibrary.mit.edu/courses/course-v1:MITx+7.InT+2021_Fall/about|Inclusive Teaching Module]] — 7.InTr_1, Fall 2021
+- [[res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012|STAR: Software Tools for Academics and Researchers]] — RES.TLL-002, Spring 2012
 - [[mas-714j-technologies-for-creative-learning-fall-2009|Technologies for Creative Learning]] — MAS.714J, Fall 2009
 - [[es-333-producing-educational-videos-spring-2015|Producing Educational Videos]] — ES.333, Spring 2015
 - [[res-tll-005-how-to-speak-january-iap-2018|How to Speak]] — RES.TLL-005, January IAP 2018

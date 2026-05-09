@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[14-02-principles-of-macroeconomics-spring-2023|Principles of Macroeconomics]]
 - [[14-454-economic-crises-spring-2011|Economic Crises]]

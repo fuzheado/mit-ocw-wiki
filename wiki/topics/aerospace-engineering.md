@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[res-16-002-how-to-cad-almost-anything-january-iap-2024|How to CAD Almost Anything]] — RES.16-002, January IAP 2024
 - [[sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007|Engineering Apollo: The Moon Project as a Complex System]] — STS.471J, Spring 2007
 - [[16-83x-space-systems-engineering-spring-2002-spring-2003|Space Systems Engineering]] — 16.83X, Spring 2002
 - [[16-621-experimental-projects-i-spring-2003|Experimental Projects I]] — 16.621, Spring 2003

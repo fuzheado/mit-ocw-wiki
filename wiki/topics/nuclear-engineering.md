@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-spring-2024|Introduction to Nuclear Engineering and Ionizing Radiation]] — 22.01, Spring 2024
+- [[22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006|Nuclear Power Plant Dynamics and Control]] — 22.921, January IAP 2006
 - [[22-251-systems-analysis-of-the-nuclear-fuel-cycle-fall-2009|Systems Analysis of the Nuclear Fuel Cycle]] — 22.251, Fall 2009
 - [[22-15-essential-numerical-methods-fall-2014|Essential Numerical Methods]] — 22.15, Fall 2014
 - [[22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015|Do-It-Yourself (DIY) Geiger Counters]] — 22.S902, January IAP 2015

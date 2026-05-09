@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-370-interrogative-design-workshop-fall-2005|Interrogative Design Workshop]] — 4.370, Fall 2005
+- [[mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008|NextLab I: Designing Mobile Technologies for the Next Billion Users]] — MAS.965, Fall 2008
 - [[mas-531-computational-camera-and-photography-fall-2009|Computational Camera and Photography]] — MAS.531, Fall 2009
 - [[21w-035-science-writing-and-new-media-science-writing-for-the-public-spring-2018|Science Writing and New Media: Science Writing for the Public]] — 21W.035, Spring 2018
 - [[21g-027-asia-in-the-modern-world-images-representations-fall-2016|Asia in the Modern World: Images & Representations]] — 21G.027, Fall 2016

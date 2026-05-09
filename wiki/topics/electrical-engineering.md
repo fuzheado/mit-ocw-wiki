@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-622-power-electronics-spring-2023|Power Electronics]] — 6.622, Spring 2023
+- [[mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008|NextLab I: Designing Mobile Technologies for the Next Billion Users]] — MAS.965, Fall 2008
 - [[mas-531-computational-camera-and-photography-fall-2009|Computational Camera and Photography]] — MAS.531, Fall 2009
 - [[res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017|Collaborative Design and Creative Expression with Arduino Microcontrollers]] — RES.3-002, January IAP 2017
 - [[6-451-principles-of-digital-communication-ii-spring-2005|Principles of Digital Communication II]] — 6.451, Spring 2005

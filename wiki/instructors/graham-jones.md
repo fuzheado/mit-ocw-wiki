@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21a-00-introduction-to-anthropology-spring-2013|Introduction to Anthropology]]
 - [[21a-00-introduction-to-anthropology-spring-2022|Introduction to Anthropology]]
 - [[21a-157-the-meaning-of-life-spring-2019|The Meaning of Life]]
 - [[21a-520-magic-science-and-religion-fall-2021|Magic, Science, and Religion]]

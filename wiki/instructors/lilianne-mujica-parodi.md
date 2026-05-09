@@ -1,0 +1,11 @@
+---
+name: "Prof. Lilianne Mujica-Parodi"
+type: instructor
+courses_count: 1
+---
+
+# Prof. Lilianne Mujica-Parodi
+
+## Courses Taught at MIT
+
+- [[res-9-009-introduction-to-computational-neuroscience-with-neuroblox-january-iap-2025|Introduction to Computational Neuroscience with Neuroblox]]

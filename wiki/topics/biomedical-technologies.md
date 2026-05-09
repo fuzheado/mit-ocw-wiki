@@ -12,6 +12,9 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[9-35-perception-spring-2024|Perception]] — 9.35, Spring 2024
+- [[res-sud-01-substance-use-disorder-ventures-program-spring-2025|Substance Use Disorder Ventures Program ]] — RES.SUD-01, Spring 2025
+- [[hst-508-genomics-and-computational-biology-fall-2002|Genomics and Computational Biology]] — HST.508, Fall 2002
 - [[9-401-tools-for-robust-science-fall-2022|Tools for Robust Science]] — 9.401, Fall 2022
 - [[hst-725-music-perception-and-cognition-spring-2009|Music Perception and Cognition]] — HST.725, Spring 2009
 - [[15-480x-the-science-and-business-of-biotechnology-fall-2021|The Science and Business of Biotechnology]] — 15.480x, Fall 2021

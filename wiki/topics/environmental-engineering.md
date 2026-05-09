@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[res-env-007-geothermal-energy-networks-transforming-our-thermal-energy-system-january-iap-2025|Geothermal Energy Networks: Transforming Our Thermal Energy System]] — RES.ENV-007, January IAP 2025
+- [[res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012|STAR: Software Tools for Academics and Researchers]] — RES.TLL-002, Spring 2012
+- [[introduction-to-r-and-gis-fall-2023|Introduction to R and Geographic Information Systems (GIS)]] — RES.1-002, Fall 2023
+- [[1-85-water-and-wastewater-treatment-engineering-spring-2006|Water and Wastewater Treatment Engineering]] — 1.85, Spring 2006
 - [[esd-123j-systems-perspectives-on-industrial-ecology-spring-2006|Systems Perspectives on Industrial Ecology]] — ESD.123J, Spring 2006
 - [[12-090-the-environment-of-the-earths-surface-spring-2007|The Environment of the Earth's Surface]] — 12.090, Spring 2007
 - [[10-491-integrated-chemical-engineering-ii-spring-2006|Integrated Chemical Engineering II]] — 10.491, Spring 2006

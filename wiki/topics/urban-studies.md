@@ -12,6 +12,16 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[4-241j-the-making-of-cities-spring-2025|The Making of Cities]] — 4.241J, Spring 2025
+- [[11-013j-american-urban-history-spring-2025|American Urban History]] — 11.013J, Spring 2025
+- [[6-c35-interactive-data-visualization-and-society-spring-2025|Interactive Data Visualization and Society]] — 6.C35, Spring 2025
+- [[res-11-004-facilitative-leadership-in-the-public-sector-fall-2024|Facilitative Leadership in the Public Sector]] — RES.11-004, Fall 2024
+- [[11-309j-sensing-place-photography-as-inquiry-spring-2024|Sensing Place: Photography as Inquiry]] — 11.309J, Spring 2024
+- [[11-308j-ecological-urbanism-spring-2024|Ecological Urbanism]] — 11.308J, Spring 2024
+- [[1-201j-transportation-systems-analysis-demand-and-economics-fall-2008|Transportation Systems Analysis: Demand and Economics]] — 1.201J, Fall 2008
+- [[11-948-the-politics-of-reconstructing-iraq-spring-2005|The Politics of Reconstructing Iraq]] — 11.948, Spring 2005
+- [[11-204-planning-communications-and-digital-media-fall-2004|Planning, Communications, and Digital Media]] — 11.204, Fall 2004
+- [[11-520-a-workshop-on-geographic-information-systems-fall-2005|A Workshop on Geographic Information Systems]] — 11.520, Fall 2005
 - [[1-203j-logistical-and-transportation-planning-methods-fall-2006|Logistical and Transportation Planning Methods]] — 1.203J, Fall 2006
 - [[11-014j-american-urban-history-ii-fall-2011|American Urban History II]] — 11.014J, Fall 2011
 - [[11-333-urban-design-seminar-spring-2016|Urban Design Seminar]] — 11.333, Spring 2016

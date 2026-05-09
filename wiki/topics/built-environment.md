@@ -12,6 +12,8 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[11-350-sustainable-real-estate-spring-2023|Sustainable Real Estate]] — 11.350, Spring 2023
+- [[res-1-001-project-evaluation-essays-and-case-studies-fall-2023|Project Evaluation: Essays and Case Studies]] — RES.1-001, Fall 2023
 - [[11-333-urban-design-seminar-spring-2016|Urban Design Seminar]] — 11.333, Spring 2016
 - [[8-21-the-physics-of-energy-fall-2009|The Physics of Energy]] — 8.21, Fall 2009
 - [[4-401-environmental-technologies-in-buildings-fall-2018|Environmental Technologies in Buildings]] — 4.401, Fall 2018

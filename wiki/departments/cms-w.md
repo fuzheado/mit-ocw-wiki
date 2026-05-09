@@ -12,6 +12,11 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[6-c35-interactive-data-visualization-and-society-spring-2025|Interactive Data Visualization and Society]] (6.C35)
+- [[cms-595-learning-media-and-technology-spring-2024|Learning, Media, and Technology]] (CMS.595)
+- [[cms-621-fans-and-fan-cultures-fall-2024|Fans and Fan Cultures]] (CMS.621)
+- [[24-150j-liberalism-toleration-and-freedom-of-speech-fall-2023|Liberalism, Toleration, and Freedom of Speech]] (24.150J)
+- [[res-21w-01-angles-fall-2015|Angles]] (RES.21W-01)
 - [[21w-035-science-writing-and-new-media-science-writing-for-the-public-spring-2018|Science Writing and New Media: Science Writing for the Public]] (21W.035)
 - [[21w-747-rhetoric-spring-2015|Rhetoric]] (21W.747)
 - [[cms-796-major-media-texts-fall-2006|Major Media Texts]] (CMS.796)

@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[18-156-projection-theory-spring-2025|Projection Theory]]
 - [[18-s997-the-polynomial-method-fall-2012|The Polynomial Method]]
 - [[18-156-differential-analysis-ii-partial-differential-equations-and-fourier-analysis-spring-2016|Differential Analysis II: Partial Differential Equations and Fourier Analysis]]

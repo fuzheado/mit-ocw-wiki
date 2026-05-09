@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[wgs-109-women-and-global-activism-in-art-media-and-politics-fall-2023|Women and Global Activism in Art, Media and Politics]] — WGS.109, Fall 2023
+- [[res-ec-004-energy-needs-assessment-toolkit|Energy Needs Assessment Toolkit]] — RES.EC-004, Spring 2017
+- [[21a-445j-slavery-and-human-trafficking-in-the-21st-century-spring-2015|Slavery and Human Trafficking in the 21st Century]] — 21A.445J, Spring 2015
 - [[11-333-urban-design-seminar-spring-2016|Urban Design Seminar]] — 11.333, Spring 2016
 - [[ec-711-d-lab-energy-spring-2011|D-Lab: Energy]] — EC.711, Spring 2011
 - [[ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010|Special Topics at Edgerton Center:Developing World Prosthetics]] — EC.722, Spring 2010

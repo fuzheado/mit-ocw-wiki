@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[18-100b-real-analysis-spring-2025|Real Analysis]]
 - [[18-152-introduction-to-partial-differential-equations-fall-2005|Introduction to Partial Differential Equations]]

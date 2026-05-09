@@ -12,6 +12,12 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[11-350-sustainable-real-estate-spring-2023|Sustainable Real Estate]] — 11.350, Spring 2023
+- [[res-1-001-project-evaluation-essays-and-case-studies-fall-2023|Project Evaluation: Essays and Case Studies]] — RES.1-001, Fall 2023
+- [[1-103-civil-engineering-materials-laboratory-spring-2004|Civil Engineering Materials Laboratory]] — 1.103, Spring 2004
+- [[1-201j-transportation-systems-analysis-demand-and-economics-fall-2008|Transportation Systems Analysis: Demand and Economics]] — 1.201J, Fall 2008
+- [[11-520-a-workshop-on-geographic-information-systems-fall-2005|A Workshop on Geographic Information Systems]] — 11.520, Fall 2005
+- [[12-215-modern-navigation-fall-2006|Modern Navigation]] — 12.215, Fall 2006
 - [[11-333-urban-design-seminar-spring-2016|Urban Design Seminar]] — 11.333, Spring 2016
 - [[2-22-design-principles-for-ocean-vehicles-13-42-spring-2005|Design Principles for Ocean Vehicles (13.42)]] — 2.22, Spring 2005
 - [[1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009|The Impact of Globalization on the Built Environment]] — 1.463J, Fall 2009

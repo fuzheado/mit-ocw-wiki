@@ -12,6 +12,12 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[res-env-008-climate-environment-and-sustainability-infusion-fellowship-cesif-spring-2025|Climate, Environment, and Sustainability Infusion Fellowship (CESIF)]] — RES.ENV-008, Spring 2025
+- [[res-tll-010-syllabus-checklist-to-support-student-belonging-achievement-spring-2025|Syllabus Checklist to Support Student Belonging & Achievement]] — RES.TLL-010, Spring 2025
+- [[res-sts-001-mit-project-on-embodied-education-fall-2024|MIT Project on Embodied Education]] — RES.STS-001, Fall 2024
+- [[https://openlearninglibrary.mit.edu/courses/course-v1:MITx+7.InT+2021_Fall/about|Inclusive Teaching Module]] — 7.InTr_1, Fall 2021
+- [[res-hso-001-mit-haystack-observatory-k12-stem-lesson-plans|MIT Haystack Observatory K–12 STEM Lesson Plans ]] — RES.HSO-001, None None
+- [[24-s95-linguistics-in-k-12-education-spring-2023|Linguistics in K–12 Education]] — 24.S95, Spring 2023
 - [[res-3-006-micro-mentoring-resources-and-materials-science-curriculum-spring-2021|MICRO Mentoring Resources and Materials Science Curriculum]] — RES.3-006, Spring 2021
 - [[res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017|Intentional Public Disruptions: Art, Responsibility, and Pedagogy]] — RES.11-002, Fall 2017
 - [[res-2-006-girls-who-build-cameras-summer-2016|Girls Who Build Cameras]] — RES.2-006, Summer 2016

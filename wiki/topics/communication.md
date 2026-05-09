@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[18-200-principles-of-discrete-applied-mathematics-spring-2024|Principles of Discrete Applied Mathematics]] — 18.200, Spring 2024
+- [[res-11-004-facilitative-leadership-in-the-public-sector-fall-2024|Facilitative Leadership in the Public Sector]] — RES.11-004, Fall 2024
+- [[res-21w-01-angles-fall-2015|Angles]] — RES.21W-01, Fall 2015
+- [[15-289-communication-skills-for-academics-spring-2002|Communication Skills for Academics]] — 15.289, Spring 2002
+- [[11-204-planning-communications-and-digital-media-fall-2004|Planning, Communications, and Digital Media]] — 11.204, Fall 2004
 - [[21w-035-science-writing-and-new-media-science-writing-for-the-public-spring-2018|Science Writing and New Media: Science Writing for the Public]] — 21W.035, Spring 2018
 - [[12-445-oral-communication-in-the-earth-atmospheric-and-planetary-sciences-fall-2010|Oral Communication in the Earth, Atmospheric, and Planetary Sciences]] — 12.445, Fall 2010
 - [[21w-747-2-rhetoric-rhetoric-of-science-spring-2006|Rhetoric: Rhetoric of Science]] — 21W.747-2, Spring 2006

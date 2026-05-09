@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-241j-the-making-of-cities-spring-2025|The Making of Cities]] — 4.241J, Spring 2025
+- [[11-309j-sensing-place-photography-as-inquiry-spring-2024|Sensing Place: Photography as Inquiry]] — 11.309J, Spring 2024
+- [[4-112-architecture-design-fundamentals-i-nano-machines-fall-2012|Architecture Design Fundamentals I: Nano-Machines]] — 4.112, Fall 2012
 - [[11-333-urban-design-seminar-spring-2016|Urban Design Seminar]] — 11.333, Spring 2016
 - [[4-191-introduction-to-integrated-design-fall-2006|Introduction to Integrated Design]] — 4.191, Fall 2006
 - [[11-337j-urban-design-policy-and-action-spring-2007|Urban Design Policy and Action]] — 11.337J, Spring 2007

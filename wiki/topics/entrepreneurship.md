@@ -12,6 +12,13 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-393-nuts-and-bolts-of-new-ventures-january-iap-2025|Nuts and Bolts of New Ventures]] — 15.393, January IAP 2025
+- [[15-371-innovation-teams-fall-2024|Innovation Teams]] — 10.807/2.907/15.371, Fall 2024
+- [[res-sud-01-substance-use-disorder-ventures-program-spring-2025|Substance Use Disorder Ventures Program ]] — RES.SUD-01, Spring 2025
+- [[15-356-how-to-develop-breakthrough-products-and-services-spring-2012|How to Develop Breakthrough Products and Services]] — 15.356, Spring 2012
+- [[15-358-the-software-business-fall-2005|The Software Business]] — 15.358, Fall 2005
+- [[mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008|NextLab I: Designing Mobile Technologies for the Next Billion Users]] — MAS.965, Fall 2008
+- [[15-972-professional-seminar-in-sustainability-spring-2010|Professional Seminar in Sustainability]] — 15.972, Spring 2010
 - [[15-480x-the-science-and-business-of-biotechnology-fall-2021|The Science and Business of Biotechnology]] — 15.480x, Fall 2021
 - [[6-933j-the-structure-of-engineering-revolutions-fall-2001|The Structure of Engineering Revolutions]] — 6.933J, Fall 2001
 - [[15-369-seminar-in-corporate-entrepreneurship-fall-2015|Seminar in Corporate Entrepreneurship]] — 15.369, Fall 2015

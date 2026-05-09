@@ -12,6 +12,14 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[res-11-003-climate-justice-instructional-toolkit-spring-2025|Climate Justice Instructional Toolkit]] — RES.11-003, Spring 2025
+- [[res-env-009-cs3-lecture-series-fundamentals-of-climate-science-and-policy-january-iap-2026|CS3 Lecture Series: Fundamentals of Climate Science and Policy]] — res.env-009, January IAP 2026
+- [[res-env-008-climate-environment-and-sustainability-infusion-fellowship-cesif-spring-2025|Climate, Environment, and Sustainability Infusion Fellowship (CESIF)]] — RES.ENV-008, Spring 2025
+- [[12-307-weather-and-climate-laboratory-spring-2025|Weather and Climate Laboratory]] — 12.307, Spring 2025
+- [[11-350-sustainable-real-estate-spring-2023|Sustainable Real Estate]] — 11.350, Spring 2023
+- [[res-env-005-climate-science-risk-solutions-a-climate-primer|Climate Science, Risk & Solutions: A Climate Primer]] — RES.ENV-005, None None
+- [[res-14-003-the-roosevelt-project-spring-2023|The Roosevelt Project]] — RES.14-003, Spring 2023
+- [[15-972-professional-seminar-in-sustainability-spring-2010|Professional Seminar in Sustainability]] — 15.972, Spring 2010
 - [[esd-123j-systems-perspectives-on-industrial-ecology-spring-2006|Systems Perspectives on Industrial Ecology]] — ESD.123J, Spring 2006
 - [[12-085-seminar-in-environmental-science-spring-2008|Seminar in Environmental Science]] — 12.085, Spring 2008
 - [[esd-s43-green-supply-chain-management-spring-2014|Green Supply Chain Management]] — ESD.S43, Spring 2014

@@ -12,6 +12,10 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[6-c35-interactive-data-visualization-and-society-spring-2025|Interactive Data Visualization and Society]] — 6.C35, Spring 2025
+- [[24-220-moral-psychology-spring-2024|Moral Psychology]] — 24.220, Spring 2024
+- [[24-150j-liberalism-toleration-and-freedom-of-speech-fall-2023|Liberalism, Toleration, and Freedom of Speech]] — 24.150J, Fall 2023
+- [[21l-488-contemporary-literature-british-novels-now-spring-2007|Contemporary Literature: British Novels Now]] — 21L.488, Spring 2007
 - [[21l-001-foundations-of-western-culture-homer-to-dante-fall-2008|Foundations of Western Culture:  Homer to Dante]] — 21L.001, Fall 2008
 - [[24-230-meta-ethics-fall-2015|Meta-ethics]] — 24.230, Fall 2015
 - [[24-263-the-nature-of-creativity-fall-2005|The Nature of Creativity]] — 24.263, Fall 2005

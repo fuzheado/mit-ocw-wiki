@@ -12,6 +12,36 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[6-7220j-nonlinear-optimization-spring-2025|Nonlinear Optimization]] — 6.7220J, Spring 2025
+- [[18-783-elliptic-curves-fall-2025|Elliptic Curves]] — 18.783, Fall 2025
+- [[18-200-principles-of-discrete-applied-mathematics-spring-2024|Principles of Discrete Applied Mathematics]] — 18.200, Spring 2024
+- [[18-642-topics-in-mathematics-with-applications-in-finance-fall-2024|Topics in Mathematics with Applications in Finance]] — 18.642, Fall 2024
+- [[18-156-projection-theory-spring-2025|Projection Theory]] — 18.156, Spring 2025
+- [[21m-383-computational-music-theory-and-analysis-spring-2023|Computational Music Theory and Analysis]] — 21M.383, Spring 2023
+- [[18-100b-real-analysis-spring-2025|Real Analysis]] — 18.100B, Spring 2025
+- [[6-1200j-mathematics-for-computer-science-spring-2024|Mathematics for Computer Science]] — 6.1200J, Spring 2024
+- [[res-18-016-multivariable-calculus-recitation-notes-fall-2024|Multivariable Calculus Recitation Notes]] — RES.18-016, Fall 2024
+- [[es-1803-differential-equations-spring-2024|Differential Equations]] — ES.1803, Spring 2024
+- [[18-238-geometry-and-quantum-field-theory-spring-2023|Geometry and Quantum Field Theory]] — 18.238, Spring 2023
+- [[https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about|Mathematics for Computer Science]] — 6.042J, Summer 2019
+- [[https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/about|Linear Algebra]] — 18.06SC, Summer 2019
+- [[https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.05r_10+2022_Summer/about|Introduction to Probability and Statistics]] — 18.05, Summer 2022
+- [[res-18-015-topics-in-fourier-analysis-spring-2024|Topics in Fourier Analysis ]] — RES.18-015, Spring 2024
+- [[18-757-representations-of-lie-groups-fall-2023|Representations of Lie Groups]] — 18.757, Fall 2023
+- [[18-755-lie-groups-and-lie-algebras-ii-spring-2024|Lie Groups and Lie Algebras II]] — 18.755, Spring 2024
+- [[18-745-lie-groups-and-lie-algebras-i-fall-2020|Lie Groups and Lie Algebras I]] — 18.745, Fall 2020
+- [[18-225-graph-theory-and-additive-combinatorics-fall-2023|Graph Theory and Additive Combinatorics]] — 18.225, Fall 2023
+- [[18-226-probabilistic-methods-in-combinatorics-fall-2022|Probabilistic Methods in Combinatorics]] — 18.226, Fall 2022
+- [[res-18-012-algebra-ii-student-notes-spring-2022|Algebra II Student Notes]] — RES.18-012, Spring 2022
+- [[14-310x-data-analysis-for-social-scientists-spring-2023|Data Analysis for Social Scientists]] — 14.310x, Spring 2023
+- [[18-706-noncommutative-algebra-spring-2023|Noncommutative Algebra]] — 18.706, Spring 2023
+- [[res-9-008-brain-and-cognitive-sciences-computational-tutorials|Brain and Cognitive Sciences Computational Tutorial Series]] — RES.9-008, Fall 2023
+- [[18-05-introduction-to-probability-and-statistics-spring-2022|Introduction to Probability and Statistics]] — 18.05, Spring 2022
+- [[res-18-002-introduction-to-matlab-spring-2008|Introduction to MATLAB]] — RES.18-002, Spring 2008
+- [[18-06ci-linear-algebra-communications-intensive-spring-2004|Linear Algebra - Communications Intensive]] — 18.06CI, Spring 2004
+- [[res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009|Statistics and Visualization for Data Analysis and Inference]] — RES.9-0002, January IAP 2009
+- [[14-30-introduction-to-statistical-method-in-economics-spring-2006|Introduction to Statistical Method in Economics]] — 14.30, Spring 2006
+- [[15-060-data-models-and-decisions-fall-2014|Data, Models, and Decisions]] — 15.060, Fall 2014
 - [[1-203j-logistical-and-transportation-planning-methods-fall-2006|Logistical and Transportation Planning Methods]] — 1.203J, Fall 2006
 - [[res-18-005-highlights-of-calculus-spring-2010|Highlights of Calculus]] — RES.18-005, Spring 2010
 - [[18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004|Advanced Analytic Methods in Science and Engineering]] — 18.305, Fall 2004

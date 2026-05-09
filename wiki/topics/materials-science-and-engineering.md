@@ -12,6 +12,16 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-008-design-and-manufacturing-ii-spring-2025|Design and Manufacturing II]] — 2.008, Spring 2025
+- [[2-79j-biomaterials-tissue-interactions-fall-2022|Biomaterials-Tissue Interactions]] — 2.79J, Fall 2022
+- [[2-785j-cell-matrix-mechanics-fall-2016|Cell-Matrix Mechanics]] — 2.785J, Fall 2016
+- [[2-787j-tissue-engineering-and-organ-regeneration-fall-2024|Tissue Engineering and Organ Regeneration]] — 2.787J, Fall 2024
+- [[3-a26-freshman-seminar-the-nature-of-engineering-fall-2005|Freshman Seminar: The Nature of Engineering]] — 3.A26, Fall 2005
+- [[3-054-cellular-solids-structure-properties-and-applications-spring-2015|Cellular Solids: Structure, Properties and Applications]] — 3.054, Spring 2015
+- [[3-071-amorphous-materials-fall-2015|Amorphous Materials]] — 3.071, Fall 2015
+- [[3-225-electronic-and-mechanical-properties-of-materials-fall-2007|Electronic and Mechanical Properties of Materials]] — 3.225, Fall 2007
+- [[1-033-mechanics-of-material-systems-an-energy-approach-fall-2003|Mechanics of Material Systems: An Energy Approach]] — 1.033, Fall 2003
+- [[1-103-civil-engineering-materials-laboratory-spring-2004|Civil Engineering Materials Laboratory]] — 1.103, Spring 2004
 - [[3-091sc-introduction-to-solid-state-chemistry-fall-2010|Introduction to Solid State Chemistry]] — 3.091SC, Fall 2010
 - [[res-3-006-micro-mentoring-resources-and-materials-science-curriculum-spring-2021|MICRO Mentoring Resources and Materials Science Curriculum]] — RES.3-006, Spring 2021
 - [[3-21-kinetic-processes-in-materials-spring-2006|Kinetic Processes in Materials]] — 3.21, Spring 2006

@@ -12,6 +12,19 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-111-chinese-calligraphy-spring-2024|Chinese Calligraphy]] — 21G.111, Spring 2024
+- [[res-21g-108-project-based-language-learning-for-chinese-streamlined-ii-spring-2024|Project-Based Language Learning for Chinese II (Streamlined)]] — RES.21G-108, Spring 2024
+- [[21g-s56-japanese-vi-spring-2023|Japanese VI]] — 21G.S56, Spring 2023
+- [[21g-321-childhood-and-youth-in-french-and-francophone-cultures-spring-2024|Childhood and Youth in French and Francophone Cultures]] — 21G.321, Spring 2024
+- [[21g-346-north-america-through-french-eyes-fall-2023|North America through French Eyes]] — 21G.346, Fall 2023
+- [[21g-320-introduction-to-french-literature-spring-2023|Introduction to French Literature	]] — 21G.320, Spring 2023
+- [[res-21g-3001-teaching-la-princesse-de-cleves-fall-2023|Teaching La Princesse de Clèves]] — RES.21G-3001, Fall 2023
+- [[res-21g-3004-marguerite-de-navarre-society-website-fall-2023|Marguerite de Navarre Society Website]] — RES.21G-3004, Fall 2023
+- [[res-21g-3003-marguerite-de-roberval-a-web-based-approach-to-teaching-a-renaissance-heroine-fall-2023|Marguerite de Roberval: A Web-Based Approach to Teaching a Renaissance Heroine]] — RES.21G-3003, Fall 2023
+- [[res-21g-3002-teaching-marguerite-de-navarres-heptameron-fall-2023|Teaching Marguerite de Navarre's Heptaméron]] — RES.21G-3002, Fall 2023
+- [[res-21g-601-telebridges-russian-conversation-exchange-site-fall-2021|Телемосты (Telebridges) Russian Conversation Exchange Site]] — RES.21G-601, Fall 2021
+- [[21l-601j-old-english-and-beowulf-spring-2023|Old English and Beowulf]] — 21L.601J, Spring 2023
+- [[24-906j-linguistic-studies-of-bilingualism-fall-2012|Linguistic Studies of Bilingualism]] — 24.906J, Fall 2012
 - [[21g-403-german-iii-spring-2004|German III]] — 21G.403, Spring 2004
 - [[res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021|Kanji Learning Any Time, Any Place for Japanese VI]] — RES.21G-506, Spring 2021
 - [[21g-702-spanish-ii-spring-2004|Spanish II]] — 21G.702, Spring 2004

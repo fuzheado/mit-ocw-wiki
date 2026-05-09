@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[res-11-004-facilitative-leadership-in-the-public-sector-fall-2024|Facilitative Leadership in the Public Sector]]
 - [[res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017|Intentional Public Disruptions: Art, Responsibility, and Pedagogy]]
 - [[11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003|Use of Joint Fact Finding in Science Intensive Policy Disputes, Part I]]
 - [[11-382-water-diplomacy-spring-2021|Water Diplomacy]]

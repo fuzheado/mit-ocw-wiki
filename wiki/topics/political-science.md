@@ -12,6 +12,14 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-506-ethnic-politics-fall-2024|Ethnic Politics]] — 17.506, Fall 2024
+- [[17-588-field-seminar-in-comparative-politics-spring-2024|Field Seminar in Comparative Politics ]] — 17.588, Spring 2024
+- [[17-46-u-s-national-security-policy-fall-2023|U.S. National Security Policy]] — 17.46, Fall 2023
+- [[wgs-109-women-and-global-activism-in-art-media-and-politics-fall-2023|Women and Global Activism in Art, Media and Politics]] — WGS.109, Fall 2023
+- [[17-41-introduction-to-international-relations-spring-2023|Introduction to International Relations]] — 17.41, Spring 2023
+- [[17-262-congress-and-the-american-political-system-ii-spring-2023|Congress and the American Political System II]] — 17.262, Spring 2023
+- [[21a-445j-slavery-and-human-trafficking-in-the-21st-century-spring-2015|Slavery and Human Trafficking in the 21st Century]] — 21A.445J, Spring 2015
+- [[11-948-the-politics-of-reconstructing-iraq-spring-2005|The Politics of Reconstructing Iraq]] — 11.948, Spring 2005
 - [[17-436-territorial-conflict-fall-2004|Territorial Conflict]] — 17.436, Fall 2004
 - [[17-40-american-foreign-policy-past-present-and-future-fall-2017|American Foreign Policy: Past, Present, and Future]] — 17.40, Fall 2017
 - [[17-20-introduction-to-american-politics-spring-2013|Introduction to American Politics]] — 17.20, Spring 2013

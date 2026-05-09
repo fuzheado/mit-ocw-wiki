@@ -12,6 +12,13 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[res-11-003-climate-justice-instructional-toolkit-spring-2025|Climate Justice Instructional Toolkit]] — RES.11-003, Spring 2025
+- [[6-4590-foundations-of-information-policy-fall-2024|Foundations of Information Policy]] — 6.4590, Fall 2024
+- [[res-11-004-facilitative-leadership-in-the-public-sector-fall-2024|Facilitative Leadership in the Public Sector]] — RES.11-004, Fall 2024
+- [[17-46-u-s-national-security-policy-fall-2023|U.S. National Security Policy]] — 17.46, Fall 2023
+- [[res-14-003-the-roosevelt-project-spring-2023|The Roosevelt Project]] — RES.14-003, Spring 2023
+- [[11-948-the-politics-of-reconstructing-iraq-spring-2005|The Politics of Reconstructing Iraq]] — 11.948, Spring 2005
+- [[11-520-a-workshop-on-geographic-information-systems-fall-2005|A Workshop on Geographic Information Systems]] — 11.520, Fall 2005
 - [[11-014j-american-urban-history-ii-fall-2011|American Urban History II]] — 11.014J, Fall 2011
 - [[11-337j-urban-design-policy-and-action-spring-2007|Urban Design Policy and Action]] — 11.337J, Spring 2007
 - [[12-085-seminar-in-environmental-science-spring-2008|Seminar in Environmental Science]] — 12.085, Spring 2008

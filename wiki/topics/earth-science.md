@@ -12,6 +12,15 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[res-11-003-climate-justice-instructional-toolkit-spring-2025|Climate Justice Instructional Toolkit]] — RES.11-003, Spring 2025
+- [[res-env-008-climate-environment-and-sustainability-infusion-fellowship-cesif-spring-2025|Climate, Environment, and Sustainability Infusion Fellowship (CESIF)]] — RES.ENV-008, Spring 2025
+- [[12-307-weather-and-climate-laboratory-spring-2025|Weather and Climate Laboratory]] — 12.307, Spring 2025
+- [[12-810-dynamics-of-the-atmosphere-spring-2023|Dynamics of the Atmosphere]] — 12.810, Spring 2023
+- [[res-12-001-topics-in-fluid-dynamics-fall-2024|Topics in Fluid Dynamics]] — RES.12-001, Fall 2024
+- [[11-350-sustainable-real-estate-spring-2023|Sustainable Real Estate]] — 11.350, Spring 2023
+- [[res-env-005-climate-science-risk-solutions-a-climate-primer|Climate Science, Risk & Solutions: A Climate Primer]] — RES.ENV-005, None None
+- [[res-14-003-the-roosevelt-project-spring-2023|The Roosevelt Project]] — RES.14-003, Spring 2023
+- [[15-972-professional-seminar-in-sustainability-spring-2010|Professional Seminar in Sustainability]] — 15.972, Spring 2010
 - [[12-491-advanced-seminar-in-geology-and-geochemistry-organic-geochemistry-fall-2005|Advanced Seminar in Geology and Geochemistry: Organic Geochemistry]] — 12.491, Fall 2005
 - [[esd-123j-systems-perspectives-on-industrial-ecology-spring-2006|Systems Perspectives on Industrial Ecology]] — ESD.123J, Spring 2006
 - [[12-090-the-environment-of-the-earths-surface-spring-2007|The Environment of the Earth's Surface]] — 12.090, Spring 2007

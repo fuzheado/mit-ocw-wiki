@@ -12,6 +12,10 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[res-11-003-climate-justice-instructional-toolkit-spring-2025|Climate Justice Instructional Toolkit]] — RES.11-003, Spring 2025
+- [[res-env-009-cs3-lecture-series-fundamentals-of-climate-science-and-policy-january-iap-2026|CS3 Lecture Series: Fundamentals of Climate Science and Policy]] — res.env-009, January IAP 2026
+- [[res-14-003-the-roosevelt-project-spring-2023|The Roosevelt Project]] — RES.14-003, Spring 2023
+- [[res-1-001-project-evaluation-essays-and-case-studies-fall-2023|Project Evaluation: Essays and Case Studies]] — RES.1-001, Fall 2023
 - [[12-085-seminar-in-environmental-science-spring-2008|Seminar in Environmental Science]] — 12.085, Spring 2008
 - [[esd-s43-green-supply-chain-management-spring-2014|Green Supply Chain Management]] — ESD.S43, Spring 2014
 - [[15-023j-global-climate-change-economics-science-and-policy-spring-2008|Global Climate Change: Economics, Science, and Policy]] — 15.023J, Spring 2008

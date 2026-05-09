@@ -12,6 +12,7 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[11-309j-sensing-place-photography-as-inquiry-spring-2024|Sensing Place: Photography as Inquiry]] — 11.309J, Spring 2024
 - [[11-333-urban-design-seminar-spring-2016|Urban Design Seminar]] — 11.333, Spring 2016
 - [[11-337j-urban-design-policy-and-action-spring-2007|Urban Design Policy and Action]] — 11.337J, Spring 2007
 - [[11-333-urban-design-seminar-spring-2005|Urban Design Seminar]] — 11.333, Spring 2005

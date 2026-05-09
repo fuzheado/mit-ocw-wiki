@@ -6,34 +6,33 @@ year_published: 2025
 instructors: ["MIT and HEET"]
 level: ["noncredit"]
 department: "Unknown"
-topics: ["Energy", "Renewables", "Engineering", "Environmental Engineering"]
+topics: ["Environmental Engineering", "Energy, Climate & Sustainability", "Energy", "Engineering"]
 license: "CC BY-NC-SA"
-views: Unknown
-completeness: Unknown
-last_modified: "2025"
-type: course
-FIXME: Not found in MIT Learn API — metadata extracted from OCW HTML page
+views: 1280
+completeness: 0.5916666666666667
+last_modified: "2026-05-06T16:57:10Z"
+type: "course"
 ---
 
 # Geothermal Energy Networks: Transforming Our Thermal Energy System
 
-This two-day course, a collaboration between the HEET (Home Energy Efficiency Team) and MIT, focused on "Geothermal Energy Networks: Transforming Our Thermal Energy System" during the Independent Activities Period (IAP) in January 2025.
+This two-day course, a collaboration between the HEET (Home Energy Efficiency Team) and MIT, focused on “Geothermal Energy Networks: Transforming Our Thermal Energy System” during the Independent Activities Period (IAP) in January 2025.
 
 ## Course Info
 
-- **Department:** Special Programs
+- **Department:** 
 - **Course Number:** RES.ENV-007
-- **Instructors:** MIT and HEET
-- **Year:** 2025 (January IAP)
+- **Instructors:** [[mit-and-heet|MIT and HEET]]
+- **Year:** 2025
 - **Level:** Non-Credit
-- **Topics:** [[energy|Energy]], Renewables, [[engineering|Engineering]], [[environmental-engineering|Environmental Engineering]]
+- **Topics:** [[environmental-engineering|Environmental Engineering]], [[energy-climate-sustainability|Energy, Climate & Sustainability]], [[energy|Energy]], [[engineering|Engineering]]
 - **License:** CC BY-NC-SA
 
 ## Materials
 
-- [Lecture-Notes] Session materials (8 sessions)
-- [Video-Transcript] Lecture videos
-- [Editable-Files] Editable files
+- [Editable Files] Editable Files
+- [Lecture Notes] Lecture Notes
+- [Lecture Videos] Lecture Videos
 
 ## Wikipedia Bridge
 

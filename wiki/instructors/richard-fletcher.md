@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008|NextLab I: Designing Mobile Technologies for the Next Billion Users]]
 - [[res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020|Exploring Fairness in Machine Learning for International Development]]

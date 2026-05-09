@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[wgs-301j-feminist-thought-fall-2023|Feminist Thought]]
 - [[21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019|Imperial and Revolutionary Russia: Culture and Politics, 1700-1917]]
 - [[21h-245j-soviet-and-post-soviet-politics-and-society-1917-to-the-present-spring-2016|Soviet and Post-Soviet Politics and Society, 1917 to the Present]]
 - [[21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998|The Making of Russia in the Worlds of Byzantium, Mongolia, and Europe]]

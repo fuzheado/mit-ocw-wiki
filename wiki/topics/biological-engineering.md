@@ -12,6 +12,13 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-782j-design-of-medical-devices-and-implants-spring-2025|Design of Medical Devices and Implants]] — 2.782J, Spring 2025
+- [[2-79j-biomaterials-tissue-interactions-fall-2022|Biomaterials-Tissue Interactions]] — 2.79J, Fall 2022
+- [[2-785j-cell-matrix-mechanics-fall-2016|Cell-Matrix Mechanics]] — 2.785J, Fall 2016
+- [[2-787j-tissue-engineering-and-organ-regeneration-fall-2024|Tissue Engineering and Organ Regeneration]] — 2.787J, Fall 2024
+- [[3-a26-freshman-seminar-the-nature-of-engineering-fall-2005|Freshman Seminar: The Nature of Engineering]] — 3.A26, Fall 2005
+- [[3-054-cellular-solids-structure-properties-and-applications-spring-2015|Cellular Solids: Structure, Properties and Applications]] — 3.054, Spring 2015
+- [[hst-508-genomics-and-computational-biology-fall-2002|Genomics and Computational Biology]] — HST.508, Fall 2002
 - [[6-096-algorithms-for-computational-biology-spring-2005|Algorithms for Computational Biology]] — 6.096, Spring 2005
 - [[5-512-synthetic-organic-chemistry-ii-spring-2005|Synthetic Organic Chemistry II]] — 5.512, Spring 2005
 - [[20-416j-topics-in-biophysics-and-physical-biology-fall-2014|Topics in Biophysics and Physical Biology]] — 20.416J, Fall 2014

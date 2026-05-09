@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21l-705-masterworks-in-american-short-fiction-fall-2005|Masterworks in American Short Fiction]]
 - [[21l-488-contemporary-literature-spring-2003|Contemporary Literature]]
 - [[21l-430-popular-narrative-masterminds-fall-2004|Popular Narrative: Masterminds]]
 - [[21l-325-small-wonders-staying-alive-spring-2007|Small Wonders: Staying Alive]]

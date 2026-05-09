@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[14-661-labor-economics-i-fall-2024|Labor Economics I]]
 - [[14-32-econometrics-spring-2007|Econometrics]]
 - [[14-661-labor-economics-i-fall-2017|Labor Economics I]]
 - [[14-64-labor-economics-and-public-policy-fall-2009|Labor Economics and Public Policy]]

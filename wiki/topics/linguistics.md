@@ -12,6 +12,10 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-906j-the-linguistic-study-of-bilingualism-fall-2024|The Linguistic Study of Bilingualism]] — 24.906J, Fall 2024
+- [[24-904-language-acquisition-spring-2022|Language Acquisition]] — 24.904, Spring 2022
+- [[24-906j-linguistic-studies-of-bilingualism-fall-2012|Linguistic Studies of Bilingualism]] — 24.906J, Fall 2012
+- [[24-s95-linguistics-in-k-12-education-spring-2023|Linguistics in K–12 Education]] — 24.S95, Spring 2023
 - [[24-251-introduction-to-philosophy-of-language-fall-2011|Introduction to Philosophy of Language]] — 24.251, Fall 2011
 - [[24-964-topics-in-phonology-fall-2004|Topics in Phonology]] — 24.964, Fall 2004
 - [[24-917-conlangs-how-to-construct-a-language-fall-2018|ConLangs: How to Construct a Language]] — 24.917, Fall 2018

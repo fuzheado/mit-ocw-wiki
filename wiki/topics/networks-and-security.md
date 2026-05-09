@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-5630-advanced-topics-in-cryptography-fall-2023|Advanced Topics in Cryptography]] — 6.5630, Fall 2023
+- [[res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012|STAR: Software Tools for Academics and Researchers]] — RES.TLL-002, Spring 2012
 - [[14-15-networks-spring-2022|Networks]] — 14.15, Spring 2022
 - [[18-413-error-correcting-codes-laboratory-spring-2004|Error-Correcting Codes Laboratory]] — 18.413, Spring 2004
 - [[6-033-computer-system-engineering-spring-2018|Computer System Engineering]] — 6.033, Spring 2018

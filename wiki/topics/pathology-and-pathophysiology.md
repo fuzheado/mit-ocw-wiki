@@ -12,6 +12,9 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[2-79j-biomaterials-tissue-interactions-fall-2022|Biomaterials-Tissue Interactions]] — 2.79J, Fall 2022
+- [[2-785j-cell-matrix-mechanics-fall-2016|Cell-Matrix Mechanics]] — 2.785J, Fall 2016
+- [[2-787j-tissue-engineering-and-organ-regeneration-fall-2024|Tissue Engineering and Organ Regeneration]] — 2.787J, Fall 2024
 - [[20-380j-biological-engineering-design-spring-2010|Biological Engineering Design]] — 20.380J, Spring 2010
 - [[9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008|Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders]] — 9.914, Fall 2008
 - [[hst-121-gastroenterology-fall-2005|Gastroenterology]] — HST.121, Fall 2005

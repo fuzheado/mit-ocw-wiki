@@ -10,6 +10,7 @@ courses_count: 0
 
 ## Courses
 
+- [[es-1803-differential-equations-spring-2024|Differential Equations]] (ES.1803)
 - [[es-261-poetry-in-translation-spring-2006|Poetry in Translation]] (ES.261)
 - [[es-113-ancient-greek-philosophy-and-mathematics-spring-2016|Ancient Greek Philosophy and Mathematics]] (ES.113)
 - [[es-269-passing-flexibility-in-race-and-gender-spring-2009|Passing: Flexibility in Race and Gender]] (ES.269)

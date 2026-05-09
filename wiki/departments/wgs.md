@@ -12,6 +12,11 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[wgs-110j-sexual-and-gender-identities-in-the-modern-united-states-spring-2024|Sexual and Gender Identities in the Modern United States]] (WGS.110J)
+- [[wgs-301j-feminist-thought-fall-2023|Feminist Thought]] (WGS.301J)
+- [[wgs-109-women-and-global-activism-in-art-media-and-politics-fall-2023|Women and Global Activism in Art, Media and Politics]] (WGS.109)
+- [[wgs-101-introduction-to-womens-and-gender-studies-spring-2023|Introduction to Women's and Gender Studies]] (WGS.101)
+- [[21a-445j-slavery-and-human-trafficking-in-the-21st-century-spring-2015|Slavery and Human Trafficking in the 21st Century]] (21A.445J)
 - [[21a-111j-for-love-and-money-rethinking-the-family-spring-2016|For Love and Money: Rethinking the Family]] (21A.111J)
 - [[21h-225j-gender-and-the-law-in-u-s-history-spring-2004|Gender and the Law in U.S. History]] (21H.225J)
 - [[wgs-645-issues-of-representation-women-representation-and-music-in-selected-folk-traditions-of-the-british-isles-and-north-america-fall-2005|Issues of Representation: Women, Representation, and Music in Selected Folk Traditions of the British Isles and North America]] (WGS.645)

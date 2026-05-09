@@ -12,6 +12,15 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[7-002-fundamentals-of-experimental-molecular-biology-spring-2025|Fundamentals of Experimental Molecular Biology]] — 7.002, Spring 2025
+- [[2-79j-biomaterials-tissue-interactions-fall-2022|Biomaterials-Tissue Interactions]] — 2.79J, Fall 2022
+- [[2-785j-cell-matrix-mechanics-fall-2016|Cell-Matrix Mechanics]] — 2.785J, Fall 2016
+- [[2-787j-tissue-engineering-and-organ-regeneration-fall-2024|Tissue Engineering and Organ Regeneration]] — 2.787J, Fall 2024
+- [[7-003-applied-molecular-biology-lab-spring-2022|Applied Molecular Biology Lab]] — 7.003, Spring 2022
+- [[https://openlearninglibrary.mit.edu/courses/course-v1:OCW+Pre-7.01+1T2020/about|Getting up to Speed in Biology]] — Pre_7.01r, Spring 2020
+- [[res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012|STAR: Software Tools for Academics and Researchers]] — RES.TLL-002, Spring 2012
+- [[res-9-008-brain-and-cognitive-sciences-computational-tutorials|Brain and Cognitive Sciences Computational Tutorial Series]] — RES.9-008, Fall 2023
+- [[hst-508-genomics-and-computational-biology-fall-2002|Genomics and Computational Biology]] — HST.508, Fall 2002
 - [[9-51-affective-priming-at-short-and-extremely-short-exposures-spring-2003|Affective Priming at Short and Extremely Short Exposures]] — 9.51, Spring 2003
 - [[12-491-advanced-seminar-in-geology-and-geochemistry-organic-geochemistry-fall-2005|Advanced Seminar in Geology and Geochemistry: Organic Geochemistry]] — 12.491, Fall 2005
 - [[7-01sc-fundamentals-of-biology-fall-2011|Fundamentals of Biology]] — 7.01SC, Fall 2011

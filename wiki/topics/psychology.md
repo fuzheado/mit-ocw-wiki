@@ -12,6 +12,7 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[24-220-moral-psychology-spring-2024|Moral Psychology]] — 24.220, Spring 2024
 - [[24-263-the-nature-of-creativity-fall-2005|The Nature of Creativity]] — 24.263, Fall 2005
 - [[9-250-evolutionary-psychology-spring-1999|Evolutionary Psychology]] — 9.250, Spring 1999
 - [[9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008|Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders]] — 9.914, Fall 2008

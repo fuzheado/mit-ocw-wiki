@@ -12,6 +12,10 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-5950-secure-hardware-design-spring-2025|Secure Hardware Design]] — 6.5950, Spring 2025
+- [[6-5660-computer-systems-security-spring-2024|Computer Systems Security]] — 6.5660, Spring 2024
+- [[res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012|STAR: Software Tools for Academics and Researchers]] — RES.TLL-002, Spring 2012
+- [[15-358-the-software-business-fall-2005|The Software Business]] — 15.358, Fall 2005
 - [[6-896-theory-of-parallel-hardware-sma-5511-spring-2004|Theory of Parallel Hardware (SMA 5511)]] — 6.896, Spring 2004
 - [[21m-385-interactive-music-systems-fall-2016|Interactive Music Systems]] — 21M.385, Fall 2016
 - [[6-s096-effective-programming-in-c-and-c-january-iap-2014|Effective Programming in C and C++]] — 6.S096, January IAP 2014

@@ -12,6 +12,10 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[2-43-advanced-thermodynamics-spring-2024|Advanced Thermodynamics]] — 2.43, Spring 2024
+- [[res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom|Chemistry Behind the Magic: Chemical Demonstrations for the Classroom]] — RES.HS-002, None None
+- [[res-hs-003-chemlab-boot-camp|ChemLab Boot Camp]] — RES.HS-003, None None
+- [[10-40-chemical-engineering-thermodynamics-fall-2003|Chemical Engineering Thermodynamics]] — 10.40, Fall 2003
 - [[12-491-advanced-seminar-in-geology-and-geochemistry-organic-geochemistry-fall-2005|Advanced Seminar in Geology and Geochemistry: Organic Geochemistry]] — 12.491, Fall 2005
 - [[5-512-synthetic-organic-chemistry-ii-spring-2005|Synthetic Organic Chemistry II]] — 5.512, Spring 2005
 - [[3-091sc-introduction-to-solid-state-chemistry-fall-2010|Introduction to Solid State Chemistry]] — 3.091SC, Fall 2010

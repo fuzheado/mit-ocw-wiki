@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[17-262-congress-and-the-american-political-system-ii-spring-2023|Congress and the American Political System II]]
 - [[17-202-graduate-seminar-in-american-politics-ii-spring-2010|Graduate Seminar in American Politics II]]
 - [[17-871-political-science-laboratory-spring-2012|Political Science Laboratory]]
 - [[17-261-congress-and-the-american-political-system-ii-fall-2005|Congress and the American Political System II]]

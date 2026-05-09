@@ -10,6 +10,8 @@ courses_count: 0
 
 ## Courses
 
+- [[res-ec-004-energy-needs-assessment-toolkit|Energy Needs Assessment Toolkit]] (RES.EC-004)
+- [[mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008|NextLab I: Designing Mobile Technologies for the Next Billion Users]] (MAS.965)
 - [[ec-711-d-lab-energy-spring-2011|D-Lab: Energy]] (EC.711)
 - [[ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010|Special Topics at Edgerton Center:Developing World Prosthetics]] (EC.722)
 - [[15-772j-d-lab-supply-chains-fall-2014|D-Lab: Supply Chains]] (15.772J)

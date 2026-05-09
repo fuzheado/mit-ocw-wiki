@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[11-309j-sensing-place-photography-as-inquiry-spring-2024|Sensing Place: Photography as Inquiry]] — 11.309J, Spring 2024
+- [[21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006|Japan in the Age of the Samurai:  History and Film]] — 21H.522, Fall 2006
+- [[4-370-interrogative-design-workshop-fall-2005|Interrogative Design Workshop]] — 4.370, Fall 2005
 - [[mas-531-computational-camera-and-photography-fall-2009|Computational Camera and Photography]] — MAS.531, Fall 2009
 - [[21g-027-asia-in-the-modern-world-images-representations-fall-2016|Asia in the Modern World: Images & Representations]] — 21G.027, Fall 2016
 - [[11-309j-sensing-place-photography-as-inquiry-fall-2012|Sensing Place: Photography as Inquiry]] — 11.309J, Fall 2012

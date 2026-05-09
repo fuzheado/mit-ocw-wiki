@@ -12,6 +12,13 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-s890-topics-in-multiagent-learning-fall-2024|Topics in Multiagent Learning]] — 6.S890, Fall 2024
+- [[hst-953-clinical-data-learning-visualization-and-deployments-fall-2024|Clinical Data Learning, Visualization, and Deployments]] — HST.953, Fall 2024
+- [[6-7960-deep-learning-fall-2024|Deep Learning]] — 6.7960, Fall 2024
+- [[15-773-hands-on-deep-learning-spring-2024|Hands-on Deep Learning]] — 15.773, Spring 2024
+- [[6-8300-advances-in-computer-vision-spring-2025|Advances in Computer Vision]] — 6.8300, Spring 2025
+- [[6-s087-foundation-models-and-generative-ai-january-iap-2024|Foundation Models and Generative AI]] — 6.S087, January IAP 2024
+- [[mas-s60-how-to-ai-almost-anything-spring-2025|How to AI (Almost) Anything]] — MAS.S60, Spring 2025
 - [[6-892-computational-models-of-discourse-spring-2004|Computational Models of Discourse]] — 6.892, Spring 2004
 - [[mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001|Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context]] — MAS.963, Fall 2001
 - [[hst-951j-medical-decision-support-fall-2005|Medical Decision Support]] — HST.951J, Fall 2005

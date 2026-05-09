@@ -12,6 +12,13 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-7220j-nonlinear-optimization-spring-2025|Nonlinear Optimization]] — 6.7220J, Spring 2025
+- [[2-008-design-and-manufacturing-ii-spring-2025|Design and Manufacturing II]] — 2.008, Spring 2025
+- [[12-010-computational-methods-of-scientific-programming-fall-2024|Computational Methods of Scientific Programming]] — 12.010, Fall 2024
+- [[sp-248-neet-ways-of-thinking-fall-2023|NEET Ways of Thinking]] — SP.248, Fall 2023
+- [[res-18-002-introduction-to-matlab-spring-2008|Introduction to MATLAB]] — RES.18-002, Spring 2008
+- [[1-022-introduction-to-network-models-fall-2018|Introduction to Network Models]] — 1.022, Fall 2018
+- [[15-060-data-models-and-decisions-fall-2014|Data, Models, and Decisions]] — 15.060, Fall 2014
 - [[1-203j-logistical-and-transportation-planning-methods-fall-2006|Logistical and Transportation Planning Methods]] — 1.203J, Fall 2006
 - [[sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007|Engineering Apollo: The Moon Project as a Complex System]] — STS.471J, Spring 2007
 - [[esd-123j-systems-perspectives-on-industrial-ecology-spring-2006|Systems Perspectives on Industrial Ecology]] — ESD.123J, Spring 2006

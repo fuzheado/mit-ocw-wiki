@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-622-power-electronics-spring-2023|Power Electronics]]
 - [[6-334-power-electronics-spring-2007|Power Electronics]]

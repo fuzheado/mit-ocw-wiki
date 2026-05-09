@@ -12,6 +12,14 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[wgs-110j-sexual-and-gender-identities-in-the-modern-united-states-spring-2024|Sexual and Gender Identities in the Modern United States]] — WGS.110J, Spring 2024
+- [[wgs-301j-feminist-thought-fall-2023|Feminist Thought]] — WGS.301J, Fall 2023
+- [[wgs-109-women-and-global-activism-in-art-media-and-politics-fall-2023|Women and Global Activism in Art, Media and Politics]] — WGS.109, Fall 2023
+- [[wgs-101-introduction-to-womens-and-gender-studies-spring-2023|Introduction to Women's and Gender Studies]] — WGS.101, Spring 2023
+- [[21a-445j-slavery-and-human-trafficking-in-the-21st-century-spring-2015|Slavery and Human Trafficking in the 21st Century]] — 21A.445J, Spring 2015
+- [[21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006|Japan in the Age of the Samurai:  History and Film]] — 21H.522, Fall 2006
+- [[11-948-the-politics-of-reconstructing-iraq-spring-2005|The Politics of Reconstructing Iraq]] — 11.948, Spring 2005
+- [[mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008|NextLab I: Designing Mobile Technologies for the Next Billion Users]] — MAS.965, Fall 2008
 - [[21a-111j-for-love-and-money-rethinking-the-family-spring-2016|For Love and Money: Rethinking the Family]] — 21A.111J, Spring 2016
 - [[21g-013-out-of-ground-zero-catastrophe-and-memory-fall-2005|Out of Ground Zero: Catastrophe and Memory]] — 21G.013, Fall 2005
 - [[21h-245j-soviet-and-post-soviet-politics-and-society-1917-to-the-present-spring-2016|Soviet and Post-Soviet Politics and Society, 1917 to the Present]] — 21H.245J, Spring 2016
