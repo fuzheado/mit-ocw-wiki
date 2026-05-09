@@ -12,6 +12,10 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[11-016j-the-once-and-future-city-spring-2015|The Once and Future City]] — 11.016J, Spring 2015
+- [[21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015|Renaissance To Revolution: Europe, 1300-1800]] — 21H.141, Spring 2015
+- [[21h-105-american-classics-fall-2002|American Classics]] — 21H.105, Fall 2002
+- [[21m-262-modern-music-1900-1960-fall-2006|Modern Music: 1900-1960]] — 21M.262, Fall 2006
 - [[4-s67-landscape-experience-seminar-in-land-art-fall-2016|Landscape Experience: Seminar in Land/Art]] — 4.S67, Fall 2016
 - [[21h-931-seminar-in-historical-methods-spring-2004|Seminar in Historical Methods]] — 21H.931, Spring 2004
 - [[sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006|Energy and Environment in American History: 1705-2005]] — STS.038, Fall 2006

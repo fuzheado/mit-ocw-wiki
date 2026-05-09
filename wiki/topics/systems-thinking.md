@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-083j-integer-programming-and-combinatorial-optimization-fall-2009|Integer Programming and Combinatorial Optimization]] — 15.083J, Fall 2009
+- [[15-084j-nonlinear-programming-spring-2004|Nonlinear Programming]] — 15.084J, Spring 2004
+- [[15-871-introduction-to-system-dynamics-fall-2013|Introduction to System Dynamics]] — 15.871, Fall 2013
 - [[14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003|Dynamic Optimization & Economic Applications (Recursive Methods)]] — 14.128, Spring 2003
 - [[15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004|Systems Optimization: Models and Computation (SMA 5223)]] — 15.094J, Spring 2004
 - [[6-241j-dynamic-systems-and-control-spring-2011|Dynamic Systems and Control]] — 6.241J, Spring 2011

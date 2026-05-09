@@ -12,6 +12,13 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005|Molecular and Cellular Pathophysiology (BE.450)]] — 20.450, Spring 2005
+- [[hst-510-genomics-computing-economics-and-society-fall-2005|Genomics, Computing, Economics, and Society]] — HST.510, Fall 2005
+- [[20-442-molecular-structure-of-biological-materials-be-442-fall-2005|Molecular Structure of Biological Materials (BE.442)]] — 20.442, Fall 2005
+- [[7-00-covid-19-sars-cov-2-and-the-pandemic-fall-2021|COVID-19, SARS-CoV-2, and the Pandemic]] — 7.00, Fall 2021
+- [[res-7-007-7-06x-cell-biology|7.06x Cell Biology]] — RES.7-007, Spring 2023
+- [[9-04-sensory-systems-fall-2013|Sensory Systems]] — 9.04, Fall 2013
+- [[hst-721-the-peripheral-auditory-system-fall-2005|The Peripheral Auditory System]] — HST.721, Fall 2005
 - [[7-013-introductory-biology-spring-2018|Introductory Biology]] — 7.013, Spring 2018
 - [[hst-750-modeling-issues-in-speech-and-hearing-spring-2006|Modeling Issues in Speech and Hearing]] — HST.750, Spring 2006
 - [[12-091-medical-geology-geochemistry-an-exposure-january-iap-2006|Medical Geology/Geochemistry: An Exposure]] — 12.091, January IAP 2006

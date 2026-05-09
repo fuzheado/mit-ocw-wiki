@@ -12,6 +12,7 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-387-entrepreneurial-sales-spring-2015|Entrepreneurial Sales]] — 15.387, Spring 2015
 - [[esd-57-technology-based-business-transformation-fall-2007|Technology-based Business Transformation]] — ESD.57, Fall 2007
 - [[15-356-how-to-develop-breakthrough-products-and-services-spring-2004|How to Develop "Breakthrough" Products and Services]] — 15.356, Spring 2004
 - [[15-822-strategic-marketing-measurement-fall-2002|Strategic Marketing Measurement]] — 15.822, Fall 2002

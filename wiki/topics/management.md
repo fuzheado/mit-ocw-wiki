@@ -12,6 +12,10 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-414-financial-management-summer-2003|Financial Management]] — 15.414, Summer 2003
+- [[15-301-managerial-psychology-fall-2006|Managerial Psychology]] — 15.301, Fall 2006
+- [[15-871-introduction-to-system-dynamics-fall-2013|Introduction to System Dynamics]] — 15.871, Fall 2013
+- [[15-387-entrepreneurial-sales-spring-2015|Entrepreneurial Sales]] — 15.387, Spring 2015
 - [[esd-s51-systems-leadership-and-management-praxis-summer-2014|Systems Leadership and Management Praxis]] — ESD.S51, Summer 2014
 - [[15-649-the-law-of-mergers-and-acquisitions-spring-2003|The Law of Mergers and Acquisitions]] — 15.649, Spring 2003
 - [[15-269-leadership-stories-literature-ethics-and-authority-fall-2015|Leadership Stories: Literature, Ethics, and Authority]] — 15.269, Fall 2015

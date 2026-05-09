@@ -12,6 +12,7 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012|Feminist Inquiry: Strategies for Effective Scholarship]] (WGS.615)
 - [[21a-231j-gender-sexuality-and-society-spring-2006|Gender, Sexuality, and Society]] (21A.231J)
 - [[wgs-s10-special-topics-in-women-gender-studies-seminar-latina-womens-voices-spring-2010|Special Topics in Women & Gender Studies Seminar: Latina Women's Voices]] (WGS.S10)
 - [[wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017|Changing Life: Reading the Intersections of Gender, Race, Biology, and Literature]] (WGS.700)

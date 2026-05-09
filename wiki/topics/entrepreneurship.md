@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-992-s-lab-laboratory-for-sustainable-business-spring-2008|S-Lab: Laboratory for Sustainable Business]] — 15.992, Spring 2008
+- [[15-387-entrepreneurial-sales-spring-2015|Entrepreneurial Sales]] — 15.387, Spring 2015
+- [[15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010|Global Entrepreneurship Lab: Asia-Pacific]] — 15.389A, Fall 2010
 - [[esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009|X PRIZE Workshop: Grand Challenges in Energy]] — ESD.172J, Fall 2009
 - [[ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005|Internet Technology in Local and Global Communities]] — EC.S01, Spring 2005
 - [[15-356-how-to-develop-breakthrough-products-and-services-spring-2004|How to Develop "Breakthrough" Products and Services]] — 15.356, Spring 2004

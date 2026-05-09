@@ -12,6 +12,24 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[mas-865j-quantum-information-science-spring-2006|Quantum Information Science]] — MAS.865J, Spring 2006
+- [[18-330-introduction-to-numerical-analysis-spring-2012|Introduction to Numerical Analysis]] — 18.330, Spring 2012
+- [[6-884-complex-digital-systems-spring-2005|Complex Digital Systems]] — 6.884, Spring 2005
+- [[res-6-012-introduction-to-probability-spring-2018|Introduction to Probability]] — RES.6-012, Spring 2018
+- [[18-657-mathematics-of-machine-learning-fall-2015|Mathematics of Machine Learning]] — 18.657, Fall 2015
+- [[15-083j-integer-programming-and-combinatorial-optimization-fall-2009|Integer Programming and Combinatorial Optimization]] — 15.083J, Fall 2009
+- [[15-084j-nonlinear-programming-spring-2004|Nonlinear Programming]] — 15.084J, Spring 2004
+- [[18-319-geometric-combinatorics-fall-2005|Geometric Combinatorics]] — 18.319, Fall 2005
+- [[2-004-dynamics-and-control-ii-spring-2008|Dynamics and Control II]] — 2.004, Spring 2008
+- [[18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020|Introduction to Computational Thinking with Julia, with Applications to Modeling the COVID-19 Pandemic]] — 18.S190, Spring 2020
+- [[18-966-geometry-of-manifolds-spring-2007|Geometry of Manifolds]] — 18.966, Spring 2007
+- [[21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010|Music and Technology: Algorithmic and Generative Music]] — 21M.380, Spring 2010
+- [[6-001-structure-and-interpretation-of-computer-programs-spring-2005|Structure and Interpretation of Computer Programs]] — 6.001, Spring 2005
+- [[18-330-introduction-to-numerical-analysis-spring-2004|Introduction to Numerical Analysis]] — 18.330, Spring 2004
+- [[6-050j-information-and-entropy-spring-2008|Information and Entropy]] — 6.050J, Spring 2008
+- [[18-901-introduction-to-topology-fall-2004|Introduction to Topology]] — 18.901, Fall 2004
+- [[18-369-mathematical-methods-in-nanophotonics-spring-2008|Mathematical Methods in Nanophotonics]] — 18.369, Spring 2008
+- [[6-867-machine-learning-fall-2006|Machine Learning]] — 6.867, Fall 2006
 - [[18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015|Topics in Applied Mathematics: Waves and Imaging]] — 18.325, Fall 2015
 - [[22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005|Probability And Its Applications To Reliability, Quality Control, And Risk Assessment]] — 22.38, Fall 2005
 - [[6-071j-introduction-to-electronics-signals-and-measurement-spring-2006|Introduction to Electronics, Signals, and Measurement]] — 6.071J, Spring 2006

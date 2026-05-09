@@ -12,6 +12,9 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[cms-360-introduction-to-civic-media-fall-2012|Introduction to Civic Media]] (CMS.360)
+- [[cms-701-current-debates-in-media-spring-2015|Current Debates in Media]] (CMS.701)
+- [[cms-608-game-design-spring-2014|Game Design]] (CMS.608)
 - [[cms-633-digital-humanities-spring-2015|Digital Humanities]] (CMS.633)
 - [[res-cms-503-becoming-a-more-equitable-educator-mindsets-and-practices-spring-2020|Becoming a More Equitable Educator: Mindsets and Practices]] (RES.CMS-503)
 - [[21w-735-writing-and-reading-the-essay-fall-2005|Writing and Reading the Essay]] (21W.735)

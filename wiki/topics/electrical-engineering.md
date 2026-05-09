@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-884-complex-digital-systems-spring-2005|Complex Digital Systems]] — 6.884, Spring 2005
+- [[16-36-communication-systems-engineering-spring-2009|Communication Systems Engineering]] — 16.36, Spring 2009
+- [[6-050j-information-and-entropy-spring-2008|Information and Entropy]] — 6.050J, Spring 2008
 - [[6-263j-data-communication-networks-fall-2002|Data Communication Networks]] — 6.263J, Fall 2002
 - [[mas-632-conversational-computer-systems-fall-2008|Conversational Computer Systems]] — MAS.632, Fall 2008
 - [[6-642-continuum-electromechanics-fall-2008|Continuum Electromechanics]] — 6.642, Fall 2008

@@ -12,6 +12,9 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-346-topics-in-modern-french-literature-and-culture-north-america-through-french-eyes-spring-2014|Topics in Modern French Literature and Culture: North America Through French Eyes]] — 21G.346, Spring 2014
+- [[21g-341-contemporary-french-film-and-social-issues-spring-2014|Contemporary French Film and Social Issues]] — 21G.341, Spring 2014
+- [[21g-103-chinese-iii-regular-fall-2018|Chinese III (Regular)]] — 21G.103, Fall 2018
 - [[21g-034-media-education-and-the-marketplace-fall-2005|Media Education and the Marketplace]] — 21G.034, Fall 2005
 - [[21g-711-advanced-spanish-conversation-and-composition-spring-2014|Advanced Spanish Conversation and Composition]] — 21G.711, Spring 2014
 - [[21g-801-portuguese-i-fall-2011|Portuguese I]] — 21G.801, Fall 2011

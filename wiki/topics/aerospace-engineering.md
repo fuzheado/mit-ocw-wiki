@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-050-engineering-mechanics-i-fall-2007|Engineering Mechanics I]] — 1.050, Fall 2007
+- [[16-886-air-transportation-systems-architecting-spring-2004|Air Transportation Systems Architecting]] — 16.886, Spring 2004
 - [[16-885j-aircraft-systems-engineering-fall-2005|Aircraft Systems Engineering]] — 16.885J, Fall 2005
 - [[16-863j-system-safety-spring-2016|System Safety]] — 16.863J, Spring 2016
 - [[16-333-aircraft-stability-and-control-fall-2004|Aircraft Stability and Control]] — 16.333, Fall 2004

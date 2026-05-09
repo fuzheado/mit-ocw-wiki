@@ -12,6 +12,9 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[18-657-mathematics-of-machine-learning-fall-2015|Mathematics of Machine Learning]] — 18.657, Fall 2015
+- [[6-036-introduction-to-machine-learning-fall-2020|Introduction to Machine Learning]] — 6.036, Fall 2020
+- [[6-867-machine-learning-fall-2006|Machine Learning]] — 6.867, Fall 2006
 - [[hst-947-medical-artificial-intelligence-spring-2005|Medical Artificial Intelligence]] — HST.947, Spring 2005
 - [[6-370-robocraft-programming-competition-january-iap-2005|Robocraft Programming Competition]] — 6.370, January IAP 2005
 - [[9-520-statistical-learning-theory-and-applications-spring-2003|Statistical Learning Theory and Applications]] — 9.520, Spring 2003

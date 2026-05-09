@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[2-004-dynamics-and-control-ii-spring-2008|Dynamics and Control II]]
 - [[2-161-signal-processing-continuous-and-discrete-fall-2008|Signal Processing: Continuous and Discrete]]

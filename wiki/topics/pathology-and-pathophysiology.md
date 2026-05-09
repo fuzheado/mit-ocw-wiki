@@ -12,6 +12,9 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005|Molecular and Cellular Pathophysiology (BE.450)]] — 20.450, Spring 2005
+- [[9-04-sensory-systems-fall-2013|Sensory Systems]] — 9.04, Fall 2013
+- [[hst-721-the-peripheral-auditory-system-fall-2005|The Peripheral Auditory System]] — HST.721, Fall 2005
 - [[9-97-introduction-to-neuroanatomy-january-iap-2003|Introduction to Neuroanatomy]] — 9.97, January IAP 2003
 - [[hst-542j-quantitative-physiology-organ-transport-systems-spring-2004|Quantitative Physiology: Organ Transport Systems]] — HST.542J, Spring 2004
 - [[hst-720-physiology-of-the-ear-fall-2004|Physiology of the Ear]] — HST.720, Fall 2004

@@ -12,6 +12,7 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-119-analytical-techniques-for-studying-environmental-and-geologic-samples-spring-2011|Analytical Techniques for Studying Environmental and Geologic Samples]] — 12.119, Spring 2011
 - [[3-205-thermodynamics-and-kinetics-of-materials-fall-2006|Thermodynamics and Kinetics of Materials]] — 3.205, Fall 2006
 - [[22-55j-principles-of-radiation-interactions-fall-2004|Principles of Radiation Interactions]] — 22.55J, Fall 2004
 - [[22-106-neutron-interactions-and-applications-spring-2010|Neutron Interactions and Applications]] — 22.106, Spring 2010

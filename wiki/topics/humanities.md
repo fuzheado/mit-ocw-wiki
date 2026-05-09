@@ -20,6 +20,30 @@ courses_count: 0
 
 ## Courses
 
+- [[21g-346-topics-in-modern-french-literature-and-culture-north-america-through-french-eyes-spring-2014|Topics in Modern French Literature and Culture: North America Through French Eyes]] — 21G.346, Spring 2014
+- [[11-016j-the-once-and-future-city-spring-2015|The Once and Future City]] — 11.016J, Spring 2015
+- [[21g-035-topics-in-culture-and-globalization-reggae-as-transnational-culture-fall-2010|Topics in Culture and Globalization: Reggae as Transnational Culture]] — 21G.035, Fall 2010
+- [[21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005|Power: Interpersonal, Organizational and Global Dimensions]] — 21A.245J, Fall 2005
+- [[21g-341-contemporary-french-film-and-social-issues-spring-2014|Contemporary French Film and Social Issues]] — 21G.341, Spring 2014
+- [[mas-962-digital-typography-fall-1997|Digital Typography]] — MAS.962, Fall 1997
+- [[21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015|Renaissance To Revolution: Europe, 1300-1800]] — 21H.141, Spring 2015
+- [[hst-590-biomedical-engineering-seminar-series-topics-in-medical-ethics-and-responsible-conduct-in-research-fall-2005-spring-2006|Biomedical Engineering Seminar Series: Topics in Medical Ethics and Responsible Conduct in Research]] — HST.590, Fall 2005
+- [[cms-701-current-debates-in-media-spring-2015|Current Debates in Media]] — CMS.701, Spring 2015
+- [[21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010|Music and Technology: Algorithmic and Generative Music]] — 21M.380, Spring 2010
+- [[21m-260-stravinsky-to-the-present-spring-2016|Stravinsky to the Present]] — 21M.260, Spring 2016
+- [[21g-103-chinese-iii-regular-fall-2018|Chinese III (Regular)]] — 21G.103, Fall 2018
+- [[17-50-introduction-to-comparative-politics-fall-2022|Introduction to Comparative Politics]] — 17.50, Fall 2022
+- [[es-114-non-violence-as-a-way-of-life-fall-2018|Non-violence as a Way of Life]] — ES.114, Fall 2018
+- [[21l-705-major-authors-rewriting-genesis-paradise-lost-and-twentieth-century-fantasy-spring-2009|Major Authors: Rewriting Genesis: "Paradise Lost" and Twentieth-Century Fantasy]] — 21L.705, Spring 2009
+- [[21l-432-understanding-television-spring-2003|Understanding Television]] — 21L.432, Spring 2003
+- [[21l-021-comedy-spring-2016|Comedy]] — 21L.021, Spring 2016
+- [[9-57j-language-acquisition-fall-2001|Language Acquisition]] — 9.57J, Fall 2001
+- [[21l-703-studies-in-drama-stoppard-and-company-spring-2014|Studies in Drama: Stoppard and Company]] — 21L.703, Spring 2014
+- [[21h-105-american-classics-fall-2002|American Classics]] — 21H.105, Fall 2002
+- [[21m-262-modern-music-1900-1960-fall-2006|Modern Music: 1900-1960]] — 21M.262, Fall 2006
+- [[21m-710-script-analysis-fall-2011|Script Analysis]] — 21M.710, Fall 2011
+- [[3-093-information-exploration-becoming-a-savvy-scholar-fall-2006|Information Exploration: Becoming a Savvy Scholar]] — 3.093, Fall 2006
+- [[hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006|Biomedical Engineering Seminar Series: Developing Professional Skills]] — HST.590, Fall 2006
 - [[4-s67-landscape-experience-seminar-in-land-art-fall-2016|Landscape Experience: Seminar in Land/Art]] — 4.S67, Fall 2016
 - [[21m-030-introduction-to-world-music-fall-2006|Introduction to World Music]] — 21M.030, Fall 2006
 - [[21g-034-media-education-and-the-marketplace-fall-2005|Media Education and the Marketplace]] — 21G.034, Fall 2005

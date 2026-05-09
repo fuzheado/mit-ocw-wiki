@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005|Chemicals in the Environment: Toxicology and Public Health (BE.104J)]] — 20.104J, Spring 2005
+- [[20-442-molecular-structure-of-biological-materials-be-442-fall-2005|Molecular Structure of Biological Materials (BE.442)]] — 20.442, Fall 2005
 - [[hst-947-medical-artificial-intelligence-spring-2005|Medical Artificial Intelligence]] — HST.947, Spring 2005
 - [[20-441j-biomaterials-tissue-interactions-fall-2009|Biomaterials-Tissue Interactions]] — 20.441J, Fall 2009
 - [[3-051j-materials-for-biomedical-applications-spring-2006|Materials for Biomedical Applications]] — 3.051J, Spring 2006

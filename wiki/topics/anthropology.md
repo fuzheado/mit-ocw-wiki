@@ -12,6 +12,10 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21g-346-topics-in-modern-french-literature-and-culture-north-america-through-french-eyes-spring-2014|Topics in Modern French Literature and Culture: North America Through French Eyes]] — 21G.346, Spring 2014
+- [[21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005|Power: Interpersonal, Organizational and Global Dimensions]] — 21A.245J, Fall 2005
+- [[21l-432-understanding-television-spring-2003|Understanding Television]] — 21L.432, Spring 2003
+- [[21h-105-american-classics-fall-2002|American Classics]] — 21H.105, Fall 2002
 - [[21m-030-introduction-to-world-music-fall-2006|Introduction to World Music]] — 21M.030, Fall 2006
 - [[21a-231j-gender-sexuality-and-society-spring-2006|Gender, Sexuality, and Society]] — 21A.231J, Spring 2006
 - [[21g-035-topics-in-culture-and-globalization-fall-2003|Topics in Culture and Globalization]] — 21G.035, Fall 2003

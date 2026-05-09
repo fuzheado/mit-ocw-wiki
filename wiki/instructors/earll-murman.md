@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[16-886-air-transportation-systems-architecting-spring-2004|Air Transportation Systems Architecting]]
 - [[16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012|Introduction to Lean Six Sigma Methods]]

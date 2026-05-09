@@ -12,6 +12,14 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-297-special-problems-in-architecture-studies-fall-2000|Special Problems in Architecture Studies]] — 4.297, Fall 2000
+- [[21g-035-topics-in-culture-and-globalization-reggae-as-transnational-culture-fall-2010|Topics in Culture and Globalization: Reggae as Transnational Culture]] — 21G.035, Fall 2010
+- [[cms-360-introduction-to-civic-media-fall-2012|Introduction to Civic Media]] — CMS.360, Fall 2012
+- [[mas-962-digital-typography-fall-1997|Digital Typography]] — MAS.962, Fall 1997
+- [[cms-701-current-debates-in-media-spring-2015|Current Debates in Media]] — CMS.701, Spring 2015
+- [[21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010|Music and Technology: Algorithmic and Generative Music]] — 21M.380, Spring 2010
+- [[21l-432-understanding-television-spring-2003|Understanding Television]] — 21L.432, Spring 2003
+- [[cms-608-game-design-spring-2014|Game Design]] — CMS.608, Spring 2014
 - [[21g-034-media-education-and-the-marketplace-fall-2005|Media Education and the Marketplace]] — 21G.034, Fall 2005
 - [[cms-633-digital-humanities-spring-2015|Digital Humanities]] — CMS.633, Spring 2015
 - [[mas-961-numeric-photography-fall-1998|Numeric Photography]] — MAS.961, Fall 1998

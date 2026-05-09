@@ -12,6 +12,10 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[11-601-introduction-to-environmental-policy-and-planning-fall-2016|Introduction to Environmental Policy and Planning]] — 11.601, Fall 2016
+- [[11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005|Water and Sanitation Infrastructure Planning in Developing Countries]] — 11.479, Spring 2005
+- [[11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006|Role of Science and Scientists in Collaborative Approaches to Environmental Policymaking]] — 11.375, Spring 2006
+- [[11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016|Healthy Cities: Assessing Health Impacts of Policies and Plans]] — 11.S941, Spring 2016
 - [[22-081j-introduction-to-sustainable-energy-fall-2010|Introduction to Sustainable Energy]] — 22.081J, Fall 2010
 - [[1-253j-transportation-policy-and-environmental-limits-spring-2004|Transportation Policy and Environmental Limits]] — 1.253J, Spring 2004
 - [[sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006|Energy and Environment in American History: 1705-2005]] — STS.038, Fall 2006

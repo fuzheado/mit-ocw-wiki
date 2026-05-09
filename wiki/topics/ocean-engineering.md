@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006|Turbulence in the Ocean and Atmosphere]] — 12.820, Spring 2006
+- [[2-25-advanced-fluid-mechanics-fall-2013|Advanced Fluid Mechanics]] — 2.25, Fall 2013
 - [[12-810-dynamics-of-the-atmosphere-spring-2008|Dynamics of the Atmosphere]] — 12.810, Spring 2008
 - [[2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004|Advanced Structural Dynamics and Acoustics (13.811)]] — 2.067, Spring 2004
 - [[2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004|Maneuvering and Control of Surface and Underwater Vehicles (13.49)]] — 2.154, Fall 2004

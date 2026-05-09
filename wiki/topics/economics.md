@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[15-414-financial-management-summer-2003|Financial Management]] — 15.414, Summer 2003
+- [[14-09-financial-crises-january-iap-2016|Financial Crises]] — 14.09, January IAP 2016
+- [[hst-510-genomics-computing-economics-and-society-fall-2005|Genomics, Computing, Economics, and Society]] — HST.510, Fall 2005
+- [[15-402-finance-theory-ii-spring-2003|Finance Theory II]] — 15.402, Spring 2003
+- [[14-451-macroeconomic-theory-i-spring-2007|Macroeconomic Theory I]] — 14.451, Spring 2007
 - [[14-661-labor-economics-i-fall-2017|Labor Economics I]] — 14.661, Fall 2017
 - [[11-902-advanced-urban-public-finance-collective-action-and-provisions-of-local-public-goods-spring-2009|Advanced Urban Public Finance: Collective Action and Provisions of Local Public Goods]] — 11.902, Spring 2009
 - [[ec-720j-d-lab-ii-design-spring-2010|D-Lab II: Design]] — EC.720J, Spring 2010

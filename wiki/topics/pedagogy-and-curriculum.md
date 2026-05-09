@@ -12,6 +12,7 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[mas-963-technological-tools-for-school-reform-fall-2005|Technological Tools for School Reform]] — MAS.963, Fall 2005
 - [[res-cms-503-becoming-a-more-equitable-educator-mindsets-and-practices-spring-2020|Becoming a More Equitable Educator: Mindsets and Practices]] — RES.CMS-503, Spring 2020
 - [[res-21g-001-the-user-friendly-classroom-fall-2020|The User-friendly Classroom]] — RES.21G-001, Fall 2020
 - [[6-s062-generative-artificial-intelligence-in-k12-education-fall-2023|Generative Artificial Intelligence in K–12 Education]] — 6.S062, Fall 2023

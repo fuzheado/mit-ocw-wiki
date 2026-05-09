@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[8-325-relativistic-quantum-field-theory-iii-spring-2003|Relativistic Quantum Field Theory III]]
 - [[8-952-particle-physics-of-the-early-universe-fall-2004|Particle Physics of the Early Universe]]

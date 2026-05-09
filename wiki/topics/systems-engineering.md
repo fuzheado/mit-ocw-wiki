@@ -12,6 +12,13 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[res-6-012-introduction-to-probability-spring-2018|Introduction to Probability]] — RES.6-012, Spring 2018
+- [[15-083j-integer-programming-and-combinatorial-optimization-fall-2009|Integer Programming and Combinatorial Optimization]] — 15.083J, Fall 2009
+- [[15-084j-nonlinear-programming-spring-2004|Nonlinear Programming]] — 15.084J, Spring 2004
+- [[15-871-introduction-to-system-dynamics-fall-2013|Introduction to System Dynamics]] — 15.871, Fall 2013
+- [[16-36-communication-systems-engineering-spring-2009|Communication Systems Engineering]] — 16.36, Spring 2009
+- [[18-330-introduction-to-numerical-analysis-spring-2004|Introduction to Numerical Analysis]] — 18.330, Spring 2004
+- [[16-886-air-transportation-systems-architecting-spring-2004|Air Transportation Systems Architecting]] — 16.886, Spring 2004
 - [[16-885j-aircraft-systems-engineering-fall-2005|Aircraft Systems Engineering]] — 16.885J, Fall 2005
 - [[hst-750-modeling-issues-in-speech-and-hearing-spring-2006|Modeling Issues in Speech and Hearing]] — HST.750, Spring 2006
 - [[22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005|Probability And Its Applications To Reliability, Quality Control, And Risk Assessment]] — 22.38, Fall 2005

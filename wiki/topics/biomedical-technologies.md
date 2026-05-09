@@ -12,6 +12,12 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[22-058-principles-of-medical-imaging-fall-2002|Principles of Medical Imaging]] — 22.058, Fall 2002
+- [[9-63-laboratory-in-visual-cognition-fall-2009|Laboratory in Visual Cognition]] — 9.63, Fall 2009
+- [[hst-510-genomics-computing-economics-and-society-fall-2005|Genomics, Computing, Economics, and Society]] — HST.510, Fall 2005
+- [[9-04-sensory-systems-fall-2013|Sensory Systems]] — 9.04, Fall 2013
+- [[22-a09-career-options-for-biomedical-research-fall-2006|Career Options for Biomedical Research]] — 22.A09, Fall 2006
+- [[hst-721-the-peripheral-auditory-system-fall-2005|The Peripheral Auditory System]] — HST.721, Fall 2005
 - [[hst-750-modeling-issues-in-speech-and-hearing-spring-2006|Modeling Issues in Speech and Hearing]] — HST.750, Spring 2006
 - [[12-091-medical-geology-geochemistry-an-exposure-january-iap-2006|Medical Geology/Geochemistry: An Exposure]] — 12.091, January IAP 2006
 - [[hst-947-medical-artificial-intelligence-spring-2005|Medical Artificial Intelligence]] — HST.947, Spring 2005

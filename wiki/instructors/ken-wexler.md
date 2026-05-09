@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[9-57j-language-acquisition-fall-2001|Language Acquisition]]
 - [[9-56j-abnormal-language-fall-2004|Abnormal Language]]

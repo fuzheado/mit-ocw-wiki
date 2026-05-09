@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005|Water and Sanitation Infrastructure Planning in Developing Countries]] — 11.479, Spring 2005
+- [[11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006|Role of Science and Scientists in Collaborative Approaches to Environmental Policymaking]] — 11.375, Spring 2006
+- [[11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006|Environmental Management Practicum: Brownfield Redevelopment]] — 11.362, Fall 2006
+- [[res-12-002-terrascope-spring-2023|Terrascope]] — RES.12-002, Spring 2023
 - [[1-253j-transportation-policy-and-environmental-limits-spring-2004|Transportation Policy and Environmental Limits]] — 1.253J, Spring 2004
 - [[11-959-reforming-natural-resources-governance-failings-of-scientific-rationalism-and-alternatives-for-building-common-ground-january-iap-2007|Reforming Natural Resources Governance: Failings of Scientific Rationalism and Alternatives for Building Common Ground]] — 11.959, January IAP 2007
 - [[1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005|Introduction to Civil and Environmental Engineering Design I]] — 1.101, Fall 2005

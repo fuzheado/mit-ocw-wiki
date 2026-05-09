@@ -12,6 +12,15 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[15-992-s-lab-laboratory-for-sustainable-business-spring-2008|S-Lab: Laboratory for Sustainable Business]] — 15.992, Spring 2008
+- [[20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005|Chemicals in the Environment: Toxicology and Public Health (BE.104J)]] — 20.104J, Spring 2005
+- [[1-84j-atmospheric-chemistry-fall-2013|Atmospheric Chemistry]] — 1.84J, Fall 2013
+- [[12-744-marine-isotope-chemistry-fall-2012|Marine Isotope Chemistry]] — 12.744, Fall 2012
+- [[1-361-advanced-soil-mechanics-fall-2004|Advanced Soil Mechanics]] — 1.361, Fall 2004
+- [[res-12-002-terrascope-spring-2023|Terrascope]] — RES.12-002, Spring 2023
+- [[12-119-analytical-techniques-for-studying-environmental-and-geologic-samples-spring-2011|Analytical Techniques for Studying Environmental and Geologic Samples]] — 12.119, Spring 2011
+- [[12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006|Turbulence in the Ocean and Atmosphere]] — 12.820, Spring 2006
+- [[12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006|Applications of Continuum Mechanics to Earth, Atmospheric, and Planetary Sciences]] — 12.005, Spring 2006
 - [[12-810-dynamics-of-the-atmosphere-spring-2008|Dynamics of the Atmosphere]] — 12.810, Spring 2008
 - [[ec-720j-d-lab-ii-design-spring-2010|D-Lab II: Design]] — EC.720J, Spring 2010
 - [[12-740-paleoceanography-spring-2008|Paleoceanography]] — 12.740, Spring 2008

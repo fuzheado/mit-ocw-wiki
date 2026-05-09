@@ -12,6 +12,14 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[11-016j-the-once-and-future-city-spring-2015|The Once and Future City]] — 11.016J, Spring 2015
+- [[4-297-special-problems-in-architecture-studies-fall-2000|Special Problems in Architecture Studies]] — 4.297, Fall 2000
+- [[4-303-dialogue-in-art-architecture-and-urbanism-fall-2003|Dialogue in Art, Architecture, and Urbanism]] — 4.303, Fall 2003
+- [[11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006|Environmental Management Practicum: Brownfield Redevelopment]] — 11.362, Fall 2006
+- [[1-561-motion-based-design-fall-2003|Motion Based Design]] — 1.561, Fall 2003
+- [[4-448-analysis-of-historic-structures-fall-2004|Analysis of Historic Structures]] — 4.448, Fall 2004
+- [[4-647-technopolitics-culture-intervention-fall-2014|Technopolitics, Culture, Intervention]] — 4.647, Fall 2014
+- [[4-322-introduction-to-sculpture-fall-2003|Introduction to Sculpture]] — 4.322, Fall 2003
 - [[4-s67-landscape-experience-seminar-in-land-art-fall-2016|Landscape Experience: Seminar in Land/Art]] — 4.S67, Fall 2016
 - [[11-309j-sites-in-sight-photography-as-inquiry-fall-2003|Sites in Sight: Photography as Inquiry]] — 11.309J, Fall 2003
 - [[4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006|The Production of Space: Art, Architecture and Urbanism in Dialogue]] — 4.303, Fall 2006

@@ -12,6 +12,15 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-016j-the-once-and-future-city-spring-2015|The Once and Future City]] — 11.016J, Spring 2015
+- [[11-601-introduction-to-environmental-policy-and-planning-fall-2016|Introduction to Environmental Policy and Planning]] — 11.601, Fall 2016
+- [[4-303-dialogue-in-art-architecture-and-urbanism-fall-2003|Dialogue in Art, Architecture, and Urbanism]] — 4.303, Fall 2003
+- [[11-233-research-design-for-policy-analysis-and-planning-fall-2007|Research Design for Policy Analysis and Planning]] — 11.233, Fall 2007
+- [[11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005|Water and Sanitation Infrastructure Planning in Developing Countries]] — 11.479, Spring 2005
+- [[11-360-community-growth-and-land-use-planning-fall-2005|Community Growth and Land Use Planning]] — 11.360, Fall 2005
+- [[11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006|Environmental Management Practicum: Brownfield Redevelopment]] — 11.362, Fall 2006
+- [[11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016|Healthy Cities: Assessing Health Impacts of Policies and Plans]] — 11.S941, Spring 2016
+- [[16-886-air-transportation-systems-architecting-spring-2004|Air Transportation Systems Architecting]] — 16.886, Spring 2004
 - [[11-902-advanced-urban-public-finance-collective-action-and-provisions-of-local-public-goods-spring-2009|Advanced Urban Public Finance: Collective Action and Provisions of Local Public Goods]] — 11.902, Spring 2009
 - [[11-975-feeding-cities-in-the-global-south-challenges-and-opportunities-for-action-in-cartagena-fall-2009|Feeding Cities in the Global South: Challenges and Opportunities for Action in Cartagena]] — 11.975, Fall 2009
 - [[11-202-planning-economics-fall-2010|Planning Economics]] — 11.202, Fall 2010

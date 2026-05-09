@@ -12,6 +12,15 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-016j-the-once-and-future-city-spring-2015|The Once and Future City]] — 11.016J, Spring 2015
+- [[21g-035-topics-in-culture-and-globalization-reggae-as-transnational-culture-fall-2010|Topics in Culture and Globalization: Reggae as Transnational Culture]] — 21G.035, Fall 2010
+- [[21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005|Power: Interpersonal, Organizational and Global Dimensions]] — 21A.245J, Fall 2005
+- [[21g-341-contemporary-french-film-and-social-issues-spring-2014|Contemporary French Film and Social Issues]] — 21G.341, Spring 2014
+- [[11-360-community-growth-and-land-use-planning-fall-2005|Community Growth and Land Use Planning]] — 11.360, Fall 2005
+- [[cms-701-current-debates-in-media-spring-2015|Current Debates in Media]] — CMS.701, Spring 2015
+- [[11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016|Healthy Cities: Assessing Health Impacts of Policies and Plans]] — 11.S941, Spring 2016
+- [[wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012|Feminist Inquiry: Strategies for Effective Scholarship]] — WGS.615, Fall 2012
+- [[15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010|Global Entrepreneurship Lab: Asia-Pacific]] — 15.389A, Fall 2010
 - [[17-951-special-graduate-topic-in-political-science-public-opinion-spring-2004|Special Graduate Topic in Political Science: Public Opinion]] — 17.951, Spring 2004
 - [[21a-231j-gender-sexuality-and-society-spring-2006|Gender, Sexuality, and Society]] — 21A.231J, Spring 2006
 - [[15-341-individuals-groups-and-organizations-fall-2006|Individuals, Groups, and Organizations]] — 15.341, Fall 2006

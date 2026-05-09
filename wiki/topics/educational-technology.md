@@ -12,6 +12,8 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[4-297-special-problems-in-architecture-studies-fall-2000|Special Problems in Architecture Studies]] — 4.297, Fall 2000
+- [[mas-963-technological-tools-for-school-reform-fall-2005|Technological Tools for School Reform]] — MAS.963, Fall 2005
 - [[21g-034-media-education-and-the-marketplace-fall-2005|Media Education and the Marketplace]] — 21G.034, Fall 2005
 - [[ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005|Internet Technology in Local and Global Communities]] — EC.S01, Spring 2005
 - [[res-cms-503-becoming-a-more-equitable-educator-mindsets-and-practices-spring-2020|Becoming a More Equitable Educator: Mindsets and Practices]] — RES.CMS-503, Spring 2020

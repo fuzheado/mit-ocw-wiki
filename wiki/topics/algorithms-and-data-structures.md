@@ -12,6 +12,15 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[18-657-mathematics-of-machine-learning-fall-2015|Mathematics of Machine Learning]] — 18.657, Fall 2015
+- [[6-006-introduction-to-algorithms-fall-2011|Introduction to Algorithms]] — 6.006, Fall 2011
+- [[6-036-introduction-to-machine-learning-fall-2020|Introduction to Machine Learning]] — 6.036, Fall 2020
+- [[18-319-geometric-combinatorics-fall-2005|Geometric Combinatorics]] — 18.319, Fall 2005
+- [[18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020|Introduction to Computational Thinking with Julia, with Applications to Modeling the COVID-19 Pandemic]] — 18.S190, Spring 2020
+- [[21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010|Music and Technology: Algorithmic and Generative Music]] — 21M.380, Spring 2010
+- [[18-330-introduction-to-numerical-analysis-spring-2004|Introduction to Numerical Analysis]] — 18.330, Spring 2004
+- [[6-851-advanced-data-structures-spring-2012|Advanced Data Structures]] — 6.851, Spring 2012
+- [[6-867-machine-learning-fall-2006|Machine Learning]] — 6.867, Fall 2006
 - [[2-158j-computational-geometry-spring-2003|Computational Geometry]] — 2.158J, Spring 2003
 - [[18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002|Topics in Theoretical Computer Science : Internet Research Problems]] — 18.996, Spring 2002
 - [[9-520-statistical-learning-theory-and-applications-spring-2003|Statistical Learning Theory and Applications]] — 9.520, Spring 2003

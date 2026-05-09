@@ -12,6 +12,13 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005|Power: Interpersonal, Organizational and Global Dimensions]] — 21A.245J, Fall 2005
+- [[21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015|Renaissance To Revolution: Europe, 1300-1800]] — 21H.141, Spring 2015
+- [[hst-590-biomedical-engineering-seminar-series-topics-in-medical-ethics-and-responsible-conduct-in-research-fall-2005-spring-2006|Biomedical Engineering Seminar Series: Topics in Medical Ethics and Responsible Conduct in Research]] — HST.590, Fall 2005
+- [[cms-701-current-debates-in-media-spring-2015|Current Debates in Media]] — CMS.701, Spring 2015
+- [[17-50-introduction-to-comparative-politics-fall-2022|Introduction to Comparative Politics]] — 17.50, Fall 2022
+- [[es-114-non-violence-as-a-way-of-life-fall-2018|Non-violence as a Way of Life]] — ES.114, Fall 2018
+- [[hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006|Biomedical Engineering Seminar Series: Developing Professional Skills]] — HST.590, Fall 2006
 - [[21l-703-studies-in-drama-too-hot-to-handle-forbidden-plays-in-modern-america-fall-2008|Studies in Drama: Too Hot to Handle: Forbidden Plays in Modern America]] — 21L.703, Fall 2008
 - [[21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010|Interdisciplinary Approaches to Musical Time]] — 21M.542, January IAP 2010
 - [[21l-704-studies-in-poetry-whats-the-use-of-beauty-fall-2005|Studies in Poetry: "What's the Use of Beauty?"]] — 21L.704, Fall 2005

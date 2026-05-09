@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-360-community-growth-and-land-use-planning-fall-2005|Community Growth and Land Use Planning]]
 - [[11-360-community-growth-and-land-use-planning-fall-2010|Community Growth and Land Use Planning]]
 - [[11-360-community-growth-and-land-use-planning-fall-2006|Community Growth and Land Use Planning]]

@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-884-complex-digital-systems-spring-2005|Complex Digital Systems]] — 6.884, Spring 2005
+- [[18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020|Introduction to Computational Thinking with Julia, with Applications to Modeling the COVID-19 Pandemic]] — 18.S190, Spring 2020
 - [[mas-961-numeric-photography-fall-1998|Numeric Photography]] — MAS.961, Fall 1998
 - [[6-370-robocraft-programming-competition-january-iap-2005|Robocraft Programming Competition]] — 6.370, January IAP 2005
 - [[6-111-introductory-digital-systems-laboratory-fall-2002|Introductory Digital Systems Laboratory]] — 6.111, Fall 2002

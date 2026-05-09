@@ -25,6 +25,35 @@ courses_count: 0
 
 ## Courses
 
+- [[21g-346-topics-in-modern-french-literature-and-culture-north-america-through-french-eyes-spring-2014|Topics in Modern French Literature and Culture: North America Through French Eyes]] — 21G.346, Spring 2014
+- [[11-016j-the-once-and-future-city-spring-2015|The Once and Future City]] — 11.016J, Spring 2015
+- [[21g-035-topics-in-culture-and-globalization-reggae-as-transnational-culture-fall-2010|Topics in Culture and Globalization: Reggae as Transnational Culture]] — 21G.035, Fall 2010
+- [[11-601-introduction-to-environmental-policy-and-planning-fall-2016|Introduction to Environmental Policy and Planning]] — 11.601, Fall 2016
+- [[21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005|Power: Interpersonal, Organizational and Global Dimensions]] — 21A.245J, Fall 2005
+- [[21g-341-contemporary-french-film-and-social-issues-spring-2014|Contemporary French Film and Social Issues]] — 21G.341, Spring 2014
+- [[4-303-dialogue-in-art-architecture-and-urbanism-fall-2003|Dialogue in Art, Architecture, and Urbanism]] — 4.303, Fall 2003
+- [[17-317-u-s-social-policy-spring-2006|U.S. Social Policy]] — 17.317, Spring 2006
+- [[15-414-financial-management-summer-2003|Financial Management]] — 15.414, Summer 2003
+- [[cms-360-introduction-to-civic-media-fall-2012|Introduction to Civic Media]] — CMS.360, Fall 2012
+- [[11-233-research-design-for-policy-analysis-and-planning-fall-2007|Research Design for Policy Analysis and Planning]] — 11.233, Fall 2007
+- [[11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005|Water and Sanitation Infrastructure Planning in Developing Countries]] — 11.479, Spring 2005
+- [[14-09-financial-crises-january-iap-2016|Financial Crises]] — 14.09, January IAP 2016
+- [[15-301-managerial-psychology-fall-2006|Managerial Psychology]] — 15.301, Fall 2006
+- [[11-360-community-growth-and-land-use-planning-fall-2005|Community Growth and Land Use Planning]] — 11.360, Fall 2005
+- [[hst-510-genomics-computing-economics-and-society-fall-2005|Genomics, Computing, Economics, and Society]] — HST.510, Fall 2005
+- [[cms-701-current-debates-in-media-spring-2015|Current Debates in Media]] — CMS.701, Spring 2015
+- [[15-402-finance-theory-ii-spring-2003|Finance Theory II]] — 15.402, Spring 2003
+- [[14-451-macroeconomic-theory-i-spring-2007|Macroeconomic Theory I]] — 14.451, Spring 2007
+- [[17-50-introduction-to-comparative-politics-fall-2022|Introduction to Comparative Politics]] — 17.50, Fall 2022
+- [[11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006|Role of Science and Scientists in Collaborative Approaches to Environmental Policymaking]] — 11.375, Spring 2006
+- [[11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006|Environmental Management Practicum: Brownfield Redevelopment]] — 11.362, Fall 2006
+- [[21l-432-understanding-television-spring-2003|Understanding Television]] — 21L.432, Spring 2003
+- [[11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016|Healthy Cities: Assessing Health Impacts of Policies and Plans]] — 11.S941, Spring 2016
+- [[wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012|Feminist Inquiry: Strategies for Effective Scholarship]] — WGS.615, Fall 2012
+- [[21h-105-american-classics-fall-2002|American Classics]] — 21H.105, Fall 2002
+- [[17-480-understanding-military-operations-spring-2017|Understanding Military Operations]] — 17.480, Spring 2017
+- [[16-886-air-transportation-systems-architecting-spring-2004|Air Transportation Systems Architecting]] — 16.886, Spring 2004
+- [[15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010|Global Entrepreneurship Lab: Asia-Pacific]] — 15.389A, Fall 2010
 - [[21m-030-introduction-to-world-music-fall-2006|Introduction to World Music]] — 21M.030, Fall 2006
 - [[17-951-special-graduate-topic-in-political-science-public-opinion-spring-2004|Special Graduate Topic in Political Science: Public Opinion]] — 17.951, Spring 2004
 - [[21a-231j-gender-sexuality-and-society-spring-2006|Gender, Sexuality, and Society]] — 21A.231J, Spring 2006

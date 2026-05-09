@@ -12,6 +12,10 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005|Water and Sanitation Infrastructure Planning in Developing Countries]] — 11.479, Spring 2005
+- [[20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005|Chemicals in the Environment: Toxicology and Public Health (BE.104J)]] — 20.104J, Spring 2005
+- [[hst-510-genomics-computing-economics-and-society-fall-2005|Genomics, Computing, Economics, and Society]] — HST.510, Fall 2005
+- [[11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016|Healthy Cities: Assessing Health Impacts of Policies and Plans]] — 11.S941, Spring 2016
 - [[res-gem4-global-enterprise-for-micro-mechanics-and-molecular-medicine-gem4-summer-2006-summer-2007|Global Enterprise for Micro-Mechanics and Molecular Medicine (GEM4)]] — RES.GEM4, Summer 2006
 - [[ec-721-wheelchair-design-in-developing-countries-spring-2009|Wheelchair Design in Developing Countries]] — EC.721, Spring 2009
 - [[pe-730-archery-spring-2006|Archery]] — PE.730, Spring 2006

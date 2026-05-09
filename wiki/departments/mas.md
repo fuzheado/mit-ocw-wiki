@@ -12,6 +12,9 @@ School: [[school-architecture-planning|School of Architecture and Planning]]
 
 ## Courses
 
+- [[mas-865j-quantum-information-science-spring-2006|Quantum Information Science]] (MAS.865J)
+- [[mas-962-digital-typography-fall-1997|Digital Typography]] (MAS.962)
+- [[mas-963-technological-tools-for-school-reform-fall-2005|Technological Tools for School Reform]] (MAS.963)
 - [[mas-632-conversational-computer-systems-fall-2008|Conversational Computer Systems]] (MAS.632)
 - [[mas-961-numeric-photography-fall-1998|Numeric Photography]] (MAS.961)
 - [[mas-622j-pattern-recognition-and-analysis-fall-2006|Pattern Recognition and Analysis]] (MAS.622J)

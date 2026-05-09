@@ -10,6 +10,7 @@ courses_count: 0
 
 ## Courses
 
+- [[es-114-non-violence-as-a-way-of-life-fall-2018|Non-violence as a Way of Life]] (ES.114)
 - [[res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021|MIT Prison Education Initiative Discussion About Incarceration]] (RES.ES-001)
 - [[8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005|Physics II: Electricity & Magnetism with an Experimental Focus]] (8.02X)
 - [[es-246-current-events-and-social-issues-fall-2004|Current Events and Social Issues]] (ES.246)

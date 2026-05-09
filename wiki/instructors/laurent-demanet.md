@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[18-330-introduction-to-numerical-analysis-spring-2012|Introduction to Numerical Analysis]]
 - [[18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015|Topics in Applied Mathematics: Waves and Imaging]]

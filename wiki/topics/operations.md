@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-992-s-lab-laboratory-for-sustainable-business-spring-2008|S-Lab: Laboratory for Sustainable Business]] — 15.992, Spring 2008
+- [[15-871-introduction-to-system-dynamics-fall-2013|Introduction to System Dynamics]] — 15.871, Fall 2013
+- [[16-886-air-transportation-systems-architecting-spring-2004|Air Transportation Systems Architecting]] — 16.886, Spring 2004
 - [[15-760a-operations-management-spring-2002|Operations Management]] — 15.760A, Spring 2002
 - [[15-769-operations-strategy-spring-2003|Operations Strategy]] — 15.769, Spring 2003
 - [[2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004|Mechanical Assembly and Its Role in Product Development]] — 2.875, Fall 2004

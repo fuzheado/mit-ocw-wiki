@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21l-703-studies-in-drama-stoppard-and-company-spring-2014|Studies in Drama: Stoppard and Company]] — 21L.703, Spring 2014
+- [[21m-710-script-analysis-fall-2011|Script Analysis]] — 21M.710, Fall 2011
 - [[21l-703-studies-in-drama-too-hot-to-handle-forbidden-plays-in-modern-america-fall-2008|Studies in Drama: Too Hot to Handle: Forbidden Plays in Modern America]] — 21L.703, Fall 2008
 - [[21m-846-topics-in-performance-studies-comedy-across-media-spring-2018|Topics in Performance Studies: Comedy Across Media]] — 21M.846, Spring 2018
 - [[21m-611-foundations-of-theater-practice-fall-2009|Foundations of Theater Practice]] — 21M.611, Fall 2009

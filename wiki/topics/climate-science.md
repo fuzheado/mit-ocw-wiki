@@ -12,6 +12,8 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[15-992-s-lab-laboratory-for-sustainable-business-spring-2008|S-Lab: Laboratory for Sustainable Business]] — 15.992, Spring 2008
+- [[1-84j-atmospheric-chemistry-fall-2013|Atmospheric Chemistry]] — 1.84J, Fall 2013
 - [[ec-720j-d-lab-ii-design-spring-2010|D-Lab II: Design]] — EC.720J, Spring 2010
 - [[12-740-paleoceanography-spring-2008|Paleoceanography]] — 12.740, Spring 2008
 - [[22-081j-introduction-to-sustainable-energy-fall-2010|Introduction to Sustainable Energy]] — 22.081J, Fall 2010

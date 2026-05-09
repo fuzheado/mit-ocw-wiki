@@ -12,6 +12,16 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[3-11-mechanics-of-materials-fall-1999|Mechanics of Materials]] — 3.11, Fall 1999
+- [[2-72-elements-of-mechanical-design-spring-2009|Elements of Mechanical Design]] — 2.72, Spring 2009
+- [[1-050-engineering-mechanics-i-fall-2007|Engineering Mechanics I]] — 1.050, Fall 2007
+- [[2-004-dynamics-and-control-ii-spring-2008|Dynamics and Control II]] — 2.004, Spring 2008
+- [[20-442-molecular-structure-of-biological-materials-be-442-fall-2005|Molecular Structure of Biological Materials (BE.442)]] — 20.442, Fall 2005
+- [[12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006|Turbulence in the Ocean and Atmosphere]] — 12.820, Spring 2006
+- [[2-002-mechanics-and-materials-ii-spring-2004|Mechanics and Materials II]] — 2.002, Spring 2004
+- [[12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006|Applications of Continuum Mechanics to Earth, Atmospheric, and Planetary Sciences]] — 12.005, Spring 2006
+- [[18-369-mathematical-methods-in-nanophotonics-spring-2008|Mathematical Methods in Nanophotonics]] — 18.369, Spring 2008
+- [[2-25-advanced-fluid-mechanics-fall-2013|Advanced Fluid Mechanics]] — 2.25, Fall 2013
 - [[6-642-continuum-electromechanics-fall-2008|Continuum Electromechanics]] — 6.642, Fall 2008
 - [[ec-720j-d-lab-ii-design-spring-2010|D-Lab II: Design]] — EC.720J, Spring 2010
 - [[2-670-mechanical-engineering-tools-january-iap-2004|Mechanical Engineering Tools]] — 2.670, January IAP 2004

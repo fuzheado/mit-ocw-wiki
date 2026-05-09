@@ -12,6 +12,7 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[1-84j-atmospheric-chemistry-fall-2013|Atmospheric Chemistry]] — 1.84J, Fall 2013
 - [[22-39-integration-of-reactor-design-operations-and-safety-fall-2006|Integration of Reactor Design, Operations, and Safety]] — 22.39, Fall 2006
 - [[22-081j-introduction-to-sustainable-energy-fall-2010|Introduction to Sustainable Energy]] — 22.081J, Fall 2010
 - [[sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006|Energy and Environment in American History: 1705-2005]] — STS.038, Fall 2006

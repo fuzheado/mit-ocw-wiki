@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[3-11-mechanics-of-materials-fall-1999|Mechanics of Materials]] — 3.11, Fall 1999
+- [[2-002-mechanics-and-materials-ii-spring-2004|Mechanics and Materials II]] — 2.002, Spring 2004
 - [[3-205-thermodynamics-and-kinetics-of-materials-fall-2006|Thermodynamics and Kinetics of Materials]] — 3.205, Fall 2006
 - [[3-014-materials-laboratory-fall-2006|Materials Laboratory]] — 3.014, Fall 2006
 - [[22-14-materials-in-nuclear-engineering-spring-2015|Materials in Nuclear Engineering]] — 22.14, Spring 2015

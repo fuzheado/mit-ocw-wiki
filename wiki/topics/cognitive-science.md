@@ -12,6 +12,9 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-63-laboratory-in-visual-cognition-fall-2009|Laboratory in Visual Cognition]] — 9.63, Fall 2009
+- [[9-57j-language-acquisition-fall-2001|Language Acquisition]] — 9.57J, Fall 2001
+- [[6-867-machine-learning-fall-2006|Machine Learning]] — 6.867, Fall 2006
 - [[mas-632-conversational-computer-systems-fall-2008|Conversational Computer Systems]] — MAS.632, Fall 2008
 - [[6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006|Transcribing Prosodic Structure of Spoken Utterances with ToBI]] — 6.911, January IAP 2006
 - [[21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010|Interdisciplinary Approaches to Musical Time]] — 21M.542, January IAP 2010

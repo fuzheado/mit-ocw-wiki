@@ -12,6 +12,11 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21g-341-contemporary-french-film-and-social-issues-spring-2014|Contemporary French Film and Social Issues]] — 21G.341, Spring 2014
+- [[4-303-dialogue-in-art-architecture-and-urbanism-fall-2003|Dialogue in Art, Architecture, and Urbanism]] — 4.303, Fall 2003
+- [[mas-962-digital-typography-fall-1997|Digital Typography]] — MAS.962, Fall 1997
+- [[21l-432-understanding-television-spring-2003|Understanding Television]] — 21L.432, Spring 2003
+- [[4-322-introduction-to-sculpture-fall-2003|Introduction to Sculpture]] — 4.322, Fall 2003
 - [[11-309j-sites-in-sight-photography-as-inquiry-fall-2003|Sites in Sight: Photography as Inquiry]] — 11.309J, Fall 2003
 - [[mas-961-numeric-photography-fall-1998|Numeric Photography]] — MAS.961, Fall 1998
 - [[4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006|The Production of Space: Art, Architecture and Urbanism in Dialogue]] — 4.303, Fall 2006

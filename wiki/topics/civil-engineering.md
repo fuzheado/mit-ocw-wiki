@@ -12,6 +12,11 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-050-engineering-mechanics-i-fall-2007|Engineering Mechanics I]] — 1.050, Fall 2007
+- [[1-361-advanced-soil-mechanics-fall-2004|Advanced Soil Mechanics]] — 1.361, Fall 2004
+- [[1-561-motion-based-design-fall-2003|Motion Based Design]] — 1.561, Fall 2003
+- [[4-448-analysis-of-historic-structures-fall-2004|Analysis of Historic Structures]] — 4.448, Fall 2004
+- [[1-364-advanced-geotechnical-engineering-fall-2003|Advanced Geotechnical Engineering]] — 1.364, Fall 2003
 - [[1-253j-transportation-policy-and-environmental-limits-spring-2004|Transportation Policy and Environmental Limits]] — 1.253J, Spring 2004
 - [[sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006|Energy and Environment in American History: 1705-2005]] — STS.038, Fall 2006
 - [[1-010-uncertainty-in-engineering-fall-2008|Uncertainty in Engineering]] — 1.010, Fall 2008

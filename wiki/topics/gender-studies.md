@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[cms-701-current-debates-in-media-spring-2015|Current Debates in Media]] — CMS.701, Spring 2015
+- [[wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012|Feminist Inquiry: Strategies for Effective Scholarship]] — WGS.615, Fall 2012
 - [[21a-231j-gender-sexuality-and-society-spring-2006|Gender, Sexuality, and Society]] — 21A.231J, Spring 2006
 - [[wgs-s10-special-topics-in-women-gender-studies-seminar-latina-womens-voices-spring-2010|Special Topics in Women & Gender Studies Seminar: Latina Women's Voices]] — WGS.S10, Spring 2010
 - [[wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017|Changing Life: Reading the Intersections of Gender, Race, Biology, and Literature]] — WGS.700, Spring 2017

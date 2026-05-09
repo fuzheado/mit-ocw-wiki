@@ -12,6 +12,7 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[cms-608-game-design-spring-2014|Game Design]] — CMS.608, Spring 2014
 - [[cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019|Playful Augmented Reality Audio Design Exploration]] — CMS.S63, Fall 2019
 - [[6-370-robocraft-programming-competition-january-iap-2005|Robocraft Programming Competition]] — 6.370, January IAP 2005
 - [[cms-608-game-design-spring-2008|Game Design]] — CMS.608, Spring 2008

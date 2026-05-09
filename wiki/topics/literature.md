@@ -12,6 +12,17 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-346-topics-in-modern-french-literature-and-culture-north-america-through-french-eyes-spring-2014|Topics in Modern French Literature and Culture: North America Through French Eyes]] — 21G.346, Spring 2014
+- [[21g-341-contemporary-french-film-and-social-issues-spring-2014|Contemporary French Film and Social Issues]] — 21G.341, Spring 2014
+- [[es-114-non-violence-as-a-way-of-life-fall-2018|Non-violence as a Way of Life]] — ES.114, Fall 2018
+- [[21l-705-major-authors-rewriting-genesis-paradise-lost-and-twentieth-century-fantasy-spring-2009|Major Authors: Rewriting Genesis: "Paradise Lost" and Twentieth-Century Fantasy]] — 21L.705, Spring 2009
+- [[21l-432-understanding-television-spring-2003|Understanding Television]] — 21L.432, Spring 2003
+- [[21l-021-comedy-spring-2016|Comedy]] — 21L.021, Spring 2016
+- [[21l-703-studies-in-drama-stoppard-and-company-spring-2014|Studies in Drama: Stoppard and Company]] — 21L.703, Spring 2014
+- [[21h-105-american-classics-fall-2002|American Classics]] — 21H.105, Fall 2002
+- [[21m-710-script-analysis-fall-2011|Script Analysis]] — 21M.710, Fall 2011
+- [[3-093-information-exploration-becoming-a-savvy-scholar-fall-2006|Information Exploration: Becoming a Savvy Scholar]] — 3.093, Fall 2006
+- [[hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006|Biomedical Engineering Seminar Series: Developing Professional Skills]] — HST.590, Fall 2006
 - [[21l-703-studies-in-drama-too-hot-to-handle-forbidden-plays-in-modern-america-fall-2008|Studies in Drama: Too Hot to Handle: Forbidden Plays in Modern America]] — 21L.703, Fall 2008
 - [[21l-704-studies-in-poetry-whats-the-use-of-beauty-fall-2005|Studies in Poetry: "What's the Use of Beauty?"]] — 21L.704, Fall 2005
 - [[21l-021-comedy-spring-2022|Comedy]] — 21L.021, Spring 2022

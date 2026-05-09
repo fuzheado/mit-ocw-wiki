@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[cms-360-introduction-to-civic-media-fall-2012|Introduction to Civic Media]] — CMS.360, Fall 2012
+- [[cms-701-current-debates-in-media-spring-2015|Current Debates in Media]] — CMS.701, Spring 2015
 - [[21g-034-media-education-and-the-marketplace-fall-2005|Media Education and the Marketplace]] — 21G.034, Fall 2005
 - [[21g-711-advanced-spanish-conversation-and-composition-spring-2014|Advanced Spanish Conversation and Composition]] — 21G.711, Spring 2014
 - [[11-225-argumentation-and-communication-fall-2006|Argumentation and Communication]] — 11.225, Fall 2006

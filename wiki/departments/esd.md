@@ -10,6 +10,7 @@ courses_count: 0
 
 ## Courses
 
+- [[20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005|Chemicals in the Environment: Toxicology and Public Health (BE.104J)]] (20.104J)
 - [[16-885j-aircraft-systems-engineering-fall-2005|Aircraft Systems Engineering]] (16.885J)
 - [[esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009|X PRIZE Workshop: Grand Challenges in Energy]] (ESD.172J)
 - [[22-081j-introduction-to-sustainable-energy-fall-2010|Introduction to Sustainable Energy]] (22.081J)

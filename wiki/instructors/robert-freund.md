@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[15-084j-nonlinear-programming-spring-2004|Nonlinear Programming]]
 - [[15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004|Systems Optimization: Models and Computation (SMA 5223)]]

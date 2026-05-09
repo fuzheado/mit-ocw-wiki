@@ -12,6 +12,7 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[18-657-mathematics-of-machine-learning-fall-2015|Mathematics of Machine Learning]] — 18.657, Fall 2015
 - [[cms-633-digital-humanities-spring-2015|Digital Humanities]] — CMS.633, Spring 2015
 - [[15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004|Systems Optimization: Models and Computation (SMA 5223)]] — 15.094J, Spring 2004
 - [[res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012|How to Process, Analyze and Visualize Data]] — RES.6-009, January IAP 2012

@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[22-058-principles-of-medical-imaging-fall-2002|Principles of Medical Imaging]] — 22.058, Fall 2002
+- [[22-a09-career-options-for-biomedical-research-fall-2006|Career Options for Biomedical Research]] — 22.A09, Fall 2006
 - [[22-39-integration-of-reactor-design-operations-and-safety-fall-2006|Integration of Reactor Design, Operations, and Safety]] — 22.39, Fall 2006
 - [[22-55j-principles-of-radiation-interactions-fall-2004|Principles of Radiation Interactions]] — 22.55J, Fall 2004
 - [[22-14-materials-in-nuclear-engineering-spring-2015|Materials in Nuclear Engineering]] — 22.14, Spring 2015

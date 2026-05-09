@@ -25,6 +25,46 @@ courses_count: 0
 
 ## Courses
 
+- [[mas-865j-quantum-information-science-spring-2006|Quantum Information Science]] — MAS.865J, Spring 2006
+- [[6-884-complex-digital-systems-spring-2005|Complex Digital Systems]] — 6.884, Spring 2005
+- [[22-058-principles-of-medical-imaging-fall-2002|Principles of Medical Imaging]] — 22.058, Fall 2002
+- [[res-6-012-introduction-to-probability-spring-2018|Introduction to Probability]] — RES.6-012, Spring 2018
+- [[3-11-mechanics-of-materials-fall-1999|Mechanics of Materials]] — 3.11, Fall 1999
+- [[18-657-mathematics-of-machine-learning-fall-2015|Mathematics of Machine Learning]] — 18.657, Fall 2015
+- [[6-006-introduction-to-algorithms-fall-2011|Introduction to Algorithms]] — 6.006, Fall 2011
+- [[15-083j-integer-programming-and-combinatorial-optimization-fall-2009|Integer Programming and Combinatorial Optimization]] — 15.083J, Fall 2009
+- [[6-036-introduction-to-machine-learning-fall-2020|Introduction to Machine Learning]] — 6.036, Fall 2020
+- [[15-084j-nonlinear-programming-spring-2004|Nonlinear Programming]] — 15.084J, Spring 2004
+- [[18-319-geometric-combinatorics-fall-2005|Geometric Combinatorics]] — 18.319, Fall 2005
+- [[2-72-elements-of-mechanical-design-spring-2009|Elements of Mechanical Design]] — 2.72, Spring 2009
+- [[1-050-engineering-mechanics-i-fall-2007|Engineering Mechanics I]] — 1.050, Fall 2007
+- [[2-004-dynamics-and-control-ii-spring-2008|Dynamics and Control II]] — 2.004, Spring 2008
+- [[11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005|Water and Sanitation Infrastructure Planning in Developing Countries]] — 11.479, Spring 2005
+- [[20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005|Chemicals in the Environment: Toxicology and Public Health (BE.104J)]] — 20.104J, Spring 2005
+- [[18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020|Introduction to Computational Thinking with Julia, with Applications to Modeling the COVID-19 Pandemic]] — 18.S190, Spring 2020
+- [[15-871-introduction-to-system-dynamics-fall-2013|Introduction to System Dynamics]] — 15.871, Fall 2013
+- [[16-36-communication-systems-engineering-spring-2009|Communication Systems Engineering]] — 16.36, Spring 2009
+- [[20-442-molecular-structure-of-biological-materials-be-442-fall-2005|Molecular Structure of Biological Materials (BE.442)]] — 20.442, Fall 2005
+- [[21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010|Music and Technology: Algorithmic and Generative Music]] — 21M.380, Spring 2010
+- [[6-001-structure-and-interpretation-of-computer-programs-spring-2005|Structure and Interpretation of Computer Programs]] — 6.001, Spring 2005
+- [[18-330-introduction-to-numerical-analysis-spring-2004|Introduction to Numerical Analysis]] — 18.330, Spring 2004
+- [[6-050j-information-and-entropy-spring-2008|Information and Entropy]] — 6.050J, Spring 2008
+- [[11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006|Role of Science and Scientists in Collaborative Approaches to Environmental Policymaking]] — 11.375, Spring 2006
+- [[11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006|Environmental Management Practicum: Brownfield Redevelopment]] — 11.362, Fall 2006
+- [[1-361-advanced-soil-mechanics-fall-2004|Advanced Soil Mechanics]] — 1.361, Fall 2004
+- [[res-12-002-terrascope-spring-2023|Terrascope]] — RES.12-002, Spring 2023
+- [[1-561-motion-based-design-fall-2003|Motion Based Design]] — 1.561, Fall 2003
+- [[6-851-advanced-data-structures-spring-2012|Advanced Data Structures]] — 6.851, Spring 2012
+- [[12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006|Turbulence in the Ocean and Atmosphere]] — 12.820, Spring 2006
+- [[4-448-analysis-of-historic-structures-fall-2004|Analysis of Historic Structures]] — 4.448, Fall 2004
+- [[2-002-mechanics-and-materials-ii-spring-2004|Mechanics and Materials II]] — 2.002, Spring 2004
+- [[12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006|Applications of Continuum Mechanics to Earth, Atmospheric, and Planetary Sciences]] — 12.005, Spring 2006
+- [[18-369-mathematical-methods-in-nanophotonics-spring-2008|Mathematical Methods in Nanophotonics]] — 18.369, Spring 2008
+- [[2-25-advanced-fluid-mechanics-fall-2013|Advanced Fluid Mechanics]] — 2.25, Fall 2013
+- [[22-a09-career-options-for-biomedical-research-fall-2006|Career Options for Biomedical Research]] — 22.A09, Fall 2006
+- [[16-886-air-transportation-systems-architecting-spring-2004|Air Transportation Systems Architecting]] — 16.886, Spring 2004
+- [[1-364-advanced-geotechnical-engineering-fall-2003|Advanced Geotechnical Engineering]] — 1.364, Fall 2003
+- [[6-867-machine-learning-fall-2006|Machine Learning]] — 6.867, Fall 2006
 - [[6-263j-data-communication-networks-fall-2002|Data Communication Networks]] — 6.263J, Fall 2002
 - [[12-810-dynamics-of-the-atmosphere-spring-2008|Dynamics of the Atmosphere]] — 12.810, Spring 2008
 - [[16-885j-aircraft-systems-engineering-fall-2005|Aircraft Systems Engineering]] — 16.885J, Fall 2005

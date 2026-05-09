@@ -12,6 +12,16 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-601-introduction-to-environmental-policy-and-planning-fall-2016|Introduction to Environmental Policy and Planning]] — 11.601, Fall 2016
+- [[17-317-u-s-social-policy-spring-2006|U.S. Social Policy]] — 17.317, Spring 2006
+- [[11-233-research-design-for-policy-analysis-and-planning-fall-2007|Research Design for Policy Analysis and Planning]] — 11.233, Fall 2007
+- [[11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005|Water and Sanitation Infrastructure Planning in Developing Countries]] — 11.479, Spring 2005
+- [[11-360-community-growth-and-land-use-planning-fall-2005|Community Growth and Land Use Planning]] — 11.360, Fall 2005
+- [[cms-701-current-debates-in-media-spring-2015|Current Debates in Media]] — CMS.701, Spring 2015
+- [[11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006|Role of Science and Scientists in Collaborative Approaches to Environmental Policymaking]] — 11.375, Spring 2006
+- [[11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006|Environmental Management Practicum: Brownfield Redevelopment]] — 11.362, Fall 2006
+- [[11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016|Healthy Cities: Assessing Health Impacts of Policies and Plans]] — 11.S941, Spring 2016
+- [[17-480-understanding-military-operations-spring-2017|Understanding Military Operations]] — 17.480, Spring 2017
 - [[17-951-special-graduate-topic-in-political-science-public-opinion-spring-2004|Special Graduate Topic in Political Science: Public Opinion]] — 17.951, Spring 2004
 - [[11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021|Negotiation and Dispute Resolution in the Public Sector]] — 11.255, Spring 2021
 - [[11-902-advanced-urban-public-finance-collective-action-and-provisions-of-local-public-goods-spring-2009|Advanced Urban Public Finance: Collective Action and Provisions of Local Public Goods]] — 11.902, Spring 2009

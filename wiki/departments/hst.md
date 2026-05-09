@@ -12,6 +12,10 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[hst-590-biomedical-engineering-seminar-series-topics-in-medical-ethics-and-responsible-conduct-in-research-fall-2005-spring-2006|Biomedical Engineering Seminar Series: Topics in Medical Ethics and Responsible Conduct in Research]] (HST.590)
+- [[hst-510-genomics-computing-economics-and-society-fall-2005|Genomics, Computing, Economics, and Society]] (HST.510)
+- [[hst-721-the-peripheral-auditory-system-fall-2005|The Peripheral Auditory System]] (HST.721)
+- [[hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006|Biomedical Engineering Seminar Series: Developing Professional Skills]] (HST.590)
 - [[hst-750-modeling-issues-in-speech-and-hearing-spring-2006|Modeling Issues in Speech and Hearing]] (HST.750)
 - [[22-55j-principles-of-radiation-interactions-fall-2004|Principles of Radiation Interactions]] (22.55J)
 - [[hst-947-medical-artificial-intelligence-spring-2005|Medical Artificial Intelligence]] (HST.947)

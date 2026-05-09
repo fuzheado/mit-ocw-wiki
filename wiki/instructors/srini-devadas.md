@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-006-introduction-to-algorithms-fall-2011|Introduction to Algorithms]]
 - [[6-s095-programming-for-the-puzzled-january-iap-2018|Programming for the Puzzled]]

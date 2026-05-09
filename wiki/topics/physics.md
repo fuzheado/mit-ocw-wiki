@@ -12,6 +12,12 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[mas-865j-quantum-information-science-spring-2006|Quantum Information Science]] — MAS.865J, Spring 2006
+- [[8-325-relativistic-quantum-field-theory-iii-spring-2003|Relativistic Quantum Field Theory III]] — 8.325, Spring 2003
+- [[22-058-principles-of-medical-imaging-fall-2002|Principles of Medical Imaging]] — 22.058, Fall 2002
+- [[3-11-mechanics-of-materials-fall-1999|Mechanics of Materials]] — 3.11, Fall 1999
+- [[8-422-atomic-and-optical-physics-ii-spring-2013|Atomic and Optical Physics II]] — 8.422, Spring 2013
+- [[18-369-mathematical-methods-in-nanophotonics-spring-2008|Mathematical Methods in Nanophotonics]] — 18.369, Spring 2008
 - [[8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003|Strongly Correlated Systems in Condensed Matter Physics]] — 8.514, Fall 2003
 - [[6-642-continuum-electromechanics-fall-2008|Continuum Electromechanics]] — 6.642, Fall 2008
 - [[8-821-string-theory-fall-2008|String Theory]] — 8.821, Fall 2008
