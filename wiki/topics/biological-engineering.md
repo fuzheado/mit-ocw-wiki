@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007|Projects in Microscale Engineering for the Life Sciences]] — HST.410J, Spring 2007
+- [[hst-021-musculoskeletal-pathophysiology-january-iap-2006|Musculoskeletal Pathophysiology]] — HST.021, January IAP 2006
+- [[3-034-organic-biomaterials-chemistry-fall-2005|Organic & Biomaterials Chemistry]] — 3.034, Fall 2005
+- [[20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015|Molecular, Cellular, and Tissue Biomechanics]] — 20.310J, Spring 2015
 - [[9-530-cellular-and-molecular-computation-spring-2000|Cellular and Molecular Computation]] — 9.530, Spring 2000
 - [[20-430j-fields-forces-and-flows-in-biological-systems-fall-2015|Fields, Forces, and Flows in Biological Systems]] — 20.430J, Fall 2015
 - [[20-110j-thermodynamics-of-biomolecular-systems-fall-2005|Thermodynamics of Biomolecular Systems]] — 20.110J, Fall 2005

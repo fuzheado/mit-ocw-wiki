@@ -12,6 +12,10 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008|Traditions in American Concert Dance: Gender and Autobiography]] (21M.670)
+- [[21l-715-media-in-cultural-context-popular-readerships-fall-2007|Media in Cultural Context: Popular Readerships]] (21L.715)
+- [[21l-504j-race-and-identity-in-american-literature-keepin-it-real-fake-spring-2007|Race and Identity in American Literature: Keepin' it Real Fake]] (21L.504J)
+- [[wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019|Gendering U.S. Immigration Policy: Sociopolitical, Theological and Feminist Perspectives ]] (WGS.645)
 - [[wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014|Gender, Race, and the Construction of the American West]] (WGS.640)
 - [[wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014|Gender, Health and Marginalization Through a Critical Feminist Lens]] (WGS.645)
 - [[21l-430-popular-culture-and-narrative-literature-comics-and-culture-fall-2010|Popular Culture and Narrative: Literature, Comics, and Culture]] (21L.430)

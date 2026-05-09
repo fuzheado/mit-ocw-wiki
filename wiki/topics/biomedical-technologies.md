@@ -12,6 +12,9 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[9-13-the-human-brain-spring-2019|The Human Brain]] — 9.13, Spring 2019
+- [[9-35-sensation-and-perception-spring-2009|Sensation And Perception]] — 9.35, Spring 2009
+- [[9-357-special-topics-in-vision-science-fall-2001|Special Topics in Vision Science]] — 9.357, Fall 2001
 - [[hst-508-quantitative-genomics-fall-2005|Quantitative Genomics]] — HST.508, Fall 2005
 - [[res-9-005-fmri-bootcamp-fall-2017|fMRI Bootcamp]] — RES.9-005, Fall 2017
 - [[20-453j-biomedical-information-technology-fall-2008|Biomedical Information Technology]] — 20.453J, Fall 2008

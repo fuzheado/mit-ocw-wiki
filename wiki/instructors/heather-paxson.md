@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21a-157-the-meaning-of-life-spring-2019|The Meaning of Life]]
 - [[21a-155-food-culture-politics-fall-2019|Food, Culture & Politics]]
 - [[21a-500j-technology-and-culture-spring-2014|Technology and Culture]]
 - [[21a-501j-art-craft-science-spring-2013|Art, Craft, Science]]

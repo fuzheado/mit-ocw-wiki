@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[esd-342-network-representations-of-complex-engineering-systems-spring-2010|Network Representations of Complex Engineering Systems]]
 - [[esd-69-seminar-on-health-care-systems-innovation-fall-2010|Seminar on Health Care Systems Innovation]]

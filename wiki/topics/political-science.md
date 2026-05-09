@@ -12,6 +12,13 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-871-political-science-laboratory-spring-2012|Political Science Laboratory]] — 17.871, Spring 2012
+- [[21h-181-libertarianism-in-history-spring-2014|Libertarianism in History]] — 21H.181, Spring 2014
+- [[21a-506-the-anthropology-of-politics-persuasion-and-power-spring-2019|The Anthropology of Politics: Persuasion and Power]] — 21A.506, Spring 2019
+- [[res-17-001-mit-election-data-science-lab-fall-2020|MIT Election Data + Science Lab]] — RES.17-001, Fall 2020
+- [[17-418-field-seminar-international-relations-theory-fall-2011|Field Seminar: International Relations Theory]] — 17.418, Fall 2011
+- [[17-265-public-opinion-and-american-democracy-spring-2007|Public Opinion and American Democracy]] — 17.265, Spring 2007
+- [[wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019|Gendering U.S. Immigration Policy: Sociopolitical, Theological and Feminist Perspectives ]] — WGS.645, Spring 2019
 - [[17-801-political-science-scope-and-methods-fall-2017|Political Science Scope and Methods]] — 17.801, Fall 2017
 - [[res-17-002-mit-governance-lab-spring-2023|MIT Governance Lab]] — RES.17-002, Spring 2023
 - [[11-003j-methods-of-policy-analysis-spring-2016|Methods of Policy Analysis]] — 11.003J, Spring 2016

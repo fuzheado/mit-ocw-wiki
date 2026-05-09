@@ -12,6 +12,9 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[18-433-combinatorial-optimization-fall-2003|Combinatorial Optimization]] — 18.433, Fall 2003
+- [[18-s191-introduction-to-computational-thinking-fall-2020|Introduction to Computational Thinking]] — 18.S191, Fall 2020
+- [[18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009|Topics in Theoretical Computer Science: An Algorithmist's Toolkit]] — 18.409, Fall 2009
 - [[6-5060-algorithm-engineering-spring-2023|Algorithm Engineering]] — 6.5060, Spring 2023
 - [[6-837-computer-graphics-fall-2012|Computer Graphics]] — 6.837, Fall 2012
 - [[6-5830-database-systems-fall-2023|Database Systems]] — 6.5830, Fall 2023

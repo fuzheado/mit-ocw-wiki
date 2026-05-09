@@ -12,6 +12,11 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-366-advanced-projects-in-the-visual-arts-personal-narrative-spring-2004|Advanced Projects in the Visual Arts: Personal Narrative]] — 4.366, Spring 2004
+- [[21g-011-topics-in-indian-popular-culture-spectacle-masala-and-genre-fall-2006|Topics in Indian Popular Culture: Spectacle, Masala, and Genre]] — 21G.011, Fall 2006
+- [[4-367-studio-seminar-in-public-art-spring-2006|Studio Seminar in Public Art]] — 4.367, Spring 2006
+- [[21l-706-studies-in-film-fall-2005|Studies in Film]] — 21L.706, Fall 2005
+- [[21l-435-shakespeare-film-and-media-fall-2002|Shakespeare, Film and Media]] — 21L.435, Fall 2002
 - [[res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026|Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work]] — RES.10-001, Spring 2026
 - [[ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016|Visualization for Mathematics, Science, and Technology Education]] — EC.210, Spring 2016
 - [[21g-s01-modern-mexico-representations-of-mexico-citys-urban-life-spring-2015|Modern Mexico: Representations of Mexico City's Urban Life]] — 21G.S01, Spring 2015

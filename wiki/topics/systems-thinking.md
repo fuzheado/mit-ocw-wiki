@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[18-433-combinatorial-optimization-fall-2003|Combinatorial Optimization]] — 18.433, Fall 2003
+- [[2-141-modeling-and-simulation-of-dynamic-systems-fall-2006|Modeling and Simulation of Dynamic Systems]] — 2.141, Fall 2006
+- [[esd-051j-engineering-innovation-and-design-fall-2012|Engineering Innovation and Design]] — ESD.051J, Fall 2012
 - [[16-852j-integrating-the-lean-enterprise-fall-2005|Integrating the Lean Enterprise]] — 16.852J, Fall 2005
 - [[2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009|Exploring Sea, Space, & Earth: Fundamentals of Engineering Design]] — 2.00AJ, Spring 2009
 - [[ids-333-risk-and-decision-analysis-fall-2021|IDS.333 Risk and Decision Analysis]] — IDS.333, Fall 2021

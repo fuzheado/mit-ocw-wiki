@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[mas-961-seminar-on-deep-engagement-fall-2004|Seminar on Deep Engagement]] — MAS.961, Fall 2004
+- [[24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004|Feeling and Imagination in Art, Science, and Technology]] — 24.262, Spring 2004
+- [[9-35-sensation-and-perception-spring-2009|Sensation And Perception]] — 9.35, Spring 2009
 - [[14-13-psychology-and-economics-spring-2020|Psychology and Economics]] — 14.13, Spring 2020
 - [[9-46-neuroscience-of-morality-fall-2017|Neuroscience of Morality]] — 9.46, Fall 2017
 - [[9-201-advanced-animal-behavior-spring-2000|Advanced Animal Behavior]] — 9.201, Spring 2000

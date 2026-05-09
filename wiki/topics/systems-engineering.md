@@ -12,6 +12,14 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[18-433-combinatorial-optimization-fall-2003|Combinatorial Optimization]] — 18.433, Fall 2003
+- [[2-141-modeling-and-simulation-of-dynamic-systems-fall-2006|Modeling and Simulation of Dynamic Systems]] — 2.141, Fall 2006
+- [[sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017|Innovation Systems for Science, Technology, Energy, Manufacturing, and Health]] — STS.081, Spring 2017
+- [[1-225j-transportation-flow-systems-fall-2002|Transportation Flow Systems]] — 1.225J, Fall 2002
+- [[esd-33-systems-engineering-summer-2010|Systems Engineering]] — ESD.33, Summer 2010
+- [[esd-342-network-representations-of-complex-engineering-systems-spring-2010|Network Representations of Complex Engineering Systems]] — ESD.342, Spring 2010
+- [[esd-051j-engineering-innovation-and-design-fall-2012|Engineering Innovation and Design]] — ESD.051J, Fall 2012
+- [[9-52-c-computational-cognitive-science-spring-2003|Computational Cognitive Science]] — 9.52-C, Spring 2003
 - [[16-63j-system-safety-spring-2016|System Safety]] — 16.63J, Spring 2016
 - [[16-852j-integrating-the-lean-enterprise-fall-2005|Integrating the Lean Enterprise]] — 16.852J, Fall 2005
 - [[2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009|Exploring Sea, Space, & Earth: Fundamentals of Engineering Design]] — 2.00AJ, Spring 2009

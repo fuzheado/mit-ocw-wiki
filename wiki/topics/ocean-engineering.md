@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-20-marine-hydrodynamics-13-021-spring-2005|Marine Hydrodynamics (13.021)]] — 2.20, Spring 2005
+- [[sts-467-research-seminar-in-deep-sea-archaeology-spring-2002|Research Seminar in Deep Sea Archaeology]] — STS.467, Spring 2002
+- [[12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004|Wave Motions in the Ocean and Atmosphere]] — 12.802, Spring 2004
 - [[2-082-ship-structural-analysis-design-13-122-spring-2003|Ship Structural Analysis & Design (13.122)]] — 2.082, Spring 2003
 - [[2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009|Exploring Sea, Space, & Earth: Fundamentals of Engineering Design]] — 2.00AJ, Spring 2009
 - [[12-003-atmosphere-ocean-and-climate-dynamics-fall-2008|Atmosphere, Ocean and Climate Dynamics]] — 12.003, Fall 2008

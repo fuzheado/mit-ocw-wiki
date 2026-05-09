@@ -12,6 +12,11 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-978-leadership-tools-and-teams-a-product-development-lab-spring-2007|Leadership Tools and Teams: A Product Development Lab]] — 15.978, Spring 2007
+- [[15-902-strategic-management-i-fall-2006|Strategic Management I]] — 15.902, Fall 2006
+- [[15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018|New Executive Thinking Social-Impact Technology Projects]] — 15.960, Fall 2017
+- [[15-322-leading-organizations-ii-fall-2003|Leading Organizations II]] — 15.322, Fall 2003
+- [[15-667-negotiation-and-conflict-management-spring-2001|Negotiation and Conflict Management]] — 15.667, Spring 2001
 - [[15-969-dynamic-leadership-using-improvisation-in-business-fall-2004|Dynamic Leadership: Using Improvisation in Business]] — 15.969, Fall 2004
 - [[15-501-introduction-to-financial-and-managerial-accounting-spring-2004|Introduction to Financial and Managerial Accounting]] — 15.501, Spring 2004
 - [[15-310-managerial-psychology-laboratory-spring-2003|Managerial Psychology Laboratory]] — 15.310, Spring 2003

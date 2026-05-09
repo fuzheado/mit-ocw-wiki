@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[mas-961-seminar-on-deep-engagement-fall-2004|Seminar on Deep Engagement]]
 - [[mas-845-special-topics-in-cinematic-storytelling-spring-2004|Special Topics in Cinematic Storytelling]]
 - [[mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003|Special Topics in Multimedia Production: Experiences in Interactive Art]]

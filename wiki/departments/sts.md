@@ -12,6 +12,9 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017|Innovation Systems for Science, Technology, Energy, Manufacturing, and Health]] (STS.081)
+- [[21a-859j-social-theory-and-analysis-spring-2021|Social Theory and Analysis]] (21A.859J)
+- [[sts-467-research-seminar-in-deep-sea-archaeology-spring-2002|Research Seminar in Deep Sea Archaeology]] (STS.467)
 - [[sts-340j-introduction-to-the-history-of-technology-fall-2006|Introduction to the History of Technology]] (STS.340J)
 - [[21a-303j-the-anthropology-of-biology-spring-2022|The Anthropology of Biology]] (21A.303J)
 - [[24-06j-bioethics-spring-2009|Bioethics]] (24.06J)

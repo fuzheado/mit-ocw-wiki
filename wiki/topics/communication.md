@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21w-747-classical-rhetoric-and-modern-political-discourse-fall-2009|Classical Rhetoric and Modern Political Discourse]] — 21W.747, Fall 2009
+- [[mas-961-seminar-on-deep-engagement-fall-2004|Seminar on Deep Engagement]] — MAS.961, Fall 2004
+- [[11-310j-media-technology-and-city-design-and-development-spring-2002|Media Technology and City Design and Development]] — 11.310J, Spring 2002
+- [[esd-933-technology-policy-negotiations-and-dispute-resolution-spring-2005|Technology Policy Negotiations and Dispute Resolution]] — ESD.933, Spring 2005
+- [[21w-780-communicating-in-technical-organizations-fall-2001|Communicating in Technical Organizations]] — 21W.780, Fall 2001
+- [[15-667-negotiation-and-conflict-management-spring-2001|Negotiation and Conflict Management]] — 15.667, Spring 2001
 - [[cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015|Workshop II: Qualitative Social Science Methods for Media Studies]] — CMS.951, Spring 2015
 - [[cms-362-civic-media-codesign-studio-fall-2020|Civic Media Codesign Studio]] — CMS.362, Fall 2020
 - [[15-969-dynamic-leadership-using-improvisation-in-business-fall-2004|Dynamic Leadership: Using Improvisation in Business]] — 15.969, Fall 2004

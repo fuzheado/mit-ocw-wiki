@@ -12,6 +12,15 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[21l-448j-darwin-and-design-fall-2003|Darwin and Design]] — 21L.448J, Fall 2003
+- [[9-13-the-human-brain-spring-2019|The Human Brain]] — 9.13, Spring 2019
+- [[9-916-a-probability-and-causality-in-human-cognition-spring-2003|Probability and Causality in Human Cognition]] — 9.916-A, Spring 2003
+- [[9-913-pattern-recognition-for-machine-vision-fall-2004|Pattern Recognition for Machine Vision]] — 9.913, Fall 2004
+- [[24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004|Feeling and Imagination in Art, Science, and Technology]] — 24.262, Spring 2004
+- [[9-35-sensation-and-perception-spring-2009|Sensation And Perception]] — 9.35, Spring 2009
+- [[9-357-special-topics-in-vision-science-fall-2001|Special Topics in Vision Science]] — 9.357, Fall 2001
+- [[res-9-006-afni-training-bootcamp-spring-2018|AFNI Training Bootcamp]] — RES.9-006, Spring 2018
+- [[9-52-c-computational-cognitive-science-spring-2003|Computational Cognitive Science]] — 9.52-C, Spring 2003
 - [[res-9-005-fmri-bootcamp-fall-2017|fMRI Bootcamp]] — RES.9-005, Fall 2017
 - [[9-46-neuroscience-of-morality-fall-2017|Neuroscience of Morality]] — 9.46, Fall 2017
 - [[9-675-the-development-of-object-and-face-recognition-spring-2006|The Development of Object and Face Recognition]] — 9.675, Spring 2006

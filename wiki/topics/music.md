@@ -12,6 +12,11 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21m-295-american-popular-music-fall-2014|American Popular Music]] — 21M.295, Fall 2014
+- [[21m-065-introduction-to-musical-composition-spring-2014|Introduction to Musical Composition]] — 21M.065, Spring 2014
+- [[21m-350-musical-analysis-spring-2008|Musical Analysis]] — 21M.350, Spring 2008
+- [[21m-235-monteverdi-to-mozart-1600-1800-fall-2013|Monteverdi to Mozart: 1600-1800]] — 21M.235, Fall 2013
+- [[21m-s53-chinese-popular-musics-in-dialogue-spring-2014|Chinese Popular Musics in Dialogue]] — 21M.S53, Spring 2014
 - [[21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005|Vocal Repertoire and Performance: African American Composers]] — 21M.410, Spring 2005
 - [[21l-423j-introduction-to-anglo-american-folk-music-fall-2005|Introduction to Anglo-American Folk Music]] — 21L.423J, Fall 2005
 - [[21m-291-music-of-india-spring-2007|Music of India]] — 21M.291, Spring 2007

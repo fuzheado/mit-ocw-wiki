@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[res-stp-001-science-policy-bootcamp-january-iap-2011|Science Policy Bootcamp]] — RES.STP-001, January IAP 2011
+- [[14-74-foundations-of-development-policy-spring-2009|Foundations of Development Policy]] — 14.74, Spring 2009
+- [[esd-933-technology-policy-negotiations-and-dispute-resolution-spring-2005|Technology Policy Negotiations and Dispute Resolution]] — ESD.933, Spring 2005
+- [[11-437-financing-economic-development-fall-2016|Financing Economic Development]] — 11.437, Fall 2016
+- [[17-265-public-opinion-and-american-democracy-spring-2007|Public Opinion and American Democracy]] — 17.265, Spring 2007
+- [[wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019|Gendering U.S. Immigration Policy: Sociopolitical, Theological and Feminist Perspectives ]] — WGS.645, Spring 2019
 - [[cms-362-civic-media-codesign-studio-fall-2020|Civic Media Codesign Studio]] — CMS.362, Fall 2020
 - [[11-003j-methods-of-policy-analysis-spring-2016|Methods of Policy Analysis]] — 11.003J, Spring 2016
 - [[11-401-introduction-to-housing-community-and-economic-development-fall-2015|Introduction to Housing, Community, and Economic Development]] — 11.401, Fall 2015

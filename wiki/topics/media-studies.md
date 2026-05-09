@@ -12,6 +12,13 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21l-715-media-in-cultural-context-popular-readerships-fall-2007|Media in Cultural Context: Popular Readerships]] — 21L.715, Fall 2007
+- [[mas-961-seminar-on-deep-engagement-fall-2004|Seminar on Deep Engagement]] — MAS.961, Fall 2004
+- [[11-310j-media-technology-and-city-design-and-development-spring-2002|Media Technology and City Design and Development]] — 11.310J, Spring 2002
+- [[4-366-advanced-projects-in-the-visual-arts-personal-narrative-spring-2004|Advanced Projects in the Visual Arts: Personal Narrative]] — 4.366, Spring 2004
+- [[21g-011-topics-in-indian-popular-culture-spectacle-masala-and-genre-fall-2006|Topics in Indian Popular Culture: Spectacle, Masala, and Genre]] — 21G.011, Fall 2006
+- [[21l-706-studies-in-film-fall-2005|Studies in Film]] — 21L.706, Fall 2005
+- [[21l-435-shakespeare-film-and-media-fall-2002|Shakespeare, Film and Media]] — 21L.435, Fall 2002
 - [[cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015|Workshop II: Qualitative Social Science Methods for Media Studies]] — CMS.951, Spring 2015
 - [[ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016|Visualization for Mathematics, Science, and Technology Education]] — EC.210, Spring 2016
 - [[21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014|Writing and Experience: Reading and Writing Autobiography]] — 21W.022, Spring 2014

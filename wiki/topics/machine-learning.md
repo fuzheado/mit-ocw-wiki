@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-270-autonomous-robot-design-competition-january-iap-2005|Autonomous Robot Design Competition]] — 6.270, January IAP 2005
+- [[9-913-pattern-recognition-for-machine-vision-fall-2004|Pattern Recognition for Machine Vision]] — 9.913, Fall 2004
 - [[res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026|Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work]] — RES.10-001, Spring 2026
 - [[2-160-identification-estimation-and-learning-spring-2006|Identification, Estimation, and Learning]] — 2.160, Spring 2006
 - [[15-s08-fintech-shaping-the-financial-world-spring-2020|FinTech: Shaping the Financial World ]] — 15.S08, Spring 2020

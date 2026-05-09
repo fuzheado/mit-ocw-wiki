@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[16-982-bio-inspired-structures-spring-2009|Bio-Inspired Structures]] — 16.982, Spring 2009
+- [[16-512-rocket-propulsion-fall-2005|Rocket Propulsion]] — 16.512, Fall 2005
 - [[16-63j-system-safety-spring-2016|System Safety]] — 16.63J, Spring 2016
 - [[2-082-ship-structural-analysis-design-13-122-spring-2003|Ship Structural Analysis & Design (13.122)]] — 2.082, Spring 2003
 - [[16-687-private-pilot-ground-school-january-iap-2019|Private Pilot Ground School]] — 16.687, January IAP 2019

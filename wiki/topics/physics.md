@@ -12,6 +12,11 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[22-68j-superconducting-magnets-spring-2003|Superconducting Magnets]] — 22.68J, Spring 2003
+- [[8-08-statistical-physics-ii-spring-2005|Statistical Physics II]] — 8.08, Spring 2005
+- [[5-80-small-molecule-spectroscopy-and-dynamics-fall-2008|Small-Molecule Spectroscopy and Dynamics]] — 5.80, Fall 2008
+- [[16-512-rocket-propulsion-fall-2005|Rocket Propulsion]] — 16.512, Fall 2005
+- [[8-022-physics-ii-electricity-and-magnetism-fall-2004|Physics II: Electricity and Magnetism]] — 8.022, Fall 2004
 - [[12-400-the-solar-system-spring-2006|The Solar System]] — 12.400, Spring 2006
 - [[18-307-integral-equations-spring-2006|Integral Equations]] — 18.307, Spring 2006
 - [[3-45-magnetic-materials-spring-2004|Magnetic Materials]] — 3.45, Spring 2004

@@ -12,6 +12,7 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[18-s191-introduction-to-computational-thinking-fall-2020|Introduction to Computational Thinking]] — 18.S191, Fall 2020
 - [[3-53-electrochemical-processing-of-materials-spring-2001|Electrochemical Processing of Materials]] — 3.53, Spring 2001
 - [[res-env-004-mit-climate-portal-fall-2020|MIT Climate Portal]] — RES.ENV-004, Fall 2020
 - [[14-44-energy-economics-spring-2007|Energy Economics]] — 14.44, Spring 2007

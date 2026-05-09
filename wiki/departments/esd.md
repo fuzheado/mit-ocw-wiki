@@ -10,6 +10,11 @@ courses_count: 0
 
 ## Courses
 
+- [[1-225j-transportation-flow-systems-fall-2002|Transportation Flow Systems]] (1.225J)
+- [[esd-33-systems-engineering-summer-2010|Systems Engineering]] (ESD.33)
+- [[esd-342-network-representations-of-complex-engineering-systems-spring-2010|Network Representations of Complex Engineering Systems]] (ESD.342)
+- [[esd-933-technology-policy-negotiations-and-dispute-resolution-spring-2005|Technology Policy Negotiations and Dispute Resolution]] (ESD.933)
+- [[esd-051j-engineering-innovation-and-design-fall-2012|Engineering Innovation and Design]] (ESD.051J)
 - [[11-481j-analyzing-and-accounting-for-regional-economic-growth-spring-2009|Analyzing and Accounting for Regional Economic Growth]] (11.481J)
 - [[16-852j-integrating-the-lean-enterprise-fall-2005|Integrating the Lean Enterprise]] (16.852J)
 - [[sts-340j-introduction-to-the-history-of-technology-fall-2006|Introduction to the History of Technology]] (STS.340J)

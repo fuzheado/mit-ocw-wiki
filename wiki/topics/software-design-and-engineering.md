@@ -12,6 +12,9 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-s096-introduction-to-c-and-c-january-iap-2013|Introduction to C and C++]] — 6.S096, January IAP 2013
+- [[6-270-autonomous-robot-design-competition-january-iap-2005|Autonomous Robot Design Competition]] — 6.270, January IAP 2005
+- [[18-s191-introduction-to-computational-thinking-fall-2020|Introduction to Computational Thinking]] — 18.S191, Fall 2020
 - [[6-012-microelectronic-devices-and-circuits-fall-2009|Microelectronic Devices and Circuits]] — 6.012, Fall 2009
 - [[6-824-distributed-computer-systems-engineering-spring-2006|Distributed Computer Systems Engineering]] — 6.824, Spring 2006
 - [[6-096-introduction-to-c-january-iap-2011|Introduction to C++]] — 6.096, January IAP 2011

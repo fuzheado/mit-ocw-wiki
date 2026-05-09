@@ -12,6 +12,12 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-296-furniture-making-spring-2005|Furniture Making]] — 4.296, Spring 2005
+- [[4-184-architectural-design-workshop-collage-method-and-form-spring-2004|Architectural Design Workshop: Collage - Method and Form]] — 4.184, Spring 2004
+- [[4-104-architectural-design-intentions-spring-2004|Architectural Design: Intentions]] — 4.104, Spring 2004
+- [[4-367-studio-seminar-in-public-art-spring-2006|Studio Seminar in Public Art]] — 4.367, Spring 2006
+- [[4-170-ecuador-workshop-fall-2006|Ecuador Workshop]] — 4.170, Fall 2006
+- [[4-175-case-studies-in-city-form-fall-2005|Case Studies in City Form]] — 4.175, Fall 2005
 - [[11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001|Power of Place: Media Technology, Youth, and City Design and Development]] — 11.948, Spring 2001
 - [[4-001j-cityscope-new-orleans-spring-2007|CityScope: New Orleans]] — 4.001J, Spring 2007
 - [[11-945-springfield-studio-spring-2004|Springfield Studio]] — 11.945, Spring 2004

@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004|Planning in Transition Economies for Growth and Equity]] — 11.946, Spring 2004
+- [[11-310j-media-technology-and-city-design-and-development-spring-2002|Media Technology and City Design and Development]] — 11.310J, Spring 2002
+- [[1-225j-transportation-flow-systems-fall-2002|Transportation Flow Systems]] — 1.225J, Fall 2002
+- [[11-437-financing-economic-development-fall-2016|Financing Economic Development]] — 11.437, Fall 2016
+- [[4-175-case-studies-in-city-form-fall-2005|Case Studies in City Form]] — 4.175, Fall 2005
 - [[11-481j-analyzing-and-accounting-for-regional-economic-growth-spring-2009|Analyzing and Accounting for Regional Economic Growth]] — 11.481J, Spring 2009
 - [[11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009|Quantitative Reasoning & Statistical Methods for Planners I]] — 11.220, Spring 2009
 - [[11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001|Power of Place: Media Technology, Youth, and City Design and Development]] — 11.948, Spring 2001

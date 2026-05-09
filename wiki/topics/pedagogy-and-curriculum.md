@@ -12,6 +12,7 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[5-95j-teaching-college-level-science-and-engineering-fall-2015|Teaching College-Level Science and Engineering]] — 5.95J, Fall 2015
 - [[11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001|Power of Place: Media Technology, Youth, and City Design and Development]] — 11.948, Spring 2001
 - [[res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023|MIT-Haiti Initiative / Inisyativ MIT-Ayiti]] — RES.24-002, Spring 2023
 - [[11-129-educational-theory-and-practice-i-fall-2011|Educational Theory and Practice I]] — 11.129, Fall 2011

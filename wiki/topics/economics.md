@@ -12,6 +12,14 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004|Planning in Transition Economies for Growth and Equity]] — 11.946, Spring 2004
+- [[15-014-applied-macro-and-international-economics-ii-spring-2016|Applied Macro- and International Economics II]] — 15.014, Spring 2016
+- [[14-74-foundations-of-development-policy-spring-2009|Foundations of Development Policy]] — 14.74, Spring 2009
+- [[sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017|Innovation Systems for Science, Technology, Energy, Manufacturing, and Health]] — STS.081, Spring 2017
+- [[14-122-microeconomic-theory-ii-fall-2002|Microeconomic Theory II]] — 14.122, Fall 2002
+- [[21a-859j-social-theory-and-analysis-spring-2021|Social Theory and Analysis]] — 21A.859J, Spring 2021
+- [[11-437-financing-economic-development-fall-2016|Financing Economic Development]] — 11.437, Fall 2016
+- [[1-011-project-evaluation-spring-2011|Project Evaluation]] — 1.011, Spring 2011
 - [[11-481j-analyzing-and-accounting-for-regional-economic-growth-spring-2009|Analyzing and Accounting for Regional Economic Growth]] — 11.481J, Spring 2009
 - [[14-54-international-trade-fall-2016|International Trade]] — 14.54, Fall 2016
 - [[16-812-the-aerospace-industry-spring-2004|The Aerospace Industry]] — 16.812, Spring 2004

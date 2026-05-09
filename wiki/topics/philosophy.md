@@ -12,6 +12,9 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004|Planning in Transition Economies for Growth and Equity]] — 11.946, Spring 2004
+- [[21l-448j-darwin-and-design-fall-2003|Darwin and Design]] — 21L.448J, Fall 2003
+- [[24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004|Feeling and Imagination in Art, Science, and Technology]] — 24.262, Spring 2004
 - [[24-261-philosophy-of-love-in-the-western-world-fall-2004|Philosophy of Love in the Western World]] — 24.261, Fall 2004
 - [[24-00-problems-of-philosophy-fall-2019|Problems of Philosophy]] — 24.00, Fall 2019
 - [[cc-s10-history-and-philosophy-of-mechanics-newtons-principia-mathematica-fall-2011|History and Philosophy of Mechanics: Newton's Principia Mathematica]] — CC.S10, Fall 2011

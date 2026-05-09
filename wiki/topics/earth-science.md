@@ -12,6 +12,9 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[sts-467-research-seminar-in-deep-sea-archaeology-spring-2002|Research Seminar in Deep Sea Archaeology]] — STS.467, Spring 2002
+- [[18-s191-introduction-to-computational-thinking-fall-2020|Introduction to Computational Thinking]] — 18.S191, Fall 2020
+- [[12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004|Wave Motions in the Ocean and Atmosphere]] — 12.802, Spring 2004
 - [[12-400-the-solar-system-spring-2006|The Solar System]] — 12.400, Spring 2006
 - [[12-746-marine-organic-geochemistry-spring-2005|Marine Organic Geochemistry]] — 12.746, Spring 2005
 - [[11-947-sustainable-economic-development-spring-2004|Sustainable Economic Development]] — 11.947, Spring 2004

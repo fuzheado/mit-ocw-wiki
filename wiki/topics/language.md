@@ -12,6 +12,9 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[es-s41-speak-italian-with-your-mouth-full-spring-2012|Speak Italian With Your Mouth Full]] — ES.S41, Spring 2012
+- [[21l-640j-the-new-spain-1977-present-fall-2015|The New Spain:1977-Present]] — 21L.640J, Fall 2015
+- [[21g-730-hispanic-america-one-hundred-years-of-literature-and-film-spring-2014|Hispanic America: One Hundred Years of Literature and Film]] — 21G.730, Spring 2014
 - [[21g-347-contemporary-short-french-fiction-social-and-literary-trends-since-1990-fall-2013|Contemporary Short French Fiction: Social and Literary Trends since 1990]] — 21G.347, Fall 2013
 - [[21g-703-spanish-iii-spring-2006|Spanish III]] — 21G.703, Spring 2006
 - [[21g-114-chinese-vi-streamlined-spring-2005|Chinese VI (Streamlined)]] — 21G.114, Spring 2005

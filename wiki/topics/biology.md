@@ -12,6 +12,12 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[7-13-experimental-microbial-genetics-fall-2008|Experimental Microbial Genetics]] — 7.13, Fall 2008
+- [[9-13-the-human-brain-spring-2019|The Human Brain]] — 9.13, Spring 2019
+- [[res-7-008-7-28x-molecular-biology|7.28x Molecular Biology]] — RES.7-008, Spring 2023
+- [[9-35-sensation-and-perception-spring-2009|Sensation And Perception]] — 9.35, Spring 2009
+- [[20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015|Molecular, Cellular, and Tissue Biomechanics]] — 20.310J, Spring 2015
+- [[7-60-cell-biology-structure-and-functions-of-the-nucleus-spring-2010|Cell Biology: Structure and Functions of the Nucleus]] — 7.60, Spring 2010
 - [[9-530-cellular-and-molecular-computation-spring-2000|Cellular and Molecular Computation]] — 9.530, Spring 2000
 - [[res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019|Pre-7.01: Getting up to Speed in Biology]] — RES.7-001, Summer 2019
 - [[hst-508-quantitative-genomics-fall-2005|Quantitative Genomics]] — HST.508, Fall 2005

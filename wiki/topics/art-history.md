@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-651-art-since-1940-fall-2010|Art Since 1940]] — 4.651, Fall 2010
+- [[4-184-architectural-design-workshop-collage-method-and-form-spring-2004|Architectural Design Workshop: Collage - Method and Form]] — 4.184, Spring 2004
+- [[4-367-studio-seminar-in-public-art-spring-2006|Studio Seminar in Public Art]] — 4.367, Spring 2006
 - [[21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003|Topics in the Avant-Garde in Literature and Cinema]] — 21G.031J, Spring 2003
 - [[4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014|History of Urban Form: Locating Capitalism: Producing Early Modern Cities and Objects]] — 4.663, Spring 2014
 - [[4-601-introduction-to-art-history-fall-2018|Introduction to Art History]] — 4.601, Fall 2018

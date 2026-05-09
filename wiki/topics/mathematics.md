@@ -12,6 +12,17 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[18-433-combinatorial-optimization-fall-2003|Combinatorial Optimization]] — 18.433, Fall 2003
+- [[8-08-statistical-physics-ii-spring-2005|Statistical Physics II]] — 8.08, Spring 2005
+- [[17-871-political-science-laboratory-spring-2012|Political Science Laboratory]] — 17.871, Spring 2012
+- [[18-s996-category-theory-for-scientists-spring-2013|Category Theory for Scientists]] — 18.S996, Spring 2013
+- [[6-844-computability-theory-of-and-with-scheme-spring-2003|Computability Theory of and with Scheme]] — 6.844, Spring 2003
+- [[9-916-a-probability-and-causality-in-human-cognition-spring-2003|Probability and Causality in Human Cognition]] — 9.916-A, Spring 2003
+- [[18-125-measure-and-integration-fall-2003|Measure and Integration]] — 18.125, Fall 2003
+- [[18-755-introduction-to-lie-groups-fall-2004|Introduction to Lie Groups]] — 18.755, Fall 2004
+- [[18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005|Topics in Statistics: Nonparametrics and Robustness]] — 18.465, Spring 2005
+- [[18-s191-introduction-to-computational-thinking-fall-2020|Introduction to Computational Thinking]] — 18.S191, Fall 2020
+- [[18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009|Topics in Theoretical Computer Science: An Algorithmist's Toolkit]] — 18.409, Fall 2009
 - [[18-366-random-walks-and-diffusion-fall-2006|Random Walks and Diffusion]] — 18.366, Fall 2006
 - [[18-034-honors-differential-equations-spring-2004|Honors Differential Equations]] — 18.034, Spring 2004
 - [[11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009|Quantitative Reasoning & Statistical Methods for Planners I]] — 11.220, Spring 2009

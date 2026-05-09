@@ -25,6 +25,37 @@ courses_count: 0
 
 ## Courses
 
+- [[3-35-fracture-and-fatigue-fall-2003|Fracture and Fatigue]] — 3.35, Fall 2003
+- [[hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007|Projects in Microscale Engineering for the Life Sciences]] — HST.410J, Spring 2007
+- [[hst-021-musculoskeletal-pathophysiology-january-iap-2006|Musculoskeletal Pathophysiology]] — HST.021, January IAP 2006
+- [[18-433-combinatorial-optimization-fall-2003|Combinatorial Optimization]] — 18.433, Fall 2003
+- [[5-95j-teaching-college-level-science-and-engineering-fall-2015|Teaching College-Level Science and Engineering]] — 5.95J, Fall 2015
+- [[2-141-modeling-and-simulation-of-dynamic-systems-fall-2006|Modeling and Simulation of Dynamic Systems]] — 2.141, Fall 2006
+- [[16-982-bio-inspired-structures-spring-2009|Bio-Inspired Structures]] — 16.982, Spring 2009
+- [[6-844-computability-theory-of-and-with-scheme-spring-2003|Computability Theory of and with Scheme]] — 6.844, Spring 2003
+- [[10-52-mechanics-of-fluids-spring-2006|Mechanics of Fluids]] — 10.52, Spring 2006
+- [[6-s096-introduction-to-c-and-c-january-iap-2013|Introduction to C and C++]] — 6.S096, January IAP 2013
+- [[6-270-autonomous-robot-design-competition-january-iap-2005|Autonomous Robot Design Competition]] — 6.270, January IAP 2005
+- [[sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017|Innovation Systems for Science, Technology, Energy, Manufacturing, and Health]] — STS.081, Spring 2017
+- [[9-913-pattern-recognition-for-machine-vision-fall-2004|Pattern Recognition for Machine Vision]] — 9.913, Fall 2004
+- [[1-225j-transportation-flow-systems-fall-2002|Transportation Flow Systems]] — 1.225J, Fall 2002
+- [[esd-33-systems-engineering-summer-2010|Systems Engineering]] — ESD.33, Summer 2010
+- [[1-061-transport-processes-in-the-environment-fall-2008|Transport Processes in the Environment]] — 1.061, Fall 2008
+- [[4-296-furniture-making-spring-2005|Furniture Making]] — 4.296, Spring 2005
+- [[esd-342-network-representations-of-complex-engineering-systems-spring-2010|Network Representations of Complex Engineering Systems]] — ESD.342, Spring 2010
+- [[9-357-special-topics-in-vision-science-fall-2001|Special Topics in Vision Science]] — 9.357, Fall 2001
+- [[2-20-marine-hydrodynamics-13-021-spring-2005|Marine Hydrodynamics (13.021)]] — 2.20, Spring 2005
+- [[1-011-project-evaluation-spring-2011|Project Evaluation]] — 1.011, Spring 2011
+- [[3-034-organic-biomaterials-chemistry-fall-2005|Organic & Biomaterials Chemistry]] — 3.034, Fall 2005
+- [[16-512-rocket-propulsion-fall-2005|Rocket Propulsion]] — 16.512, Fall 2005
+- [[esd-051j-engineering-innovation-and-design-fall-2012|Engineering Innovation and Design]] — ESD.051J, Fall 2012
+- [[20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015|Molecular, Cellular, and Tissue Biomechanics]] — 20.310J, Spring 2015
+- [[sts-467-research-seminar-in-deep-sea-archaeology-spring-2002|Research Seminar in Deep Sea Archaeology]] — STS.467, Spring 2002
+- [[pe-920-pe-for-me-spring-2005|PE for ME]] — PE.920, Spring 2005
+- [[18-s191-introduction-to-computational-thinking-fall-2020|Introduction to Computational Thinking]] — 18.S191, Fall 2020
+- [[9-52-c-computational-cognitive-science-spring-2003|Computational Cognitive Science]] — 9.52-C, Spring 2003
+- [[18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009|Topics in Theoretical Computer Science: An Algorithmist's Toolkit]] — 18.409, Fall 2009
+- [[12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004|Wave Motions in the Ocean and Atmosphere]] — 12.802, Spring 2004
 - [[18-366-random-walks-and-diffusion-fall-2006|Random Walks and Diffusion]] — 18.366, Fall 2006
 - [[16-63j-system-safety-spring-2016|System Safety]] — 16.63J, Spring 2016
 - [[6-5060-algorithm-engineering-spring-2023|Algorithm Engineering]] — 6.5060, Spring 2023

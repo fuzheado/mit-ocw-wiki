@@ -10,6 +10,7 @@ courses_count: 0
 
 ## Courses
 
+- [[es-s41-speak-italian-with-your-mouth-full-spring-2012|Speak Italian With Your Mouth Full]] (ES.S41)
 - [[es-287-kitchen-chemistry-spring-2009|Kitchen Chemistry]] (ES.287)
 - [[8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002|Physics I: Classical Mechanics with an Experimental Focus]] (8.01X)
 - [[es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006|Composing Your Life: Exploration of Self through Visual Arts and Writing]] (ES.240)

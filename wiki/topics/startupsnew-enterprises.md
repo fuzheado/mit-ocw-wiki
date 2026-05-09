@@ -12,6 +12,8 @@ Part of: [[innovation-and-entrepreneurship|Innovation & Entrepreneurship]]
 
 ## Courses
 
+- [[6-901-inventions-and-patents-fall-2005|Inventions and Patents]] — 6.901, Fall 2005
+- [[15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018|New Executive Thinking Social-Impact Technology Projects]] — 15.960, Fall 2017
 - [[15-351-managing-innovation-and-entrepreneurship-spring-2008|Managing Innovation and Entrepreneurship]] — 15.351, Spring 2008
 - [[15-835-entrepreneurial-marketing-spring-2002|Entrepreneurial Marketing]] — 15.835, Spring 2002
 - [[15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004|Innovative Businesses and Breakthrough Technologies - The Legal Issues]] — 15.616, Fall 2004

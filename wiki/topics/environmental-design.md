@@ -12,6 +12,7 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-170-ecuador-workshop-fall-2006|Ecuador Workshop]] — 4.170, Fall 2006
 - [[11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001|Power of Place: Media Technology, Youth, and City Design and Development]] — 11.948, Spring 2001
 - [[11-945-springfield-studio-spring-2004|Springfield Studio]] — 11.945, Spring 2004
 - [[4-125-architecture-studio-building-in-landscapes-fall-2002|Architecture Studio: Building in Landscapes]] — 4.125, Fall 2002

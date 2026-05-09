@@ -12,6 +12,8 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007|Projects in Microscale Engineering for the Life Sciences]] (HST.410J)
+- [[hst-021-musculoskeletal-pathophysiology-january-iap-2006|Musculoskeletal Pathophysiology]] (HST.021)
 - [[hst-508-quantitative-genomics-fall-2005|Quantitative Genomics]] (HST.508)
 - [[15-136j-principles-and-practice-of-drug-development-fall-2013|Principles and Practice of Drug Development]] (15.136J)
 - [[hst-535-principles-and-practice-of-tissue-engineering-fall-2004|Principles and Practice of Tissue Engineering]] (HST.535)

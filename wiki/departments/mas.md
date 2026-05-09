@@ -12,6 +12,7 @@ School: [[school-architecture-planning|School of Architecture and Planning]]
 
 ## Courses
 
+- [[mas-961-seminar-on-deep-engagement-fall-2004|Seminar on Deep Engagement]] (MAS.961)
 - [[mas-962-the-nature-of-constructionist-learning-spring-2003|The Nature of Constructionist Learning]] (MAS.962)
 - [[mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002|Techno-identity: Who we are and how we perceive ourselves and others]] (MAS.963)
 - [[4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013|Design Across Scales, Disciplines and Problem Contexts]] (4.110J)

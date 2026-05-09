@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-437-financing-economic-development-fall-2016|Financing Economic Development]]
 - [[11-947-sustainable-economic-development-spring-2004|Sustainable Economic Development]]
 - [[11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007|Special Studies in Urban Studies and Planning: Economic Development Planning Skills]]
 - [[11-945-springfield-studio-fall-2005|Springfield Studio]]

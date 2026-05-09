@@ -12,6 +12,14 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008|Traditions in American Concert Dance: Gender and Autobiography]] — 21M.670, Spring 2008
+- [[4-651-art-since-1940-fall-2010|Art Since 1940]] — 4.651, Fall 2010
+- [[21g-011-topics-in-indian-popular-culture-spectacle-masala-and-genre-fall-2006|Topics in Indian Popular Culture: Spectacle, Masala, and Genre]] — 21G.011, Fall 2006
+- [[21a-506-the-anthropology-of-politics-persuasion-and-power-spring-2019|The Anthropology of Politics: Persuasion and Power]] — 21A.506, Spring 2019
+- [[21a-859j-social-theory-and-analysis-spring-2021|Social Theory and Analysis]] — 21A.859J, Spring 2021
+- [[21a-157-the-meaning-of-life-spring-2019|The Meaning of Life]] — 21A.157, Spring 2019
+- [[sts-467-research-seminar-in-deep-sea-archaeology-spring-2002|Research Seminar in Deep Sea Archaeology]] — STS.467, Spring 2002
+- [[21m-s53-chinese-popular-musics-in-dialogue-spring-2014|Chinese Popular Musics in Dialogue]] — 21M.S53, Spring 2014
 - [[cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015|Workshop II: Qualitative Social Science Methods for Media Studies]] — CMS.951, Spring 2015
 - [[21l-481-victorian-literature-and-culture-spring-2003|Victorian Literature and Culture]] — 21L.481, Spring 2003
 - [[21a-155-food-culture-politics-fall-2019|Food, Culture & Politics]] — 21A.155, Fall 2019

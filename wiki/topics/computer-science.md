@@ -12,6 +12,14 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[18-433-combinatorial-optimization-fall-2003|Combinatorial Optimization]] — 18.433, Fall 2003
+- [[6-844-computability-theory-of-and-with-scheme-spring-2003|Computability Theory of and with Scheme]] — 6.844, Spring 2003
+- [[6-s096-introduction-to-c-and-c-january-iap-2013|Introduction to C and C++]] — 6.S096, January IAP 2013
+- [[6-270-autonomous-robot-design-competition-january-iap-2005|Autonomous Robot Design Competition]] — 6.270, January IAP 2005
+- [[9-913-pattern-recognition-for-machine-vision-fall-2004|Pattern Recognition for Machine Vision]] — 9.913, Fall 2004
+- [[9-357-special-topics-in-vision-science-fall-2001|Special Topics in Vision Science]] — 9.357, Fall 2001
+- [[18-s191-introduction-to-computational-thinking-fall-2020|Introduction to Computational Thinking]] — 18.S191, Fall 2020
+- [[18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009|Topics in Theoretical Computer Science: An Algorithmist's Toolkit]] — 18.409, Fall 2009
 - [[6-5060-algorithm-engineering-spring-2023|Algorithm Engineering]] — 6.5060, Spring 2023
 - [[6-012-microelectronic-devices-and-circuits-fall-2009|Microelectronic Devices and Circuits]] — 6.012, Fall 2009
 - [[6-837-computer-graphics-fall-2012|Computer Graphics]] — 6.837, Fall 2012

@@ -12,6 +12,19 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21w-747-classical-rhetoric-and-modern-political-discourse-fall-2009|Classical Rhetoric and Modern Political Discourse]] — 21W.747, Fall 2009
+- [[21l-448j-darwin-and-design-fall-2003|Darwin and Design]] — 21L.448J, Fall 2003
+- [[21w-777-the-science-essay-spring-2009|The Science Essay]] — 21W.777, Spring 2009
+- [[21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008|Special Topics in Literature: Milton's "Paradise Lost"]] — 21L.995, January IAP 2008
+- [[21l-715-media-in-cultural-context-popular-readerships-fall-2007|Media in Cultural Context: Popular Readerships]] — 21L.715, Fall 2007
+- [[21g-011-topics-in-indian-popular-culture-spectacle-masala-and-genre-fall-2006|Topics in Indian Popular Culture: Spectacle, Masala, and Genre]] — 21G.011, Fall 2006
+- [[24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004|Feeling and Imagination in Art, Science, and Technology]] — 24.262, Spring 2004
+- [[21l-706-studies-in-film-fall-2005|Studies in Film]] — 21L.706, Fall 2005
+- [[21l-004-reading-poetry-spring-2018|Reading Poetry]] — 21L.004, Spring 2018
+- [[21g-730-hispanic-america-one-hundred-years-of-literature-and-film-spring-2014|Hispanic America: One Hundred Years of Literature and Film]] — 21G.730, Spring 2014
+- [[21w-780-communicating-in-technical-organizations-fall-2001|Communicating in Technical Organizations]] — 21W.780, Fall 2001
+- [[21l-504j-race-and-identity-in-american-literature-keepin-it-real-fake-spring-2007|Race and Identity in American Literature: Keepin' it Real Fake]] — 21L.504J, Spring 2007
+- [[21l-435-shakespeare-film-and-media-fall-2002|Shakespeare, Film and Media]] — 21L.435, Fall 2002
 - [[21w-015-writing-and-rhetoric-writing-about-sports-fall-2013|Writing and Rhetoric: Writing about Sports]] — 21W.015, Fall 2013
 - [[21g-347-contemporary-short-french-fiction-social-and-literary-trends-since-1990-fall-2013|Contemporary Short French Fiction: Social and Literary Trends since 1990]] — 21G.347, Fall 2013
 - [[21l-471-major-english-novels-spring-2009|Major English Novels]] — 21L.471, Spring 2009

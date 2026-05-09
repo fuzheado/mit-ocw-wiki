@@ -2,6 +2,7 @@
 
 ## Courses
 
+- [[9-357-special-topics-in-vision-science-fall-2001|Special Topics in Vision Science]] — 9.357, Fall 2001
 - [[6-837-computer-graphics-fall-2012|Computer Graphics]] — 6.837, Fall 2012
 - [[11-205-introduction-to-spatial-analysis-fall-2019|Introduction to Spatial Analysis]] — 11.205, Fall 2019
 - [[12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002|Hands-On Astronomy: Observing Stars and Planets]] — 12.409, Spring 2002

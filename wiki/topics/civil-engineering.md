@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-225j-transportation-flow-systems-fall-2002|Transportation Flow Systems]] — 1.225J, Fall 2002
+- [[1-011-project-evaluation-spring-2011|Project Evaluation]] — 1.011, Spring 2011
 - [[4-001j-cityscope-new-orleans-spring-2007|CityScope: New Orleans]] — 4.001J, Spring 2007
 - [[2-082-ship-structural-analysis-design-13-122-spring-2003|Ship Structural Analysis & Design (13.122)]] — 2.082, Spring 2003
 - [[4-440-basic-structural-design-spring-2009|Basic Structural Design]] — 4.440, Spring 2009

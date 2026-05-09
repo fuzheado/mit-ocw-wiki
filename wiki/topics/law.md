@@ -12,6 +12,7 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[6-901-inventions-and-patents-fall-2005|Inventions and Patents]] — 6.901, Fall 2005
 - [[6-912-introduction-to-copyright-law-january-iap-2006|Introduction to Copyright Law]] — 6.912, January IAP 2006
 - [[6-931-development-of-inventions-and-creative-ideas-spring-2008|Development of Inventions and Creative Ideas]] — 6.931, Spring 2008
 - [[15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004|Innovative Businesses and Breakthrough Technologies - The Legal Issues]] — 15.616, Fall 2004

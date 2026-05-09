@@ -12,6 +12,9 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21w-747-classical-rhetoric-and-modern-political-discourse-fall-2009|Classical Rhetoric and Modern Political Discourse]] (21W.747)
+- [[21w-777-the-science-essay-spring-2009|The Science Essay]] (21W.777)
+- [[21w-780-communicating-in-technical-organizations-fall-2001|Communicating in Technical Organizations]] (21W.780)
 - [[21w-015-writing-and-rhetoric-writing-about-sports-fall-2013|Writing and Rhetoric: Writing about Sports]] (21W.015)
 - [[cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015|Workshop II: Qualitative Social Science Methods for Media Studies]] (CMS.951)
 - [[cms-362-civic-media-codesign-studio-fall-2020|Civic Media Codesign Studio]] (CMS.362)

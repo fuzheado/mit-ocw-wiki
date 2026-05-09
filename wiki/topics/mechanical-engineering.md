@@ -12,6 +12,16 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[3-35-fracture-and-fatigue-fall-2003|Fracture and Fatigue]] — 3.35, Fall 2003
+- [[hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007|Projects in Microscale Engineering for the Life Sciences]] — HST.410J, Spring 2007
+- [[2-141-modeling-and-simulation-of-dynamic-systems-fall-2006|Modeling and Simulation of Dynamic Systems]] — 2.141, Fall 2006
+- [[16-982-bio-inspired-structures-spring-2009|Bio-Inspired Structures]] — 16.982, Spring 2009
+- [[10-52-mechanics-of-fluids-spring-2006|Mechanics of Fluids]] — 10.52, Spring 2006
+- [[4-296-furniture-making-spring-2005|Furniture Making]] — 4.296, Spring 2005
+- [[2-20-marine-hydrodynamics-13-021-spring-2005|Marine Hydrodynamics (13.021)]] — 2.20, Spring 2005
+- [[3-034-organic-biomaterials-chemistry-fall-2005|Organic & Biomaterials Chemistry]] — 3.034, Fall 2005
+- [[pe-920-pe-for-me-spring-2005|PE for ME]] — PE.920, Spring 2005
+- [[12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004|Wave Motions in the Ocean and Atmosphere]] — 12.802, Spring 2004
 - [[18-366-random-walks-and-diffusion-fall-2006|Random Walks and Diffusion]] — 18.366, Fall 2006
 - [[2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009|Exploring Sea, Space, & Earth: Fundamentals of Engineering Design]] — 2.00AJ, Spring 2009
 - [[20-430j-fields-forces-and-flows-in-biological-systems-fall-2015|Fields, Forces, and Flows in Biological Systems]] — 20.430J, Fall 2015
