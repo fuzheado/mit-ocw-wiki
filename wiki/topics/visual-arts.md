@@ -12,4 +12,6 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
-*None yet.*
+- [[21l-451-introduction-to-literary-theory-fall-2014|Introduction to Literary Theory]] (21L.451) — Fall 2014
+- [[21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014|Transmedia Storytelling: Modern Science Fiction]] (21W.763J) — Spring 2014
+- [[6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012|Geometric Folding Algorithms: Linkages, Origami, Polyhedra]] (6.849) — Fall 2012

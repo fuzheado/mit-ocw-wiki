@@ -22,4 +22,10 @@ courses_count: 0
 
 ## Courses
 
-- [[11-350-sustainable-real-estate-spring-2023|Sustainable Real Estate]] — 11.350, Spring 2023
+- [[1-963-a-sustainable-transportation-plan-for-mit-spring-2007|A Sustainable Transportation Plan for MIT]] (1.963) — Spring 2007
+- [[11-165-infrastructure-and-energy-technology-challenges-fall-2011|Infrastructure and Energy Technology Challenges]] (11.165) — Fall 2011
+- [[2-611-marine-power-and-propulsion-fall-2006|Marine Power and Propulsion]] (2.611) — Fall 2006
+- [[21a-342-environmental-struggles-fall-2004|Environmental Struggles]] (21A.342) — Fall 2004
+- [[22-091-nuclear-reactor-safety-spring-2008|Nuclear Reactor Safety]] (22.091) — Spring 2008
+- [[ec-715-d-lab-water-sanitation-and-hygiene-fall-2019|D-Lab: Water, Sanitation, and Hygiene]] (EC.715) — Fall 2019
+- [[ec-716-d-lab-waste-fall-2015|D-Lab: Waste]] (EC.716) — Fall 2015

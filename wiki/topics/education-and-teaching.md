@@ -18,4 +18,4 @@ courses_count: 0
 
 ## Courses
 
-*None yet.*
+- [[res-cms-155-design-thinking-for-leading-and-learning-spring-2019|Design Thinking for Leading and Learning]] (RES.CMS-155) — Spring 2019

@@ -12,4 +12,4 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
-*None yet.*
+- [[3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008|Modern Blacksmithing and Physical Metallurgy]] (3.A04) — Fall 2008

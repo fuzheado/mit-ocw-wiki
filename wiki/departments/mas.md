@@ -12,4 +12,6 @@ School: [[school-architecture-planning|School of Architecture and Planning]]
 
 ## Courses
 
-*None yet.*
+- [[mas-961-special-topics-designing-sociable-media-spring-2008|Special Topics: Designing Sociable Media]] (MAS.961) — Spring 2008
+- [[mas-961-special-topics-designing-sociable-media-spring-2008|Special Topics: Designing Sociable Media]] (MAS.961) — Spring 2008
+- [[mas-961-special-topics-designing-sociable-media-spring-2008|Special Topics: Designing Sociable Media]] (MAS.961) — Spring 2008

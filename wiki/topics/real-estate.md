@@ -12,4 +12,4 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
-- [[11-350-sustainable-real-estate-spring-2023|Sustainable Real Estate]] — 11.350, Spring 2023
+- [[11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004|New Century Cities: Real Estate, Digital Technology, and Design]] (11.947) — Fall 2004

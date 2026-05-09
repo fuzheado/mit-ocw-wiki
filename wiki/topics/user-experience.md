@@ -12,4 +12,4 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
-*None yet.*
+- [[24-131-ethics-of-technology-spring-2023|Ethics of Technology ]] (24.131) — Spring 2023

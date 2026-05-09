@@ -10,4 +10,6 @@ courses_count: 0
 
 ## Courses
 
-*None yet.*
+- [[es-253-aids-and-poverty-in-africa-spring-2005|AIDS and Poverty in Africa]] (ES.253) — Spring 2005
+- [[es-253-aids-and-poverty-in-africa-spring-2005|AIDS and Poverty in Africa]] (ES.253) — Spring 2005
+- [[es-253-aids-and-poverty-in-africa-spring-2005|AIDS and Poverty in Africa]] (ES.253) — Spring 2005

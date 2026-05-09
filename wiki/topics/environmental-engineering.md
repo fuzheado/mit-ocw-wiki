@@ -12,4 +12,5 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
-- [[res-env-007-geothermal-energy-networks-transforming-our-thermal-energy-system-january-iap-2025|Geothermal Energy Networks]] — RES.ENV-007, January IAP 2025
+- [[1-76-aquatic-chemistry-fall-2005|Aquatic Chemistry]] (1.76) — Fall 2005
+- [[ec-715-d-lab-water-sanitation-and-hygiene-fall-2019|D-Lab: Water, Sanitation, and Hygiene]] (EC.715) — Fall 2019

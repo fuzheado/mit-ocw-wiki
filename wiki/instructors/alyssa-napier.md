@@ -1,0 +1,11 @@
+---
+name: "Alyssa Napier"
+type: instructor
+courses_count: 1
+---
+
+# Alyssa Napier
+
+## Courses Taught at MIT
+
+- [[res-cms-155-design-thinking-for-leading-and-learning-spring-2019|Design Thinking for Leading and Learning]]

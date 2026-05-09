@@ -12,4 +12,4 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
-- [[15-071-the-analytics-edge-spring-2017|The Analytics Edge]] — 15.071, Spring 2017
+- [[16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012|Introduction to Lean Six Sigma Methods]] (16.660J) — January IAP 2012

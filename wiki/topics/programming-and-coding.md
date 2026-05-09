@@ -12,4 +12,4 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
-*None yet.*
+- [[res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015|Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler]] (RES.18-009) — Fall 2015

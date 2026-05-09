@@ -12,4 +12,4 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
-*None yet.*
+- [[2-611-marine-power-and-propulsion-fall-2006|Marine Power and Propulsion]] (2.611) — Fall 2006

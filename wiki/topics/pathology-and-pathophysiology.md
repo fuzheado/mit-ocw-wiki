@@ -12,4 +12,4 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
-*None yet.*
+- [[9-913-a-intensive-neuroanatomy-january-iap-2002|Intensive Neuroanatomy]] (9.913-A) — January IAP 2002

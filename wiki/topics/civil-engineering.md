@@ -12,4 +12,5 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
-- [[11-350-sustainable-real-estate-spring-2023|Sustainable Real Estate]] — 11.350, Spring 2023
+- [[1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007|From Nano to Macro: Introduction to Atomistic Modeling Techniques]] (1.978) — January IAP 2007
+- [[12-s56-gps-where-are-you-fall-2008|GPS: Where Are You?]] (12.S56) — Fall 2008

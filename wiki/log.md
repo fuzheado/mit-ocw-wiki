@@ -9,3 +9,5 @@
 ## [2026-05-09 16:15] ingest | The Analytics Edge (15.071) — Sloan, Spring 2017
 
 Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead. FIXME tagged.
+
+## [2026-05-09 16:30] ocw-ingest | Batch offset=0 (100 courses)

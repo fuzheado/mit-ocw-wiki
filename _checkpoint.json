@@ -5,9 +5,9 @@
     "departments_topics": true,
     "courses_bootstrap": {
       "complete": false,
-      "batches_done": 0,
+      "batches_done": 1,
       "total_batches": 26,
-      "last_offset": 0,
+      "last_offset": 100,
       "last_commit": ""
     },
     "asset_scan": {
@@ -23,10 +23,10 @@
   },
   "stats": {
     "total_courses_api": 2577,
-    "courses_in_wiki": 4,
+    "courses_in_wiki": 104,
     "departments": 37,
     "topics": 110,
-    "instructors": 0,
+    "instructors": 168,
     "crossrefs": 0
   }
 }

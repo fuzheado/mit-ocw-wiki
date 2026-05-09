@@ -12,4 +12,14 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
-*None yet.*
+- [[1-264j-database-internet-and-systems-integration-technologies-fall-2013|Database, Internet, and Systems Integration Technologies]] (1.264J) — Fall 2013
+- [[15-097-prediction-machine-learning-and-statistics-spring-2012|Prediction: Machine Learning and Statistics]] (15.097) — Spring 2012
+- [[15-s12-blockchain-and-money-fall-2018|Blockchain and Money]] (15.S12) — Fall 2018
+- [[18-465-topics-in-statistics-statistical-learning-theory-spring-2007|Topics in Statistics: Statistical Learning Theory]] (18.465) — Spring 2007
+- [[24-131-ethics-of-technology-spring-2023|Ethics of Technology ]] (24.131) — Spring 2023
+- [[6-776-high-speed-communication-circuits-spring-2005|High Speed Communication Circuits]] (6.776) — Spring 2005
+- [[6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012|Geometric Folding Algorithms: Linkages, Origami, Polyhedra]] (6.849) — Fall 2012
+- [[6-864-advanced-natural-language-processing-fall-2005|Advanced Natural Language Processing]] (6.864) — Fall 2005
+- [[mas-961-special-topics-designing-sociable-media-spring-2008|Special Topics: Designing Sociable Media]] (MAS.961) — Spring 2008
+- [[res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015|Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler]] (RES.18-009) — Fall 2015
+- [[res-9-003-brains-minds-and-machines-summer-course-summer-2015|Brains, Minds and Machines Summer Course]] (RES.9-003) — Summer 2015
