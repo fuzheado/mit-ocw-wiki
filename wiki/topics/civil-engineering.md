@@ -12,4 +12,4 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
-*None yet.*
+- [[11-350-sustainable-real-estate-spring-2023|Sustainable Real Estate]] — 11.350, Spring 2023
