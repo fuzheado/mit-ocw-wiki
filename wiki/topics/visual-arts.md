@@ -12,6 +12,10 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[mas-531-computational-camera-and-photography-fall-2009|Computational Camera and Photography]] — MAS.531, Fall 2009
+- [[21g-027-asia-in-the-modern-world-images-representations-fall-2016|Asia in the Modern World: Images & Representations]] — 21G.027, Fall 2016
+- [[11-309j-sensing-place-photography-as-inquiry-fall-2012|Sensing Place: Photography as Inquiry]] — 11.309J, Fall 2012
+- [[4-301-introduction-to-the-visual-arts-spring-2007|Introduction to the Visual Arts]] — 4.301, Spring 2007
 - [[21m-289-islam-media-spring-2015|Islam/Media]] — 21M.289, Spring 2015
 - [[21l-325-small-wonders-media-modernity-and-the-moment-experiments-in-time-fall-2010|Small Wonders: Media, Modernity, and the Moment: Experiments in Time]] — 21L.325, Fall 2010
 - [[4-341-introduction-to-photography-fall-2002|Introduction to Photography]] — 4.341, Fall 2002

@@ -25,6 +25,40 @@ courses_count: 0
 
 ## Courses
 
+- [[1-203j-logistical-and-transportation-planning-methods-fall-2006|Logistical and Transportation Planning Methods]] — 1.203J, Fall 2006
+- [[sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007|Engineering Apollo: The Moon Project as a Complex System]] — STS.471J, Spring 2007
+- [[6-895-essential-coding-theory-fall-2004|Essential Coding Theory]] — 6.895, Fall 2004
+- [[6-0002-introduction-to-computational-thinking-and-data-science-fall-2016|Introduction to Computational Thinking and Data Science]] — 6.0002, Fall 2016
+- [[6-096-algorithms-for-computational-biology-spring-2005|Algorithms for Computational Biology]] — 6.096, Spring 2005
+- [[esd-123j-systems-perspectives-on-industrial-ecology-spring-2006|Systems Perspectives on Industrial Ecology]] — ESD.123J, Spring 2006
+- [[mas-531-computational-camera-and-photography-fall-2009|Computational Camera and Photography]] — MAS.531, Fall 2009
+- [[16-83x-space-systems-engineering-spring-2002-spring-2003|Space Systems Engineering]] — 16.83X, Spring 2002
+- [[16-621-experimental-projects-i-spring-2003|Experimental Projects I]] — 16.621, Spring 2003
+- [[11-333-urban-design-seminar-spring-2016|Urban Design Seminar]] — 11.333, Spring 2016
+- [[12-090-the-environment-of-the-earths-surface-spring-2007|The Environment of the Earth's Surface]] — 12.090, Spring 2007
+- [[6-883-pervasive-human-centric-computing-sma-5508-spring-2006|Pervasive Human Centric Computing (SMA 5508)]] — 6.883, Spring 2006
+- [[res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017|Collaborative Design and Creative Expression with Arduino Microcontrollers]] — RES.3-002, January IAP 2017
+- [[5-512-synthetic-organic-chemistry-ii-spring-2005|Synthetic Organic Chemistry II]] — 5.512, Spring 2005
+- [[6-451-principles-of-digital-communication-ii-spring-2005|Principles of Digital Communication II]] — 6.451, Spring 2005
+- [[3-091sc-introduction-to-solid-state-chemistry-fall-2010|Introduction to Solid State Chemistry]] — 3.091SC, Fall 2010
+- [[16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006|Unified Engineering I, II, III, & IV]] — 16.01, Fall 2005
+- [[res-3-006-micro-mentoring-resources-and-materials-science-curriculum-spring-2021|MICRO Mentoring Resources and Materials Science Curriculum]] — RES.3-006, Spring 2021
+- [[6-438-algorithms-for-inference-fall-2014|Algorithms for Inference]] — 6.438, Fall 2014
+- [[2-22-design-principles-for-ocean-vehicles-13-42-spring-2005|Design Principles for Ocean Vehicles (13.42)]] — 2.22, Spring 2005
+- [[3-21-kinetic-processes-in-materials-spring-2006|Kinetic Processes in Materials]] — 3.21, Spring 2006
+- [[14-15-networks-spring-2022|Networks]] — 14.15, Spring 2022
+- [[10-491-integrated-chemical-engineering-ii-spring-2006|Integrated Chemical Engineering II]] — 10.491, Spring 2006
+- [[ec-711-d-lab-energy-spring-2011|D-Lab: Energy]] — EC.711, Spring 2011
+- [[6-896-theory-of-parallel-hardware-sma-5511-spring-2004|Theory of Parallel Hardware (SMA 5511)]] — 6.896, Spring 2004
+- [[12-620j-classical-mechanics-a-computational-approach-fall-2008|Classical Mechanics: A Computational Approach]] — 12.620J, Fall 2008
+- [[21m-385-interactive-music-systems-fall-2016|Interactive Music Systems]] — 21M.385, Fall 2016
+- [[10-445-separation-processes-for-biochemical-products-summer-2005|Separation Processes for Biochemical Products]] — 10.445, Summer 2005
+- [[6-s096-effective-programming-in-c-and-c-january-iap-2014|Effective Programming in C and C++]] — 6.S096, January IAP 2014
+- [[11-522-research-seminar-on-urban-information-systems-fall-2005|Research Seminar on Urban Information Systems]] — 11.522, Fall 2005
+- [[1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009|The Impact of Globalization on the Built Environment]] — 1.463J, Fall 2009
+- [[6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013|Probabilistic Systems Analysis and Applied Probability]] — 6.041SC, Fall 2013
+- [[6-933j-the-structure-of-engineering-revolutions-fall-2001|The Structure of Engineering Revolutions]] — 6.933J, Fall 2001
+- [[16-13-aerodynamics-of-viscous-fluids-fall-2003|Aerodynamics of Viscous Fluids]] — 16.13, Fall 2003
 - [[2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005|Introduction to Numerical Analysis for Engineering (13.002J)]] — 2.993J, Spring 2005
 - [[1-105-solid-mechanics-laboratory-fall-2003|Solid Mechanics Laboratory]] — 1.105, Fall 2003
 - [[2-60j-fundamentals-of-advanced-energy-conversion-spring-2020|Fundamentals of Advanced Energy Conversion]] — 2.60J, Spring 2020

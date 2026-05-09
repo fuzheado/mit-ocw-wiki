@@ -1,0 +1,11 @@
+---
+name: "Prof. Heidi Perry"
+type: instructor
+courses_count: 1
+---
+
+# Prof. Heidi Perry
+
+## Courses Taught at MIT
+
+- [[16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006|Unified Engineering I, II, III, & IV]]

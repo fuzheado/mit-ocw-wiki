@@ -12,6 +12,7 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-22-design-principles-for-ocean-vehicles-13-42-spring-2005|Design Principles for Ocean Vehicles (13.42)]] — 2.22, Spring 2005
 - [[2-23-hydrofoils-and-propellers-spring-2007|Hydrofoils and Propellers]] — 2.23, Spring 2007
 - [[2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002|Ocean Wave Interaction with Ships and Offshore Energy Systems (13.022)]] — 2.24, Spring 2002
 - [[12-812-general-circulation-of-the-earths-atmosphere-fall-2005|General Circulation of the Earth's Atmosphere]] — 12.812, Fall 2005

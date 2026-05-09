@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[3-091sc-introduction-to-solid-state-chemistry-fall-2010|Introduction to Solid State Chemistry]] — 3.091SC, Fall 2010
+- [[10-491-integrated-chemical-engineering-ii-spring-2006|Integrated Chemical Engineering II]] — 10.491, Spring 2006
+- [[10-445-separation-processes-for-biochemical-products-summer-2005|Separation Processes for Biochemical Products]] — 10.445, Summer 2005
 - [[2-60j-fundamentals-of-advanced-energy-conversion-spring-2020|Fundamentals of Advanced Energy Conversion]] — 2.60J, Spring 2020
 - [[3-063-polymer-physics-spring-2007|Polymer Physics]] — 3.063, Spring 2007
 - [[10-569-synthesis-of-polymers-fall-2006|Synthesis of Polymers]] — 10.569, Fall 2006

@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[5-74-introductory-quantum-mechanics-ii-spring-2004|Introductory Quantum Mechanics II]]
 - [[5-62-physical-chemistry-ii-spring-2008|Physical Chemistry II]]
 - [[5-80-small-molecule-spectroscopy-and-dynamics-fall-2008|Small-Molecule Spectroscopy and Dynamics]]
 - [[20-110j-thermodynamics-of-biomolecular-systems-fall-2005|Thermodynamics of Biomolecular Systems]]

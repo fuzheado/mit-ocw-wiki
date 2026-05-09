@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[16-621-experimental-projects-i-spring-2003|Experimental Projects I]] — 16.621, Spring 2003
+- [[11-522-research-seminar-on-urban-information-systems-fall-2005|Research Seminar on Urban Information Systems]] — 11.522, Fall 2005
 - [[15-768-management-of-services-concepts-design-and-delivery-fall-2010|Management of Services: Concepts, Design, and Delivery]] — 15.768, Fall 2010
 - [[15-561-information-technology-essentials-spring-2005|Information Technology Essentials]] — 15.561, Spring 2005
 - [[10-34-numerical-methods-applied-to-chemical-engineering-fall-2015|Numerical Methods Applied to Chemical Engineering]] — 10.34, Fall 2015

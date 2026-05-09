@@ -12,6 +12,7 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21w-035-science-writing-and-new-media-science-writing-for-the-public-spring-2018|Science Writing and New Media: Science Writing for the Public]] (21W.035)
 - [[21w-747-rhetoric-spring-2015|Rhetoric]] (21W.747)
 - [[cms-796-major-media-texts-fall-2006|Major Media Texts]] (CMS.796)
 - [[21w-775-writing-about-nature-and-environmental-issues-fall-2006|Writing about Nature and Environmental Issues]] (21W.775)

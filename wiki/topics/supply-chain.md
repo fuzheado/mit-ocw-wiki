@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-795-seminar-in-operations-management-fall-2002|Seminar in Operations Management]] — 15.795, Fall 2002
+- [[15-769-operations-strategy-fall-2010|Operations Strategy]] — 15.769, Fall 2010
+- [[esd-s43-green-supply-chain-management-spring-2014|Green Supply Chain Management]] — ESD.S43, Spring 2014
 - [[15-057-systems-optimization-spring-2003|Systems Optimization]] — 15.057, Spring 2003
 - [[15-772j-d-lab-supply-chains-fall-2014|D-Lab: Supply Chains]] — 15.772J, Fall 2014
 - [[15-768-management-of-services-concepts-design-and-delivery-fall-2010|Management of Services: Concepts, Design, and Delivery]] — 15.768, Fall 2010

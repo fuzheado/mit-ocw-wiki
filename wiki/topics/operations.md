@@ -12,6 +12,13 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[res-16-001-lean-enterprise-en-espanol-january-iap-2012|Lean Enterprise en Español]] — RES.16-001, January IAP 2012
+- [[15-792j-proseminar-in-manufacturing-fall-2005|Proseminar in Manufacturing]] — 15.792J, Fall 2005
+- [[15-818-pricing-spring-2010|Pricing]] — 15.818, Spring 2010
+- [[15-965-technology-strategy-for-system-design-and-management-spring-2009|Technology Strategy for System Design and Management]] — 15.965, Spring 2009
+- [[15-795-seminar-in-operations-management-fall-2002|Seminar in Operations Management]] — 15.795, Fall 2002
+- [[15-769-operations-strategy-fall-2010|Operations Strategy]] — 15.769, Fall 2010
+- [[15-571-generating-business-value-from-information-technology-spring-2009|Generating Business Value from Information Technology]] — 15.571, Spring 2009
 - [[esd-60-lean-six-sigma-processes-summer-2004|Lean/Six Sigma Processes]] — ESD.60, Summer 2004
 - [[res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020|System Dynamics: Systems Thinking and Modeling for a Complex World]] — RES.15-004, January IAP 2020
 - [[15-057-systems-optimization-spring-2003|Systems Optimization]] — 15.057, Spring 2003

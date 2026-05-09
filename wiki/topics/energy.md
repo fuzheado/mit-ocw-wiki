@@ -12,6 +12,8 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[11-333-urban-design-seminar-spring-2016|Urban Design Seminar]] — 11.333, Spring 2016
+- [[ec-711-d-lab-energy-spring-2011|D-Lab: Energy]] — EC.711, Spring 2011
 - [[2-60j-fundamentals-of-advanced-energy-conversion-spring-2020|Fundamentals of Advanced Energy Conversion]] — 2.60J, Spring 2020
 - [[6-s079-nanomaker-spring-2013|Nanomaker]] — 6.S079, Spring 2013
 - [[15-023j-global-climate-change-economics-science-and-policy-spring-2008|Global Climate Change: Economics, Science, and Policy]] — 15.023J, Spring 2008

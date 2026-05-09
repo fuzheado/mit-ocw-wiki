@@ -12,6 +12,8 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[1-203j-logistical-and-transportation-planning-methods-fall-2006|Logistical and Transportation Planning Methods]] — 1.203J, Fall 2006
+- [[16-621-experimental-projects-i-spring-2003|Experimental Projects I]] — 16.621, Spring 2003
 - [[esd-60-lean-six-sigma-processes-summer-2004|Lean/Six Sigma Processes]] — ESD.60, Summer 2004
 - [[15-057-systems-optimization-spring-2003|Systems Optimization]] — 15.057, Spring 2003
 - [[16-810-engineering-design-and-rapid-prototyping-january-iap-2007|Engineering Design and Rapid Prototyping]] — 16.810, January IAP 2007

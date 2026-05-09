@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[esd-123j-systems-perspectives-on-industrial-ecology-spring-2006|Systems Perspectives on Industrial Ecology]] — ESD.123J, Spring 2006
+- [[12-090-the-environment-of-the-earths-surface-spring-2007|The Environment of the Earth's Surface]] — 12.090, Spring 2007
+- [[10-491-integrated-chemical-engineering-ii-spring-2006|Integrated Chemical Engineering II]] — 10.491, Spring 2006
 - [[2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002|Ocean Wave Interaction with Ships and Offshore Energy Systems (13.022)]] — 2.24, Spring 2002
 - [[12-812-general-circulation-of-the-earths-atmosphere-fall-2005|General Circulation of the Earth's Atmosphere]] — 12.812, Fall 2005
 - [[1-77-water-quality-control-spring-2006|Water Quality Control]] — 1.77, Spring 2006

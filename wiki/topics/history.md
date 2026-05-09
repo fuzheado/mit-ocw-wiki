@@ -12,6 +12,17 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21a-111j-for-love-and-money-rethinking-the-family-spring-2016|For Love and Money: Rethinking the Family]] — 21A.111J, Spring 2016
+- [[11-014j-american-urban-history-ii-fall-2011|American Urban History II]] — 11.014J, Fall 2011
+- [[sts-001-technology-in-american-history-spring-2006|Technology in American History]] — STS.001, Spring 2006
+- [[sts-007-technology-in-history-fall-2010|Technology in History]] — STS.007, Fall 2010
+- [[21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019|Imperial and Revolutionary Russia: Culture and Politics, 1700-1917]] — 21H.244J, Fall 2019
+- [[21h-245j-soviet-and-post-soviet-politics-and-society-1917-to-the-present-spring-2016|Soviet and Post-Soviet Politics and Society, 1917 to the Present]] — 21H.245J, Spring 2016
+- [[21h-235-metropolis-history-of-new-york-city-fall-2009|Metropolis: History of New York City]] — 21H.235, Fall 2009
+- [[17-436-territorial-conflict-fall-2004|Territorial Conflict]] — 17.436, Fall 2004
+- [[21g-027-asia-in-the-modern-world-images-representations-fall-2016|Asia in the Modern World: Images & Representations]] — 21G.027, Fall 2016
+- [[sts-005-disease-and-society-in-america-fall-2005|Disease and Society in America]] — STS.005, Fall 2005
+- [[21h-504-east-asia-in-the-world-spring-2003|East Asia in the World]] — 21H.504, Spring 2003
 - [[21h-306-the-emergence-of-europe-500-1300-fall-2003|The Emergence of Europe: 500-1300]] — 21H.306, Fall 2003
 - [[21a-211-magic-witchcraft-and-the-spirit-world-fall-2003|Magic, Witchcraft, and the Spirit World]] — 21A.211, Fall 2003
 - [[sts-003-the-rise-of-modern-science-fall-2010|The Rise of Modern Science]] — STS.003, Fall 2010

@@ -12,6 +12,8 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-818-pricing-spring-2010|Pricing]] — 15.818, Spring 2010
+- [[15-965-technology-strategy-for-system-design-and-management-spring-2009|Technology Strategy for System Design and Management]] — 15.965, Spring 2009
 - [[15-912-technology-strategy-fall-2008|Technology Strategy]] — 15.912, Fall 2008
 - [[21m-294-popular-musics-of-the-world-spring-2005|Popular Musics of the World]] — 21M.294, Spring 2005
 - [[15-810-marketing-management-fall-2004|Marketing Management]] — 15.810, Fall 2004

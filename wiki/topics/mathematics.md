@@ -12,6 +12,22 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[1-203j-logistical-and-transportation-planning-methods-fall-2006|Logistical and Transportation Planning Methods]] — 1.203J, Fall 2006
+- [[res-18-005-highlights-of-calculus-spring-2010|Highlights of Calculus]] — RES.18-005, Spring 2010
+- [[18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004|Advanced Analytic Methods in Science and Engineering]] — 18.305, Fall 2004
+- [[18-969-topics-in-geometry-mirror-symmetry-spring-2009|Topics in Geometry: Mirror Symmetry]] — 18.969, Spring 2009
+- [[18-969-topics-in-geometry-dirac-geometry-fall-2006|Topics in Geometry: Dirac Geometry]] — 18.969, Fall 2006
+- [[6-0002-introduction-to-computational-thinking-and-data-science-fall-2016|Introduction to Computational Thinking and Data Science]] — 6.0002, Fall 2016
+- [[8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013|Statistical Mechanics I:  Statistical Mechanics of Particles]] — 8.333, Fall 2013
+- [[15-761-introduction-to-operations-management-spring-2013|Introduction to Operations Management]] — 15.761, Spring 2013
+- [[18-104-seminar-in-analysis-applications-to-number-theory-fall-2006|Seminar in Analysis: Applications to Number Theory]] — 18.104, Fall 2006
+- [[6-438-algorithms-for-inference-fall-2014|Algorithms for Inference]] — 6.438, Fall 2014
+- [[res-18-001-calculus-fall-2023|Calculus Open Textbook]] — RES.18-001, Fall 2023
+- [[15-070j-advanced-stochastic-processes-fall-2013|Advanced Stochastic Processes]] — 15.070J, Fall 2013
+- [[18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023|Matrix Calculus for Machine Learning and Beyond]] — 18.S096, January IAP 2023
+- [[18-786-number-theory-ii-class-field-theory-spring-2016|Number Theory II: Class Field Theory]] — 18.786, Spring 2016
+- [[8-044-statistical-physics-i-spring-2013|Statistical Physics I]] — 8.044, Spring 2013
+- [[6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013|Probabilistic Systems Analysis and Applied Probability]] — 6.041SC, Fall 2013
 - [[18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014|Linear Partial Differential Equations: Analysis and Numerics]] — 18.303, Fall 2014
 - [[2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005|Introduction to Numerical Analysis for Engineering (13.002J)]] — 2.993J, Spring 2005
 - [[18-156-differential-analysis-spring-2004|Differential Analysis]] — 18.156, Spring 2004

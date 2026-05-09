@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[9-401-tools-for-robust-science-fall-2022|Tools for Robust Science]]
 - [[res-9-005-fmri-bootcamp-fall-2017|fMRI Bootcamp]]
 - [[9-46-neuroscience-of-morality-fall-2017|Neuroscience of Morality]]
 - [[9-916-special-topics-social-animals-fall-2009|Special Topics: Social Animals]]

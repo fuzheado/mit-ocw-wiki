@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[5-74-introductory-quantum-mechanics-ii-spring-2004|Introductory Quantum Mechanics II]]
 - [[5-74-introductory-quantum-mechanics-ii-spring-2009|Introductory Quantum Mechanics II]]

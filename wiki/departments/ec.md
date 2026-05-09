@@ -10,6 +10,7 @@ courses_count: 0
 
 ## Courses
 
+- [[ec-711-d-lab-energy-spring-2011|D-Lab: Energy]] (EC.711)
 - [[ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010|Special Topics at Edgerton Center:Developing World Prosthetics]] (EC.722)
 - [[15-772j-d-lab-supply-chains-fall-2014|D-Lab: Supply Chains]] (15.772J)
 - [[ec-s06-practical-electronics-fall-2004|Practical Electronics]] (EC.S06)

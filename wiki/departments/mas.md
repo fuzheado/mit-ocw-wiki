@@ -12,6 +12,7 @@ School: [[school-architecture-planning|School of Architecture and Planning]]
 
 ## Courses
 
+- [[mas-531-computational-camera-and-photography-fall-2009|Computational Camera and Photography]] (MAS.531)
 - [[mas-714j-technologies-for-creative-learning-fall-2009|Technologies for Creative Learning]] (MAS.714J)
 - [[mas-961-networks-complexity-and-its-applications-spring-2011|Networks, Complexity and Its Applications]] (MAS.961)
 - [[2-717j-optical-engineering-spring-2002|Optical Engineering]] (2.717J)

@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-333-urban-design-seminar-spring-2016|Urban Design Seminar]]
 - [[11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015|Urban Development in Conflict Cities: Planning Challenges and Policy Innovations]]

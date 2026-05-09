@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[10-445-separation-processes-for-biochemical-products-summer-2005|Separation Processes for Biochemical Products]]
 - [[15-136j-principles-and-practice-of-drug-development-fall-2013|Principles and Practice of Drug Development]]

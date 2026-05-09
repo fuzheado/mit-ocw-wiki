@@ -12,6 +12,8 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-403-german-iii-spring-2004|German III]] — 21G.403, Spring 2004
+- [[res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021|Kanji Learning Any Time, Any Place for Japanese VI]] — RES.21G-506, Spring 2021
 - [[21g-702-spanish-ii-spring-2004|Spanish II]] — 21G.702, Spring 2004
 - [[21g-104-chinese-iv-regular-spring-2018|Chinese IV (Regular)]] — 21G.104, Spring 2018
 - [[res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011|Learning Chinese: A Foundation Course in Mandarin (汉语基础教材)]] — RES.21G-003, Spring 2011

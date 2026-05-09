@@ -12,6 +12,16 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[1-203j-logistical-and-transportation-planning-methods-fall-2006|Logistical and Transportation Planning Methods]] — 1.203J, Fall 2006
+- [[11-014j-american-urban-history-ii-fall-2011|American Urban History II]] — 11.014J, Fall 2011
+- [[11-333-urban-design-seminar-spring-2016|Urban Design Seminar]] — 11.333, Spring 2016
+- [[11-337j-urban-design-policy-and-action-spring-2007|Urban Design Policy and Action]] — 11.337J, Spring 2007
+- [[21h-235-metropolis-history-of-new-york-city-fall-2009|Metropolis: History of New York City]] — 21H.235, Fall 2009
+- [[11-333-urban-design-seminar-spring-2005|Urban Design Seminar]] — 11.333, Spring 2005
+- [[11-953-comparative-land-use-and-transportation-planning-spring-2006|Comparative Land Use and Transportation Planning]] — 11.953, Spring 2006
+- [[11-309j-sensing-place-photography-as-inquiry-fall-2012|Sensing Place: Photography as Inquiry]] — 11.309J, Fall 2012
+- [[11-522-research-seminar-on-urban-information-systems-fall-2005|Research Seminar on Urban Information Systems]] — 11.522, Fall 2005
+- [[11-123-big-plans-and-mega-urban-landscapes-spring-2014|Big Plans and Mega-Urban Landscapes]] — 11.123, Spring 2014
 - [[11-421-housing-and-human-services-spring-2005|Housing and Human Services]] — 11.421, Spring 2005
 - [[11-949-city-visions-past-and-future-spring-2004|City Visions: Past and Future]] — 11.949, Spring 2004
 - [[21h-405j-the-ancient-city-spring-2005|The Ancient City]] — 21H.405J, Spring 2005

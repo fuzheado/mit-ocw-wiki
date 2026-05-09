@@ -12,6 +12,9 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-896-theory-of-parallel-hardware-sma-5511-spring-2004|Theory of Parallel Hardware (SMA 5511)]] — 6.896, Spring 2004
+- [[21m-385-interactive-music-systems-fall-2016|Interactive Music Systems]] — 21M.385, Fall 2016
+- [[6-s096-effective-programming-in-c-and-c-january-iap-2014|Effective Programming in C and C++]] — 6.S096, January IAP 2014
 - [[6-087-practical-programming-in-c-january-iap-2010|Practical Programming in C]] — 6.087, January IAP 2010
 - [[6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011|A Gentle Introduction to Programming Using Python]] — 6.189, January IAP 2011
 - [[6-005-elements-of-software-construction-fall-2008|Elements of Software Construction]] — 6.005, Fall 2008

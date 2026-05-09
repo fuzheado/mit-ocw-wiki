@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-965-technology-strategy-for-system-design-and-management-spring-2009|Technology Strategy for System Design and Management]] — 15.965, Spring 2009
+- [[15-571-generating-business-value-from-information-technology-spring-2009|Generating Business Value from Information Technology]] — 15.571, Spring 2009
+- [[15-480x-the-science-and-business-of-biotechnology-fall-2021|The Science and Business of Biotechnology]] — 15.480x, Fall 2021
 - [[15-369-seminar-in-corporate-entrepreneurship-fall-2015|Seminar in Corporate Entrepreneurship]] — 15.369, Fall 2015
 - [[15-511-financial-accounting-summer-2004|Financial Accounting]] — 15.511, Summer 2004
 - [[res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020|System Dynamics: Systems Thinking and Modeling for a Complex World]] — RES.15-004, January IAP 2020

@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[6-096-algorithms-for-computational-biology-spring-2005|Algorithms for Computational Biology]] — 6.096, Spring 2005
+- [[5-512-synthetic-organic-chemistry-ii-spring-2005|Synthetic Organic Chemistry II]] — 5.512, Spring 2005
 - [[20-416j-topics-in-biophysics-and-physical-biology-fall-2014|Topics in Biophysics and Physical Biology]] — 20.416J, Fall 2014
 - [[20-380j-biological-engineering-design-spring-2010|Biological Engineering Design]] — 20.380J, Spring 2010
 - [[8-591j-systems-biology-fall-2014|Systems Biology]] — 8.591J, Fall 2014

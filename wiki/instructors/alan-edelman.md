@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023|Matrix Calculus for Machine Learning and Beyond]]
 - [[18-996-random-matrix-theory-and-its-applications-spring-2004|Random Matrix Theory and Its Applications]]
 - [[18-s191-introduction-to-computational-thinking-fall-2020|Introduction to Computational Thinking]]
 - [[18-s191-introduction-to-computational-thinking-fall-2022|Introduction to Computational Thinking]]

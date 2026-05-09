@@ -12,6 +12,16 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[18-969-topics-in-geometry-mirror-symmetry-spring-2009|Topics in Geometry: Mirror Symmetry]] — 18.969, Spring 2009
+- [[8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013|Statistical Mechanics I:  Statistical Mechanics of Particles]] — 8.333, Fall 2013
+- [[12-581-phase-transitions-in-the-earths-interior-spring-2005|Phase Transitions in the Earth's Interior]] — 12.581, Spring 2005
+- [[8-06-quantum-physics-iii-spring-2005|Quantum Physics III]] — 8.06, Spring 2005
+- [[16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006|Unified Engineering I, II, III, & IV]] — 16.01, Fall 2005
+- [[8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004|Selected Topics in Theoretical Particle Physics: Branes and Gauge Theory Dynamics]] — 8.871, Fall 2004
+- [[3-21-kinetic-processes-in-materials-spring-2006|Kinetic Processes in Materials]] — 3.21, Spring 2006
+- [[12-620j-classical-mechanics-a-computational-approach-fall-2008|Classical Mechanics: A Computational Approach]] — 12.620J, Fall 2008
+- [[8-044-statistical-physics-i-spring-2013|Statistical Physics I]] — 8.044, Spring 2013
+- [[5-74-introductory-quantum-mechanics-ii-spring-2004|Introductory Quantum Mechanics II]] — 5.74, Spring 2004
 - [[2-60j-fundamentals-of-advanced-energy-conversion-spring-2020|Fundamentals of Advanced Energy Conversion]] — 2.60J, Spring 2020
 - [[3-063-polymer-physics-spring-2007|Polymer Physics]] — 3.063, Spring 2007
 - [[6-630-electromagnetics-fall-2006|Electromagnetics]] — 6.630, Fall 2006

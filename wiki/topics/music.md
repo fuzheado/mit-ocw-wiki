@@ -12,6 +12,8 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21m-385-interactive-music-systems-fall-2016|Interactive Music Systems]] — 21M.385, Fall 2016
+- [[21m-303-writing-in-tonal-forms-i-spring-2009|Writing in Tonal Forms I]] — 21M.303, Spring 2009
 - [[21m-289-islam-media-spring-2015|Islam/Media]] — 21M.289, Spring 2015
 - [[21m-675-dance-theory-and-composition-fall-2003|Dance Theory and Composition]] — 21M.675, Fall 2003
 - [[wgs-645-issues-of-representation-women-representation-and-music-in-selected-folk-traditions-of-the-british-isles-and-north-america-fall-2005|Issues of Representation: Women, Representation, and Music in Selected Folk Traditions of the British Isles and North America]] — WGS.645, Fall 2005

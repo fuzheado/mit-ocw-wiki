@@ -12,6 +12,12 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-203j-logistical-and-transportation-planning-methods-fall-2006|Logistical and Transportation Planning Methods]] — 1.203J, Fall 2006
+- [[sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007|Engineering Apollo: The Moon Project as a Complex System]] — STS.471J, Spring 2007
+- [[esd-123j-systems-perspectives-on-industrial-ecology-spring-2006|Systems Perspectives on Industrial Ecology]] — ESD.123J, Spring 2006
+- [[16-621-experimental-projects-i-spring-2003|Experimental Projects I]] — 16.621, Spring 2003
+- [[12-620j-classical-mechanics-a-computational-approach-fall-2008|Classical Mechanics: A Computational Approach]] — 12.620J, Fall 2008
+- [[6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013|Probabilistic Systems Analysis and Applied Probability]] — 6.041SC, Fall 2013
 - [[2-60j-fundamentals-of-advanced-energy-conversion-spring-2020|Fundamentals of Advanced Energy Conversion]] — 2.60J, Spring 2020
 - [[4-510-digital-design-fabrication-fall-2008|Digital Design Fabrication]] — 4.510, Fall 2008
 - [[esd-60-lean-six-sigma-processes-summer-2004|Lean/Six Sigma Processes]] — ESD.60, Summer 2004

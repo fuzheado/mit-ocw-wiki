@@ -12,6 +12,7 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21w-035-science-writing-and-new-media-science-writing-for-the-public-spring-2018|Science Writing and New Media: Science Writing for the Public]] — 21W.035, Spring 2018
 - [[12-445-oral-communication-in-the-earth-atmospheric-and-planetary-sciences-fall-2010|Oral Communication in the Earth, Atmospheric, and Planetary Sciences]] — 12.445, Fall 2010
 - [[21w-747-2-rhetoric-rhetoric-of-science-spring-2006|Rhetoric: Rhetoric of Science]] — 21W.747-2, Spring 2006
 - [[sts-460-histories-of-information-communication-and-computing-technologies-spring-2015|Histories of Information, Communication, and Computing Technologies]] — STS.460, Spring 2015

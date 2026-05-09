@@ -12,6 +12,8 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[12-085-seminar-in-environmental-science-spring-2008|Seminar in Environmental Science]] — 12.085, Spring 2008
+- [[esd-s43-green-supply-chain-management-spring-2014|Green Supply Chain Management]] — ESD.S43, Spring 2014
 - [[15-023j-global-climate-change-economics-science-and-policy-spring-2008|Global Climate Change: Economics, Science, and Policy]] — 15.023J, Spring 2008
 - [[11-368-environmental-justice-law-and-policy-fall-2019|Environmental Justice Law and Policy]] — 11.368, Fall 2019
 - [[21h-207-the-energy-crisis-past-and-present-fall-2010|The Energy Crisis: Past and Present]] — 21H.207, Fall 2010

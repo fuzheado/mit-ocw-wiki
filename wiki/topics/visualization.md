@@ -2,6 +2,9 @@
 
 ## Courses
 
+- [[mas-531-computational-camera-and-photography-fall-2009|Computational Camera and Photography]] — MAS.531, Fall 2009
+- [[6-438-algorithms-for-inference-fall-2014|Algorithms for Inference]] — 6.438, Fall 2014
+- [[11-522-research-seminar-on-urban-information-systems-fall-2005|Research Seminar on Urban Information Systems]] — 11.522, Fall 2005
 - [[4-195-special-problems-in-architectural-design-spring-2005|Special Problems in Architectural Design]] — 4.195, Spring 2005
 - [[17-914-international-politics-in-the-new-century-via-simulation-interactive-gaming-and-edutainment-january-iap-2005|International Politics in the New Century - via Simulation, Interactive Gaming, and  'Edutainment']] — 17.914, January IAP 2005
 - [[res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017|Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft Kinect]] — RES.3-003, January IAP 2017

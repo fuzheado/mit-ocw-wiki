@@ -12,6 +12,13 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-014j-american-urban-history-ii-fall-2011|American Urban History II]] — 11.014J, Fall 2011
+- [[11-337j-urban-design-policy-and-action-spring-2007|Urban Design Policy and Action]] — 11.337J, Spring 2007
+- [[12-085-seminar-in-environmental-science-spring-2008|Seminar in Environmental Science]] — 12.085, Spring 2008
+- [[esd-s43-green-supply-chain-management-spring-2014|Green Supply Chain Management]] — ESD.S43, Spring 2014
+- [[17-436-territorial-conflict-fall-2004|Territorial Conflict]] — 17.436, Fall 2004
+- [[17-40-american-foreign-policy-past-present-and-future-fall-2017|American Foreign Policy: Past, Present, and Future]] — 17.40, Fall 2017
+- [[11-522-research-seminar-on-urban-information-systems-fall-2005|Research Seminar on Urban Information Systems]] — 11.522, Fall 2005
 - [[11-421-housing-and-human-services-spring-2005|Housing and Human Services]] — 11.421, Spring 2005
 - [[sts-003-the-rise-of-modern-science-fall-2010|The Rise of Modern Science]] — STS.003, Fall 2010
 - [[15-023j-global-climate-change-economics-science-and-policy-spring-2008|Global Climate Change: Economics, Science, and Policy]] — 15.023J, Spring 2008

@@ -12,6 +12,19 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-895-essential-coding-theory-fall-2004|Essential Coding Theory]] — 6.895, Fall 2004
+- [[6-0002-introduction-to-computational-thinking-and-data-science-fall-2016|Introduction to Computational Thinking and Data Science]] — 6.0002, Fall 2016
+- [[6-096-algorithms-for-computational-biology-spring-2005|Algorithms for Computational Biology]] — 6.096, Spring 2005
+- [[mas-531-computational-camera-and-photography-fall-2009|Computational Camera and Photography]] — MAS.531, Fall 2009
+- [[16-621-experimental-projects-i-spring-2003|Experimental Projects I]] — 16.621, Spring 2003
+- [[6-883-pervasive-human-centric-computing-sma-5508-spring-2006|Pervasive Human Centric Computing (SMA 5508)]] — 6.883, Spring 2006
+- [[res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017|Collaborative Design and Creative Expression with Arduino Microcontrollers]] — RES.3-002, January IAP 2017
+- [[6-438-algorithms-for-inference-fall-2014|Algorithms for Inference]] — 6.438, Fall 2014
+- [[14-15-networks-spring-2022|Networks]] — 14.15, Spring 2022
+- [[6-896-theory-of-parallel-hardware-sma-5511-spring-2004|Theory of Parallel Hardware (SMA 5511)]] — 6.896, Spring 2004
+- [[21m-385-interactive-music-systems-fall-2016|Interactive Music Systems]] — 21M.385, Fall 2016
+- [[6-s096-effective-programming-in-c-and-c-january-iap-2014|Effective Programming in C and C++]] — 6.S096, January IAP 2014
+- [[11-522-research-seminar-on-urban-information-systems-fall-2005|Research Seminar on Urban Information Systems]] — 11.522, Fall 2005
 - [[2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005|Introduction to Numerical Analysis for Engineering (13.002J)]] — 2.993J, Spring 2005
 - [[6-046j-introduction-to-algorithms-sma-5503-fall-2005|Introduction to Algorithms (SMA 5503)]] — 6.046J, Fall 2005
 - [[6-087-practical-programming-in-c-january-iap-2010|Practical Programming in C]] — 6.087, January IAP 2010

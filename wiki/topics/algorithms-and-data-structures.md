@@ -12,6 +12,10 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-895-essential-coding-theory-fall-2004|Essential Coding Theory]] — 6.895, Fall 2004
+- [[6-096-algorithms-for-computational-biology-spring-2005|Algorithms for Computational Biology]] — 6.096, Spring 2005
+- [[6-438-algorithms-for-inference-fall-2014|Algorithms for Inference]] — 6.438, Fall 2014
+- [[6-896-theory-of-parallel-hardware-sma-5511-spring-2004|Theory of Parallel Hardware (SMA 5511)]] — 6.896, Spring 2004
 - [[2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005|Introduction to Numerical Analysis for Engineering (13.002J)]] — 2.993J, Spring 2005
 - [[6-046j-introduction-to-algorithms-sma-5503-fall-2005|Introduction to Algorithms (SMA 5503)]] — 6.046J, Fall 2005
 - [[18-413-error-correcting-codes-laboratory-spring-2004|Error-Correcting Codes Laboratory]] — 18.413, Spring 2004

@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[11-333-urban-design-seminar-spring-2016|Urban Design Seminar]] — 11.333, Spring 2016
+- [[2-22-design-principles-for-ocean-vehicles-13-42-spring-2005|Design Principles for Ocean Vehicles (13.42)]] — 2.22, Spring 2005
+- [[1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009|The Impact of Globalization on the Built Environment]] — 1.463J, Fall 2009
 - [[1-105-solid-mechanics-laboratory-fall-2003|Solid Mechanics Laboratory]] — 1.105, Fall 2003
 - [[1-012-introduction-to-civil-engineering-design-spring-2002|Introduction to Civil Engineering Design]] — 1.012, Spring 2002
 - [[2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002|Ocean Wave Interaction with Ships and Offshore Energy Systems (13.022)]] — 2.24, Spring 2002

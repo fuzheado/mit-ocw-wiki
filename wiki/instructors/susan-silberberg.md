@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-333-urban-design-seminar-spring-2005|Urban Design Seminar]]
 - [[11-945-springfield-studio-spring-2004|Springfield Studio]]
 - [[11-001j-introduction-to-urban-design-and-development-spring-2006|Introduction to Urban Design and Development]]
 - [[11-914-planning-communication-spring-2007|Planning Communication]]

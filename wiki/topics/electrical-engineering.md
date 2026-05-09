@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[mas-531-computational-camera-and-photography-fall-2009|Computational Camera and Photography]] — MAS.531, Fall 2009
+- [[res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017|Collaborative Design and Creative Expression with Arduino Microcontrollers]] — RES.3-002, January IAP 2017
+- [[6-451-principles-of-digital-communication-ii-spring-2005|Principles of Digital Communication II]] — 6.451, Spring 2005
+- [[ec-711-d-lab-energy-spring-2011|D-Lab: Energy]] — EC.711, Spring 2011
 - [[6-s079-nanomaker-spring-2013|Nanomaker]] — 6.S079, Spring 2013
 - [[6-003-signals-and-systems-fall-2011|Signals and Systems]] — 6.003, Fall 2011
 - [[2-996-biomedical-devices-design-laboratory-fall-2007|Biomedical Devices Design Laboratory]] — 2.996, Fall 2007

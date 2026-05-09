@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[sts-001-technology-in-american-history-spring-2006|Technology in American History]]
 - [[sts-427-the-civil-war-and-the-emergence-of-modern-america-1861-1890-spring-2015|The Civil War and the Emergence of Modern America, 1861-1890]]
 - [[sts-462-social-and-political-implications-of-technology-spring-2006|Social and Political Implications of Technology]]
 - [[sts-025j-making-the-modern-world-the-industrial-revolution-in-global-perspective-fall-2009|Making the Modern World: The Industrial Revolution in Global Perspective]]

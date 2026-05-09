@@ -12,6 +12,12 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-401-tools-for-robust-science-fall-2022|Tools for Robust Science]] — 9.401, Fall 2022
+- [[9-51-affective-priming-at-short-and-extremely-short-exposures-spring-2003|Affective Priming at Short and Extremely Short Exposures]] — 9.51, Spring 2003
+- [[9-459-scene-understanding-symposium-spring-2006|Scene Understanding Symposium]] — 9.459, Spring 2006
+- [[hst-725-music-perception-and-cognition-spring-2009|Music Perception and Cognition]] — HST.725, Spring 2009
+- [[res-9-007-meg-workshop-spring-2019|MEG Workshop]] — RES.9-007, Spring 2019
+- [[24-263-the-nature-of-creativity-fall-2005|The Nature of Creativity]] — 24.263, Fall 2005
 - [[9-52-a-investigating-the-neural-substrates-of-remote-memory-using-fmri-spring-2003|Investigating the Neural Substrates of Remote Memory using fMRI]] — 9.52-A, Spring 2003
 - [[9-250-evolutionary-psychology-spring-1999|Evolutionary Psychology]] — 9.250, Spring 1999
 - [[9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008|Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders]] — 9.914, Fall 2008

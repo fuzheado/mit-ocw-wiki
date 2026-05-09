@@ -12,6 +12,11 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[11-333-urban-design-seminar-spring-2016|Urban Design Seminar]] — 11.333, Spring 2016
+- [[4-191-introduction-to-integrated-design-fall-2006|Introduction to Integrated Design]] — 4.191, Fall 2006
+- [[11-337j-urban-design-policy-and-action-spring-2007|Urban Design Policy and Action]] — 11.337J, Spring 2007
+- [[11-333-urban-design-seminar-spring-2005|Urban Design Seminar]] — 11.333, Spring 2005
+- [[11-309j-sensing-place-photography-as-inquiry-fall-2012|Sensing Place: Photography as Inquiry]] — 11.309J, Fall 2012
 - [[4-510-digital-design-fabrication-fall-2008|Digital Design Fabrication]] — 4.510, Fall 2008
 - [[4-619-historiography-of-islamic-architecture-fall-2014|Historiography of Islamic Architecture]] — 4.619, Fall 2014
 - [[11-949-city-visions-past-and-future-spring-2004|City Visions: Past and Future]] — 11.949, Spring 2004

@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-333-urban-design-seminar-spring-2005|Urban Design Seminar]]
 - [[11-307-beijing-urban-design-studio-summer-2006|Beijing Urban Design Studio]]
 - [[11-307-beijing-urban-design-studio-summer-2008|Beijing Urban Design Studio]]
 - [[11-301j-introduction-to-urban-design-and-development-fall-2016|Introduction to Urban Design and Development]]

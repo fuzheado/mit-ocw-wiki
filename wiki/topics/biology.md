@@ -12,6 +12,14 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-51-affective-priming-at-short-and-extremely-short-exposures-spring-2003|Affective Priming at Short and Extremely Short Exposures]] — 9.51, Spring 2003
+- [[12-491-advanced-seminar-in-geology-and-geochemistry-organic-geochemistry-fall-2005|Advanced Seminar in Geology and Geochemistry: Organic Geochemistry]] — 12.491, Fall 2005
+- [[7-01sc-fundamentals-of-biology-fall-2011|Fundamentals of Biology]] — 7.01SC, Fall 2011
+- [[5-512-synthetic-organic-chemistry-ii-spring-2005|Synthetic Organic Chemistry II]] — 5.512, Spring 2005
+- [[9-459-scene-understanding-symposium-spring-2006|Scene Understanding Symposium]] — 9.459, Spring 2006
+- [[hst-725-music-perception-and-cognition-spring-2009|Music Perception and Cognition]] — HST.725, Spring 2009
+- [[6-881-computational-personal-genomics-making-sense-of-complete-genomes-spring-2016|Computational Personal Genomics: Making Sense of Complete Genomes]] — 6.881, Spring 2016
+- [[10-445-separation-processes-for-biochemical-products-summer-2005|Separation Processes for Biochemical Products]] — 10.445, Summer 2005
 - [[9-52-a-investigating-the-neural-substrates-of-remote-memory-using-fmri-spring-2003|Investigating the Neural Substrates of Remote Memory using fMRI]] — 9.52-A, Spring 2003
 - [[10-442-biochemical-engineering-spring-2005|Biochemical Engineering]] — 10.442, Spring 2005
 - [[20-416j-topics-in-biophysics-and-physical-biology-fall-2014|Topics in Biophysics and Physical Biology]] — 20.416J, Fall 2014

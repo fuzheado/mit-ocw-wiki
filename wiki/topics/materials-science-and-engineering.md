@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[3-091sc-introduction-to-solid-state-chemistry-fall-2010|Introduction to Solid State Chemistry]] — 3.091SC, Fall 2010
+- [[res-3-006-micro-mentoring-resources-and-materials-science-curriculum-spring-2021|MICRO Mentoring Resources and Materials Science Curriculum]] — RES.3-006, Spring 2021
+- [[3-21-kinetic-processes-in-materials-spring-2006|Kinetic Processes in Materials]] — 3.21, Spring 2006
 - [[3-063-polymer-physics-spring-2007|Polymer Physics]] — 3.063, Spring 2007
 - [[10-569-synthesis-of-polymers-fall-2006|Synthesis of Polymers]] — 10.569, Fall 2006
 - [[6-s079-nanomaker-spring-2013|Nanomaker]] — 6.S079, Spring 2013

@@ -12,6 +12,8 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[9-401-tools-for-robust-science-fall-2022|Tools for Robust Science]] — 9.401, Fall 2022
+- [[res-9-007-meg-workshop-spring-2019|MEG Workshop]] — RES.9-007, Spring 2019
 - [[hst-582j-biomedical-signal-and-image-processing-spring-2007|Biomedical Signal and Image Processing]] — HST.582J, Spring 2007
 - [[9-71-functional-mri-of-high-level-vision-fall-2007|Functional MRI of High-Level Vision]] — 9.71, Fall 2007
 - [[mas-s63-engineering-health-towards-the-tricorder-fall-2013|Engineering Health: Towards the Tricorder]] — MAS.S63, Fall 2013

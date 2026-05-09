@@ -12,6 +12,11 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007|Engineering Apollo: The Moon Project as a Complex System]] — STS.471J, Spring 2007
+- [[16-83x-space-systems-engineering-spring-2002-spring-2003|Space Systems Engineering]] — 16.83X, Spring 2002
+- [[16-621-experimental-projects-i-spring-2003|Experimental Projects I]] — 16.621, Spring 2003
+- [[16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006|Unified Engineering I, II, III, & IV]] — 16.01, Fall 2005
+- [[16-13-aerodynamics-of-viscous-fluids-fall-2003|Aerodynamics of Viscous Fluids]] — 16.13, Fall 2003
 - [[2-23-hydrofoils-and-propellers-spring-2007|Hydrofoils and Propellers]] — 2.23, Spring 2007
 - [[16-30-estimation-and-control-of-aerospace-systems-spring-2004|Estimation and Control of Aerospace Systems]] — 16.30, Spring 2004
 - [[16-459-bioengineering-journal-article-seminar-fall-2011|Bioengineering Journal Article Seminar]] — 16.459, Fall 2011

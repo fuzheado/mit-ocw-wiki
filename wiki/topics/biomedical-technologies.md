@@ -12,6 +12,9 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[9-401-tools-for-robust-science-fall-2022|Tools for Robust Science]] — 9.401, Fall 2022
+- [[hst-725-music-perception-and-cognition-spring-2009|Music Perception and Cognition]] — HST.725, Spring 2009
+- [[15-480x-the-science-and-business-of-biotechnology-fall-2021|The Science and Business of Biotechnology]] — 15.480x, Fall 2021
 - [[ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010|Special Topics at Edgerton Center:Developing World Prosthetics]] — EC.722, Spring 2010
 - [[20-380j-biological-engineering-design-spring-2010|Biological Engineering Design]] — 20.380J, Spring 2010
 - [[2-996-biomedical-devices-design-laboratory-fall-2007|Biomedical Devices Design Laboratory]] — 2.996, Fall 2007

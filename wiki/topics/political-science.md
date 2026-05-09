@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-436-territorial-conflict-fall-2004|Territorial Conflict]] — 17.436, Fall 2004
+- [[17-40-american-foreign-policy-past-present-and-future-fall-2017|American Foreign Policy: Past, Present, and Future]] — 17.40, Fall 2017
+- [[17-20-introduction-to-american-politics-spring-2013|Introduction to American Politics]] — 17.20, Spring 2013
+- [[17-810-game-theory-spring-2021|Game Theory ]] — 17.810, Spring 2021
+- [[sts-005-disease-and-society-in-america-fall-2005|Disease and Society in America]] — STS.005, Fall 2005
+- [[21h-504-east-asia-in-the-world-spring-2003|East Asia in the World]] — 21H.504, Spring 2003
 - [[11-368-environmental-justice-law-and-policy-fall-2019|Environmental Justice Law and Policy]] — 11.368, Fall 2019
 - [[17-541-japanese-politics-and-society-fall-2008|Japanese Politics and Society]] — 17.541, Fall 2008
 - [[17-202-graduate-seminar-in-american-politics-ii-spring-2010|Graduate Seminar in American Politics II]] — 17.202, Spring 2010

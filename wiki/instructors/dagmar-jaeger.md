@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21g-403-german-iii-spring-2004|German III]]
 - [[21g-412-texts-topics-and-times-in-german-literature-fall-2009|Texts, Topics, and Times in German Literature]]

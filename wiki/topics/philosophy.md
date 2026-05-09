@@ -12,6 +12,9 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-001-foundations-of-western-culture-homer-to-dante-fall-2008|Foundations of Western Culture:  Homer to Dante]] — 21L.001, Fall 2008
+- [[24-230-meta-ethics-fall-2015|Meta-ethics]] — 24.230, Fall 2015
+- [[24-263-the-nature-of-creativity-fall-2005|The Nature of Creativity]] — 24.263, Fall 2005
 - [[21h-306-the-emergence-of-europe-500-1300-fall-2003|The Emergence of Europe: 500-1300]] — 21H.306, Fall 2003
 - [[24-251-introduction-to-philosophy-of-language-fall-2011|Introduction to Philosophy of Language]] — 24.251, Fall 2011
 - [[21h-443-european-imperialism-in-the-19th-and-20th-centuries-spring-2006|European Imperialism in the 19th and 20th Centuries]] — 21H.443, Spring 2006

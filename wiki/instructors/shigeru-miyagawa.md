@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21g-027-asia-in-the-modern-world-images-representations-fall-2016|Asia in the Modern World: Images & Representations]]
 - [[res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021|Visualizing the Birth of Modern Tokyo]]
 - [[es-259-information-and-communication-technology-in-africa-spring-2006|Information and Communication Technology in Africa]]
 - [[res-21g-01-kana-spring-2010|Kana]]

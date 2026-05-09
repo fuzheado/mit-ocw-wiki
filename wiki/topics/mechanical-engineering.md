@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006|Unified Engineering I, II, III, & IV]] — 16.01, Fall 2005
+- [[2-22-design-principles-for-ocean-vehicles-13-42-spring-2005|Design Principles for Ocean Vehicles (13.42)]] — 2.22, Spring 2005
+- [[16-13-aerodynamics-of-viscous-fluids-fall-2003|Aerodynamics of Viscous Fluids]] — 16.13, Fall 2003
 - [[1-105-solid-mechanics-laboratory-fall-2003|Solid Mechanics Laboratory]] — 1.105, Fall 2003
 - [[3-063-polymer-physics-spring-2007|Polymer Physics]] — 3.063, Spring 2007
 - [[10-569-synthesis-of-polymers-fall-2006|Synthesis of Polymers]] — 10.569, Fall 2006

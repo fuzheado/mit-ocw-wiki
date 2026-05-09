@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[mas-531-computational-camera-and-photography-fall-2009|Computational Camera and Photography]] — MAS.531, Fall 2009
+- [[21w-035-science-writing-and-new-media-science-writing-for-the-public-spring-2018|Science Writing and New Media: Science Writing for the Public]] — 21W.035, Spring 2018
+- [[21g-027-asia-in-the-modern-world-images-representations-fall-2016|Asia in the Modern World: Images & Representations]] — 21G.027, Fall 2016
 - [[21m-289-islam-media-spring-2015|Islam/Media]] — 21M.289, Spring 2015
 - [[21l-325-small-wonders-media-modernity-and-the-moment-experiments-in-time-fall-2010|Small Wonders: Media, Modernity, and the Moment: Experiments in Time]] — 21L.325, Fall 2010
 - [[cms-796-major-media-texts-fall-2006|Major Media Texts]] — CMS.796, Fall 2006

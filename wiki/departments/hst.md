@@ -12,6 +12,7 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[hst-725-music-perception-and-cognition-spring-2009|Music Perception and Cognition]] (HST.725)
 - [[hst-582j-biomedical-signal-and-image-processing-spring-2007|Biomedical Signal and Image Processing]] (HST.582J)
 - [[hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008|Designing and Sustaining Technology Innovation for Global Health Practice]] (HST.939)
 - [[hst-121-gastroenterology-fall-2005|Gastroenterology]] (HST.121)

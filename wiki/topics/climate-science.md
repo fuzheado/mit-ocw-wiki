@@ -12,6 +12,10 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[esd-123j-systems-perspectives-on-industrial-ecology-spring-2006|Systems Perspectives on Industrial Ecology]] — ESD.123J, Spring 2006
+- [[12-085-seminar-in-environmental-science-spring-2008|Seminar in Environmental Science]] — 12.085, Spring 2008
+- [[esd-s43-green-supply-chain-management-spring-2014|Green Supply Chain Management]] — ESD.S43, Spring 2014
+- [[ec-711-d-lab-energy-spring-2011|D-Lab: Energy]] — EC.711, Spring 2011
 - [[15-023j-global-climate-change-economics-science-and-policy-spring-2008|Global Climate Change: Economics, Science, and Policy]] — 15.023J, Spring 2008
 - [[12-333-atmospheric-and-ocean-circulations-spring-2004|Atmospheric and Ocean Circulations]] — 12.333, Spring 2004
 - [[12-842-climate-physics-and-chemistry-fall-2008|Climate Physics and Chemistry]] — 12.842, Fall 2008

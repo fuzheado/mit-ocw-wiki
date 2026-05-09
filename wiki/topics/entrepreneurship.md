@@ -12,6 +12,8 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-480x-the-science-and-business-of-biotechnology-fall-2021|The Science and Business of Biotechnology]] — 15.480x, Fall 2021
+- [[6-933j-the-structure-of-engineering-revolutions-fall-2001|The Structure of Engineering Revolutions]] — 6.933J, Fall 2001
 - [[15-369-seminar-in-corporate-entrepreneurship-fall-2015|Seminar in Corporate Entrepreneurship]] — 15.369, Fall 2015
 - [[15-389b-global-entrepreneurship-lab-latin-america-the-middle-east-and-africa-fall-2010|Global Entrepreneurship Lab: Latin America, the Middle East, and Africa]] — 15.389B, Fall 2010
 - [[mas-666-developmental-entrepreneurship-fall-2003|Developmental Entrepreneurship]] — MAS.666, Fall 2003

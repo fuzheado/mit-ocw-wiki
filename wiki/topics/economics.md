@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[14-12-economic-applications-of-game-theory-fall-2012|Economic Applications of Game Theory]] — 14.12, Fall 2012
+- [[15-818-pricing-spring-2010|Pricing]] — 15.818, Spring 2010
+- [[esd-123j-systems-perspectives-on-industrial-ecology-spring-2006|Systems Perspectives on Industrial Ecology]] — ESD.123J, Spring 2006
+- [[14-15-networks-spring-2022|Networks]] — 14.15, Spring 2022
+- [[17-810-game-theory-spring-2021|Game Theory ]] — 17.810, Spring 2021
 - [[15-023j-global-climate-change-economics-science-and-policy-spring-2008|Global Climate Change: Economics, Science, and Policy]] — 15.023J, Spring 2008
 - [[ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010|Engineering, Economics and Regulation of the Electric Power Sector]] — IDS.505J, Spring 2010
 - [[17-541-japanese-politics-and-society-fall-2008|Japanese Politics and Society]] — 17.541, Fall 2008

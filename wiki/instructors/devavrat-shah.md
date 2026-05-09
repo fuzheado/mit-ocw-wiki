@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-438-algorithms-for-inference-fall-2014|Algorithms for Inference]]
 - [[15-098-special-seminar-in-applied-probability-and-stochastic-processes-spring-2006|Special Seminar in Applied Probability and Stochastic Processes]]

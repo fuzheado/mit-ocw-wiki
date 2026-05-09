@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-333-urban-design-seminar-spring-2016|Urban Design Seminar]] — 11.333, Spring 2016
+- [[ec-711-d-lab-energy-spring-2011|D-Lab: Energy]] — EC.711, Spring 2011
 - [[ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010|Special Topics at Edgerton Center:Developing World Prosthetics]] — EC.722, Spring 2010
 - [[11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015|Urban Development in Conflict Cities: Planning Challenges and Policy Innovations]] — 11.488, Fall 2015
 - [[11-701-introduction-to-international-development-planning-fall-2011|Introduction to International Development Planning]] — 11.701, Fall 2011

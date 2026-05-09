@@ -8,6 +8,8 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[res-18-005-highlights-of-calculus-spring-2010|Highlights of Calculus]]
+- [[res-18-001-calculus-fall-2023|Calculus Open Textbook]]
 - [[18-06-linear-algebra-spring-2010|Linear Algebra]]
 - [[18-06sc-linear-algebra-fall-2011|Linear Algebra]]
 - [[18-085-computational-science-and-engineering-i-fall-2008|Computational Science and Engineering I]]

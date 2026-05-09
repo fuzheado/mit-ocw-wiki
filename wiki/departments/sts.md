@@ -12,6 +12,11 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007|Engineering Apollo: The Moon Project as a Complex System]] (STS.471J)
+- [[sts-001-technology-in-american-history-spring-2006|Technology in American History]] (STS.001)
+- [[sts-007-technology-in-history-fall-2010|Technology in History]] (STS.007)
+- [[sts-005-disease-and-society-in-america-fall-2005|Disease and Society in America]] (STS.005)
+- [[6-933j-the-structure-of-engineering-revolutions-fall-2001|The Structure of Engineering Revolutions]] (6.933J)
 - [[sts-003-the-rise-of-modern-science-fall-2010|The Rise of Modern Science]] (STS.003)
 - [[sts-034-science-communication-a-practical-guide-fall-2011|Science Communication: A Practical Guide]] (STS.034)
 - [[sts-069-technology-in-a-dangerous-world-fall-2002|Technology in a  Dangerous World]] (STS.069)

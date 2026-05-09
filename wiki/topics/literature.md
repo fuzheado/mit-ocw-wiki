@@ -12,6 +12,11 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-403-german-iii-spring-2004|German III]] — 21G.403, Spring 2004
+- [[21l-001-foundations-of-western-culture-homer-to-dante-fall-2008|Foundations of Western Culture:  Homer to Dante]] — 21L.001, Fall 2008
+- [[21w-035-science-writing-and-new-media-science-writing-for-the-public-spring-2018|Science Writing and New Media: Science Writing for the Public]] — 21W.035, Spring 2018
+- [[21g-013-out-of-ground-zero-catastrophe-and-memory-fall-2005|Out of Ground Zero: Catastrophe and Memory]] — 21G.013, Fall 2005
+- [[21g-044-classics-of-chinese-literature-fall-2011|Classics of Chinese Literature]] — 21G.044, Fall 2011
 - [[21l-325-small-wonders-media-modernity-and-the-moment-experiments-in-time-fall-2010|Small Wonders: Media, Modernity, and the Moment: Experiments in Time]] — 21L.325, Fall 2010
 - [[21w-747-rhetoric-spring-2015|Rhetoric]] — 21W.747, Spring 2015
 - [[sts-034-science-communication-a-practical-guide-fall-2011|Science Communication: A Practical Guide]] — STS.034, Fall 2011

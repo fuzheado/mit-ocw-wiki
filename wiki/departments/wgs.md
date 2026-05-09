@@ -12,6 +12,7 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21a-111j-for-love-and-money-rethinking-the-family-spring-2016|For Love and Money: Rethinking the Family]] (21A.111J)
 - [[21h-225j-gender-and-the-law-in-u-s-history-spring-2004|Gender and the Law in U.S. History]] (21H.225J)
 - [[wgs-645-issues-of-representation-women-representation-and-music-in-selected-folk-traditions-of-the-british-isles-and-north-america-fall-2005|Issues of Representation: Women, Representation, and Music in Selected Folk Traditions of the British Isles and North America]] (WGS.645)
 - [[wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007|Studies in Women's Life Narratives: Interrogating Marriage: Case Studies in American Law and Culture]] (WGS.640)
