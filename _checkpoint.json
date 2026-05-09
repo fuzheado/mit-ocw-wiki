@@ -4,11 +4,11 @@
     "smoke_test": true,
     "departments_topics": true,
     "courses_bootstrap": {
-      "complete": false,
-      "batches_done": 3,
+      "complete": true,
+      "batches_done": 26,
       "total_batches": 26,
-      "last_offset": 300,
-      "last_commit": ""
+      "last_offset": 2500,
+      "last_commit": "1053cdb"
     },
     "asset_scan": {
       "complete": false,
@@ -23,10 +23,10 @@
   },
   "stats": {
     "total_courses_api": 2577,
-    "courses_in_wiki": 304,
+    "courses_in_wiki": 2573,
     "departments": 37,
     "topics": 110,
-    "instructors": 0,
+    "instructors": 2142,
     "crossrefs": 0
   }
 }
