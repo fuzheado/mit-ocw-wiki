@@ -12,6 +12,7 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008|Contemporary Literature: Literature, Development, and Human Rights]] — 21L.488, Spring 2008
 - [[4-s26-territory-spatial-reification-of-power-spring-2016|Territory: Spatial Reification of Power]] — 4.S26, Spring 2016
 - [[11-943j-urban-transportation-land-use-and-the-environment-spring-2002|Urban Transportation, Land Use, and the Environment]] — 11.943J, Spring 2002
 - [[21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015|Writing and Rhetoric: Rhetoric and Contemporary Issues]] — 21W.011, Fall 2015

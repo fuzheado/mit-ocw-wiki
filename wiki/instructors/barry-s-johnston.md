@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[10-490-integrated-chemical-engineering-i-fall-2006|Integrated Chemical Engineering I]]
 - [[10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004|Integrated Chemical Engineering Topics I: Process Control by Design]]
 - [[10-450-process-dynamics-operations-and-control-spring-2006|Process Dynamics, Operations, and Control]]

@@ -12,6 +12,7 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[wgs-225-science-and-race-sex-and-gender-spring-2023|Science of Race, Sex, and Gender]] (WGS.225J)
 - [[hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010|Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies]] (HST.934J)
 - [[6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005|Ethics and the Law on the Electronic Frontier]] (6.805)
 - [[21h-968j-nature-environment-and-empire-spring-2010|Nature, Environment, and Empire]] (21H.968J)

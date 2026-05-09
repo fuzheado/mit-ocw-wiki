@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[16-50-introduction-to-propulsion-systems-spring-2012|Introduction to Propulsion Systems]]
 - [[16-512-rocket-propulsion-fall-2005|Rocket Propulsion]]
 - [[16-522-space-propulsion-spring-2015|Space Propulsion]]

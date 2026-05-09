@@ -10,6 +10,7 @@ courses_count: 0
 
 ## Courses
 
+- [[pe-740-fencing-spring-2007|Fencing]] (PE.740)
 - [[pe-550-designing-your-life-spring-2009|Designing Your Life]] (PE.550)
 - [[pe-920-pe-for-me-spring-2005|PE for ME]] (PE.920)
 - [[pe-910-physical-intelligence-january-iap-2002|Physical Intelligence]] (PE.910)

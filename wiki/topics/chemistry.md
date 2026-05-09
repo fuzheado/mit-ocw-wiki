@@ -12,6 +12,13 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004|Statistical Thermodynamics of Biomolecular Systems (BE.011J)]] — 20.011J, Spring 2004
+- [[5-62-physical-chemistry-ii-spring-2008|Physical Chemistry II]] — 5.62, Spring 2008
+- [[10-490-integrated-chemical-engineering-i-fall-2006|Integrated Chemical Engineering I]] — 10.490, Fall 2006
+- [[12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005|Trace Element Analysis of Geological, Biological & Environmental Materials by Neutron Activation Analysis: An Exposure]] — 12.091, January IAP 2005
+- [[5-310-laboratory-chemistry-fall-2019|Laboratory Chemistry]] — 5.310, Fall 2019
+- [[22-615-mhd-theory-of-fusion-systems-spring-2007|MHD Theory of Fusion Systems]] — 22.615, Spring 2007
+- [[22-616-plasma-transport-theory-fall-2003|Plasma Transport Theory]] — 22.616, Fall 2003
 - [[12-108-structure-of-earth-materials-fall-2004|Structure of Earth Materials]] — 12.108, Fall 2004
 - [[res-5-0001-digital-lab-techniques-manual-spring-2007|Digital Lab Techniques Manual]] — RES.5-0001, Spring 2007
 - [[5-80-small-molecule-spectroscopy-and-dynamics-fall-2008|Small-Molecule Spectroscopy and Dynamics]] — 5.80, Fall 2008

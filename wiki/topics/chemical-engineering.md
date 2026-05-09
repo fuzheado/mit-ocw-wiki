@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[5-62-physical-chemistry-ii-spring-2008|Physical Chemistry II]] — 5.62, Spring 2008
+- [[10-490-integrated-chemical-engineering-i-fall-2006|Integrated Chemical Engineering I]] — 10.490, Fall 2006
+- [[22-616-plasma-transport-theory-fall-2003|Plasma Transport Theory]] — 22.616, Fall 2003
 - [[2-341j-macromolecular-hydrodynamics-spring-2016|Macromolecular Hydrodynamics]] — 2.341J, Spring 2016
 - [[2-27-turbulent-flow-and-transport-spring-2002|Turbulent Flow and Transport]] — 2.27, Spring 2002
 - [[1-061-transport-processes-in-the-environment-fall-2008|Transport Processes in the Environment]] — 1.061, Fall 2008

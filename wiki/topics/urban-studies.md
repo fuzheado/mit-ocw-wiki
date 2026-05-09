@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-201-gateway-planning-action-fall-2005|Gateway: Planning Action]] — 11.201, Fall 2005
+- [[16-72-air-traffic-control-fall-2006|Air Traffic Control]] — 16.72, Fall 2006
+- [[11-949-cities-in-conflict-theory-and-practice-fall-2003|Cities in Conflict: Theory and Practice]] — 11.949, Fall 2003
 - [[11-423-information-and-communication-technologies-in-community-development-spring-2004|Information and Communication Technologies in Community Development]] — 11.423, Spring 2004
 - [[11-952-gaoming-studio-china-spring-2005|Gaoming Studio - China]] — 11.952, Spring 2005
 - [[11-941-disaster-vulnerability-and-resilience-spring-2005|Disaster, Vulnerability and Resilience]] — 11.941, Spring 2005

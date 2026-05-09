@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[1-017-computing-and-data-analysis-for-environmental-applications-fall-2003|Computing and Data Analysis for Environmental Applications]] — 1.017, Fall 2003
+- [[6-871-knowledge-based-applications-systems-spring-2005|Knowledge-Based Applications Systems]] — 6.871, Spring 2005
 - [[6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005|Ethics and the Law on the Electronic Frontier]] — 6.805, Fall 2005
 - [[16-622-experimental-projects-ii-fall-2003|Experimental Projects II]] — 16.622, Fall 2003
 - [[res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020|Mathematics of Big Data and Machine Learning]] — RES.LL-005, January IAP 2020

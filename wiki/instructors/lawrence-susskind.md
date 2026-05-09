@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004|Use of Joint Fact Finding in Science Intensive Policy Disputes, Part II]]
 - [[11-201-gateway-planning-action-fall-2002|Gateway: Planning Action]]
 - [[11-384-malaysia-sustainable-cities-practicum-spring-2018|Malaysia Sustainable Cities Practicum]]
 - [[11-601-introduction-to-environmental-policy-and-planning-fall-2016|Introduction to Environmental Policy and Planning]]

@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016|Gender & Media: Collaborations in Feminism and Technology]] — WGS.111, Spring 2016
+- [[21w-747-rhetoric-spring-2005|Rhetoric]] — 21W.747, Spring 2005
+- [[cms-631-data-storytelling-studio-climate-change-spring-2017|Data Storytelling Studio: Climate Change]] — CMS.631, Spring 2017
 - [[11-423-information-and-communication-technologies-in-community-development-spring-2004|Information and Communication Technologies in Community Development]] — 11.423, Spring 2004
 - [[6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005|Ethics and the Law on the Electronic Frontier]] — 6.805, Fall 2005
 - [[cms-362-civic-media-codesign-studio-spring-2016|Civic Media Codesign Studio]] — CMS.362, Spring 2016

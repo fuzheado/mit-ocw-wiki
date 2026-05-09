@@ -12,6 +12,7 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[cms-631-data-storytelling-studio-climate-change-spring-2017|Data Storytelling Studio: Climate Change]] — CMS.631, Spring 2017
 - [[res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021|Visualizing the Birth of Modern Tokyo]] — RES.21H-001, Spring 2021
 - [[4-343-photography-and-related-media-fall-2002|Photography and Related Media]] — 4.343, Fall 2002
 - [[mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015|Indistinguishable From... Magic as Interface, Technology, and Tradition]] — MAS.S66, Spring 2015

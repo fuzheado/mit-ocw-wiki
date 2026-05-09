@@ -12,6 +12,10 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[15-879-research-seminar-in-system-dynamics-spring-2014|Research Seminar in System Dynamics]] — 15.879, Spring 2014
+- [[esd-260j-logistics-systems-fall-2006|Logistics Systems]] — ESD.260J, Fall 2006
+- [[hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020|Global Health Informatics to Improve Quality of Care]] — HST.936x, Spring 2020
+- [[esd-342-advanced-system-architecture-spring-2006|Advanced System Architecture]] — ESD.342, Spring 2006
 - [[20-109-laboratory-fundamentals-in-biological-engineering-fall-2007|Laboratory Fundamentals in Biological Engineering]] — 20.109, Fall 2007
 - [[4-520-computational-design-i-theory-and-applications-fall-2005|Computational Design I: Theory and Applications]] — 4.520, Fall 2005
 - [[6-252j-nonlinear-programming-spring-2003|Nonlinear Programming]] — 6.252J, Spring 2003

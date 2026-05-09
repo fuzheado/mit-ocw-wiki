@@ -12,6 +12,13 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[3-003-principles-of-engineering-practice-spring-2010|Principles of Engineering Practice]] — 3.003, Spring 2010
+- [[6-974-fundamentals-of-photonics-quantum-electronics-spring-2006|Fundamentals of Photonics: Quantum Electronics]] — 6.974, Spring 2006
+- [[6-012-microelectronic-devices-and-circuits-spring-2009|Microelectronic Devices and Circuits]] — 6.012, Spring 2009
+- [[21m-380-music-and-technology-live-electronics-performance-practices-spring-2011|Music and Technology: Live Electronics Performance Practices]] — 21M.380, Spring 2011
+- [[res-ll-002-adaptive-antennas-and-phased-arrays-spring-2010|Adaptive Antennas and Phased Arrays]] — RES.LL-002, Spring 2010
+- [[3-15-electrical-optical-magnetic-materials-and-devices-fall-2006|Electrical, Optical & Magnetic Materials and Devices]] — 3.15, Fall 2006
+- [[2-007-design-and-manufacturing-i-spring-2009|Design and Manufacturing I]] — 2.007, Spring 2009
 - [[6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011|Introduction to Electrical Engineering and Computer Science I]] — 6.01SC, Spring 2011
 - [[21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016|Music and Technology: Recording Techniques and Audio Production]] — 21M.380, Fall 2016
 - [[6-685-electric-machines-fall-2013|Electric Machines]] — 6.685, Fall 2013

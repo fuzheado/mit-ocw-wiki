@@ -12,6 +12,8 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-941j-the-lexicon-and-its-features-spring-2007|The Lexicon and Its Features]] — 24.941J, Spring 2007
+- [[24-901-language-and-its-structure-i-phonology-fall-2010|Language and Its Structure I: Phonology]] — 24.901, Fall 2010
 - [[24-961-introduction-to-phonology-fall-2014|Introduction to Phonology]] — 24.961, Fall 2014
 - [[24-942-grammar-of-a-less-familiar-language-spring-2003|Grammar of a Less Familiar Language]] — 24.942, Spring 2003
 - [[24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007|Topics in Linguistic Theory: Laboratory Phonology]] — 24.910, Spring 2007

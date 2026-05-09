@@ -12,6 +12,11 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-820-the-beat-of-brazil-brazilian-society-through-its-music-fall-2016|The Beat of Brazil: Brazilian Society Through Its Music]] — 21G.820, Fall 2016
+- [[21m-250-beethoven-to-mahler-spring-2014|Beethoven to Mahler]] — 21M.250, Spring 2014
+- [[21m-011-introduction-to-western-music-spring-2006|Introduction to Western Music]] — 21M.011, Spring 2006
+- [[21m-380-music-and-technology-live-electronics-performance-practices-spring-2011|Music and Technology: Live Electronics Performance Practices]] — 21M.380, Spring 2011
+- [[21m-775-hip-hop-fall-2007|Hip Hop]] — 21M.775, Fall 2007
 - [[21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016|Music and Technology: Recording Techniques and Audio Production]] — 21M.380, Fall 2016
 - [[21m-113-developing-musical-structures-fall-2002|Developing Musical Structures]] — 21M.113, Fall 2002
 - [[21m-295-american-popular-music-fall-2014|American Popular Music]] — 21M.295, Fall 2014

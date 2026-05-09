@@ -12,6 +12,8 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020|Global Health Informatics to Improve Quality of Care]] — HST.936x, Spring 2020
+- [[pe-740-fencing-spring-2007|Fencing]] — PE.740, Spring 2007
 - [[hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010|Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies]] — HST.934J, Spring 2010
 - [[es-s71-increasing-your-physical-intelligence-enhancing-your-social-smarts-spring-2014|Increasing Your Physical Intelligence, Enhancing Your Social Smarts]] — ES.S71, Spring 2014
 - [[pe-920-pe-for-me-spring-2005|PE for ME]] — PE.920, Spring 2005

@@ -12,6 +12,12 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007|Turbulence in the Ocean and Atmosphere]] — 12.820, Spring 2007
+- [[22-312-engineering-of-nuclear-reactors-fall-2015|Engineering of Nuclear Reactors]] — 22.312, Fall 2015
+- [[12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006|Introduction to Fluid Motions, Sediment Transport, and Current-Generated Sedimentary Structures]] — 12.090, Fall 2006
+- [[22-313j-thermal-hydraulics-in-power-technology-spring-2007|Thermal Hydraulics in Power Technology]] — 22.313J, Spring 2007
+- [[2-800-tribology-fall-2004|Tribology]] — 2.800, Fall 2004
+- [[2-007-design-and-manufacturing-i-spring-2009|Design and Manufacturing I]] — 2.007, Spring 2009
 - [[12-108-structure-of-earth-materials-fall-2004|Structure of Earth Materials]] — 12.108, Fall 2004
 - [[2-341j-macromolecular-hydrodynamics-spring-2016|Macromolecular Hydrodynamics]] — 2.341J, Spring 2016
 - [[2-782j-design-of-medical-devices-and-implants-spring-2006|Design of Medical Devices and Implants]] — 2.782J, Spring 2006

@@ -8,6 +8,8 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21l-006-american-literature-spring-2013|American Literature]]
+- [[21l-709-ethnic-literature-in-america-spring-2017|Ethnic Literature in America]]
 - [[21l-421-comedy-spring-2008|Comedy]]
 - [[21l-702-studies-in-fiction-stowe-twain-and-the-transformation-of-19th-century-america-fall-2004|Studies in Fiction: Stowe, Twain, and the Transformation of 19th-Century America]]
 - [[21l-512-american-authors-american-women-authors-spring-2003|American Authors: American Women Authors]]

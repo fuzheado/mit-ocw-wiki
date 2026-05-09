@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-002j-making-public-policy-fall-2014|Making Public Policy]] — 11.002J, Fall 2014
+- [[11-167-economic-development-technical-capabilities-spring-2004|Economic Development & Technical Capabilities]] — 11.167, Spring 2004
+- [[17-584-civil-military-relations-spring-2003|Civil-Military Relations]] — 17.584, Spring 2003
+- [[11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004|Use of Joint Fact Finding in Science Intensive Policy Disputes, Part II]] — 11.942, Spring 2004
+- [[11-949-cities-in-conflict-theory-and-practice-fall-2003|Cities in Conflict: Theory and Practice]] — 11.949, Fall 2003
 - [[6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005|Ethics and the Law on the Electronic Frontier]] — 6.805, Fall 2005
 - [[11-941-disaster-vulnerability-and-resilience-spring-2005|Disaster, Vulnerability and Resilience]] — 11.941, Spring 2005
 - [[11-433j-real-estate-economics-fall-2008|Real Estate Economics]] — 11.433J, Fall 2008

@@ -12,6 +12,9 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[res-2-008-thermodynamics-and-climate-change-summer-2020|Thermodynamics and Climate Change]] — RES.2-008, Summer 2022
+- [[22-313j-thermal-hydraulics-in-power-technology-spring-2007|Thermal Hydraulics in Power Technology]] — 22.313J, Spring 2007
+- [[8-21-the-physics-of-energy-fall-2009|The Physics of Energy]] — 8.21, Fall 2009
 - [[6-685-electric-machines-fall-2013|Electric Machines]] — 6.685, Fall 2013
 - [[8-s271-nuclear-weapons-history-and-future-prospects-spring-2022|Nuclear Weapons – History and Future Prospects]] — 8.S271, Spring 2022
 - [[4-401-environmental-technologies-in-buildings-fall-2018|Environmental Technologies in Buildings]] — 4.401, Fall 2018

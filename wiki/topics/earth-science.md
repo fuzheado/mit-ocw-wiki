@@ -12,6 +12,14 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007|Turbulence in the Ocean and Atmosphere]] — 12.820, Spring 2007
+- [[12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006|Introduction to Fluid Motions, Sediment Transport, and Current-Generated Sedimentary Structures]] — 12.090, Fall 2006
+- [[res-2-008-thermodynamics-and-climate-change-summer-2020|Thermodynamics and Climate Change]] — RES.2-008, Summer 2022
+- [[12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003|Prediction and Predictability in the Atmosphere and Oceans]] — 12.990, Spring 2003
+- [[12-453-crosby-lectures-in-geology-history-of-africa-fall-2005|Crosby Lectures in Geology: History of Africa]] — 12.453, Fall 2005
+- [[8-21-the-physics-of-energy-fall-2009|The Physics of Energy]] — 8.21, Fall 2009
+- [[12-109-petrology-fall-2005|Petrology]] — 12.109, Fall 2005
+- [[12-113-structural-geology-fall-2005|Structural Geology]] — 12.113, Fall 2005
 - [[3-080-economic-environmental-issues-in-materials-selection-fall-2005|Economic & Environmental Issues in Materials Selection]] — 3.080, Fall 2005
 - [[12-108-structure-of-earth-materials-fall-2004|Structure of Earth Materials]] — 12.108, Fall 2004
 - [[21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022|Science Writing and New Media: Writing and the Environment]] — 21W.036, Spring 2022

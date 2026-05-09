@@ -12,6 +12,9 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020|Global Health Informatics to Improve Quality of Care]] — HST.936x, Spring 2020
+- [[6-012-microelectronic-devices-and-circuits-spring-2009|Microelectronic Devices and Circuits]] — 6.012, Spring 2009
+- [[6-871-knowledge-based-applications-systems-spring-2005|Knowledge-Based Applications Systems]] — 6.871, Spring 2005
 - [[6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011|Introduction to Electrical Engineering and Computer Science I]] — 6.01SC, Spring 2011
 - [[6-092-introduction-to-programming-in-java-january-iap-2010|Introduction to Programming in Java]] — 6.092, January IAP 2010
 - [[6-s096-introduction-to-c-and-c-january-iap-2013|Introduction to C and C++]] — 6.S096, January IAP 2013

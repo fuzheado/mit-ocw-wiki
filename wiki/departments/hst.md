@@ -12,6 +12,10 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[hst-131-introduction-to-neuroscience-fall-2005|Introduction to Neuroscience]] (HST.131)
+- [[hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020|Global Health Informatics to Improve Quality of Care]] (HST.936x)
+- [[24-941j-the-lexicon-and-its-features-spring-2007|The Lexicon and Its Features]] (24.941J)
+- [[hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007|Molecular Biology and Genetics in Modern Medicine]] (HST.161)
 - [[hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010|Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies]] (HST.934J)
 - [[hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008|Functional Magnetic Resonance Imaging: Data Acquisition and Analysis]] (HST.583)
 - [[16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006|Aerospace Biomedical and Life Support Engineering]] (16.423J)

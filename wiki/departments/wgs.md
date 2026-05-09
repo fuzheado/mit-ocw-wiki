@@ -12,6 +12,9 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016|Gender & Media: Collaborations in Feminism and Technology]] (WGS.111)
+- [[wgs-225-science-and-race-sex-and-gender-spring-2023|Science of Race, Sex, and Gender]] (WGS.225J)
+- [[wgs-115-gender-and-technology-spring-2013|Gender and Technology]] (WGS.115)
 - [[wgs-s10-history-of-women-in-science-and-engineering-fall-2017|History of Women in Science and Engineering]] (WGS.S10)
 - [[21l-512-american-authors-american-women-authors-spring-2003|American Authors: American Women Authors]] (21L.512)
 - [[21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008|Traditions in American Concert Dance: Gender and Autobiography]] (21M.670)

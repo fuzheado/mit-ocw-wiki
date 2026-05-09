@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[pe-740-fencing-spring-2007|Fencing]]
 - [[pe-730-archery-spring-2006|Archery]]

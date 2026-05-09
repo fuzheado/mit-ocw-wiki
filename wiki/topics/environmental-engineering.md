@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[11-s196-global-freshwater-crisis-spring-2011|Global Freshwater Crisis]] — 11.S196, Spring 2011
+- [[1-017-computing-and-data-analysis-for-environmental-applications-fall-2003|Computing and Data Analysis for Environmental Applications]] — 1.017, Fall 2003
+- [[11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004|Use of Joint Fact Finding in Science Intensive Policy Disputes, Part II]] — 11.942, Spring 2004
 - [[11-952-gaoming-studio-china-spring-2005|Gaoming Studio - China]] — 11.952, Spring 2005
 - [[1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004|Environmental Engineering Masters of Engineering Project]] — 1.782, Fall 2003
 - [[11-122-environment-and-society-fall-2002|Environment and Society]] — 11.122, Fall 2002

@@ -12,6 +12,7 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-458-the-bible-spring-2007|The Bible]] — 21L.458, Spring 2007
 - [[24-00-problems-of-philosophy-fall-2019|Problems of Philosophy]] — 24.00, Fall 2019
 - [[21a-212-myth-ritual-and-symbolism-spring-2004|Myth, Ritual, and Symbolism]] — 21A.212, Spring 2004
 - [[21a-460j-medicine-religion-and-politics-in-africa-and-the-african-diaspora-spring-2005|Medicine, Religion and Politics in Africa and the African Diaspora]] — 21A.460J, Spring 2005

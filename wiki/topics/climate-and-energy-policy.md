@@ -12,6 +12,7 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004|Use of Joint Fact Finding in Science Intensive Policy Disputes, Part II]] — 11.942, Spring 2004
 - [[11-122-environment-and-society-fall-2002|Environment and Society]] — 11.122, Fall 2002
 - [[11-003j-methods-of-policy-analysis-spring-2016|Methods of Policy Analysis]] — 11.003J, Spring 2016
 - [[14-44-energy-economics-spring-2007|Energy Economics]] — 14.44, Spring 2007

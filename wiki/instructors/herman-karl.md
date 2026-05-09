@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004|Use of Joint Fact Finding in Science Intensive Policy Disputes, Part II]]
 - [[11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006|Role of Science and Scientists in Collaborative Approaches to Environmental Policymaking]]
 - [[11-959-reforming-natural-resources-governance-failings-of-scientific-rationalism-and-alternatives-for-building-common-ground-january-iap-2007|Reforming Natural Resources Governance: Failings of Scientific Rationalism and Alternatives for Building Common Ground]]

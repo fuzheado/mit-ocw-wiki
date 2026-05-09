@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[5-310-laboratory-chemistry-fall-2019|Laboratory Chemistry]]
 - [[5-301-chemistry-laboratory-techniques-january-iap-2012|Chemistry Laboratory Techniques]]

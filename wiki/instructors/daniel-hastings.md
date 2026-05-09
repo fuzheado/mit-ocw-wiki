@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[16-a47-the-engineer-of-2020-fall-2009|The Engineer of 2020]]
 - [[16-892j-space-system-architecture-and-design-fall-2004|Space System Architecture and Design]]
 - [[ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005|Integrating Doctoral Seminar on Emerging Technologies]]

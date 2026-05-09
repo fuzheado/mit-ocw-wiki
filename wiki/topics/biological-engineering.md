@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004|Statistical Thermodynamics of Biomolecular Systems (BE.011J)]] — 20.011J, Spring 2004
+- [[20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004|Biomolecular Kinetics and Cellular Dynamics (BE.420J)]] — 20.420J, Fall 2004
+- [[hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007|Molecular Biology and Genetics in Modern Medicine]] — HST.161, Fall 2007
 - [[hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010|Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies]] — HST.934J, Spring 2010
 - [[20-109-laboratory-fundamentals-in-biological-engineering-fall-2007|Laboratory Fundamentals in Biological Engineering]] — 20.109, Fall 2007
 - [[20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006|Foundations of Algorithms and Computational Techniques in Systems Biology]] — 20.482J, Spring 2006

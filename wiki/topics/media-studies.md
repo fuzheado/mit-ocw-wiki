@@ -12,6 +12,11 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-s33-unmanageability-pathless-realities-and-approaches-spring-2015|Unmanageability: Pathless Realities and Approaches]] — 4.S33, Spring 2015
+- [[21h-418-from-print-to-digital-technologies-of-the-word-1450-present-fall-2005|From Print to Digital: Technologies of the Word, 1450-Present]] — 21H.418, Fall 2005
+- [[21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011|Germany Today: Intensive Study of German Language and Culture]] — 21G.405, January IAP 2011
+- [[cms-631-data-storytelling-studio-climate-change-spring-2017|Data Storytelling Studio: Climate Change]] — CMS.631, Spring 2017
+- [[21l-486-modern-drama-spring-2006|Modern Drama]] — 21L.486, Spring 2006
 - [[21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016|Music and Technology: Recording Techniques and Audio Production]] — 21M.380, Fall 2016
 - [[cms-300-introduction-to-videogame-studies-fall-2011|Introduction to Videogame Studies]] — CMS.300, Fall 2011
 - [[4-343-photography-and-related-media-fall-2002|Photography and Related Media]] — 4.343, Fall 2002

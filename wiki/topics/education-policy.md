@@ -12,6 +12,7 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[16-a47-the-engineer-of-2020-fall-2009|The Engineer of 2020]] — 16.A47, Fall 2009
 - [[5-95j-teaching-college-level-science-and-engineering-fall-2015|Teaching College-Level Science and Engineering]] — 5.95J, Fall 2015
 - [[11-126j-economics-of-education-spring-2007|Economics of Education]] — 11.126J, Spring 2007
 - [[11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011|Introduction to Education: Looking Forward and Looking Back on Education]] — 11.124, Fall 2011

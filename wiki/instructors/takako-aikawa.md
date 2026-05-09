@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21g-502-japanese-ii-spring-2020|Japanese II]]
 - [[res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022|Kanji Learning Any Time, Any Place for Japanese V]]
 - [[21g-503-japanese-iii-fall-2019|Japanese III]]
 - [[21g-s55-japanese-v-fall-2022|Japanese V]]

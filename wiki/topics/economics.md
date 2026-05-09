@@ -12,6 +12,13 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[14-30-introduction-to-statistical-methods-in-economics-spring-2009|Introduction to Statistical Methods in Economics]] — 14.30, Spring 2009
+- [[11-167-economic-development-technical-capabilities-spring-2004|Economic Development & Technical Capabilities]] — 11.167, Spring 2004
+- [[15-395-entrepreneurship-without-borders-fall-2016|Entrepreneurship Without Borders]] — 15.395, Fall 2016
+- [[14-731-economic-history-fall-2006|Economic History]] — 14.731, Fall 2006
+- [[11-s196-global-freshwater-crisis-spring-2011|Global Freshwater Crisis]] — 11.S196, Spring 2011
+- [[14-147-topics-in-game-theory-spring-2005|Topics in Game Theory]] — 14.147, Spring 2005
+- [[14-382-econometrics-spring-2017|Econometrics]] — 14.382, Spring 2017
 - [[17-199j-working-in-a-global-economy-fall-2005|Working in a Global Economy]] — 17.199J, Fall 2005
 - [[3-080-economic-environmental-issues-in-materials-selection-fall-2005|Economic & Environmental Issues in Materials Selection]] — 3.080, Fall 2005
 - [[14-384-time-series-analysis-fall-2013|Time Series Analysis]] — 14.384, Fall 2013

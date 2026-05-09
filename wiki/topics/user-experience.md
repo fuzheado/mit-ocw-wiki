@@ -12,6 +12,7 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[21m-380-music-and-technology-live-electronics-performance-practices-spring-2011|Music and Technology: Live Electronics Performance Practices]] — 21M.380, Spring 2011
 - [[16-400-human-factors-engineering-fall-2011|Human Factors Engineering]] — 16.400, Fall 2011
 - [[mas-632-conversational-computer-systems-fall-2008|Conversational Computer Systems]] — MAS.632, Fall 2008
 - [[mas-771-autism-theory-and-technology-spring-2011|Autism Theory and Technology]] — MAS.771, Spring 2011

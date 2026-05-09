@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[18-06-linear-algebra-spring-2010|Linear Algebra]]
 - [[18-06sc-linear-algebra-fall-2011|Linear Algebra]]
 - [[18-085-computational-science-and-engineering-i-fall-2008|Computational Science and Engineering I]]
 - [[res-18-010-a-2020-vision-of-linear-algebra-spring-2020|A Vision of Linear Algebra]]

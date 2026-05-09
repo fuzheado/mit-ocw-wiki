@@ -12,6 +12,8 @@ School: [[school-architecture-planning|School of Architecture and Planning]]
 
 ## Courses
 
+- [[mas-s63-engineering-health-towards-the-tricorder-fall-2013|Engineering Health: Towards the Tricorder]] (MAS.S63)
+- [[cms-631-data-storytelling-studio-climate-change-spring-2017|Data Storytelling Studio: Climate Change]] (CMS.631)
 - [[mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015|Indistinguishable From... Magic as Interface, Technology, and Tradition]] (MAS.S66)
 - [[mas-961-seminar-on-deep-engagement-fall-2004|Seminar on Deep Engagement]] (MAS.961)
 - [[mas-962-the-nature-of-constructionist-learning-spring-2003|The Nature of Constructionist Learning]] (MAS.962)

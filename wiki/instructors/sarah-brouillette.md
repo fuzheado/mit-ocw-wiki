@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008|Contemporary Literature: Literature, Development, and Human Rights]]
 - [[21l-715-media-in-cultural-context-popular-readerships-fall-2007|Media in Cultural Context: Popular Readerships]]

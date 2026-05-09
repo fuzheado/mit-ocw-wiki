@@ -12,6 +12,13 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-006-american-literature-spring-2013|American Literature]] — 21L.006, Spring 2013
+- [[21l-709-ethnic-literature-in-america-spring-2017|Ethnic Literature in America]] — 21L.709, Spring 2017
+- [[21l-458-the-bible-spring-2007|The Bible]] — 21L.458, Spring 2007
+- [[21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008|Contemporary Literature: Literature, Development, and Human Rights]] — 21L.488, Spring 2008
+- [[21w-747-rhetoric-spring-2005|Rhetoric]] — 21W.747, Spring 2005
+- [[21m-710-script-analysis-fall-2005|Script Analysis]] — 21M.710, Fall 2005
+- [[21l-486-modern-drama-spring-2006|Modern Drama]] — 21L.486, Spring 2006
 - [[21l-007-world-literatures-travel-writing-fall-2008|World Literatures: Travel Writing]] — 21L.007, Fall 2008
 - [[21l-460-medieval-literature-legends-of-arthur-fall-2013|Medieval Literature: Legends of Arthur]] — 21L.460, Fall 2013
 - [[21l-421-comedy-spring-2008|Comedy]] — 21L.421, Spring 2008

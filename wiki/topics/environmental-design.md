@@ -12,6 +12,7 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-111-introduction-to-architecture-environmental-design-spring-2014|Introduction to Architecture & Environmental Design]] — 4.111, Spring 2014
 - [[11-952-gaoming-studio-china-spring-2005|Gaoming Studio - China]] — 11.952, Spring 2005
 - [[4-401-environmental-technologies-in-buildings-fall-2018|Environmental Technologies in Buildings]] — 4.401, Fall 2018
 - [[4-171-the-space-between-workshop-fall-2004|The Space Between Workshop]] — 4.171, Fall 2004

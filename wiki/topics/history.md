@@ -12,6 +12,21 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-820-the-beat-of-brazil-brazilian-society-through-its-music-fall-2016|The Beat of Brazil: Brazilian Society Through Its Music]] — 21G.820, Fall 2016
+- [[4-s33-unmanageability-pathless-realities-and-approaches-spring-2015|Unmanageability: Pathless Realities and Approaches]] — 4.S33, Spring 2015
+- [[21h-380j-people-and-other-animals-fall-2013|People and Other Animals]] — 21H.380J, Fall 2013
+- [[wgs-225-science-and-race-sex-and-gender-spring-2023|Science of Race, Sex, and Gender]] — WGS.225J, Spring 2023
+- [[21l-458-the-bible-spring-2007|The Bible]] — 21L.458, Spring 2007
+- [[21g-043j-introduction-to-asian-american-studies-literature-culture-and-historical-experience-fall-2013|Introduction to Asian American Studies: Literature, Culture, and Historical Experience]] — 21G.043J, Fall 2013
+- [[21h-447-nazi-germany-and-the-holocaust-fall-2004|Nazi Germany and the Holocaust]] — 21H.447, Fall 2004
+- [[21h-418-from-print-to-digital-technologies-of-the-word-1450-present-fall-2005|From Print to Digital: Technologies of the Word, 1450-Present]] — 21H.418, Fall 2005
+- [[14-731-economic-history-fall-2006|Economic History]] — 14.731, Fall 2006
+- [[wgs-115-gender-and-technology-spring-2013|Gender and Technology]] — WGS.115, Spring 2013
+- [[12-453-crosby-lectures-in-geology-history-of-africa-fall-2005|Crosby Lectures in Geology: History of Africa]] — 12.453, Fall 2005
+- [[21h-152-modern-china-spring-2022|Modern China]] — 21H.152, Spring 2022
+- [[21h-209-america-in-depression-and-war-spring-2012|America in Depression and War]] — 21H.209, Spring 2012
+- [[21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998|The Making of Russia in the Worlds of Byzantium, Mongolia, and Europe]] — 21H.326, Spring 1998
+- [[21h-221-the-places-of-migration-in-united-states-history-fall-2006|The Places of Migration in United States History]] — 21H.221, Fall 2006
 - [[wgs-s10-history-of-women-in-science-and-engineering-fall-2017|History of Women in Science and Engineering]] — WGS.S10, Fall 2017
 - [[21l-460-medieval-literature-legends-of-arthur-fall-2013|Medieval Literature: Legends of Arthur]] — 21L.460, Fall 2013
 - [[res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021|Visualizing the Birth of Modern Tokyo]] — RES.21H-001, Spring 2021

@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-151-probability-and-statistics-in-engineering-spring-2005|Probability and Statistics in Engineering]] — 1.151, Spring 2005
+- [[8-21-the-physics-of-energy-fall-2009|The Physics of Energy]] — 8.21, Fall 2009
 - [[4-401-environmental-technologies-in-buildings-fall-2018|Environmental Technologies in Buildings]] — 4.401, Fall 2018
 - [[1-225j-transportation-flow-systems-fall-2002|Transportation Flow Systems]] — 1.225J, Fall 2002
 - [[1-011-project-evaluation-spring-2011|Project Evaluation]] — 1.011, Spring 2011

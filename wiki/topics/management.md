@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-879-research-seminar-in-system-dynamics-spring-2014|Research Seminar in System Dynamics]] — 15.879, Spring 2014
+- [[3-003-principles-of-engineering-practice-spring-2010|Principles of Engineering Practice]] — 3.003, Spring 2010
+- [[15-515-financial-accounting-fall-2003|Financial Accounting]] — 15.515, Fall 2003
 - [[15-279-management-communication-for-undergraduates-fall-2012|Management Communication for Undergraduates]] — 15.279, Fall 2012
 - [[15-483-consumer-finance-markets-product-design-and-fintech-spring-2018|Consumer Finance: Markets, Product Design, and FinTech]] — 15.483, Spring 2018
 - [[15-280-communication-for-managers-fall-2016|Communication for Managers]] — 15.280, Fall 2016

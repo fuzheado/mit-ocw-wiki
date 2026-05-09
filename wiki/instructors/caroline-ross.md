@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[3-15-electrical-optical-magnetic-materials-and-devices-fall-2006|Electrical, Optical & Magnetic Materials and Devices]]
 - [[3-15x-electrical-optical-and-magnetic-materials-and-devices-spring-2020|Electrical, Optical, and Magnetic Materials and Devices]]

@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21l-486-modern-drama-spring-2006|Modern Drama]]
 - [[21l-010-writing-with-shakespeare-fall-2010|Writing with Shakespeare]]
 - [[21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005|Studies in Drama: Theater and Science in a Time of War]]
 - [[21l-703-studies-in-drama-stoppard-and-company-spring-2014|Studies in Drama: Stoppard and Company]]

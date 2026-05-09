@@ -2,6 +2,7 @@
 
 ## Courses
 
+- [[6-801-machine-vision-fall-2020|Machine Vision]] — 6.801, Fall 2020
 - [[9-357-special-topics-in-vision-science-fall-2001|Special Topics in Vision Science]] — 9.357, Fall 2001
 - [[6-837-computer-graphics-fall-2012|Computer Graphics]] — 6.837, Fall 2012
 - [[11-205-introduction-to-spatial-analysis-fall-2019|Introduction to Spatial Analysis]] — 11.205, Fall 2019

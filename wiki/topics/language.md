@@ -12,6 +12,9 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-820-the-beat-of-brazil-brazilian-society-through-its-music-fall-2016|The Beat of Brazil: Brazilian Society Through Its Music]] — 21G.820, Fall 2016
+- [[21g-502-japanese-ii-spring-2020|Japanese II]] — 21G.502, Spring 2020
+- [[21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011|Germany Today: Intensive Study of German Language and Culture]] — 21G.405, January IAP 2011
 - [[21g-701-spanish-i-fall-2003|Spanish I]] — 21G.701, Fall 2003
 - [[21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007|Advanced Workshop in Writing for Social Sciences and Architecture (ELS)]] — 21G.228, Spring 2007
 - [[es-s41-speak-italian-with-your-mouth-full-spring-2012|Speak Italian With Your Mouth Full]] — ES.S41, Spring 2012

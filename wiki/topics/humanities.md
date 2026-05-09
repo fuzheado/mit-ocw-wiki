@@ -20,6 +20,37 @@ courses_count: 0
 
 ## Courses
 
+- [[21g-820-the-beat-of-brazil-brazilian-society-through-its-music-fall-2016|The Beat of Brazil: Brazilian Society Through Its Music]] — 21G.820, Fall 2016
+- [[4-s33-unmanageability-pathless-realities-and-approaches-spring-2015|Unmanageability: Pathless Realities and Approaches]] — 4.S33, Spring 2015
+- [[21l-006-american-literature-spring-2013|American Literature]] — 21L.006, Spring 2013
+- [[21h-380j-people-and-other-animals-fall-2013|People and Other Animals]] — 21H.380J, Fall 2013
+- [[21m-250-beethoven-to-mahler-spring-2014|Beethoven to Mahler]] — 21M.250, Spring 2014
+- [[21l-709-ethnic-literature-in-america-spring-2017|Ethnic Literature in America]] — 21L.709, Spring 2017
+- [[wgs-225-science-and-race-sex-and-gender-spring-2023|Science of Race, Sex, and Gender]] — WGS.225J, Spring 2023
+- [[17-584-civil-military-relations-spring-2003|Civil-Military Relations]] — 17.584, Spring 2003
+- [[21l-458-the-bible-spring-2007|The Bible]] — 21L.458, Spring 2007
+- [[21m-011-introduction-to-western-music-spring-2006|Introduction to Western Music]] — 21M.011, Spring 2006
+- [[21g-043j-introduction-to-asian-american-studies-literature-culture-and-historical-experience-fall-2013|Introduction to Asian American Studies: Literature, Culture, and Historical Experience]] — 21G.043J, Fall 2013
+- [[21h-447-nazi-germany-and-the-holocaust-fall-2004|Nazi Germany and the Holocaust]] — 21H.447, Fall 2004
+- [[21h-418-from-print-to-digital-technologies-of-the-word-1450-present-fall-2005|From Print to Digital: Technologies of the Word, 1450-Present]] — 21H.418, Fall 2005
+- [[21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008|Contemporary Literature: Literature, Development, and Human Rights]] — 21L.488, Spring 2008
+- [[21g-502-japanese-ii-spring-2020|Japanese II]] — 21G.502, Spring 2020
+- [[24-941j-the-lexicon-and-its-features-spring-2007|The Lexicon and Its Features]] — 24.941J, Spring 2007
+- [[14-731-economic-history-fall-2006|Economic History]] — 14.731, Fall 2006
+- [[wgs-115-gender-and-technology-spring-2013|Gender and Technology]] — WGS.115, Spring 2013
+- [[12-453-crosby-lectures-in-geology-history-of-africa-fall-2005|Crosby Lectures in Geology: History of Africa]] — 12.453, Fall 2005
+- [[21m-380-music-and-technology-live-electronics-performance-practices-spring-2011|Music and Technology: Live Electronics Performance Practices]] — 21M.380, Spring 2011
+- [[21w-747-rhetoric-spring-2005|Rhetoric]] — 21W.747, Spring 2005
+- [[21m-775-hip-hop-fall-2007|Hip Hop]] — 21M.775, Fall 2007
+- [[21m-710-script-analysis-fall-2005|Script Analysis]] — 21M.710, Fall 2005
+- [[21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011|Germany Today: Intensive Study of German Language and Culture]] — 21G.405, January IAP 2011
+- [[21h-152-modern-china-spring-2022|Modern China]] — 21H.152, Spring 2022
+- [[21h-209-america-in-depression-and-war-spring-2012|America in Depression and War]] — 21H.209, Spring 2012
+- [[21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998|The Making of Russia in the Worlds of Byzantium, Mongolia, and Europe]] — 21H.326, Spring 1998
+- [[21h-221-the-places-of-migration-in-united-states-history-fall-2006|The Places of Migration in United States History]] — 21H.221, Fall 2006
+- [[11-949-cities-in-conflict-theory-and-practice-fall-2003|Cities in Conflict: Theory and Practice]] — 11.949, Fall 2003
+- [[21l-486-modern-drama-spring-2006|Modern Drama]] — 21L.486, Spring 2006
+- [[24-901-language-and-its-structure-i-phonology-fall-2010|Language and Its Structure I: Phonology]] — 24.901, Fall 2010
 - [[hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010|Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies]] — HST.934J, Spring 2010
 - [[21l-007-world-literatures-travel-writing-fall-2008|World Literatures: Travel Writing]] — 21L.007, Fall 2008
 - [[21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016|Music and Technology: Recording Techniques and Audio Production]] — 21M.380, Fall 2016

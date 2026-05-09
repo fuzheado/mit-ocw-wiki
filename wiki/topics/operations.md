@@ -12,6 +12,8 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-879-research-seminar-in-system-dynamics-spring-2014|Research Seminar in System Dynamics]] — 15.879, Spring 2014
+- [[esd-260j-logistics-systems-fall-2006|Logistics Systems]] — ESD.260J, Fall 2006
 - [[15-764-the-theory-of-operations-management-spring-2004|The Theory of Operations Management]] — 15.764, Spring 2004
 - [[15-521-management-accounting-and-control-spring-2003|Management Accounting and Control]] — 15.521, Spring 2003
 - [[16-812-the-aerospace-industry-spring-2004|The Aerospace Industry]] — 16.812, Spring 2004

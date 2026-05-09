@@ -12,6 +12,21 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[res-18-006-calculus-revisited-single-variable-calculus-fall-2010|Calculus Revisited: Single Variable Calculus]] — RES.18-006, Fall 2010
+- [[18-726-algebraic-geometry-spring-2009|Algebraic Geometry]] — 18.726, Spring 2009
+- [[14-30-introduction-to-statistical-methods-in-economics-spring-2009|Introduction to Statistical Methods in Economics]] — 14.30, Spring 2009
+- [[18-175-theory-of-probability-spring-2014|Theory of Probability]] — 18.175, Spring 2014
+- [[18-06-linear-algebra-spring-2010|Linear Algebra]] — 18.06, Spring 2010
+- [[res-18-007-calculus-revisited-multivariable-calculus-fall-2011|Calculus Revisited: Multivariable Calculus]] — RES.18-007, Fall 2011
+- [[1-151-probability-and-statistics-in-engineering-spring-2005|Probability and Statistics in Engineering]] — 1.151, Spring 2005
+- [[18-996-random-matrix-theory-and-its-applications-spring-2004|Random Matrix Theory and Its Applications]] — 18.996, Spring 2004
+- [[res-8-010-introduction-to-statistical-physics-summer-2018|Introduction to Statistical Physics]] — RES.8-010, Summer 2018
+- [[12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003|Prediction and Predictability in the Atmosphere and Oceans]] — 12.990, Spring 2003
+- [[18-100c-real-analysis-fall-2012|Real Analysis]] — 18.100C, Fall 2012
+- [[18-04-complex-variables-with-applications-fall-1999|Complex Variables with Applications]] — 18.04, Fall 1999
+- [[15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016|How to Win at Texas Hold'em Poker]] — 15.S50, January IAP 2016
+- [[1-017-computing-and-data-analysis-for-environmental-applications-fall-2003|Computing and Data Analysis for Environmental Applications]] — 1.017, Fall 2003
+- [[18-102-introduction-to-functional-analysis-spring-2021|Introduction to Functional Analysis]] — 18.102, Spring 2021
 - [[14-384-time-series-analysis-fall-2013|Time Series Analysis]] — 14.384, Fall 2013
 - [[18-408-topics-in-theoretical-computer-science-probabilistically-checkable-proofs-fall-2022|Topics in Theoretical Computer Science: Probabilistically Checkable Proofs]] — 18.408, Fall 2022
 - [[18-821-project-laboratory-in-mathematics-spring-2013|Project Laboratory in Mathematics]] — 18.821, Spring 2013

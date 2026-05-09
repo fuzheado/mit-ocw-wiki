@@ -10,6 +10,8 @@ courses_count: 0
 
 ## Courses
 
+- [[esd-260j-logistics-systems-fall-2006|Logistics Systems]] (ESD.260J)
+- [[esd-342-advanced-system-architecture-spring-2006|Advanced System Architecture]] (ESD.342)
 - [[11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007|Regional Socioeconomic Impact Analyses and Modeling]] (11.482J)
 - [[1-225j-transportation-flow-systems-fall-2002|Transportation Flow Systems]] (1.225J)
 - [[esd-33-systems-engineering-summer-2010|Systems Engineering]] (ESD.33)

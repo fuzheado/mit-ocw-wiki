@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[22-312-engineering-of-nuclear-reactors-fall-2015|Engineering of Nuclear Reactors]] — 22.312, Fall 2015
+- [[22-313j-thermal-hydraulics-in-power-technology-spring-2007|Thermal Hydraulics in Power Technology]] — 22.313J, Spring 2007
 - [[22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005|Photon and Neutron Scattering Spectroscopy and Its Applications in Condensed Matter]] — 22.903, Spring 2005
 - [[12-091-radon-research-in-multidisciplines-a-review-january-iap-2007|Radon Research in Multidisciplines: A Review]] — 12.091, January IAP 2007
 - [[res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015|Reducing the Danger of Nuclear Weapons and Proliferation]] — RES.8-004, January IAP 2015

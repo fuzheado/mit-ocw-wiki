@@ -25,6 +25,37 @@ courses_count: 0
 
 ## Courses
 
+- [[15-879-research-seminar-in-system-dynamics-spring-2014|Research Seminar in System Dynamics]] — 15.879, Spring 2014
+- [[esd-260j-logistics-systems-fall-2006|Logistics Systems]] — ESD.260J, Fall 2006
+- [[20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004|Statistical Thermodynamics of Biomolecular Systems (BE.011J)]] — 20.011J, Spring 2004
+- [[20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004|Biomolecular Kinetics and Cellular Dynamics (BE.420J)]] — 20.420J, Fall 2004
+- [[6-801-machine-vision-fall-2020|Machine Vision]] — 6.801, Fall 2020
+- [[5-62-physical-chemistry-ii-spring-2008|Physical Chemistry II]] — 5.62, Spring 2008
+- [[3-003-principles-of-engineering-practice-spring-2010|Principles of Engineering Practice]] — 3.003, Spring 2010
+- [[6-974-fundamentals-of-photonics-quantum-electronics-spring-2006|Fundamentals of Photonics: Quantum Electronics]] — 6.974, Spring 2006
+- [[hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020|Global Health Informatics to Improve Quality of Care]] — HST.936x, Spring 2020
+- [[12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007|Turbulence in the Ocean and Atmosphere]] — 12.820, Spring 2007
+- [[22-312-engineering-of-nuclear-reactors-fall-2015|Engineering of Nuclear Reactors]] — 22.312, Fall 2015
+- [[1-151-probability-and-statistics-in-engineering-spring-2005|Probability and Statistics in Engineering]] — 1.151, Spring 2005
+- [[12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006|Introduction to Fluid Motions, Sediment Transport, and Current-Generated Sedimentary Structures]] — 12.090, Fall 2006
+- [[10-490-integrated-chemical-engineering-i-fall-2006|Integrated Chemical Engineering I]] — 10.490, Fall 2006
+- [[esd-342-advanced-system-architecture-spring-2006|Advanced System Architecture]] — ESD.342, Spring 2006
+- [[22-313j-thermal-hydraulics-in-power-technology-spring-2007|Thermal Hydraulics in Power Technology]] — 22.313J, Spring 2007
+- [[16-72-air-traffic-control-fall-2006|Air Traffic Control]] — 16.72, Fall 2006
+- [[16-50-introduction-to-propulsion-systems-spring-2012|Introduction to Propulsion Systems]] — 16.50, Spring 2012
+- [[6-012-microelectronic-devices-and-circuits-spring-2009|Microelectronic Devices and Circuits]] — 6.012, Spring 2009
+- [[21m-380-music-and-technology-live-electronics-performance-practices-spring-2011|Music and Technology: Live Electronics Performance Practices]] — 21M.380, Spring 2011
+- [[8-21-the-physics-of-energy-fall-2009|The Physics of Energy]] — 8.21, Fall 2009
+- [[res-ll-002-adaptive-antennas-and-phased-arrays-spring-2010|Adaptive Antennas and Phased Arrays]] — RES.LL-002, Spring 2010
+- [[11-s196-global-freshwater-crisis-spring-2011|Global Freshwater Crisis]] — 11.S196, Spring 2011
+- [[3-15-electrical-optical-magnetic-materials-and-devices-fall-2006|Electrical, Optical & Magnetic Materials and Devices]] — 3.15, Fall 2006
+- [[22-616-plasma-transport-theory-fall-2003|Plasma Transport Theory]] — 22.616, Fall 2003
+- [[2-800-tribology-fall-2004|Tribology]] — 2.800, Fall 2004
+- [[2-007-design-and-manufacturing-i-spring-2009|Design and Manufacturing I]] — 2.007, Spring 2009
+- [[1-017-computing-and-data-analysis-for-environmental-applications-fall-2003|Computing and Data Analysis for Environmental Applications]] — 1.017, Fall 2003
+- [[6-871-knowledge-based-applications-systems-spring-2005|Knowledge-Based Applications Systems]] — 6.871, Spring 2005
+- [[hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007|Molecular Biology and Genetics in Modern Medicine]] — HST.161, Fall 2007
+- [[11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004|Use of Joint Fact Finding in Science Intensive Policy Disputes, Part II]] — 11.942, Spring 2004
 - [[22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005|Photon and Neutron Scattering Spectroscopy and Its Applications in Condensed Matter]] — 22.903, Spring 2005
 - [[6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011|Introduction to Electrical Engineering and Computer Science I]] — 6.01SC, Spring 2011
 - [[3-080-economic-environmental-issues-in-materials-selection-fall-2005|Economic & Environmental Issues in Materials Selection]] — 3.080, Fall 2005

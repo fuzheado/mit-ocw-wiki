@@ -12,6 +12,17 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21h-380j-people-and-other-animals-fall-2013|People and Other Animals]] — 21H.380J, Fall 2013
+- [[wgs-225-science-and-race-sex-and-gender-spring-2023|Science of Race, Sex, and Gender]] — WGS.225J, Spring 2023
+- [[21g-043j-introduction-to-asian-american-studies-literature-culture-and-historical-experience-fall-2013|Introduction to Asian American Studies: Literature, Culture, and Historical Experience]] — 21G.043J, Fall 2013
+- [[21h-447-nazi-germany-and-the-holocaust-fall-2004|Nazi Germany and the Holocaust]] — 21H.447, Fall 2004
+- [[21a-104-memory-culture-forgetting-spring-2016|Memory, Culture, Forgetting]] — 21A.104, Spring 2016
+- [[21m-775-hip-hop-fall-2007|Hip Hop]] — 21M.775, Fall 2007
+- [[21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011|Germany Today: Intensive Study of German Language and Culture]] — 21G.405, January IAP 2011
+- [[cms-631-data-storytelling-studio-climate-change-spring-2017|Data Storytelling Studio: Climate Change]] — CMS.631, Spring 2017
+- [[21h-209-america-in-depression-and-war-spring-2012|America in Depression and War]] — 21H.209, Spring 2012
+- [[21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998|The Making of Russia in the Worlds of Byzantium, Mongolia, and Europe]] — 21H.326, Spring 1998
+- [[21h-221-the-places-of-migration-in-united-states-history-fall-2006|The Places of Migration in United States History]] — 21H.221, Fall 2006
 - [[11-329-social-theory-and-the-city-fall-2005|Social Theory and the City]] — 11.329, Fall 2005
 - [[21a-270-anthropology-through-speculative-fiction-fall-2009|Anthropology Through Speculative Fiction]] — 21A.270, Fall 2009
 - [[21a-453-anthropology-of-the-middle-east-spring-2004|Anthropology of the Middle East]] — 21A.453, Spring 2004

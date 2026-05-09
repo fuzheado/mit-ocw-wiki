@@ -12,6 +12,8 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[res-2-008-thermodynamics-and-climate-change-summer-2020|Thermodynamics and Climate Change]] — RES.2-008, Summer 2022
+- [[8-21-the-physics-of-energy-fall-2009|The Physics of Energy]] — 8.21, Fall 2009
 - [[18-s191-introduction-to-computational-thinking-fall-2020|Introduction to Computational Thinking]] — 18.S191, Fall 2020
 - [[11-947-sustainable-economic-development-spring-2004|Sustainable Economic Development]] — 11.947, Spring 2004
 - [[4-183-sustainable-design-and-technology-research-workshop-spring-2004|Sustainable Design and Technology Research Workshop]] — 4.183, Spring 2004

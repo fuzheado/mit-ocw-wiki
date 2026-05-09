@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[14-731-economic-history-fall-2006|Economic History]]
 - [[14-71-economic-history-of-financial-crises-fall-2009|Economic History of Financial Crises]]

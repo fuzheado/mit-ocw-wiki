@@ -12,6 +12,17 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21g-820-the-beat-of-brazil-brazilian-society-through-its-music-fall-2016|The Beat of Brazil: Brazilian Society Through Its Music]] — 21G.820, Fall 2016
+- [[4-s33-unmanageability-pathless-realities-and-approaches-spring-2015|Unmanageability: Pathless Realities and Approaches]] — 4.S33, Spring 2015
+- [[wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016|Gender & Media: Collaborations in Feminism and Technology]] — WGS.111, Spring 2016
+- [[wgs-225-science-and-race-sex-and-gender-spring-2023|Science of Race, Sex, and Gender]] — WGS.225J, Spring 2023
+- [[17-271-mass-incarceration-in-the-united-states-fall-2020|Mass Incarceration in the United States]] — 17.271, Fall 2020
+- [[21g-043j-introduction-to-asian-american-studies-literature-culture-and-historical-experience-fall-2013|Introduction to Asian American Studies: Literature, Culture, and Historical Experience]] — 21G.043J, Fall 2013
+- [[21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008|Contemporary Literature: Literature, Development, and Human Rights]] — 21L.488, Spring 2008
+- [[wgs-115-gender-and-technology-spring-2013|Gender and Technology]] — WGS.115, Spring 2013
+- [[21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011|Germany Today: Intensive Study of German Language and Culture]] — 21G.405, January IAP 2011
+- [[21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998|The Making of Russia in the Worlds of Byzantium, Mongolia, and Europe]] — 21H.326, Spring 1998
+- [[11-949-cities-in-conflict-theory-and-practice-fall-2003|Cities in Conflict: Theory and Practice]] — 11.949, Fall 2003
 - [[11-423-information-and-communication-technologies-in-community-development-spring-2004|Information and Communication Technologies in Community Development]] — 11.423, Spring 2004
 - [[wgs-s10-history-of-women-in-science-and-engineering-fall-2017|History of Women in Science and Engineering]] — WGS.S10, Fall 2017
 - [[cms-362-civic-media-codesign-studio-spring-2016|Civic Media Codesign Studio]] — CMS.362, Spring 2016

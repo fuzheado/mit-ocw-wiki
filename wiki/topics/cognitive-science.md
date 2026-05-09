@@ -12,6 +12,7 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[24-941j-the-lexicon-and-its-features-spring-2007|The Lexicon and Its Features]] — 24.941J, Spring 2007
 - [[9-520-statistical-learning-theory-and-applications-spring-2006|Statistical Learning Theory and Applications]] — 9.520, Spring 2006
 - [[21l-448j-darwin-and-design-fall-2003|Darwin and Design]] — 21L.448J, Fall 2003
 - [[9-13-the-human-brain-spring-2019|The Human Brain]] — 9.13, Spring 2019

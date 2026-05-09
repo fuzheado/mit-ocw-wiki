@@ -12,6 +12,10 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-002j-making-public-policy-fall-2014|Making Public Policy]] — 11.002J, Fall 2014
+- [[17-584-civil-military-relations-spring-2003|Civil-Military Relations]] — 17.584, Spring 2003
+- [[21h-447-nazi-germany-and-the-holocaust-fall-2004|Nazi Germany and the Holocaust]] — 21H.447, Fall 2004
+- [[21h-209-america-in-depression-and-war-spring-2012|America in Depression and War]] — 21H.209, Spring 2012
 - [[17-199j-working-in-a-global-economy-fall-2005|Working in a Global Economy]] — 17.199J, Fall 2005
 - [[11-941-disaster-vulnerability-and-resilience-spring-2005|Disaster, Vulnerability and Resilience]] — 11.941, Spring 2005
 - [[cms-362-civic-media-codesign-studio-spring-2016|Civic Media Codesign Studio]] — CMS.362, Spring 2016

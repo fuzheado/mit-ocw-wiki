@@ -12,6 +12,8 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21w-747-rhetoric-spring-2005|Rhetoric]] (21W.747)
+- [[cms-631-data-storytelling-studio-climate-change-spring-2017|Data Storytelling Studio: Climate Change]] (CMS.631)
 - [[cms-362-civic-media-codesign-studio-spring-2016|Civic Media Codesign Studio]] (CMS.362)
 - [[21w-735-writing-and-reading-the-essay-fall-2004|Writing and Reading the Essay]] (21W.735)
 - [[21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022|Science Writing and New Media: Writing and the Environment]] (21W.036)

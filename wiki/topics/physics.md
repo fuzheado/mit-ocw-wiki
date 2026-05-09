@@ -12,6 +12,22 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[8-09-classical-mechanics-iii-fall-2014|Classical Mechanics III]] — 8.09, Fall 2014
+- [[20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004|Statistical Thermodynamics of Biomolecular Systems (BE.011J)]] — 20.011J, Spring 2004
+- [[5-62-physical-chemistry-ii-spring-2008|Physical Chemistry II]] — 5.62, Spring 2008
+- [[6-974-fundamentals-of-photonics-quantum-electronics-spring-2006|Fundamentals of Photonics: Quantum Electronics]] — 6.974, Spring 2006
+- [[8-421-atomic-and-optical-physics-i-spring-2014|Atomic and Optical Physics I]] — 8.421, Spring 2014
+- [[22-312-engineering-of-nuclear-reactors-fall-2015|Engineering of Nuclear Reactors]] — 22.312, Fall 2015
+- [[res-8-010-introduction-to-statistical-physics-summer-2018|Introduction to Statistical Physics]] — RES.8-010, Summer 2018
+- [[res-2-008-thermodynamics-and-climate-change-summer-2020|Thermodynamics and Climate Change]] — RES.2-008, Summer 2022
+- [[12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005|Trace Element Analysis of Geological, Biological & Environmental Materials by Neutron Activation Analysis: An Exposure]] — 12.091, January IAP 2005
+- [[22-313j-thermal-hydraulics-in-power-technology-spring-2007|Thermal Hydraulics in Power Technology]] — 22.313J, Spring 2007
+- [[8-21-the-physics-of-energy-fall-2009|The Physics of Energy]] — 8.21, Fall 2009
+- [[res-ll-002-adaptive-antennas-and-phased-arrays-spring-2010|Adaptive Antennas and Phased Arrays]] — RES.LL-002, Spring 2010
+- [[22-615-mhd-theory-of-fusion-systems-spring-2007|MHD Theory of Fusion Systems]] — 22.615, Spring 2007
+- [[3-15-electrical-optical-magnetic-materials-and-devices-fall-2006|Electrical, Optical & Magnetic Materials and Devices]] — 3.15, Fall 2006
+- [[22-616-plasma-transport-theory-fall-2003|Plasma Transport Theory]] — 22.616, Fall 2003
+- [[2-800-tribology-fall-2004|Tribology]] — 2.800, Fall 2004
 - [[22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005|Photon and Neutron Scattering Spectroscopy and Its Applications in Condensed Matter]] — 22.903, Spring 2005
 - [[8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014|Statistical Mechanics II: Statistical Physics of Fields]] — 8.334, Spring 2014
 - [[8-701-introduction-to-nuclear-and-particle-physics-fall-2020|Introduction to Nuclear and Particle Physics]] — 8.701, Fall 2020

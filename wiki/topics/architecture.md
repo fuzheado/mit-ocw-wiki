@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-111-introduction-to-architecture-environmental-design-spring-2014|Introduction to Architecture & Environmental Design]] — 4.111, Spring 2014
+- [[4-210-precedents-in-critical-practice-fall-2012|Precedents in Critical Practice]] — 4.210, Fall 2012
+- [[4-273-introduction-to-design-inquiry-fall-2004|Introduction to Design Inquiry]] — 4.273, Fall 2004
 - [[11-952-gaoming-studio-china-spring-2005|Gaoming Studio - China]] — 11.952, Spring 2005
 - [[4-520-computational-design-i-theory-and-applications-fall-2005|Computational Design I: Theory and Applications]] — 4.520, Fall 2005
 - [[4-107-march-portfolio-seminar-fall-2003|MArch Portfolio Seminar]] — 4.107, Fall 2003

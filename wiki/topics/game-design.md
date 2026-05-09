@@ -12,6 +12,7 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[cms-631-data-storytelling-studio-climate-change-spring-2017|Data Storytelling Studio: Climate Change]] — CMS.631, Spring 2017
 - [[cms-300-introduction-to-videogame-studies-fall-2011|Introduction to Videogame Studies]] — CMS.300, Fall 2011
 - [[mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015|Indistinguishable From... Magic as Interface, Technology, and Tradition]] — MAS.S66, Spring 2015
 - [[cms-608-game-design-fall-2010|Game Design]] — CMS.608, Fall 2010
