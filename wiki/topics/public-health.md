@@ -12,6 +12,7 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[15-s07-globalhealth-lab-spring-2013|GlobalHealth Lab]] — 15.S07, Spring 2013
 - [[ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010|D-Lab: Medical Technologies for the Developing World]] — EC.710, Spring 2010
 - [[wgs-s10-black-feminist-health-science-studies-spring-2021|Black Feminist Health Science Studies]] — WGS.S10, Spring 2021
 - [[21a-460j-medicine-religion-and-politics-in-africa-and-the-african-diaspora-spring-2005|Medicine, Religion and Politics in Africa and the African Diaspora]] — 21A.460J, Spring 2005

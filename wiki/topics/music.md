@@ -12,6 +12,7 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21m-250-schubert-to-debussy-fall-2006|Schubert to Debussy]] — 21M.250, Fall 2006
 - [[21m-380-music-and-technology-sound-design-spring-2016|Music and Technology: Sound Design]] — 21M.380, Spring 2016
 - [[21m-299-the-beatles-fall-2017|The Beatles]] — 21M.299, Fall 2017
 - [[21m-030-introduction-to-world-music-spring-2013|Introduction to World Music]] — 21M.030, Spring 2013

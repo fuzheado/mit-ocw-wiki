@@ -12,6 +12,10 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[12-811-tropical-meteorology-spring-2011|Tropical Meteorology]] — 12.811, Spring 2011
+- [[res-env-006-teaching-with-sustainability-january-iap-2022|Teaching with Sustainability]] — RES.ENV-006, January IAP 2022
+- [[ec-s06-prototypes-to-products-fall-2005|Prototypes to Products]] — EC.S06, Fall 2005
+- [[11-952-foshan-china-workshop-spring-2004|Foshan China Workshop]] — 11.952, Spring 2004
 - [[17-441-international-politics-and-climate-change-fall-2007|International Politics and Climate Change]] — 17.441, Fall 2007
 - [[12-340-global-warming-science-spring-2012|Global Warming Science]] — 12.340, Spring 2012
 - [[21h-421-introduction-to-environmental-history-spring-2011|Introduction to Environmental History]] — 21H.421, Spring 2011

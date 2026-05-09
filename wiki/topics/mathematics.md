@@ -12,6 +12,20 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[18-783-elliptic-curves-spring-2021|Elliptic Curves]] — 18.783, Spring 2021
+- [[18-385j-nonlinear-dynamics-and-chaos-fall-2014|Nonlinear Dynamics and Chaos]] — 18.385J, Fall 2014
+- [[18-338j-infinite-random-matrix-theory-fall-2004|Infinite Random Matrix Theory]] — 18.338J, Fall 2004
+- [[15-075j-statistical-thinking-and-data-analysis-fall-2011|Statistical Thinking and Data Analysis]] — 15.075J, Fall 2011
+- [[18-904-seminar-in-topology-spring-2011|Seminar in Topology]] — 18.904, Spring 2011
+- [[6-432-stochastic-processes-detection-and-estimation-spring-2004|Stochastic Processes, Detection, and Estimation]] — 6.432, Spring 2004
+- [[18-786-topics-in-algebraic-number-theory-spring-2006|Topics in Algebraic Number Theory]] — 18.786, Spring 2006
+- [[6-080-great-ideas-in-theoretical-computer-science-spring-2008|Great Ideas in Theoretical Computer Science]] — 6.080, Spring 2008
+- [[18-091-mathematical-exposition-spring-2005|Mathematical Exposition]] — 18.091, Spring 2005
+- [[18-s66-the-art-of-counting-spring-2003|The Art of Counting]] — 18.S66, Spring 2003
+- [[esd-70j-engineering-economy-module-fall-2009|Engineering Economy Module]] — ESD.70J, Fall 2009
+- [[2-852-manufacturing-systems-analysis-spring-2010|Manufacturing Systems Analysis]] — 2.852, Spring 2010
+- [[18-310-principles-of-discrete-applied-mathematics-fall-2013|Principles of Discrete Applied Mathematics]] — 18.310, Fall 2013
+- [[6-845-quantum-complexity-theory-fall-2010|Quantum Complexity Theory]] — 6.845, Fall 2010
 - [[18-900-geometry-and-topology-in-the-plane-spring-2023|Geometry and Topology in the Plane]] — 18.900, Spring 2023
 - [[18-996a-simplicity-theory-spring-2004|Simplicity Theory]] — 18.996A, Spring 2004
 - [[15-053-optimization-methods-in-management-science-spring-2013|Optimization Methods in Management Science]] — 15.053, Spring 2013

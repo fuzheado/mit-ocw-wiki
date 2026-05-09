@@ -12,6 +12,7 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-954-pragmatics-in-linguistic-theory-fall-2006|Pragmatics in Linguistic Theory]] — 24.954, Fall 2006
 - [[6-541j-speech-communication-spring-2004|Speech Communication]] — 6.541J, Spring 2004
 - [[24-979-topics-in-semantics-negative-polarity-items-fall-2018|Topics in Semantics: Negative Polarity Items]] — 24.979, Fall 2018
 - [[21a-212-myth-ritual-and-symbolism-spring-2004|Myth, Ritual, and Symbolism]] — 21A.212, Spring 2004

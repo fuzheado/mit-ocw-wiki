@@ -10,6 +10,7 @@ courses_count: 0
 
 ## Courses
 
+- [[ec-s06-prototypes-to-products-fall-2005|Prototypes to Products]] (EC.S06)
 - [[ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010|Recreate Experiments from History: Inform the Future from the Past: Galileo]] (EC.050)
 - [[ec-s06-design-for-demining-spring-2007|Design for Demining]] (EC.S06)
 - [[ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010|D-Lab: Medical Technologies for the Developing World]] (EC.710)

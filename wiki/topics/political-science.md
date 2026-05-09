@@ -12,6 +12,14 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007|American Science: Ethical Conflicts and Political Choices]] — STS.011, Fall 2007
+- [[17-269-race-ethnicity-and-american-politics-spring-2017|Race, Ethnicity, and American Politics]] — 17.269, Spring 2017
+- [[11-483-housing-and-land-use-in-rapidly-urbanizing-regions-fall-2011|Housing and Land Use in Rapidly Urbanizing Regions]] — 11.483, Fall 2011
+- [[17-55j-introduction-to-latin-american-studies-fall-2006|Introduction to Latin American Studies]] — 17.55J, Fall 2006
+- [[11-409-institutions-of-modern-capitalism-spring-2020|Institutions of Modern Capitalism]] — 11.409, Spring 2020
+- [[11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007|Doctoral Research Seminar: Knowledge in the Public Arena]] — 11.800, Spring 2007
+- [[wgs-s10-reproductive-politics-in-the-united-states-spring-2013|Reproductive Politics in the United States]] — WGS.S10, Spring 2013
+- [[17-588-field-seminar-in-comparative-politics-fall-2013|Field Seminar in Comparative Politics]] — 17.588, Fall 2013
 - [[17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009|Chinese Foreign Policy: International Relations and Strategy]] — 17.407, Spring 2009
 - [[17-441-international-politics-and-climate-change-fall-2007|International Politics and Climate Change]] — 17.441, Fall 2007
 - [[11-302j-urban-design-politics-spring-2010|Urban Design Politics]] — 11.302J, Spring 2010

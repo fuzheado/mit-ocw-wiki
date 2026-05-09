@@ -12,6 +12,15 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[15-564-information-technology-i-spring-2003|Information Technology I]] — 15.564, Spring 2003
+- [[16-682-prototyping-avionics-spring-2006|Prototyping Avionics]] — 16.682, Spring 2006
+- [[2-14-analysis-and-design-of-feedback-control-systems-spring-2014|Analysis and Design of Feedback Control Systems]] — 2.14, Spring 2014
+- [[6-334-power-electronics-spring-2007|Power Electronics]] — 6.334, Spring 2007
+- [[6-432-stochastic-processes-detection-and-estimation-spring-2004|Stochastic Processes, Detection, and Estimation]] — 6.432, Spring 2004
+- [[6-011-introduction-to-communication-control-and-signal-processing-spring-2010|Introduction to Communication, Control, and Signal Processing]] — 6.011, Spring 2010
+- [[es-293-lego-robotics-spring-2007|Lego Robotics]] — ES.293, Spring 2007
+- [[6-637-optical-signals-devices-and-systems-spring-2003|Optical Signals, Devices, and Systems]] — 6.637, Spring 2003
+- [[6-171-software-engineering-for-web-applications-fall-2003|Software Engineering for Web Applications]] — 6.171, Fall 2003
 - [[6-541j-speech-communication-spring-2004|Speech Communication]] — 6.541J, Spring 2004
 - [[res-6-001-continuum-electromechanics-spring-2009|Continuum Electromechanics]] — RES.6-001, Spring 2009
 - [[6-4210-robotic-manipulation-fall-2022|Robotic Manipulation]] — 6.4210, Fall 2022

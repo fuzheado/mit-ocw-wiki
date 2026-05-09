@@ -12,6 +12,11 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007|American Science: Ethical Conflicts and Political Choices]] (STS.011)
+- [[sts-035-the-history-of-computing-spring-2004|The History of Computing]] (STS.035)
+- [[21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012|DV Lab: Documenting Science Through Video and New Media]] (21A.550J)
+- [[sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005|Godzilla and the Bullet Train: Technology and Culture in Modern Japan]] (STS.S28)
+- [[sts-089-technology-and-innovation-in-africa-fall-2014|Technology and Innovation in Africa]] (STS.089)
 - [[21a-501j-art-craft-science-spring-2013|Art, Craft, Science]] (21A.501J)
 - [[sts-428-technology-and-change-in-rural-america-fall-2004|Technology and Change in Rural America]] (STS.428)
 - [[21h-116j-the-civil-war-and-reconstruction-fall-2005|The Civil War and Reconstruction]] (21H.116J)

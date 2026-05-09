@@ -12,6 +12,7 @@ School: [[school-schwarzman-computing|MIT Schwarzman College of Computing]]
 
 ## Courses
 
+- [[15-075j-statistical-thinking-and-data-analysis-fall-2011|Statistical Thinking and Data Analysis]] (15.075J)
 - [[ids-900-doctoral-seminar-in-engineering-systems-fall-2011|Doctoral Seminar in Engineering Systems]] (IDS.900)
 - [[ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010|Tools for Analysis: Design for Real Estate and Infrastructure Development]] (IDS.720J)
 - [[15-565j-integrating-esystems-global-information-systems-spring-2002|Integrating eSystems & Global Information Systems]] (15.565J)

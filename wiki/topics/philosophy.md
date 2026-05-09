@@ -12,6 +12,8 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007|American Science: Ethical Conflicts and Political Choices]] — STS.011, Fall 2007
+- [[11-947-urbanization-and-development-spring-2009|Urbanization and Development]] — 11.947, Spring 2009
 - [[24-03-good-food-ethics-and-politics-of-food-spring-2017|Good Food: Ethics and Politics of Food]] — 24.03, Spring 2017
 - [[11-164-human-rights-at-home-and-abroad-fall-2015|Human Rights: At Home and Abroad]] — 11.164, Fall 2015
 - [[24-209-philosophy-in-film-and-other-media-spring-2004|Philosophy In Film and Other Media]] — 24.209, Spring 2004

@@ -12,6 +12,13 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[2-011-introduction-to-ocean-science-and-engineering-spring-2006|Introduction to Ocean Science and Engineering]] — 2.011, Spring 2006
+- [[12-811-tropical-meteorology-spring-2011|Tropical Meteorology]] — 12.811, Spring 2011
+- [[12-815-atmospheric-radiation-fall-2006|Atmospheric Radiation]] — 12.815, Fall 2006
+- [[res-env-006-teaching-with-sustainability-january-iap-2022|Teaching with Sustainability]] — RES.ENV-006, January IAP 2022
+- [[ec-s06-prototypes-to-products-fall-2005|Prototypes to Products]] — EC.S06, Fall 2005
+- [[11-952-foshan-china-workshop-spring-2004|Foshan China Workshop]] — 11.952, Spring 2004
+- [[12-114-field-geology-i-fall-2005|Field Geology I]] — 12.114, Fall 2005
 - [[12-520-geodynamics-fall-2006|Geodynamics]] — 12.520, Fall 2006
 - [[17-441-international-politics-and-climate-change-fall-2007|International Politics and Climate Change]] — 17.441, Fall 2007
 - [[12-759-marine-chemistry-seminar-spring-2006|Marine Chemistry Seminar]] — 12.759, Spring 2006

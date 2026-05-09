@@ -12,6 +12,10 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[res-6-004-principles-of-computer-system-design-an-introduction-spring-2009|Principles of Computer System Design: An Introduction]] — RES.6-033, Spring 2009
+- [[2-00b-toy-product-design-spring-2008|Toy Product Design]] — 2.00B, Spring 2008
+- [[ec-s06-prototypes-to-products-fall-2005|Prototypes to Products]] — EC.S06, Fall 2005
+- [[2-852-manufacturing-systems-analysis-spring-2010|Manufacturing Systems Analysis]] — 2.852, Spring 2010
 - [[ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010|Tools for Analysis: Design for Real Estate and Infrastructure Development]] — IDS.720J, Spring 2010
 - [[15-053-optimization-methods-in-management-science-spring-2013|Optimization Methods in Management Science]] — 15.053, Spring 2013
 - [[16-881-robust-system-design-summer-1998|Robust System Design]] — 16.881, Summer 1998

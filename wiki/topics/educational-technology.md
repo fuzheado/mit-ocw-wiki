@@ -12,6 +12,7 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[11-131-educational-theory-and-practice-iii-spring-2012|Educational Theory and Practice III]] — 11.131, Spring 2012
 - [[4-297-special-problems-in-architecture-studies-fall-2000|Special Problems in Architecture Studies]] — 4.297, Fall 2000
 - [[mas-963-technological-tools-for-school-reform-fall-2005|Technological Tools for School Reform]] — MAS.963, Fall 2005
 - [[21g-034-media-education-and-the-marketplace-fall-2005|Media Education and the Marketplace]] — 21G.034, Fall 2005

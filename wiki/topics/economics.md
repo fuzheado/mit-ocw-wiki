@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-128-information-technology-and-the-labor-market-spring-2005|Information Technology and the Labor Market]] — 11.128, Spring 2005
+- [[14-472-public-economics-ii-spring-2004|Public Economics II]] — 14.472, Spring 2004
+- [[11-409-institutions-of-modern-capitalism-spring-2020|Institutions of Modern Capitalism]] — 11.409, Spring 2020
+- [[ec-s06-prototypes-to-products-fall-2005|Prototypes to Products]] — EC.S06, Fall 2005
+- [[11-952-foshan-china-workshop-spring-2004|Foshan China Workshop]] — 11.952, Spring 2004
 - [[15-053-optimization-methods-in-management-science-spring-2013|Optimization Methods in Management Science]] — 15.053, Spring 2013
 - [[res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016|Mission & Metrics: Finance Training for Federal Credit Program Professionals]] — RES.15-002, Summer 2016
 - [[14-772-development-economics-macroeconomics-spring-2013|Development Economics: Macroeconomics]] — 14.772, Spring 2013

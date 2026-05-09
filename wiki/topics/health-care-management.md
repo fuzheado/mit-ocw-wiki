@@ -12,6 +12,7 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[15-s07-globalhealth-lab-spring-2013|GlobalHealth Lab]] — 15.S07, Spring 2013
 - [[6-541j-speech-communication-spring-2004|Speech Communication]] — 6.541J, Spring 2004
 - [[hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009|Information Technology in the Health Care System of the Future]] — HST.921, Spring 2009
 - [[15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015|Global Health Innovation: Delivering Targeted Advice to an Organization in the Field]] — 15.ES718, Spring 2015

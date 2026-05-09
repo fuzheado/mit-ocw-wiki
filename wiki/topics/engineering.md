@@ -25,6 +25,47 @@ courses_count: 0
 
 ## Courses
 
+- [[15-564-information-technology-i-spring-2003|Information Technology I]] — 15.564, Spring 2003
+- [[mas-s62-cryptocurrency-engineering-and-design-spring-2018|Cryptocurrency Engineering and Design]] — MAS.S62, Spring 2018
+- [[18-783-elliptic-curves-spring-2021|Elliptic Curves]] — 18.783, Spring 2021
+- [[16-682-prototyping-avionics-spring-2006|Prototyping Avionics]] — 16.682, Spring 2006
+- [[11-501-introduction-to-technology-and-cities-fall-2002|Introduction to Technology and Cities]] — 11.501, Fall 2002
+- [[2-14-analysis-and-design-of-feedback-control-systems-spring-2014|Analysis and Design of Feedback Control Systems]] — 2.14, Spring 2014
+- [[1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012|Introduction to Computers and Engineering Problem Solving]] — 1.00, Spring 2012
+- [[15-075j-statistical-thinking-and-data-analysis-fall-2011|Statistical Thinking and Data Analysis]] — 15.075J, Fall 2011
+- [[6-334-power-electronics-spring-2007|Power Electronics]] — 6.334, Spring 2007
+- [[6-370-the-battlecode-programming-competition-january-iap-2013|The Battlecode Programming Competition]] — 6.370, January IAP 2013
+- [[sts-035-the-history-of-computing-spring-2004|The History of Computing]] — STS.035, Spring 2004
+- [[3-22-mechanical-behavior-of-materials-spring-2008|Mechanical Behavior of Materials]] — 3.22, Spring 2008
+- [[6-170-software-studio-spring-2013|Software Studio]] — 6.170, Spring 2013
+- [[2-011-introduction-to-ocean-science-and-engineering-spring-2006|Introduction to Ocean Science and Engineering]] — 2.011, Spring 2006
+- [[6-432-stochastic-processes-detection-and-estimation-spring-2004|Stochastic Processes, Detection, and Estimation]] — 6.432, Spring 2004
+- [[1-252j-urban-transportation-planning-fall-2016|Urban Transportation Planning]] — 1.252J, Fall 2016
+- [[6-830-database-systems-fall-2010|Database Systems]] — 6.830, Fall 2010
+- [[res-6-004-principles-of-computer-system-design-an-introduction-spring-2009|Principles of Computer System Design: An Introduction]] — RES.6-033, Spring 2009
+- [[12-811-tropical-meteorology-spring-2011|Tropical Meteorology]] — 12.811, Spring 2011
+- [[6-011-introduction-to-communication-control-and-signal-processing-spring-2010|Introduction to Communication, Control, and Signal Processing]] — 6.011, Spring 2010
+- [[21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012|DV Lab: Documenting Science Through Video and New Media]] — 21A.550J, Fall 2012
+- [[6-838-algorithms-for-computer-animation-fall-2002|Algorithms for Computer Animation]] — 6.838, Fall 2002
+- [[6-080-great-ideas-in-theoretical-computer-science-spring-2008|Great Ideas in Theoretical Computer Science]] — 6.080, Spring 2008
+- [[6-035-computer-language-engineering-spring-2010|Computer Language Engineering]] — 6.035, Spring 2010
+- [[10-626-electrochemical-energy-systems-spring-2014|Electrochemical Energy Systems]] — 10.626, Spring 2014
+- [[es-293-lego-robotics-spring-2007|Lego Robotics]] — ES.293, Spring 2007
+- [[16-61-aerospace-dynamics-spring-2003|Aerospace Dynamics]] — 16.61, Spring 2003
+- [[esd-70j-engineering-economy-module-fall-2009|Engineering Economy Module]] — ESD.70J, Fall 2009
+- [[2-00b-toy-product-design-spring-2008|Toy Product Design]] — 2.00B, Spring 2008
+- [[9-67-object-and-face-recognition-spring-2001|Object and Face Recognition]] — 9.67, Spring 2001
+- [[6-876j-advanced-topics-in-cryptography-spring-2003|Advanced Topics in Cryptography]] — 6.876J, Spring 2003
+- [[ec-s06-prototypes-to-products-fall-2005|Prototypes to Products]] — EC.S06, Fall 2005
+- [[6-637-optical-signals-devices-and-systems-spring-2003|Optical Signals, Devices, and Systems]] — 6.637, Spring 2003
+- [[2-852-manufacturing-systems-analysis-spring-2010|Manufacturing Systems Analysis]] — 2.852, Spring 2010
+- [[9-123-neurotechnology-in-action-fall-2014|Neurotechnology in Action]] — 9.123, Fall 2014
+- [[3-a27-case-studies-in-forensic-metallurgy-fall-2007|Case Studies in Forensic Metallurgy]] — 3.A27, Fall 2007
+- [[6-845-quantum-complexity-theory-fall-2010|Quantum Complexity Theory]] — 6.845, Fall 2010
+- [[6-092-bioinformatics-and-proteomics-january-iap-2005|Bioinformatics and Proteomics]] — 6.092, January IAP 2005
+- [[6-171-software-engineering-for-web-applications-fall-2003|Software Engineering for Web Applications]] — 6.171, Fall 2003
+- [[22-103-microscopic-theory-of-transport-fall-2003|Microscopic Theory of Transport]] — 22.103, Fall 2003
+- [[8-512-theory-of-solids-ii-spring-2009|Theory of Solids II]] — 8.512, Spring 2009
 - [[ids-900-doctoral-seminar-in-engineering-systems-fall-2011|Doctoral Seminar in Engineering Systems]] — IDS.900, Fall 2011
 - [[6-541j-speech-communication-spring-2004|Speech Communication]] — 6.541J, Spring 2004
 - [[15-062-data-mining-spring-2003|Data Mining]] — 15.062, Spring 2003

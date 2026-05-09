@@ -12,6 +12,10 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012|DV Lab: Documenting Science Through Video and New Media]] — 21A.550J, Fall 2012
+- [[mas-845-special-topics-in-cinematic-storytelling-spring-2004|Special Topics in Cinematic Storytelling]] — MAS.845, Spring 2004
+- [[4-351-introduction-to-video-spring-2004|Introduction to Video]] — 4.351, Spring 2004
+- [[21g-056-visual-histories-german-cinema-1945-to-present-fall-2003|Visual  Histories: German Cinema 1945 to Present]] — 21G.056, Fall 2003
 - [[21g-052-french-film-classics-spring-2015|French Film Classics]] — 21G.052, Spring 2015
 - [[cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013|At the Limit: Violence in Contemporary Representation]] — CMS.840, Fall 2013
 - [[24-209-philosophy-in-film-and-other-media-spring-2004|Philosophy In Film and Other Media]] — 24.209, Spring 2004

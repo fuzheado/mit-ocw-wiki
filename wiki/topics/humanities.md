@@ -20,6 +20,28 @@ courses_count: 0
 
 ## Courses
 
+- [[sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007|American Science: Ethical Conflicts and Political Choices]] — STS.011, Fall 2007
+- [[21l-003-2-reading-fiction-spring-2007|Reading Fiction]] — 21L.003-2, Spring 2007
+- [[21l-501-the-american-novel-stranger-and-stranger-spring-2013|The American Novel: Stranger and Stranger]] — 21L.501, Spring 2013
+- [[21m-250-schubert-to-debussy-fall-2006|Schubert to Debussy]] — 21M.250, Fall 2006
+- [[sts-035-the-history-of-computing-spring-2004|The History of Computing]] — STS.035, Spring 2004
+- [[21l-485-modern-fiction-fall-2015|Modern Fiction]] — 21L.485, Fall 2015
+- [[21l-310-bestsellers-out-for-the-count-fall-2018|Bestsellers: Out for the Count]] — 21L.310, Fall 2018
+- [[21g-105-chinese-v-regular-chinese-cultures-society-fall-2003|Chinese V (Regular): Chinese Cultures & Society]] — 21G.105, Fall 2003
+- [[mas-845-special-topics-in-cinematic-storytelling-spring-2004|Special Topics in Cinematic Storytelling]] — MAS.845, Spring 2004
+- [[21h-381j-women-and-war-in-the-20th-century-fall-2015|Women and War in the 20th Century]] — 21H.381J, Fall 2015
+- [[21g-068j-the-invention-of-french-theory-a-history-of-transatlantic-intellectual-life-since-1945-spring-2012|The Invention of French Theory: A History of Transatlantic Intellectual Life since 1945]] — 21G.068J, Spring 2012
+- [[18-091-mathematical-exposition-spring-2005|Mathematical Exposition]] — 18.091, Spring 2005
+- [[21l-422-tragedy-fall-2002|Tragedy]] — 21L.422, Fall 2002
+- [[21l-705-major-authors-americas-literary-scientists-fall-2010|Major Authors: America's Literary Scientists]] — 21L.705, Fall 2010
+- [[24-954-pragmatics-in-linguistic-theory-fall-2006|Pragmatics in Linguistic Theory]] — 24.954, Fall 2006
+- [[21g-056-visual-histories-german-cinema-1945-to-present-fall-2003|Visual  Histories: German Cinema 1945 to Present]] — 21G.056, Fall 2003
+- [[es-260-womens-novels-a-weekly-book-club-spring-2006|Women's Novels: A Weekly Book Club]] — ES.260, Spring 2006
+- [[21l-460-medieval-literature-dante-boccaccio-chaucer-spring-2005|Medieval Literature: Dante, Boccaccio, Chaucer]] — 21L.460, Spring 2005
+- [[21l-004-major-poets-fall-2005|Major Poets]] — 21L.004, Fall 2005
+- [[21w-755-writing-and-reading-short-stories-spring-2012|Writing and Reading Short Stories]] — 21W.755, Spring 2012
+- [[11-947-urbanization-and-development-spring-2009|Urbanization and Development]] — 11.947, Spring 2009
+- [[sts-089-technology-and-innovation-in-africa-fall-2014|Technology and Innovation in Africa]] — STS.089, Fall 2014
 - [[6-541j-speech-communication-spring-2004|Speech Communication]] — 6.541J, Spring 2004
 - [[21g-052-french-film-classics-spring-2015|French Film Classics]] — 21G.052, Spring 2015
 - [[21m-785-playwrights-workshop-spring-2012|Playwrights' Workshop]] — 21M.785, Spring 2012

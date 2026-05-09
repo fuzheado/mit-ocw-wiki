@@ -12,6 +12,9 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[5-73-quantum-mechanics-i-fall-2018|Quantum Mechanics I]] — 5.73, Fall 2018
+- [[10-626-electrochemical-energy-systems-spring-2014|Electrochemical Energy Systems]] — 10.626, Spring 2014
+- [[22-103-microscopic-theory-of-transport-fall-2003|Microscopic Theory of Transport]] — 22.103, Fall 2003
 - [[12-759-marine-chemistry-seminar-spring-2006|Marine Chemistry Seminar]] — 12.759, Spring 2006
 - [[12-097-chemical-investigations-of-boston-harbor-january-iap-2006|Chemical Investigations of Boston Harbor]] — 12.097, January IAP 2006
 - [[5-35-introduction-to-experimental-chemistry-fall-2012|Introduction to Experimental Chemistry]] — 5.35, Fall 2012

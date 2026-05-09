@@ -12,6 +12,11 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[15-564-information-technology-i-spring-2003|Information Technology I]] — 15.564, Spring 2003
+- [[mas-s62-cryptocurrency-engineering-and-design-spring-2018|Cryptocurrency Engineering and Design]] — MAS.S62, Spring 2018
+- [[15-075j-statistical-thinking-and-data-analysis-fall-2011|Statistical Thinking and Data Analysis]] — 15.075J, Fall 2011
+- [[6-830-database-systems-fall-2010|Database Systems]] — 6.830, Fall 2010
+- [[6-092-bioinformatics-and-proteomics-january-iap-2005|Bioinformatics and Proteomics]] — 6.092, January IAP 2005
 - [[15-062-data-mining-spring-2003|Data Mining]] — 15.062, Spring 2003
 - [[15-063-communicating-with-data-summer-2003|Communicating With Data]] — 15.063, Summer 2003
 - [[15-565j-integrating-esystems-global-information-systems-spring-2002|Integrating eSystems & Global Information Systems]] — 15.565J, Spring 2002

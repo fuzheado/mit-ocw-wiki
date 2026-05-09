@@ -8,5 +8,6 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007|Reflective Practice: An Approach for Expanding Your Learning Frontiers]]
 - [[11-945-katrina-practicum-spring-2006|Katrina Practicum]]
 - [[11-945-springfield-studio-fall-2005|Springfield Studio]]

@@ -12,6 +12,11 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012|DV Lab: Documenting Science Through Video and New Media]] — 21A.550J, Fall 2012
+- [[mas-845-special-topics-in-cinematic-storytelling-spring-2004|Special Topics in Cinematic Storytelling]] — MAS.845, Spring 2004
+- [[4-351-introduction-to-video-spring-2004|Introduction to Video]] — 4.351, Spring 2004
+- [[sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005|Godzilla and the Bullet Train: Technology and Culture in Modern Japan]] — STS.S28, Fall 2005
+- [[6-171-software-engineering-for-web-applications-fall-2003|Software Engineering for Web Applications]] — 6.171, Fall 2003
 - [[21h-402-the-making-of-a-roman-emperor-fall-2005|The Making of a Roman Emperor]] — 21H.402, Fall 2005
 - [[res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021|Media Literacy in the Age of Deepfakes]] — RES.CMS-001, Spring 2021
 - [[mas-965-relational-machines-spring-2005|Relational Machines]] — MAS.965, Spring 2005

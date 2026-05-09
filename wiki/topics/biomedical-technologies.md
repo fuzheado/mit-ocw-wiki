@@ -12,6 +12,8 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005|Brain Mechanisms for Hearing and Speech]] — HST.722J, Fall 2005
+- [[9-123-neurotechnology-in-action-fall-2014|Neurotechnology in Action]] — 9.123, Fall 2014
 - [[22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005|Noninvasive Imaging in Biology and Medicine]] — 22.56J, Fall 2005
 - [[ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010|D-Lab: Medical Technologies for the Developing World]] — EC.710, Spring 2010
 - [[hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009|Information Technology in the Health Care System of the Future]] — HST.921, Spring 2009

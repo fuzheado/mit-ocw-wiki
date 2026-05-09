@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-55j-introduction-to-latin-american-studies-fall-2006|Introduction to Latin American Studies]] — 17.55J, Fall 2006
+- [[21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012|DV Lab: Documenting Science Through Video and New Media]] — 21A.550J, Fall 2012
+- [[3-986-the-human-past-introduction-to-archaeology-fall-2006|The Human Past: Introduction to Archaeology]] — 3.986, Fall 2006
+- [[3-987-human-origins-and-evolution-spring-2006|Human Origins and Evolution]] — 3.987, Spring 2006
+- [[sts-089-technology-and-innovation-in-africa-fall-2014|Technology and Innovation in Africa]] — STS.089, Fall 2014
 - [[21a-226-ethnic-and-national-identity-fall-2011|Ethnic and National Identity]] — 21A.102 (formerly 21A.226), Fall 2011
 - [[21a-212-myth-ritual-and-symbolism-spring-2004|Myth, Ritual, and Symbolism]] — 21A.212, Spring 2004
 - [[21a-501j-art-craft-science-spring-2013|Art, Craft, Science]] — 21A.501J, Spring 2013

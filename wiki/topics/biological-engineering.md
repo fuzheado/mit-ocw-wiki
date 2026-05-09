@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[9-123-neurotechnology-in-action-fall-2014|Neurotechnology in Action]] — 9.123, Fall 2014
+- [[6-092-bioinformatics-and-proteomics-january-iap-2005|Bioinformatics and Proteomics]] — 6.092, January IAP 2005
 - [[7-89j-topics-in-computational-and-systems-biology-fall-2010|Topics in Computational and Systems Biology]] — 7.89J, Fall 2010
 - [[20-201-mechanisms-of-drug-actions-fall-2013|Mechanisms of Drug Actions]] — 20.201, Fall 2013
 - [[2-785j-cell-matrix-mechanics-fall-2014|Cell-Matrix Mechanics]] — 2.785J, Fall 2014

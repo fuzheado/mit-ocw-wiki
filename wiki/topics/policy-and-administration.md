@@ -12,6 +12,13 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-483-housing-and-land-use-in-rapidly-urbanizing-regions-fall-2011|Housing and Land Use in Rapidly Urbanizing Regions]] — 11.483, Fall 2011
+- [[11-501-introduction-to-technology-and-cities-fall-2002|Introduction to Technology and Cities]] — 11.501, Fall 2002
+- [[11-128-information-technology-and-the-labor-market-spring-2005|Information Technology and the Labor Market]] — 11.128, Spring 2005
+- [[1-252j-urban-transportation-planning-fall-2016|Urban Transportation Planning]] — 1.252J, Fall 2016
+- [[14-472-public-economics-ii-spring-2004|Public Economics II]] — 14.472, Spring 2004
+- [[11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007|Doctoral Research Seminar: Knowledge in the Public Arena]] — 11.800, Spring 2007
+- [[11-947-urbanization-and-development-spring-2009|Urbanization and Development]] — 11.947, Spring 2009
 - [[17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009|Chinese Foreign Policy: International Relations and Strategy]] — 17.407, Spring 2009
 - [[12-103-science-and-policy-of-natural-hazards-spring-2010|Science and Policy of Natural Hazards]] — 12.103, Spring 2010
 - [[11-302j-urban-design-politics-spring-2010|Urban Design Politics]] — 11.302J, Spring 2010

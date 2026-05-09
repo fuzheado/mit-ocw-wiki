@@ -12,6 +12,8 @@ School: [[school-architecture-planning|School of Architecture and Planning]]
 
 ## Courses
 
+- [[mas-s62-cryptocurrency-engineering-and-design-spring-2018|Cryptocurrency Engineering and Design]] (MAS.S62)
+- [[mas-845-special-topics-in-cinematic-storytelling-spring-2004|Special Topics in Cinematic Storytelling]] (MAS.845)
 - [[mas-712-how-to-learn-almost-anything-spring-2001|How to Learn (Almost) Anything]] (MAS.712)
 - [[mas-965-relational-machines-spring-2005|Relational Machines]] (MAS.965)
 - [[mas-863-how-to-make-almost-anything-fall-2002|How to Make (Almost) Anything]] (MAS.863)

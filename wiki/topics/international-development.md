@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-55j-introduction-to-latin-american-studies-fall-2006|Introduction to Latin American Studies]] — 17.55J, Fall 2006
+- [[11-947-urbanization-and-development-spring-2009|Urbanization and Development]] — 11.947, Spring 2009
+- [[sts-089-technology-and-innovation-in-africa-fall-2014|Technology and Innovation in Africa]] — STS.089, Fall 2014
 - [[24-03-good-food-ethics-and-politics-of-food-spring-2017|Good Food: Ethics and Politics of Food]] — 24.03, Spring 2017
 - [[ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010|D-Lab: Medical Technologies for the Developing World]] — EC.710, Spring 2010
 - [[11-384-malaysia-sustainable-cities-practicum-spring-2018|Malaysia Sustainable Cities Practicum]] — 11.384, Spring 2018

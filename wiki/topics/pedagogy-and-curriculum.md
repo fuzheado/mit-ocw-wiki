@@ -12,6 +12,8 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[11-131-educational-theory-and-practice-iii-spring-2012|Educational Theory and Practice III]] — 11.131, Spring 2012
+- [[res-env-006-teaching-with-sustainability-january-iap-2022|Teaching with Sustainability]] — RES.ENV-006, January IAP 2022
 - [[mas-712-how-to-learn-almost-anything-spring-2001|How to Learn (Almost) Anything]] — MAS.712, Spring 2001
 - [[res-7-009-7-int-inclusive-teaching-module-fall-2022|7.InT: Inclusive Teaching Module]] — RES.7-009, Fall 2022
 - [[res-cms-501-envisioning-the-graduate-of-the-future-spring-2020|Envisioning the Graduate of the Future]] — RES.CMS-501, Spring 2020

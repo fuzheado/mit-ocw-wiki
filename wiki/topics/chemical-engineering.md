@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[10-626-electrochemical-energy-systems-spring-2014|Electrochemical Energy Systems]] — 10.626, Spring 2014
+- [[22-103-microscopic-theory-of-transport-fall-2003|Microscopic Theory of Transport]] — 22.103, Fall 2003
 - [[hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005|Tumor Pathophysiology and Transport Phenomena]] — HST.525J, Fall 2005
 - [[2-627-fundamentals-of-photovoltaics-fall-2013|Fundamentals of Photovoltaics]] — 2.627, Fall 2013
 - [[3-185-transport-phenomena-in-materials-engineering-fall-2003|Transport Phenomena in Materials Engineering]] — 3.185, Fall 2003

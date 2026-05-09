@@ -12,6 +12,11 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[mas-s62-cryptocurrency-engineering-and-design-spring-2018|Cryptocurrency Engineering and Design]] — MAS.S62, Spring 2018
+- [[6-170-software-studio-spring-2013|Software Studio]] — 6.170, Spring 2013
+- [[6-830-database-systems-fall-2010|Database Systems]] — 6.830, Fall 2010
+- [[6-838-algorithms-for-computer-animation-fall-2002|Algorithms for Computer Animation]] — 6.838, Fall 2002
+- [[6-845-quantum-complexity-theory-fall-2010|Quantum Complexity Theory]] — 6.845, Fall 2010
 - [[12-010-computational-methods-of-scientific-programming-fall-2011|Computational Methods of Scientific Programming]] — 12.010, Fall 2011
 - [[6-006-introduction-to-algorithms-spring-2020|Introduction to Algorithms]] — 6.006, Spring 2020
 - [[6-005-software-construction-spring-2016|Software Construction]] — 6.005, Spring 2016

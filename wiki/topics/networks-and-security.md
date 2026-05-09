@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[15-564-information-technology-i-spring-2003|Information Technology I]] — 15.564, Spring 2003
+- [[6-876j-advanced-topics-in-cryptography-spring-2003|Advanced Topics in Cryptography]] — 6.876J, Spring 2003
 - [[es-258-goedel-escher-bach-spring-2007|Gödel, Escher, Bach]] — ES.258, Spring 2007
 - [[6-005-software-construction-spring-2016|Software Construction]] — 6.005, Spring 2016
 - [[8-371x-quantum-information-science-ii-spring-2018|Quantum Information Science II]] — 8.371x, Spring 2018

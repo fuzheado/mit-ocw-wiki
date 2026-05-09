@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21l-422-tragedy-fall-2002|Tragedy]]
 - [[21l-472-major-european-novels-fall-2008|Major European Novels]]
 - [[21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003|Foundations of Western Culture II: Renaissance to Modernity]]
 - [[15-269b-literature-ethics-and-authority-fall-2002|Literature, Ethics and Authority]]

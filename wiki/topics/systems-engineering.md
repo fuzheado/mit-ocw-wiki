@@ -12,6 +12,13 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012|Introduction to Computers and Engineering Problem Solving]] — 1.00, Spring 2012
+- [[res-6-004-principles-of-computer-system-design-an-introduction-spring-2009|Principles of Computer System Design: An Introduction]] — RES.6-033, Spring 2009
+- [[esd-70j-engineering-economy-module-fall-2009|Engineering Economy Module]] — ESD.70J, Fall 2009
+- [[2-00b-toy-product-design-spring-2008|Toy Product Design]] — 2.00B, Spring 2008
+- [[9-67-object-and-face-recognition-spring-2001|Object and Face Recognition]] — 9.67, Spring 2001
+- [[ec-s06-prototypes-to-products-fall-2005|Prototypes to Products]] — EC.S06, Fall 2005
+- [[2-852-manufacturing-systems-analysis-spring-2010|Manufacturing Systems Analysis]] — 2.852, Spring 2010
 - [[ids-900-doctoral-seminar-in-engineering-systems-fall-2011|Doctoral Seminar in Engineering Systems]] — IDS.900, Fall 2011
 - [[12-010-computational-methods-of-scientific-programming-fall-2011|Computational Methods of Scientific Programming]] — 12.010, Fall 2011
 - [[ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010|Tools for Analysis: Design for Real Estate and Infrastructure Development]] — IDS.720J, Spring 2010

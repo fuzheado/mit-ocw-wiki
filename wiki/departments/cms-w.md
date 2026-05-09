@@ -12,6 +12,7 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21w-755-writing-and-reading-short-stories-spring-2012|Writing and Reading Short Stories]] (21W.755)
 - [[res-cms-502-competency-based-education-the-why-what-and-how-spring-2020|Competency-Based Education: The Why, What, and How]] (RES.CMS-502)
 - [[res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021|Media Literacy in the Age of Deepfakes]] (RES.CMS-001)
 - [[cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013|At the Limit: Violence in Contemporary Representation]] (CMS.840)

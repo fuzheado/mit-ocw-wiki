@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[6-092-bioinformatics-and-proteomics-january-iap-2005|Bioinformatics and Proteomics]]
 - [[6-047-computational-biology-fall-2015|Computational Biology]]

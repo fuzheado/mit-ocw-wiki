@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[18-091-mathematical-exposition-spring-2005|Mathematical Exposition]] — 18.091, Spring 2005
+- [[11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007|Doctoral Research Seminar: Knowledge in the Public Arena]] — 11.800, Spring 2007
+- [[18-310-principles-of-discrete-applied-mathematics-fall-2013|Principles of Discrete Applied Mathematics]] — 18.310, Fall 2013
 - [[15-063-communicating-with-data-summer-2003|Communicating With Data]] — 15.063, Summer 2003
 - [[15-277-special-seminar-in-communications-leadership-and-personal-effectiveness-coaching-fall-2008|Special Seminar in Communications: Leadership and Personal Effectiveness Coaching]] — 15.277, Fall 2008
 - [[21g-221-communicating-in-american-culture-s-spring-2019|Communicating in American Culture(s)]] — 21G.221, Spring 2019

@@ -10,6 +10,9 @@ courses_count: 0
 
 ## Courses
 
+- [[es-s60-the-art-and-science-of-happiness-spring-2013|The Art and Science of Happiness]] (ES.S60)
+- [[es-293-lego-robotics-spring-2007|Lego Robotics]] (ES.293)
+- [[es-260-womens-novels-a-weekly-book-club-spring-2006|Women's Novels: A Weekly Book Club]] (ES.260)
 - [[es-292-writing-workshop-spring-2008|Writing Workshop]] (ES.292)
 - [[es-258-goedel-escher-bach-spring-2007|Gödel, Escher, Bach]] (ES.258)
 - [[es-114-non-violence-as-a-way-of-life-fall-2018|Non-violence as a Way of Life]] (ES.114)

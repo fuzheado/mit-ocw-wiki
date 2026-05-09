@@ -12,6 +12,18 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-501-introduction-to-technology-and-cities-fall-2002|Introduction to Technology and Cities]] — 11.501, Fall 2002
+- [[17-55j-introduction-to-latin-american-studies-fall-2006|Introduction to Latin American Studies]] — 17.55J, Fall 2006
+- [[11-128-information-technology-and-the-labor-market-spring-2005|Information Technology and the Labor Market]] — 11.128, Spring 2005
+- [[21g-105-chinese-v-regular-chinese-cultures-society-fall-2003|Chinese V (Regular): Chinese Cultures & Society]] — 21G.105, Fall 2003
+- [[21h-381j-women-and-war-in-the-20th-century-fall-2015|Women and War in the 20th Century]] — 21H.381J, Fall 2015
+- [[sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005|Godzilla and the Bullet Train: Technology and Culture in Modern Japan]] — STS.S28, Fall 2005
+- [[11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007|Doctoral Research Seminar: Knowledge in the Public Arena]] — 11.800, Spring 2007
+- [[wgs-s10-reproductive-politics-in-the-united-states-spring-2013|Reproductive Politics in the United States]] — WGS.S10, Spring 2013
+- [[ec-s06-prototypes-to-products-fall-2005|Prototypes to Products]] — EC.S06, Fall 2005
+- [[21g-056-visual-histories-german-cinema-1945-to-present-fall-2003|Visual  Histories: German Cinema 1945 to Present]] — 21G.056, Fall 2003
+- [[es-260-womens-novels-a-weekly-book-club-spring-2006|Women's Novels: A Weekly Book Club]] — ES.260, Spring 2006
+- [[11-947-urbanization-and-development-spring-2009|Urbanization and Development]] — 11.947, Spring 2009
 - [[17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009|Chinese Foreign Policy: International Relations and Strategy]] — 17.407, Spring 2009
 - [[24-03-good-food-ethics-and-politics-of-food-spring-2017|Good Food: Ethics and Politics of Food]] — 24.03, Spring 2017
 - [[11-164-human-rights-at-home-and-abroad-fall-2015|Human Rights: At Home and Abroad]] — 11.164, Fall 2015

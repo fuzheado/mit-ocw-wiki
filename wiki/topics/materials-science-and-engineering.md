@@ -12,6 +12,9 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[3-22-mechanical-behavior-of-materials-spring-2008|Mechanical Behavior of Materials]] — 3.22, Spring 2008
+- [[10-626-electrochemical-energy-systems-spring-2014|Electrochemical Energy Systems]] — 10.626, Spring 2014
+- [[3-a27-case-studies-in-forensic-metallurgy-fall-2007|Case Studies in Forensic Metallurgy]] — 3.A27, Fall 2007
 - [[2-627-fundamentals-of-photovoltaics-fall-2013|Fundamentals of Photovoltaics]] — 2.627, Fall 2013
 - [[3-46-photonic-materials-and-devices-spring-2006|Photonic Materials and Devices]] — 3.46, Spring 2006
 - [[2-001-mechanics-materials-i-fall-2006|Mechanics & Materials I]] — 2.001, Fall 2006

@@ -12,6 +12,8 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005|Brain Mechanisms for Hearing and Speech]] (HST.722J)
+- [[6-021j-quantitative-physiology-cells-and-tissues-fall-2004|Quantitative Physiology: Cells and Tissues]] (6.021J)
 - [[6-541j-speech-communication-spring-2004|Speech Communication]] (6.541J)
 - [[hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005|Tumor Pathophysiology and Transport Phenomena]] (HST.525J)
 - [[22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005|Noninvasive Imaging in Biology and Medicine]] (22.56J)

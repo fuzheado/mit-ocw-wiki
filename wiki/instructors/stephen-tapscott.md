@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21l-004-major-poets-fall-2005|Major Poets]]
 - [[21l-701-literary-interpretation-literature-and-photography-the-image-fall-2005|Literary Interpretation: Literature and Photography: The Image]]
 - [[21l-705-major-authors-oscar-wilde-and-the-90s-spring-2003|Major Authors: Oscar Wilde and the '90's]]
 - [[21l-310-bestsellers-detective-fiction-fall-2006|Bestsellers: Detective Fiction]]

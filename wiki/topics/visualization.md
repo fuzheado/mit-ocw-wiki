@@ -2,6 +2,8 @@
 
 ## Courses
 
+- [[11-501-introduction-to-technology-and-cities-fall-2002|Introduction to Technology and Cities]] — 11.501, Fall 2002
+- [[6-838-algorithms-for-computer-animation-fall-2002|Algorithms for Computer Animation]] — 6.838, Fall 2002
 - [[mas-965-social-visualization-fall-2004|Social Visualization]] — MAS.965, Fall 2004
 - [[mas-450-holographic-imaging-spring-2003|Holographic Imaging]] — MAS.450, Spring 2003
 - [[16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020|Visual Navigation for Autonomous Vehicles (VNAV)]] — 16.485, Fall 2020

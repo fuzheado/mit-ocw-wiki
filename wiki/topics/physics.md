@@ -12,6 +12,16 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[18-338j-infinite-random-matrix-theory-fall-2004|Infinite Random Matrix Theory]] — 18.338J, Fall 2004
+- [[5-73-quantum-mechanics-i-fall-2018|Quantum Mechanics I]] — 5.73, Fall 2018
+- [[2-71-optics-spring-2009|Optics]] — 2.71, Spring 2009
+- [[3-22-mechanical-behavior-of-materials-spring-2008|Mechanical Behavior of Materials]] — 3.22, Spring 2008
+- [[8-231-physics-of-solids-i-fall-2006|Physics of Solids I]] — 8.231, Fall 2006
+- [[12-811-tropical-meteorology-spring-2011|Tropical Meteorology]] — 12.811, Spring 2011
+- [[12-815-atmospheric-radiation-fall-2006|Atmospheric Radiation]] — 12.815, Fall 2006
+- [[6-637-optical-signals-devices-and-systems-spring-2003|Optical Signals, Devices, and Systems]] — 6.637, Spring 2003
+- [[6-845-quantum-complexity-theory-fall-2010|Quantum Complexity Theory]] — 6.845, Fall 2010
+- [[8-512-theory-of-solids-ii-spring-2009|Theory of Solids II]] — 8.512, Spring 2009
 - [[8-04-quantum-physics-i-spring-2016|Quantum Physics I]] — 8.04, Spring 2016
 - [[8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017|Experimental Physics I & II "Junior Lab"]] — 8.13-14, Fall 2016
 - [[16-050-thermal-energy-fall-2002|Thermal Energy]] — 16.050, Fall 2002

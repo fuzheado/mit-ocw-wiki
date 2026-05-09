@@ -12,6 +12,15 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-201-gateway-planning-action-fall-2002|Gateway: Planning Action]] — 11.201, Fall 2002
+- [[11-483-housing-and-land-use-in-rapidly-urbanizing-regions-fall-2011|Housing and Land Use in Rapidly Urbanizing Regions]] — 11.483, Fall 2011
+- [[11-501-introduction-to-technology-and-cities-fall-2002|Introduction to Technology and Cities]] — 11.501, Fall 2002
+- [[1-252j-urban-transportation-planning-fall-2016|Urban Transportation Planning]] — 1.252J, Fall 2016
+- [[1-201j-introduction-to-transportation-systems-fall-2006|Introduction to Transportation Systems]] — 1.201J, Fall 2006
+- [[11-301j-introduction-to-urban-design-and-development-fall-2016|Introduction to Urban Design and Development]] — 11.301J, Fall 2016
+- [[11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007|Doctoral Research Seminar: Knowledge in the Public Arena]] — 11.800, Spring 2007
+- [[11-952-foshan-china-workshop-spring-2004|Foshan China Workshop]] — 11.952, Spring 2004
+- [[11-947-urbanization-and-development-spring-2009|Urbanization and Development]] — 11.947, Spring 2009
 - [[ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010|Tools for Analysis: Design for Real Estate and Infrastructure Development]] — IDS.720J, Spring 2010
 - [[11-947-history-and-theory-of-historic-preservation-spring-2007|History and Theory of Historic Preservation]] — 11.947, Spring 2007
 - [[11-302j-urban-design-politics-spring-2010|Urban Design Politics]] — 11.302J, Spring 2010

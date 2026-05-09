@@ -12,6 +12,9 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005|Brain Mechanisms for Hearing and Speech]] — HST.722J, Fall 2005
+- [[6-021j-quantitative-physiology-cells-and-tissues-fall-2004|Quantitative Physiology: Cells and Tissues]] — 6.021J, Fall 2004
+- [[9-16-cellular-neurophysiology-spring-2002|Cellular Neurophysiology]] — 9.16, Spring 2002
 - [[hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005|Tumor Pathophysiology and Transport Phenomena]] — HST.525J, Fall 2005
 - [[7-27-principles-of-human-disease-spring-2006|Principles of Human Disease]] — 7.27, Spring 2006
 - [[2-785j-cell-matrix-mechanics-fall-2014|Cell-Matrix Mechanics]] — 2.785J, Fall 2014

@@ -12,6 +12,25 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[15-564-information-technology-i-spring-2003|Information Technology I]] — 15.564, Spring 2003
+- [[mas-s62-cryptocurrency-engineering-and-design-spring-2018|Cryptocurrency Engineering and Design]] — MAS.S62, Spring 2018
+- [[18-783-elliptic-curves-spring-2021|Elliptic Curves]] — 18.783, Spring 2021
+- [[11-501-introduction-to-technology-and-cities-fall-2002|Introduction to Technology and Cities]] — 11.501, Fall 2002
+- [[1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012|Introduction to Computers and Engineering Problem Solving]] — 1.00, Spring 2012
+- [[15-075j-statistical-thinking-and-data-analysis-fall-2011|Statistical Thinking and Data Analysis]] — 15.075J, Fall 2011
+- [[6-370-the-battlecode-programming-competition-january-iap-2013|The Battlecode Programming Competition]] — 6.370, January IAP 2013
+- [[sts-035-the-history-of-computing-spring-2004|The History of Computing]] — STS.035, Spring 2004
+- [[6-170-software-studio-spring-2013|Software Studio]] — 6.170, Spring 2013
+- [[6-830-database-systems-fall-2010|Database Systems]] — 6.830, Fall 2010
+- [[res-6-004-principles-of-computer-system-design-an-introduction-spring-2009|Principles of Computer System Design: An Introduction]] — RES.6-033, Spring 2009
+- [[6-838-algorithms-for-computer-animation-fall-2002|Algorithms for Computer Animation]] — 6.838, Fall 2002
+- [[6-080-great-ideas-in-theoretical-computer-science-spring-2008|Great Ideas in Theoretical Computer Science]] — 6.080, Spring 2008
+- [[6-035-computer-language-engineering-spring-2010|Computer Language Engineering]] — 6.035, Spring 2010
+- [[es-293-lego-robotics-spring-2007|Lego Robotics]] — ES.293, Spring 2007
+- [[6-876j-advanced-topics-in-cryptography-spring-2003|Advanced Topics in Cryptography]] — 6.876J, Spring 2003
+- [[6-845-quantum-complexity-theory-fall-2010|Quantum Complexity Theory]] — 6.845, Fall 2010
+- [[6-092-bioinformatics-and-proteomics-january-iap-2005|Bioinformatics and Proteomics]] — 6.092, January IAP 2005
+- [[6-171-software-engineering-for-web-applications-fall-2003|Software Engineering for Web Applications]] — 6.171, Fall 2003
 - [[15-062-data-mining-spring-2003|Data Mining]] — 15.062, Spring 2003
 - [[12-010-computational-methods-of-scientific-programming-fall-2011|Computational Methods of Scientific Programming]] — 12.010, Fall 2011
 - [[6-4210-robotic-manipulation-fall-2022|Robotic Manipulation]] — 6.4210, Fall 2022

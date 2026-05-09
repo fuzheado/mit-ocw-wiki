@@ -12,6 +12,10 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005|Brain Mechanisms for Hearing and Speech]] — HST.722J, Fall 2005
+- [[6-021j-quantitative-physiology-cells-and-tissues-fall-2004|Quantitative Physiology: Cells and Tissues]] — 6.021J, Fall 2004
+- [[9-16-cellular-neurophysiology-spring-2002|Cellular Neurophysiology]] — 9.16, Spring 2002
+- [[6-092-bioinformatics-and-proteomics-january-iap-2005|Bioinformatics and Proteomics]] — 6.092, January IAP 2005
 - [[7-a12-freshman-seminar-structural-basis-of-genetic-material-nucleic-acids-fall-2005|Freshman Seminar: Structural Basis of Genetic Material: Nucleic Acids]] — 7.A12, Fall 2005
 - [[7-89j-topics-in-computational-and-systems-biology-fall-2010|Topics in Computational and Systems Biology]] — 7.89J, Fall 2010
 - [[7-014-introductory-biology-spring-2005|Introductory Biology]] — 7.014, Spring 2005

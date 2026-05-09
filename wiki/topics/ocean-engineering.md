@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-011-introduction-to-ocean-science-and-engineering-spring-2006|Introduction to Ocean Science and Engineering]] — 2.011, Spring 2006
+- [[12-811-tropical-meteorology-spring-2011|Tropical Meteorology]] — 12.811, Spring 2011
 - [[12-803-quasi-balanced-circulations-in-oceans-and-atmospheres-fall-2009|Quasi-Balanced Circulations in Oceans and Atmospheres]] — 12.803, Fall 2009
 - [[2-s998-marine-autonomy-sensing-and-communications-spring-2012|Marine Autonomy, Sensing and Communications]] — 2.S998, Spring 2012
 - [[12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006|Turbulence in the Ocean and Atmosphere]] — 12.820, Spring 2006

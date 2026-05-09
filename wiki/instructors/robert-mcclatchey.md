@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[12-815-atmospheric-radiation-fall-2006|Atmospheric Radiation]]
 - [[12-815-atmospheric-radiation-fall-2008|Atmospheric Radiation]]

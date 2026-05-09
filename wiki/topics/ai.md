@@ -12,6 +12,7 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-370-the-battlecode-programming-competition-january-iap-2013|The Battlecode Programming Competition]] — 6.370, January IAP 2013
 - [[6-4210-robotic-manipulation-fall-2022|Robotic Manipulation]] — 6.4210, Fall 2022
 - [[res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021|Media Literacy in the Age of Deepfakes]] — RES.CMS-001, Spring 2021
 - [[mas-965-relational-machines-spring-2005|Relational Machines]] — MAS.965, Spring 2005

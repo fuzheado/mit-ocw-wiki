@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007|Reflective Practice: An Approach for Expanding Your Learning Frontiers]] — 11.965, January IAP 2007
+- [[es-s60-the-art-and-science-of-happiness-spring-2013|The Art and Science of Happiness]] — ES.S60, Spring 2013
 - [[24-09-minds-and-machines-fall-2011|Minds and Machines]] — 24.09, Fall 2011
 - [[9-52-b-topics-in-brain-and-cognitive-sciences-human-ethology-spring-2001|Topics in Brain and Cognitive Sciences Human Ethology]] — 9.52-B, Spring 2001
 - [[9-916-the-neural-basis-of-visual-object-recognition-in-monkeys-and-humans-spring-2005|The Neural Basis of Visual Object Recognition in Monkeys and Humans]] — 9.916, Spring 2005

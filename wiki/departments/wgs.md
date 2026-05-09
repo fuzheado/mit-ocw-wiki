@@ -12,6 +12,9 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21h-381j-women-and-war-in-the-20th-century-fall-2015|Women and War in the 20th Century]] (21H.381J)
+- [[21g-068j-the-invention-of-french-theory-a-history-of-transatlantic-intellectual-life-since-1945-spring-2012|The Invention of French Theory: A History of Transatlantic Intellectual Life since 1945]] (21G.068J)
+- [[wgs-s10-reproductive-politics-in-the-united-states-spring-2013|Reproductive Politics in the United States]] (WGS.S10)
 - [[wgs-110j-sexual-and-gender-identities-spring-2016|Sexual and Gender Identities]] (WGS.110J)
 - [[wgs-s10-black-feminist-health-science-studies-spring-2021|Black Feminist Health Science Studies]] (WGS.S10)
 - [[21a-460j-medicine-religion-and-politics-in-africa-and-the-african-diaspora-spring-2005|Medicine, Religion and Politics in Africa and the African Diaspora]] (21A.460J)

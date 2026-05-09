@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-104-architecture-studio-intentions-spring-2005|Architecture Studio: Intentions]] — 4.104, Spring 2005
+- [[11-301j-introduction-to-urban-design-and-development-fall-2016|Introduction to Urban Design and Development]] — 11.301J, Fall 2016
 - [[4-313-advanced-studio-on-the-production-of-space-fall-2016|Advanced Studio on the Production of Space]] — 4.313, Fall 2016
 - [[4-605-introduction-to-the-history-and-theory-of-architecture-spring-2012|Introduction to the History and Theory of Architecture]] — 4.605, Spring 2012
 - [[4-184-architectural-design-workshops-computational-design-for-housing-spring-2002|Architectural Design Workshops: Computational Design for Housing]] — 4.184, Spring 2002

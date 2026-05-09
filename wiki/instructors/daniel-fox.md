@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[24-954-pragmatics-in-linguistic-theory-fall-2006|Pragmatics in Linguistic Theory]]
 - [[24-952-advanced-syntax-spring-2007|Advanced Syntax]]

@@ -12,6 +12,13 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007|American Science: Ethical Conflicts and Political Choices]] — STS.011, Fall 2007
+- [[sts-035-the-history-of-computing-spring-2004|The History of Computing]] — STS.035, Spring 2004
+- [[21h-381j-women-and-war-in-the-20th-century-fall-2015|Women and War in the 20th Century]] — 21H.381J, Fall 2015
+- [[21l-705-major-authors-americas-literary-scientists-fall-2010|Major Authors: America's Literary Scientists]] — 21L.705, Fall 2010
+- [[21g-056-visual-histories-german-cinema-1945-to-present-fall-2003|Visual  Histories: German Cinema 1945 to Present]] — 21G.056, Fall 2003
+- [[21l-460-medieval-literature-dante-boccaccio-chaucer-spring-2005|Medieval Literature: Dante, Boccaccio, Chaucer]] — 21L.460, Spring 2005
+- [[sts-089-technology-and-innovation-in-africa-fall-2014|Technology and Innovation in Africa]] — STS.089, Fall 2014
 - [[21h-402-the-making-of-a-roman-emperor-fall-2005|The Making of a Roman Emperor]] — 21H.402, Fall 2005
 - [[ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010|Recreate Experiments from History: Inform the Future from the Past: Galileo]] — EC.050, January IAP 2010
 - [[11-947-history-and-theory-of-historic-preservation-spring-2007|History and Theory of Historic Preservation]] — 11.947, Spring 2007

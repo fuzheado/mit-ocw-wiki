@@ -12,6 +12,8 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[9-67-object-and-face-recognition-spring-2001|Object and Face Recognition]] — 9.67, Spring 2001
+- [[9-123-neurotechnology-in-action-fall-2014|Neurotechnology in Action]] — 9.123, Fall 2014
 - [[es-258-goedel-escher-bach-spring-2007|Gödel, Escher, Bach]] — ES.258, Spring 2007
 - [[24-09-minds-and-machines-fall-2011|Minds and Machines]] — 24.09, Fall 2011
 - [[16-410-principles-of-autonomy-and-decision-making-fall-2010|Principles of Autonomy and Decision Making]] — 16.410, Fall 2010

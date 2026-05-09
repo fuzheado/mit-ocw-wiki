@@ -12,6 +12,14 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[mas-s62-cryptocurrency-engineering-and-design-spring-2018|Cryptocurrency Engineering and Design]] — MAS.S62, Spring 2018
+- [[1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012|Introduction to Computers and Engineering Problem Solving]] — 1.00, Spring 2012
+- [[6-170-software-studio-spring-2013|Software Studio]] — 6.170, Spring 2013
+- [[6-830-database-systems-fall-2010|Database Systems]] — 6.830, Fall 2010
+- [[res-6-004-principles-of-computer-system-design-an-introduction-spring-2009|Principles of Computer System Design: An Introduction]] — RES.6-033, Spring 2009
+- [[6-035-computer-language-engineering-spring-2010|Computer Language Engineering]] — 6.035, Spring 2010
+- [[es-293-lego-robotics-spring-2007|Lego Robotics]] — ES.293, Spring 2007
+- [[6-171-software-engineering-for-web-applications-fall-2003|Software Engineering for Web Applications]] — 6.171, Fall 2003
 - [[6-820-fundamentals-of-program-analysis-fall-2015|Fundamentals of Program Analysis]] — 6.820, Fall 2015
 - [[6-005-software-construction-spring-2016|Software Construction]] — 6.005, Spring 2016
 - [[6-251j-introduction-to-mathematical-programming-fall-2009|Introduction to Mathematical Programming]] — 6.251J, Fall 2009

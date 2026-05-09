@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21h-381j-women-and-war-in-the-20th-century-fall-2015|Women and War in the 20th Century]] — 21H.381J, Fall 2015
+- [[wgs-s10-reproductive-politics-in-the-united-states-spring-2013|Reproductive Politics in the United States]] — WGS.S10, Spring 2013
+- [[es-260-womens-novels-a-weekly-book-club-spring-2006|Women's Novels: A Weekly Book Club]] — ES.260, Spring 2006
 - [[24-03-good-food-ethics-and-politics-of-food-spring-2017|Good Food: Ethics and Politics of Food]] — 24.03, Spring 2017
 - [[wgs-110j-sexual-and-gender-identities-spring-2016|Sexual and Gender Identities]] — WGS.110J, Spring 2016
 - [[21h-983-gender-spring-2017|Gender]] — 21H.983, Spring 2017

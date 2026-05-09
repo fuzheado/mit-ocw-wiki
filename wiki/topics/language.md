@@ -12,6 +12,8 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-105-chinese-v-regular-chinese-cultures-society-fall-2003|Chinese V (Regular): Chinese Cultures & Society]] — 21G.105, Fall 2003
+- [[21g-068j-the-invention-of-french-theory-a-history-of-transatlantic-intellectual-life-since-1945-spring-2012|The Invention of French Theory: A History of Transatlantic Intellectual Life since 1945]] — 21G.068J, Spring 2012
 - [[21g-052-french-film-classics-spring-2015|French Film Classics]] — 21G.052, Spring 2015
 - [[res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022|Kanji Learning Any Time, Any Place for Japanese V]] — RES.21G-505, Spring 2022
 - [[21g-322j-frenchness-in-an-era-of-globalization-fall-2016|Frenchness in an Era of Globalization]] — 21G.322J, Fall 2016

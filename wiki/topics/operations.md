@@ -12,6 +12,7 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[2-852-manufacturing-systems-analysis-spring-2010|Manufacturing Systems Analysis]] — 2.852, Spring 2010
 - [[15-760b-introduction-to-operations-management-spring-2004|Introduction to Operations Management]] — 15.760B, Spring 2004
 - [[15-053-optimization-methods-in-management-science-spring-2013|Optimization Methods in Management Science]] — 15.053, Spring 2013
 - [[res-15-001-mit-sloan-learningedge-fall-2008|MIT Sloan Teaching Resources Library]] — RES.15-001, Fall 2008

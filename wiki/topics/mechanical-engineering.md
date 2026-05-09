@@ -12,6 +12,13 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-14-analysis-and-design-of-feedback-control-systems-spring-2014|Analysis and Design of Feedback Control Systems]] — 2.14, Spring 2014
+- [[3-22-mechanical-behavior-of-materials-spring-2008|Mechanical Behavior of Materials]] — 3.22, Spring 2008
+- [[es-293-lego-robotics-spring-2007|Lego Robotics]] — ES.293, Spring 2007
+- [[16-61-aerospace-dynamics-spring-2003|Aerospace Dynamics]] — 16.61, Spring 2003
+- [[2-00b-toy-product-design-spring-2008|Toy Product Design]] — 2.00B, Spring 2008
+- [[ec-s06-prototypes-to-products-fall-2005|Prototypes to Products]] — EC.S06, Fall 2005
+- [[8-512-theory-of-solids-ii-spring-2009|Theory of Solids II]] — 8.512, Spring 2009
 - [[res-6-001-continuum-electromechanics-spring-2009|Continuum Electromechanics]] — RES.6-001, Spring 2009
 - [[16-07-dynamics-fall-2009|Dynamics]] — 16.07, Fall 2009
 - [[1-054-mechanics-and-design-of-concrete-structures-spring-2004|Mechanics and Design of Concrete Structures]] — 1.054, Spring 2004
