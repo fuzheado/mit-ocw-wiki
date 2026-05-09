@@ -12,6 +12,12 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[sts-025j-making-the-modern-world-the-industrial-revolution-in-global-perspective-fall-2009|Making the Modern World: The Industrial Revolution in Global Perspective]] (STS.025J)
+- [[sts-310-history-of-science-fall-2015|History of Science]] (STS.310)
+- [[sts-050-the-history-of-mit-spring-2011|The History of MIT]] (STS.050)
+- [[sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005|Scientific Visualization across Disciplines: A Critical Introduction]] (STS.067)
+- [[sts-014-principles-and-practice-of-science-communication-spring-2006|Principles and Practice of Science Communication]] (STS.014)
+- [[sts-464-cultural-history-of-technology-spring-2005|Cultural History of Technology]] (STS.464)
 - [[sts-010-neuroscience-and-society-spring-2010|Neuroscience and Society]] (STS.010)
 - [[sts-036-technology-and-nature-in-american-history-spring-2008|Technology and Nature in American History]] (STS.036)
 - [[sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007|American Science: Ethical Conflicts and Political Choices]] (STS.011)

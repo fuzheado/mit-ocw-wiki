@@ -12,6 +12,7 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21h-983j-gender-historical-perspectives-fall-2020|Gender: Historical Perspectives]] — 21H.983J, Fall 2020
 - [[wgs-181-queer-cinema-and-visual-culture-fall-2017|Queer Cinema and Visual Culture]] — WGS.181, Fall 2017
 - [[21g-325j-new-culture-of-gender-queer-france-fall-2011|New Culture of Gender: Queer France]] — 21G.325J, Fall 2011
 - [[9-75j-psychology-of-gender-spring-2003|Psychology of Gender]] — 9.75J, Spring 2003

@@ -12,6 +12,7 @@ School: [[school-schwarzman-computing|MIT Schwarzman College of Computing]]
 
 ## Courses
 
+- [[ids-910-leadership-development-fall-2002|Leadership Development]] (IDS.910)
 - [[16-89j-space-systems-engineering-spring-2007|Space Systems Engineering]] (16.89J)
 - [[ids-410j-modeling-and-assessment-for-policy-spring-2013|Modeling and Assessment for Policy]] (IDS.410J)
 - [[15-075j-statistical-thinking-and-data-analysis-fall-2011|Statistical Thinking and Data Analysis]] (15.075J)

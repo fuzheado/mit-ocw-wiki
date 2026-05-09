@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[18-915-graduate-topology-seminar-kan-seminar-fall-2014|Graduate Topology Seminar: Kan Seminar]]
 - [[18-03-differential-equations-spring-2010|Differential Equations]]
 - [[18-03sc-differential-equations-fall-2011|Differential Equations]]
 - [[18-905-algebraic-topology-i-fall-2016|Algebraic Topology I]]

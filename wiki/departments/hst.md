@@ -12,6 +12,9 @@ School: [[school-engineering|School of Engineering]]
 
 ## Courses
 
+- [[20-453j-biomedical-information-technology-fall-2008|Biomedical Information Technology]] (20.453J)
+- [[hst-730-molecular-biology-for-the-auditory-system-fall-2002|Molecular Biology for the Auditory System]] (HST.730)
+- [[hst-951j-medical-decision-support-spring-2003|Medical Decision Support]] (HST.951J)
 - [[9-22j-a-clinical-approach-to-the-human-brain-fall-2006|A Clinical Approach to the Human Brain]] (9.22J)
 - [[hst-935-narrative-ethics-literary-texts-and-moral-issues-in-medicine-january-iap-2007|Narrative Ethics: Literary Texts and Moral Issues in Medicine]] (HST.935)
 - [[hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005|Brain Mechanisms for Hearing and Speech]] (HST.722J)

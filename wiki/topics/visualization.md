@@ -2,6 +2,7 @@
 
 ## Courses
 
+- [[sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005|Scientific Visualization across Disciplines: A Critical Introduction]] — STS.067, Spring 2005
 - [[6-881-representation-and-modeling-for-image-analysis-spring-2005|Representation and Modeling for Image Analysis]] — 6.881, Spring 2005
 - [[6-s980-machine-learning-for-inverse-graphics-fall-2022|Machine Learning for Inverse Graphics]] — 6.S980, Fall 2022
 - [[11-501-introduction-to-technology-and-cities-fall-2002|Introduction to Technology and Cities]] — 11.501, Fall 2002

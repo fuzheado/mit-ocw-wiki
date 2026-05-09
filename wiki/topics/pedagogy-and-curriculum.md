@@ -12,6 +12,7 @@ Part of: [[education-and-teaching|Education & Teaching]]
 
 ## Courses
 
+- [[sts-050-the-history-of-mit-spring-2011|The History of MIT]] — STS.050, Spring 2011
 - [[res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020|Exploring Fairness in Machine Learning for International Development]] — RES.EC-001, Spring 2020
 - [[res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022|RAISE (Responsible AI for Social Empowerment and Education)]] — RES.MAS-001, Spring 2022
 - [[res-mas-002-day-of-ai-spring-2022|Day of AI]] — RES.MAS-002, Spring 2022

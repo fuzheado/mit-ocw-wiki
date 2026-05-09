@@ -12,6 +12,8 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[11-s955-the-sustainability-response-to-covid-19-january-iap-2021|The Sustainability Response to COVID-19]] — 11.S955, January IAP 2021
+- [[21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016|Science Writing and New Media: Perspectives on Medicine and Public Health]] — 21W.034, Fall 2016
 - [[15-s07-globalhealth-lab-spring-2013|GlobalHealth Lab]] — 15.S07, Spring 2013
 - [[ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010|D-Lab: Medical Technologies for the Developing World]] — EC.710, Spring 2010
 - [[wgs-s10-black-feminist-health-science-studies-spring-2021|Black Feminist Health Science Studies]] — WGS.S10, Spring 2021

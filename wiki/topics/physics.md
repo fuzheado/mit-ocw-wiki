@@ -12,6 +12,16 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[2-57-nano-to-macro-transport-processes-spring-2012|Nano-to-Macro Transport Processes]] — 2.57, Spring 2012
+- [[3-15x-electrical-optical-and-magnetic-materials-and-devices-spring-2020|Electrical, Optical, and Magnetic Materials and Devices]] — 3.15x, Spring 2020
+- [[6-701-introduction-to-nanoelectronics-spring-2010|Introduction to Nanoelectronics]] — 6.701, Spring 2010
+- [[3-052-nanomechanics-of-materials-and-biomaterials-spring-2007|Nanomechanics of Materials and Biomaterials]] — 3.052, Spring 2007
+- [[2-682-acoustical-oceanography-spring-2012|Acoustical Oceanography]] — 2.682, Spring 2012
+- [[8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002|Physics I: Classical Mechanics with an Experimental Focus]] — 8.01X, Fall 2002
+- [[8-03sc-physics-iii-vibrations-and-waves-fall-2016|Physics III: Vibrations and Waves]] — 8.03SC, Fall 2016
+- [[22-611j-introduction-to-plasma-physics-i-fall-2003|Introduction to Plasma Physics I]] — 22.611J, Fall 2003
+- [[3-032-mechanical-behavior-of-materials-fall-2007|Mechanical Behavior of Materials]] — 3.032, Fall 2007
+- [[res-ll-001-introduction-to-radar-systems-spring-2007|Introduction to Radar Systems]] — RES.LL-001, Spring 2007
 - [[8-06-quantum-physics-iii-spring-2016|Quantum Physics III]] — 8.06, Spring 2016
 - [[8-370x-quantum-information-science-i-spring-2018|Quantum Information Science I]] — 8.370x, Spring 2018
 - [[8-033-relativity-fall-2006|Relativity]] — 8.033, Fall 2006

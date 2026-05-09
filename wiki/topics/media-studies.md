@@ -12,6 +12,7 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[sts-014-principles-and-practice-of-science-communication-spring-2006|Principles and Practice of Science Communication]] — STS.014, Spring 2006
 - [[11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998|Imaging the City: The Place of Media in City Design and Development]] — 11.947, Fall 1998
 - [[21g-325j-new-culture-of-gender-queer-france-fall-2011|New Culture of Gender: Queer France]] — 21G.325J, Fall 2011
 - [[cms-615-games-for-social-change-fall-2013|Games for Social Change]] — CMS.615, Fall 2013

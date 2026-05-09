@@ -8,6 +8,8 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21l-002-foundations-of-western-culture-ii-fall-2002|Foundations of Western Culture II]]
+- [[21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013|The Supernatural in Music, Literature and Culture]]
 - [[21l-315-prizewinners-spring-2007|Prizewinners]]
 - [[21l-705-major-authors-rewriting-genesis-paradise-lost-and-twentieth-century-fantasy-spring-2009|Major Authors: Rewriting Genesis: "Paradise Lost" and Twentieth-Century Fantasy]]
 - [[21l-007j-after-columbus-fall-2003|After Columbus]]

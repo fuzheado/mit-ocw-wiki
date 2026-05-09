@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[3-091-introduction-to-solid-state-chemistry-fall-2018|Introduction to Solid-State Chemistry]] — 3.091, Fall 2018
+- [[3-064-polymer-engineering-fall-2003|Polymer Engineering]] — 3.064, Fall 2003
 - [[10-37-chemical-and-biological-reaction-engineering-spring-2007|Chemical and Biological Reaction Engineering]] — 10.37, Spring 2007
 - [[2-830j-control-of-manufacturing-processes-sma-6303-spring-2008|Control of Manufacturing Processes (SMA 6303)]] — 2.830J, Spring 2008
 - [[6-780-semiconductor-manufacturing-spring-2003|Semiconductor Manufacturing]] — 6.780, Spring 2003

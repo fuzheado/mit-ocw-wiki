@@ -12,6 +12,11 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[3-15x-electrical-optical-and-magnetic-materials-and-devices-spring-2020|Electrical, Optical, and Magnetic Materials and Devices]] — 3.15x, Spring 2020
+- [[6-701-introduction-to-nanoelectronics-spring-2010|Introduction to Nanoelectronics]] — 6.701, Spring 2010
+- [[6-002-circuits-and-electronics-spring-2007|Circuits and Electronics]] — 6.002, Spring 2007
+- [[res-ll-001-introduction-to-radar-systems-spring-2007|Introduction to Radar Systems]] — RES.LL-001, Spring 2007
+- [[6-345-automatic-speech-recognition-spring-2003|Automatic Speech Recognition]] — 6.345, Spring 2003
 - [[res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008|Electromagnetic Field Theory: A Problem Solving Approach]] — RES.6-002, Spring 2008
 - [[6-243j-dynamics-of-nonlinear-systems-fall-2003|Dynamics of Nonlinear Systems]] — 6.243J, Fall 2003
 - [[6-453-quantum-optical-communication-fall-2016|Quantum Optical Communication]] — 6.453, Fall 2016

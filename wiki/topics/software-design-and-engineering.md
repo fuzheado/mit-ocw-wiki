@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-172-performance-engineering-of-software-systems-fall-2018|Performance Engineering of Software Systems]] — 6.172, Fall 2018
+- [[18-s191-introduction-to-computational-thinking-fall-2022|Introduction to Computational Thinking]] — 18.S191, Fall 2022
 - [[6-828-operating-system-engineering-fall-2012|Operating System Engineering]] — 6.828, Fall 2012
 - [[6-170-laboratory-in-software-engineering-fall-2005|Laboratory in Software Engineering]] — 6.170, Fall 2005
 - [[mas-s62-cryptocurrency-engineering-and-design-spring-2018|Cryptocurrency Engineering and Design]] — MAS.S62, Spring 2018

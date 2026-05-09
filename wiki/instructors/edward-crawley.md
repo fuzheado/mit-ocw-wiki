@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[esd-34-system-architecture-january-iap-2007|System Architecture]]
 - [[16-89j-space-systems-engineering-spring-2007|Space Systems Engineering]]

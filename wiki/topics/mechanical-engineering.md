@@ -12,6 +12,13 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-57-nano-to-macro-transport-processes-spring-2012|Nano-to-Macro Transport Processes]] — 2.57, Spring 2012
+- [[6-701-introduction-to-nanoelectronics-spring-2010|Introduction to Nanoelectronics]] — 6.701, Spring 2010
+- [[3-052-nanomechanics-of-materials-and-biomaterials-spring-2007|Nanomechanics of Materials and Biomaterials]] — 3.052, Spring 2007
+- [[2-996-sailing-yacht-design-13-734-fall-2003|Sailing Yacht Design (13.734)]] — 2.996, Fall 2003
+- [[3-032-mechanical-behavior-of-materials-fall-2007|Mechanical Behavior of Materials]] — 3.032, Fall 2007
+- [[2-004-modeling-dynamics-and-control-ii-spring-2003|Modeling Dynamics and Control II]] — 2.004, Spring 2003
+- [[ec-s02-water-jet-technologies-spring-2005|Water Jet Technologies]] — EC.S02, Spring 2005
 - [[2-830j-control-of-manufacturing-processes-sma-6303-spring-2008|Control of Manufacturing Processes (SMA 6303)]] — 2.830J, Spring 2008
 - [[2-18-biomolecular-feedback-systems-spring-2015|Biomolecular Feedback Systems]] — 2.18, Spring 2015
 - [[6-254-game-theory-with-engineering-applications-spring-2010|Game Theory with Engineering Applications]] — 6.254, Spring 2010

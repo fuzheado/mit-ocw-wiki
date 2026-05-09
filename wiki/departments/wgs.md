@@ -12,6 +12,7 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21h-983j-gender-historical-perspectives-fall-2020|Gender: Historical Perspectives]] (21H.983J)
 - [[wgs-181-queer-cinema-and-visual-culture-fall-2017|Queer Cinema and Visual Culture]] (WGS.181)
 - [[21g-325j-new-culture-of-gender-queer-france-fall-2011|New Culture of Gender: Queer France]] (21G.325J)
 - [[21g-022j-international-womens-voices-spring-2004|International Women's Voices]] (21G.022J)

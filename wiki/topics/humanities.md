@@ -20,6 +20,37 @@ courses_count: 0
 
 ## Courses
 
+- [[21l-000j-writing-about-literature-fall-2010|Writing About Literature]] — 21L.000J, Fall 2010
+- [[sts-025j-making-the-modern-world-the-industrial-revolution-in-global-perspective-fall-2009|Making the Modern World: The Industrial Revolution in Global Perspective]] — STS.025J, Fall 2009
+- [[24-951-introduction-to-syntax-fall-2003|Introduction to Syntax]] — 24.951, Fall 2003
+- [[21l-448j-darwin-and-design-fall-2010|Darwin and Design]] — 21L.448J, Fall 2010
+- [[sts-310-history-of-science-fall-2015|History of Science]] — STS.310, Fall 2015
+- [[21g-049-french-photography-spring-2017|French Photography]] — 21G.049, Spring 2017
+- [[21l-315-prizewinners-nobelistas-spring-2014|Prizewinners: Nobelistas]] — 21L.315, Spring 2014
+- [[sts-050-the-history-of-mit-spring-2011|The History of MIT]] — STS.050, Spring 2011
+- [[6-868j-the-society-of-mind-fall-2011|The Society of Mind]] — 6.868J, Fall 2011
+- [[21h-983j-gender-historical-perspectives-fall-2020|Gender: Historical Perspectives]] — 21H.983J, Fall 2020
+- [[21g-704-spanish-iv-spring-2005|Spanish IV]] — 21G.704, Spring 2005
+- [[24-915-linguistic-phonetics-fall-2015|Linguistic Phonetics]] — 24.915, Fall 2015
+- [[21h-102-american-history-since-1865-spring-2018|American History Since 1865]] — 21H.102, Spring 2018
+- [[21l-003-1-reading-fiction-dysfunctional-families-spring-2007|Reading Fiction: Dysfunctional Families]] — 21L.003-1, Spring 2007
+- [[21l-423j-introduction-to-anglo-american-folk-music-fall-2005|Introduction to Anglo-American Folk Music]] — 21L.423J, Fall 2005
+- [[sts-464-cultural-history-of-technology-spring-2005|Cultural History of Technology]] — STS.464, Spring 2005
+- [[6-345-automatic-speech-recognition-spring-2003|Automatic Speech Recognition]] — 6.345, Spring 2003
+- [[17-537-politics-and-policy-in-contemporary-japan-spring-2009|Politics and Policy in Contemporary Japan]] — 17.537, Spring 2009
+- [[21h-224-law-and-society-in-us-history-spring-2003|Law and Society in US History]] — 21H.224, Spring 2003
+- [[21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012|Medieval Economic History in Comparative Perspective]] — 21H.134J, Spring 2012
+- [[21g-346-topics-in-modern-french-literature-and-culture-global-paris-fall-2014|Topics in Modern French Literature and Culture: Global Paris]] — 21G.346, Fall 2014
+- [[21m-291-music-of-india-spring-2007|Music of India]] — 21M.291, Spring 2007
+- [[21l-002-foundations-of-western-culture-ii-fall-2002|Foundations of Western Culture II]] — 21L.002, Fall 2002
+- [[21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010|Riots, Strikes, and Conspiracies in American History]] — 21H.104J, Fall 2010
+- [[17-582-civil-war-spring-2010|Civil War]] — 17.582, Spring 2010
+- [[21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013|The Supernatural in Music, Literature and Culture]] — 21M.013J, Fall 2013
+- [[21g-222-expository-writing-for-bilingual-students-fall-2002|Expository Writing for Bilingual Students]] — 21G.222, Fall 2002
+- [[es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006|Composing Your Life: Exploration of Self through Visual Arts and Writing]] — ES.240, Spring 2006
+- [[21h-331-julius-caesar-and-the-fall-of-the-roman-republic-spring-2016|Julius Caesar and the Fall of the Roman Republic]] — 21H.331, Spring 2016
+- [[21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016|Science Writing and New Media: Perspectives on Medicine and Public Health]] — 21W.034, Fall 2016
+- [[21m-351-music-composition-fall-2008|Music Composition]] — 21M.351, Fall 2008
 - [[21g-109-chinese-iii-streamlined-fall-2005|Chinese III (Streamlined)]] — 21G.109, Fall 2005
 - [[21l-476-romantic-poetry-spring-2005|Romantic Poetry]] — 21L.476, Spring 2005
 - [[21l-715-media-in-cultural-context-fall-2015|Media in Cultural Context]] — 21L.715, Fall 2015

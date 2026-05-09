@@ -12,6 +12,10 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-423j-introduction-to-anglo-american-folk-music-fall-2005|Introduction to Anglo-American Folk Music]] — 21L.423J, Fall 2005
+- [[21m-291-music-of-india-spring-2007|Music of India]] — 21M.291, Spring 2007
+- [[21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013|The Supernatural in Music, Literature and Culture]] — 21M.013J, Fall 2013
+- [[21m-351-music-composition-fall-2008|Music Composition]] — 21M.351, Fall 2008
 - [[21m-250-schubert-to-debussy-fall-2006|Schubert to Debussy]] — 21M.250, Fall 2006
 - [[21m-380-music-and-technology-sound-design-spring-2016|Music and Technology: Sound Design]] — 21M.380, Spring 2016
 - [[21m-299-the-beatles-fall-2017|The Beatles]] — 21M.299, Fall 2017

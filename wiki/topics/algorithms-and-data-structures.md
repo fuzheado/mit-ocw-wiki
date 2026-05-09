@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-172-performance-engineering-of-software-systems-fall-2018|Performance Engineering of Software Systems]] — 6.172, Fall 2018
+- [[18-s191-introduction-to-computational-thinking-fall-2022|Introduction to Computational Thinking]] — 18.S191, Fall 2022
 - [[8-370x-quantum-information-science-i-spring-2018|Quantum Information Science I]] — 8.370x, Spring 2018
 - [[6-034-artificial-intelligence-fall-2010|Artificial Intelligence]] — 6.034, Fall 2010
 - [[mas-s62-cryptocurrency-engineering-and-design-spring-2018|Cryptocurrency Engineering and Design]] — MAS.S62, Spring 2018

@@ -12,6 +12,12 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-263-american-elections-fall-2020|American Elections]] — 17.263, Fall 2020
+- [[17-200-graduate-seminar-in-american-politics-i-political-behavior-fall-2016|Graduate Seminar in American Politics I: Political Behavior]] — 17.200, Fall 2016
+- [[17-537-politics-and-policy-in-contemporary-japan-spring-2009|Politics and Policy in Contemporary Japan]] — 17.537, Spring 2009
+- [[11-307-beijing-urban-design-studio-summer-2008|Beijing Urban Design Studio]] — 11.307, Summer 2008
+- [[17-582-civil-war-spring-2010|Civil War]] — 17.582, Spring 2010
+- [[17-181-sustainability-political-economy-science-and-policy-fall-2016|Sustainability: Political Economy, Science, and Policy]] — 17.181, Fall 2016
 - [[17-918-new-global-agenda-exploring-21st-century-challenges-through-innovations-in-information-technologies-january-iap-2006|New Global Agenda: Exploring 21st Century Challenges through Innovations in Information Technologies]] — 17.918, January IAP 2006
 - [[21h-319-race-crime-and-citizenship-in-american-law-fall-2014|Race, Crime, and Citizenship in American Law]] — 21H.319, Fall 2014
 - [[17-148-political-economy-of-globalization-spring-2006|Political Economy of Globalization]] — 17.148, Spring 2006

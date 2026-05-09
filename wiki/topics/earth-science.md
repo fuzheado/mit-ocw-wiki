@@ -12,6 +12,13 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[12-570-structure-and-dynamics-of-the-cmb-region-spring-2004|Structure and Dynamics of the CMB Region]] — 12.570, Spring 2004
+- [[1-72-groundwater-hydrology-fall-2005|Groundwater Hydrology]] — 1.72, Fall 2005
+- [[2-682-acoustical-oceanography-spring-2012|Acoustical Oceanography]] — 2.682, Spring 2012
+- [[10-571j-atmospheric-physics-and-chemistry-spring-2006|Atmospheric Physics and Chemistry]] — 10.571J, Spring 2006
+- [[18-s191-introduction-to-computational-thinking-fall-2022|Introduction to Computational Thinking]] — 18.S191, Fall 2022
+- [[17-181-sustainability-political-economy-science-and-policy-fall-2016|Sustainability: Political Economy, Science, and Policy]] — 17.181, Fall 2016
+- [[12-000-solving-complex-problems-fall-2009|Solving Complex Problems]] — 12.000, Fall 2009
 - [[11-943j-urban-transportation-land-use-and-the-environment-spring-2002|Urban Transportation, Land Use, and the Environment]] — 11.943J, Spring 2002
 - [[12-000-solving-complex-problems-fall-2003|Solving Complex Problems]] — 12.000, Fall 2003
 - [[12-201-essentials-of-geophysics-fall-2004|Essentials of Geophysics]] — 12.201, Fall 2004

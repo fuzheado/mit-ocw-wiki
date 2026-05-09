@@ -12,6 +12,10 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[res-11-550-leveraging-urban-mobility-disruptions-to-create-better-cities-spring-2021|Leveraging Urban Mobility Disruptions to Create Better Cities]] — RES.11-550, Spring 2021
+- [[11-s955-the-sustainability-response-to-covid-19-january-iap-2021|The Sustainability Response to COVID-19]] — 11.S955, January IAP 2021
+- [[11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007|Special Studies in Urban Studies and Planning: Economic Development Planning Skills]] — 11.967, January IAP 2007
+- [[11-307-beijing-urban-design-studio-summer-2008|Beijing Urban Design Studio]] — 11.307, Summer 2008
 - [[11-943j-urban-transportation-land-use-and-the-environment-spring-2002|Urban Transportation, Land Use, and the Environment]] — 11.943J, Spring 2002
 - [[11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998|Imaging the City: The Place of Media in City Design and Development]] — 11.947, Fall 1998
 - [[sts-036-technology-and-nature-in-american-history-spring-2008|Technology and Nature in American History]] — STS.036, Spring 2008

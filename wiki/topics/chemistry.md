@@ -12,6 +12,10 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[3-091-introduction-to-solid-state-chemistry-fall-2018|Introduction to Solid-State Chemistry]] — 3.091, Fall 2018
+- [[6-701-introduction-to-nanoelectronics-spring-2010|Introduction to Nanoelectronics]] — 6.701, Spring 2010
+- [[3-052-nanomechanics-of-materials-and-biomaterials-spring-2007|Nanomechanics of Materials and Biomaterials]] — 3.052, Spring 2007
+- [[22-611j-introduction-to-plasma-physics-i-fall-2003|Introduction to Plasma Physics I]] — 22.611J, Fall 2003
 - [[5-111-principles-of-chemical-science-fall-2008|Principles of Chemical Science]] — 5.111, Fall 2008
 - [[10-37-chemical-and-biological-reaction-engineering-spring-2007|Chemical and Biological Reaction Engineering]] — 10.37, Spring 2007
 - [[1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004|Chemicals in the Environment: Fate and Transport]] — 1.725J, Fall 2004

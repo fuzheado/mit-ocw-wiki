@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21h-983j-gender-historical-perspectives-fall-2020|Gender: Historical Perspectives]] — 21H.983J, Fall 2020
+- [[21h-224-law-and-society-in-us-history-spring-2003|Law and Society in US History]] — 21H.224, Spring 2003
 - [[21g-311-introduction-to-french-culture-spring-2014|Introduction to French Culture]] — 21G.311, Spring 2014
 - [[21g-325j-new-culture-of-gender-queer-france-fall-2011|New Culture of Gender: Queer France]] — 21G.325J, Fall 2011
 - [[21a-348-photography-and-truth-spring-2008|Photography and Truth]] — 21A.348, Spring 2008

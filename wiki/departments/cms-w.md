@@ -12,6 +12,7 @@ School: [[school-humanities-arts-social-sciences|School of Humanities, Arts, and
 
 ## Courses
 
+- [[21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016|Science Writing and New Media: Perspectives on Medicine and Public Health]] (21W.034)
 - [[21w-775-writing-about-nature-and-environmental-issues-spring-2017|Writing about Nature and Environmental Issues]] (21W.775)
 - [[cms-594-education-technology-studio-spring-2019|Education Technology Studio]] (CMS.594)
 - [[21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015|Writing and Rhetoric: Rhetoric and Contemporary Issues]] (21W.011)

@@ -12,6 +12,11 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-448j-darwin-and-design-fall-2010|Darwin and Design]] — 21L.448J, Fall 2010
+- [[6-868j-the-society-of-mind-fall-2011|The Society of Mind]] — 6.868J, Fall 2011
+- [[21h-224-law-and-society-in-us-history-spring-2003|Law and Society in US History]] — 21H.224, Spring 2003
+- [[21l-002-foundations-of-western-culture-ii-fall-2002|Foundations of Western Culture II]] — 21L.002, Fall 2002
+- [[21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010|Riots, Strikes, and Conspiracies in American History]] — 21H.104J, Fall 2010
 - [[24-211-theory-of-knowledge-spring-2014|Theory of Knowledge]] — 24.211, Spring 2014
 - [[11-467j-property-rights-in-transition-spring-2005|Property Rights in Transition]] — 11.467J, Spring 2005
 - [[hst-935-narrative-ethics-literary-texts-and-moral-issues-in-medicine-january-iap-2007|Narrative Ethics: Literary Texts and Moral Issues in Medicine]] — HST.935, January IAP 2007

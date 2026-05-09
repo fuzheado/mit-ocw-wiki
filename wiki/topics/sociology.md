@@ -12,6 +12,10 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[21h-983j-gender-historical-perspectives-fall-2020|Gender: Historical Perspectives]] — 21H.983J, Fall 2020
+- [[11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007|Special Studies in Urban Studies and Planning: Economic Development Planning Skills]] — 11.967, January IAP 2007
+- [[17-537-politics-and-policy-in-contemporary-japan-spring-2009|Politics and Policy in Contemporary Japan]] — 17.537, Spring 2009
+- [[21m-291-music-of-india-spring-2007|Music of India]] — 21M.291, Spring 2007
 - [[sts-010-neuroscience-and-society-spring-2010|Neuroscience and Society]] — STS.010, Spring 2010
 - [[wgs-181-queer-cinema-and-visual-culture-fall-2017|Queer Cinema and Visual Culture]] — WGS.181, Fall 2017
 - [[21g-311-introduction-to-french-culture-spring-2014|Introduction to French Culture]] — 21G.311, Spring 2014

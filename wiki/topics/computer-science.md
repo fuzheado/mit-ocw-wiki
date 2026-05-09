@@ -12,6 +12,12 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[20-453j-biomedical-information-technology-fall-2008|Biomedical Information Technology]] — 20.453J, Fall 2008
+- [[6-172-performance-engineering-of-software-systems-fall-2018|Performance Engineering of Software Systems]] — 6.172, Fall 2018
+- [[6-868j-the-society-of-mind-fall-2011|The Society of Mind]] — 6.868J, Fall 2011
+- [[18-s191-introduction-to-computational-thinking-fall-2022|Introduction to Computational Thinking]] — 18.S191, Fall 2022
+- [[hst-951j-medical-decision-support-spring-2003|Medical Decision Support]] — HST.951J, Spring 2003
+- [[sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005|Scientific Visualization across Disciplines: A Critical Introduction]] — STS.067, Spring 2005
 - [[8-370x-quantum-information-science-i-spring-2018|Quantum Information Science I]] — 8.370x, Spring 2018
 - [[6-828-operating-system-engineering-fall-2012|Operating System Engineering]] — 6.828, Fall 2012
 - [[res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020|Exploring Fairness in Machine Learning for International Development]] — RES.EC-001, Spring 2020

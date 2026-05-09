@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21g-049-french-photography-spring-2017|French Photography]] — 21G.049, Spring 2017
+- [[es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006|Composing Your Life: Exploration of Self through Visual Arts and Writing]] — ES.240, Spring 2006
 - [[wgs-181-queer-cinema-and-visual-culture-fall-2017|Queer Cinema and Visual Culture]] — WGS.181, Fall 2017
 - [[21a-348-photography-and-truth-spring-2008|Photography and Truth]] — 21A.348, Spring 2008
 - [[11-139-the-city-in-film-spring-2015|The City in Film]] — 11.139, Spring 2015

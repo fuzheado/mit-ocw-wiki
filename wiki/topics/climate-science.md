@@ -12,6 +12,7 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[18-s191-introduction-to-computational-thinking-fall-2022|Introduction to Computational Thinking]] — 18.S191, Fall 2022
 - [[11-943j-urban-transportation-land-use-and-the-environment-spring-2002|Urban Transportation, Land Use, and the Environment]] — 11.943J, Spring 2002
 - [[ids-410j-modeling-and-assessment-for-policy-spring-2013|Modeling and Assessment for Policy]] — IDS.410J, Spring 2013
 - [[12-811-tropical-meteorology-spring-2011|Tropical Meteorology]] — 12.811, Spring 2011

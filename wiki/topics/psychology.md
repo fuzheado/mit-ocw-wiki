@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[15-310-managerial-psychology-laboratory-spring-2003|Managerial Psychology Laboratory]] — 15.310, Spring 2003
+- [[9-012-the-brain-and-cognitive-sciences-ii-spring-2002|The Brain and Cognitive Sciences II]] — 9.012, Spring 2002
 - [[9-22j-a-clinical-approach-to-the-human-brain-fall-2006|A Clinical Approach to the Human Brain]] — 9.22J, Fall 2006
 - [[9-75j-psychology-of-gender-spring-2003|Psychology of Gender]] — 9.75J, Spring 2003
 - [[9-95-a-research-topics-in-neuroscience-january-iap-2003|Research Topics in Neuroscience]] — 9.95-A, January IAP 2003

@@ -12,6 +12,13 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[4-511-digital-mock-up-workshop-spring-2006|Digital Mock-Up Workshop]] — 4.511, Spring 2006
+- [[9-66j-computational-cognitive-science-fall-2004|Computational Cognitive Science]] — 9.66J, Fall 2004
+- [[6-172-performance-engineering-of-software-systems-fall-2018|Performance Engineering of Software Systems]] — 6.172, Fall 2018
+- [[esd-33-systems-engineering-summer-2004|Systems Engineering]] — ESD.33, Summer 2004
+- [[esd-34-system-architecture-january-iap-2007|System Architecture]] — ESD.34, January IAP 2007
+- [[2-004-modeling-dynamics-and-control-ii-spring-2003|Modeling Dynamics and Control II]] — 2.004, Spring 2003
+- [[2-994-madm-with-applications-in-material-selection-and-optimal-design-january-iap-2007|MADM with Applications in Material Selection and Optimal Design]] — 2.994, January IAP 2007
 - [[16-89j-space-systems-engineering-spring-2007|Space Systems Engineering]] — 16.89J, Spring 2007
 - [[esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007|Frameworks and Models in Engineering Systems / Engineering System Design]] — ESD.04J, Spring 2007
 - [[2-830j-control-of-manufacturing-processes-sma-6303-spring-2008|Control of Manufacturing Processes (SMA 6303)]] — 2.830J, Spring 2008

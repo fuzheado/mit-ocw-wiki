@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007|Special Studies in Urban Studies and Planning: Economic Development Planning Skills]]
 - [[11-945-springfield-studio-fall-2005|Springfield Studio]]
 - [[11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005|Revitalizing Urban Main Streets: Hyde/Jackson Square & Roslindale Square, Boston]]
 - [[11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009|Revitalizing Urban Main Streets: St. Claude Avenue, New Orleans]]

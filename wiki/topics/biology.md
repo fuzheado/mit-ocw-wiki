@@ -12,6 +12,13 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[5-07sc-biological-chemistry-i-fall-2013|Biological Chemistry I]] — 5.07SC, Fall 2013
+- [[hst-730-molecular-biology-for-the-auditory-system-fall-2002|Molecular Biology for the Auditory System]] — HST.730, Fall 2002
+- [[12-517-dynamics-of-complex-systems-ecological-theory-spring-2001|Dynamics of Complex Systems: Ecological Theory]] — 12.517, Spring 2001
+- [[7-88j-protein-folding-and-human-disease-spring-2015|Protein Folding and Human Disease]] — 7.88J, Spring 2015
+- [[20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012|Analysis of Biomolecular and Cellular Systems]] — 20.320, Fall 2012
+- [[7-012-introduction-to-biology-fall-2004|Introduction to Biology]] — 7.012, Fall 2004
+- [[9-012-the-brain-and-cognitive-sciences-ii-spring-2002|The Brain and Cognitive Sciences II]] — 9.012, Spring 2002
 - [[9-22j-a-clinical-approach-to-the-human-brain-fall-2006|A Clinical Approach to the Human Brain]] — 9.22J, Fall 2006
 - [[9-20-animal-behavior-fall-2013|Animal Behavior]] — 9.20, Fall 2013
 - [[2-18-biomolecular-feedback-systems-spring-2015|Biomolecular Feedback Systems]] — 2.18, Spring 2015

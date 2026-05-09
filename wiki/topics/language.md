@@ -12,6 +12,10 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21g-049-french-photography-spring-2017|French Photography]] — 21G.049, Spring 2017
+- [[21g-704-spanish-iv-spring-2005|Spanish IV]] — 21G.704, Spring 2005
+- [[21g-346-topics-in-modern-french-literature-and-culture-global-paris-fall-2014|Topics in Modern French Literature and Culture: Global Paris]] — 21G.346, Fall 2014
+- [[21g-222-expository-writing-for-bilingual-students-fall-2002|Expository Writing for Bilingual Students]] — 21G.222, Fall 2002
 - [[21g-109-chinese-iii-streamlined-fall-2005|Chinese III (Streamlined)]] — 21G.109, Fall 2005
 - [[21g-311-introduction-to-french-culture-spring-2014|Introduction to French Culture]] — 21G.311, Spring 2014
 - [[21g-108-chinese-ii-streamlined-spring-2015|Chinese II (Streamlined)]] — 21G.108, Spring 2015

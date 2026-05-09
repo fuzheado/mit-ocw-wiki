@@ -12,6 +12,13 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[3-091-introduction-to-solid-state-chemistry-fall-2018|Introduction to Solid-State Chemistry]] — 3.091, Fall 2018
+- [[3-15x-electrical-optical-and-magnetic-materials-and-devices-spring-2020|Electrical, Optical, and Magnetic Materials and Devices]] — 3.15x, Spring 2020
+- [[4-463-building-technology-iii-building-structural-systems-fall-2004|Building Technology III: Building Structural Systems]] — 4.463, Fall 2004
+- [[3-064-polymer-engineering-fall-2003|Polymer Engineering]] — 3.064, Fall 2003
+- [[3-052-nanomechanics-of-materials-and-biomaterials-spring-2007|Nanomechanics of Materials and Biomaterials]] — 3.052, Spring 2007
+- [[3-032-mechanical-behavior-of-materials-fall-2007|Mechanical Behavior of Materials]] — 3.032, Fall 2007
+- [[2-994-madm-with-applications-in-material-selection-and-optimal-design-january-iap-2007|MADM with Applications in Material Selection and Optimal Design]] — 2.994, January IAP 2007
 - [[3-20-materials-at-equilibrium-sma-5111-fall-2003|Materials at Equilibrium (SMA 5111)]] — 3.20, Fall 2003
 - [[6-780-semiconductor-manufacturing-spring-2003|Semiconductor Manufacturing]] — 6.780, Spring 2003
 - [[3-22-mechanical-behavior-of-materials-spring-2008|Mechanical Behavior of Materials]] — 3.22, Spring 2008

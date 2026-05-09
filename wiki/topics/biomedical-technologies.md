@@ -12,6 +12,9 @@ Part of: [[health-and-medicine|Health & Medicine]]
 
 ## Courses
 
+- [[20-453j-biomedical-information-technology-fall-2008|Biomedical Information Technology]] — 20.453J, Fall 2008
+- [[hst-730-molecular-biology-for-the-auditory-system-fall-2002|Molecular Biology for the Auditory System]] — HST.730, Fall 2002
+- [[hst-951j-medical-decision-support-spring-2003|Medical Decision Support]] — HST.951J, Spring 2003
 - [[9-40-introduction-to-neural-computation-spring-2018|Introduction to Neural Computation]] — 9.40, Spring 2018
 - [[9-05-neural-basis-of-movement-spring-2003|Neural Basis of Movement]] — 9.05, Spring 2003
 - [[hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005|Brain Mechanisms for Hearing and Speech]] — HST.722J, Fall 2005

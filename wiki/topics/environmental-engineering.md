@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[1-72-groundwater-hydrology-fall-2005|Groundwater Hydrology]] — 1.72, Fall 2005
+- [[12-000-solving-complex-problems-fall-2009|Solving Complex Problems]] — 12.000, Fall 2009
 - [[12-000-solving-complex-problems-fall-2003|Solving Complex Problems]] — 12.000, Fall 2003
 - [[ids-410j-modeling-and-assessment-for-policy-spring-2013|Modeling and Assessment for Policy]] — IDS.410J, Spring 2013
 - [[1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004|Chemicals in the Environment: Fate and Transport]] — 1.725J, Fall 2004

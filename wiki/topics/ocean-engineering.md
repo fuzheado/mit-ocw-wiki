@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[2-682-acoustical-oceanography-spring-2012|Acoustical Oceanography]] — 2.682, Spring 2012
+- [[2-996-sailing-yacht-design-13-734-fall-2003|Sailing Yacht Design (13.734)]] — 2.996, Fall 2003
 - [[2-011-introduction-to-ocean-science-and-engineering-spring-2006|Introduction to Ocean Science and Engineering]] — 2.011, Spring 2006
 - [[12-811-tropical-meteorology-spring-2011|Tropical Meteorology]] — 12.811, Spring 2011
 - [[12-803-quasi-balanced-circulations-in-oceans-and-atmospheres-fall-2009|Quasi-Balanced Circulations in Oceans and Atmospheres]] — 12.803, Fall 2009

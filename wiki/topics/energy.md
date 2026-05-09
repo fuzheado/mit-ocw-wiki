@@ -12,6 +12,11 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[2-57-nano-to-macro-transport-processes-spring-2012|Nano-to-Macro Transport Processes]] — 2.57, Spring 2012
+- [[6-701-introduction-to-nanoelectronics-spring-2010|Introduction to Nanoelectronics]] — 6.701, Spring 2010
+- [[res-11-550-leveraging-urban-mobility-disruptions-to-create-better-cities-spring-2021|Leveraging Urban Mobility Disruptions to Create Better Cities]] — RES.11-550, Spring 2021
+- [[18-s191-introduction-to-computational-thinking-fall-2022|Introduction to Computational Thinking]] — 18.S191, Fall 2022
+- [[11-s955-the-sustainability-response-to-covid-19-january-iap-2021|The Sustainability Response to COVID-19]] — 11.S955, January IAP 2021
 - [[4-411-building-technology-laboratory-spring-2004|Building Technology Laboratory]] — 4.411, Spring 2004
 - [[esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007|Frameworks and Models in Engineering Systems / Engineering System Design]] — ESD.04J, Spring 2007
 - [[12-340-global-warming-science-spring-2012|Global Warming Science]] — 12.340, Spring 2012

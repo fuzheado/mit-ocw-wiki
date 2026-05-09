@@ -12,6 +12,9 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[24-951-introduction-to-syntax-fall-2003|Introduction to Syntax]] — 24.951, Fall 2003
+- [[24-915-linguistic-phonetics-fall-2015|Linguistic Phonetics]] — 24.915, Fall 2015
+- [[6-345-automatic-speech-recognition-spring-2003|Automatic Speech Recognition]] — 6.345, Spring 2003
 - [[24-s96-linguistics-and-social-justice-language-education-and-human-rights-fall-2021|Linguistics and Social Justice: Language, Education, and Human Rights]] — 24.S96, Fall 2021
 - [[24-954-pragmatics-in-linguistic-theory-fall-2006|Pragmatics in Linguistic Theory]] — 24.954, Fall 2006
 - [[6-541j-speech-communication-spring-2004|Speech Communication]] — 6.541J, Spring 2004

@@ -12,6 +12,14 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[6-436j-fundamentals-of-probability-fall-2018|Fundamentals of Probability]] — 6.436J, Fall 2018
+- [[18-703-modern-algebra-spring-2013|Modern Algebra]] — 18.703, Spring 2013
+- [[18-769-topics-in-lie-theory-tensor-categories-spring-2009|Topics in Lie Theory: Tensor Categories]] — 18.769, Spring 2009
+- [[18-s191-introduction-to-computational-thinking-fall-2022|Introduction to Computational Thinking]] — 18.S191, Fall 2022
+- [[2-004-modeling-dynamics-and-control-ii-spring-2003|Modeling Dynamics and Control II]] — 2.004, Spring 2003
+- [[18-353j-nonlinear-dynamics-i-chaos-fall-2012|Nonlinear Dynamics I: Chaos]] — 18.353J, Fall 2012
+- [[18-915-graduate-topology-seminar-kan-seminar-fall-2014|Graduate Topology Seminar: Kan Seminar]] — 18.915, Fall 2014
+- [[18-443-statistics-for-applications-fall-2006|Statistics for Applications]] — 18.650 (formerly 18.443), Fall 2006
 - [[18-s190-introduction-to-metric-spaces-january-iap-2023|Introduction to Metric Spaces ]] — 18.S190, January IAP 2023
 - [[8-370x-quantum-information-science-i-spring-2018|Quantum Information Science I]] — 8.370x, Spring 2018
 - [[2-830j-control-of-manufacturing-processes-sma-6303-spring-2008|Control of Manufacturing Processes (SMA 6303)]] — 2.830J, Spring 2008

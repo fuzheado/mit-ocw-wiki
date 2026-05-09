@@ -12,6 +12,8 @@ Part of: [[data-science-analytics-and-computer-technology|Data Science, Analytic
 
 ## Courses
 
+- [[6-868j-the-society-of-mind-fall-2011|The Society of Mind]] — 6.868J, Fall 2011
+- [[hst-951j-medical-decision-support-spring-2003|Medical Decision Support]] — HST.951J, Spring 2003
 - [[res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020|Exploring Fairness in Machine Learning for International Development]] — RES.EC-001, Spring 2020
 - [[res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022|RAISE (Responsible AI for Social Empowerment and Education)]] — RES.MAS-001, Spring 2022
 - [[6-034-artificial-intelligence-fall-2010|Artificial Intelligence]] — 6.034, Fall 2010

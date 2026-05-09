@@ -12,6 +12,8 @@ Part of: [[innovation-and-entrepreneurship|Innovation & Entrepreneurship]]
 
 ## Courses
 
+- [[15-835-entrepreneurial-marketing-spring-2002|Entrepreneurial Marketing]] — 15.835, Spring 2002
+- [[15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004|Innovative Businesses and Breakthrough Technologies - The Legal Issues]] — 15.616, Fall 2004
 - [[res-15-001-mit-sloan-learningedge-fall-2008|MIT Sloan Teaching Resources Library]] — RES.15-001, Fall 2008
 - [[15-992-s-lab-laboratory-for-sustainable-business-spring-2008|S-Lab: Laboratory for Sustainable Business]] — 15.992, Spring 2008
 - [[15-387-entrepreneurial-sales-spring-2015|Entrepreneurial Sales]] — 15.387, Spring 2015

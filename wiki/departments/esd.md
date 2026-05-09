@@ -10,6 +10,8 @@ courses_count: 0
 
 ## Courses
 
+- [[esd-33-systems-engineering-summer-2004|Systems Engineering]] (ESD.33)
+- [[esd-34-system-architecture-january-iap-2007|System Architecture]] (ESD.34)
 - [[11-943j-urban-transportation-land-use-and-the-environment-spring-2002|Urban Transportation, Land Use, and the Environment]] (11.943J)
 - [[esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007|Frameworks and Models in Engineering Systems / Engineering System Design]] (ESD.04J)
 - [[2-830j-control-of-manufacturing-processes-sma-6303-spring-2008|Control of Manufacturing Processes (SMA 6303)]] (2.830J)

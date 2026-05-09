@@ -12,6 +12,10 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[15-310-managerial-psychology-laboratory-spring-2003|Managerial Psychology Laboratory]] — 15.310, Spring 2003
+- [[15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004|Innovative Businesses and Breakthrough Technologies - The Legal Issues]] — 15.616, Fall 2004
+- [[16-75j-airline-management-spring-2006|Airline Management]] — 16.75J, Spring 2006
+- [[15-990-architecture-and-communication-in-organizations-fall-2003|Architecture and Communication in Organizations]] — 15.990, Fall 2003
 - [[15-220-global-strategy-and-organization-spring-2008|Global Strategy and Organization]] — 15.220, Spring 2008
 - [[15-328-team-project-fall-2003|Team Project]] — 15.328, Fall 2003
 - [[15-s50-poker-theory-and-analytics-january-iap-2015|Poker Theory and Analytics]] — 15.S50, January IAP 2015

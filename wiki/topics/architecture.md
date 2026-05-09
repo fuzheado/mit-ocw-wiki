@@ -12,6 +12,12 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[4-511-digital-mock-up-workshop-spring-2006|Digital Mock-Up Workshop]] — 4.511, Spring 2006
+- [[4-463-building-technology-iii-building-structural-systems-fall-2004|Building Technology III: Building Structural Systems]] — 4.463, Fall 2004
+- [[4-273-introduction-to-design-inquiry-fall-2001|Introduction to Design Inquiry]] — 4.273, Fall 2001
+- [[11-307-beijing-urban-design-studio-summer-2008|Beijing Urban Design Studio]] — 11.307, Summer 2008
+- [[4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003|Architectural Design, Level II: Material Essence: The Glass House]] — 4.131, Fall 2003
+- [[15-990-architecture-and-communication-in-organizations-fall-2003|Architecture and Communication in Organizations]] — 15.990, Fall 2003
 - [[4-411-building-technology-laboratory-spring-2004|Building Technology Laboratory]] — 4.411, Spring 2004
 - [[4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014|History of Urban Form: Locating Capitalism: Producing Early Modern Cities and Objects]] — 4.663, Spring 2014
 - [[11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998|Imaging the City: The Place of Media in City Design and Development]] — 11.947, Fall 1998

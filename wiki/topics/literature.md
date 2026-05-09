@@ -12,6 +12,17 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[21l-000j-writing-about-literature-fall-2010|Writing About Literature]] — 21L.000J, Fall 2010
+- [[21l-448j-darwin-and-design-fall-2010|Darwin and Design]] — 21L.448J, Fall 2010
+- [[21g-049-french-photography-spring-2017|French Photography]] — 21G.049, Spring 2017
+- [[21l-315-prizewinners-nobelistas-spring-2014|Prizewinners: Nobelistas]] — 21L.315, Spring 2014
+- [[21l-003-1-reading-fiction-dysfunctional-families-spring-2007|Reading Fiction: Dysfunctional Families]] — 21L.003-1, Spring 2007
+- [[21g-346-topics-in-modern-french-literature-and-culture-global-paris-fall-2014|Topics in Modern French Literature and Culture: Global Paris]] — 21G.346, Fall 2014
+- [[21l-002-foundations-of-western-culture-ii-fall-2002|Foundations of Western Culture II]] — 21L.002, Fall 2002
+- [[21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013|The Supernatural in Music, Literature and Culture]] — 21M.013J, Fall 2013
+- [[21g-222-expository-writing-for-bilingual-students-fall-2002|Expository Writing for Bilingual Students]] — 21G.222, Fall 2002
+- [[es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006|Composing Your Life: Exploration of Self through Visual Arts and Writing]] — ES.240, Spring 2006
+- [[21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016|Science Writing and New Media: Perspectives on Medicine and Public Health]] — 21W.034, Fall 2016
 - [[21l-476-romantic-poetry-spring-2005|Romantic Poetry]] — 21L.476, Spring 2005
 - [[21l-715-media-in-cultural-context-fall-2015|Media in Cultural Context]] — 21L.715, Fall 2015
 - [[21w-775-writing-about-nature-and-environmental-issues-spring-2017|Writing about Nature and Environmental Issues]] — 21W.775, Spring 2017

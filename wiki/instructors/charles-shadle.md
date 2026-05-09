@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013|The Supernatural in Music, Literature and Culture]]
 - [[21m-250-schubert-to-debussy-fall-2006|Schubert to Debussy]]
 - [[21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010|Interdisciplinary Approaches to Musical Time]]
 - [[21m-304-writing-in-tonal-forms-ii-spring-2009|Writing in Tonal Forms II]]

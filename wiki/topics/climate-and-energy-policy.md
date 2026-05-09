@@ -12,6 +12,9 @@ Part of: [[energy-climate-and-sustainability|Energy, Climate & Sustainability]]
 
 ## Courses
 
+- [[res-11-550-leveraging-urban-mobility-disruptions-to-create-better-cities-spring-2021|Leveraging Urban Mobility Disruptions to Create Better Cities]] — RES.11-550, Spring 2021
+- [[11-s955-the-sustainability-response-to-covid-19-january-iap-2021|The Sustainability Response to COVID-19]] — 11.S955, January IAP 2021
+- [[12-000-solving-complex-problems-fall-2009|Solving Complex Problems]] — 12.000, Fall 2009
 - [[11-943j-urban-transportation-land-use-and-the-environment-spring-2002|Urban Transportation, Land Use, and the Environment]] — 11.943J, Spring 2002
 - [[12-000-solving-complex-problems-fall-2003|Solving Complex Problems]] — 12.000, Fall 2003
 - [[ids-410j-modeling-and-assessment-for-policy-spring-2013|Modeling and Assessment for Policy]] — IDS.410J, Spring 2013

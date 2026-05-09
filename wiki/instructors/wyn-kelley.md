@@ -8,6 +8,8 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21l-000j-writing-about-literature-fall-2010|Writing About Literature]]
+- [[21l-315-prizewinners-nobelistas-spring-2014|Prizewinners: Nobelistas]]
 - [[21l-501-the-american-novel-stranger-and-stranger-spring-2013|The American Novel: Stranger and Stranger]]
 - [[21l-705-major-authors-americas-literary-scientists-fall-2010|Major Authors: America's Literary Scientists]]
 - [[21l-705-major-authors-melville-and-morrison-fall-2003|Major Authors: Melville and Morrison]]

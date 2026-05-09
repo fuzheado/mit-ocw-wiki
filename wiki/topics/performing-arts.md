@@ -12,6 +12,9 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[21l-423j-introduction-to-anglo-american-folk-music-fall-2005|Introduction to Anglo-American Folk Music]] — 21L.423J, Fall 2005
+- [[21m-291-music-of-india-spring-2007|Music of India]] — 21M.291, Spring 2007
+- [[21m-606-introduction-to-stagecraft-spring-2009|Introduction to Stagecraft]] — 21M.606, Spring 2009
 - [[21m-785-playwrights-workshop-spring-2012|Playwrights' Workshop]] — 21M.785, Spring 2012
 - [[21m-380-music-and-technology-sound-design-spring-2016|Music and Technology: Sound Design]] — 21M.380, Spring 2016
 - [[21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005|Studies in Drama: Theater and Science in a Time of War]] — 21L.703, Spring 2005

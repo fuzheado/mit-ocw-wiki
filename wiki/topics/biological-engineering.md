@@ -12,6 +12,12 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[20-453j-biomedical-information-technology-fall-2008|Biomedical Information Technology]] — 20.453J, Fall 2008
+- [[3-052-nanomechanics-of-materials-and-biomaterials-spring-2007|Nanomechanics of Materials and Biomaterials]] — 3.052, Spring 2007
+- [[12-517-dynamics-of-complex-systems-ecological-theory-spring-2001|Dynamics of Complex Systems: Ecological Theory]] — 12.517, Spring 2001
+- [[20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012|Analysis of Biomolecular and Cellular Systems]] — 20.320, Fall 2012
+- [[hst-951j-medical-decision-support-spring-2003|Medical Decision Support]] — HST.951J, Spring 2003
+- [[20-020-introduction-to-biological-engineering-design-spring-2009|Introduction to Biological Engineering Design]] — 20.020, Spring 2009
 - [[10-37-chemical-and-biological-reaction-engineering-spring-2007|Chemical and Biological Reaction Engineering]] — 10.37, Spring 2007
 - [[2-18-biomolecular-feedback-systems-spring-2015|Biomolecular Feedback Systems]] — 2.18, Spring 2015
 - [[9-40-introduction-to-neural-computation-spring-2018|Introduction to Neural Computation]] — 9.40, Spring 2018

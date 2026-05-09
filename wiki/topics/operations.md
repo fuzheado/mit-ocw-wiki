@@ -12,6 +12,8 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[16-75j-airline-management-spring-2006|Airline Management]] — 16.75J, Spring 2006
+- [[2-994-madm-with-applications-in-material-selection-and-optimal-design-january-iap-2007|MADM with Applications in Material Selection and Optimal Design]] — 2.994, January IAP 2007
 - [[16-89j-space-systems-engineering-spring-2007|Space Systems Engineering]] — 16.89J, Spring 2007
 - [[15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003|System Optimization and Analysis for Manufacturing]] — 15.066J, Summer 2003
 - [[1-224j-carrier-systems-fall-2003|Carrier Systems]] — 1.224J, Fall 2003

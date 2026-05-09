@@ -25,6 +25,38 @@ courses_count: 0
 
 ## Courses
 
+- [[2-57-nano-to-macro-transport-processes-spring-2012|Nano-to-Macro Transport Processes]] — 2.57, Spring 2012
+- [[3-091-introduction-to-solid-state-chemistry-fall-2018|Introduction to Solid-State Chemistry]] — 3.091, Fall 2018
+- [[4-511-digital-mock-up-workshop-spring-2006|Digital Mock-Up Workshop]] — 4.511, Spring 2006
+- [[1-72-groundwater-hydrology-fall-2005|Groundwater Hydrology]] — 1.72, Fall 2005
+- [[20-453j-biomedical-information-technology-fall-2008|Biomedical Information Technology]] — 20.453J, Fall 2008
+- [[3-15x-electrical-optical-and-magnetic-materials-and-devices-spring-2020|Electrical, Optical, and Magnetic Materials and Devices]] — 3.15x, Spring 2020
+- [[6-701-introduction-to-nanoelectronics-spring-2010|Introduction to Nanoelectronics]] — 6.701, Spring 2010
+- [[4-463-building-technology-iii-building-structural-systems-fall-2004|Building Technology III: Building Structural Systems]] — 4.463, Fall 2004
+- [[3-064-polymer-engineering-fall-2003|Polymer Engineering]] — 3.064, Fall 2003
+- [[9-66j-computational-cognitive-science-fall-2004|Computational Cognitive Science]] — 9.66J, Fall 2004
+- [[6-002-circuits-and-electronics-spring-2007|Circuits and Electronics]] — 6.002, Spring 2007
+- [[6-172-performance-engineering-of-software-systems-fall-2018|Performance Engineering of Software Systems]] — 6.172, Fall 2018
+- [[6-868j-the-society-of-mind-fall-2011|The Society of Mind]] — 6.868J, Fall 2011
+- [[esd-33-systems-engineering-summer-2004|Systems Engineering]] — ESD.33, Summer 2004
+- [[3-052-nanomechanics-of-materials-and-biomaterials-spring-2007|Nanomechanics of Materials and Biomaterials]] — 3.052, Spring 2007
+- [[2-682-acoustical-oceanography-spring-2012|Acoustical Oceanography]] — 2.682, Spring 2012
+- [[esd-34-system-architecture-january-iap-2007|System Architecture]] — ESD.34, January IAP 2007
+- [[1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007|Masters of Engineering Concepts of Engineering Practice]] — 1.133, Fall 2007
+- [[2-996-sailing-yacht-design-13-734-fall-2003|Sailing Yacht Design (13.734)]] — 2.996, Fall 2003
+- [[12-517-dynamics-of-complex-systems-ecological-theory-spring-2001|Dynamics of Complex Systems: Ecological Theory]] — 12.517, Spring 2001
+- [[3-032-mechanical-behavior-of-materials-fall-2007|Mechanical Behavior of Materials]] — 3.032, Fall 2007
+- [[18-s191-introduction-to-computational-thinking-fall-2022|Introduction to Computational Thinking]] — 18.S191, Fall 2022
+- [[res-ll-001-introduction-to-radar-systems-spring-2007|Introduction to Radar Systems]] — RES.LL-001, Spring 2007
+- [[20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012|Analysis of Biomolecular and Cellular Systems]] — 20.320, Fall 2012
+- [[hst-951j-medical-decision-support-spring-2003|Medical Decision Support]] — HST.951J, Spring 2003
+- [[2-004-modeling-dynamics-and-control-ii-spring-2003|Modeling Dynamics and Control II]] — 2.004, Spring 2003
+- [[20-020-introduction-to-biological-engineering-design-spring-2009|Introduction to Biological Engineering Design]] — 20.020, Spring 2009
+- [[sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005|Scientific Visualization across Disciplines: A Critical Introduction]] — STS.067, Spring 2005
+- [[ec-s02-water-jet-technologies-spring-2005|Water Jet Technologies]] — EC.S02, Spring 2005
+- [[6-345-automatic-speech-recognition-spring-2003|Automatic Speech Recognition]] — 6.345, Spring 2003
+- [[2-994-madm-with-applications-in-material-selection-and-optimal-design-january-iap-2007|MADM with Applications in Material Selection and Optimal Design]] — 2.994, January IAP 2007
+- [[12-000-solving-complex-problems-fall-2009|Solving Complex Problems]] — 12.000, Fall 2009
 - [[4-411-building-technology-laboratory-spring-2004|Building Technology Laboratory]] — 4.411, Spring 2004
 - [[10-37-chemical-and-biological-reaction-engineering-spring-2007|Chemical and Biological Reaction Engineering]] — 10.37, Spring 2007
 - [[16-89j-space-systems-engineering-spring-2007|Space Systems Engineering]] — 16.89J, Spring 2007

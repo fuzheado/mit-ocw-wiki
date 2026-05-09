@@ -12,6 +12,9 @@ Part of: [[science-and-math|Science & Math]]
 
 ## Courses
 
+- [[21l-448j-darwin-and-design-fall-2010|Darwin and Design]] — 21L.448J, Fall 2010
+- [[9-66j-computational-cognitive-science-fall-2004|Computational Cognitive Science]] — 9.66J, Fall 2004
+- [[9-012-the-brain-and-cognitive-sciences-ii-spring-2002|The Brain and Cognitive Sciences II]] — 9.012, Spring 2002
 - [[9-22j-a-clinical-approach-to-the-human-brain-fall-2006|A Clinical Approach to the Human Brain]] — 9.22J, Fall 2006
 - [[9-20-animal-behavior-fall-2013|Animal Behavior]] — 9.20, Fall 2013
 - [[9-40-introduction-to-neural-computation-spring-2018|Introduction to Neural Computation]] — 9.40, Spring 2018

@@ -12,6 +12,20 @@ Part of: [[humanities|Humanities]]
 
 ## Courses
 
+- [[sts-025j-making-the-modern-world-the-industrial-revolution-in-global-perspective-fall-2009|Making the Modern World: The Industrial Revolution in Global Perspective]] — STS.025J, Fall 2009
+- [[21l-448j-darwin-and-design-fall-2010|Darwin and Design]] — 21L.448J, Fall 2010
+- [[sts-310-history-of-science-fall-2015|History of Science]] — STS.310, Fall 2015
+- [[sts-050-the-history-of-mit-spring-2011|The History of MIT]] — STS.050, Spring 2011
+- [[21h-983j-gender-historical-perspectives-fall-2020|Gender: Historical Perspectives]] — 21H.983J, Fall 2020
+- [[21h-102-american-history-since-1865-spring-2018|American History Since 1865]] — 21H.102, Spring 2018
+- [[sts-464-cultural-history-of-technology-spring-2005|Cultural History of Technology]] — STS.464, Spring 2005
+- [[17-537-politics-and-policy-in-contemporary-japan-spring-2009|Politics and Policy in Contemporary Japan]] — 17.537, Spring 2009
+- [[21h-224-law-and-society-in-us-history-spring-2003|Law and Society in US History]] — 21H.224, Spring 2003
+- [[21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012|Medieval Economic History in Comparative Perspective]] — 21H.134J, Spring 2012
+- [[21l-002-foundations-of-western-culture-ii-fall-2002|Foundations of Western Culture II]] — 21L.002, Fall 2002
+- [[21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010|Riots, Strikes, and Conspiracies in American History]] — 21H.104J, Fall 2010
+- [[17-582-civil-war-spring-2010|Civil War]] — 17.582, Spring 2010
+- [[21h-331-julius-caesar-and-the-fall-of-the-roman-republic-spring-2016|Julius Caesar and the Fall of the Roman Republic]] — 21H.331, Spring 2016
 - [[21w-775-writing-about-nature-and-environmental-issues-spring-2017|Writing about Nature and Environmental Issues]] — 21W.775, Spring 2017
 - [[4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014|History of Urban Form: Locating Capitalism: Producing Early Modern Cities and Objects]] — 4.663, Spring 2014
 - [[wgs-181-queer-cinema-and-visual-culture-fall-2017|Queer Cinema and Visual Culture]] — WGS.181, Fall 2017

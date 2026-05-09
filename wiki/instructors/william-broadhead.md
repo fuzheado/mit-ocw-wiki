@@ -8,6 +8,7 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[21h-331-julius-caesar-and-the-fall-of-the-roman-republic-spring-2016|Julius Caesar and the Fall of the Roman Republic]]
 - [[21h-402-the-making-of-a-roman-emperor-fall-2005|The Making of a Roman Emperor]]
 - [[21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014|The City of Athens in the Age of Pericles]]
 - [[21h-007j-empire-introduction-to-ancient-and-medieval-studies-fall-2012|Empire: Introduction to Ancient and Medieval Studies]]

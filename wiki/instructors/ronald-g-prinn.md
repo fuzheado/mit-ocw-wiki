@@ -8,4 +8,5 @@ courses_count: 1
 
 ## Courses Taught at MIT
 
+- [[10-571j-atmospheric-physics-and-chemistry-spring-2006|Atmospheric Physics and Chemistry]]
 - [[12-815-atmospheric-radiation-fall-2006|Atmospheric Radiation]]

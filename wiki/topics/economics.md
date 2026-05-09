@@ -12,6 +12,15 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[14-75-political-economy-and-economic-development-fall-2012|Political Economy and Economic Development]] — 14.75, Fall 2012
+- [[14-03-microeconomic-theory-and-public-policy-fall-2016|Microeconomic Theory and Public Policy]] — 14.03, Fall 2016
+- [[14-462-advanced-macroeconomics-ii-spring-2004|Advanced Macroeconomics II]] — 14.462, Spring 2004
+- [[14-462-advanced-macroeconomics-ii-spring-2007|Advanced Macroeconomics II]] — 14.462, Spring 2007
+- [[11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007|Special Studies in Urban Studies and Planning: Economic Development Planning Skills]] — 11.967, January IAP 2007
+- [[16-75j-airline-management-spring-2006|Airline Management]] — 16.75J, Spring 2006
+- [[11-307-beijing-urban-design-studio-summer-2008|Beijing Urban Design Studio]] — 11.307, Summer 2008
+- [[14-27-economics-and-e-commerce-fall-2014|Economics and E-Commerce]] — 14.27, Fall 2014
+- [[17-181-sustainability-political-economy-science-and-policy-fall-2016|Sustainability: Political Economy, Science, and Policy]] — 17.181, Fall 2016
 - [[14-771-development-economics-fall-2021|Development Economics ]] — 14.771, Fall 2021
 - [[11-126j-economics-of-education-spring-2007|Economics of Education]] — 11.126J, Spring 2007
 - [[15-020-competition-in-telecommunications-fall-2003|Competition in Telecommunications]] — 15.020, Fall 2003

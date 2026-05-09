@@ -12,6 +12,8 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004|Innovative Businesses and Breakthrough Technologies - The Legal Issues]] — 15.616, Fall 2004
+- [[21h-224-law-and-society-in-us-history-spring-2003|Law and Society in US History]] — 21H.224, Spring 2003
 - [[11-467j-property-rights-in-transition-spring-2005|Property Rights in Transition]] — 11.467J, Spring 2005
 - [[21h-319-race-crime-and-citizenship-in-american-law-fall-2014|Race, Crime, and Citizenship in American Law]] — 21H.319, Fall 2014
 - [[3-a27-case-studies-in-forensic-metallurgy-fall-2007|Case Studies in Forensic Metallurgy]] — 3.A27, Fall 2007

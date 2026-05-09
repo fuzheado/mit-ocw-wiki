@@ -12,6 +12,9 @@ Part of: [[business-and-management|Business & Management]]
 
 ## Courses
 
+- [[6-172-performance-engineering-of-software-systems-fall-2018|Performance Engineering of Software Systems]] — 6.172, Fall 2018
+- [[esd-34-system-architecture-january-iap-2007|System Architecture]] — ESD.34, January IAP 2007
+- [[2-994-madm-with-applications-in-material-selection-and-optimal-design-january-iap-2007|MADM with Applications in Material Selection and Optimal Design]] — 2.994, January IAP 2007
 - [[esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007|Frameworks and Models in Engineering Systems / Engineering System Design]] — ESD.04J, Spring 2007
 - [[2-18-biomolecular-feedback-systems-spring-2015|Biomolecular Feedback Systems]] — 2.18, Spring 2015
 - [[15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003|System Optimization and Analysis for Manufacturing]] — 15.066J, Summer 2003

@@ -12,6 +12,8 @@ Part of: [[engineering|Engineering]]
 
 ## Courses
 
+- [[4-463-building-technology-iii-building-structural-systems-fall-2004|Building Technology III: Building Structural Systems]] — 4.463, Fall 2004
+- [[1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007|Masters of Engineering Concepts of Engineering Practice]] — 1.133, Fall 2007
 - [[4-411-building-technology-laboratory-spring-2004|Building Technology Laboratory]] — 4.411, Spring 2004
 - [[sts-036-technology-and-nature-in-american-history-spring-2008|Technology and Nature in American History]] — STS.036, Spring 2008
 - [[1-224j-carrier-systems-fall-2003|Carrier Systems]] — 1.224J, Fall 2003

@@ -12,6 +12,9 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005|Scientific Visualization across Disciplines: A Critical Introduction]] — STS.067, Spring 2005
+- [[sts-014-principles-and-practice-of-science-communication-spring-2006|Principles and Practice of Science Communication]] — STS.014, Spring 2006
+- [[15-990-architecture-and-communication-in-organizations-fall-2003|Architecture and Communication in Organizations]] — 15.990, Fall 2003
 - [[21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015|Writing and Rhetoric: Rhetoric and Contemporary Issues]] — 21W.011, Fall 2015
 - [[15-599-workshop-in-it-collaborative-innovation-networks-fall-2011|Workshop in IT: Collaborative Innovation Networks]] — 15.599, Fall 2011
 - [[18-091-mathematical-exposition-spring-2005|Mathematical Exposition]] — 18.091, Spring 2005

@@ -12,6 +12,11 @@ Part of: [[social-sciences|Social Sciences]]
 
 ## Courses
 
+- [[17-263-american-elections-fall-2020|American Elections]] — 17.263, Fall 2020
+- [[14-03-microeconomic-theory-and-public-policy-fall-2016|Microeconomic Theory and Public Policy]] — 14.03, Fall 2016
+- [[17-537-politics-and-policy-in-contemporary-japan-spring-2009|Politics and Policy in Contemporary Japan]] — 17.537, Spring 2009
+- [[17-582-civil-war-spring-2010|Civil War]] — 17.582, Spring 2010
+- [[12-000-solving-complex-problems-fall-2009|Solving Complex Problems]] — 12.000, Fall 2009
 - [[11-943j-urban-transportation-land-use-and-the-environment-spring-2002|Urban Transportation, Land Use, and the Environment]] — 11.943J, Spring 2002
 - [[12-000-solving-complex-problems-fall-2003|Solving Complex Problems]] — 12.000, Fall 2003
 - [[ids-410j-modeling-and-assessment-for-policy-spring-2013|Modeling and Assessment for Policy]] — IDS.410J, Spring 2013

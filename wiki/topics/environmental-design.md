@@ -12,6 +12,8 @@ Part of: [[art-design-and-architecture|Art, Design & Architecture]]
 
 ## Courses
 
+- [[11-307-beijing-urban-design-studio-summer-2008|Beijing Urban Design Studio]] — 11.307, Summer 2008
+- [[15-990-architecture-and-communication-in-organizations-fall-2003|Architecture and Communication in Organizations]] — 15.990, Fall 2003
 - [[4-411-building-technology-laboratory-spring-2004|Building Technology Laboratory]] — 4.411, Spring 2004
 - [[11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998|Imaging the City: The Place of Media in City Design and Development]] — 11.947, Fall 1998
 - [[11-332j-urban-design-fall-2003|Urban Design]] — 11.332J, Fall 2003
