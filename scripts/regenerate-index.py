@@ -48,6 +48,50 @@ def count_courses_by_department() -> dict:
     return counts
 
 
+def build_instructors_index() -> str:
+    """Generate wiki/instructors-index.md grouped by first letter."""
+    instr_dir = WIKI_DIR / "instructors"
+    if not instr_dir.exists():
+        return ""
+
+    # Group instructor names by first letter
+    groups = {}
+    for f in sorted(instr_dir.iterdir()):
+        if not f.name.endswith(".md"):
+            continue
+        content = f.read_text()
+        name = None
+        for line in content.split("\n"):
+            if line.startswith("# ") and not line.startswith("## "):
+                name = line[2:].strip()
+                break
+        if not name:
+            name = f.name.replace(".md", "")
+        slug = f.name.replace(".md", "")
+        first = name[0].upper() if name else "?"
+        if first not in groups:
+            groups[first] = []
+        groups[first].append((slug, name))
+
+    lines = []
+    lines.append("> See [[index]] for the main catalog.")
+    lines.append("")
+    lines.append("# Instructors Index")
+    lines.append("")
+    lines.append("Jump to: " + " ".join(f"[[#{l}|{l}]]" for l in sorted(groups.keys())))
+    lines.append("")
+
+    for letter in sorted(groups.keys()):
+        entries = groups[letter]
+        lines.append(f"## {letter}")
+        lines.append("")
+        for slug, name in entries:
+            lines.append(f"- [[{slug}|{name}]]")
+        lines.append("")
+
+    return "\n".join(lines)
+
+
 def build_index() -> str:
     course_count = count_files("courses")
     instructor_count = count_files("instructors")
@@ -100,7 +144,8 @@ def build_index() -> str:
     lines.append("")
     lines.append(f"## Instructors ({instructor_count})")
     lines.append("")
-    lines.append("Instructor pages exist for all faculty. Browse by department to find relevant instructors, or search the wiki.")
+    lines.append("See the [[instructors-index]] for an alphabetical listing of all 2,142+ faculty.")
+    lines.append("You can also browse by department to find instructors teaching in specific fields.")
     lines.append("")
     lines.append("## Crossrefs (Wikipedia)")
     lines.append("")
@@ -114,4 +159,10 @@ if __name__ == "__main__":
     index = build_index()
     index_path = WIKI_DIR / "index.md"
     index_path.write_text(index)
+
+    instr_index = build_instructors_index()
+    instr_path = WIKI_DIR / "instructors-index.md"
+    instr_path.write_text(instr_index)
+
     print(f"Regenerated {index_path} ({count_files('courses')} courses, {count_files('instructors')} instructors)")
+    print(f"Regenerated {instr_path} ({count_files('instructors')} instructors in {len([g for g in instr_index.split('## ') if g.strip()]) - 1} letter groups)")
