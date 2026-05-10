@@ -136,3 +136,67 @@ Use `--hybrid` for best results. Fall back to `--deep` for very new courses not 
 - No auto-push (slow)
 - Push manually when convenient
 - Branch for experiments (alternate topic hierarchies, crossref strategies)
+
+## Index Auto-Regeneration
+
+A git pre-commit hook at `scripts/pre-commit` automatically regenerates `wiki/index.md` and `wiki/instructors-index.md` whenever course, instructor, or department files change.
+
+**Setup on fresh clone:** `cp scripts/pre-commit .git/hooks/pre-commit`
+
+The instructors index (`wiki/instructors-index.md`) groups all 2,100+ instructors alphabetically by first letter (A-Z) with jump links. It's linked from the main index page.
+
+## Log Convention
+
+All log entries in `wiki/log.md` follow the format:
+
+```
+## [YYYY-MM-DD HH:MM] operation | [[slug|Course Number Title]] (details)
+```
+
+The wikilink format `[[slug|Course Number Title]]` makes entries clickable in WikiWise, jumping directly to the course page. Course number (e.g., "5.111SC") is prepended to the title for easy scanning.
+
+## Video Detection Patterns
+
+The deep scan detects video content using these patterns:
+
+| Pattern | Detects | Badge |
+|---------|---------|-------|
+| `Download video` / `Download transcript` / `View video page` | OCW embedded player | 📺Video |
+| `youtube.com/embed` / `youtu.be` / `youtube.com/watch` | YouTube embeds | 🎬YouTube |
+| `.mp4` / `video/mp4` / `video/webm` | Direct MP4 files | 📺Video |
+| `class="video"` in HTML | Video embed elements | 📺Video |
+| External links to dropbox.com, vimeo.com, panopto.com, kaltura.com, zoom.us, archive.org | Off-platform video hosts | 🎬YouTube / 📺Video |
+
+**Legacy video galleries:** For older courses (pre-2015), all lectures are listed on a single gallery page rather than individual sub-pages. The deep scan detects these inline listings and extracts each lecture title as a separate Video-Transcript asset.
+
+## Rich Metadata Extraction
+
+When deep-scanning sub-pages, the script extracts two additional metadata sources:
+
+1. **Page title** from `<title>` tag — The first segment before "|" is used as the asset label. This typically provides a much richer description than the sidebar navigation text (e.g., "Lecture 1" → "Lecture 1: The Importance of Chemical Principles").
+
+2. **Description** from `og:description` or `<meta name="description">` — Extracted for future Wikipedia matchmaking. Provides contextual keywords describing the page content.
+
+## Asset Type Mapping
+
+When using `--api` mode, the script maps the API's `content_feature_type` to wiki asset types:
+
+| API feature_type | Wiki asset type |
+|---|---|
+| Lecture Videos, Other Video | Video-Transcript |
+| Lecture Notes | Lecture-Notes |
+| Problem Sets, Problem Set Solutions, Exams, Exam Solutions | Problem-Set |
+| Projects, Projects with Examples, Assignments | Assignment |
+| Readings, Reading Lists, Open Textbooks | Reading-List |
+| Instructor Insights, Activity Assignments, Image Gallery | Resource / Image-Gallery |
+
+## Hybrid Merge Logic
+
+The `--hybrid` mode runs both API and deep scans, then merges:
+
+1. Start with API results (authoritative file data with YouTube IDs, descriptions)
+2. Run deep scan to discover sidebar pages (Syllabus, Calendar, etc.)
+3. For each sidebar page:
+   - If its URL isn't in the API results, add it directly
+   - If its URL IS in the API results but was typed as generic "Resource", replace with the deep scan's more specific type (e.g., "Syllabus", "Reading-List")
+4. If the API returns no data (new/unindexed course), fall back to full deep scan results
