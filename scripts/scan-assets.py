@@ -8,6 +8,7 @@ files, and video galleries, and classifies them into typed asset lists.
 Usage:
     python3 scripts/scan-assets.py --slug 4-241j-the-making-of-cities-spring-2025
     python3 scripts/scan-assets.py --deep 15-071-the-analytics-edge-spring-2017
+    python3 scripts/scan-assets.py --api 5-111sc-principles-of-chemical-science-fall-2014
     python3 scripts/scan-assets.py --batch 0 100
     python3 scripts/scan-assets.py --unscanned
 """
@@ -15,11 +16,35 @@ Usage:
 import json, re, sys, time
 from datetime import datetime
 from pathlib import Path
+from urllib.parse import quote
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 
+API_BASE = "https://api.learn.mit.edu/api/v1"
 WIKI_DIR = Path(__file__).resolve().parent.parent / "wiki"
 IGNORED_WORDS = {"welcome to", "overview", "introduction", "menu", "course info"}
+
+# Map API content_feature_type to wiki asset types
+FEATURE_TYPE_MAP = {
+    "Lecture Videos": "Video-Transcript",
+    "Other Video": "Video-Transcript",
+    "Lecture Notes": "Lecture-Notes",
+    "Problem Sets": "Problem-Set",
+    "Problem Set Solutions": "Problem-Set",
+    "Exams": "Problem-Set",
+    "Exam Solutions": "Problem-Set",
+    "Projects": "Assignment",
+    "Projects with Examples": "Assignment",
+    "Assignments": "Problem-Set",
+    "Written Assignments": "Problem-Set",
+    "Written Assignments with Examples": "Problem-Set",
+    "Readings": "Reading-List",
+    "Reading Lists": "Reading-List",
+    "Instructor Insights": "Resource",
+    "Activity Assignments with Examples": "Assignment",
+    "Image Gallery": "Image-Gallery",
+    "Open Textbooks": "Reading-List",
+}
 
 PATTERN_MAP = [
     (r"syllabus|calendar|schedule", "Syllabus"),
@@ -236,6 +261,125 @@ def deep_scan_one(slug: str, assets: list, max_pages: int = 100) -> list:
     print(f"  deep scan: {scanned} pages checked")
     return assets
 
+
+def api_scan(slug: str) -> list:
+    """
+    Fetch all content files for a course from the MIT Learn API.
+    Returns a complete, authoritative list of assets with rich metadata.
+    """
+    # Read the course page to get frontmatter
+    page_path = WIKI_DIR / "courses" / f"{slug}.md"
+    if not page_path.exists():
+        print(f"  SKIP {slug} — no wiki page found")
+        return []
+    frontmatter = page_path.read_text()
+    course_id = re.search(r'^course_id:\s*"(.+)"', frontmatter, re.M)
+    year = re.search(r'^year_published:\s*(\d+)', frontmatter, re.M)
+
+    # Derive semester from the URL in frontmatter
+    url_match = re.search(r'^url:\s*"(.+?)"', frontmatter, re.M)
+    semester = "unknown"
+    if url_match:
+        # Extract semester from URL like "...spring-2025/"
+        url = url_match.group(1).rstrip("/")
+        parts = url.split("-")
+        if len(parts) >= 2:
+            semester = parts[-2]  # e.g. "spring" from "...spring-2025"
+
+    if not course_id or not year:
+        print(f"  SKIP {slug} — missing course_id or year_published in frontmatter")
+        return []
+
+    readable_id = f"{course_id.group(1)}+{semester}_{year.group(1)}"
+    encoded_rid = quote(readable_id, safe="")
+
+    # Look up course in API to get the numeric ID
+    api_url = f"{API_BASE}/courses/?offered_by=ocw&readable_id={encoded_rid}"
+    try:
+        raw = urlopen(Request(api_url, headers={"Accept": "application/json"}), timeout=15).read()
+        data = json.loads(raw)
+        if data["count"] == 0:
+            print(f"  SKIP {slug} — course not found in API (readable_id={readable_id})")
+            return []
+        course_api_id = data["results"][0]["id"]
+    except Exception as e:
+        print(f"  SKIP {slug} — API lookup failed: {e}")
+        return []
+
+    # Fetch ALL content files for this course
+    all_files = []
+    offset = 0
+    limit = 100
+    while True:
+        cf_url = f"{API_BASE}/courses/{course_api_id}/contentfiles/?limit={limit}&offset={offset}"
+        try:
+            raw = urlopen(Request(cf_url, headers={"Accept": "application/json"}), timeout=15).read()
+            data = json.loads(raw)
+            all_files.extend(data["results"])
+            if data.get("next"):
+                offset += limit
+            else:
+                break
+        except Exception as e:
+            print(f"  API error: {e}")
+            break
+
+    print(f"  API: {len(all_files)} content files found for course {course_api_id}")
+
+    assets = []
+    seen = set()
+
+    for f in all_files:
+        title = f.get("content_title") or f.get("title", "")
+        if not title or title.lower() in seen:
+            continue
+        seen.add(title.lower())
+
+        # Determine asset type from content_feature_type
+        feature_types = f.get("content_feature_type", [])
+        asset_type = "Resource"
+        for ft in feature_types:
+            if ft in FEATURE_TYPE_MAP:
+                asset_type = FEATURE_TYPE_MAP[ft]
+                break
+
+        # Build display text with metadata
+        display = title
+        badges = []
+
+        # YouTube link
+        yt_id = f.get("youtube_id")
+        yt_url = None
+        if yt_id:
+            yt_url = f"https://youtu.be/{yt_id}"
+            badges.append("🎬YouTube")
+
+        # File extension info
+        ext = f.get("file_extension", "")
+        content_type = f.get("content_type", "")
+        if ext:
+            display = f"{display} ({ext})"
+
+        # Mark video content
+        if content_type == "video" or ext == ".mp4":
+            badges.append("📺Video")
+
+        if badges:
+            display = f"{display} {' '.join(badges)}"
+
+        # Primary URL: prefer YouTube if available, otherwise the resource URL
+        primary_url = yt_url or f.get("url", "")
+
+        # Add the asset
+        assets.append((asset_type, display, primary_url))
+
+        # Also add YouTube link as a separate Video-Transcript entry if it exists
+        if yt_url and yt_url != primary_url:
+            yt_display = f"{title} 🎬YouTube"
+            assets.append(("Video-Transcript", yt_display, yt_url))
+
+    return assets
+
 def update_page(slug: str, assets: list):
     path = WIKI_DIR / "courses" / f"{slug}.md"
     if not path.exists():
@@ -287,7 +431,29 @@ def update_checkpoint(n: int):
 def main():
     args = sys.argv[1:]
 
-    if args[0] == "--deep" and len(args) >= 2:
+    if args[0] == "--api" and len(args) >= 2:
+        slug = args[1]
+        assets = api_scan(slug)
+        if assets:
+            # Print summary by type
+            types = {}
+            for a, t, u in assets:
+                types[a] = types.get(a, 0) + 1
+            for t, c in sorted(types.items()):
+                print(f"  [{t:20s}] {c} files")
+            update_page(slug, assets)
+            title = slug
+            page_path = WIKI_DIR / "courses" / f"{slug}.md"
+            if page_path.exists():
+                m = re.search(r'^title: "(.+)"', page_path.read_text(), re.M)
+                if m:
+                    title = m.group(1)
+            append_log(f"## [{timestamp()}] asset-scan | API scanned [[{slug}|{title}]] ({len(assets)} assets via API)")
+            update_checkpoint(0)
+        else:
+            print("  No assets found.")
+
+    elif args[0] == "--deep" and len(args) >= 2:
         slug = args[1]
         assets = scan_one(slug)
         assets = deep_scan_one(slug, assets)
