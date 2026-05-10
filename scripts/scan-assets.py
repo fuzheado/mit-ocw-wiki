@@ -10,6 +10,7 @@ Usage:
     python3 scripts/scan-assets.py --deep 15-071-the-analytics-edge-spring-2017
     python3 scripts/scan-assets.py --api 5-111sc-principles-of-chemical-science-fall-2014
     python3 scripts/scan-assets.py --hybrid 2-782j-design-of-medical-devices-and-implants-spring-2025
+    python3 scripts/scan-assets.py --hybrid --skip-scanned 6-5630-advanced-topics-in-cryptography-fall-2023
     python3 scripts/scan-assets.py --batch 0 100
     python3 scripts/scan-assets.py --unscanned
 """
@@ -608,11 +609,28 @@ def update_checkpoint(n: int):
     (Path(__file__).resolve().parent.parent / "_checkpoint.json").write_text(json.dumps(cp, indent=2))
 
 def main():
-    args = sys.argv[1:]
+    args = [a for a in sys.argv[1:] if not a.startswith("--skip")]
+    skip_scanned = "--skip-scanned" in sys.argv[1:]
+
+    if not args:
+        print(__doc__)
+        return
 
     if args[0] == "--hybrid" and len(args) >= 2:
         slug = args[1]
         print(f"Hybrid scan of {slug}...")
+
+        # Skip if already scanned and --skip-scanned flag is set
+        page_path = WIKI_DIR / "courses" / f"{slug}.md"
+        if skip_scanned and page_path.exists():
+            content = page_path.read_text()
+            if re.search(r'^last_scanned:\s*\d{4}-\d{2}-\d{2}', content, re.M):
+                print(f"  SKIP {slug} — already scanned (last_scanned found)")
+                return
+            # Also skip if it has grouped lecture format (### Lectures)
+            if re.search(r'^### Lectures$', content, re.M):
+                print(f"  SKIP {slug} — already has grouped lecture format")
+                return
 
         # Phase 1: API scan for authoritative content files
         api_assets = api_scan(slug)

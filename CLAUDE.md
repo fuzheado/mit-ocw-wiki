@@ -105,6 +105,7 @@ This ensures consistency across sessions and prevents duplicated effort.
 
 1. The course page likely already exists from the initial batch ingest (2,573 courses). Check `wiki/courses/` for the slug derived from the URL.
 2. Run the hybrid asset scan: `python3 scripts/scan-assets.py --hybrid {slug}`
+   - Or with `--skip-scanned` to skip courses already processed
    - This fetches the content file inventory from the MIT Learn API
    - Also deep-scans the OCW page for sidebar structure, embedded video, and YouTube thumbnails
    - Lecture titles are extracted from gallery pages, thumbnails are paired with nearby titles
