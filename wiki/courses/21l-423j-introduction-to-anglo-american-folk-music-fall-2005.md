@@ -12,6 +12,9 @@ views: 328
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:56:41Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 1, Reading-List: 17, Resource: 5, Syllabus: 1, Video-Transcript: 1"
+api_id: 4676
 ---
 
 # Introduction to Anglo-American Folk Music
@@ -30,9 +33,36 @@ This course examines the production, transmission, preservation and qualities of
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [ses8.pdf (.pdf)](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/resources/ses8/)
+- [ses7.pdf (.pdf)](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/resources/ses7/)
+- [ses4.pdf (.pdf)](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/resources/ses4/)
+- [ses3.pdf (.pdf)](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/resources/ses3/)
+- [ses23.pdf (.pdf)](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/resources/ses23/)
+- [ses22.pdf (.pdf)](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/resources/ses22/)
+- [ses2.pdf (.pdf)](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/resources/ses2/)
+- [ses18.pdf (.pdf)](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/resources/ses18/)
+- [ses17.pdf (.pdf)](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/resources/ses17/)
+- [ses16.pdf (.pdf)](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/resources/ses16/)
+- [ses13.pdf (.pdf)](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/resources/ses13/)
+- [ses12.pdf (.pdf)](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/resources/ses12/)
+- [ses11.pdf (.pdf)](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/resources/ses11/)
+- [ses1.pdf (.pdf)](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/resources/ses1/)
+- [rounder_clips.pdf (.pdf)](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/resources/rounder_clips/)
+- [fiddling_sampler.pdf (.pdf)](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/resources/fiddling_sampler/)
+- [Readings](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/pages/assignments/)
+
+### Resource
+- [21l-423jf05.jpg (.jpg)](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/resources/21l-423jf05/)
+- [21l-423jf05-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/resources/21l-423jf05-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/21l-423j-introduction-to-anglo-american-folk-music-fall-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

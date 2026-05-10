@@ -12,6 +12,8 @@ views: 208
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:01:30Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Image-Gallery: 1, Problem-Set: 1, Reading-List: 1, Resource: 2, Syllabus: 2"
 ---
 
 # Theater Arts Topics
@@ -30,8 +32,22 @@ Directed practice in acting, directing, or design on a sustained theater piece, 
 
 ## Materials
 
-- [Image Gallery] Image Gallery
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/pages/calendar/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/pages/assignments/)
+
+### Image-Gallery
+- [Image Gallery](https://ocw.mit.edu/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/pages/image-gallery/)
+
+### Resource
+- [Study Materials](https://ocw.mit.edu/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

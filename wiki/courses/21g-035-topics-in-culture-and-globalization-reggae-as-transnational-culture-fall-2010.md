@@ -12,6 +12,9 @@ views: 93
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:51:07Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4228
 ---
 
 # Topics in Culture and Globalization: Reggae as Transnational Culture
@@ -30,8 +33,18 @@ This course considers reggae, or Jamaican popular music more generally—in its 
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-035-topics-in-culture-and-globalization-reggae-as-transnational-culture-fall-2010/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-035-topics-in-culture-and-globalization-reggae-as-transnational-culture-fall-2010/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21g-035-topics-in-culture-and-globalization-reggae-as-transnational-culture-fall-2010/pages/assignments/)
+
+### Resource
+- [The Reggae Bar (.jpg)](https://ocw.mit.edu/courses/21g-035-topics-in-culture-and-globalization-reggae-as-transnational-culture-fall-2010/resources/21g-035f10/)
+- [The Reggae Bar (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-035-topics-in-culture-and-globalization-reggae-as-transnational-culture-fall-2010/resources/21g-035f10-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

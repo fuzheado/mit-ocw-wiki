@@ -12,6 +12,9 @@ views: 273
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T17:07:19Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 13, Syllabus: 1"
+api_id: 5012
 ---
 
 # Musical Analysis
@@ -30,8 +33,31 @@ This class is an introduction to the analysis of tonal music. Students develop a
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-350-musical-analysis-spring-2008/pages/syllabus/)
 
+### Reading-List
+- [Readings and Music](https://ocw.mit.edu/courses/21m-350-musical-analysis-spring-2008/pages/readings-and-music/)
+
+### Problem-Set
+- [sheil_final.pdf (.pdf)](https://ocw.mit.edu/courses/21m-350-musical-analysis-spring-2008/resources/sheil_final/)
+- [ovsey_final.pdf (.pdf)](https://ocw.mit.edu/courses/21m-350-musical-analysis-spring-2008/resources/ovsey_final/)
+- [amick_final.pdf (.pdf)](https://ocw.mit.edu/courses/21m-350-musical-analysis-spring-2008/resources/amick_final/)
+- [Assignments](https://ocw.mit.edu/courses/21m-350-musical-analysis-spring-2008/pages/assignments/)
+
+### Resource
+- [strauss_tod_them.pdf (.pdf)](https://ocw.mit.edu/courses/21m-350-musical-analysis-spring-2008/resources/strauss_tod_them/)
+- [haydn_symph_red.pdf (.pdf)](https://ocw.mit.edu/courses/21m-350-musical-analysis-spring-2008/resources/haydn_symph_red/)
+- [haydn_sonata_seq.pdf (.pdf)](https://ocw.mit.edu/courses/21m-350-musical-analysis-spring-2008/resources/haydn_sonata_seq/)
+- [chopin_prelude.pdf (.pdf)](https://ocw.mit.edu/courses/21m-350-musical-analysis-spring-2008/resources/chopin_prelude/)
+- [chopin_etude.pdf (.pdf)](https://ocw.mit.edu/courses/21m-350-musical-analysis-spring-2008/resources/chopin_etude/)
+- [casta_diva3.pdf (.pdf)](https://ocw.mit.edu/courses/21m-350-musical-analysis-spring-2008/resources/casta_diva3/)
+- [casta_diva2.pdf (.pdf)](https://ocw.mit.edu/courses/21m-350-musical-analysis-spring-2008/resources/casta_diva2/)
+- [casta_diva1.pdf (.pdf)](https://ocw.mit.edu/courses/21m-350-musical-analysis-spring-2008/resources/casta_diva1/)
+- [bach_jesu_red.pdf (.pdf)](https://ocw.mit.edu/courses/21m-350-musical-analysis-spring-2008/resources/bach_jesu_red/)
+- [21m-350s08.jpg (.jpg)](https://ocw.mit.edu/courses/21m-350-musical-analysis-spring-2008/resources/21m-350s08/)
+- [21m-350s08-th.jpg (.jpg)](https://ocw.mit.edu/courses/21m-350-musical-analysis-spring-2008/resources/21m-350s08-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21m-350-musical-analysis-spring-2008/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

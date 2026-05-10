@@ -12,6 +12,9 @@ views: 987
 completeness: 0.1
 last_modified: "2026-05-06T16:58:00Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 2, Problem-Set: 5, Resource: 5, Syllabus: 2, Video-Transcript: 7"
+api_id: 5626
 ---
 
 # Dance Theory and Composition
@@ -30,9 +33,22 @@ This course introduces students to the art and formal ideologies of contemporary
 
 ## Materials
 
-- [Activity Assignments with Examples] Activity Assignments with Examples
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21m-675-dance-theory-and-composition-fall-2003/pages/calendar/)
+- **Projects** — [🔗](https://ocw.mit.edu/courses/21m-675-dance-theory-and-composition-fall-2003/pages/projects/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-675-dance-theory-and-composition-fall-2003/pages/syllabus/)
 
+### Problem-Set
+- [Word Phrase (.pdf)](https://ocw.mit.edu/courses/21m-675-dance-theory-and-composition-fall-2003/resources/assignment_04/)
+- [Image Map (.pdf)](https://ocw.mit.edu/courses/21m-675-dance-theory-and-composition-fall-2003/resources/assignment_03/)
+- [“Name Map” Phrase (.pdf)](https://ocw.mit.edu/courses/21m-675-dance-theory-and-composition-fall-2003/resources/assignment_02/)
+- [Accumulation Exercise (.pdf)](https://ocw.mit.edu/courses/21m-675-dance-theory-and-composition-fall-2003/resources/assignment_01/)
+- [Assignments](https://ocw.mit.edu/courses/21m-675-dance-theory-and-composition-fall-2003/pages/assignments/)
+
+### Resource
+- [How to Dance (.jpg)](https://ocw.mit.edu/courses/21m-675-dance-theory-and-composition-fall-2003/resources/21m-675f03/)
+- [How to Dance (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21m-675-dance-theory-and-composition-fall-2003/resources/21m-675f03-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21m-675-dance-theory-and-composition-fall-2003/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

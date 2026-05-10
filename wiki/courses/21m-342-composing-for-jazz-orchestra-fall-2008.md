@@ -12,6 +12,9 @@ views: 151
 completeness: 0.08666666666666667
 last_modified: "2026-05-06T17:15:33Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 18, Syllabus: 1, Video-Transcript: 9"
+api_id: 4065
 ---
 
 # Composing for Jazz Orchestra
@@ -30,11 +33,32 @@ This class explores composition and arrangement for the large jazz ensemble from
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Lecture Videos] Lecture Videos
-- [Music Audio] Music Audio
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Listening** — [🔗](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/listening/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/syllabus/)
+- **Video and Audio Classes** — [🔗](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/video-and-audio-classes/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/assignments/)
+
+### Resource
+- [Totality: Transposed (.pdf)](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/totality_trans/)
+- [Totality: Concert (.pdf)](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/totality_conc/)
+- [totality (.jpg)](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/totality-1/)
+- [Influences Toward the Postmodern Jazz Orchestra (.pdf)](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/postmodern/)
+- [evening (.jpg)](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/evening/)
+- [Ethiopian Voicings (.pdf)](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/ethio_voicing/)
+- [Ethiopian Modes (.pdf)](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/ethio_modes/)
+- [Empty Bottles (.pdf)](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/empty_bottles/)
+- [empty (.jpg)](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/empty/)
+- [concert (.jpg)](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/concert/)
+- [Photo of part of a large jazz ensemble on stage - saxophones and trombones - with conductor and composer out front (.jpg)](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/21m-342f08/)
+- [21 (.jpg)](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/21/)
+- [Lecture 13](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/video-and-audio-classes/lecture-13/)
+- [Scores List](https://ocw.mit.edu/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/scores-list/)
 ## Wikipedia Bridge
 
 ### Related Articles

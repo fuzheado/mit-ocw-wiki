@@ -12,6 +12,9 @@ views: 372
 completeness: 0.0
 last_modified: "2026-05-06T17:07:12Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 7, Resource: 5, Syllabus: 1, Video-Transcript: 8"
+api_id: 4645
 ---
 
 # Music Composition
@@ -30,9 +33,23 @@ This course features directed composition of larger forms of original writing in
 
 ## Materials
 
-- [Music Audio] Music Audio
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-351-music-composition-fall-2008/pages/syllabus/)
 
+### Assignment
+- [Limit One Per Cussion (.pdf)](https://ocw.mit.edu/courses/21m-351-music-composition-fall-2008/resources/perkinson_perc/)
+- [Duet for Clarinet and Bassoon (.pdf)](https://ocw.mit.edu/courses/21m-351-music-composition-fall-2008/resources/perkinson_duet/)
+- [Life of a Butterfly (.pdf)](https://ocw.mit.edu/courses/21m-351-music-composition-fall-2008/resources/perkinsn_butrfly/)
+- [Up to No Good (.pdf)](https://ocw.mit.edu/courses/21m-351-music-composition-fall-2008/resources/park_nogood/)
+- [The Last Leaf (.pdf)](https://ocw.mit.edu/courses/21m-351-music-composition-fall-2008/resources/park_lastleaf/)
+- [Drifting (.pdf)](https://ocw.mit.edu/courses/21m-351-music-composition-fall-2008/resources/park_drifting/)
+- [Projects](https://ocw.mit.edu/courses/21m-351-music-composition-fall-2008/pages/projects/)
+
+### Resource
+- [Brücke mit Reiter (.pdf)](https://ocw.mit.edu/courses/21m-351-music-composition-fall-2008/resources/bruck_mit_reitr/)
+- [Bridge Translation (.pdf)](https://ocw.mit.edu/courses/21m-351-music-composition-fall-2008/resources/bridge_translatn/)
+- [Excerpt of percussion solo score, including notation for various instruments and techniques (.jpg)](https://ocw.mit.edu/courses/21m-351-music-composition-fall-2008/resources/21m-351f08/)
+- [Listening](https://ocw.mit.edu/courses/21m-351-music-composition-fall-2008/pages/listening/)
 ## Wikipedia Bridge
 
 ### Related Articles

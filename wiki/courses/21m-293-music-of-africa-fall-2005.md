@@ -12,6 +12,9 @@ views: 214
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T14:45:55Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 7, Reading-List: 2, Resource: 6, Syllabus: 2"
+api_id: 3801
 ---
 
 # Music of Africa
@@ -31,8 +34,28 @@ After an introductory unit, the course will be organized around four main geogra
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21m-293-music-of-africa-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-293-music-of-africa-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [sabar_terms.pdf (.pdf)](https://ocw.mit.edu/courses/21m-293-music-of-africa-fall-2005/resources/sabar_terms/)
+- [Readings](https://ocw.mit.edu/courses/21m-293-music-of-africa-fall-2005/pages/readings/)
+
+### Problem-Set
+- [paper2.pdf (.pdf)](https://ocw.mit.edu/courses/21m-293-music-of-africa-fall-2005/resources/paper2/)
+- [paper1.pdf (.pdf)](https://ocw.mit.edu/courses/21m-293-music-of-africa-fall-2005/resources/paper1/)
+- [gahu.pdf (.pdf)](https://ocw.mit.edu/courses/21m-293-music-of-africa-fall-2005/resources/gahu/)
+- [finalproj.pdf (.pdf)](https://ocw.mit.edu/courses/21m-293-music-of-africa-fall-2005/resources/finalproj/)
+- [bakks_transcrptn.pdf (.pdf)](https://ocw.mit.edu/courses/21m-293-music-of-africa-fall-2005/resources/bakks_transcrptn/)
+- [bakks_paper.pdf (.pdf)](https://ocw.mit.edu/courses/21m-293-music-of-africa-fall-2005/resources/bakks_paper/)
+- [Assignments](https://ocw.mit.edu/courses/21m-293-music-of-africa-fall-2005/pages/assignments/)
+
+### Resource
+- [21m-293f05.jpg (.jpg)](https://ocw.mit.edu/courses/21m-293-music-of-africa-fall-2005/resources/21m-293f05/)
+- [21m-293f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/21m-293-music-of-africa-fall-2005/resources/21m-293f05-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21m-293-music-of-africa-fall-2005/pages/related-resources/)
+- [Listening](https://ocw.mit.edu/courses/21m-293-music-of-africa-fall-2005/pages/listening/)
 ## Wikipedia Bridge
 
 ### Related Articles

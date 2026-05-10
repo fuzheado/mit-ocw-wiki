@@ -12,6 +12,9 @@ views: 271
 completeness: 0.16000000000000003
 last_modified: "2026-05-06T14:53:46Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 8, Reading-List: 3, Resource: 5, Syllabus: 1"
+api_id: 3685
 ---
 
 # Studies in Western Music History: Quantitative and Computational Approaches to Music History
@@ -30,11 +33,29 @@ The disciplines of music history and music theory have been slow to embrace the 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
-- [Projects with Examples] Projects with Examples
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012/pages/syllabus/)
 
+### Reading-List
+- [Quantitative and Computational Approaches to Music History (.pdf)](https://ocw.mit.edu/courses/21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012/resources/mit21m_269s12_lec01/)
+- [Readings & Listening](https://ocw.mit.edu/courses/21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012/pages/readings-listening/)
+- [Readings &amp; Listening](https://ocw.mit.edu/courses/21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012/pages/readings-listening/)
+
+### Problem-Set
+- [Assignment 3: Problem Set 2 (.pdf)](https://ocw.mit.edu/courses/21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012/resources/mit21m_269s12_pset2/)
+- [Assignment 2: Problem Set 1 (.pdf)](https://ocw.mit.edu/courses/21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012/resources/mit21m_269s12_pset1/)
+- [Ossia paper description (.pdf)](https://ocw.mit.edu/courses/21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012/resources/mit21m_269s12_paper/)
+- [Using Tarsos and music21 to Analyze Presidential Speech Patterns (.pdf)](https://ocw.mit.edu/courses/21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012/resources/mit21m_269s12_assn_final3/)
+- [Describing Musical Contour with Tonality, Voicing, and  Dissonance Levels (.pdf)](https://ocw.mit.edu/courses/21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012/resources/mit21m_269s12_assn_final2/)
+- [Feature-Based Analysis of Haydn String Quartets (.pdf)](https://ocw.mit.edu/courses/21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012/resources/mit21m_269s12_assn_final1/)
+- [instrument (.py)](https://ocw.mit.edu/courses/21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012/resources/instrument/)
+- [Assignments](https://ocw.mit.edu/courses/21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012/pages/assignments/)
+
+### Resource
+- [Interoperable Digital Musicology Research via music21 Web Applications (.pdf)](https://ocw.mit.edu/courses/21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012/resources/mit21m_269s12_music21soa/)
+- [A collage of several images, including annotated music manuscript, software code excerpt, a 3-D graph, and geographic mapping (.jpg)](https://ocw.mit.edu/courses/21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012/resources/21m-269s12/)
+- [More on Grading Scale and Course Policies](https://ocw.mit.edu/courses/21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012/pages/syllabus/more-on-grading-scale-and-course-policies/)
+- [music21 Tools](https://ocw.mit.edu/courses/21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012/pages/music21-tools/)
 ## Wikipedia Bridge
 
 ### Related Articles

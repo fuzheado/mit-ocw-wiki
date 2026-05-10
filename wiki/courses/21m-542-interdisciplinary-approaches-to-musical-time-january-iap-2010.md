@@ -12,6 +12,8 @@ views: 224
 completeness: 0.18000000000000002
 last_modified: "2026-05-06T16:52:10Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 1, Resource: 2, Syllabus: 1, Video-Transcript: 7"
 ---
 
 # Interdisciplinary Approaches to Musical Time
@@ -36,12 +38,15 @@ Classroom discussion of these topics is complemented by three weekend concerts w
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Music Audio] Music Audio
-- [Other Video] Other Video
-- [Presentation Assignments with Examples] Presentation Assignments with Examples
-- [Written Assignments with Examples] Written Assignments with Examples
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/pages/assignments/)
+
+### Resource
+- [Classroom Sessions 📺Video](https://ocw.mit.edu/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/video_galleries/classroom-sessions/)
+- [Forums and Concerts 📺Video](https://ocw.mit.edu/courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/video_galleries/forums-and-concerts/)
 ## Wikipedia Bridge
 
 ### Related Articles

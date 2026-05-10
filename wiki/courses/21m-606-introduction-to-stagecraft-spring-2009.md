@@ -12,6 +12,9 @@ views: 328
 completeness: 0.2
 last_modified: "2026-05-06T14:48:13Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 18, Resource: 21, Syllabus: 2"
+api_id: 4646
 ---
 
 # Introduction to Stagecraft
@@ -30,8 +33,50 @@ Offered in the spring and fall terms, Introduction to Stagecraft is a hands-on c
 
 ## Materials
 
-- [Activity Assignments with Examples] Activity Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/pages/syllabus/)
 
+### Problem-Set
+- [sw06_final2.jpg (.jpg)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/sw06_final2/)
+- [sw06_final1.jpg (.jpg)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/sw06_final1/)
+- [MIT21M_606s09_trousers.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_trousers/)
+- [MIT21M_606s09_tools.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_tools/)
+- [MIT21M_606s09_sw07_midterm.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_sw07_midterm/)
+- [MIT21M_606s09_sw06_midterm.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_sw06_midterm/)
+- [MIT21M_606s09_sw05_midterm.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_sw05_midterm/)
+- [MIT21M_606s09_sw04_midterm.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_sw04_midterm/)
+- [MIT21M_606s09_sw04_final.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_sw04_final/)
+- [MIT21M_606s09_sw03_midterm.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_sw03_midterm/)
+- [MIT21M_606s09_sw03_final.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_sw03_final/)
+- [MIT21M_606s09_sw02_midterm.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_sw02_midterm/)
+- [MIT21M_606s09_sw01_midterm.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_sw01_midterm/)
+- [MIT21M_606s09_hours.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_hours/)
+- [MIT21M_606s09_assn03_hours.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_assn03_hours/)
+- [MIT21M_606s09_assn02_trousers.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_assn02_trousers/)
+- [MIT21M_606s09_assn01_tools.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_assn01_tools/)
+- [Assignments](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/pages/assignments/)
+
+### Resource
+- [MIT21M_606s09_syll01_hours.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_syll01_hours/)
+- [MIT21M_606s09_study02_diagrams.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_study02_diagrams/)
+- [MIT21M_606s09_study01_power.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_study01_power/)
+- [MIT21M_606s09_res22.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_res22/)
+- [MIT21M_606s09_res04.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_res04/)
+- [MIT21M_606s09_res03.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_res03/)
+- [MIT21M_606s09_power.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_power/)
+- [MIT21M_606s09_lec17.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_lec17/)
+- [MIT21M_606s09_lec07.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_lec07/)
+- [MIT21M_606s09_lec05.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_lec05/)
+- [MIT21M_606s09_lec04.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_lec04/)
+- [MIT21M_606s09_lec03.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_lec03/)
+- [MIT21M_606s09_lec02.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_lec02/)
+- [MIT21M_606s09_lec01.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_lec01/)
+- [MIT21M_606s09_diagrams.pdf (.pdf)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/mit21m_606s09_diagrams/)
+- [chp_mitheatreseal_21m606.jpg (.jpg)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/chp_mitheatreseal_21m606/)
+- [21m-606s09.jpg (.jpg)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/21m-606s09/)
+- [21m-606s09-th.jpg (.jpg)](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/resources/21m-606s09-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21m-606-introduction-to-stagecraft-spring-2009/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

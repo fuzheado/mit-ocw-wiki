@@ -12,6 +12,8 @@ views: 67
 completeness: 0.2
 last_modified: "2026-05-06T17:18:58Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Image-Gallery: 1, Lecture-Notes: 1, Reading-List: 1, Resource: 2, Syllabus: 1, Video-Transcript: 3"
 ---
 
 # Theater Arts Topics - Suburbia
@@ -30,10 +32,21 @@ Directed practice in acting, production, or design on a sustained theater piece,
 
 ## Materials
 
-- [Image Gallery] Image Gallery
-- [Lecture Notes] Lecture Notes
-- [Music Audio] Music Audio
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/pages/lecture-notes/)
+
+### Reading-List
+- [Readings 🎬YouTube](https://ocw.mit.edu/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/pages/readings/)
+
+### Image-Gallery
+- [Image Gallery](https://ocw.mit.edu/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/pages/image-gallery/)
+
+### Resource
+- [Study Materials](https://ocw.mit.edu/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/pages/study-materials/)
+- [Music](https://ocw.mit.edu/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/pages/music/)
 ## Wikipedia Bridge
 
 ### Related Articles

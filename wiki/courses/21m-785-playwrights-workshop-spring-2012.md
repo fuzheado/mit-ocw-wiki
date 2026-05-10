@@ -12,6 +12,9 @@ views: 103
 completeness: 0.0
 last_modified: "2026-05-06T17:03:59Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Reading-List: 1, Resource: 10, Syllabus: 1"
+api_id: 4432
 ---
 
 # Playwrights' Workshop
@@ -30,8 +33,22 @@ This course provides continued work in the development of play scripts for the t
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-785-playwrights-workshop-spring-2012/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21m-785-playwrights-workshop-spring-2012/pages/readings/)
+
+### Resource
+- [MIT21M_785S12_Zero_eleven.pdf (.pdf)](https://ocw.mit.edu/courses/21m-785-playwrights-workshop-spring-2012/resources/mit21m_785s12_zero_eleven/)
+- [Yosh married (.pdf)](https://ocw.mit.edu/courses/21m-785-playwrights-workshop-spring-2012/resources/mit21m_785s12_yosh_maried/)
+- [MIT21M_785S12_time_change.pdf (.pdf)](https://ocw.mit.edu/courses/21m-785-playwrights-workshop-spring-2012/resources/mit21m_785s12_time_change/)
+- [Midnight (.pdf)](https://ocw.mit.edu/courses/21m-785-playwrights-workshop-spring-2012/resources/mit21m_785s12_midnight/)
+- [Taking a Math Test (.pdf)](https://ocw.mit.edu/courses/21m-785-playwrights-workshop-spring-2012/resources/mit21m_785s12_math_test/)
+- [MIT21M_785S12_life_shoes.pdf (.pdf)](https://ocw.mit.edu/courses/21m-785-playwrights-workshop-spring-2012/resources/mit21m_785s12_life_shoes/)
+- [21m-785s12.jpg (.jpg)](https://ocw.mit.edu/courses/21m-785-playwrights-workshop-spring-2012/resources/21m-785s12/)
+- [21m-785s12-th.jpg (.jpg)](https://ocw.mit.edu/courses/21m-785-playwrights-workshop-spring-2012/resources/21m-785s12-th/)
+- [Playwrights in Performance](https://ocw.mit.edu/courses/21m-785-playwrights-workshop-spring-2012/pages/playwrights-in-performance/)
 ## Wikipedia Bridge
 
 ### Related Articles

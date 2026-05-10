@@ -12,6 +12,9 @@ views: 131
 completeness: 0.2
 last_modified: "2026-05-06T14:55:55Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 11, Reading-List: 2, Resource: 4, Syllabus: 2"
+api_id: 5051
 ---
 
 # Traditions in American Concert Dance: Gender and Autobiography
@@ -30,9 +33,30 @@ This course explores the forms, contents, and context of world traditions in dan
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/pages/syllabus/)
 
+### Reading-List
+- [Some ways to consider movement/movement quality (.pdf)](https://ocw.mit.edu/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/resources/mit21m_670s08_movement/)
+- [Readings](https://ocw.mit.edu/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/pages/readings/)
+
+### Problem-Set
+- [21M. 670 – Traditions in American Concert Dance: Gender and Autobiography (.pdf)](https://ocw.mit.edu/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/resources/mit21m_670s08_sinharevel/)
+- [21M.670: Traditions in American Concert Dance and Gender Autobiography (.pdf)](https://ocw.mit.edu/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/resources/mit21m_670s08_sinhafinal/)
+- [Paper # 2 Due March 20 – How does the dance “Fall River Legend” (DeMille, 1950) convey concepts of Cultural Mores and Cultural (.pdf)](https://ocw.mit.edu/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/resources/mit21m_670s08_sinhafall/)
+- [FINAL PAPER (.pdf)](https://ocw.mit.edu/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/resources/mit21m_670s08_paper3/)
+- [PAPER # 2 (.pdf)](https://ocw.mit.edu/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/resources/mit21m_670s08_paper2/)
+- [Paper # 1: Due Tuesday, February 26, at the BEGINNING of class (.pdf)](https://ocw.mit.edu/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/resources/mit21m_670s08_paper1/)
+- [BALANCHINE BALLET ORAL PRESENTATION (.pdf)](https://ocw.mit.edu/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/resources/mit21m_670s08_orals/)
+- [Religion and Social Order in Alvin Ailey’s Revelations (.pdf)](https://ocw.mit.edu/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/resources/mit21m_670s08_chaorevel/)
+- [Gender and Individuality in the 'Gold Section' of Twyla Tharp's The Catherine Wheel (.pdf)](https://ocw.mit.edu/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/resources/mit21m_670s08_chao_final/)
+- [Fall River Legend:  Conveying Cultural Mores and Cultural Identity (.pdf)](https://ocw.mit.edu/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/resources/mit21m_670s08_chao_fall/)
+- [Assignments](https://ocw.mit.edu/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/pages/assignments/)
+
+### Resource
+- [21m-670s08.jpg (.jpg)](https://ocw.mit.edu/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/resources/21m-670s08/)
+- [21m-670s08-th.jpg (.jpg)](https://ocw.mit.edu/courses/21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008/resources/21m-670s08-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

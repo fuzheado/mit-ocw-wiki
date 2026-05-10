@@ -12,6 +12,9 @@ views: 268
 completeness: 0.26
 last_modified: "2026-05-06T17:25:01Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 3662
 ---
 
 # Music Since 1960
@@ -30,9 +33,24 @@ This course begins with the premise that the 1960s mark a great dividing point i
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21m-263-music-since-1960-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-263-music-since-1960-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21m-263-music-since-1960-spring-2006/pages/readings/)
+
+### Problem-Set
+- [Analytic reviews of performances: Some points of inquiry (.pdf)](https://ocw.mit.edu/courses/21m-263-music-since-1960-spring-2006/resources/pnt_inq_anl_rev/)
+- [Further Thoughts (.pdf)](https://ocw.mit.edu/courses/21m-263-music-since-1960-spring-2006/resources/further_thoughts/)
+- [Preview of the Final Exam (.pdf)](https://ocw.mit.edu/courses/21m-263-music-since-1960-spring-2006/resources/final_preview/)
+- [Exams](https://ocw.mit.edu/courses/21m-263-music-since-1960-spring-2006/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/21m-263-music-since-1960-spring-2006/pages/assignments/)
+
+### Resource
+- [Aspects of Contemporary Music (.jpg)](https://ocw.mit.edu/courses/21m-263-music-since-1960-spring-2006/resources/21m-263s06/)
+- [Aspects of Contemporary Music (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21m-263-music-since-1960-spring-2006/resources/21m-263s06-th/)
+- [Listening](https://ocw.mit.edu/courses/21m-263-music-since-1960-spring-2006/pages/listening/)
 ## Wikipedia Bridge
 
 ### Related Articles

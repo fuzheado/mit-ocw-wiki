@@ -12,6 +12,9 @@ views: 451
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T14:49:48Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5194
 ---
 
 # Hip Hop
@@ -30,9 +33,22 @@ This class explores the political and aesthetic foundations of hip hop. Students
 
 ## Materials
 
-- [Problem Sets] Problem Sets
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21m-775-hip-hop-fall-2007/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-775-hip-hop-fall-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21m-775-hip-hop-fall-2007/pages/readings/)
+
+### Problem-Set
+- [Possibilities for Peace: Israeli & Palestinian hip-hop as tools for achieving a stable, long-term peace in the Middle East (.pdf)](https://ocw.mit.edu/courses/21m-775-hip-hop-fall-2007/resources/krones2006final/)
+- [Can Hip Hop be the Same With White People in the Game? (.pdf)](https://ocw.mit.edu/courses/21m-775-hip-hop-fall-2007/resources/headenfinal/)
+- [The Uprising of Ibilys: A Violent Fantasy  (.pdf)](https://ocw.mit.edu/courses/21m-775-hip-hop-fall-2007/resources/dupuisfinal/)
+- [Assignments](https://ocw.mit.edu/courses/21m-775-hip-hop-fall-2007/pages/assignments/)
+
+### Resource
+- [Break Dancer in Harvard Square (.jpg)](https://ocw.mit.edu/courses/21m-775-hip-hop-fall-2007/resources/21m-775f07/)
+- [Break Dancer in Harvard Square (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21m-775-hip-hop-fall-2007/resources/21m-775f07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

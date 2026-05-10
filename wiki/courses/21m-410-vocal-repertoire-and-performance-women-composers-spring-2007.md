@@ -12,6 +12,9 @@ views: 72
 completeness: 0.2
 last_modified: "2026-05-06T17:18:19Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 11, Resource: 6, Syllabus: 1"
+api_id: 3605
 ---
 
 # Vocal Repertoire and Performance: Women Composers
@@ -30,8 +33,28 @@ This course is for the singer and/or pianist interested in collaborative study o
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/pages/syllabus/)
 
+### Problem-Set
+- [recital_program.pdf (.pdf)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/resources/recital_program/)
+- [outline_park_col.pdf (.pdf)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/resources/outline_park_col/)
+- [es_park_colbran.pdf (.pdf)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/resources/es_park_colbran/)
+- [es_judd_chaminad.pdf (.pdf)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/resources/es_judd_chaminad/)
+- [es_judd_bosmans.pdf (.pdf)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/resources/es_judd_bosmans/)
+- [es_fernan_price.pdf (.pdf)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/resources/es_fernan_price/)
+- [es_fernan_hensel.pdf (.pdf)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/resources/es_fernan_hensel/)
+- [es_cherry_boulan.pdf (.pdf)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/resources/es_cherry_boulan/)
+- [es_bhatt_mirabai.pdf (.pdf)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/resources/es_bhatt_mirabai/)
+- [es_bhatt_chamina.pdf (.pdf)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/resources/es_bhatt_chamina/)
+- [Assignments](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/pages/assignments/)
+
+### Resource
+- [timeline.pdf (.pdf)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/resources/timeline/)
+- [21m-410s07.jpg (.jpg)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/resources/21m-410s07/)
+- [21m-410s07-th.jpg (.jpg)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/resources/21m-410s07-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/pages/study-materials/)
+- [Repertoire List](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-women-composers-spring-2007/pages/repertoire-list/)
 ## Wikipedia Bridge
 
 ### Related Articles

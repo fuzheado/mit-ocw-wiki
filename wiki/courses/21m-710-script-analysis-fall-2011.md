@@ -12,6 +12,9 @@ views: 142
 completeness: 0.12
 last_modified: "2026-05-06T17:23:26Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 6, Reading-List: 1, Resource: 3, Syllabus: 2"
+api_id: 4143
 ---
 
 # Script Analysis
@@ -31,8 +34,23 @@ The Fall 2005 version of this course contains alternate readings and assignments
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21m-710-script-analysis-fall-2011/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-710-script-analysis-fall-2011/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21m-710-script-analysis-fall-2011/pages/readings/)
+
+### Problem-Set
+- [The Wild Duck (.pdf)](https://ocw.mit.edu/courses/21m-710-script-analysis-fall-2011/resources/mit21m_710f11_wild_duck/)
+- [Third Paper (.pdf)](https://ocw.mit.edu/courses/21m-710-script-analysis-fall-2011/resources/mit21m_710f11_paper_3/)
+- [Paper 2 (.pdf)](https://ocw.mit.edu/courses/21m-710-script-analysis-fall-2011/resources/mit21m_710f11_paper_2/)
+- [First Paper (.pdf)](https://ocw.mit.edu/courses/21m-710-script-analysis-fall-2011/resources/mit21m_710f11_paper_1/)
+- ["Next Fall": A Look at the Production and Characters (.pdf)](https://ocw.mit.edu/courses/21m-710-script-analysis-fall-2011/resources/mit21m_710f11_next_fall/)
+- [Assignments](https://ocw.mit.edu/courses/21m-710-script-analysis-fall-2011/pages/assignments/)
+
+### Resource
+- [A scene from the MIT Dramashop's production of "Endgame" (.jpg)](https://ocw.mit.edu/courses/21m-710-script-analysis-fall-2011/resources/21m-710f11/)
 ## Wikipedia Bridge
 
 ### Related Articles

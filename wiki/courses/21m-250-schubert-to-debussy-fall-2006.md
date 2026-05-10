@@ -12,6 +12,9 @@ views: 174
 completeness: 0.24000000000000002
 last_modified: "2026-05-06T17:11:29Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 4517
 ---
 
 # Schubert to Debussy
@@ -30,8 +33,23 @@ This course is a survey of developments in Western musical style, 1815-1915. Stu
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-250-schubert-to-debussy-fall-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21m-250-schubert-to-debussy-fall-2006/pages/readings/)
+
+### Problem-Set
+- [Second Concert Report (.pdf)](https://ocw.mit.edu/courses/21m-250-schubert-to-debussy-fall-2006/resources/report_ilten/)
+- [Quiz II (.pdf)](https://ocw.mit.edu/courses/21m-250-schubert-to-debussy-fall-2006/resources/quiz2/)
+- [Quiz I (.pdf)](https://ocw.mit.edu/courses/21m-250-schubert-to-debussy-fall-2006/resources/quiz1/)
+- [Exams](https://ocw.mit.edu/courses/21m-250-schubert-to-debussy-fall-2006/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/21m-250-schubert-to-debussy-fall-2006/pages/assignments/)
+
+### Resource
+- [Composers Franz Schubert and Claude Debussy (.jpg)](https://ocw.mit.edu/courses/21m-250-schubert-to-debussy-fall-2006/resources/21m-250f06/)
+- [Composers Franz Schubert (.jpg)](https://ocw.mit.edu/courses/21m-250-schubert-to-debussy-fall-2006/resources/21m-250f06-th/)
+- [Listening](https://ocw.mit.edu/courses/21m-250-schubert-to-debussy-fall-2006/pages/listening/)
 ## Wikipedia Bridge
 
 ### Related Articles

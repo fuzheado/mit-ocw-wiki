@@ -12,6 +12,9 @@ views: 2273
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:01:09Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Resource: 6, Syllabus: 1"
+api_id: 3461
 ---
 
 # Fundamentals of Music
@@ -30,9 +33,18 @@ This class introduces students to the rudiments of Western music through oral, a
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Piano Lab** — [🔗](https://ocw.mit.edu/courses/21m-051-fundamentals-of-music-spring-2007/pages/piano-lab/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-051-fundamentals-of-music-spring-2007/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21m-051-fundamentals-of-music-spring-2007/pages/assignments/)
+
+### Resource
+- [Music is for everyone! (.jpg)](https://ocw.mit.edu/courses/21m-051-fundamentals-of-music-spring-2007/resources/21m-051s07/)
+- [Music is for everyone! (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21m-051-fundamentals-of-music-spring-2007/resources/21m-051s07-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21m-051-fundamentals-of-music-spring-2007/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/21m-051-fundamentals-of-music-spring-2007/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

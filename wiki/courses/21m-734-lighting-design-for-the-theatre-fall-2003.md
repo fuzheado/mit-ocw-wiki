@@ -12,6 +12,9 @@ views: 845
 completeness: 0.2
 last_modified: "2026-05-06T17:12:31Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 17, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 5398
 ---
 
 # Lighting Design for the Theatre
@@ -30,8 +33,38 @@ This class explores the artistry of Lighting Design. Students gain an overall te
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/pages/readings/)
+
+### Problem-Set
+- [style_research.pdf (.pdf)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/style_research/)
+- [storyboard2b.pdf (.pdf)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/storyboard2b/)
+- [storyboard2a.pdf (.pdf)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/storyboard2a/)
+- [storyboard2.pdf (.pdf)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/storyboard2/)
+- [storyboard.pdf (.pdf)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/storyboard/)
+- [plot_adaptation.pdf (.pdf)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/plot_adaptation/)
+- [midterm_part_1.pdf (.pdf)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/midterm_part_1/)
+- [lightlib03.pdf (.pdf)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/lightlib03/)
+- [homework_3_pictures.pdf (.pdf)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/homework_3_pictures/)
+- [haiku_assignment.pdf (.pdf)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/haiku_assignment/)
+- [emotional_response.pdf (.pdf)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/emotional_response/)
+- [cuesyp_p2_v2.pdf (.pdf)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/cuesyp_p2_v2/)
+- [cue_syp_page_2.pdf (.pdf)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/cue_syp_page_2/)
+- [cue_synopsis2a.pdf (.pdf)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/cue_synopsis2a/)
+- [cue_synopsis2.pdf (.pdf)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/cue_synopsis2/)
+- [cue_synopsis.pdf (.pdf)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/cue_synopsis/)
+- [Assignments](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/pages/assignments/)
+
+### Resource
+- [hw_3_pic.pdf (.pdf)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/hw_3_pic/)
+- [emo_response.pdf (.pdf)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/emo_response/)
+- [21m-734f03.jpg (.jpg)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/21m-734f03/)
+- [21m-734f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/resources/21m-734f03-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21m-734-lighting-design-for-the-theatre-fall-2003/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

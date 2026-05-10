@@ -12,6 +12,9 @@ views: 249
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T16:54:26Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 2, Reading-List: 5, Resource: 4, Syllabus: 1"
+api_id: 4666
 ---
 
 # Music of India
@@ -30,8 +33,24 @@ This course focuses on Hindustani classical music of North India, and also invol
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-291-music-of-india-spring-2007/pages/syllabus/)
 
+### Reading-List
+- [tabla.pdf (.pdf)](https://ocw.mit.edu/courses/21m-291-music-of-india-spring-2007/resources/tabla/)
+- [mughal.pdf (.pdf)](https://ocw.mit.edu/courses/21m-291-music-of-india-spring-2007/resources/mughal/)
+- [lucknow.pdf (.pdf)](https://ocw.mit.edu/courses/21m-291-music-of-india-spring-2007/resources/lucknow/)
+- [bhakti.pdf (.pdf)](https://ocw.mit.edu/courses/21m-291-music-of-india-spring-2007/resources/bhakti/)
+- [Readings](https://ocw.mit.edu/courses/21m-291-music-of-india-spring-2007/pages/readings/)
+
+### Problem-Set
+- [paper_format.pdf (.pdf)](https://ocw.mit.edu/courses/21m-291-music-of-india-spring-2007/resources/paper_format/)
+- [Assignments](https://ocw.mit.edu/courses/21m-291-music-of-india-spring-2007/pages/assignments/)
+
+### Resource
+- [21m-291s07.jpg (.jpg)](https://ocw.mit.edu/courses/21m-291-music-of-india-spring-2007/resources/21m-291s07/)
+- [21m-291s07-th.jpg (.jpg)](https://ocw.mit.edu/courses/21m-291-music-of-india-spring-2007/resources/21m-291s07-th/)
+- [Listening](https://ocw.mit.edu/courses/21m-291-music-of-india-spring-2007/pages/listening/)
 ## Wikipedia Bridge
 
 ### Related Articles

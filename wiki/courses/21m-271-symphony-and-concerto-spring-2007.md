@@ -12,6 +12,9 @@ views: 153
 completeness: 0.2
 last_modified: "2026-05-06T14:57:49Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 3648
 ---
 
 # Symphony and Concerto
@@ -30,9 +33,21 @@ This course is a survey of significant orchestral masterworks composed during th
 
 ## Materials
 
-- [Exams] Exams
-- [Presentation Assignments] Presentation Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-271-symphony-and-concerto-spring-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21m-271-symphony-and-concerto-spring-2007/pages/readings/)
+
+### Problem-Set
+- [Preview of the Mid-Semester Quiz (.pdf)](https://ocw.mit.edu/courses/21m-271-symphony-and-concerto-spring-2007/resources/midterm_preview/)
+- [Mid-semester Quiz (.pdf)](https://ocw.mit.edu/courses/21m-271-symphony-and-concerto-spring-2007/resources/midterm/)
+- [Exams](https://ocw.mit.edu/courses/21m-271-symphony-and-concerto-spring-2007/pages/exams/)
+
+### Resource
+- [Beethoven's Symphony No. 9 in D minor (.jpg)](https://ocw.mit.edu/courses/21m-271-symphony-and-concerto-spring-2007/resources/21m-271s07/)
+- [Beethoven's Symphony No. 9 in D minor (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21m-271-symphony-and-concerto-spring-2007/resources/21m-271s07-th/)
+- [Listening and Scores](https://ocw.mit.edu/courses/21m-271-symphony-and-concerto-spring-2007/pages/listening-and-scores/)
 ## Wikipedia Bridge
 
 ### Related Articles

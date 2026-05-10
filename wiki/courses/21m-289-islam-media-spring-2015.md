@@ -12,6 +12,9 @@ views: 405
 completeness: 0.0
 last_modified: "2026-05-06T14:57:45Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 11, Reading-List: 2, Resource: 5, Syllabus: 1, Video-Transcript: 3"
+api_id: 5680
 ---
 
 # Islam/Media
@@ -30,8 +33,31 @@ This course is an introduction to Islam from the perspective of media and sound 
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-289-islam-media-spring-2015/pages/syllabus/)
 
+### Reading-List
+- [Readings & Films](https://ocw.mit.edu/courses/21m-289-islam-media-spring-2015/pages/readings-films/)
+- [Readings &amp; Films 🎬YouTube](https://ocw.mit.edu/courses/21m-289-islam-media-spring-2015/pages/readings-films/)
+
+### Assignment
+- [proj2_ex1.png (.png)](https://ocw.mit.edu/courses/21m-289-islam-media-spring-2015/resources/proj2_ex1/)
+- [Final Project Assignment (.pdf)](https://ocw.mit.edu/courses/21m-289-islam-media-spring-2015/resources/mit21m_289s15_proj_final/)
+- [Project 2 sample: Expanding Beyond the Text (.pdf)](https://ocw.mit.edu/courses/21m-289-islam-media-spring-2015/resources/mit21m_289s15_proj2_ex2/)
+- [Project 2 Assignment: Response to Islamic Art (.pdf)](https://ocw.mit.edu/courses/21m-289-islam-media-spring-2015/resources/mit21m_289s15_proj2/)
+- [Project 1 sample: Understanding the Temporal Contexts of Islam through the Qur'an and Hadiths (.pdf)](https://ocw.mit.edu/courses/21m-289-islam-media-spring-2015/resources/mit21m_289s15_proj1_ex2/)
+- [Project 1 sample: Review of Omar The Epic Series and Selective Comparison to The Message (.pdf)](https://ocw.mit.edu/courses/21m-289-islam-media-spring-2015/resources/mit21m_289s15_proj1_ex1/)
+- [Project 1 Assignment: Response to the Qur'an and Sunnah Traditions (.pdf)](https://ocw.mit.edu/courses/21m-289-islam-media-spring-2015/resources/mit21m_289s15_proj1/)
+- [Sample Student Response #2 to MFA Visit (.pdf)](https://ocw.mit.edu/courses/21m-289-islam-media-spring-2015/resources/mit21m_289s15_assnmfa_ex2/)
+- [Sample Student Response #1 to MFA Visit (.pdf)](https://ocw.mit.edu/courses/21m-289-islam-media-spring-2015/resources/mit21m_289s15_assnmfa_ex1/)
+- [MFA Visit Response Questions (.pdf)](https://ocw.mit.edu/courses/21m-289-islam-media-spring-2015/resources/mit21m_289s15_assn_mfa/)
+- [Projects](https://ocw.mit.edu/courses/21m-289-islam-media-spring-2015/pages/projects/)
+
+### Resource
+- [Quiz 1 study guide: Islam (.pdf)](https://ocw.mit.edu/courses/21m-289-islam-media-spring-2015/resources/mit21m_289s15_quiz1_study/)
+- [21m-289s15.jpg (.jpg)](https://ocw.mit.edu/courses/21m-289-islam-media-spring-2015/resources/21m-289s15/)
+- [21m-289s15-th.jpg (.jpg)](https://ocw.mit.edu/courses/21m-289-islam-media-spring-2015/resources/21m-289s15-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21m-289-islam-media-spring-2015/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

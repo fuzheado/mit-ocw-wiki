@@ -12,6 +12,9 @@ views: 74
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T14:43:37Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 7, Resource: 6, Syllabus: 2, Video-Transcript: 1"
+api_id: 4777
 ---
 
 # Vocal Repertoire and Performance: African American Composers
@@ -30,9 +33,24 @@ The primary focus of this Vocal Repertoire and Performance course is placed upon
 
 ## Materials
 
-- [Activity Assignments with Examples] Activity Assignments with Examples
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/pages/syllabus/)
 
+### Problem-Set
+- [white_02.pdf (.pdf)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/resources/white_02/)
+- [white_01.pdf (.pdf)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/resources/white_01/)
+- [program_notes.pdf (.pdf)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/resources/program_notes/)
+- [gregg_baker.pdf (.pdf)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/resources/gregg_baker/)
+- [carmenbalthrop02.pdf (.pdf)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/resources/carmenbalthrop02/)
+- [carmenbalthrop01.pdf (.pdf)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/resources/carmenbalthrop01/)
+- [Assignments](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/pages/assignments/)
+
+### Resource
+- [21m-410s05.jpg (.jpg)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/resources/21m-410s05/)
+- [21m-410s05-th.jpg (.jpg)](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/resources/21m-410s05-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/pages/study-materials/)
+- [Repertoire List](https://ocw.mit.edu/courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/pages/repertoire-list/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 124
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:01:19Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 6, Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4317
 ---
 
 # Studies in Drama: Theater and Science in a Time of War
@@ -30,8 +33,26 @@ This course explores the creation (and creativity) of the modern scientific and 
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005/pages/assignments/)
+
+### Assignment
+- [17th-Century British Women Writers (.pdf)](https://ocw.mit.edu/courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005/resources/susanwilson/)
+- [Robert Boyle’s Sexuality (.pdf)](https://ocw.mit.edu/courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005/resources/roe_anonymous2/)
+- [From Nonsense to Sense: An Exploration of Creativity in the 17th Century  (.pdf)](https://ocw.mit.edu/courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005/resources/roe_anonymous1/)
+- [Take the Chance of Anger: A Study in Shifts (.pdf)](https://ocw.mit.edu/courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005/resources/j_reinharth/)
+- [Brome’s The Antipodes and Rubens’s paintings: Illusionistic and Self-Reflective Pieces of English Baroque Culture (.pdf)](https://ocw.mit.edu/courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005/resources/anonymouspaper/)
+- [Projects](https://ocw.mit.edu/courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005/pages/projects/)
+
+### Resource
+- [Beheading of Charles I (.jpg)](https://ocw.mit.edu/courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005/resources/21l-703s05/)
+- [Beheading of Charles I (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005/resources/21l-703s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

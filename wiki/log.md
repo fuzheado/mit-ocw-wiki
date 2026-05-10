@@ -667,3 +667,137 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-10 03:37] asset-scan | Hybrid scanned [[11-337j-urban-design-policy-and-action-spring-2007|11.337J Urban Design Policy and Action]] (15 assets: 13 API + 4 pages)
 
 ## [2026-05-10 03:37] asset-scan | Hybrid scanned [[11-309j-sensing-place-photography-as-inquiry-spring-2024|11.309J Sensing Place: Photography as Inquiry]] (1 assets: 1 API + 0 pages)
+
+## [2026-05-10 08:40] asset-scan | Hybrid scanned [[21m-361-composing-with-computers-i-electronic-music-composition-spring-2008|21M.361 Composing with Computers I (Electronic Music Composition)]] (53 assets: 47 API + 6 pages)
+
+## [2026-05-10 08:40] asset-scan | Hybrid scanned [[21m-051-fundamentals-of-music-spring-2007|21M.051 Fundamentals of Music]] (9 assets: 7 API + 5 pages)
+
+## [2026-05-10 08:40] asset-scan | Hybrid scanned [[21m-220-early-music-fall-2010|21M.220 Early Music]] (68 assets: 63 API + 9 pages)
+
+## [2026-05-10 08:40] asset-scan | Hybrid scanned [[21m-410-vocal-repertoire-and-performance-women-composers-spring-2007|21M.410 Vocal Repertoire and Performance: Women Composers]] (18 assets: 17 API + 4 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[24-912-black-matters-introduction-to-black-studies-spring-2017|24.912 Black Matters: Introduction to Black Studies]] (87 assets: 46 API + 34 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-271-symphony-and-concerto-spring-2007|21M.271 Symphony and Concerto]] (9 assets: 8 API + 4 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-263-music-since-1960-spring-2006|21M.263 Music Since 1960]] (13 assets: 11 API + 6 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012|21M.269 Studies in Western Music History: Quantitative and Computational Approaches to Music History]] (17 assets: 15 API + 5 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-293-music-of-africa-fall-2005|21M.293 Music of Africa]] (17 assets: 15 API + 6 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-355-musical-improvisation-spring-2013|21M.355 Musical Improvisation]] (34 assets: 23 API + 10 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-301-harmony-and-counterpoint-i-spring-2005|21M.301 Harmony and Counterpoint I]] (98 assets: 96 API + 7 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-304-writing-in-tonal-forms-ii-spring-2009|21M.304 Writing in Tonal Forms II]] (33 assets: 31 API + 3 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004|21M.735 Technical Design: Scenery, Mechanisms, and Special Effects]] (93 assets: 91 API + 5 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-611-foundations-of-theater-practice-fall-2009|21M.611 Foundations of Theater Practice]] (20 assets: 18 API + 3 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-846-topics-in-performance-studies-comedy-across-media-spring-2018|21M.846 Topics in Performance Studies: Comedy Across Media]] (17 assets: 5 API + 3 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21l-016-learning-from-the-past-drama-science-performance-spring-2009|21L.016 Learning from the Past: Drama, Science, Performance]] (34 assets: 31 API + 5 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009|21M.380 Music and Technology (Contemporary History and Aesthetics)]] (76 assets: 57 API + 19 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-342-composing-for-jazz-orchestra-fall-2008|21M.342 Composing for Jazz Orchestra]] (30 assets: 23 API + 10 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010|21M.542 Interdisciplinary Approaches to Musical Time]] (11 assets: 0 API + 0 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-030-introduction-to-world-music-fall-2006|21M.030 Introduction to World Music]] (17 assets: 15 API + 4 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-710-script-analysis-fall-2011|21M.710 Script Analysis]] (12 assets: 10 API + 4 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-262-modern-music-1900-1960-fall-2006|21M.262 Modern Music: 1900-1960]] (26 assets: 25 API + 5 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-260-stravinsky-to-the-present-spring-2016|21M.260 Stravinsky to the Present]] (77 assets: 68 API + 10 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010|21M.380 Music and Technology: Algorithmic and Generative Music]] (73 assets: 53 API + 23 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21g-035-topics-in-culture-and-globalization-reggae-as-transnational-culture-fall-2010|21G.035 Topics in Culture and Globalization: Reggae as Transnational Culture]] (6 assets: 5 API + 3 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-030-introduction-to-world-music-spring-2013|21M.030 Introduction to World Music]] (23 assets: 15 API + 10 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005|21L.703 Studies in Drama: Theater and Science in a Time of War]] (12 assets: 11 API + 4 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-299-the-beatles-fall-2017|21M.299 The Beatles]] (47 assets: 44 API + 10 pages)
+
+## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-380-music-and-technology-sound-design-spring-2016|21M.380 Music and Technology: Sound Design]] (95 assets: 89 API + 13 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-785-playwrights-workshop-spring-2012|21M.785 Playwrights' Workshop]] (12 assets: 11 API + 3 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-250-schubert-to-debussy-fall-2006|21M.250 Schubert to Debussy]] (11 assets: 10 API + 5 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-351-music-composition-fall-2008|21M.351 Music Composition]] (21 assets: 12 API + 11 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-606-introduction-to-stagecraft-spring-2009|21M.606 Introduction to Stagecraft]] (41 assets: 39 API + 4 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013|21M.013J The Supernatural in Music, Literature and Culture]] (19 assets: 17 API + 6 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-291-music-of-india-spring-2007|21M.291 Music of India]] (12 assets: 11 API + 4 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21l-423j-introduction-to-anglo-american-folk-music-fall-2005|21L.423J Introduction to Anglo-American Folk Music]] (25 assets: 23 API + 6 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-604-playwriting-i-spring-2005|21M.604 Playwriting I]] (32 assets: 30 API + 5 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005|21M.410 Vocal Repertoire and Performance: African American Composers]] (16 assets: 13 API + 6 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-603-principles-of-design-fall-2005|21M.603 Principles of Design]] (39 assets: 36 API + 6 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-734-design-for-the-theater-scenery-spring-2005|21M.734 Design for the Theater: Scenery]] (26 assets: 23 API + 6 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-873-theater-arts-topics-suburbia-january-iap-2008|21M.873 Theater Arts Topics - Suburbia]] (9 assets: 0 API + 0 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-s53-chinese-popular-musics-in-dialogue-spring-2014|21M.S53 Chinese Popular Musics in Dialogue]] (58 assets: 30 API + 23 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-235-monteverdi-to-mozart-1600-1800-fall-2013|21M.235 Monteverdi to Mozart: 1600-1800]] (31 assets: 18 API + 18 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-350-musical-analysis-spring-2008|21M.350 Musical Analysis]] (19 assets: 18 API + 4 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-065-introduction-to-musical-composition-spring-2014|21M.065 Introduction to Musical Composition]] (33 assets: 16 API + 8 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-295-american-popular-music-fall-2014|21M.295 American Popular Music]] (26 assets: 12 API + 14 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008|21M.670 Traditions in American Concert Dance: Gender and Autobiography]] (19 assets: 17 API + 4 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-113-developing-musical-structures-fall-2002|21M.113 Developing Musical Structures]] (34 assets: 32 API + 4 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016|21M.380 Music and Technology: Recording Techniques and Audio Production]] (85 assets: 80 API + 7 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-710-script-analysis-fall-2005|21M.710 Script Analysis]] (24 assets: 22 API + 4 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-775-hip-hop-fall-2007|21M.775 Hip Hop]] (11 assets: 9 API + 4 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-380-music-and-technology-live-electronics-performance-practices-spring-2011|21M.380 Music and Technology: Live Electronics Performance Practices]] (48 assets: 37 API + 13 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-011-introduction-to-western-music-spring-2006|21M.011 Introduction to Western Music]] (28 assets: 27 API + 7 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-250-beethoven-to-mahler-spring-2014|21M.250 Beethoven to Mahler]] (30 assets: 22 API + 9 pages)
+
+## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-715-the-craft-of-costume-design-fall-2009|21M.715 The Craft of Costume Design]] (46 assets: 43 API + 5 pages)
+
+## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-294-popular-musics-of-the-world-spring-2005|21M.294 Popular Musics of the World]] (17 assets: 14 API + 7 pages)
+
+## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-734-lighting-design-for-the-theatre-fall-2003|21M.734 Lighting Design for the Theatre]] (27 assets: 25 API + 5 pages)
+
+## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-621-theater-and-cultural-diversity-in-the-u-s-spring-2008|21M.621 Theater and Cultural Diversity in the U.S.]] (54 assets: 15 API + 41 pages)
+
+## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-302-harmony-and-counterpoint-ii-spring-2005|21M.302 Harmony and Counterpoint II]] (60 assets: 58 API + 7 pages)
+
+## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-873-theater-arts-topics-fall-2004-january-iap-2005|21M.873 Theater Arts Topics]] (7 assets: 0 API + 0 pages)
+
+## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-675-dance-theory-and-composition-fall-2003|21M.675 Dance Theory and Composition]] (21 assets: 11 API + 12 pages)
+
+## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-732-beginning-costume-design-and-construction-fall-2008|21M.732 Beginning Costume Design and Construction]] (49 assets: 46 API + 6 pages)
+
+## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-289-islam-media-spring-2015|21M.289 Islam/Media]] (22 assets: 17 API + 4 pages)
+
+## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-303-writing-in-tonal-forms-i-spring-2009|21M.303 Writing in Tonal Forms I]] (46 assets: 31 API + 11 pages)
+
+## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-385-interactive-music-systems-fall-2016|21M.385 Interactive Music Systems]] (34 assets: 31 API + 7 pages)
+
+## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-011-introduction-to-western-music-fall-2024|21M.011 Introduction to Western Music]] (353 assets: 97 API + 208 pages)
+
+## [2026-05-10 08:44] asset-scan | Hybrid scanned [[21m-383-computational-music-theory-and-analysis-spring-2023|21M.383 Computational Music Theory and Analysis]] (373 assets: 116 API + 199 pages)

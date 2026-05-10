@@ -12,6 +12,9 @@ views: 273
 completeness: 0.2
 last_modified: "2026-05-06T17:23:08Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 25, Resource: 7, Syllabus: 2"
+api_id: 5123
 ---
 
 # Developing Musical Structures
@@ -30,9 +33,43 @@ The goal of this class is practical:&nbsp;to interrogate, make explicit, and thu
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/pages/syllabus/)
 
+### Problem-Set
+- [rachel.pdf (.pdf)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/rachel/)
+- [Project_42.pdf (.pdf)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/project_42/)
+- [project4_1_2.pdf (.pdf)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/project4_1_2/)
+- [Project2x.pdf (.pdf)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/project2x/)
+- [project11and1.pdf (.pdf)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/project11and1/)
+- [MAKETUNER.MIDI (.MIDI)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/maketuner/)
+- [LINZSAMBROSIAN.pdf (.pdf)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/linzsambrosian/)
+- [John3.MIDI (.MIDI)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/john3/)
+- [GLENNSAMBROSIAN.pdf (.pdf)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/glennsambrosian/)
+- [DUPLE2.MIDI (.MIDI)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/duple2/)
+- [DUPLE1.MIDI (.MIDI)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/duple1/)
+- [DUPLE.MIDI (.MIDI)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/duple/)
+- [Ben3.MIDI (.MIDI)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/ben3/)
+- [BECKYSFRENCH.pdf (.pdf)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/beckysfrench/)
+- [becky.pdf (.pdf)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/becky/)
+- [BECK.MIDI (.MIDI)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/beck/)
+- [ambrosian.pdf (.pdf)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/ambrosian/)
+- [AMBLINZ.MIDI (.MIDI)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/amblinz/)
+- [AMBglenn.MIDI (.MIDI)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/ambglenn/)
+- [8BENR2.MIDI (.MIDI)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/8benr2/)
+- [7BENR1.MIDI (.MIDI)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/7benr1/)
+- [6DARYNR2.MIDI (.MIDI)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/6darynr2/)
+- [5DARYNR1.MIDI (.MIDI)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/5darynr1/)
+- [1DUR3.MIDI (.MIDI)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/1dur3/)
+- [Assignments](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/pages/assignments/)
+
+### Resource
+- [syllabus.pdf (.pdf)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/syllabus/)
+- [RANGER.MIDI (.MIDI)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/ranger/)
+- [21m-113f02.jpg (.jpg)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/21m-113f02/)
+- [21m-113f02-th.jpg (.jpg)](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/resources/21m-113f02-th/)
+- [Tools](https://ocw.mit.edu/courses/21m-113-developing-musical-structures-fall-2002/pages/tools/)
 ## Wikipedia Bridge
 
 ### Related Articles
