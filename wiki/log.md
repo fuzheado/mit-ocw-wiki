@@ -89,3 +89,5 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-09 22:09] asset-scan | Hybrid scanned [[18-100b-real-analysis-spring-2025|18.100B Real Analysis]] (69 assets: 68 API + 52 pages)
 
 ## [2026-05-09 22:12] asset-scan | Hybrid scanned [[res-11-003-climate-justice-instructional-toolkit-spring-2025|RES.11-003 Climate Justice Instructional Toolkit]] (34 assets: 34 API + 7 pages)
+
+## [2026-05-09 22:16] asset-scan | Hybrid scanned [[6-7960-deep-learning-fall-2024|6.7960 Deep Learning]] (67 assets: 64 API + 31 pages)
