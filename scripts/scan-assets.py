@@ -9,6 +9,7 @@ Usage:
     python3 scripts/scan-assets.py --slug 4-241j-the-making-of-cities-spring-2025
     python3 scripts/scan-assets.py --deep 15-071-the-analytics-edge-spring-2017
     python3 scripts/scan-assets.py --api 5-111sc-principles-of-chemical-science-fall-2014
+    python3 scripts/scan-assets.py --hybrid 2-782j-design-of-medical-devices-and-implants-spring-2025
     python3 scripts/scan-assets.py --batch 0 100
     python3 scripts/scan-assets.py --unscanned
 """
@@ -447,7 +448,58 @@ def update_checkpoint(n: int):
 def main():
     args = sys.argv[1:]
 
-    if args[0] == "--api" and len(args) >= 2:
+    if args[0] == "--hybrid" and len(args) >= 2:
+        slug = args[1]
+        print(f"Hybrid scan of {slug}...")
+
+        # Phase 1: API scan for authoritative content files
+        api_assets = api_scan(slug)
+        print(f"  API phase: {len(api_assets)} assets")
+
+        # Phase 2: Deep URL scan for sidebar structure
+        url_assets = scan_one(slug)
+        url_assets = deep_scan_one(slug, url_assets)
+        # From deep scan, keep only the original sidebar page links (not downloaded files)
+        sidebar_pages = [a for a in url_assets if not a[2].startswith("https://archive.org") and not a[2].startswith("https://youtu")
+                         and not a[1].startswith("Download ") and not a[2].startswith("https://www.dropbox")]
+        print(f"  Deep scan phase: {len(url_assets)} total ({len(sidebar_pages)} sidebar pages)")
+
+        # Merge: use API assets as base, add sidebar pages from URL scan
+        if not api_assets:
+            merged = url_assets
+            print(f"  API empty, using full deep scan ({len(merged)} assets)")
+        else:
+            merged = list(api_assets)
+            merged_urls = {a[2] for a in merged}
+            added = 0
+            for a in sidebar_pages:
+                if a[2] not in merged_urls:
+                    merged.append(a)
+                    merged_urls.add(a[2])
+                    added += 1
+                else:
+                    # URL exists but sidebar may have a better type than "Resource"
+                    for i, ma in enumerate(merged):
+                        if ma[2] == a[2] and ma[0] == "Resource" and a[0] != "Resource":
+                            merged[i] = a  # replace with better-typed entry
+                            break
+            print(f"  Merged: {len(api_assets)} API + {added} sidebar pages = {len(merged)} total")
+
+        if merged:
+            update_page(slug, merged)
+            total_api = len(api_assets)
+            total_url = len(sidebar_pages) if api_assets else 0
+            append_log(f"## [{timestamp()}] asset-scan | Hybrid scanned [[{slug}|{course_label(slug)}]] ({len(merged)} assets: {total_api} API + {total_url} pages)")
+            update_checkpoint(0)
+            types = {}
+            for a, t, u in merged:
+                types[a] = types.get(a, 0) + 1
+            for t, c in sorted(types.items()):
+                print(f"  [{t:20s}] {c} items")
+        else:
+            print("  No assets found.")
+
+    elif args[0] == "--api" and len(args) >= 2:
         slug = args[1]
         assets = api_scan(slug)
         if assets:
