@@ -2,273 +2,199 @@
 """
 Asset scan for OCW courses.
 
-Visits each course's OCW page, extracts sidebar navigation links,
-and classifies them into asset types per Rule 1.2.
+Visits each course's OCW page, discovers all sidebar links, downloadable
+files, and video galleries, and classifies them into typed asset lists.
 
 Usage:
     python3 scripts/scan-assets.py --slug 4-241j-the-making-of-cities-spring-2025
     python3 scripts/scan-assets.py --batch 0 100
-    python3 scripts/scan-assets.py --remaining     # all unscanned courses
+    python3 scripts/scan-assets.py --unscanned
 """
 
-import json
-import os
-import re
-import sys
-import time
+import json, re, sys, time
+from datetime import datetime
 from pathlib import Path
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 
-from datetime import datetime
-
-
 WIKI_DIR = Path(__file__).resolve().parent.parent / "wiki"
+IGNORED_WORDS = {"welcome to", "overview", "introduction", "menu", "course info"}
 
+PATTERN_MAP = [
+    (r"syllabus|calendar|schedule", "Syllabus"),
+    (r"readings?|bibliograph|textbook|references?|reading.?list", "Reading-List"),
+    (r"lecture.?note|slide|presentation|lecture.?summary", "Lecture-Notes"),
+    (r"video|recording|lecture.?vid|lecture.?sequence|video.?gallery", "Video-Transcript"),
+    (r"problem.?set|assignment|homework|pset|exercise", "Problem-Set"),
+    (r"exam|quiz|test|midterm|final", "Problem-Set"),
+    (r"solution|answer.?key", "Problem-Set"),
+    (r"project|paper|essay|report|writing|research.?project", "Assignment"),
+    (r"image|photo|gallery|diagram|figure|map", "Image-Gallery"),
+    (r"studio|lab|recitation|tutorial|workshop", "Lecture-Notes"),
+    (r"unit\s+\d", "Lecture-Notes"),
+    (r"download", "Resource"),
+]
 
 def timestamp() -> str:
     return datetime.now().strftime("%Y-%m-%d %H:%M")
 
-# Map sidebar link text patterns to asset types
-PATTERN_MAP = [
-    (r"(?i)syllabus|calendar", "Lecture-Notes"),
-    (r"(?i)readings?|bibliograph|textbook|references?|reading.?list", "Reading-List"),
-    (r"(?i)lecture.?note|slide|presentation", "Lecture-Notes"),
-    (r"(?i)video|recording|lecture.?vid|lecture.?sequence", "Video-Transcript"),
-    (r"(?i)problem.?set|assignment|homework|pset|exercise", "Problem-Set"),
-    (r"(?i)exam|quiz|test|midterm|final", "Problem-Set"),
-    (r"(?i)solution|answer.?key", "Problem-Set"),
-    (r"(?i)project|paper|essay|report|writing", "Problem-Set"),
-    (r"(?i)image|photo|gallery|diagram|figure", "Image-Gallery"),
-    (r"(?i)studio|lab|recitation|tutorial", "Lecture-Notes"),
-    (r"(?i)unit\s+\d", "Lecture-Notes"),
-    (r"(?i)download", "Resource"),
-]
-
-
 def classify_link(text: str) -> str:
-    """Classify a sidebar link into an asset type based on its text."""
-    for pattern, asset_type in PATTERN_MAP:
-        if re.search(pattern, text):
-            return asset_type
+    for pattern, atype in PATTERN_MAP:
+        if re.search(pattern, text, re.I):
+            return atype
     return "Resource"
 
-
-def fetch_page(url: str) -> str:
-    """Fetch a URL and return the text content."""
-    req = Request(url, headers={"User-Agent": "OCW-LLM-Wiki/1.0"})
+def fetch(url: str) -> str:
     try:
-        resp = urlopen(req, timeout=15)
+        resp = urlopen(Request(url, headers={"User-Agent": "OCW-LLM-Wiki/1.0"}), timeout=15)
         return resp.read().decode("utf-8", errors="replace")
-    except HTTPError as e:
-        print(f"  HTTP {e.code} for {url}")
-        return ""
-    except Exception as e:
-        print(f"  Error: {e}")
+    except Exception:
         return ""
 
-
-def scan_course(slug: str) -> list:
-    """Scan a single course page and return categorized assets."""
-    url = f"https://ocw.mit.edu/courses/{slug}/"
-    html = fetch_page(url)
+def scan_one(slug: str) -> list:
+    """Scan a course page and return all discovered assets."""
+    html = fetch(f"https://ocw.mit.edu/courses/{slug}/")
     if not html:
         return []
-
-    # Find sidebar links: look for href patterns under Browse Course Material
-    # OCW sidebar links look like: href="/courses/{slug}/pages/..."
-    # or href="/courses/{slug}/video_galleries/..."
-    # or href="/courses/{slug}/lists/..."
-    # or href="/courses/{slug}/resources/..."
-    pattern = re.compile(
-        r'href="(/courses/' + re.escape(slug) + r'/(?:pages|video_galleries|lists|resources)/[^"]*)"'
-    )
-    matches = pattern.findall(html)
-
-    # Filter to only top-level sidebar pages (one segment after /pages/ or /lists/)
-    # Nested pages have two+ segments: /pages/unit/welcome-to-unit-1/
-    top_level = []
-    for path in matches:
-        # Extract the path segment after /pages/, /video_galleries/, /lists/, /resources/
-        parts = path.split("/")
-        # Find the index of the type segment (pages, video_galleries, lists, resources)
-        for i, part in enumerate(parts):
-            if part in ("pages", "video_galleries", "lists", "resources"):
-                remaining = [p for p in parts[i + 1:] if p]  # strip empty strings
-                # Top-level: only one segment (e.g., "syllabus")
-                # Nested: two or more segments (e.g., "linear-regression/welcome-to-unit-2")
-                if len(remaining) <= 1:
-                    top_level.append(path)
-                break
-
-    matches = top_level
-    # Also look for video gallery links specifically
-    video_pattern = re.compile(
-        r'href="(/courses/' + re.escape(slug) + r'/video_galleries/[^"]*)"'
-    )
-    matches.extend(video_pattern.findall(html))
-
-    # Also find direct resource links (PDFs, etc.)
-    resource_pattern = re.compile(
-        r'href="(/courses/' + re.escape(slug) + r'/resources/[^"]*\.(?:pdf|zip|mp4|mov|png|jpg))"',
-        re.IGNORECASE
-    )
-    resource_matches = resource_pattern.findall(html)
 
     assets = []
     seen = set()
 
-    for path in matches:
-        # Extract the display text near the link
-        # Look for the link text in the HTML
-        text_match = re.search(
-            r'href="' + re.escape(path) + r'"[^>]*>([^<]+)',
-            html
-        )
-        text = text_match.group(1).strip() if text_match else path.split("/")[-1]
-        if text in seen:
+    # 1. All sidebar navigation links (pages, video_galleries, lists, resources)
+    for path in re.findall(r'href="(/courses/' + re.escape(slug) + r'/(?:pages|video_galleries|lists|resources)/[^"]*)"', html):
+        m = re.search(r'href="' + re.escape(path) + r'"[^>]*>([^<]+)', html)
+        text = m.group(1).strip() if m else path.rstrip("/").split("/")[-1]
+        if text.lower() in seen or len(text) < 2:
             continue
-        seen.add(text)
-        asset_type = classify_link(text)
-        assets.append((asset_type, text, f"https://ocw.mit.edu{path}"))
+        seen.add(text.lower())
+        assets.append((classify_link(text), text, f"https://ocw.mit.edu{path}"))
 
-    for path in resource_matches:
-        filename = path.split("/")[-1]
-        if filename in seen:
+    # 2. Direct file downloads (PDFs, ZIPs, spreadsheets, etc.)
+    for path in re.findall(r'href="(/courses/' + re.escape(slug) + r'/resources/[^"]*\.(?:pdf|zip|tar|gz|csv|xlsx?|docx?|pptx?|mp4|mov|png|jpg|jpeg|gif|svg))"', html, re.I):
+        fname = path.rstrip("/").split("/")[-1]
+        if fname.lower() in seen:
             continue
-        seen.add(filename)
-        asset_type = "Image-Gallery" if re.search(r"\.(png|jpg|jpeg|gif|svg)$", filename, re.I) else "Resource"
-        assets.append((asset_type, filename, f"https://ocw.mit.edu{path}"))
+        seen.add(fname.lower())
+        t = "Image-Gallery" if re.search(r"\.(png|jpg|jpeg|gif|svg)$", fname, re.I) else "Resource"
+        assets.append((t, fname, f"https://ocw.mit.edu{path}"))
 
-    # De-duplicate by type+text
-    seen_dedup = set()
-    unique = []
-    for asset in assets:
-        key = (asset[0], asset[1])
-        if key not in seen_dedup:
-            seen_dedup.add(key)
-            unique.append(asset)
+    # 3. External resource links (YouTube, OCW Scholar, etc.)
+    for href, text in re.findall(r'href="(https?://[^"]+)"[^>]*>([^<]+)', html):
+        text = text.strip()
+        if not text or len(text) < 5 or "ocw" in href:
+            continue
+        if text.lower() in seen:
+            continue
+        seen.add(text.lower())
+        if any(d in href for d in ("youtube", "youtu.be", "video", "podcast")):
+            assets.append(("Video-Transcript", text, href))
+        elif any(d in href for d in ("pdf", "document", "download")):
+            assets.append(("Resource", text, href))
 
-    # Cap at 20 assets to keep pages readable
-    return unique[:20]
+    return assets
 
-
-def update_course_page(slug: str, assets: list):
-    """Update the Materials section of a course page with scanned assets."""
-    page_path = WIKI_DIR / "courses" / f"{slug}.md"
-    if not page_path.exists():
-        print(f"  SKIP {slug} — no page found")
+def update_page(slug: str, assets: list):
+    path = WIKI_DIR / "courses" / f"{slug}.md"
+    if not path.exists():
         return
 
-    content = page_path.read_text()
+    content = path.read_text()
 
-    # Build the new Materials section
-    material_lines = ["## Materials", ""]
-    if assets:
-        for asset_type, text, url in assets:
-            material_lines.append(f"- [{asset_type}] [{text}]({url})")
-    else:
-        material_lines.append("*No assets found.*")
+    # Group assets by type
+    groups = {}
+    for atype, text, url in assets:
+        groups.setdefault(atype, []).append((text, url))
 
-    material_lines.append("")
+    type_order = ["Syllabus", "Lecture-Notes", "Video-Transcript", "Reading-List",
+                  "Problem-Set", "Assignment", "Image-Gallery", "Resource"]
 
-    new_material_section = "\n".join(material_lines)
+    lines = ["## Materials", ""]
+    for t in type_order:
+        if t not in groups:
+            continue
+        lines.append(f"### {t}")
+        for text, url in groups[t]:
+            lines.append(f"- [{text}]({url})")
+        lines.append("")
 
-    # Replace existing Materials section or add after Course Info
+    # Remove trailing blank lines
+    while lines and lines[-1] == "":
+        lines.pop()
+
+    new_section = "\n".join(lines)
+
     if "## Materials" in content:
-        content = re.sub(
-            r"## Materials\n.*?(?=\n## |\n---|$)",
-            new_material_section,
-            content,
-            flags=re.DOTALL
-        )
+        content = re.sub(r"## Materials\n.*?(?=\n## |\n---|$)", new_section, content, flags=re.DOTALL)
     else:
-        # Add after the License line in Course Info
-        content = content.replace(
-            "- **License:** CC BY-NC-SA\n",
-            f"- **License:** CC BY-NC-SA\n\n{new_material_section}"
-        )
+        content = content.replace("- **License:** CC BY-NC-SA\n",
+                                  f"- **License:** CC BY-NC-SA\n\n{new_section}\n")
 
-    page_path.write_text(content)
-    print(f"  updated {slug} ({len(assets)} assets)")
+    path.write_text(content)
+    print(f"  updated {slug} ({len(assets)} assets in {len(groups)} categories)")
 
+def append_log(msg: str):
+    p = WIKI_DIR / "log.md"
+    p.write_text(p.read_text().rstrip() + f"\n\n{msg}\n")
 
-def append_log(message: str):
-    """Append an entry to wiki/log.md."""
-    log_path = WIKI_DIR / "log.md"
-    log_path.write_text(log_path.read_text().rstrip() + f"\n\n{message}\n")
-
-
-def update_checkpoint(courses_done: int):
-    """Update _checkpoint.json with asset scan progress."""
-    cp_path = Path(__file__).resolve().parent.parent / "_checkpoint.json"
-    cp = json.loads(cp_path.read_text())
-    cp["stages"]["asset_scan"]["courses_done"] += courses_done
-    cp_path.write_text(json.dumps(cp, indent=2))
-
+def update_checkpoint(n: int):
+    cp = json.loads((Path(__file__).resolve().parent.parent / "_checkpoint.json").read_text())
+    cp["stages"]["asset_scan"]["courses_done"] += n
+    (Path(__file__).resolve().parent.parent / "_checkpoint.json").write_text(json.dumps(cp, indent=2))
 
 def main():
     args = sys.argv[1:]
 
-    if len(args) >= 2 and args[0] == "--batch":
-        offset = int(args[1])
-        limit = int(args[2]) if len(args) > 2 else 100
-        slugs = sorted(f.name.replace(".md", "") for f in (WIKI_DIR / "courses").iterdir() if f.name.endswith(".md"))
-        batch = slugs[offset:offset + limit]
-        scanned = 0
-        print(f"Scanning batch {offset}-{offset + len(batch)} ({len(batch)} courses)...")
-        for slug in batch:
-            assets = scan_course(slug)
-            if assets:
-                update_course_page(slug, assets)
-                scanned += 1
-            time.sleep(0.3)  # rate limit
-        append_log(f"## [{timestamp()}] asset-scan | Batch offset={offset} ({scanned} courses scanned)")
-        update_checkpoint(scanned)
-        print(f"Done. Scanned {scanned} courses.")
-
-    elif len(args) >= 1 and args[0] == "--slug":
+    if args[0] == "--slug" and len(args) >= 2:
         slug = args[1]
-        print(f"Scanning {slug}...")
-        assets = scan_course(slug)
-        for at, text, url in assets:
-            print(f"  [{at}] {text} -> {url}")
+        assets = scan_one(slug)
+        for at, t, u in assets:
+            print(f"  [{at:20s}] {t}")
         if assets:
-            update_course_page(slug, assets)
+            update_page(slug, assets)
             append_log(f"## [{timestamp()}] asset-scan | Scanned {slug} ({len(assets)} assets)")
             update_checkpoint(1)
 
-    elif len(args) >= 1 and args[0] == "--remaining":
-        # Find courses without proper asset scans
+    elif args[0] == "--batch" and len(args) >= 2:
+        offset = int(args[1])
+        limit = int(args[2]) if len(args) > 2 else 100
         slugs = sorted(f.name.replace(".md", "") for f in (WIKI_DIR / "courses").iterdir() if f.name.endswith(".md"))
-        # Count how many have been scanned
+        batch = slugs[offset:offset+limit]
+        scanned = 0
+        for slug in batch:
+            a = scan_one(slug)
+            if a:
+                update_page(slug, a)
+                scanned += 1
+            time.sleep(0.25)
+        append_log(f"## [{timestamp()}] asset-scan | Batch offset={offset} ({scanned} courses)")
+        update_checkpoint(scanned)
+        print(f"Scanned {scanned} courses in this batch.")
+
+    elif args[0] == "--unscanned":
+        slugs = sorted(f.name.replace(".md", "") for f in (WIKI_DIR / "courses").iterdir() if f.name.endswith(".md"))
         scanned = 0
         remaining = []
         for slug in slugs:
-            content = (WIKI_DIR / "courses" / f"{slug}.md").read_text()
-            # A scanned page has typed tags like [Lecture-Notes] or [Reading-List]
-            # An unscanned one has generic tags like [Lecture Notes]
-            if re.search(r"\[(Lecture-Notes|Video-Transcript|Problem-Set|Reading-List|Image-Gallery)\]", content):
+            c = (WIKI_DIR / "courses" / f"{slug}.md").read_text()
+            if re.search(r"### (Syllabus|Lecture-Notes|Video-Transcript|Reading-List|Problem-Set|Assignment|Image-Gallery)", c):
                 scanned += 1
             else:
                 remaining.append(slug)
         print(f"{scanned} scanned, {len(remaining)} remaining")
         if remaining:
             batch = remaining[:100]
-            new_scans = 0
-            print(f"Scanning next 100...")
+            done = 0
             for slug in batch:
-                assets = scan_course(slug)
-                if assets:
-                    update_course_page(slug, assets)
-                    new_scans += 1
-                time.sleep(0.3)
-            append_log(f"## [{timestamp()}] asset-scan | Remaining batch ({new_scans} courses scanned)")
-            update_checkpoint(new_scans)
+                a = scan_one(slug)
+                if a:
+                    update_page(slug, a)
+                    done += 1
+                time.sleep(0.25)
+            append_log(f"## [{timestamp()}] asset-scan | Unscanned batch ({done} courses)")
+            update_checkpoint(done)
 
     else:
         print(__doc__)
-
 
 if __name__ == "__main__":
     main()
