@@ -131,3 +131,13 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-10 01:32] asset-scan | Hybrid scanned [[2-43-advanced-thermodynamics-spring-2024|2.43 Advanced Thermodynamics]] (83 assets: 79 API + 57 pages)
 
 ## [2026-05-10 01:33] asset-scan | Hybrid scanned [[2-787j-tissue-engineering-and-organ-regeneration-fall-2024|2.787J Tissue Engineering and Organ Regeneration]] (44 assets: 5 API + 30 pages)
+
+## [2026-05-10 01:40] asset-scan | Scanned [[4-241j-the-making-of-cities-spring-2025|4.241J The Making of Cities]] (4 assets)
+
+## [2026-05-10 01:43] asset-scan | Scanned [[4-241j-the-making-of-cities-spring-2025|4.241J The Making of Cities]] (4 assets)
+
+## [2026-05-10 01:43] asset-scan | Scanned [[4-241j-the-making-of-cities-spring-2025|4.241J The Making of Cities]] (4 assets)
+
+## [2026-05-10 01:43] asset-scan | Hybrid scanned [[4-241j-the-making-of-cities-spring-2025|4.241J The Making of Cities]] (8 assets: 8 API + 4 pages)
+
+## [2026-05-10 01:47] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (48 assets: 29 API + 155 pages)
