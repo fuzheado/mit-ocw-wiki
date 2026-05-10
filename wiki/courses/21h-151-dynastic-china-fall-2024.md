@@ -30,12 +30,38 @@ This course surveys the history of China from the first dynasty to the year 1800
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Lecture Videos] Lecture Videos
-- [Readings] Readings
-- [Student Work] Student Work
-- [Written Assignments] Written Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/calendar/)
 
+### Video-Transcript
+- [Lecture 21: Early Modern? The Ming in the 16th Century (.mp4) 🎬YouTube 📺Video](https://youtu.be/mzqKSewPmCM)
+- [Lecture 23: The Qing through Qianlong (.mp4) 🎬YouTube 📺Video](https://youtu.be/0pu1DjsDsLU)
+- [Lecture 3: The Western Zhou (.mp4) 🎬YouTube 📺Video](https://youtu.be/QkHh6Y2vrHg)
+- [Lecture 1: Introduction to China's History (.mp4) 🎬YouTube 📺Video](https://youtu.be/3dT8Wm5oI_o)
+- [Lecture Videos 📺Video](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/video_galleries/lecture-videos/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/assignments/)
+
+### Resource
+- [mit21h_151_f24.jpg (.jpg)](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/resources/mit21h_151_f24_jpg/)
+- [Week 8 Discussion Post Prompts](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/week-8-discussion-post-prompts/)
+- [Week 7 Discussion Post Prompts](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/week-7-discussion-post-prompts/)
+- [Week 6 Discussion Post Prompts](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/week-6-discussion-post-prompts/)
+- [Week 5 Discussion Post Prompts](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/week-5-discussion-post-prompts/)
+- [Week 4 Discussion Post Prompts](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/week-4-discussion-post-prompts/)
+- [Week 3 Discussion Post Prompts](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/week-3-discussion-post-prompts/)
+- [Week 2 Discussion Post Prompts](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/week-2-discussion-post-prompts/)
+- [Week 14 Discussion Post Prompts](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/week-14-discussion-post-prompts/)
+- [Week 13 Discussion Post Prompts](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/week-13-discussion-post-prompts/)
+- [Week 12 Discussion Post Prompts](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/week-12-discussion-post-prompts/)
+- [Week 11 Discussion Post Prompts](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/week-11-discussion-post-prompts/)
+- [Week 10 Discussion Post Prompts](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/week-10-discussion-post-prompts/)
+- [Discussion Posts](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/discussion-posts/)
 ## Wikipedia Bridge
 
 ### Related Articles

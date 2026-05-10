@@ -91,3 +91,23 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-09 22:12] asset-scan | Hybrid scanned [[res-11-003-climate-justice-instructional-toolkit-spring-2025|RES.11-003 Climate Justice Instructional Toolkit]] (34 assets: 34 API + 7 pages)
 
 ## [2026-05-09 22:16] asset-scan | Hybrid scanned [[6-7960-deep-learning-fall-2024|6.7960 Deep Learning]] (67 assets: 64 API + 31 pages)
+
+## [2026-05-09 22:18] asset-scan | Hybrid scanned [[res-11-003-climate-justice-instructional-toolkit-spring-2025|RES.11-003 Climate Justice Instructional Toolkit]] (40 assets: 34 API + 13 pages)
+
+## [2026-05-09 22:19] asset-scan | Deep scanned [[res-11-003-climate-justice-instructional-toolkit-spring-2025|RES.11-003 Climate Justice Instructional Toolkit]] (13 assets)
+
+## [2026-05-09 22:19] asset-scan | Deep scanned [[res-11-003-climate-justice-instructional-toolkit-spring-2025|RES.11-003 Climate Justice Instructional Toolkit]] (13 assets)
+
+## [2026-05-09 22:20] asset-scan | Hybrid scanned [[res-11-003-climate-justice-instructional-toolkit-spring-2025|RES.11-003 Climate Justice Instructional Toolkit]] (40 assets: 34 API + 13 pages)
+
+## [2026-05-09 22:20] asset-scan | Hybrid scanned [[res-11-003-climate-justice-instructional-toolkit-spring-2025|RES.11-003 Climate Justice Instructional Toolkit]] (40 assets: 34 API + 7 pages)
+
+## [2026-05-09 22:20] asset-scan | Hybrid scanned [[6-7960-deep-learning-fall-2024|6.7960 Deep Learning]] (67 assets: 64 API + 31 pages)
+
+## [2026-05-09 22:25] asset-scan | Hybrid scanned [[21h-151-dynastic-china-fall-2024|21h.151 Dynastic China]] (22 assets: 0 API + 0 pages)
+
+## [2026-05-09 22:26] asset-scan | Hybrid scanned [[21h-151-dynastic-china-fall-2024|21H.151 Dynastic China]] (22 assets: 0 API + 0 pages)
+
+## [2026-05-09 22:27] asset-scan | Hybrid scanned [[21h-151-dynastic-china-fall-2024|21H.151 Dynastic China]] (23 assets: 22 API + 22 pages)
+
+## [2026-05-09 22:31] asset-scan | Hybrid scanned [[2-787j-tissue-engineering-and-organ-regeneration-fall-2024|2.787J Tissue Engineering and Organ Regeneration]] (44 assets: 5 API + 30 pages)

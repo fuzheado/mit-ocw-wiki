@@ -56,6 +56,12 @@ The primary goal of these resources and programming is to provide support to fac
 
 ### Video-Transcript
 - [Video Lectures 🎬YouTube](https://ocw.mit.edu/courses/res-11-003-climate-justice-instructional-toolkit-spring-2025/pages/video-lectures/)
+- [Part 1: Teaching Climate and Environmental Justice (YouTube)](https://youtu.be/6MhC1veKDOM?si=p_KUpiepGeruy8TT)
+- [Part 2: Defining Environmental and Climate Justice (YouTube)](https://youtu.be/pX08JufiQOE)
+- [Part 3: Student Literacies (YouTube)](https://youtu.be/UX7GY2UhIzw)
+- [Part 4: Instructional Approaches (YouTube)](https://youtu.be/lqeCeC3WOLU)
+- [Part 5: Examples of Environmental and Climate Justice Pedagogy in Action (YouTube)](https://youtu.be/0K1Im3QuiTI)
+- [Part 6: Frameworks for Instructional Change (YouTube)](https://youtu.be/YT2hWhZG-oY)
 
 ### Resource
 - [CJIT Team (.pdf)](https://ocw.mit.edu/courses/res-11-003-climate-justice-instructional-toolkit-spring-2025/resources/mitres_11_003_s25_team_pdf/)
