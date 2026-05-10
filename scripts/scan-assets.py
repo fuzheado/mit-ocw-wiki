@@ -248,7 +248,7 @@ def deep_scan_one(slug: str, assets: list, max_pages: int = 100) -> list:
 
         # Extract inline lecture listings from video gallery pages
         # Pattern: "Lecture N: Title" appearing in page content
-        for m in re.finditer(r'Lecture\s+(\d+[A-Za-z]?):\s*([^<]{10,100})', html):
+        for m in re.finditer(r'Lecture\s+(\d+[A-Za-z]?):\s*([^<]{3,150})', html):
             lecture_num = m.group(1)
             lecture_title = m.group(2).strip()
             full = f"Lecture {lecture_num}: {lecture_title}"
@@ -258,11 +258,16 @@ def deep_scan_one(slug: str, assets: list, max_pages: int = 100) -> list:
                 ext_videos += 1
 
         # Extract YouTube video IDs from img.youtube.com/vi/{id}/default.jpg thumbnails
-        # These are used in video gallery pages where YouTube links aren't clickable
+        # Try to pair each thumbnail with a nearby lecture title
         yt_thumb_ids = set(re.findall(r'img\.youtube\.com/vi/([a-zA-Z0-9_-]+)/default\.jpg', html))
         for ytid in yt_thumb_ids:
             yt_url = f"https://youtu.be/{ytid}"
-            entry = ("Video-Transcript", f"Video ({ytid[:8]}…)", yt_url)
+            # Look for a nearby lecture title
+            idx = html.find(f'img.youtube.com/vi/{ytid}/default.jpg')
+            context = html[max(0, idx-300):idx+300] if idx >= 0 else ""
+            lec = re.search(r'Lecture\s+\d+[A-Za-z]?:\s*([^<]{3,150})', context)
+            label = lec.group(0).strip() if lec else f"Video ({ytid[:8]}…)"
+            entry = ("Video-Transcript", label, yt_url)
             if entry not in assets:
                 assets.append(entry)
                 ext_videos += 1
@@ -635,12 +640,15 @@ def main():
         else:
             merged = list(api_assets)
             merged_urls = {a[2] for a in merged}
+            merged_pairs = {(a[0], a[1]) for a in merged}
             added = 0
             # Add sidebar pages (with type correction)
             for a in sidebar_pages:
-                if a[2] not in merged_urls:
+                pair = (a[0], a[1])
+                if a[2] not in merged_urls or pair not in merged_pairs:
                     merged.append(a)
                     merged_urls.add(a[2])
+                    merged_pairs.add(pair)
                     added += 1
                 else:
                     for i, ma in enumerate(merged):
@@ -649,9 +657,11 @@ def main():
                             break
             # Add external video links not already covered
             for a in external_videos:
-                if a[2] not in merged_urls:
+                pair = (a[0], a[1])
+                if a[2] not in merged_urls or pair not in merged_pairs:
                     merged.append(a)
                     merged_urls.add(a[2])
+                    merged_pairs.add(pair)
                     added += 1
             print(f"  Merged: {len(api_assets)} API + {added} additions = {len(merged)} total")
 
