@@ -29,3 +29,15 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-09 20:55] asset-scan | Scanned res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026 (17 assets)
 
 ## [2026-05-09 20:55] asset-scan | Deep scan res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026 (17 assets)
+
+## [2026-05-09 20:57] asset-scan | Deep scan res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026 (17 assets)
+
+## [2026-05-09 20:58] asset-scan | Deep scan res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026 (17 assets)
+
+## [2026-05-09 20:59] asset-scan | Deep scan 15-071-the-analytics-edge-spring-2017 (59 assets)
+
+## [2026-05-09 21:00] asset-scan | Deep scan 15-071-the-analytics-edge-spring-2017 (59 assets)
+
+## [2026-05-09 21:03] asset-scan | Scanned 2-782j-design-of-medical-devices-and-implants-spring-2025 (6 assets)
+
+## [2026-05-09 21:03] asset-scan | Deep scan 2-782j-design-of-medical-devices-and-implants-spring-2025 (6 assets)

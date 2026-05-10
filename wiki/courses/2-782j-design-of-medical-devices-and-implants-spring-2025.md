@@ -5,13 +5,13 @@ title: "Design of Medical Devices and Implants"
 year_published: 2025
 instructors: ["Prof. Myron Spector", "Prof. Ioannis Yannas"]
 level: ["graduate"]
-department: "HST"
+department: "2"
 topics: ["Engineering", "Biological Engineering", "Mechanical Engineering"]
 license: "CC BY-NC-SA"
-views: 1973
+views: 1974
 completeness: 0.0
 last_modified: "2026-05-06T16:52:37Z"
-type: "course"
+type: course
 ---
 
 # Design of Medical Devices and Implants
@@ -20,8 +20,8 @@ This design course teaches a systematic approach for development of an implantab
 
 ## Course Info
 
-- **Department:** [[hst|Health Sciences and Technology]], [[2|Mechanical Engineering]]
-- **Course Number:** 2.782J
+- **Department:** [[2|Mechanical Engineering]], [[hst|Health Sciences and Technology]]
+- **Course Number:** 2.782J / HST.524J
 - **Instructors:** [[myron-spector|Prof. Myron Spector]], [[ioannis-yannas|Prof. Ioannis Yannas]]
 - **Year:** 2025
 - **Level:** Graduate
@@ -30,26 +30,18 @@ This design course teaches a systematic approach for development of an implantab
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Open Textbooks] Open Textbooks
-- [Projects] Projects
-- [Readings] Readings
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/pages/calendar/)
 
-## Wikipedia Bridge
+### Video-Transcript
+- [Lecture Videos 📺Video](https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/pages/lecture-videos/)
 
-### Related Articles
+### Reading-List
+- [Lecture Notes and Readings](https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/pages/lecture-notes-and-readings/)
 
-TBD — crossref not yet run.
+### Assignment
+- [Design Projects](https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/pages/design-projects/)
 
-### Citation Template
-
-```wikitext
-{{cite web
- |url=https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/
- |title=Design of Medical Devices and Implants
- |author=Prof. Myron Spector, Prof. Ioannis Yannas
- |website=MIT OpenCourseWare
- |access-date=2026-05-09
-}}
-```
+### Resource
+- [Instructor Insights](https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/pages/instructor-insights/)

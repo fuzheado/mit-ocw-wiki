@@ -37,10 +37,10 @@ Although we will emphasize photographing science and engineering, most of the ma
 
 ### Lecture-Notes
 - [Collaborating as a Teaching Team](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/pages/instructor-insights/collaborating-as-a-teaching-team/)
-- [How-To-Do-It Tutorials](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/video_galleries/how-to-do-it-tutorials2/)
+- [How-To-Do-It Tutorials 📺Video](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/video_galleries/how-to-do-it-tutorials2/)
 
 ### Video-Transcript
-- [Week 4: Mobile Devices and Video](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/video_galleries/week-4-mobile-devices-and-video/)
+- [Week 4: Mobile Devices and Video 📺Video](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/video_galleries/week-4-mobile-devices-and-video/)
 
 ### Image-Gallery
 - [2026 Update: Generative AI and Science Photography 🎬YouTube 📺Video](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/pages/generative-ai-and-science-photography/)
@@ -51,10 +51,10 @@ Although we will emphasize photographing science and engineering, most of the ma
 - [Nothing Better than a Picture](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/pages/instructor-insights/nothing-better-than-a-picture/)
 - [Providing Meaningful Feedback in a MOOC](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/pages/instructor-insights/providing-meaningful-feedback-in-a-mooc-environment/)
 - [Week 0: About this Course 🎬YouTube 📺Video](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/pages/week-0-about-this-course-good/)
-- [Week 1: Flatbed Scanner](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/video_galleries/week-1-flatbed-scanner/)
-- [Week 2: Camera Basics](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/video_galleries/week-2-camera-basics/)
-- [Week 3: Light](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/video_galleries/week-3-light/)
-- [Week 5: Presenting Your Work](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/video_galleries/week-5-presenting-your-work/)
-- [Week 6: Case Studies](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/video_galleries/week-6-case-studies/)
-- [Guest Interviews](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/video_galleries/guest-interviews/)
+- [Week 1: Flatbed Scanner 📺Video](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/video_galleries/week-1-flatbed-scanner/)
+- [Week 2: Camera Basics 📺Video](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/video_galleries/week-2-camera-basics/)
+- [Week 3: Light 📺Video](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/video_galleries/week-3-light/)
+- [Week 5: Presenting Your Work 📺Video](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/video_galleries/week-5-presenting-your-work/)
+- [Week 6: Case Studies 📺Video](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/video_galleries/week-6-case-studies/)
+- [Guest Interviews 📺Video](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/video_galleries/guest-interviews/)
 - [Additional Materials](https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/pages/additional-materials/)

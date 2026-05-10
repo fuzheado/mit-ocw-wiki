@@ -49,18 +49,18 @@ This course presents real-world examples in which quantitative methods provide a
 - [4.4 Location, Location, Location: Regression Trees for Housing Data  (Recitation) 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/trees/location-location-location-regression-trees-for-housing-data-recitation/)
 - [Unit 5: Text Analytics](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/text-analytics/)
 - [5.1 Welcome to Unit 5 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/text-analytics/welcome-to-unit-5/)
-- [5.4 Predictive Coding: Bringing Text Analytics to the Courtroom  (Recitation)](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/)
+- [5.4 Predictive Coding: Bringing Text Analytics to the Courtroom  (Recitation) 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/)
 - [Unit 6: Clustering](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/clustering/)
-- [6.1 Welcome to Unit 6](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/clustering/welcome-to-unit-6/)
+- [6.1 Welcome to Unit 6 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/clustering/welcome-to-unit-6/)
 - [Unit 7: Visualization](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/visualization/)
-- [7.1 Welcome to Unit 7](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/visualization/welcome-to-unit-7/)
-- [7.4 The Good, the Bad, and the Ugly: Visualization Recitation  (Recitation)](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/)
+- [7.1 Welcome to Unit 7 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/visualization/welcome-to-unit-7/)
+- [7.4 The Good, the Bad, and the Ugly: Visualization Recitation  (Recitation) 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/)
 - [Unit 8: Linear Optimization](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/linear-optimization/)
-- [8.1 Welcome to Unit 8](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/linear-optimization/welcome-to-unit-8/)
-- [8.4 Google AdWords: Optimizing Online Advertising  (Recitation)](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/linear-optimization/google-adwords-optimizing-online-advertising-recitation/)
+- [8.1 Welcome to Unit 8 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/linear-optimization/welcome-to-unit-8/)
+- [8.4 Google AdWords: Optimizing Online Advertising  (Recitation) 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/linear-optimization/google-adwords-optimizing-online-advertising-recitation/)
 - [Unit 9: Integer Optimization](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/integer-optimization/)
-- [9.1 Welcome to Unit 9](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/integer-optimization/welcome-to-unit-9/)
-- [9.4 Operating Room Scheduling: Making Hospitals Run Smoothly  (Recitation)](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/)
+- [9.1 Welcome to Unit 9 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/integer-optimization/welcome-to-unit-9/)
+- [9.4 Operating Room Scheduling: Making Hospitals Run Smoothly  (Recitation) 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/)
 
 ### Video-Transcript
 - [1.2 The Analytics Edge: Intelligence, Happiness, and Health  (Lecture Sequence) 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/)
@@ -81,7 +81,7 @@ This course presents real-world examples in which quantitative methods provide a
 - [9.5 Assignment 9](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/integer-optimization/assignment-9/)
 
 ### Image-Gallery
-- [6.4 Seeing the Big Picture: Segmenting Images to Create Data  (Recitation)](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/)
+- [6.4 Seeing the Big Picture: Segmenting Images to Create Data  (Recitation) 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/)
 
 ### Resource
 - [Unit Index](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/unit-index/)
@@ -92,16 +92,16 @@ This course presents real-world examples in which quantitative methods provide a
 - [3.3 The Framingham Heart Study: Evaluating Risk Factors to Save Lives 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/)
 - [4.2 Judge, Jury, and Classifier: An Introduction to Trees 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/trees/judge-jury-and-classifier-an-introduction-to-trees/)
 - [4.3 Keeping an Eye on Healthcare Costs: The D2Hawkeye Story 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/)
-- [5.2 Turning Tweets into Knowledge: An Introduction to Text Analytics](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/)
-- [5.3 Man vs. Machine: How IBM Built a Jeopardy Champion](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/)
-- [6.2 Recommendations Worth a Million: An Introduction to Clustering](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/clustering/recommendations-worth-a-million-an-introduction-to-clustering/)
-- [6.3 Predictive Diagnosis: Discovering Patterns for Disease Detection](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/)
-- [7.2 Visualizing the World: An Introduction to Visualization](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/visualization/visualizing-the-world-an-introduction-to-visualization/)
-- [7.3 The Analytical Policeman: Visualization for Law and Order](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/visualization/the-analytical-policeman-visualization-for-law-and-order/)
-- [8.2 Airline Revenue Management: An Introduction to Linear Optimization](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/)
-- [8.3 Radiation Therapy: An Application of Linear Optimization](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/linear-optimization/radiation-therapy-an-application-of-linear-optimization/)
-- [9.2 Sports Scheduling: An Introduction to Integer Optimization](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/)
-- [9.3 eHarmony: Maximizing the Probability of Love](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/integer-optimization/eharmony-maximizing-the-probability-of-love/)
+- [5.2 Turning Tweets into Knowledge: An Introduction to Text Analytics 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/)
+- [5.3 Man vs. Machine: How IBM Built a Jeopardy Champion 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/)
+- [6.2 Recommendations Worth a Million: An Introduction to Clustering 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/clustering/recommendations-worth-a-million-an-introduction-to-clustering/)
+- [6.3 Predictive Diagnosis: Discovering Patterns for Disease Detection 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/)
+- [7.2 Visualizing the World: An Introduction to Visualization 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/visualization/visualizing-the-world-an-introduction-to-visualization/)
+- [7.3 The Analytical Policeman: Visualization for Law and Order 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/visualization/the-analytical-policeman-visualization-for-law-and-order/)
+- [8.2 Airline Revenue Management: An Introduction to Linear Optimization 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/)
+- [8.3 Radiation Therapy: An Application of Linear Optimization 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/linear-optimization/radiation-therapy-an-application-of-linear-optimization/)
+- [9.2 Sports Scheduling: An Introduction to Integer Optimization 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/)
+- [9.3 eHarmony: Maximizing the Probability of Love 🎬YouTube 📺Video](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/integer-optimization/eharmony-maximizing-the-probability-of-love/)
 ## Wikipedia Bridge
 
 ### Related Articles
