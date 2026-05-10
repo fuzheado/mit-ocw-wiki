@@ -59,3 +59,29 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-09 21:28] asset-scan | Deep scanned [[5-112-principles-of-chemical-science-fall-2005|Principles of Chemical Science]] (4 assets)
 
 ## [2026-05-09 21:30] asset-scan | Deep scanned [[5-112-principles-of-chemical-science-fall-2005|Principles of Chemical Science]] (39 assets)
+
+## [2026-05-09 21:40] asset-scan | API scanned [[5-111sc-principles-of-chemical-science-fall-2014|Principles of Chemical Science]] (223 assets via API)
+
+## [2026-05-09 21:41] asset-scan | API scanned [[15-071-the-analytics-edge-spring-2017|The Analytics Edge]] (396 assets via API)
+
+## [2026-05-09 21:46] asset-scan | Scanned [[4-241j-the-making-of-cities-spring-2025|4.241J The Making of Cities]] (4 assets)
+
+## [2026-05-09 21:46] asset-scan | API scanned [[5-111sc-principles-of-chemical-science-fall-2014|5.111SC Principles of Chemical Science]] (223 assets via API)
+
+## [2026-05-09 21:52] asset-scan | API scanned [[2-782j-design-of-medical-devices-and-implants-spring-2025|2.782J Design of Medical Devices and Implants]] (7 assets via API)
+
+## [2026-05-09 21:54] asset-scan | Deep scanned [[2-782j-design-of-medical-devices-and-implants-spring-2025|2.782J Design of Medical Devices and Implants]] (50 assets)
+
+## [2026-05-09 21:54] asset-scan | Hybrid scanned [[2-782j-design-of-medical-devices-and-implants-spring-2025|2.782J Design of Medical Devices and Implants]] (7 assets: 7 API + 4 pages)
+
+## [2026-05-09 21:56] asset-scan | Hybrid scanned [[2-782j-design-of-medical-devices-and-implants-spring-2025|2.782J Design of Medical Devices and Implants]] (7 assets: 7 API + 6 pages)
+
+## [2026-05-09 21:56] asset-scan | Hybrid scanned [[5-111sc-principles-of-chemical-science-fall-2014|5.111SC Principles of Chemical Science]] (276 assets: 223 API + 207 pages)
+
+## [2026-05-09 21:57] asset-scan | Hybrid scanned [[2-782j-design-of-medical-devices-and-implants-spring-2025|2.782J Design of Medical Devices and Implants]] (7 assets: 7 API + 6 pages)
+
+## [2026-05-09 21:58] asset-scan | Hybrid scanned [[5-111sc-principles-of-chemical-science-fall-2014|5.111SC Principles of Chemical Science]] (258 assets: 223 API + 207 pages)
+
+## [2026-05-09 21:59] asset-scan | Hybrid scanned [[2-782j-design-of-medical-devices-and-implants-spring-2025|2.782J Design of Medical Devices and Implants]] (7 assets: 7 API + 6 pages)
+
+## [2026-05-09 22:06] asset-scan | Hybrid scanned [[res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026|RES.10-001 Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work]] (112 assets: 102 API + 18 pages)
