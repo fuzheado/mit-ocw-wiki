@@ -146,13 +146,24 @@ def deep_scan_one(slug: str, assets: list, max_pages: int = 100) -> list:
             if not link_text or len(link_text) < 3:
                 continue
             is_external = "(external)" in link_text.lower() or "external" in href.lower()
-            is_video_host = any(d in href for d in ("dropbox", "youtube", "youtu.be", "vimeo", "wistia", "panopto", "kaltura", "zoom.us"))
+            is_video_host = any(d in href for d in ("dropbox", "youtube", "youtu.be", "vimeo", "wistia", "panopto", "kaltura", "zoom.us", "archive.org"))
             if is_external or is_video_host:
                 link_type = "Video-Transcript" if is_video_host else "Resource"
                 entry = (link_type, link_text, href)
                 if entry not in assets:
                     assets.append(entry)
                     ext_videos += 1
+
+        # Extract "Download video" / "Download transcript" links on sub-pages
+        for m in re.finditer(r'href="([^"]+)"[^>]*>(Download\s+(?:video|transcript|the video))</a>', html, re.I):
+            dl_href = m.group(1)
+            dl_text = m.group(2)
+            if dl_href.startswith("/"):
+                dl_href = "https://ocw.mit.edu" + dl_href
+            entry = ("Video-Transcript", dl_text, dl_href)
+            if entry not in assets:
+                assets.append(entry)
+                ext_videos += 1
 
         if annotations or ext_videos:
             detail = ", ".join(annotations)
