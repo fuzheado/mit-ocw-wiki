@@ -130,6 +130,33 @@ def deep_scan_one(slug: str, assets: list, max_pages: int = 100) -> list:
         if not html:
             continue
 
+        # --- Extract rich page metadata ---
+        # Full page title from <title> tag
+        page_title = re.search(r'<title>([^<]+)', html)
+        if page_title:
+            full_title = page_title.group(1).split(" |")[0].strip()
+            # Use the full title if it's more descriptive than the sidebar text
+            if len(full_title) > len(text) and not text.startswith("Download "):
+                old_text = text
+                text = full_title
+                # Update the asset entry to use the richer title
+                for i, (a, t, u) in enumerate(assets):
+                    if u == url and a == atype and t == old_text:
+                        assets[i] = (a, text, u)
+                        break
+
+        # Description from og:description or meta description
+        description = ""
+        og_desc = re.search(r'property="og:description" content="([^"]+)', html)
+        if og_desc:
+            description = og_desc.group(1).strip()
+        else:
+            meta_desc = re.search(r'<meta name="description" content="([^"]+)', html)
+            if meta_desc:
+                description = meta_desc.group(1).strip()
+        if description:
+            description = re.sub(r'\s+', ' ', description).strip()
+
         videos = detect_video(html)
         slides = re.search(r'slides.*?\.pdf|lecture.*?\.pdf', html, re.I)
 
@@ -165,11 +192,13 @@ def deep_scan_one(slug: str, assets: list, max_pages: int = 100) -> list:
                 assets.append(entry)
                 ext_videos += 1
 
-        if annotations or ext_videos:
+        if annotations or ext_videos or description:
             detail = ", ".join(annotations)
+            if description:
+                detail += (", " if detail else "") + description[:120]
             if ext_videos:
                 detail += (", " if detail else "") + f"{ext_videos} external video links"
-            print(f"    [{atype}] {text} — {detail}")
+            print(f"    [{atype:16s}] {text}")
             # Append video annotation to text for display
             if videos:
                 badges = []
