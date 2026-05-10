@@ -7,6 +7,7 @@ files, and video galleries, and classifies them into typed asset lists.
 
 Usage:
     python3 scripts/scan-assets.py --slug 4-241j-the-making-of-cities-spring-2025
+    python3 scripts/scan-assets.py --deep 15-071-the-analytics-edge-spring-2017
     python3 scripts/scan-assets.py --batch 0 100
     python3 scripts/scan-assets.py --unscanned
 """
@@ -93,6 +94,79 @@ def scan_one(slug: str) -> list:
 
     return assets
 
+
+def detect_video(html: str) -> list:
+    """Check a page for video content and return details."""
+    found = []
+    if re.search(r"Download video|Download transcript|View video page", html, re.I):
+        found.append("OCW player")
+    if re.search(r"youtube\.com/embed|youtu\.be|youtube\.com/watch", html, re.I):
+        found.append("YouTube")
+    if re.search(r"\.mp4|video/mp4|video/ogg|video/webm", html, re.I):
+        found.append("MP4 file")
+    if re.search(r"class=\"[^\"]*video[^\"]*\"", html, re.I):
+        found.append("Video embed")
+    return found
+
+
+def deep_scan_one(slug: str, assets: list, max_pages: int = 30) -> list:
+    """
+    Visit sub-pages to detect video content and downloadable resources.
+    Returns updated assets with video annotations.
+    """
+    # Collect unique sub-page URLs from assets
+    sub_urls = []
+    seen_urls = set()
+    for atype, text, url in assets:
+        if url not in seen_urls and "/pages/" in url and atype != "Syllabus":
+            seen_urls.add(url)
+            sub_urls.append((atype, text, url))
+
+    print(f"  deep scan: {len(sub_urls)} sub-pages...")
+    scanned = 0
+
+    for atype, text, url in sub_urls[:max_pages]:
+        html = fetch(url)
+        if not html:
+            continue
+
+        videos = detect_video(html)
+        slides = re.search(r'slides.*?\.pdf|lecture.*?\.pdf', html, re.I)
+
+        annotations = []
+        if videos:
+            annotations.extend(videos)
+        if slides:
+            annotations.append("slides")
+
+        if annotations:
+            print(f"    [{atype}] {text} — {', '.join(annotations)}")
+            # Append video annotation to text for display
+            if videos:
+                badges = []
+                if "YouTube" in videos:
+                    badges.append("🎬YouTube")
+                if "OCW player" in videos or "MP4 file" in videos:
+                    badges.append("📺Video")
+                annotation = " ".join(badges)
+                # Update the asset entry to include annotation
+                for i, (a, t, u) in enumerate(assets):
+                    if u == url and a == atype:
+                        assets[i] = (a, f"{t} {annotation}", u)
+                        break
+
+        # Also check for direct file links on the sub-page
+        for fpath in re.findall(r'href="(/courses/' + re.escape(slug) + r'/resources/[^"]*\.(?:pdf|zip|csv|xlsx?))"', html, re.I):
+            fname = fpath.rstrip("/").split("/")[-1]
+            if fname.lower() not in [a[1].lower() for a in assets]:
+                assets.append(("Resource", fname, f"https://ocw.mit.edu{fpath}"))
+
+        scanned += 1
+        time.sleep(0.2)
+
+    print(f"  deep scan: {scanned} pages checked")
+    return assets
+
 def update_page(slug: str, assets: list):
     path = WIKI_DIR / "courses" / f"{slug}.md"
     if not path.exists():
@@ -144,7 +218,16 @@ def update_checkpoint(n: int):
 def main():
     args = sys.argv[1:]
 
-    if args[0] == "--slug" and len(args) >= 2:
+    if args[0] == "--deep" and len(args) >= 2:
+        slug = args[1]
+        assets = scan_one(slug)
+        assets = deep_scan_one(slug, assets)
+        if assets:
+            update_page(slug, assets)
+            append_log(f"## [{timestamp()}] asset-scan | Deep scan {slug} ({len(assets)} assets)")
+            update_checkpoint(0)
+
+    elif args[0] == "--slug" and len(args) >= 2:
         slug = args[1]
         assets = scan_one(slug)
         for at, t, u in assets:
