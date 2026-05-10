@@ -101,7 +101,19 @@ This ensures consistency across sessions and prevents duplicated effort.
 
 ## Workflows
 
-**Ingest.** Read the source. Create/update the page. Propagate claims into existing pages and add backlinks. Stitch into the web. Update `index.md`, `log.md`, `home.md` if the narrative shifts.
+**Process a course (ingest + asset scan).** When the user says "ingest this course" or "process this class" with a URL:
+
+1. The course page likely already exists from the initial batch ingest (2,573 courses). Check `wiki/courses/` for the slug derived from the URL.
+2. Run the hybrid asset scan: `python3 scripts/scan-assets.py --hybrid {slug}`
+   - This fetches the content file inventory from the MIT Learn API
+   - Also deep-scans the OCW page for sidebar structure and external video links
+   - Merges both sources: API for authoritative file data, URL scan for page types and off-platform videos
+3. The pre-commit hook auto-regenerates `wiki/index.md` and `wiki/instructors-index.md`.
+4. Commit with message: `ocw: hybrid scan {course_id}: {N} assets, {M} videos`.
+
+If the slug is unclear from the URL, ask the user to confirm.
+
+**Ingest (generic).** Read the source. Create/update the page. Propagate claims into existing pages and add backlinks. Stitch into the web. Update `index.md`, `log.md`, `home.md` if the narrative shifts.
 
 **Index regeneration.** The git pre-commit hook (`scripts/pre-commit`) automatically regenerates `wiki/index.md` and `wiki/instructors-index.md` whenever course, instructor, or department files change. If you add files manually, run `python3 scripts/regenerate-index.py` to sync.
 
