@@ -118,7 +118,7 @@ def deep_scan_one(slug: str, assets: list, max_pages: int = 30) -> list:
     sub_urls = []
     seen_urls = set()
     for atype, text, url in assets:
-        if url not in seen_urls and "/pages/" in url and atype != "Syllabus":
+        if url not in seen_urls and atype != "Syllabus":
             seen_urls.add(url)
             sub_urls.append((atype, text, url))
 
@@ -146,7 +146,7 @@ def deep_scan_one(slug: str, assets: list, max_pages: int = 30) -> list:
                 badges = []
                 if "YouTube" in videos:
                     badges.append("🎬YouTube")
-                if "OCW player" in videos or "MP4 file" in videos:
+                if "OCW player" in videos or "MP4 file" in videos or "Video embed" in videos:
                     badges.append("📺Video")
                 annotation = " ".join(badges)
                 # Update the asset entry to include annotation
