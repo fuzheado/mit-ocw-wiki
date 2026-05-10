@@ -448,6 +448,14 @@ def update_page(slug: str, assets: list):
                                   f"- **License:** CC BY-NC-SA\n\n{new_section}\n")
 
     path.write_text(content)
+    # Update or add last_scanned timestamp in frontmatter
+    content = path.read_text()
+    scan_time = datetime.now().strftime("%Y-%m-%d")
+    if re.search(r'^last_scanned:', content, re.M):
+        content = re.sub(r'^last_scanned:.*', f'last_scanned: {scan_time}', content, flags=re.M)
+    else:
+        content = re.sub(r'^(type:.*)', fr'\1\nlast_scanned: {scan_time}', content, flags=re.M)
+    path.write_text(content)
     print(f"  updated {slug} ({len(assets)} assets in {len(groups)} categories)")
 
 def append_log(msg: str):

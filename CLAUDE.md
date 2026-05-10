@@ -92,7 +92,7 @@ This ensures consistency across sessions and prevents duplicated effort.
 
 ## Core Rules (always active)
 
-1. Every course page gets full YAML frontmatter per Rule 1.1. Never invent metadata — use `Unknown` + `FIXME` if not found.
+1. Every course page gets full YAML frontmatter per Rule 1.1. Never invent metadata — use `Unknown` + `FIXME` if not found. The `last_scanned` field is set automatically by the hybrid scan.
 2. Every asset link gets an asset type tag per Rule 1.2: `[Lecture-Notes]`, `[Video-Transcript]`, `[Problem-Set]`, `[Reading-List]`, `[Image-Gallery]`.
 3. Apply the Wikipedia Utility Rubric during crossref: flag `[Visual-Rich]` for Commons-candidate media, `[Source-Rich]` for citation-dense reading lists.
 4. Every course page gets a Wikipedia Bridge section with 3-5 related article links and a `{{cite web}}` citation template.
