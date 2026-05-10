@@ -12,6 +12,9 @@ views: 276
 completeness: 0.1766666666666667
 last_modified: "2026-05-06T17:06:50Z"
 type: course
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 12, Problem-Set: 2, Resource: 3, Syllabus: 2"
+api_id: 3402
 ---
 
 # GPS: Where Are You?
@@ -32,9 +35,30 @@ The use of Global Positioning System (GPS) in a wide variety of applications has
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/12-s56-gps-where-are-you-fall-2008/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-s56-gps-where-are-you-fall-2008/pages/syllabus/)
 
+### Lecture-Notes
+- [GPS Applications (.pdf)](https://ocw.mit.edu/courses/12-s56-gps-where-are-you-fall-2008/resources/sem09/)
+- [GPS (.pdf)](https://ocw.mit.edu/courses/12-s56-gps-where-are-you-fall-2008/resources/sem07/)
+- [GPS Design and Performance (.pdf)](https://ocw.mit.edu/courses/12-s56-gps-where-are-you-fall-2008/resources/sem04/)
+- [Where Are You? (.pdf)](https://ocw.mit.edu/courses/12-s56-gps-where-are-you-fall-2008/resources/sem01/)
+- [Project 3 solution 2005 (.m)](https://ocw.mit.edu/courses/12-s56-gps-where-are-you-fall-2008/resources/proj_3_08/)
+- [Circle Data (.pdf)](https://ocw.mit.edu/courses/12-s56-gps-where-are-you-fall-2008/resources/circledata_sol08/)
+- [Seminar 9 (.pdf)](https://ocw.mit.edu/courses/12-s56-gps-where-are-you-fall-2008/resources/12s56_sem09/)
+- [Seminar 7 (.pdf)](https://ocw.mit.edu/courses/12-s56-gps-where-are-you-fall-2008/resources/12s56_sem07/)
+- [Seminar 4 (.pdf)](https://ocw.mit.edu/courses/12-s56-gps-where-are-you-fall-2008/resources/12s56_sem04/)
+- [Seminar 3 (.pdf)](https://ocw.mit.edu/courses/12-s56-gps-where-are-you-fall-2008/resources/12s56_sem03/)
+- [Seminar 1 (.pdf)](https://ocw.mit.edu/courses/12-s56-gps-where-are-you-fall-2008/resources/12s56_sem01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/12-s56-gps-where-are-you-fall-2008/pages/lecture-notes/)
+
+### Problem-Set
+- [Project 3 Solution (.pdf)](https://ocw.mit.edu/courses/12-s56-gps-where-are-you-fall-2008/resources/proj_3_05_soln/)
+- [Assignments](https://ocw.mit.edu/courses/12-s56-gps-where-are-you-fall-2008/pages/assignments/)
+
+### Resource
+- [GPS satellites orbiting Earth (.jpg)](https://ocw.mit.edu/courses/12-s56-gps-where-are-you-fall-2008/resources/12-s56f08/)
 ## Wikipedia Bridge
 
 ### Related Articles

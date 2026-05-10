@@ -12,6 +12,8 @@ views: 138
 completeness: 0.15000000000000002
 last_modified: "2026-05-06T17:09:26Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Problem-Set: 1, Reading-List: 1, Syllabus: 1"
 ---
 
 # Basics of Impact Cratering & Geological, Geophysical, Geochemical, Environmental Studies of Some Impact Craters of the Earth
@@ -31,10 +33,20 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects] Projects
-- [Written Assignments with Examples] Written Assignments with Examples
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008/pages/projects/)
 ## Wikipedia Bridge
 
 ### Related Articles

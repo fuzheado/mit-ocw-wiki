@@ -12,6 +12,8 @@ views: 116
 completeness: 0.15833333333333333
 last_modified: "2026-05-06T17:12:43Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Resource: 4, Syllabus: 1, Video-Transcript: 33"
 ---
 
 # Climate Action Hands-On: Harnessing Science with Communities to Cut Carbon
@@ -31,12 +33,16 @@ The course was organized by ClimateX and Fossil Free MIT, with support from the 
 
 ## Materials
 
-- [Image Gallery] Image Gallery
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Video Materials] Video Materials
-- [Workshop Videos] Workshop Videos
+### Lectures
+- **Download the video** — [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_1-1_Citizen_Science_300k.mp4) · [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_1-2_Methane_Leak_Intro_300k.mp4) · [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_2-1_More_About_Leaks_300k.mp4) · [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_2-2_Hackathon_300k.mp4) · [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_3-0_Leak_Safari_300k.mp4) · [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_4-1_Law_300k.mp4) · [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_4-2_Greenometry_300k.mp4) · [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_4-3_Debrief_on_Safari_300k.mp4)
+- **Download video** — [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_1-1_Citizen_Science_300k.mp4) · [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_1-2_Methane_Leak_Intro_300k.mp4) · [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_2-1_More_About_Leaks_300k.mp4) · [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_2-2_Hackathon_300k.mp4) · [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_3-0_Leak_Safari_300k.mp4) · [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_4-1_Law_300k.mp4) · [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_4-2_Greenometry_300k.mp4) · [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_4-3_Debrief_on_Safari_300k.mp4)
+- **Session 1: Citizen Science and Climate Action** — [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_1-1_Citizen_Science_300k.mp4) · [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_1-2_Methane_Leak_Intro_300k.mp4) · [📄](https://ocw.mit.edu/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/1569bf4f197813ce8191810c01dde251_j4b9U9m9MQA.pdf) · [📄](https://ocw.mit.edu/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/831a0a9e604b461aea50e056fe930d47_lsf0_6DAFOM.pdf) · [🔗](https://ocw.mit.edu/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/pages/session-1-citizen-science-and-climate-action/)
+- **Session 2: Methane Leaks Hackathon** — [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_2-1_More_About_Leaks_300k.mp4) · [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_2-2_Hackathon_300k.mp4) · [📄](https://ocw.mit.edu/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/b1c78531e6779c23352eed47b657ebc2_uq3aNIM-IU.pdf) · [📄](https://ocw.mit.edu/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/d59ca9df5bf49fdd54d803bbc7c3e62a_wbAC6IQtgAU.pdf) · [🔗](https://ocw.mit.edu/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/pages/session-2-methane-leaks-hackathon/)
+- **Session 3: Methane Leaks Field Trip &#34;Safari&#34;** — [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_3-0_Leak_Safari_300k.mp4) · [📄](https://ocw.mit.edu/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/7097be92c5a5b02849107e7d44552c31_9UDkcGjF4jU.pdf) · [🔗](https://ocw.mit.edu/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/pages/session-3-methane-leaks-field-trip-safari/)
+- **Session 4: Legal and Business Actions, Methane Leak Data Debrief** — [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_4-1_Law_300k.mp4) · [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_4-2_Greenometry_300k.mp4) · [⬇](https://archive.org/download/MITRES.ENV-001IAP17/MITRESENV_001IAP17_4-3_Debrief_on_Safari_300k.mp4) · [📄](https://ocw.mit.edu/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/cd5c27a1eb75b0b6fbe4d3b1b3e92de4_jBoDIObtJQw.pdf) · [📄](https://ocw.mit.edu/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/97b3f2a38d4d1975c52db79903294d73_GRc5GKMNuho.pdf) · [📄](https://ocw.mit.edu/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/8f43b03a0ed357e55336a3ac45cd4825_8C2M48Bc5Fw.pdf) · [🔗](https://ocw.mit.edu/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/pages/session-4-legal-and-business-actions-methane-leak-data-debrief/)
 
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/pages/syllabus/)
 ## Wikipedia Bridge
 
 ### Related Articles

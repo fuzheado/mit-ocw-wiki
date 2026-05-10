@@ -12,6 +12,8 @@ views: 265
 completeness: 0.03333333333333333
 last_modified: "2026-05-06T14:43:39Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Reading-List: 1, Resource: 1, Syllabus: 1, Video-Transcript: 4"
 ---
 
 # Teaching with Sustainability
@@ -31,11 +33,14 @@ This resource presents materials associated with a four-week noncredit course in
 
 ## Materials
 
-- [Editable Files] Editable Files
-- [Instructor Insights] Instructor Insights
-- [Lecture Notes] Lecture Notes
-- [Podcasts] Podcasts
+### Lectures
+- **Instructor Insights** — [⬇](https://archive.org/download/chalk-radio/S04E07_SCALES_360p.mp4) · [📄](https://ocw.mit.edu/courses/res-env-006-teaching-with-sustainability-january-iap-2022/Ub8E2hyNBxs_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/res-env-006-teaching-with-sustainability-january-iap-2022/pages/instructor-insights/)
 
+### Syllabus
+- [Syllabus and Course Materials](https://ocw.mit.edu/courses/res-env-006-teaching-with-sustainability-january-iap-2022/pages/syllabus/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/res-env-006-teaching-with-sustainability-january-iap-2022/pages/readings/)
 ## Wikipedia Bridge
 
 ### Related Articles

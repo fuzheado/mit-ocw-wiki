@@ -12,6 +12,9 @@ views: 151
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T17:10:34Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 3515
 ---
 
 # Global Cityscope - Disaster Planning and Post-Disaster Rebuilding and Recovery
@@ -30,8 +33,23 @@ This class is designed to expose you to the cycles of disasters, the roots of em
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Background Valparaíso Case** — [🔗](https://ocw.mit.edu/courses/11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017/pages/assignments/background-valparaiso-case/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017/pages/calendar/)
+- **Disaster Mitigation Plan Memo** — [🔗](https://ocw.mit.edu/courses/11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017/pages/assignments/disaster-mitigation-plan-memo/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017/pages/readings/)
+
+### Problem-Set
+- [MIT11_027JS17_Memo_Writing (.pdf)](https://ocw.mit.edu/courses/11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017/resources/mit11_027js17_memo_writing/)
+- [Assignments](https://ocw.mit.edu/courses/11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017/pages/assignments/)
+
+### Resource
+- [11-027S17 (.jpg)](https://ocw.mit.edu/courses/11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017/resources/11-027s17/)
+- [11-027S17-th (.jpg)](https://ocw.mit.edu/courses/11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017/resources/11-027s17-th/)
+- [Related Resources](https://ocw.mit.edu/courses/11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

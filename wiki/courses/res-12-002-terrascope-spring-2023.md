@@ -12,6 +12,9 @@ views: 106
 completeness: 0.0
 last_modified: "2026-05-06T16:56:18Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Resource: 8, Video-Transcript: 4"
+api_id: 4162
 ---
 
 # Terrascope
@@ -31,8 +34,16 @@ In the fall class, Solving Complex Problems, you will develop solutions and pres
 
 ## Materials
 
-- [Podcasts] Podcasts
+### Lectures
+- **Instructor Insights** — [📄](https://ocw.mit.edu/courses/res-12-002-terrascope-spring-2023/2pUPQRG0T5Y_transcript.pdf) · [📄](https://ocw.mit.edu/courses/res-12-002-terrascope-spring-2023/G46Vpp0jPDg_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/res-12-002-terrascope-spring-2023/pages/instructor-insights/)
 
+### Resource
+- [Everything Here is Sacred (Terrascope Radio Replay) transcript (.pdf)](https://ocw.mit.edu/courses/res-12-002-terrascope-spring-2023/resources/g46vpp0jpdg_transcript/)
+- [Everything Here is Sacred (Terrascope Radio Replay) captions (.webvtt)](https://ocw.mit.edu/courses/res-12-002-terrascope-spring-2023/resources/g46vpp0jpdg_captions/)
+- [The Power of Experience with Dr. Ari Epstein transcript (.pdf)](https://ocw.mit.edu/courses/res-12-002-terrascope-spring-2023/resources/2pupqrg0t5y_transcript/)
+- [The Power of Experience with Dr. Ari Epstein captions (.webvtt)](https://ocw.mit.edu/courses/res-12-002-terrascope-spring-2023/resources/2pupqrg0t5y_captions/)
+- [mitres_12_002_s23_chp_th.jpg (.jpg)](https://ocw.mit.edu/courses/res-12-002-terrascope-spring-2023/resources/mitres_12_002_s23_chp_th_jpg/)
+- [mitres_12_002_s23_chp.jpg (.jpg)](https://ocw.mit.edu/courses/res-12-002-terrascope-spring-2023/resources/mitres_12_002_s23_chp_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

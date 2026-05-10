@@ -12,6 +12,9 @@ views: 108
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:59:31Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 2"
+api_id: 3804
 ---
 
 # International Environmental Negotiation
@@ -30,10 +33,18 @@ This seminar will explore the difficulties of getting agreement on global defini
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-364-international-environmental-negotiation-fall-2010/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-364-international-environmental-negotiation-fall-2010/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-364-international-environmental-negotiation-fall-2010/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-364-international-environmental-negotiation-fall-2010/pages/assignments/)
+
+### Resource
+- [An aerial photo of Mexico City, partially obscured by smog (.jpg)](https://ocw.mit.edu/courses/11-364-international-environmental-negotiation-fall-2010/resources/11-364f10/)
 ## Wikipedia Bridge
 
 ### Related Articles

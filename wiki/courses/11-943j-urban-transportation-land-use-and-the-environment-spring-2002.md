@@ -12,6 +12,9 @@ views: 418
 completeness: 0.2416666666666667
 last_modified: "2026-05-06T16:53:56Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 17, Problem-Set: 5, Reading-List: 23, Resource: 4, Syllabus: 2"
+api_id: 4642
 ---
 
 # Urban Transportation, Land Use, and the Environment
@@ -31,9 +34,64 @@ The course will be geared towards interactive problem-solving, taking advantage 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/pages/syllabus/)
 
+### Lecture-Notes
+- [santiagolecture2.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/santiagolecture2/)
+- [SantiagoLecture1B.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/santiagolecture1b/)
+- [SantiagoLecture1A.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/santiagolecture1a/)
+- [SantiagoLecture1.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/santiagolecture1/)
+- [Lecture6B.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/lecture6b/)
+- [Lecture6A.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/lecture6a/)
+- [Lecture6.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/lecture6/)
+- [lecture5.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/lecture5/)
+- [lecture4.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/lecture4/)
+- [Lecture3D.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/lecture3d/)
+- [Lecture3C.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/lecture3c/)
+- [Lecture3B.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/lecture3b/)
+- [Lecture3A.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/lecture3a/)
+- [lecture3.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/lecture3/)
+- [lecture2.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/lecture2/)
+- [lecture1.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/lecture1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/pages/lecture-notes/)
+
+### Reading-List
+- [zegras_et_al_mexico_city.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/zegras_et_al_mexico_city/)
+- [wtpp_with_vasconcellos.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/wtpp_with_vasconcellos/)
+- [world_bank.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/world_bank/)
+- [won.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/won/)
+- [willoughby.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/willoughby/)
+- [wbcsd.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/wbcsd/)
+- [vasconcellos_demand_for_cars.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/vasconcellos_demand_for_cars/)
+- [vasconcellos_book.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/vasconcellos_book/)
+- [sussmanconklin.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/sussmanconklin/)
+- [shafer_regularities.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/shafer_regularities/)
+- [rodriguez.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/rodriguez/)
+- [onursal_and_gautum.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/onursal_and_gautum/)
+- [malbran.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/malbran/)
+- [levine.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/levine/)
+- [kenworthyandlaube.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/kenworthyandlaube/)
+- [ingram.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/ingram/)
+- [gakenheimer.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/gakenheimer/)
+- [ewing.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/ewing/)
+- [dupuy.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/dupuy/)
+- [ducci.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/ducci/)
+- [crane.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/crane/)
+- [bernick_and_cervero.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/bernick_and_cervero/)
+- [Readings](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/pages/readings/)
+
+### Problem-Set
+- [finalassignment.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/finalassignment/)
+- [assignment3.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/assignment3/)
+- [assignment2.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/assignment2/)
+- [assignment1.pdf (.pdf)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/assignment1/)
+- [Assignments](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/pages/assignments/)
+
+### Resource
+- [11-943js02.jpg (.jpg)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/11-943js02/)
+- [11-943js02-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/resources/11-943js02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

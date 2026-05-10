@@ -12,6 +12,9 @@ views: 738
 completeness: 0.10833333333333334
 last_modified: "2026-05-06T17:11:46Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 13, Resource: 5, Syllabus: 2"
+api_id: 4757
 ---
 
 # Hands-On Astronomy: Observing Stars and Planets
@@ -31,8 +34,29 @@ This course covers background for and techniques of visual observation, electron
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/pages/syllabus/)
 
+### Lecture-Notes
+- [handout9_sp2002.pdf (.pdf)](https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/resources/handout9_sp2002/)
+- [handout8_sp2002.pdf (.pdf)](https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/resources/handout8_sp2002/)
+- [handout7_sp2002.pdf (.pdf)](https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/resources/handout7_sp2002/)
+- [handout6_sp2002.pdf (.pdf)](https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/resources/handout6_sp2002/)
+- [handout5_sp2002.pdf (.pdf)](https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/resources/handout5_sp2002/)
+- [handout4_sp2002.pdf (.pdf)](https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/resources/handout4_sp2002/)
+- [handout3_sp2002.pdf (.pdf)](https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/resources/handout3_sp2002/)
+- [handout2_sp2002.pdf (.pdf)](https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/resources/handout2_sp2002/)
+- [handout1_sp2002.pdf (.pdf)](https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/resources/handout1_sp2002/)
+- [handout12_sp2002.pdf (.pdf)](https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/resources/handout12_sp2002/)
+- [handout11_sp2002.pdf (.pdf)](https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/resources/handout11_sp2002/)
+- [handout10_sp2002.pdf (.pdf)](https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/resources/handout10_sp2002/)
+- [Lecture Notes](https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/pages/lecture-notes/)
+
+### Resource
+- [moon.gif (.gif)](https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/resources/moon/)
+- [12-409s02.jpg (.jpg)](https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/resources/12-409s02/)
+- [12-409s02-th.jpg (.jpg)](https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/resources/12-409s02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

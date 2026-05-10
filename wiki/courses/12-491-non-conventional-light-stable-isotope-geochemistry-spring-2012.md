@@ -12,6 +12,9 @@ views: 79
 completeness: 0.0
 last_modified: "2026-05-06T17:02:07Z"
 type: course
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 6, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 3368
 ---
 
 # Non-conventional Light Stable Isotope Geochemistry
@@ -30,8 +33,22 @@ This course is designed for graduate students with an interest in using primary 
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-2012/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-2012/pages/readings/)
+
+### Assignment
+- [Triple-isotope composition of atmospheric oxygen as a tracer of biosphere productivity (.pdf)](https://ocw.mit.edu/courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-2012/resources/mit12_491s12_tripleisotope/)
+- [Mass-Dependent and -Independent Fractionation of Hg Isotopes by Photoreduction in Aquatic Systems (.pdf)](https://ocw.mit.edu/courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-2012/resources/mit12_491s12_massdependent/)
+- [Equilibrium iron isotope fractionation factors of minerals: Reevaluation from the data of nuclear inelastic resonant X-ray scattering and Mossbauer spectroscopy. (.pdf)](https://ocw.mit.edu/courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-2012/resources/mit12_491s12_equilibriiron/)
+- [Summary of Estrade et al. 2009 (Geochimica et Cosmochimica Acta)  (.pdf)](https://ocw.mit.edu/courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-2012/resources/mit12_491s12_equilibdynami/)
+- [A bistable organic-rich atmosphere on the Neoarchean Earth (.pdf)](https://ocw.mit.edu/courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-2012/resources/mit12_491s12_a_bistable/)
+- [Projects](https://ocw.mit.edu/courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-2012/pages/projects/)
+
+### Resource
+- [Sulphide and Sulphate Isotope Ratios (.jpg)](https://ocw.mit.edu/courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-2012/resources/12-491s12/)
 ## Wikipedia Bridge
 
 ### Related Articles

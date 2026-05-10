@@ -12,6 +12,9 @@ views: 482
 completeness: 0.4
 last_modified: "2026-05-06T17:22:31Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 1, Problem-Set: 14, Reading-List: 8, Resource: 41, Syllabus: 2, Video-Transcript: 1"
+api_id: 4508
 ---
 
 # Introduction to Ocean Science and Engineering
@@ -30,14 +33,76 @@ This course is an introduction to the fundamental aspects of science and enginee
 
 ## Materials
 
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
-- [Image Gallery] Image Gallery
-- [Open Textbooks] Open Textbooks
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/pages/calendar/)
+- **Labs** — [🔗](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/pages/labs/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [vorticity.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/vorticity/)
+- [intro2.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/intro2/)
+- [intro1.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/intro1/)
+- [hydrost_pressure.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/hydrost_pressure/)
+- [hw5_sonar_leonar.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/hw5_sonar_leonar/)
+- [geostrophic.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/geostrophic/)
+- [ekman.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/ekman/)
+- [Readings](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/pages/readings/)
+
+### Problem-Set
+- [takehome_2.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/takehome_2/)
+- [hw7_soln.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/hw7_soln/)
+- [hw7.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/hw7/)
+- [hw6.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/hw6/)
+- [hw5.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/hw5/)
+- [hw4_soln.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/hw4_soln/)
+- [hw4.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/hw4/)
+- [hw3_soln.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/hw3_soln/)
+- [hw3.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/hw3/)
+- [hw2_soln.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/hw2_soln/)
+- [hw2.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/hw2/)
+- [hw1.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/hw1/)
+- [Exams](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/pages/assignments/)
+
+### Resource
+- [labsafety.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/labsafety/)
+- [IMG_1783.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1783/)
+- [IMG_1775.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1775/)
+- [IMG_1770.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1770/)
+- [IMG_1767.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1767/)
+- [IMG_1749.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1749/)
+- [IMG_1744.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1744/)
+- [IMG_1740.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1740/)
+- [IMG_1737.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1737/)
+- [IMG_1736.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1736/)
+- [IMG_1733.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1733/)
+- [IMG_1701.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1701/)
+- [IMG_1700.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1700/)
+- [IMG_1686.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1686/)
+- [IMG_1675.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1675/)
+- [IMG_1672.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1672/)
+- [IMG_1667.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1667/)
+- [IMG_1650.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1650/)
+- [IMG_1642.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1642/)
+- [IMG_1638.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1638/)
+- [IMG_1636.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1636/)
+- [IMG_1619.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1619/)
+- [IMG_1612.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1612/)
+- [IMG_1610.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1610/)
+- [IMG_1591.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1591/)
+- [IMG_1587.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1587/)
+- [IMG_1579.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1579/)
+- [IMG_1577.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1577/)
+- [IMG_1573.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1573/)
+- [IMG_1569.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1569/)
+- [IMG_1554.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1554/)
+- [IMG_1553.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1553/)
+- [IMG_1546.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1546/)
+- [IMG_1530.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/img_1530/)
+- [challenge_v2.pdf (.pdf)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/challenge_v2/)
+- [2-011s06.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/2-011s06/)
+- [2-011s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/resources/2-011s06-th/)
+- [Part 2](https://ocw.mit.edu/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/pages/labs/part-2/)
 ## Wikipedia Bridge
 
 ### Related Articles

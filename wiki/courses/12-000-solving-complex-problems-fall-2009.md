@@ -12,6 +12,9 @@ views: 228
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T16:52:12Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4643
 ---
 
 # Solving Complex Problems
@@ -31,9 +34,19 @@ type: "course"
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-000-solving-complex-problems-fall-2009/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-000-solving-complex-problems-fall-2009/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/12-000-solving-complex-problems-fall-2009/pages/assignments/)
+- [Wiki and Web Site Instructions ](https://ocw.mit.edu/courses/12-000-solving-complex-problems-fall-2009/pages/assignments/assn_web/)
+
+### Resource
+- [Introductory Lecture (.pdf)](https://ocw.mit.edu/courses/12-000-solving-complex-problems-fall-2009/resources/mit12_000f09_lec_intro/)
+- [Graph showing atmospheric carbon dioxide levels for the years of 1960-2010 (.jpg)](https://ocw.mit.edu/courses/12-000-solving-complex-problems-fall-2009/resources/12-000f09/)
 ## Wikipedia Bridge
 
 ### Related Articles

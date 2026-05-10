@@ -12,6 +12,9 @@ views: 3023
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T14:44:24Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 11, Reading-List: 2, Resource: 3, Syllabus: 1"
+api_id: 4762
 ---
 
 # Energy Economics
@@ -30,9 +33,29 @@ This course explores the theoretical and empirical perspectives on individual an
 
 ## Materials
 
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/14-44-energy-economics-spring-2007/pages/syllabus/)
 
+### Reading-List
+- [econometrics.pdf (.pdf)](https://ocw.mit.edu/courses/14-44-energy-economics-spring-2007/resources/econometrics/)
+- [Readings](https://ocw.mit.edu/courses/14-44-energy-economics-spring-2007/pages/readings/)
+
+### Problem-Set
+- [sol_ps5.pdf (.pdf)](https://ocw.mit.edu/courses/14-44-energy-economics-spring-2007/resources/sol_ps5/)
+- [sol_ps4.pdf (.pdf)](https://ocw.mit.edu/courses/14-44-energy-economics-spring-2007/resources/sol_ps4/)
+- [sol_ps3.pdf (.pdf)](https://ocw.mit.edu/courses/14-44-energy-economics-spring-2007/resources/sol_ps3/)
+- [sol_ps2.pdf (.pdf)](https://ocw.mit.edu/courses/14-44-energy-economics-spring-2007/resources/sol_ps2/)
+- [ps7.pdf (.pdf)](https://ocw.mit.edu/courses/14-44-energy-economics-spring-2007/resources/ps7/)
+- [ps6.pdf (.pdf)](https://ocw.mit.edu/courses/14-44-energy-economics-spring-2007/resources/ps6/)
+- [ps5.pdf (.pdf)](https://ocw.mit.edu/courses/14-44-energy-economics-spring-2007/resources/ps5/)
+- [ps4.pdf (.pdf)](https://ocw.mit.edu/courses/14-44-energy-economics-spring-2007/resources/ps4/)
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/14-44-energy-economics-spring-2007/resources/ps3/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/14-44-energy-economics-spring-2007/resources/ps2/)
+- [Assignments](https://ocw.mit.edu/courses/14-44-energy-economics-spring-2007/pages/assignments/)
+
+### Resource
+- [14-44s07.jpg (.jpg)](https://ocw.mit.edu/courses/14-44-energy-economics-spring-2007/resources/14-44s07/)
+- [14-44s07-th.jpg (.jpg)](https://ocw.mit.edu/courses/14-44-energy-economics-spring-2007/resources/14-44s07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

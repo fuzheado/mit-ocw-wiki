@@ -12,6 +12,9 @@ views: 1030
 completeness: 0.17500000000000002
 last_modified: "2026-05-06T14:51:51Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 10, Reading-List: 1, Resource: 16, Syllabus: 2"
+api_id: 4166
 ---
 
 # Advanced Soil Mechanics
@@ -30,8 +33,40 @@ This class presents the application of principles of soil mechanics. It consider
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [part_v_5.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_v_5/)
+- [part_v_4.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_v_4/)
+- [part_v_2.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_v_2/)
+- [part_iv_4.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_iv_4/)
+- [part_iv_3a.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_iv_3a/)
+- [part_iv_3.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_iv_3/)
+- [part_iv_2a.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_iv_2a/)
+- [part_iii_4.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_iii_4/)
+- [part_ii_1.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_ii_1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/pages/readings/)
+
+### Resource
+- [part_v_3.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_v_3/)
+- [part_v_1.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_v_1/)
+- [part_iv_7.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_iv_7/)
+- [part_iv_6.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_iv_6/)
+- [part_iv_5.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_iv_5/)
+- [part_iv_2.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_iv_2/)
+- [part_iv_1.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_iv_1/)
+- [part_iii_3.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_iii_3/)
+- [part_iii_2.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_iii_2/)
+- [part_iii_1.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_iii_1/)
+- [part_ii_2.pdf (.pdf)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/part_ii_2/)
+- [1-361f04.jpg (.jpg)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/1-361f04/)
+- [1-361f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/resources/1-361f04-th/)
+- [Study Materials](https://ocw.mit.edu/courses/1-361-advanced-soil-mechanics-fall-2004/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

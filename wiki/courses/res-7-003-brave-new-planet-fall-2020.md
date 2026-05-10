@@ -12,6 +12,9 @@ views: 283
 completeness: 0.0
 last_modified: "2026-05-06T17:07:13Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Resource: 2"
+api_id: 3597
 ---
 
 # Brave New Planet
@@ -33,8 +36,9 @@ Brave New Planet is a partnership between the Broad Institute, Pushkin Industrie
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [RES.7-003F20.gif (.gif)](https://ocw.mit.edu/courses/res-7-003-brave-new-planet-fall-2020/resources/res-7-003f20/)
+- [RES.7-003F20-th.gif (.gif)](https://ocw.mit.edu/courses/res-7-003-brave-new-planet-fall-2020/resources/res-7-003f20-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

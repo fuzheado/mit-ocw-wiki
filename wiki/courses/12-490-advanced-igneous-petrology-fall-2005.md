@@ -12,6 +12,9 @@ views: 427
 completeness: 0.0
 last_modified: "2026-05-06T17:12:05Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 1, Reading-List: 1, Resource: 14, Syllabus: 2"
+api_id: 4557
 ---
 
 # Advanced Igneous Petrology
@@ -30,8 +33,26 @@ Advanced Igneous Petrology covers the history of and recent developments in the 
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/12-490-advanced-igneous-petrology-fall-2005/pages/calendar/)
+- **Labs** — [🔗](https://ocw.mit.edu/courses/12-490-advanced-igneous-petrology-fall-2005/pages/labs/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-490-advanced-igneous-petrology-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-490-advanced-igneous-petrology-fall-2005/pages/readings/)
+
+### Resource
+- [undersat_lab4.pdf (.pdf)](https://ocw.mit.edu/courses/12-490-advanced-igneous-petrology-fall-2005/resources/undersat_lab4/)
+- [stillwater_lab7.pdf (.pdf)](https://ocw.mit.edu/courses/12-490-advanced-igneous-petrology-fall-2005/resources/stillwater_lab7/)
+- [sierras_lab6.pdf (.pdf)](https://ocw.mit.edu/courses/12-490-advanced-igneous-petrology-fall-2005/resources/sierras_lab6/)
+- [meteorite_lab9.pdf (.pdf)](https://ocw.mit.edu/courses/12-490-advanced-igneous-petrology-fall-2005/resources/meteorite_lab9/)
+- [magma_mixing_lb5.pdf (.pdf)](https://ocw.mit.edu/courses/12-490-advanced-igneous-petrology-fall-2005/resources/magma_mixing_lb5/)
+- [lab1aip.pdf (.pdf)](https://ocw.mit.edu/courses/12-490-advanced-igneous-petrology-fall-2005/resources/lab1aip/)
+- [aiplab2.pdf (.pdf)](https://ocw.mit.edu/courses/12-490-advanced-igneous-petrology-fall-2005/resources/aiplab2/)
+- [aip_lab_3_morb.pdf (.pdf)](https://ocw.mit.edu/courses/12-490-advanced-igneous-petrology-fall-2005/resources/aip_lab_3_morb/)
+- [12-490f05.jpg (.jpg)](https://ocw.mit.edu/courses/12-490-advanced-igneous-petrology-fall-2005/resources/12-490f05/)
+- [12-490f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/12-490-advanced-igneous-petrology-fall-2005/resources/12-490f05-th/)
+- [Study Materials](https://ocw.mit.edu/courses/12-490-advanced-igneous-petrology-fall-2005/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

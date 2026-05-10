@@ -12,6 +12,9 @@ views: 95
 completeness: 0.225
 last_modified: "2026-05-06T17:10:40Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 15, Problem-Set: 5, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3504
 ---
 
 # Atmospheric and Oceanic Modeling
@@ -30,10 +33,40 @@ The numerical methods, formulation and parameterizations used in models of the c
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [pz.m (.m)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/pz/)
+- [lec8.pdf (.pdf)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/lec8/)
+- [lec5.pdf (.pdf)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/lec5/)
+- [lec3.pdf (.pdf)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/lec3/)
+- [lec26.pdf (.pdf)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/lec26/)
+- [lec25.pdf (.pdf)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/lec25/)
+- [lec20.pdf (.pdf)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/lec20/)
+- [lec2.pdf (.pdf)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/lec2/)
+- [lec17.pdf (.pdf)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/lec17/)
+- [lec16.pdf (.pdf)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/lec16/)
+- [lec12.pdf (.pdf)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/lec12/)
+- [lec11.pdf (.pdf)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/lec11/)
+- [lec10.pdf (.pdf)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/lec10/)
+- [lec1.pdf (.pdf)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/pages/readings/)
+
+### Problem-Set
+- [ps2_answers.pdf (.pdf)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/ps2_answers/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/ps2/)
+- [ps1_answers.pdf (.pdf)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/ps1_answers/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/ps1/)
+- [Assignments](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/pages/assignments/)
+
+### Resource
+- [12-950s04.jpg (.jpg)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/12-950s04/)
+- [12-950s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/resources/12-950s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

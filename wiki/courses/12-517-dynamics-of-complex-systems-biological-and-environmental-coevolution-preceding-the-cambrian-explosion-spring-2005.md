@@ -12,6 +12,9 @@ views: 90
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:50:29Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 3800
 ---
 
 # Dynamics of Complex Systems: Biological and Environmental Coevolution Preceding the Cambrian Explosion
@@ -30,8 +33,21 @@ This seminar will focus on dynamical change in biogeochemical cycles accompanyin
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-biological-and-environmental-coevolution-preceding-the-cambrian-explosion-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-biological-and-environmental-coevolution-preceding-the-cambrian-explosion-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-biological-and-environmental-coevolution-preceding-the-cambrian-explosion-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-biological-and-environmental-coevolution-preceding-the-cambrian-explosion-spring-2005/pages/assignments/)
+
+### Resource
+- [Estaingia Cambrian (.jpg)](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-biological-and-environmental-coevolution-preceding-the-cambrian-explosion-spring-2005/resources/estaingiacambrian/)
+- [Apex Microfossils (.jpg)](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-biological-and-environmental-coevolution-preceding-the-cambrian-explosion-spring-2005/resources/chp_microfossils/)
+- [Fossils (.jpg)](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-biological-and-environmental-coevolution-preceding-the-cambrian-explosion-spring-2005/resources/12-517s05/)
+- [Fossils (thumbnail) (.jpg)](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-biological-and-environmental-coevolution-preceding-the-cambrian-explosion-spring-2005/resources/12-517s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

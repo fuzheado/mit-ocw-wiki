@@ -12,6 +12,8 @@ views: 29
 completeness: 0.13
 last_modified: "2026-05-06T17:03:58Z"
 type: course
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Reading-List: 1, Syllabus: 1"
 ---
 
 # Basics of Analysis with Antineutrinos from Heat Producing Elements - K, U, Th in the Earth
@@ -30,9 +32,17 @@ This course covers the following questions. What are the predominant heat produc
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-elements-k-u-th-in-the-earth-january-iap-2010/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-elements-k-u-th-in-the-earth-january-iap-2010/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-elements-k-u-th-in-the-earth-january-iap-2010/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-elements-k-u-th-in-the-earth-january-iap-2010/pages/assignments/)
 ## Wikipedia Bridge
 
 ### Related Articles

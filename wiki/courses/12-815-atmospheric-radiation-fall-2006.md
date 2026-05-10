@@ -12,6 +12,9 @@ views: 157
 completeness: 0.30000000000000004
 last_modified: "2026-05-06T17:16:17Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 12, Problem-Set: 10, Resource: 4, Syllabus: 2"
+api_id: 4480
 ---
 
 # Atmospheric Radiation
@@ -30,8 +33,39 @@ This is an introduction to the physics of atmospheric radiation and remote sensi
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [thermodynamic_concepts_of_radiation.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/thermodynamic_concepts_of_radiation/)
+- [thermo.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/thermo/)
+- [scattering.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/scattering/)
+- [remote_sensing.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/remote_sensing/)
+- [radiative_transf.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/radiative_transf/)
+- [overview.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/overview/)
+- [atmos_trans_emis.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/atmos_trans_emis/)
+- [absorption.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/absorption/)
+- [3sctg_rd_mol_prt.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/3sctg_rd_mol_prt/)
+- [2mod_atm_trns_em.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/2mod_atm_trns_em/)
+- [1_eq_radiative_transfer.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/1_eq_radiative_transfer/)
+- [Lecture Notes](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/pages/lecture-notes/)
+
+### Problem-Set
+- [remote_sens_exer.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/remote_sens_exer/)
+- [radiativ_transfr.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/radiativ_transfr/)
+- [radia_equil_exer.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/radia_equil_exer/)
+- [pcmodwin_exercis.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/pcmodwin_exercis/)
+- [multiple_scat_ex.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/multiple_scat_ex/)
+- [multi_scattering.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/multi_scattering/)
+- [mie_theory_exer.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/mie_theory_exer/)
+- [mie_theory.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/mie_theory/)
+- [hitran_exercise.pdf (.pdf)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/hitran_exercise/)
+- [Assignments](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/pages/assignments/)
+
+### Resource
+- [12-815f06.jpg (.jpg)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/12-815f06/)
+- [12-815f06-th.jpg (.jpg)](https://ocw.mit.edu/courses/12-815-atmospheric-radiation-fall-2006/resources/12-815f06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

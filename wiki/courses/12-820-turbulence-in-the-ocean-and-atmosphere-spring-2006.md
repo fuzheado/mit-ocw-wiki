@@ -12,6 +12,9 @@ views: 123
 completeness: 0.33166666666666667
 last_modified: "2026-05-06T14:42:09Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 23, Problem-Set: 7, Resource: 3, Syllabus: 1"
+api_id: 4155
 ---
 
 # Turbulence in the Ocean and Atmosphere
@@ -30,9 +33,46 @@ This course presents the phenomena, theory, and modeling of turbulence in the Ea
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [PsiQ.jpg (.jpg)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/psiq/)
+- [KeffPV.jpg (.jpg)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/keffpv/)
+- [Keff.jpg (.jpg)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/keff/)
+- [ch9.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/ch9/)
+- [ch8.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/ch8/)
+- [ch7.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/ch7/)
+- [ch6.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/ch6/)
+- [ch5.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/ch5/)
+- [ch4.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/ch4/)
+- [ch3.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/ch3/)
+- [ch2.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/ch2/)
+- [ch18.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/ch18/)
+- [ch17.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/ch17/)
+- [ch16.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/ch16/)
+- [ch15.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/ch15/)
+- [ch14.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/ch14/)
+- [ch13.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/ch13/)
+- [ch12.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/ch12/)
+- [ch11.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/ch11/)
+- [ch10.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/ch10/)
+- [ch1.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/ch1/)
+- [Lecture 14](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/pages/lecture-notes/lec14/)
+- [Lecture Notes](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/pages/lecture-notes/)
+
+### Problem-Set
+- [homework6.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/homework6/)
+- [homework5.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/homework5/)
+- [homework4.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/homework4/)
+- [homework3.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/homework3/)
+- [homework2.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/homework2/)
+- [homework1.pdf (.pdf)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/homework1/)
+- [Assignments](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/pages/assignments/)
+
+### Resource
+- [12-820s06.jpg (.jpg)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/12-820s06/)
+- [12-820s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/resources/12-820s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

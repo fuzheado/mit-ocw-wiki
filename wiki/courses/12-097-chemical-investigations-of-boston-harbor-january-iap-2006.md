@@ -12,6 +12,8 @@ views: 50
 completeness: 0.16833333333333333
 last_modified: "2026-05-06T14:50:25Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 2, Problem-Set: 1, Reading-List: 1, Syllabus: 2"
 ---
 
 # Chemical Investigations of Boston Harbor
@@ -31,9 +33,19 @@ This course is offered through The MIT/WHOI Joint Program. The MIT/WHOI Joint Pr
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/pages/lecture-notes/)
+- [Labs](https://ocw.mit.edu/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/pages/labs/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/pages/assignments/)
 ## Wikipedia Bridge
 
 ### Related Articles

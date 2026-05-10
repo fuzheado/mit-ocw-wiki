@@ -12,6 +12,9 @@ views: 175
 completeness: 0.0
 last_modified: "2026-05-06T16:57:09Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 3, Reading-List: 1, Resource: 6, Syllabus: 2, Video-Transcript: 3"
+api_id: 3765
 ---
 
 # Climate Change Seminar
@@ -30,8 +33,22 @@ This course provides a broad overview of issues related to climate change, with 
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Additional Resources** — [🔗](https://ocw.mit.edu/courses/6-s898-climate-change-seminar-fall-2019/pages/additional-resources/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-s898-climate-change-seminar-fall-2019/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-s898-climate-change-seminar-fall-2019/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/6-s898-climate-change-seminar-fall-2019/pages/readings/)
+
+### Assignment
+- [Student Projects](https://ocw.mit.edu/courses/6-s898-climate-change-seminar-fall-2019/pages/projects/student-projects/)
+- [Project Ideas](https://ocw.mit.edu/courses/6-s898-climate-change-seminar-fall-2019/pages/projects/project-ideas/)
+- [Projects](https://ocw.mit.edu/courses/6-s898-climate-change-seminar-fall-2019/pages/projects/)
+
+### Resource
+- [6-s898f19.jpg (.jpg)](https://ocw.mit.edu/courses/6-s898-climate-change-seminar-fall-2019/resources/6-s898f19/)
+- [6-s898f19-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-s898-climate-change-seminar-fall-2019/resources/6-s898f19-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

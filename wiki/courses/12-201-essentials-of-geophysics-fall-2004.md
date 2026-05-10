@@ -12,6 +12,9 @@ views: 572
 completeness: 0.16999999999999998
 last_modified: "2026-05-06T16:53:21Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 6, Problem-Set: 6, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 4603
 ---
 
 # Essentials of Geophysics
@@ -30,9 +33,35 @@ This course is designed to be a survey of the various subdisciplines of geophysi
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [ch5.pdf (.pdf)](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/resources/ch5/)
+- [ch4.pdf (.pdf)](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/resources/ch4/)
+- [ch3pdf.pdf (.pdf)](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/resources/ch3pdf/)
+- [ch2.pdf (.pdf)](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/resources/ch2/)
+- [ch1.pdf (.pdf)](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/resources/ch1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/pages/readings/)
+
+### Problem-Set
+- [hw5.pdf (.pdf)](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/resources/hw5/)
+- [hw4.pdf (.pdf)](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/resources/hw4/)
+- [hw3.pdf (.pdf)](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/resources/hw3/)
+- [hw2.pdf (.pdf)](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/resources/hw2/)
+- [hw1.pdf (.pdf)](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/resources/hw1/)
+- [Assignments](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/pages/assignments/)
+
+### Resource
+- [shdemo.m (.m)](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/resources/shdemo/)
+- [mltut.pdf (.pdf)](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/resources/mltut/)
+- [12-201f04.jpg (.jpg)](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/resources/12-201f04/)
+- [12-201f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/resources/12-201f04-th/)
+- [Tools](https://ocw.mit.edu/courses/12-201-essentials-of-geophysics-fall-2004/pages/tools/)
 ## Wikipedia Bridge
 
 ### Related Articles

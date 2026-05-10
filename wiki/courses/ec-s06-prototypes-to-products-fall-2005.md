@@ -12,6 +12,9 @@ views: 340
 completeness: 0.24333333333333337
 last_modified: "2026-05-06T14:57:27Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 6, Lecture-Notes: 7, Problem-Set: 8, Resource: 5, Syllabus: 2, Video-Transcript: 5"
+api_id: 4463
 ---
 
 # Prototypes to Products
@@ -30,12 +33,40 @@ For students and teams who have started a sustainable-development project in D-L
 
 ## Materials
 
-- [Design Assignments with Examples] Design Assignments with Examples
-- [Lecture Notes] Lecture Notes
-- [Other Video] Other Video
-- [Projects with Examples] Projects with Examples
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/pages/calendar/)
+- **Projects** — [🔗](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/pages/projects/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [Lesson plan, Prototypes to Products, week 9 (.pdf)](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/resources/mitec_s06f05_lp9_2/)
+- [Lesson plan, Prototypes to Products, week 8 (.pdf)](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/resources/mitec_s06f05_lp8_1/)
+- [Lesson plan, Prototypes to Products, week 7 (.pdf)](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/resources/mitec_s06f05_lp7_2/)
+- [Lesson plan, Prototypes to Products, week 6 (.pdf)](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/resources/mitec_s06f05_lp6_2/)
+- [Lesson plan, Prototypes to Products, Week 2 (.pdf)](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/resources/mitec_s06f05_lp2_2/)
+- [Lesson plan, Prototypes to Products, Day 1 (.pdf)](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/resources/mitec_s06f05_lp1_2/)
+- [Lecture Notes](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/pages/lecture-notes/)
+
+### Problem-Set
+- [Homework 7: Final Goals (.pdf)](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/resources/mitec_s06f05_hw7/)
+- [Homework 6: Videotape Destruction (.pdf)](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/resources/mitec_s06f05_hw6/)
+- [Homework 5: Updated Gantt Chart, Funding (.pdf)](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/resources/mitec_s06f05_hw5/)
+- [Homework 4: Pugh Charts, Selection Matrices (.pdf)](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/resources/mitec_s06f05_hw4/)
+- [Homework 3: Detailed Schedule (.pdf)](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/resources/mitec_s06f05_hw3/)
+- [Homework 2: Gantt Chart (.pdf)](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/resources/mitec_s06f05_hw2/)
+- [Homework 1: Goals for Semester (.pdf)](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/resources/mitec_s06f05_hw1/)
+- [Assignments](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/pages/assignments/)
+
+### Assignment
+- [sodis.jpg (.jpg)](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/resources/sodis/)
+- [MIT Design for Demining Mid-project Review Sheet (.pdf)](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/resources/mitec_s06f05_m2_review/)
+- [How would you allocate $1,000 among these projects? (.pdf)](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/resources/mitec_s06f05_final_grants/)
+- [project review 📺Video](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/pages/projects)
+
+### Resource
+- [ec-s06f05.jpg (.jpg)](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/resources/ec-s06f05/)
+- [ec-s06f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/resources/ec-s06f05-th/)
+- [Related Resources](https://ocw.mit.edu/courses/ec-s06-prototypes-to-products-fall-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

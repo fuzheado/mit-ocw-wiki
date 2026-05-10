@@ -12,6 +12,9 @@ views: 124
 completeness: 0.0
 last_modified: "2026-05-06T14:49:55Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 4, Problem-Set: 2, Reading-List: 2, Resource: 24, Syllabus: 2, Video-Transcript: 3"
+api_id: 4071
 ---
 
 # Changing Life: Reading the Intersections of Gender, Race, Biology, and Literature
@@ -41,8 +44,32 @@ This course was taught as part of the Consortium for Graduate Studies in Gender,
 
 ## Materials
 
-- [Projects] Projects
+### Lectures
+- **Bibliography** — [🔗](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/pages/bibliography/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/pages/calendar/)
+- **Exercises to Prepare** — [🔗](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/pages/syllabus/exercise-to-prepare/)
+- **Notes on Assignments** — [🔗](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/pages/syllabus/assignment-notes/)
+- **Project 1** — [🔗](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/pages/project-1/)
+- **Project 2** — [🔗](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/pages/project-2/)
+- **Project 3** — [🔗](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/pages/project-3/)
+- **Project 4** — [🔗](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/pages/project-4/)
+- **References** — [🔗](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/pages/project-3/references/) · [🔗](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/pages/project-1/references/)
+- **Sequence of Steps and Classes** — [🔗](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/pages/project-4/sequence/) · [🔗](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/pages/project-1/sequence/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/pages/syllabus/)
 
+### Resource
+- [wgs-700s17.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/resources/wgs-700s17/)
+- [wgs-700s17-th.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/resources/wgs-700s17-th/)
+- [Taylor.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/resources/taylor/)
+- [project2.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/resources/project2/)
+- [primate.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/resources/primate/)
+- [learn.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/resources/learn/)
+- [double_helix.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/resources/double_helix/)
+- [Campbell.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/resources/campbell/)
+- [Overview](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/pages/syllabus/overview/)
+- [Instructors](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/pages/syllabus/instructors/)
+- [Course Requirements and Assessment](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/pages/syllabus/course-requirements/)
+- [Class Routines](https://ocw.mit.edu/courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/pages/syllabus/class-routines/)
 ## Wikipedia Bridge
 
 ### Related Articles

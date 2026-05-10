@@ -12,6 +12,8 @@ views: 302
 completeness: 0.10333333333333335
 last_modified: "2026-05-06T17:01:15Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Problem-Set: 1, Reading-List: 1, Syllabus: 2"
 ---
 
 # Medical Geology/Geochemistry: An Exposure
@@ -30,9 +32,21 @@ This course introduces students to the basic concepts of Medical Geology/Geochem
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments with Examples] Written Assignments with Examples
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/pages/projects/)
 ## Wikipedia Bridge
 
 ### Related Articles

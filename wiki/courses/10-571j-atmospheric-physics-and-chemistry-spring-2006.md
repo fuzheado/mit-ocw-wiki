@@ -12,6 +12,9 @@ views: 494
 completeness: 0.1966666666666667
 last_modified: "2026-05-06T17:09:31Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 14, Problem-Set: 4, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4699
 ---
 
 # Atmospheric Physics and Chemistry
@@ -30,9 +33,39 @@ This course provides an introduction to the physics and chemistry of the atmosph
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [lec9.pdf (.pdf)](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/resources/lec9/)
+- [lec27.pdf (.pdf)](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/resources/lec27/)
+- [lec26.pdf (.pdf)](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/resources/lec26/)
+- [lec24.pdf (.pdf)](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/resources/lec24/)
+- [lec23.pdf (.pdf)](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/resources/lec23/)
+- [lec22.pdf (.pdf)](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/resources/lec22/)
+- [lec21.pdf (.pdf)](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/resources/lec21/)
+- [lec20.pdf (.pdf)](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/resources/lec20/)
+- [lec19.pdf (.pdf)](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/resources/lec19/)
+- [lec18.pdf (.pdf)](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/resources/lec18/)
+- [lec11.pdf (.pdf)](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/resources/lec11/)
+- [lec10.pdf (.pdf)](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/resources/lec10/)
+- [lec1.pdf (.pdf)](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/resources/lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/pages/readings/)
+
+### Problem-Set
+- [t_hm_exam.pdf (.pdf)](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/resources/t_hm_exam/)
+- [psn_2.pdf (.pdf)](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/resources/psn_2/)
+- [psn_1.pdf (.pdf)](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/resources/psn_1/)
+- [Assignments](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/pages/assignments/)
+
+### Resource
+- [10-571js06.jpg (.jpg)](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/resources/10-571js06/)
+- [10-571js06-th.jpg (.jpg)](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/resources/10-571js06-th/)
+- [Study Materials](https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

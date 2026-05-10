@@ -12,6 +12,9 @@ views: 59
 completeness: 0.0
 last_modified: "2026-05-06T17:01:47Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 6, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 3732
 ---
 
 # Biogeochemistry of Sulfur
@@ -30,8 +33,23 @@ This course is designed for advanced undergraduate and graduate students with an
 
 ## Materials
 
-- [Projects] Projects
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-491-biogeochemistry-of-sulfur-fall-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-491-biogeochemistry-of-sulfur-fall-2007/pages/readings/)
+
+### Assignment
+- [Sulfur Isotope Fractionation during the Thiosulfate Disproportionation Reaction (.pdf)](https://ocw.mit.edu/courses/12-491-biogeochemistry-of-sulfur-fall-2007/resources/sim/)
+- [Evaluating the importance of methanogenesis using noncompetitive substrates in wetlands impacted by sulfur pollution (.pdf)](https://ocw.mit.edu/courses/12-491-biogeochemistry-of-sulfur-fall-2007/resources/lincoln/)
+- [Proterozoic Sulfur Cycle: The Rise of Oxygen (.pdf)](https://ocw.mit.edu/courses/12-491-biogeochemistry-of-sulfur-fall-2007/resources/kelly/)
+- [Identifying the Existence and Extent of the Sulfidic Ocean at the PTB (.pdf)](https://ocw.mit.edu/courses/12-491-biogeochemistry-of-sulfur-fall-2007/resources/hays/)
+- [Phytoplankton, Climate and the Sulfur Cycle: Exploring the CLAW Hypothesis (.pdf)](https://ocw.mit.edu/courses/12-491-biogeochemistry-of-sulfur-fall-2007/resources/clayton/)
+- [Projects](https://ocw.mit.edu/courses/12-491-biogeochemistry-of-sulfur-fall-2007/pages/projects/)
+
+### Resource
+- [Origin of mass-dependent isotope effect (.jpg)](https://ocw.mit.edu/courses/12-491-biogeochemistry-of-sulfur-fall-2007/resources/12-491f07/)
+- [Origin of mass-dependent isotope effect (thumbnail) (.jpg)](https://ocw.mit.edu/courses/12-491-biogeochemistry-of-sulfur-fall-2007/resources/12-491f07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

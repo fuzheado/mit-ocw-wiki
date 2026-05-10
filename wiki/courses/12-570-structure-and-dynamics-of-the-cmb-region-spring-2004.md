@@ -12,6 +12,9 @@ views: 52
 completeness: 0.10833333333333334
 last_modified: "2026-05-06T16:56:38Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 2, Lecture-Notes: 13, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4741
 ---
 
 # Structure and Dynamics of the CMB Region
@@ -30,8 +33,35 @@ The Core Mantle Boundary (CMB) represents one of the most important physical and
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [lec9.pdf (.pdf)](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/resources/lec9/)
+- [lec8_1.pdf (.pdf)](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/resources/lec8_1/)
+- [lec7.pdf (.pdf)](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/resources/lec7/)
+- [lec6_1.pdf (.pdf)](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/resources/lec6_1/)
+- [lec5_3.pdf (.pdf)](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/resources/lec5_3/)
+- [lec5_2.pdf (.pdf)](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/resources/lec5_2/)
+- [lec5_1.pdf (.pdf)](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/resources/lec5_1/)
+- [lec4_2.pdf (.pdf)](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/resources/lec4_2/)
+- [lec3_2.pdf (.pdf)](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/resources/lec3_2/)
+- [lec2_1.pdf (.pdf)](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/resources/lec2_1/)
+- [lec1_2.pdf (.pdf)](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/resources/lec1_2/)
+- [lec1_1.pdf (.pdf)](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/resources/lec1_1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/pages/readings/)
+
+### Assignment
+- [questions.pdf (.pdf)](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/resources/questions/)
+- [Projects](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/pages/projects/)
+
+### Resource
+- [12-570s04.jpg (.jpg)](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/resources/12-570s04/)
+- [12-570s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/resources/12-570s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 79
 completeness: 0.05833333333333334
 last_modified: "2026-05-06T14:47:07Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 14, Lecture-Notes: 7, Resource: 7, Syllabus: 2, Video-Transcript: 1"
+api_id: 4457
 ---
 
 # Foshan China Workshop
@@ -30,10 +33,41 @@ This practicum focuses on applying the principles of sustainability to improve t
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments with Examples] Presentation Assignments with Examples
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [regional_context.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/regional_context/)
+- [mid_term_feed.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/mid_term_feed/)
+- [foshan_today.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/foshan_today/)
+- [case_study_urban.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/case_study_urban/)
+- [case_study_rest.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/case_study_rest/)
+- [case_study.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/case_study/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/pages/lecture-notes/)
+
+### Assignment
+- [transportation1.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/transportation1/)
+- [students.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/students/)
+- [midterm8_prog7.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/midterm8_prog7/)
+- [midterm8_prog6.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/midterm8_prog6/)
+- [midterm8_prog5.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/midterm8_prog5/)
+- [midterm8_prog4.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/midterm8_prog4/)
+- [midterm8_prog3.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/midterm8_prog3/)
+- [midterm8_prog2.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/midterm8_prog2/)
+- [midterm8_prog1.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/midterm8_prog1/)
+- [mid_trip_2.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/mid_trip_2/)
+- [mid_trip_1.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/mid_trip_1/)
+- [culture_open2.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/culture_open2/)
+- [culture_open1.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/culture_open1/)
+- [Projects](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/pages/projects/)
+
+### Resource
+- [mid_trip_4.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/mid_trip_4/)
+- [mid_trip_3.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/mid_trip_3/)
+- [11-952s04.jpg (.jpg)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/11-952s04/)
+- [11-952s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/resources/11-952s04-th/)
+- [Related Resources](https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

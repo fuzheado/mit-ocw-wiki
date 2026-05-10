@@ -12,6 +12,9 @@ views: 154
 completeness: 0.12833333333333335
 last_modified: "2026-05-06T17:10:14Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 13, Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 3832
 ---
 
 # Molecular Biogeochemistry
@@ -30,9 +33,33 @@ This course covers all aspects of molecular biosignatures, such as their pathway
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-158-molecular-biogeochemistry-fall-2011/pages/syllabus/)
 
+### Lecture-Notes
+- [MIT12_158F11_lec9.pdf (.pdf)](https://ocw.mit.edu/courses/12-158-molecular-biogeochemistry-fall-2011/resources/mit12_158f11_lec9/)
+- [MIT12_158F11_lec8.pdf (.pdf)](https://ocw.mit.edu/courses/12-158-molecular-biogeochemistry-fall-2011/resources/mit12_158f11_lec8/)
+- [MIT12_158F11_lec7.pdf (.pdf)](https://ocw.mit.edu/courses/12-158-molecular-biogeochemistry-fall-2011/resources/mit12_158f11_lec7/)
+- [MIT12_158F11_lec6.pdf (.pdf)](https://ocw.mit.edu/courses/12-158-molecular-biogeochemistry-fall-2011/resources/mit12_158f11_lec6/)
+- [MIT12_158F11_lec5.pdf (.pdf)](https://ocw.mit.edu/courses/12-158-molecular-biogeochemistry-fall-2011/resources/mit12_158f11_lec5/)
+- [MIT12_158F11_lec4.pdf (.pdf)](https://ocw.mit.edu/courses/12-158-molecular-biogeochemistry-fall-2011/resources/mit12_158f11_lec4/)
+- [MIT12_158F11_lec3.pdf (.pdf)](https://ocw.mit.edu/courses/12-158-molecular-biogeochemistry-fall-2011/resources/mit12_158f11_lec3/)
+- [MIT12_158F11_lec2.pdf (.pdf)](https://ocw.mit.edu/courses/12-158-molecular-biogeochemistry-fall-2011/resources/mit12_158f11_lec2/)
+- [MIT12_158F11_lec12.pdf (.pdf)](https://ocw.mit.edu/courses/12-158-molecular-biogeochemistry-fall-2011/resources/mit12_158f11_lec12/)
+- [MIT12_158F11_lec11.pdf (.pdf)](https://ocw.mit.edu/courses/12-158-molecular-biogeochemistry-fall-2011/resources/mit12_158f11_lec11/)
+- [MIT12_158F11_lec10.pdf (.pdf)](https://ocw.mit.edu/courses/12-158-molecular-biogeochemistry-fall-2011/resources/mit12_158f11_lec10/)
+- [Mass Spectrometry (.pdf)](https://ocw.mit.edu/courses/12-158-molecular-biogeochemistry-fall-2011/resources/mit12_158f11_lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/12-158-molecular-biogeochemistry-fall-2011/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-158-molecular-biogeochemistry-fall-2011/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/12-158-molecular-biogeochemistry-fall-2011/pages/assignments/)
+
+### Resource
+- [12-158f11.jpg (.jpg)](https://ocw.mit.edu/courses/12-158-molecular-biogeochemistry-fall-2011/resources/12-158f11/)
+- [12-158f11-th.jpg (.jpg)](https://ocw.mit.edu/courses/12-158-molecular-biogeochemistry-fall-2011/resources/12-158f11-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

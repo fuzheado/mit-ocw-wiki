@@ -12,6 +12,9 @@ views: 295
 completeness: 0.0
 last_modified: "2026-05-06T14:46:48Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 3870
 ---
 
 # Regional Energy-Environmental Economic Modeling
@@ -30,8 +33,17 @@ This subject is on regional energy-environmental modeling rather than on general
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-942-regional-energy-environmental-economic-modeling-spring-2007/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-942-regional-energy-environmental-economic-modeling-spring-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-942-regional-energy-environmental-economic-modeling-spring-2007/pages/readings/)
+
+### Resource
+- [Climate Models (.jpg)](https://ocw.mit.edu/courses/11-942-regional-energy-environmental-economic-modeling-spring-2007/resources/chp_can_had/)
+- [Sources of Energy (.jpg)](https://ocw.mit.edu/courses/11-942-regional-energy-environmental-economic-modeling-spring-2007/resources/11-942s07/)
+- [Sources of Energy (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-942-regional-energy-environmental-economic-modeling-spring-2007/resources/11-942s07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

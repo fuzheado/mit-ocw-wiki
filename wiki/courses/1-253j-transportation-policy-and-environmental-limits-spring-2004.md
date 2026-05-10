@@ -12,6 +12,9 @@ views: 124
 completeness: 0.18000000000000002
 last_modified: "2026-05-06T15:02:25Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 12, Problem-Set: 4, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4081
 ---
 
 # Transportation Policy and Environmental Limits
@@ -30,9 +33,37 @@ Through a combination of lectures, cases, and class discussions this subject exa
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [lec7joe.pdf (.pdf)](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/resources/lec7joe/)
+- [lec7fred.pdf (.pdf)](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/resources/lec7fred/)
+- [lec6soniahamel.pdf (.pdf)](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/resources/lec6soniahamel/)
+- [lec6fred.pdf (.pdf)](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/resources/lec6fred/)
+- [lec5joe.pdf (.pdf)](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/resources/lec5joe/)
+- [lec5fred.pdf (.pdf)](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/resources/lec5fred/)
+- [lec4joe.pdf (.pdf)](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/resources/lec4joe/)
+- [lec4fred.pdf (.pdf)](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/resources/lec4fred/)
+- [lec3joe.pdf (.pdf)](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/resources/lec3joe/)
+- [lec3fred.pdf (.pdf)](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/resources/lec3fred/)
+- [lec2joe.pdf (.pdf)](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/resources/lec2joe/)
+- [Lecture Notes](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/pages/readings/)
+
+### Problem-Set
+- [assn3.pdf (.pdf)](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/resources/assn3/)
+- [assn1notes.pdf (.pdf)](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/resources/assn1notes/)
+- [assn1.pdf (.pdf)](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/resources/assn1/)
+- [Assignments](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/pages/assignments/)
+
+### Resource
+- [1-253js04.jpg (.jpg)](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/resources/1-253js04/)
+- [1-253js04-th.jpg (.jpg)](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/resources/1-253js04-th/)
+- [Related Resources](https://ocw.mit.edu/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 49
 completeness: 0.0
 last_modified: "2026-05-06T16:49:49Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 1, Image-Gallery: 1, Reading-List: 1, Resource: 16, Syllabus: 2"
+api_id: 4569
 ---
 
 # Geodynamics Seminar
@@ -32,8 +35,31 @@ The approach taken for the 2001 Plume-Ridge Interactions Seminar series was to s
 
 ## Materials
 
-- [Image Gallery] Image Gallery
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/12-753-geodynamics-seminar-spring-2001/pages/calendar/)
+- **Image Gallery** — [🔗](https://ocw.mit.edu/courses/12-753-geodynamics-seminar-spring-2001/pages/image-gallery/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-753-geodynamics-seminar-spring-2001/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-753-geodynamics-seminar-spring-2001/pages/readings/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/12-753-geodynamics-seminar-spring-2001/pages/projects/)
+
+### Resource
+- [chp_lava_creek.jpg (.jpg)](https://ocw.mit.edu/courses/12-753-geodynamics-seminar-spring-2001/resources/chp_lava_creek/)
+- [12-753s01.jpg (.jpg)](https://ocw.mit.edu/courses/12-753-geodynamics-seminar-spring-2001/resources/12-753s01/)
+- [12-753s01-th.jpg (.jpg)](https://ocw.mit.edu/courses/12-753-geodynamics-seminar-spring-2001/resources/12-753s01-th/)
+- [10.jpg (.jpg)](https://ocw.mit.edu/courses/12-753-geodynamics-seminar-spring-2001/resources/10/)
+- [09.jpg (.jpg)](https://ocw.mit.edu/courses/12-753-geodynamics-seminar-spring-2001/resources/09/)
+- [08.jpg (.jpg)](https://ocw.mit.edu/courses/12-753-geodynamics-seminar-spring-2001/resources/08/)
+- [07.jpg (.jpg)](https://ocw.mit.edu/courses/12-753-geodynamics-seminar-spring-2001/resources/07/)
+- [06.jpg (.jpg)](https://ocw.mit.edu/courses/12-753-geodynamics-seminar-spring-2001/resources/06/)
+- [05.jpg (.jpg)](https://ocw.mit.edu/courses/12-753-geodynamics-seminar-spring-2001/resources/05/)
+- [04.jpg (.jpg)](https://ocw.mit.edu/courses/12-753-geodynamics-seminar-spring-2001/resources/04/)
+- [03.jpg (.jpg)](https://ocw.mit.edu/courses/12-753-geodynamics-seminar-spring-2001/resources/03/)
+- [02.jpg (.jpg)](https://ocw.mit.edu/courses/12-753-geodynamics-seminar-spring-2001/resources/02/)
+- [01.jpg (.jpg)](https://ocw.mit.edu/courses/12-753-geodynamics-seminar-spring-2001/resources/01/)
 ## Wikipedia Bridge
 
 ### Related Articles

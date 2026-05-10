@@ -12,6 +12,9 @@ views: 2977
 completeness: 0.0
 last_modified: "2026-05-06T16:55:29Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Resource: 4, Syllabus: 2"
+api_id: 4692
 ---
 
 # Introduction to Computational Thinking
@@ -31,10 +34,13 @@ Upon completion, students are well trained to be scientific “trilinguals,” s
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Problem Sets] Problem Sets
-- [Programming Assignments] Programming Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2022/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2022/pages/syllabus/)
 
+### Resource
+- [18-S191f22.jpg (.jpg)](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2022/resources/18-s191f22/)
+- [18-S191f22-th.jpg (.jpg)](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2022/resources/18-s191f22-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

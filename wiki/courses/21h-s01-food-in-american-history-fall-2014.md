@@ -12,6 +12,9 @@ views: 305
 completeness: 0.16000000000000003
 last_modified: "2026-05-06T17:11:50Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 8, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 3568
 ---
 
 # Food in American History
@@ -30,8 +33,26 @@ This course will explore food in modern American history as a story of industria
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-s01-food-in-american-history-fall-2014/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-s01-food-in-american-history-fall-2014/pages/readings/)
+
+### Problem-Set
+- [Some Tips for Writing History Papers (.pdf)](https://ocw.mit.edu/courses/21h-s01-food-in-american-history-fall-2014/resources/mit21h_s01f14_tip_for_wri/)
+- [Sugar Six Ways (.pdf)](https://ocw.mit.edu/courses/21h-s01-food-in-american-history-fall-2014/resources/mit21h_s01f14_su_6wa_ins/)
+- [Research Paper Assignment: Part 1 (.pdf)](https://ocw.mit.edu/courses/21h-s01-food-in-american-history-fall-2014/resources/mit21h_s01f14_guidpart_1/)
+- [Research Paper Assignment: Parts 2 and 3 (.pdf)](https://ocw.mit.edu/courses/21h-s01-food-in-american-history-fall-2014/resources/mit21h_s01f14_guidpar2and3/)
+- [Molecular Gastronomy with a Modern Retelling (.pdf)](https://ocw.mit.edu/courses/21h-s01-food-in-american-history-fall-2014/resources/mit21h_s01f14_finpa-molga/)
+- [Enjoying America’s Drink: The Shift from Saloon to Residence (.pdf)](https://ocw.mit.edu/courses/21h-s01-food-in-american-history-fall-2014/resources/mit21h_s01f14_fin_pa_beer/)
+- [Spam: Marketing an Identity (.pdf)](https://ocw.mit.edu/courses/21h-s01-food-in-american-history-fall-2014/resources/mit21h_s01f14_fin_pa-spam/)
+- [Assignments](https://ocw.mit.edu/courses/21h-s01-food-in-american-history-fall-2014/pages/assignments/)
+
+### Resource
+- [Snack Cakes (.jpg)](https://ocw.mit.edu/courses/21h-s01-food-in-american-history-fall-2014/resources/21h-s01f14/)
+- [Snack Cakes (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21h-s01-food-in-american-history-fall-2014/resources/21h-s01f14-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21h-s01-food-in-american-history-fall-2014/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

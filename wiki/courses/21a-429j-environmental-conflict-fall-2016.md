@@ -12,6 +12,9 @@ views: 124
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:10:11Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3945
 ---
 
 # Environmental Conflict
@@ -30,8 +33,19 @@ This course explores the complex interrelationships among humans and natural env
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-429j-environmental-conflict-fall-2016/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-429j-environmental-conflict-fall-2016/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21a-429j-environmental-conflict-fall-2016/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21a-429j-environmental-conflict-fall-2016/pages/assignments/)
+
+### Resource
+- [21A-429Jf16.jpg (.jpg)](https://ocw.mit.edu/courses/21a-429j-environmental-conflict-fall-2016/resources/21a-429jf16/)
+- [21A-429Jf16-th.jpg (.jpg)](https://ocw.mit.edu/courses/21a-429j-environmental-conflict-fall-2016/resources/21a-429jf16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

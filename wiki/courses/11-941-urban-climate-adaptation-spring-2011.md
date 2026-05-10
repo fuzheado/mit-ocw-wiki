@@ -12,6 +12,9 @@ views: 258
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:11:06Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Image-Gallery: 1, Problem-Set: 2, Reading-List: 1, Resource: 9, Syllabus: 2"
+api_id: 3790
 ---
 
 # Urban Climate Adaptation
@@ -31,11 +34,24 @@ This course examines the challenges that cities will face and strategies they ca
 
 ## Materials
 
-- [Image Gallery] Image Gallery
-- [Media Assignments with Examples] Media Assignments with Examples
-- [Projects with Examples] Projects with Examples
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-941-urban-climate-adaptation-spring-2011/pages/calendar/)
+- **Image Gallery** — [🔗](https://ocw.mit.edu/courses/11-941-urban-climate-adaptation-spring-2011/pages/image-gallery/)
+- **Student Work** — [🔗](https://ocw.mit.edu/courses/11-941-urban-climate-adaptation-spring-2011/pages/assignments/student-work/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-941-urban-climate-adaptation-spring-2011/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-941-urban-climate-adaptation-spring-2011/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-941-urban-climate-adaptation-spring-2011/pages/assignments/)
+
+### Resource
+- [A photo of a cluster of floating homes that are built on a flood plain in Peru (.jpg)](https://ocw.mit.edu/courses/11-941-urban-climate-adaptation-spring-2011/resources/village/)
+- [A built up town in an arid valley surrounded by mountains (.jpg)](https://ocw.mit.edu/courses/11-941-urban-climate-adaptation-spring-2011/resources/valley/)
+- [A network of pipes criss-cross the outside of a building (.jpg)](https://ocw.mit.edu/courses/11-941-urban-climate-adaptation-spring-2011/resources/pipes2/)
+- [An urban garden overlooks apartment buildings (.jpg)](https://ocw.mit.edu/courses/11-941-urban-climate-adaptation-spring-2011/resources/garden/)
+- [Related Resources](https://ocw.mit.edu/courses/11-941-urban-climate-adaptation-spring-2011/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles
