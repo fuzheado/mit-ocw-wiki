@@ -531,8 +531,11 @@ def update_page(slug: str, assets: list):
             tag = format_tag(url, text)
             if url not in seen:
                 seen.add(url)
-                fmt_parts.append(f"[{tag}]({url})")
-        fmt_str = " · ".join(fmt_parts)
+                fmt_parts.append((tag, url))
+        # Sort: icons in canonical order, then numerically by part number
+        icon_order = {"🎬": 0, "⬇": 1, "📄": 2, "🔗": 3}
+        fmt_parts.sort(key=lambda x: (icon_order.get(x[0][:1], 99), x[0]))
+        fmt_str = " · ".join(f"[{tag}]({url})" for tag, url in fmt_parts)
         group_lines.append(f"- **{label}** — {fmt_str}")
 
     # Step 3: Render the full materials section
