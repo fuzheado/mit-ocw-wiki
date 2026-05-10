@@ -157,7 +157,7 @@ The wikilink format `[[slug|Course Number Title]]` makes entries clickable in Wi
 
 ## Video Detection Patterns
 
-The deep scan detects video content using these patterns:
+The deep scan detects video content using these patterns, in order of specificity:
 
 | Pattern | Detects | Badge |
 |---------|---------|-------|
@@ -165,17 +165,12 @@ The deep scan detects video content using these patterns:
 | `youtube.com/embed` / `youtu.be` / `youtube.com/watch` | YouTube embeds | 🎬YouTube |
 | `.mp4` / `video/mp4` / `video/webm` | Direct MP4 files | 📺Video |
 | `class="video"` in HTML | Video embed elements | 📺Video |
+| `img.youtube.com/vi/{id}/default.jpg` | YouTube video thumbnails (galleries without clickable links) | 🎬YouTube |
 | External links to dropbox.com, vimeo.com, panopto.com, kaltura.com, zoom.us, archive.org | Off-platform video hosts | 🎬YouTube / 📺Video |
 
 **Legacy video galleries:** For older courses (pre-2015), all lectures are listed on a single gallery page rather than individual sub-pages. The deep scan detects these inline listings and extracts each lecture title as a separate Video-Transcript asset.
 
-## Rich Metadata Extraction
-
-When deep-scanning sub-pages, the script extracts two additional metadata sources:
-
-1. **Page title** from `<title>` tag — The first segment before "|" is used as the asset label. This typically provides a much richer description than the sidebar navigation text (e.g., "Lecture 1" → "Lecture 1: The Importance of Chemical Principles").
-
-2. **Description** from `og:description` or `<meta name="description">` — Extracted for future Wikipedia matchmaking. Provides contextual keywords describing the page content.
+**JavaScript-loaded galleries:** Modern OCW courses (2024+) often use JavaScript to load video galleries. The HTML may contain zero clickable YouTube links but dozens of `img.youtube.com/vi/{id}/default.jpg` thumbnail references. The deep scan extracts YouTube IDs from these thumbnails to construct direct video links.
 
 ## Asset Type Mapping
 
@@ -190,13 +185,21 @@ When using `--api` mode, the script maps the API's `content_feature_type` to wik
 | Readings, Reading Lists, Open Textbooks | Reading-List |
 | Instructor Insights, Activity Assignments, Image Gallery | Resource / Image-Gallery |
 
+**Video type override:** API content files with empty `content_feature_type` are checked for video indicators directly — if they have a `youtube_id`, `content_type == "video"`, or `file_extension` of `.mp4`/`.webm`, they are classified as Video-Transcript regardless. This catches files the API indexed without proper type tags (e.g., 17 videos in 1.258J were missing their feature type).
+
+## API Readable ID Format
+
+The API uses uppercase course IDs. The `course_id` in wiki frontmatter may be lowercase (e.g., `"21h.151"`), but the API expects uppercase (`"21H.151"`). The `--hybrid` and `--api` modes uppercase the course_id before constructing the `readable_id` parameter: `{COURSE_ID}+{semester}_{year}`.
+
 ## Hybrid Merge Logic
 
 The `--hybrid` mode runs both API and deep scans, then merges:
 
 1. Start with API results (authoritative file data with YouTube IDs, descriptions)
-2. Run deep scan to discover sidebar pages (Syllabus, Calendar, etc.)
-3. For each sidebar page:
+2. Run deep scan to discover sidebar pages AND external video links
+3. External videos (YouTube, Dropbox, etc.) are separated from sidebar pages by checking URL prefixes first — YouTube URLs have fewer slashes than OCW sidebar URLs, so the check must be ordered correctly
+4. For each sidebar page:
    - If its URL isn't in the API results, add it directly
    - If its URL IS in the API results but was typed as generic "Resource", replace with the deep scan's more specific type (e.g., "Syllabus", "Reading-List")
-4. If the API returns no data (new/unindexed course), fall back to full deep scan results
+5. For each external video not already covered by the API, add it as a Video-Transcript asset
+6. If the API returns no data (new/unindexed course), fall back to full deep scan results
