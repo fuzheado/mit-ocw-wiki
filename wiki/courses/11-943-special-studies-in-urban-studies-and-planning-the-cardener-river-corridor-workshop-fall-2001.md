@@ -12,6 +12,9 @@ views: 102
 completeness: 0.05
 last_modified: "2026-05-06T17:23:09Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 7, Resource: 17, Syllabus: 2"
+api_id: 5405
 ---
 
 # Special Studies in Urban Studies and Planning - The Cardener River Corridor Workshop
@@ -30,9 +33,34 @@ This landscape and environmental planning workshop investigates and propose a fr
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments with Examples] Presentation Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/pages/calendar/)
+- **Presentations** — [🔗](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/pages/presentations/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/pages/syllabus/)
 
+### Lecture-Notes
+- [riversegm.pdf (.pdf)](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/resources/riversegm/)
+- [principle.pdf (.pdf)](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/resources/principle/)
+- [planmodel.pdf (.pdf)](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/resources/planmodel/)
+- [guidprin.pdf (.pdf)](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/resources/guidprin/)
+- [cultland.pdf (.pdf)](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/resources/cultland/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/pages/lecture-notes/)
+
+### Resource
+- [watershed.pdf (.pdf)](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/resources/watershed/)
+- [smallfina.pdf (.pdf)](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/resources/smallfina/)
+- [roadnetwo.pdf (.pdf)](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/resources/roadnetwo/)
+- [riverpark.pdf (.pdf)](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/resources/riverpark/)
+- [miningreh.pdf (.pdf)](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/resources/miningreh/)
+- [midgroup3.pdf (.pdf)](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/resources/midgroup3/)
+- [midgroup2.pdf (.pdf)](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/resources/midgroup2/)
+- [midgroup1.pdf (.pdf)](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/resources/midgroup1/)
+- [midassign.pdf (.pdf)](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/resources/midassign/)
+- [landuseur.pdf (.pdf)](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/resources/landuseur/)
+- [ecology.pdf (.pdf)](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/resources/ecology/)
+- [11-943f01.jpg (.jpg)](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/resources/11-943f01/)
+- [11-943f01-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/resources/11-943f01-th/)
+- [Case Studies](https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/pages/case-studies/)
 ## Wikipedia Bridge
 
 ### Related Articles

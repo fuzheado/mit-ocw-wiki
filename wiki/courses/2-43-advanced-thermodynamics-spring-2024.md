@@ -12,6 +12,9 @@ views: 5591
 completeness: 0.8
 last_modified: "2026-05-06T17:12:53Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 28, Problem-Set: 7, Resource: 20, Syllabus: 2, Video-Transcript: 64"
+api_id: 16417
 ---
 
 # Advanced Thermodynamics
@@ -30,9 +33,33 @@ This course is a self-contained concise review of general thermodynamics concept
 
 ## Materials
 
-### Syllabus
-- [Syllabus](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/pages/syllabus/)
-- [Calendar](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/pages/calendar/)
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/pages/calendar/)
+- **Lecture 10: Review of Various Forms of Exergy (Part II); Allocation of Consumptions in Cogeneration** — [🎬](https://youtu.be/B_eVgSQhFqI) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/lists/lecture-notes/)
+- **Lecture 11: Allocation in Hybrid Power Production; Chemical Potentials and Partial Pressures** — [🎬](https://youtu.be/Ly6C1oQP7Os) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/lists/lecture-notes/)
+- **Lecture 12: Ideal Mixture Behavior; Work from Reversible Mixing; Entropy of Irreversible Mixing** — [🎬](https://youtu.be/Uh70L7Pr4Jk) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/lists/lecture-notes/)
+- **Lecture 13: The Gibbs Paradox; Shannon Information Entropy; Single Quantum Particle in a Box** — [🎬](https://youtu.be/RbAjBxvCsAU) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/video_galleries/lecture-videos/)
+- **Lecture 14: Ideal Solution Model; Osmotic Pressure; Blue Energy; Minimum Work of Separation** — [🎬](https://youtu.be/kQw9eXq25yc) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/lists/lecture-notes/)
+- **Lecture 15: Stratification in Gas and Liquid Mixtures; Liquid-Vapor Spinodal Decomposition** — [🎬](https://youtu.be/2Q5ZFIms9Bo) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/lists/lecture-notes/)
+- **Lecture 16: Liquid-Vapor Equilibria in Mixtures; Ideal and Excess Chemical Potentials** — [🎬](https://youtu.be/RIeeEJglO10) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/lists/lecture-notes/)
+- **Lecture 17: Liquid-Liquid Spinodal Decomposition; Introduction to Systems with Chemical Reactions** — [🎬](https://youtu.be/EW2hjUFRWZ0) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/lists/lecture-notes/)
+- **Lecture 18: Properties of Reaction; Heating Values and Exergy of Fuels; Adiabatic Flame Temperature** — [🎬](https://youtu.be/4xVsIV4zhvI) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/lists/lecture-notes/)
+- **Lecture 19: Affinity and Nonequilibrium Law of Mass Action; Potential Energy Surface** — [🎬](https://youtu.be/IbYdMkYn-20) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/lists/lecture-notes/)
+- **Lecture 1: Definitions of System, Property, State, and Weight Process; First Law and Energy** — [🎬](https://youtu.be/unTWUTwum1s) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/video_galleries/lecture-videos/)
+- **Lecture 20: Chemical Kinetics; The Arrhenius Law; Degree of Disequilibrium; Principle of Detailed Balance** — [🎬](https://youtu.be/KQxKaC1YU60) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/lists/lecture-notes/)
+- **Lecture 21: Introduction to Nonequilibrium Theory; Onsager Reciprocity and Maximum Entropy Production** — [🎬](https://youtu.be/lmYzkVOfuqs) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/lists/lecture-notes/)
+- **Lecture 23: Direct and Cross Effects; General Principles of Entropy Production; The Fourth Law** — [🎬](https://youtu.be/M7cl1Zi5YYE) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/lists/lecture-notes/)
+- **Lecture 24: Relative Diffusion Fluxes; Thermoelectric Effects** — [🎬](https://youtu.be/bRPsUr0T5wc) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/lists/lecture-notes/)
+- **Lecture 25: Thermodiffusive Effects; Multicomponent Transport** — [🎬](https://youtu.be/N8S-wV3Ggyo) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/lists/lecture-notes/)
+- **Lecture 2: Second Law and Entropy; Adiabatic Availability; Maximum Entropy Principle** — [🎬](https://youtu.be/NKi3EuS5foY) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/video_galleries/lecture-videos/)
+- **Lecture 3: Energy vs Entropy Diagrams to Represent Equilibrium and Nonequilibrium States** — [🎬](https://youtu.be/lf5XeIy21ns) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/video_galleries/lecture-videos/)
+- **Lecture 4: Temperature, Pressure, Chemical Potentials; the Clausius Statement of the Second Law** — [🎬](https://youtu.be/eQe0zaJRwgM) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/video_galleries/lecture-videos/)
+- **Lecture 5: Definition of Heat Interaction; First and Second Law Efficiencies** — [🎬](https://youtu.be/Vn--WpmhFS4) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/video_galleries/lecture-videos/)
+- **Lecture 6: Free Energies, Available Energies, and Stability Conditions** — [🎬](https://youtu.be/K7gCCLUBSA8) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/video_galleries/lecture-videos/)
+- **Lecture 7: Availability Functions and the LeChatelier-Braun Principle** — [🎬](https://youtu.be/qTGGSVjEBUw) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/video_galleries/lecture-videos/)
+- **Lecture 8: Few versus Many Particles: The Euler Relation; Review of Various Forms of Exergy (Part I)** — [🎬](https://youtu.be/DAI8bMHITno) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/video_galleries/lecture-videos/)
+- **Lecture 9: Minimum Work of Partitioning Small Systems; The Gibbs Phase Rule; The Van der Waals Model** — [🎬](https://youtu.be/zVaeqsDzXzU) · [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/video_galleries/lecture-videos/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/pages/syllabus/)
 
 ### Lecture-Notes
 - [2.43 S24 Abstracts of Lecture Contents with Hyperlinks to Slides and Video Timestamps (.pdf)](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/resources/mit2_43_s24_toc_slides_pdf/)
@@ -63,36 +90,6 @@ This course is a self-contained concise review of general thermodynamics concept
 - [2.43 S24 Lecture 01: Definitions of System, Property, State, and Weight Process; First Law and Energy (.pdf)](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/resources/mit2_43_s24_lec01_pdf/)
 - [2.43 S24 Analytical Index with Hyperlinks to Slides and Video Timestamps (.pdf)](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/resources/mit2_43_s24_index_slides_pdf/)
 - [Lecture Slides](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/lists/lecture-notes/)
-
-### Video-Transcript
-- [Lecture 25: Thermodiffusive Effects; Multicomponent Transport (.mp4) 🎬YouTube 📺Video](https://youtu.be/N8S-wV3Ggyo)
-- [Lecture 24: Relative Diffusion Fluxes; Thermoelectric Effects (.mp4) 🎬YouTube 📺Video](https://youtu.be/bRPsUr0T5wc)
-- [Lecture 23: Direct and Cross Effects; General Principles of Entropy Production; The Fourth Law (.mp4) 🎬YouTube 📺Video](https://youtu.be/M7cl1Zi5YYE)
-- [Lecture 22: Definition of “Heat&Diffusion” Interaction; Diffusive and Convective Fluxes (.mp4) 🎬YouTube 📺Video](https://youtu.be/df0jCMI04WU)
-- [Lecture 21: Introduction to Nonequilibrium Theory; Onsager Reciprocity and Maximum Entropy Production (.mp4) 🎬YouTube 📺Video](https://youtu.be/lmYzkVOfuqs)
-- [Lecture 20: Chemical Kinetics; The Arrhenius Law; Degree of Disequilibrium; Principle of Detailed Balance (.mp4) 🎬YouTube 📺Video](https://youtu.be/KQxKaC1YU60)
-- [Lecture 19: Affinity and Nonequilibrium Law of Mass Action; Potential Energy Surface (.mp4) 🎬YouTube 📺Video](https://youtu.be/IbYdMkYn-20)
-- [Lecture 18: Properties of Reaction; Heating Values and Exergy of Fuels; Adiabatic Flame Temperature (.mp4) 🎬YouTube 📺Video](https://youtu.be/4xVsIV4zhvI)
-- [Lecture 17: Liquid-Liquid Spinodal Decomposition; Introduction to Systems with Chemical Reactions (.mp4) 🎬YouTube 📺Video](https://youtu.be/EW2hjUFRWZ0)
-- [Lecture 16: Liquid-Vapor Equilibria in Mixtures; Ideal and Excess Chemical Potentials (.mp4) 🎬YouTube 📺Video](https://youtu.be/RIeeEJglO10)
-- [Lecture 15: Stratification in Gas and Liquid Mixtures; Liquid-Vapor Spinodal Decomposition (.mp4) 🎬YouTube 📺Video](https://youtu.be/2Q5ZFIms9Bo)
-- [Lecture 14: Ideal Solution Model; Osmotic Pressure; Blue Energy; Minimum Work of Separation (.mp4) 🎬YouTube 📺Video](https://youtu.be/kQw9eXq25yc)
-- [Lecture 13: The Gibbs Paradox; Shannon Information Entropy; Single Quantum Particle in a Box (.mp4) 🎬YouTube 📺Video](https://youtu.be/RbAjBxvCsAU)
-- [Lecture 12: Ideal Mixture Behavior; Work from Reversible Mixing; Entropy of Irreversible Mixing (.mp4) 🎬YouTube 📺Video](https://youtu.be/Uh70L7Pr4Jk)
-- [Lecture 11: Allocation in Hybrid Power Production; Chemical Potentials and Partial Pressures (.mp4) 🎬YouTube 📺Video](https://youtu.be/Ly6C1oQP7Os)
-- [Lecture 10: Review of Various Forms of Exergy (Part II); Allocation of Consumptions in Cogeneration (.mp4) 🎬YouTube 📺Video](https://youtu.be/B_eVgSQhFqI)
-- [Lecture 9: Minimum Work of Partitioning Small Systems; The Gibbs Phase Rule; The Van der Waals Model (.mp4) 🎬YouTube 📺Video](https://youtu.be/zVaeqsDzXzU)
-- [Lecture 8: Few versus Many Particles: The Euler Relation; Review of Various Forms of Exergy (Part I) (.mp4) 🎬YouTube 📺Video](https://youtu.be/DAI8bMHITno)
-- [Lecture 7: Availability Functions and the LeChatelier-Braun Principle (.mp4) 🎬YouTube 📺Video](https://youtu.be/qTGGSVjEBUw)
-- [Lecture 6: Free Energies, Available Energies, and Stability Conditions (.mp4) 🎬YouTube 📺Video](https://youtu.be/K7gCCLUBSA8)
-- [Lecture 5: Definition of Heat Interaction; First and Second Law Efficiencies (.mp4) 🎬YouTube 📺Video](https://youtu.be/Vn--WpmhFS4)
-- [Lecture 4: Temperature, Pressure, Chemical Potentials; the Clausius Statement of the Second Law (.mp4) 🎬YouTube 📺Video](https://youtu.be/eQe0zaJRwgM)
-- [Lecture 3: Energy vs Entropy Diagrams to Represent Equilibrium and Nonequilibrium States (.mp4) 🎬YouTube 📺Video](https://youtu.be/lf5XeIy21ns)
-- [Lecture 2: Second Law and Entropy; Adiabatic Availability; Maximum Entropy Principle (.mp4) 🎬YouTube 📺Video](https://youtu.be/NKi3EuS5foY)
-- [Lecture 1: Definitions of System, Property, State, and Weight Process; First Law and Energy (.mp4) 🎬YouTube 📺Video](https://youtu.be/unTWUTwum1s)
-- [0 Abstracts of Lecture Contents with Hyperlinks to Video Timestamps and Slides (.pdf)](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/resources/mit2_43_s24_toc_videos_pdf/)
-- [0 Analytical Index with Hyperlinks to Video Timestamps and Slides (.pdf)](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/resources/mit2_43_s24_index_videos_pdf/)
-- [Lecture Videos 📺Video](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/video_galleries/lecture-videos/)
 
 ### Problem-Set
 - [2.43 S24 Q4: Fourth Take-Home Quiz (.pdf)](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/resources/mit2_43_s24_quiz4_pdf/)

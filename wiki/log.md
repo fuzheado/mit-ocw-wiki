@@ -393,3 +393,199 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-10 03:31] asset-scan | Hybrid scanned [[ec-719-d-lab-water-climate-change-and-health-spring-2019|EC.719 D-Lab: Water, Climate Change, and Health]] (71 assets: 44 API + 23 pages)
 
 ## [2026-05-10 03:31] asset-scan | Hybrid scanned [[14-44-energy-economics-spring-2007|14.44 Energy Economics]] (17 assets: 16 API + 3 pages)
+
+## [2026-05-10 03:31] asset-scan | Hybrid scanned [[11-165-infrastructure-and-energy-technology-challenges-fall-2011|11.165 Infrastructure and Energy Technology Challenges]] (38 assets: 36 API + 7 pages)
+
+## [2026-05-10 03:31] asset-scan | Hybrid scanned [[2-611-marine-power-and-propulsion-fall-2006|2.611 Marine Power and Propulsion]] (81 assets: 80 API + 6 pages)
+
+## [2026-05-10 03:31] asset-scan | Hybrid scanned [[22-091-nuclear-reactor-safety-spring-2008|22.091 Nuclear Reactor Safety]] (82 assets: 68 API + 12 pages)
+
+## [2026-05-10 03:31] asset-scan | Hybrid scanned [[22-033-nuclear-systems-design-project-fall-2011|22.033 Nuclear Systems Design Project]] (78 assets: 53 API + 22 pages)
+
+## [2026-05-10 03:31] asset-scan | Hybrid scanned [[4-401-introduction-to-building-technology-spring-2006|4.401 Introduction to Building Technology]] (49 assets: 47 API + 6 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[4-430-daylighting-spring-2012|4.430 Daylighting]] (36 assets: 34 API + 5 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[11-165j-urban-energy-systems-and-policy-fall-2022|11.165J Urban Energy Systems and Policy]] (77 assets: 40 API + 37 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[22-812j-managing-nuclear-technology-spring-2004|22.812J Managing Nuclear Technology]] (56 assets: 53 API + 7 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[2-61-internal-combustion-engines-spring-2017|2.61 Internal Combustion Engines]] (67 assets: 64 API + 9 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[res-ec-003-d-lab-student-showcases-spring-2022|RES.EC-003 D-Lab Student Showcases]] (2 assets: 2 API + 0 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006|22.314J Structural Mechanics in Nuclear Power Technology]] (80 assets: 79 API + 6 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006|STS.038 Energy and Environment in American History: 1705-2005]] (15 assets: 14 API + 5 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[22-39-integration-of-reactor-design-operations-and-safety-fall-2006|22.39 Integration of Reactor Design, Operations, and Safety]] (61 assets: 60 API + 5 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011|6.007 Electromagnetic Energy: From Motors to Lasers]] (143 assets: 135 API + 6 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[2-627-fundamentals-of-photovoltaics-fall-2013|2.627 Fundamentals of Photovoltaics]] (102 assets: 66 API + 29 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007|ESD.04J Frameworks and Models in Engineering Systems / Engineering System Design]] (39 assets: 37 API + 6 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[4-411-building-technology-laboratory-spring-2004|4.411 Building Technology Laboratory]] (38 assets: 35 API + 5 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[11-s955-the-sustainability-response-to-covid-19-january-iap-2021|11.S955 The Sustainability Response to COVID-19]] (5 assets: 0 API + 0 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[res-11-550-leveraging-urban-mobility-disruptions-to-create-better-cities-spring-2021|RES.11-550 Leveraging Urban Mobility Disruptions to Create Better Cities]] (2 assets: 2 API + 0 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[6-701-introduction-to-nanoelectronics-spring-2010|6.701 Introduction to Nanoelectronics]] (23 assets: 21 API + 5 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[2-57-nano-to-macro-transport-processes-spring-2012|2.57 Nano-to-Macro Transport Processes]] (78 assets: 25 API + 32 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[res-env-004-mit-climate-portal-fall-2020|RES.ENV-004 MIT Climate Portal]] (3 assets: 2 API + 1 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[3-53-electrochemical-processing-of-materials-spring-2001|3.53 Electrochemical Processing of Materials]] (22 assets: 20 API + 4 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[18-s191-introduction-to-computational-thinking-fall-2020|18.S191 Introduction to Computational Thinking]] (69 assets: 8 API + 4 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[4-401-environmental-technologies-in-buildings-fall-2018|4.401 Environmental Technologies in Buildings]] (36 assets: 33 API + 5 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[8-s271-nuclear-weapons-history-and-future-prospects-spring-2022|8.S271 Nuclear Weapons – History and Future Prospects]] (2 assets: 2 API + 0 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[6-685-electric-machines-fall-2013|6.685 Electric Machines]] (52 assets: 49 API + 6 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[8-21-the-physics-of-energy-fall-2009|8.21 The Physics of Energy]] (18 assets: 17 API + 3 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[22-313j-thermal-hydraulics-in-power-technology-spring-2007|22.313J Thermal Hydraulics in Power Technology]] (45 assets: 44 API + 4 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[res-2-008-thermodynamics-and-climate-change-summer-2020|RES.2-008 Thermodynamics and Climate Change]] (38 assets: 35 API + 5 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015|22.S902 Do-It-Yourself (DIY) Geiger Counters]] (14 assets: 0 API + 0 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[6-691-seminar-in-electric-power-systems-spring-2006|6.691 Seminar in Electric Power Systems]] (27 assets: 26 API + 5 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[2-500-desalination-and-water-purification-spring-2009|2.500 Desalination and Water Purification]] (45 assets: 43 API + 5 pages)
+
+## [2026-05-10 03:32] asset-scan | Hybrid scanned [[res-2-006-girls-who-build-cameras-summer-2016|RES.2-006 Girls Who Build Cameras]] (119 assets: 102 API + 18 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[15-031j-energy-decisions-markets-and-policies-spring-2012|15.031J Energy Decisions, Markets, and Policies]] (80 assets: 54 API + 30 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[res-8-008-nuclear-weapons-education-project-spring-2022|RES.8-008 Nuclear Weapons Education Project]] (8 assets: 6 API + 2 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[21h-207-the-energy-crisis-past-and-present-fall-2010|21H.207 The Energy Crisis: Past and Present]] (70 assets: 9 API + 63 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002|2.24 Ocean Wave Interaction with Ships and Offshore Energy Systems (13.022)]] (76 assets: 74 API + 7 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010|IDS.505J Engineering, Economics and Regulation of the Electric Power Sector]] (46 assets: 42 API + 7 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[15-023j-global-climate-change-economics-science-and-policy-spring-2008|15.023J Global Climate Change: Economics, Science, and Policy]] (35 assets: 34 API + 4 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[6-s079-nanomaker-spring-2013|6.S079 Nanomaker]] (69 assets: 54 API + 6 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[2-60j-fundamentals-of-advanced-energy-conversion-spring-2020|2.60J Fundamentals of Advanced Energy Conversion]] (46 assets: 44 API + 6 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[ec-711-d-lab-energy-spring-2011|EC.711 D-Lab: Energy]] (81 assets: 34 API + 26 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[11-333-urban-design-seminar-spring-2016|11.333 Urban Design Seminar]] (8 assets: 6 API + 4 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006|22.921 Nuclear Power Plant Dynamics and Control]] (4 assets: 0 API + 0 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[1-033-mechanics-of-material-systems-an-energy-approach-fall-2003|1.033 Mechanics of Material Systems: An Energy Approach]] (29 assets: 27 API + 5 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[res-1-001-project-evaluation-essays-and-case-studies-fall-2023|RES.1-001 Project Evaluation: Essays and Case Studies]] (61 assets: 57 API + 4 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[res-14-003-the-roosevelt-project-spring-2023|RES.14-003 The Roosevelt Project]] (3 assets: 3 API + 0 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[res-env-005-climate-science-risk-solutions-a-climate-primer|RES.ENV-005 Climate Science, Risk & Solutions: A Climate Primer]] (3 assets: 0 API + 0 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[6-622-power-electronics-spring-2023|6.622 Power Electronics]] (209 assets: 124 API + 122 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[11-350-sustainable-real-estate-spring-2023|11.350 Sustainable Real Estate]] (108 assets: 41 API + 68 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[2-43-advanced-thermodynamics-spring-2024|2.43 Advanced Thermodynamics]] (121 assets: 79 API + 57 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[res-env-007-geothermal-energy-networks-transforming-our-thermal-energy-system-january-iap-2025|RES.ENV-007 Geothermal Energy Networks: Transforming Our Thermal Energy System]] (88 assets: 0 API + 0 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[res-env-008-climate-environment-and-sustainability-infusion-fellowship-cesif-spring-2025|RES.ENV-008 Climate, Environment, and Sustainability Infusion Fellowship (CESIF)]] (57 assets: 57 API + 4 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[res-11-003-climate-justice-instructional-toolkit-spring-2025|RES.11-003 Climate Justice Instructional Toolkit]] (41 assets: 34 API + 7 pages)
+
+## [2026-05-10 03:33] asset-scan | Hybrid scanned [[1-76-aquatic-chemistry-fall-2005|1.76 Aquatic Chemistry]] (33 assets: 31 API + 6 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004|1.963 Environmental Engineering Applications of Geographic Information Systems]] (33 assets: 29 API + 6 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007|11.479J Water and Sanitation Infrastructure in Developing Countries]] (29 assets: 26 API + 6 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[10-805j-technology-law-and-the-working-environment-spring-2006|10.805J Technology, Law, and the Working Environment]] (8 assets: 6 API + 4 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[1-731-water-resource-systems-fall-2006|1.731 Water Resource Systems]] (34 assets: 32 API + 5 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[1-34-waste-containment-and-remediation-technology-spring-2004|1.34 Waste Containment and Remediation Technology]] (52 assets: 50 API + 6 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-363-civil-society-and-the-environment-spring-2005|11.363 Civil Society and the Environment]] (70 assets: 65 API + 9 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005|1.101 Introduction to Civil and Environmental Engineering Design I]] (26 assets: 24 API + 5 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-959-reforming-natural-resources-governance-failings-of-scientific-rationalism-and-alternatives-for-building-common-ground-january-iap-2007|11.959 Reforming Natural Resources Governance: Failings of Scientific Rationalism and Alternatives for Building Common Ground]] (4 assets: 0 API + 0 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006|11.362 Environmental Management Practicum: Brownfield Redevelopment]] (8 assets: 6 API + 3 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006|11.375 Role of Science and Scientists in Collaborative Approaches to Environmental Policymaking]] (10 assets: 8 API + 5 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005|11.479 Water and Sanitation Infrastructure Planning in Developing Countries]] (40 assets: 34 API + 10 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-945-katrina-practicum-spring-2006|11.945 Katrina Practicum]] (66 assets: 59 API + 10 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[1-782-environmental-engineering-masters-of-engineering-project-fall-2007-spring-2008|1.782 Environmental Engineering Masters of Engineering Project]] (4 assets: 0 API + 0 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[4-313-advanced-studio-on-the-production-of-space-fall-2016|4.313 Advanced Studio on the Production of Space]] (23 assets: 12 API + 9 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004|10.492-1 Integrated Chemical Engineering Topics I: Process Control by Design]] (29 assets: 27 API + 5 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[1-964-design-for-sustainability-fall-2006|1.964 Design for Sustainability]] (37 assets: 35 API + 7 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-366j-planning-for-sustainable-development-spring-2006|11.366J Planning for Sustainable Development]] (14 assets: 12 API + 6 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004|12.802 Wave Motions in the Ocean and Atmosphere]] (88 assets: 86 API + 4 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[1-061-transport-processes-in-the-environment-fall-2008|1.061 Transport Processes in the Environment]] (106 assets: 103 API + 6 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-122-environment-and-society-fall-2002|11.122 Environment and Society]] (13 assets: 11 API + 4 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004|1.782 Environmental Engineering Masters of Engineering Project]] (4 assets: 0 API + 0 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-952-gaoming-studio-china-spring-2005|11.952 Gaoming Studio - China]] (14 assets: 12 API + 5 pages)
+
+## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004|11.942 Use of Joint Fact Finding in Science Intensive Policy Disputes, Part II]] (26 assets: 24 API + 5 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[1-017-computing-and-data-analysis-for-environmental-applications-fall-2003|1.017 Computing and Data Analysis for Environmental Applications]] (90 assets: 87 API + 8 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-s196-global-freshwater-crisis-spring-2011|11.S196 Global Freshwater Crisis]] (12 assets: 5 API + 8 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-382-water-diplomacy-spring-2021|11.382 Water Diplomacy]] (28 assets: 18 API + 11 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006|1.101 Introduction to Civil and Environmental Engineering Design I]] (39 assets: 37 API + 6 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003|11.941 Use of Joint Fact Finding in Science Intensive Policy Disputes, Part I]] (17 assets: 12 API + 5 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001|11.943 Special Studies in Urban Studies and Planning - The Cardener River Corridor Workshop]] (26 assets: 23 API + 5 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[1-63-advanced-fluid-dynamics-of-the-environment-fall-2002|1.63 Advanced Fluid Dynamics of the Environment]] (83 assets: 81 API + 5 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[1-77-water-quality-control-spring-2006|1.77 Water Quality Control]] (30 assets: 28 API + 6 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[12-812-general-circulation-of-the-earths-atmosphere-fall-2005|12.812 General Circulation of the Earth's Atmosphere]] (25 assets: 23 API + 5 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[10-491-integrated-chemical-engineering-ii-spring-2006|10.491 Integrated Chemical Engineering II]] (23 assets: 22 API + 4 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[12-090-the-environment-of-the-earths-surface-spring-2007|12.090 The Environment of the Earth's Surface]] (21 assets: 19 API + 3 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[esd-123j-systems-perspectives-on-industrial-ecology-spring-2006|ESD.123J Systems Perspectives on Industrial Ecology]] (24 assets: 22 API + 5 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[1-85-water-and-wastewater-treatment-engineering-spring-2006|1.85 Water and Wastewater Treatment Engineering]] (89 assets: 87 API + 7 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[introduction-to-r-and-gis-fall-2023|RES.1-002 Introduction to R and Geographic Information Systems (GIS)]] (30 assets: 17 API + 4 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012|RES.TLL-002 STAR: Software Tools for Academics and Researchers]] (2 assets: 2 API + 0 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004|11.947 New Century Cities: Real Estate, Digital Technology, and Design]] (43 assets: 38 API + 8 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003|11.439 Revitalizing Urban Main Streets: Mission Hill & Egleston Square, Boston]] (24 assets: 22 API + 5 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[4-42j-fundamentals-of-energy-in-buildings-fall-2010|4.42J Fundamentals of Energy in Buildings]] (27 assets: 25 API + 5 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009|11.439 Revitalizing Urban Main Streets: St. Claude Avenue, New Orleans]] (24 assets: 22 API + 6 pages)

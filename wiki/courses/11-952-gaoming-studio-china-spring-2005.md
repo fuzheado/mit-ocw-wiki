@@ -12,6 +12,9 @@ views: 195
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:23:38Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 6, Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5145
 ---
 
 # Gaoming Studio - China
@@ -30,8 +33,27 @@ The studio will focus on the district of Gaoming, located in the northwest of th
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-952-gaoming-studio-china-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-952-gaoming-studio-china-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-952-gaoming-studio-china-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-952-gaoming-studio-china-spring-2005/pages/assignments/)
+
+### Assignment
+- [chapter5.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-gaoming-studio-china-spring-2005/resources/chapter5/)
+- [chapter4.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-gaoming-studio-china-spring-2005/resources/chapter4/)
+- [chapter3.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-gaoming-studio-china-spring-2005/resources/chapter3/)
+- [chapter2.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-gaoming-studio-china-spring-2005/resources/chapter2/)
+- [chapter1.pdf (.pdf)](https://ocw.mit.edu/courses/11-952-gaoming-studio-china-spring-2005/resources/chapter1/)
+- [Projects](https://ocw.mit.edu/courses/11-952-gaoming-studio-china-spring-2005/pages/projects/)
+
+### Resource
+- [11-952s05.jpg (.jpg)](https://ocw.mit.edu/courses/11-952-gaoming-studio-china-spring-2005/resources/11-952s05/)
+- [11-952s05-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-952-gaoming-studio-china-spring-2005/resources/11-952s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

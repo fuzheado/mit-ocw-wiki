@@ -12,6 +12,9 @@ views: 220
 completeness: 0.4716666666666667
 last_modified: "2026-05-06T17:10:16Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 11, Problem-Set: 12, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5544
 ---
 
 # Water Quality Control
@@ -30,10 +33,43 @@ The course material emphasizes mathematical models for predicting distribution a
 
 ## Materials
 
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [chapter9lecture.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/chapter9lecture/)
+- [chapter8lecture.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/chapter8lecture/)
+- [chapter7lecture.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/chapter7lecture/)
+- [chapter6lecture.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/chapter6lecture/)
+- [chapter5lecture.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/chapter5lecture/)
+- [chapter4lecture.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/chapter4lecture/)
+- [chapter3lecture.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/chapter3lecture/)
+- [chapter2lecture.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/chapter2lecture/)
+- [chapter1lecture.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/chapter1lecture/)
+- [chapter10lecture.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/chapter10lecture/)
+- [Lecture Notes](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/pages/readings/)
+
+### Problem-Set
+- [quiz2.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/quiz2/)
+- [pset8.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/pset8/)
+- [pset7.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/pset7/)
+- [pset6.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/pset6/)
+- [pset5.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/pset5/)
+- [pset4.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/pset4/)
+- [pset3.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/pset3/)
+- [pset2.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/pset2/)
+- [pset1.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/pset1/)
+- [final.pdf (.pdf)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/final/)
+- [Exams](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/pages/assignments/)
+
+### Resource
+- [1-77s06.jpg (.jpg)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/1-77s06/)
+- [1-77s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/1-77-water-quality-control-spring-2006/resources/1-77s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

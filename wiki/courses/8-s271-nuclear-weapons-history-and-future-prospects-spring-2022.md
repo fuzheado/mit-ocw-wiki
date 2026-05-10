@@ -12,6 +12,9 @@ views: 202
 completeness: 0.0
 last_modified: "2026-05-06T16:56:49Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Resource: 2"
+api_id: 5101
 ---
 
 # Nuclear Weapons – History and Future Prospects
@@ -31,8 +34,9 @@ The course was taught by an MIT Iterdisciplinary team coordinated by Robert P. R
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [8-S271S22.jpg (.jpg)](https://ocw.mit.edu/courses/8-s271-nuclear-weapons-history-and-future-prospects-spring-2022/resources/8-s271s22/)
+- [8-S271S22-th.jpg (.jpg)](https://ocw.mit.edu/courses/8-s271-nuclear-weapons-history-and-future-prospects-spring-2022/resources/8-s271s22-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 4846
 completeness: 0.16666666666666669
 last_modified: "2026-05-06T17:10:15Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Resource: 9, Video-Transcript: 21"
+api_id: 13963
 ---
 
 # Introduction to R and Geographic Information Systems (GIS)
@@ -30,9 +33,18 @@ The goal of these videos is to provide students with tools and concepts for work
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Programming Assignments] Programming Assignments
+### Lectures
+- **About the Videos** — [🔗](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/pages/about-the-practical-sessions/)
 
+### Resource
+- [Res.1-002-GIS-2a-Key-Concepts_transcript.pdf (.pdf)](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/resources/res1-002-gis-2a-key-concepts_transcript_pdf/)
+- [Res.1-002-GIS-2a-Key-Concepts_captions.vtt (.vtt)](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/resources/res1-002-gis-2a-key-concepts_captions_vtt/)
+- [mitres_1_002_f23.jpg (.jpg)](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/resources/mitres_1_002_f23_jpg/)
+- [2. GIS script.R (.r)](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/resources/2-gis-script_r/)
+- [1. Intro to R.R (.r)](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/resources/1-intro-to-r_r/)
+- [Related Files](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/pages/related-files/)
+- [Introduction to R 📺Video](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/video_galleries/introduction-to-r/)
+- [Introduction to GIS 📺Video](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/video_galleries/introduction-to-gis/)
 ## Wikipedia Bridge
 
 ### Related Articles

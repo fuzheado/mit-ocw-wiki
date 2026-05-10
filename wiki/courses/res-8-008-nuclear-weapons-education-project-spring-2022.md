@@ -12,6 +12,9 @@ views: 330
 completeness: 0.0
 last_modified: "2026-05-06T14:47:04Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Resource: 6, Video-Transcript: 2"
+api_id: 5490
 ---
 
 # Nuclear Weapons Education Project
@@ -30,9 +33,14 @@ The MIT Nuclear Weapons Education Project aims to teach individuals, particularl
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Podcasts] Podcasts
+### Lectures
+- **Instructor Insights** — [📄](https://ocw.mit.edu/courses/res-8-008-nuclear-weapons-education-project-spring-2022/_Y-G8sTTYsg_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/res-8-008-nuclear-weapons-education-project-spring-2022/pages/instructor-insights/)
 
+### Resource
+- [The Greatest Existential Threat with Prof. Robert Redwine and Dr. Jim Walsh transcript (.pdf)](https://ocw.mit.edu/courses/res-8-008-nuclear-weapons-education-project-spring-2022/resources/_y-g8sttysg_transcript/)
+- [The Greatest Existential Threat with Prof. Robert Redwine and Dr. Jim Walsh captions (.webvtt)](https://ocw.mit.edu/courses/res-8-008-nuclear-weapons-education-project-spring-2022/resources/_y-g8sttysg_captions/)
+- [res-8-008s22.gif (.gif)](https://ocw.mit.edu/courses/res-8-008-nuclear-weapons-education-project-spring-2022/resources/res-8-008s22/)
+- [res-8-008s22-th.gif (.gif)](https://ocw.mit.edu/courses/res-8-008-nuclear-weapons-education-project-spring-2022/resources/res-8-008s22-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

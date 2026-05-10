@@ -12,6 +12,9 @@ views: 4035
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:24:40Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 1, Resource: 8, Syllabus: 1, Video-Transcript: 59"
+api_id: 4960
 ---
 
 # Introduction to Computational Thinking
@@ -30,9 +33,19 @@ This is an introductory course on computational thinking. We use the Julia progr
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Problem Sets] Problem Sets
+### Lectures
+- **Course Materials** — [🔗](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/pages/course-materials/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/pages/assignments/)
+
+### Resource
+- [18-S191f22.jpg (.jpg)](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/resources/18-s191f22/)
+- [18-S191f22-th.jpg (.jpg)](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/resources/18-s191f22-th/)
+- [18.S191 Course Home Page Image (.jpg)](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/resources/18-s191f20/)
+- [18.S191 Thumbnail Image (.jpg)](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/resources/18-s191f20-th/)
+- [Resources for Working in Julia](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/pages/resources-for-working-in-julia/)
 ## Wikipedia Bridge
 
 ### Related Articles

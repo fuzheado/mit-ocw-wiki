@@ -12,6 +12,9 @@ views: 116
 completeness: 0.0
 last_modified: "2026-05-06T17:05:57Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 1, Reading-List: 2, Resource: 3, Syllabus: 2, Video-Transcript: 4"
+api_id: 5180
 ---
 
 # Global Freshwater Crisis
@@ -30,9 +33,16 @@ For the first time in history, the global demand for freshwater is overtaking it
 
 ## Materials
 
-- [Projects] Projects
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-s196-global-freshwater-crisis-spring-2011/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/11-s196-global-freshwater-crisis-spring-2011/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-s196-global-freshwater-crisis-spring-2011/pages/syllabus/)
 
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/11-s196-global-freshwater-crisis-spring-2011/pages/projects/)
+
+### Resource
+- [An elephant and woman sharing water in India (.jpg)](https://ocw.mit.edu/courses/11-s196-global-freshwater-crisis-spring-2011/resources/11-s196s11/)
 ## Wikipedia Bridge
 
 ### Related Articles

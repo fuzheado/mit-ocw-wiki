@@ -12,6 +12,9 @@ views: 401
 completeness: 0.4
 last_modified: "2026-05-06T16:47:48Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 18, Reading-List: 3, Resource: 4, Syllabus: 2"
+api_id: 3502
 ---
 
 # Fundamentals of Energy in Buildings
@@ -30,12 +33,38 @@ This design-based subject provides a first course in energy and thermo-sciences 
 
 ## Materials
 
-- [Design Assignments] Design Assignments
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
-- [Problem Sets] Problem Sets
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/pages/syllabus/)
 
+### Reading-List
+- [Air Water Vapor Mixtures: Psychrometrics (.pdf)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/mit4_42jf10_water_vapor/)
+- [MIT4_42JF10_heat.pdf (.pdf)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/mit4_42jf10_heat/)
+- [Readings](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/pages/readings/)
+
+### Problem-Set
+- [MIT4_42JF10_quiz02_sol.pdf (.pdf)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/mit4_42jf10_quiz02_sol/)
+- [MIT4_42JF10_quiz02_2005.pdf (.pdf)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/mit4_42jf10_quiz02_2005/)
+- [MIT4_42JF10_quiz02.pdf (.pdf)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/mit4_42jf10_quiz02/)
+- [MIT4_42JF10_quiz01_sol.pdf (.pdf)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/mit4_42jf10_quiz01_sol/)
+- [MIT4_42JF10_quiz01_2006.pdf (.pdf)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/mit4_42jf10_quiz01_2006/)
+- [Quiz 1 (.pdf)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/mit4_42jf10_quiz01/)
+- [MIT4_42JF10_project_sw.pdf (.pdf)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/mit4_42jf10_project_sw/)
+- [MIT4_42JF10_project.pdf (.pdf)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/mit4_42jf10_project/)
+- [MIT4_42JF10_final08.pdf (.pdf)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/mit4_42jf10_final08/)
+- [MIT4_42JF10_assn07.pdf (.pdf)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/mit4_42jf10_assn07/)
+- [MIT4_42JF10_assn06.pdf (.pdf)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/mit4_42jf10_assn06/)
+- [MIT4_42JF10_assn05.pdf (.pdf)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/mit4_42jf10_assn05/)
+- [MIT4_42JF10_assn04.pdf (.pdf)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/mit4_42jf10_assn04/)
+- [MIT4_42JF10_assn03.pdf (.pdf)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/mit4_42jf10_assn03/)
+- [MIT4_42JF10_assn02.pdf (.pdf)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/mit4_42jf10_assn02/)
+- [Homework Set #1 (.pdf)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/mit4_42jf10_assn01/)
+- [Exams](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/pages/assignments/)
+
+### Resource
+- [4-42jf10.jpg (.jpg)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/4-42jf10/)
+- [4-42jf10-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/resources/4-42jf10-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 899
 completeness: 0.56
 last_modified: "2026-05-06T16:47:38Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 9, Lecture-Notes: 24, Problem-Set: 10, Resource: 4, Syllabus: 2"
+api_id: 3488
 ---
 
 # Introduction to Building Technology
@@ -30,11 +33,62 @@ The course aims at providing a fundamental understanding of the physics related 
 
 ## Materials
 
-- [Exams] Exams
-- [Image Gallery] Image Gallery
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [lec9.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec9/)
+- [lec8.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec8/)
+- [lec7.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec7/)
+- [lec6.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec6/)
+- [lec5.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec5/)
+- [lec4.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec4/)
+- [lec3.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec3/)
+- [lec23.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec23/)
+- [lec22.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec22/)
+- [lec21.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec21/)
+- [lec20.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec20/)
+- [lec2.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec2/)
+- [lec19.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec19/)
+- [lec18.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec18/)
+- [lec17.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec17/)
+- [lec16.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec16/)
+- [lec15.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec15/)
+- [lec14.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec14/)
+- [lec13.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec13/)
+- [lec12.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec12/)
+- [lec11.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec11/)
+- [lec10.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec10/)
+- [lec1.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/pages/lecture-notes/)
+
+### Problem-Set
+- [quiz1.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/quiz1/)
+- [hw7.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/hw7/)
+- [hw6.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/hw6/)
+- [hw5.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/hw5/)
+- [hw4.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/hw4/)
+- [hw3.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/hw3/)
+- [hw2.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/hw2/)
+- [hw1.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/hw1/)
+- [Exams](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/pages/assignments/)
+
+### Assignment
+- [selection.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/selection/)
+- [notes.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/notes/)
+- [milestones.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/milestones/)
+- [kresge.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/kresge/)
+- [carpente_thermal.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/carpente_thermal/)
+- [carpent_lighting.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/carpent_lighting/)
+- [baker_thermal.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/baker_thermal/)
+- [baker_lighting.pdf (.pdf)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/baker_lighting/)
+- [Projects](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/pages/projects/)
+
+### Resource
+- [chp_street.jpg (.jpg)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/chp_street/)
+- [4-401s06.jpg (.jpg)](https://ocw.mit.edu/courses/4-401-introduction-to-building-technology-spring-2006/resources/4-401s06/)
 ## Wikipedia Bridge
 
 ### Related Articles

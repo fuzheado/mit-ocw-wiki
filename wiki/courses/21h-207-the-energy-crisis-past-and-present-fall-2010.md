@@ -12,6 +12,9 @@ views: 125
 completeness: 0.1
 last_modified: "2026-05-06T14:58:54Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 5, Resource: 5, Syllabus: 1, Video-Transcript: 59"
+api_id: 5524
 ---
 
 # The Energy Crisis: Past and Present
@@ -30,8 +33,20 @@ This course will explore how Americans have confronted energy challenges since t
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Study Materials** — [🔗](https://ocw.mit.edu/courses/21h-207-the-energy-crisis-past-and-present-fall-2010/pages/study-materials/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-207-the-energy-crisis-past-and-present-fall-2010/pages/syllabus/)
 
+### Problem-Set
+- [Creating a Primary Source Journal  (.pdf)](https://ocw.mit.edu/courses/21h-207-the-energy-crisis-past-and-present-fall-2010/resources/mit21h_207f10_journal/)
+- [Detailed Bibliography (.pdf)](https://ocw.mit.edu/courses/21h-207-the-energy-crisis-past-and-present-fall-2010/resources/mit21h_207f10_bibliography/)
+- [The One Best Source (.pdf)](https://ocw.mit.edu/courses/21h-207-the-energy-crisis-past-and-present-fall-2010/resources/mit21h_207f10_best_source/)
+- [Guide to Writing an "A" Paper (.pdf)](https://ocw.mit.edu/courses/21h-207-the-energy-crisis-past-and-present-fall-2010/resources/mit21h_207f10_10tips/)
+- [Assignments](https://ocw.mit.edu/courses/21h-207-the-energy-crisis-past-and-present-fall-2010/pages/assignments/)
+
+### Resource
+- [A black and white photo of cars and trucks lined up, surrounding a single gas pump (.jpg)](https://ocw.mit.edu/courses/21h-207-the-energy-crisis-past-and-present-fall-2010/resources/21h-207f10/)
+- [Related Resources](https://ocw.mit.edu/courses/21h-207-the-energy-crisis-past-and-present-fall-2010/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

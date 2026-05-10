@@ -12,6 +12,9 @@ views: 277
 completeness: 0.23000000000000004
 last_modified: "2026-05-06T17:15:36Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 6, Problem-Set: 9, Resource: 12, Syllabus: 2"
+api_id: 4827
 ---
 
 # Integrated Chemical Engineering Topics I: Process Control by Design
@@ -31,9 +34,40 @@ The broad context for this ICE-Topics module is the commonsense notion that, whe
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [notes_3_hx_ntwrk.pdf (.pdf)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/notes_3_hx_ntwrk/)
+- [notes_2_simulatn.pdf (.pdf)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/notes_2_simulatn/)
+- [notes_1a_matrix.pdf (.pdf)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/notes_1a_matrix/)
+- [notes_1_shower.pdf (.pdf)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/notes_1_shower/)
+- [note_4_last_topc.pdf (.pdf)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/note_4_last_topc/)
+- [Lecture Notes](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/pages/lecture-notes/)
+
+### Problem-Set
+- [pset_8.pdf (.pdf)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/pset_8/)
+- [pset_7.pdf (.pdf)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/pset_7/)
+- [pset_6.pdf (.pdf)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/pset_6/)
+- [pset_5.pdf (.pdf)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/pset_5/)
+- [pset_4.pdf (.pdf)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/pset_4/)
+- [pset_3.pdf (.pdf)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/pset_3/)
+- [pset_2.pdf (.pdf)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/pset_2/)
+- [pset_1.pdf (.pdf)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/pset_1/)
+- [Assignments](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/pages/assignments/)
+
+### Resource
+- [show_cntrl_anal.xls (.xls)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/show_cntrl_anal/)
+- [reduced_Newton.m (.m)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/reduced_newton/)
+- [ice_root.m (.m)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/ice_root/)
+- [hx_network.xls (.xls)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/hx_network/)
+- [chp_ilab_hx.jpg (.jpg)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/chp_ilab_hx/)
+- [calc_Jac.m (.m)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/calc_jac/)
+- [calc_f.m (.m)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/calc_f/)
+- [10-492-1f04.jpg (.jpg)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/10-492-1f04/)
+- [10-492-1f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/resources/10-492-1f04-th/)
+- [Tools](https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/pages/tools/)
 ## Wikipedia Bridge
 
 ### Related Articles

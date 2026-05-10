@@ -12,6 +12,9 @@ views: 107
 completeness: 0.0
 last_modified: "2026-05-06T14:59:18Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Resource: 2"
+api_id: 4696
 ---
 
 # Leveraging Urban Mobility Disruptions to Create Better Cities
@@ -32,8 +35,9 @@ This course is part of the Open Learning Library, which is free to use. You have
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [RES.11-550 Home Page Image (.jpg)](https://ocw.mit.edu/courses/res-11-550-leveraging-urban-mobility-disruptions-to-create-better-cities-spring-2021/resources/res-11-550s21/)
+- [RES.11-550 Thumbnail Image (.jpg)](https://ocw.mit.edu/courses/res-11-550-leveraging-urban-mobility-disruptions-to-create-better-cities-spring-2021/resources/res-11-550s21-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

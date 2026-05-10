@@ -12,6 +12,9 @@ views: 38
 completeness: 0.028333333333333335
 last_modified: "2026-05-06T14:47:36Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Reading-List: 2, Resource: 4, Syllabus: 2"
+api_id: 4172
 ---
 
 # Role of Science and Scientists in Collaborative Approaches to Environmental Policymaking
@@ -30,8 +33,23 @@ This course examines joint fact-finding within the context of adaptive and ecosy
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Barriers to USGS scientists’ participation in collaborative research and decision-making (.pdf)](https://ocw.mit.edu/courses/11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006/resources/campbell/)
+- [Readings](https://ocw.mit.edu/courses/11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006/pages/assignments/)
+
+### Resource
+- [GeoMAC (.jpg)](https://ocw.mit.edu/courses/11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006/resources/11-375s06/)
+- [GeoMAC (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006/resources/11-375s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

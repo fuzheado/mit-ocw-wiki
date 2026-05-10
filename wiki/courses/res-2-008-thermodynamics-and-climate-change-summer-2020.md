@@ -12,6 +12,9 @@ views: 276
 completeness: 0.06
 last_modified: "2026-05-06T14:44:01Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 1, Problem-Set: 7, Reading-List: 9, Resource: 20, Syllabus: 1"
+api_id: 5213
 ---
 
 # Thermodynamics and Climate Change
@@ -32,11 +35,48 @@ MITES Semester is part of MIT Introduction to Technology, Engineering, and Scien
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Open Textbooks] Open Textbooks
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Lectures
+- **Coding Labs** — [🔗](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/pages/coding-labs/)
+- **Problem Sets** — [🔗](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/pages/problem-sets/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/pages/syllabus/)
 
+### Reading-List
+- [Open Textbook](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/pages/open-textbook/)
+- [RES.2-008 (Summer 2022), Chapter 7: Mitigating the Climate Crisis (.pdf)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres-2-008su22_ch7/)
+- [RES.2-008 (Summer 2022), Chapter 6: A Return to Renewables (.pdf)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres-2-008su22_ch6_new/)
+- [RES.2-008 (Summer 2022), Chapter 5: Engines, Power, and the Anthropocene (.pdf)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres-2-008su22_ch5/)
+- [RES.2-008 (Summer 2022), Chapter 4: Entropy and a Move Towards Chaos (.pdf)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres-2-008su22_ch4/)
+- [RES.2-008 (Summer 2022), Chapter 3: Controlling Fire (.pdf)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres-2-008su22_ch3/)
+- [RES.2-008 (Summer 2022), Chapter 2: Energy, Climate, and the Carbon Cycle (.pdf)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres-2-008su22_ch2/)
+- [RES.2-008 (Summer 2022), Chapter 1: Universal Beginnings (.pdf)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres-2-008su22_ch1/)
+- [RES.2-008 (Summer 2022), Online Textbook (.pdf)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres-2-008su22_book_new/)
+
+### Problem-Set
+- [RES.2-008 (Summer 2022), Problem Set 3 Solutions (.pdf)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres_2_008_sum22_ps3_soln/)
+- [RES.2-008 (Summer 2022), Problem Set 3 (.pdf)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres_2_008_sum22_ps3/)
+- [RES.2-008 (Summer 2022), Problem Set 2 Solutions (.pdf)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres_2_008_sum22_ps2_soln/)
+- [RES.2-008 (Summer 2022), Problem Set 2 (.pdf)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres_2_008_sum22_ps2/)
+- [RES.2-008 (Summer 2022), Problem Set 1 Solutions (.pdf)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres_2_008_sum22_ps1_soln/)
+- [RES.2-008 (Summer 2022), Problem Set 1 (.pdf)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres_2_008_sum22_ps1/)
+
+### Resource
+- [res-2-008-sum22.jpg (.jpg)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/res-2-008-sum22/)
+- [res-2-008-sum22-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/res-2-008-sum22-th/)
+- [pset3_solution.ipynb (.ipynb)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/pset3_solution/)
+- [pset2_V3_solution.ipynb (.ipynb)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/pset2_v3_solution/)
+- [pset2_solution.ipynb (.ipynb)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/pset2_solution/)
+- [MITRes-2-008Su22_coding9.ipynb (.ipynb)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres-2-008su22_coding9/)
+- [mitres-2-008su22_coding7.ipynb (.ipynb)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres-2-008su22_coding72/)
+- [mitres-2-008su22_coding6b.ipynb (.ipynb)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres-2-008su22_coding6b/)
+- [MITRes-2-008Su22_coding6.ipynb (.ipynb)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres-2-008su22_coding6/)
+- [MITRes-2-008Su22_coding5.ipynb (.ipynb)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres-2-008su22_coding5/)
+- [MITRes-2-008Su22_coding4.ipynb (.ipynb)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres-2-008su22_coding4/)
+- [MITRes-2-008Su22_coding3.ipynb (.ipynb)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres-2-008su22_coding3/)
+- [MITRes-2-008Su22_coding2.ipynb (.ipynb)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres-2-008su22_coding2/)
+- [MITRes-2-008Su22_coding1.ipynb (.ipynb)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres-2-008su22_coding1/)
+- [MITRes-2-008Su22_coding0.ipynb (.ipynb)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/mitres-2-008su22_coding0/)
+- [iceberg.jpg (.jpg)](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/resources/iceberg_jpg/)
+- [Instructor Insights](https://ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

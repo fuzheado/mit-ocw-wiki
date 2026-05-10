@@ -12,6 +12,9 @@ views: 529
 completeness: 0.22
 last_modified: "2026-05-06T15:02:42Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 12, Problem-Set: 6, Reading-List: 1, Resource: 3, Syllabus: 1, Video-Transcript: 1"
+api_id: 5765
 ---
 
 # Systems Perspectives on Industrial Ecology
@@ -30,10 +33,37 @@ This course examines quantitative techniques for life cycle analysis of the impa
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [lec8.pdf (.pdf)](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/resources/lec8/)
+- [lec4.pdf (.pdf)](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/resources/lec4/)
+- [lec3.pdf (.pdf)](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/resources/lec3/)
+- [lec22.pdf (.pdf)](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/resources/lec22/)
+- [lec17.pdf (.pdf)](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/resources/lec17/)
+- [lec16.pdf (.pdf)](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/resources/lec16/)
+- [lec14.pdf (.pdf)](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/resources/lec14/)
+- [lec12.pdf (.pdf)](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/resources/lec12/)
+- [lec11.pdf (.pdf)](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/resources/lec11/)
+- [lec10.pdf (.pdf)](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/resources/lec10/)
+- [lec1.pdf (.pdf)](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/resources/lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/pages/readings/)
+
+### Problem-Set
+- [case2.pdf (.pdf)](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/resources/case2/)
+- [case1.pdf (.pdf)](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/resources/case1/)
+- [assignment4.pdf (.pdf)](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/resources/assignment4/)
+- [assignment3.pdf (.pdf)](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/resources/assignment3/)
+- [assignment1_2.pdf (.pdf)](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/resources/assignment1_2/)
+- [Assignments](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/pages/assignments/)
+
+### Resource
+- [esd-123js06.jpg (.jpg)](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/resources/esd-123js06/)
+- [esd-123js06-th.jpg (.jpg)](https://ocw.mit.edu/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/resources/esd-123js06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

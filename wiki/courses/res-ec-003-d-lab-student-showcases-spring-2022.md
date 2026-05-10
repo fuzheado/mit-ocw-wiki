@@ -12,6 +12,9 @@ views: 93
 completeness: 0.0
 last_modified: "2026-05-06T17:04:57Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Resource: 2"
+api_id: 3667
 ---
 
 # D-Lab Student Showcases
@@ -31,8 +34,9 @@ Each semester, through a selection of full-semester classes, our students form i
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
-
+### Resource
+- [res-ec-003s22.jpeg (.jpeg)](https://ocw.mit.edu/courses/res-ec-003-d-lab-student-showcases-spring-2022/resources/res-ec-003s22/)
+- [res-ec-003s22-th.jpeg (.jpeg)](https://ocw.mit.edu/courses/res-ec-003-d-lab-student-showcases-spring-2022/resources/res-ec-003s22-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

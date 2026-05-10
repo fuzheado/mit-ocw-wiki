@@ -12,6 +12,9 @@ views: 794
 completeness: 0.21666666666666667
 last_modified: "2026-05-06T17:10:37Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 3, Lecture-Notes: 2, Problem-Set: 15, Resource: 6, Syllabus: 1"
+api_id: 5293
 ---
 
 # Seminar in Electric Power Systems
@@ -30,11 +33,41 @@ This course comprises of a seminar on planning and operation of modern electric 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [plan_a.pdf (.pdf)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/plan_a/)
+- [Lecture Notes](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/pages/lecture-notes/)
+
+### Problem-Set
+- [ps7ans.pdf (.pdf)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/ps7ans/)
+- [ps7.pdf (.pdf)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/ps7/)
+- [ps6ans.pdf (.pdf)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/ps6ans/)
+- [ps6.pdf (.pdf)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/ps6/)
+- [ps5ans.pdf (.pdf)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/ps5ans/)
+- [ps5.pdf (.pdf)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/ps5/)
+- [ps4ans.pdf (.pdf)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/ps4ans/)
+- [ps4.pdf (.pdf)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/ps4/)
+- [ps3ans.pdf (.pdf)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/ps3ans/)
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/ps3/)
+- [ps2ans.pdf (.pdf)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/ps2ans/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/ps2/)
+- [ps1ans.pdf (.pdf)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/ps1ans/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/ps1/)
+- [Assignments](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/pages/assignments/)
+
+### Assignment
+- [ship_to_shore.pdf (.pdf)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/ship_to_shore/)
+- [blackout_2003.pdf (.pdf)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/blackout_2003/)
+- [Projects](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/pages/projects/)
+
+### Resource
+- [sf.m (.m)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/sf/)
+- [fsim.m (.m)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/fsim/)
+- [6-691s06.jpg (.jpg)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/6-691s06/)
+- [6-691s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/resources/6-691s06-th/)
+- [Tools](https://ocw.mit.edu/courses/6-691-seminar-in-electric-power-systems-spring-2006/pages/tools/)
 ## Wikipedia Bridge
 
 ### Related Articles

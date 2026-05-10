@@ -12,6 +12,9 @@ views: 72
 completeness: 0.10500000000000001
 last_modified: "2026-05-06T14:46:56Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 4, Problem-Set: 4, Reading-List: 1, Resource: 4, Syllabus: 2, Video-Transcript: 2"
+api_id: 5329
 ---
 
 # Use of Joint Fact Finding in Science Intensive Policy Disputes, Part I
@@ -30,9 +33,28 @@ type: "course"
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [nat_resrc.pdf (.pdf)](https://ocw.mit.edu/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/resources/nat_resrc/)
+- [cape_wind.pdf (.pdf)](https://ocw.mit.edu/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/resources/cape_wind/)
+- [boblamb.pdf (.pdf)](https://ocw.mit.edu/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/resources/boblamb/)
+- [Lecture Notes 📺Video](https://ocw.mit.edu/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/video_galleries/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/pages/readings/)
+
+### Problem-Set
+- [science_inten.pdf (.pdf)](https://ocw.mit.edu/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/resources/science_inten/)
+- [jff_final.pdf (.pdf)](https://ocw.mit.edu/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/resources/jff_final/)
+- [final_masa.pdf (.pdf)](https://ocw.mit.edu/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/resources/final_masa/)
+- [Assignments](https://ocw.mit.edu/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/pages/assignments/)
+
+### Resource
+- [11-941f03.jpg (.jpg)](https://ocw.mit.edu/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/resources/11-941f03/)
+- [11-941f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/resources/11-941f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

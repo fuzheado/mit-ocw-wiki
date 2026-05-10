@@ -12,6 +12,9 @@ views: 90
 completeness: 0.22000000000000003
 last_modified: "2026-05-06T17:05:23Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 3, Reading-List: 7, Resource: 4, Syllabus: 1"
+api_id: 4057
 ---
 
 # Energy and Environment in American History: 1705-2005
@@ -30,8 +33,27 @@ A survey of how America has become the world’s largest consumer of energy. Exp
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/pages/syllabus/)
 
+### Reading-List
+- [9_10.pdf (.pdf)](https://ocw.mit.edu/courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/resources/9_10/)
+- [6_7.pdf (.pdf)](https://ocw.mit.edu/courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/resources/6_7/)
+- [4_5.pdf (.pdf)](https://ocw.mit.edu/courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/resources/4_5/)
+- [2_3.pdf (.pdf)](https://ocw.mit.edu/courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/resources/2_3/)
+- [15_16.pdf (.pdf)](https://ocw.mit.edu/courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/resources/15_16/)
+- [11_12.pdf (.pdf)](https://ocw.mit.edu/courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/resources/11_12/)
+- [Readings](https://ocw.mit.edu/courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/pages/readings/)
+
+### Problem-Set
+- [final_exam.pdf (.pdf)](https://ocw.mit.edu/courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/resources/final_exam/)
+- [Exams](https://ocw.mit.edu/courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/pages/assignments/)
+
+### Resource
+- [sts-038f06.jpg (.jpg)](https://ocw.mit.edu/courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/resources/sts-038f06/)
+- [sts-038f06-th.jpg (.jpg)](https://ocw.mit.edu/courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/resources/sts-038f06-th/)
+- [Related Resources](https://ocw.mit.edu/courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

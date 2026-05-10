@@ -12,6 +12,9 @@ views: 412
 completeness: 0.06833333333333333
 last_modified: "2026-05-06T17:23:45Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 1, Problem-Set: 3, Reading-List: 3, Resource: 5, Syllabus: 2"
+api_id: 4877
 ---
 
 # Planning for Sustainable Development
@@ -30,8 +33,27 @@ This course explores policy and planning for sustainable development. It critica
 
 ## Materials
 
-- [Design Assignments with Examples] Design Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Problem to Solution(s): Change Agency Competencies (.pdf)](https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/resources/laxmi/)
+- [Harvard Green Campus Initiative: Overview (.pdf)](https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/resources/jaclyn/)
+- [Readings](https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/pages/readings/)
+
+### Problem-Set
+- [Is it possible to reduce the green house gas emissions linked to energy use in MIT labs? (.pdf)](https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/resources/final2005/)
+- [Cambridge Climate Action Plan (.pdf)](https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/resources/final2004/)
+- [Assignments](https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/pages/assignments/)
+
+### Resource
+- [Rondonia Land Use (.jpg)](https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/resources/11-366js06/)
+- [Rondonia Land Use (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/resources/11-366js06-th/)
+- [Related Resources](https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

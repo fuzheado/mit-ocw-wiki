@@ -12,6 +12,9 @@ views: 427
 completeness: 0.0
 last_modified: "2026-05-06T17:03:34Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Resource: 2, Video-Transcript: 1"
+api_id: 4817
 ---
 
 # MIT Climate Portal
@@ -31,8 +34,9 @@ The MIT Climate Portal is managed by the MIT Environmental Solutions Initiative,
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [RES-ENV-004f20.jpg (.jpg)](https://ocw.mit.edu/courses/res-env-004-mit-climate-portal-fall-2020/resources/res-env-004f20/)
+- [RES-ENV-004f20-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-env-004-mit-climate-portal-fall-2020/resources/res-env-004f20-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

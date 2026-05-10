@@ -12,6 +12,9 @@ views: 962
 completeness: 0.11666666666666668
 last_modified: "2026-05-06T17:19:58Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 14, Resource: 3, Syllabus: 1"
+api_id: 5193
 ---
 
 # The Physics of Energy
@@ -39,8 +42,28 @@ The course is designed for MIT sophomores, juniors, and seniors who want to unde
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/pages/syllabus/)
 
+### Lecture-Notes
+- [Quantum Mechanics II (.pdf)](https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/resources/mit8_21s09_lec14/)
+- [Phase Change Energy Conversion II (.pdf)](https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/resources/mit8_21s09_lec12/)
+- [Internal Combustion Engines (.pdf)](https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/resources/mit8_21s09_lec11/)
+- [Phase Change Energy Conversion I (.pdf)](https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/resources/mit8_21s09_lec10/)
+- [Heat Engines (.pdf)](https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/resources/mit8_21s09_lec09/)
+- [Thermodynamics I: Entropy and Temperature (.pdf)](https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/resources/mit8_21s09_lec08/)
+- [Chemical and Biological Energy (.pdf)](https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/resources/mit8_21s09_lec07/)
+- [Quantum Mechanics I (.pdf)](https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/resources/mit8_21s09_lec06/)
+- [Electromagnetic Energy (.pdf)](https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/resources/mit8_21s09_lec05/)
+- [Heat and Thermal Energy (.pdf)](https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/resources/mit8_21s09_lec04/)
+- [Mechanical Energy (.pdf)](https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/resources/mit8_21s09_lec03/)
+- [Units and the Scales of Ener gy Use (.pdf)](https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/resources/mit8_21s09_lec02/)
+- [The Physics of Energy (.pdf)](https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/resources/mit8_21s09_lec01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/pages/lecture-notes/)
+
+### Resource
+- [An energy flow diagram (.jpg)](https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/resources/8-21f09/)
+- [Related Resources](https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

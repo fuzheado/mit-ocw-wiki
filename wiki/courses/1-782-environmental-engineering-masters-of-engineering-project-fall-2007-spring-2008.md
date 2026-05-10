@@ -12,6 +12,8 @@ views: 118
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T14:43:19Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 1, Problem-Set: 1, Syllabus: 2"
 ---
 
 # Environmental Engineering Masters of Engineering Project
@@ -30,9 +32,15 @@ This class is one of the core requirements for the Environmental Masters of Engi
 
 ## Materials
 
-- [Projects] Projects
-- [Written Assignments] Written Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2007-spring-2008/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2007-spring-2008/pages/calendar/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2007-spring-2008/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2007-spring-2008/pages/projects/)
 ## Wikipedia Bridge
 
 ### Related Articles

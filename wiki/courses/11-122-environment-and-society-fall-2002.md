@@ -12,6 +12,9 @@ views: 295
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:57:28Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 6, Problem-Set: 1, Resource: 4, Syllabus: 2"
+api_id: 5073
 ---
 
 # Environment and Society
@@ -41,10 +44,24 @@ An understanding about personal responsibilities and roles in environmental and 
 
 ## Materials
 
-- [Presentation Assignments with Examples] Presentation Assignments with Examples
-- [Problem Sets] Problem Sets
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-122-environment-and-society-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-122-environment-and-society-fall-2002/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-122-environment-and-society-fall-2002/pages/assignments/)
+
+### Assignment
+- [fa01projectpresentation03.pdf (.pdf)](https://ocw.mit.edu/courses/11-122-environment-and-society-fall-2002/resources/fa01projectpresentation03/)
+- [fa01projectpresentation02.pdf (.pdf)](https://ocw.mit.edu/courses/11-122-environment-and-society-fall-2002/resources/fa01projectpresentation02/)
+- [fa01projectpresentation01.pdf (.pdf)](https://ocw.mit.edu/courses/11-122-environment-and-society-fall-2002/resources/fa01projectpresentation01/)
+- [fa01projectpaper02.pdf (.pdf)](https://ocw.mit.edu/courses/11-122-environment-and-society-fall-2002/resources/fa01projectpaper02/)
+- [fa01projectpaper01.pdf (.pdf)](https://ocw.mit.edu/courses/11-122-environment-and-society-fall-2002/resources/fa01projectpaper01/)
+- [Projects](https://ocw.mit.edu/courses/11-122-environment-and-society-fall-2002/pages/projects/)
+
+### Resource
+- [11-122f02.jpg (.jpg)](https://ocw.mit.edu/courses/11-122-environment-and-society-fall-2002/resources/11-122f02/)
+- [11-122f02-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-122-environment-and-society-fall-2002/resources/11-122f02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

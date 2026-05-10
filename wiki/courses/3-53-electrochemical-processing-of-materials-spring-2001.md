@@ -12,6 +12,9 @@ views: 328
 completeness: 0.4
 last_modified: "2026-05-06T17:11:34Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 16, Resource: 4, Syllabus: 2"
+api_id: 4838
 ---
 
 # Electrochemical Processing of Materials
@@ -30,11 +33,31 @@ This course covers a variety of topics concerning superconducting magnets, inclu
 
 ## Materials
 
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/pages/syllabus/)
 
+### Problem-Set
+- [test2_2001.pdf (.pdf)](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/resources/test2_2001/)
+- [test2.pdf (.pdf)](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/resources/test2/)
+- [test1sol.pdf (.pdf)](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/resources/test1sol/)
+- [test1_2001.pdf (.pdf)](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/resources/test1_2001/)
+- [test1.pdf (.pdf)](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/resources/test1/)
+- [ps7sol.pdf (.pdf)](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/resources/ps7sol/)
+- [ps6sol.pdf (.pdf)](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/resources/ps6sol/)
+- [ps5sol.pdf (.pdf)](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/resources/ps5sol/)
+- [ps4sol.pdf (.pdf)](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/resources/ps4sol/)
+- [ps3sol.pdf (.pdf)](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/resources/ps3sol/)
+- [ps2sol.pdf (.pdf)](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/resources/ps2sol/)
+- [ps1sol.pdf (.pdf)](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/resources/ps1sol/)
+- [ps1_2001.pdf (.pdf)](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/resources/ps1_2001/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/resources/ps1/)
+- [Exams](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/pages/assignments/)
+
+### Resource
+- [3-53s01.jpg (.jpg)](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/resources/3-53s01/)
+- [3-53s01-th.jpg (.jpg)](https://ocw.mit.edu/courses/3-53-electrochemical-processing-of-materials-spring-2001/resources/3-53s01-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

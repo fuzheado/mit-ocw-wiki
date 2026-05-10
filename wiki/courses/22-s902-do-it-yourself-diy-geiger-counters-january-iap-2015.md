@@ -12,6 +12,8 @@ views: 640
 completeness: 0.14166666666666666
 last_modified: "2026-05-06T14:42:22Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 2, Problem-Set: 1, Reading-List: 1, Resource: 6, Syllabus: 1, Video-Transcript: 3"
 ---
 
 # Do-It-Yourself (DIY) Geiger Counters
@@ -33,12 +35,26 @@ An activity described in this course is potentially hazardous and requires a hig
 
 ## Materials
 
-- [Image Gallery] Image Gallery
-- [Instructor Insights] Instructor Insights
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
-- [Written Assignments] Written Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/pages/lecture-notes/)
+- [Labs](https://ocw.mit.edu/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/pages/labs/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/pages/assignments/)
+
+### Resource
+- [Instructor Insights](https://ocw.mit.edu/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/pages/instructor-insights/)
+- [Course History and Future Iteration](https://ocw.mit.edu/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/pages/instructor-insights/course-history-and-future-iteration/)
+- [Developing and Teaching Hands-on Courses](https://ocw.mit.edu/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/pages/instructor-insights/developing-and-teaching-hands-on-courses/)
+- [Learning to Ask the Questions](https://ocw.mit.edu/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/pages/instructor-insights/learning-to-ask-the-questions/)
+- [Keeping Students Interested, and Talking](https://ocw.mit.edu/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/pages/instructor-insights/keeping-students-interested-and-talking/)
+- [The After Life of Geiger Counters](https://ocw.mit.edu/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/pages/instructor-insights/the-after-life-of-geiger-counters/)
 ## Wikipedia Bridge
 
 ### Related Articles

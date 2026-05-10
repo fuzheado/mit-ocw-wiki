@@ -12,6 +12,9 @@ views: 51
 completeness: 0.23333333333333334
 last_modified: "2026-05-06T16:50:06Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 4, Problem-Set: 15, Resource: 5, Syllabus: 2"
+api_id: 5162
 ---
 
 # Use of Joint Fact Finding in Science Intensive Policy Disputes, Part II
@@ -30,10 +33,37 @@ This course makes up the second half of a year-long seminar on Joint Fact Findin
 
 ## Materials
 
-- [Design Assignments with Examples] Design Assignments with Examples
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments with Examples] Presentation Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [turner.pdf (.pdf)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/turner/)
+- [ponce.pdf (.pdf)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/ponce/)
+- [lynnscarletttalk.pdf (.pdf)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/lynnscarletttalk/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/pages/lecture-notes/)
+
+### Problem-Set
+- [peyser_final.pdf (.pdf)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/peyser_final/)
+- [peyser.pdf (.pdf)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/peyser/)
+- [mostashari_final.pdf (.pdf)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/mostashari_final/)
+- [mostashari.pdf (.pdf)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/mostashari/)
+- [lenard_fsonfinal.pdf (.pdf)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/lenard_fsonfinal/)
+- [lenard.pdf (.pdf)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/lenard/)
+- [koh.pdf (.pdf)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/koh/)
+- [kim.pdf (.pdf)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/kim/)
+- [glickel_final.pdf (.pdf)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/glickel_final/)
+- [glickel.pdf (.pdf)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/glickel/)
+- [finlayson.pdf (.pdf)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/finlayson/)
+- [ashcraft_final.pdf (.pdf)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/ashcraft_final/)
+- [ashcraft.pdf (.pdf)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/ashcraft/)
+- [amengual_final.pdf (.pdf)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/amengual_final/)
+- [Assignments](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/pages/assignments/)
+
+### Resource
+- [11-942s04.jpg (.jpg)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/11-942s04/)
+- [11-942s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/11-942s04-th/)
+- [Related Resources](https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

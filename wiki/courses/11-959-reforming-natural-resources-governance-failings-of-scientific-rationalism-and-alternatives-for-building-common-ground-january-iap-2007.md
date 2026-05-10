@@ -12,6 +12,8 @@ views: 86
 completeness: 0.11666666666666668
 last_modified: "2026-05-06T14:59:12Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 1, Reading-List: 1, Resource: 1, Syllabus: 1"
 ---
 
 # Reforming Natural Resources Governance: Failings of Scientific Rationalism and Alternatives for Building Common Ground
@@ -30,8 +32,17 @@ For the last century, precepts of scientific management and administrative ratio
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/11-959-reforming-natural-resources-governance-failings-of-scientific-rationalism-and-alternatives-for-building-common-ground-january-iap-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/11-959-reforming-natural-resources-governance-failings-of-scientific-rationalism-and-alternatives-for-building-common-ground-january-iap-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-959-reforming-natural-resources-governance-failings-of-scientific-rationalism-and-alternatives-for-building-common-ground-january-iap-2007/pages/readings/)
+
+### Resource
+- [Related Resources](https://ocw.mit.edu/courses/11-959-reforming-natural-resources-governance-failings-of-scientific-rationalism-and-alternatives-for-building-common-ground-january-iap-2007/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

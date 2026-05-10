@@ -12,6 +12,9 @@ views: 498
 completeness: 0.0
 last_modified: "2026-05-06T14:55:09Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Resource: 3"
+api_id: 5990
 ---
 
 # The Roosevelt Project
@@ -30,8 +33,10 @@ This project looks to combine the legacies of these three titans of American his
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [res-14-003s23.jpg (.jpg)](https://ocw.mit.edu/courses/res-14-003-the-roosevelt-project-spring-2023/resources/res-14-003s23/)
+- [res-14-003s23-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-14-003-the-roosevelt-project-spring-2023/resources/res-14-003s23-th/)
+- [The Roosevelt Project](https://ocw.mit.edu/courses/res-14-003-the-roosevelt-project-spring-2023/pages/the-roosevelt-project/)
 ## Wikipedia Bridge
 
 ### Related Articles

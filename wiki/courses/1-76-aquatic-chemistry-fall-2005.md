@@ -12,6 +12,9 @@ views: 429
 completeness: 0.4
 last_modified: "2026-05-06T14:47:26Z"
 type: course
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 16, Reading-List: 1, Resource: 14, Syllabus: 2"
+api_id: 3364
 ---
 
 # Aquatic Chemistry
@@ -32,10 +35,44 @@ This course is offered through The MIT/WHOI Joint Program. The MIT/WHOI Joint Pr
 
 ## Materials
 
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/pages/readings/)
+
+### Problem-Set
+- [solution.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/solution/)
+- [pset6soln.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/pset6soln/)
+- [pset6.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/pset6/)
+- [pset5soln.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/pset5soln/)
+- [pset5.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/pset5/)
+- [pset4soln.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/pset4soln/)
+- [pset4.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/pset4/)
+- [pset3.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/pset3/)
+- [pset2soln.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/pset2soln/)
+- [pset2.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/pset2/)
+- [pset1.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/pset1/)
+- [ps3soln.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/ps3soln/)
+- [ps1soln.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/ps1soln/)
+- [practice.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/practice/)
+- [Exams](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/pages/assignments/)
+
+### Resource
+- [practiceproblems.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/practiceproblems/)
+- [pracprobsoln.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/pracprobsoln/)
+- [phasruleclarifn.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/phasruleclarifn/)
+- [gasconstants.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/gasconstants/)
+- [fe3_speciation.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/fe3_speciation/)
+- [deffeyes_diagram.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/deffeyes_diagram/)
+- [alpha_equations.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/alpha_equations/)
+- [actycoeffeqns.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/actycoeffeqns/)
+- [acidbaseconst.pdf (.pdf)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/acidbaseconst/)
+- [1-76f05.jpg (.jpg)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/1-76f05/)
+- [1-76f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/resources/1-76f05-th/)
+- [Study Materials](https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

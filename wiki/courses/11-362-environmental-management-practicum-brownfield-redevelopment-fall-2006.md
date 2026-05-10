@@ -12,6 +12,9 @@ views: 150
 completeness: 0.0
 last_modified: "2026-05-06T17:03:37Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 2, Resource: 4, Syllabus: 2"
+api_id: 4171
 ---
 
 # Environmental Management Practicum: Brownfield Redevelopment
@@ -31,8 +34,17 @@ The course is designed along two parallel and mutually reinforcing educational t
 
 ## Materials
 
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006/resources/calendar/) · [🔗](https://ocw.mit.edu/courses/11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006/pages/syllabus/)
 
+### Assignment
+- [Report from Our Conversations on Neighborhood Visioning (.pdf)](https://ocw.mit.edu/courses/11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006/resources/report/)
+- [Projects](https://ocw.mit.edu/courses/11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006/pages/projects/)
+
+### Resource
+- [Colorful Mural (.jpg)](https://ocw.mit.edu/courses/11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006/resources/11-362f06/)
+- [Colorful Mural (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006/resources/11-362f06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

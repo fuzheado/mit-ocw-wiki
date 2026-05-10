@@ -12,6 +12,9 @@ views: 1250
 completeness: 0.2
 last_modified: "2026-05-06T16:52:16Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 20, Reading-List: 17, Resource: 6, Syllabus: 2"
+api_id: 5346
 ---
 
 # Desalination and Water Purification
@@ -31,10 +34,56 @@ This subject will survey the state-of-the-art in water purification by desalinat
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/pages/syllabus/)
 
+### Reading-List
+- [MIT2_500s09_read21.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_read21/)
+- [MIT2_500s09_read19.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_read19/)
+- [MIT2_500s09_read12.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_read12/)
+- [MIT2_500s09_read10_read21.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_read10_read21/)
+- [MIT2_500s09_read08_read19.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_read08_read19/)
+- [MIT2_500s09_read06_read12.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_read06_read12/)
+- [MIT2_500s09_read02_read02.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_read02_read02/)
+- [MIT2_500s09_read02.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_read02/)
+- [MIT2_500s09_lec25.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_lec25/)
+- [MIT2_500s09_lec22.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_lec22/)
+- [MIT2_500s09_lec20.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_lec20/)
+- [MIT2_500s09_lec18.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_lec18/)
+- [MIT2_500s09_lec10.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_lec10/)
+- [MIT2_500s09_lec09.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_lec09/)
+- [MIT2_500s09_lec08.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_lec08/)
+- [MIT2_500s09_lec01.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_lec01/)
+- [Readings](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/pages/readings/)
+
+### Problem-Set
+- [MIT2_500s09_testing02.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_testing02/)
+- [MIT2_500s09_testing01.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_testing01/)
+- [MIT2_500s09_sw05_report.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_sw05_report/)
+- [MIT2_500s09_sw05_pres.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_sw05_pres/)
+- [MIT2_500s09_sw04_report.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_sw04_report/)
+- [MIT2_500s09_sw04_pres.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_sw04_pres/)
+- [MIT2_500s09_sw03_report.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_sw03_report/)
+- [MIT2_500s09_sw03_pres.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_sw03_pres/)
+- [MIT2_500s09_sw02_report.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_sw02_report/)
+- [MIT2_500s09_sw02_pres.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_sw02_pres/)
+- [MIT2_500s09_sw01_report.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_sw01_report/)
+- [MIT2_500s09_sw01_pres.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_sw01_pres/)
+- [MIT2_500s09_questions.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_questions/)
+- [MIT2_500s09_project.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_project/)
+- [MIT2_500s09_hw04.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_hw04/)
+- [MIT2_500s09_hw03.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_hw03/)
+- [MIT2_500s09_hw02.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_hw02/)
+- [MIT2_500s09_hw01.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_hw01/)
+- [haiti.kml (.kml)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/haiti/)
+- [Assignments](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/pages/assignments/)
+
+### Resource
+- [MIT2_500s09_res01_read_nano.pdf (.pdf)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/mit2_500s09_res01_read_nano/)
+- [Satellite photos of the Aral Sea in 1977, 1989, and 2006 (.jpg)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/2-500s09/)
+- [Satellite photos of the Aral Sea (.jpg)](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/resources/2-500s09-th/)
+- [Related Resources](https://ocw.mit.edu/courses/2-500-desalination-and-water-purification-spring-2009/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

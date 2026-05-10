@@ -12,6 +12,9 @@ views: 76
 completeness: 0.15666666666666668
 last_modified: "2026-05-06T14:44:38Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 14, Problem-Set: 2, Reading-List: 2, Resource: 4, Syllabus: 2"
+api_id: 3483
 ---
 
 # Revitalizing Urban Main Streets: Mission Hill & Egleston Square, Boston
@@ -36,9 +39,37 @@ The course has dual goals: to explore the integration of economic and physical d
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [reflection_exerc.pdf (.pdf)](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/resources/reflection_exerc/)
+- [notes_on_market.pdf (.pdf)](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/resources/notes_on_market/)
+- [marketing.xls (.xls)](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/resources/marketing/)
+- [final_class.pdf (.pdf)](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/resources/final_class/)
+- [field_trip.pdf (.pdf)](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/resources/field_trip/)
+- [class_7_notes.pdf (.pdf)](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/resources/class_7_notes/)
+- [class_6_notes.pdf (.pdf)](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/resources/class_6_notes/)
+- [class_5_notes.pdf (.pdf)](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/resources/class_5_notes/)
+- [class_2_notes.pdf (.pdf)](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/resources/class_2_notes/)
+- [class_1_notes.pdf (.pdf)](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/resources/class_1_notes/)
+- [class_16.pdf (.pdf)](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/resources/class_16/)
+- [class_15_notes.pdf (.pdf)](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/resources/class_15_notes/)
+- [busin_retention.pdf (.pdf)](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/resources/busin_retention/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/pages/lecture-notes/)
+
+### Reading-List
+- [readings.pdf (.pdf)](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/resources/readings/)
+- [Readings](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/pages/readings/)
+
+### Problem-Set
+- [report_master.pdf (.pdf)](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/resources/report_master/)
+- [Assignments](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/pages/assignments/)
+
+### Resource
+- [11-439s03.jpg (.jpg)](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/resources/11-439s03/)
+- [11-439s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/resources/11-439s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

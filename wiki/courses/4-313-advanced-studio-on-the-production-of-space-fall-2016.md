@@ -12,6 +12,9 @@ views: 111
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T14:45:38Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 1, Problem-Set: 8, Reading-List: 2, Resource: 6, Syllabus: 2, Video-Transcript: 4"
+api_id: 4424
 ---
 
 # Advanced Studio on the Production of Space
@@ -31,8 +34,24 @@ Modeling is the main modus operandi of the class as students will be required to
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-313-advanced-studio-on-the-production-of-space-fall-2016/pages/calendar/)
+- **Midterm Presentation** — [🔗](https://ocw.mit.edu/courses/4-313-advanced-studio-on-the-production-of-space-fall-2016/pages/assignments/midterm-presentation/)
+- **Modeling Experiment (I)** — [🔗](https://ocw.mit.edu/courses/4-313-advanced-studio-on-the-production-of-space-fall-2016/pages/assignments/modeling-experiment-i/)
+- **Modeling Experiment (II)** — [🔗](https://ocw.mit.edu/courses/4-313-advanced-studio-on-the-production-of-space-fall-2016/pages/assignments/modeling-experiment-ii/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/4-313-advanced-studio-on-the-production-of-space-fall-2016/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-313-advanced-studio-on-the-production-of-space-fall-2016/pages/syllabus/)
 
+### Problem-Set
+- [MIT4_313F16_ProdNature (.pdf)](https://ocw.mit.edu/courses/4-313-advanced-studio-on-the-production-of-space-fall-2016/resources/mit4_313f16_prodnature/)
+- [MIT4_313F16_ProdDemocracy (.pdf)](https://ocw.mit.edu/courses/4-313-advanced-studio-on-the-production-of-space-fall-2016/resources/mit4_313f16_proddemocracy/)
+- [Penultimate & Final Review](https://ocw.mit.edu/courses/4-313-advanced-studio-on-the-production-of-space-fall-2016/pages/assignments/penultimate-final-review/)
+- [Assignments](https://ocw.mit.edu/courses/4-313-advanced-studio-on-the-production-of-space-fall-2016/pages/assignments/)
+- [Penultimate &amp; Final Review](https://ocw.mit.edu/courses/4-313-advanced-studio-on-the-production-of-space-fall-2016/pages/assignments/penultimate-final-review/)
+
+### Resource
+- [4-313f16.jpg (.jpg)](https://ocw.mit.edu/courses/4-313-advanced-studio-on-the-production-of-space-fall-2016/resources/4-313f16/)
+- [4-313f16-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-313-advanced-studio-on-the-production-of-space-fall-2016/resources/4-313f16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 1707
 completeness: 0.7400000000000001
 last_modified: "2026-05-06T16:52:48Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 1, Problem-Set: 16, Reading-List: 4, Resource: 7, Syllabus: 2, Video-Transcript: 72"
+api_id: 4390
 ---
 
 # Fundamentals of Photovoltaics
@@ -31,13 +34,43 @@ This course is one of many OCW Energy Courses, and it is an elective subject in 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
-- [Projects with Examples] Projects with Examples
-- [Tutorial Videos] Tutorial Videos
+### Lectures
+- **2011 Student Project Presentations** — [🎬 1](https://youtu.be/hewgCK5oZAo) · [🎬 2](https://youtu.be/a6NFLJ082vI)
+- **IV Curve Measurement** — [🔗](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/pages/calendar-readings/iv-curve-measurement/)
+- **Related Resources** — [🔗](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/pages/related-resources/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/pages/syllabus/)
 
+### Syllabus
+- [Calendar &amp; Readings](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/pages/calendar-readings/)
+
+### Lecture-Notes
+- [Lecture Videos &amp; Slides 📺Video](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/video_galleries/lecture-videos-slides/)
+
+### Reading-List
+- [Background Assessment Quiz (.pdf)](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec1_survey/)
+- [Lecture 7: In-class Problems on PN Junction Band Formation and Ideal Diode Equation (.pdf)](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec07_prob/)
+- [Calendar & Readings](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/pages/calendar-readings/)
+
+### Problem-Set
+- [Quiz2_3.xlsx (.xlsx)](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/quiz2_3/)
+- [Quiz2_2data.zip (.zip)](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/quiz2_2data/)
+- [Quiz1data.zip (.zip)](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/quiz1data/)
+- [Fundamentals of Photovoltaics Quiz 2.3 (.pdf)](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_quiz2_3/)
+- [Fundamentals of Photovoltaics Quiz 2.2 (.pdf)](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_quiz2_2/)
+- [Fundamentals of Photovoltaics Quiz 2.1 (.pdf)](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_quiz2_1/)
+- [Fundamentals of Photovoltaics Quiz 1 (.pdf)](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_quiz1/)
+- [Dark and illuminated I-V measurement data. (.xlsx)](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_pset3_q1data/)
+- [Problem set 3 (.pdf)](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_pset3/)
+- [Problem set 2 (.pdf)](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_pset2/)
+- [Problem set 1 (.pdf)](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_pset1/)
+- [Hypothesis Testing of New Wafer Suppliers (.pdf)](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_assn_sim/)
+- [Quizzes](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/pages/quizzes/)
+- [Assignments 📺Video](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/video_galleries/assignments/)
+
+### Resource
+- [concpt_model.png (.png)](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/concpt_model/)
+- [2-627f13.jpg (.jpg)](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/2-627f13/)
+- [2-627f13-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/2-627f13-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

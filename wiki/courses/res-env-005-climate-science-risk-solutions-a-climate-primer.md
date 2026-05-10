@@ -12,6 +12,8 @@ views: 322
 completeness: 0.0
 last_modified: "2026-05-06T17:23:39Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Video-Transcript: 3"
 ---
 
 # Climate Science, Risk & Solutions: A Climate Primer
@@ -31,9 +33,8 @@ In March 2024, the MIT Environmental Solutions Initiative launched the first maj
 
 ## Materials
 
-- [Other Audio] Other Audio
-- [Other Video] Other Video
-
+### Lectures
+- **Climate Science, Risk and Solutions: The MIT Climate Primer** — [⬇](https://ocw.mit.edu/courses/res-env-005-climate-science-risk-solutions-a-climate-primer/climate-primer-total_v8_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/res-env-005-climate-science-risk-solutions-a-climate-primer/climate-primer-total_v8_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/res-env-005-climate-science-risk-solutions-a-climate-primer/resources/climate-primer-total_v8_mp4/)
 ## Wikipedia Bridge
 
 ### Related Articles

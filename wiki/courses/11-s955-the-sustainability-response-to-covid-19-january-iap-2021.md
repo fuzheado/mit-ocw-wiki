@@ -12,6 +12,8 @@ views: 60
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:06:44Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 1, Syllabus: 1, Video-Transcript: 1"
 ---
 
 # The Sustainability Response to COVID-19
@@ -30,8 +32,17 @@ This course explores the importance of public transportation to social and econo
 
 ## Materials
 
-- [Projects] Projects
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/11-s955-the-sustainability-response-to-covid-19-january-iap-2021/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-s955-the-sustainability-response-to-covid-19-january-iap-2021/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-s955-the-sustainability-response-to-covid-19-january-iap-2021/pages/assignments/)
+
+### Resource
+- [Additional Resources](https://ocw.mit.edu/courses/11-s955-the-sustainability-response-to-covid-19-january-iap-2021/pages/additional-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

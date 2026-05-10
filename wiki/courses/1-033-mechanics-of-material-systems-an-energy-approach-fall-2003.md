@@ -12,6 +12,9 @@ views: 827
 completeness: 0.5
 last_modified: "2026-05-06T14:47:32Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 12, Problem-Set: 11, Resource: 4, Syllabus: 2"
+api_id: 5818
 ---
 
 # Mechanics of Material Systems: An Energy Approach
@@ -30,12 +33,40 @@ type: "course"
 
 ## Materials
 
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [lecturei2mohrstr.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/lecturei2mohrstr/)
+- [lecturei2gageros.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/lecturei2gageros/)
+- [lecture_iv_9.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/lecture_iv_9/)
+- [lecture_iv_8.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/lecture_iv_8/)
+- [lecture_iv_7.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/lecture_iv_7/)
+- [lecture_iii_6.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/lecture_iii_6/)
+- [lecture_iii_5.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/lecture_iii_5/)
+- [lecture_ii_4.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/lecture_ii_4/)
+- [lecture_ii_3.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/lecture_ii_3/)
+- [lecture_i2.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/lecture_i2/)
+- [lecture_i1_new.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/lecture_i1_new/)
+- [Lecture Notes](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/pages/lecture-notes/)
+
+### Problem-Set
+- [sandcastles.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/sandcastles/)
+- [quiz2_solution.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/quiz2_solution/)
+- [quiz1_solution.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/quiz1_solution/)
+- [hw4solution.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/hw4solution/)
+- [hw4.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/hw4/)
+- [hw3.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/hw3/)
+- [hw2solution.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/hw2solution/)
+- [hw2.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/hw2/)
+- [hw1.pdf (.pdf)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/hw1/)
+- [Exams](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/pages/assignments/)
+
+### Resource
+- [1-033f03.jpg (.jpg)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/1-033f03/)
+- [1-033f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/resources/1-033f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 302
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:19:41Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3848
 ---
 
 # Technology, Law, and the Working Environment
@@ -30,8 +33,19 @@ This course addresses the relationship between technology-related problems and t
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/10-805j-technology-law-and-the-working-environment-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/10-805j-technology-law-and-the-working-environment-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/10-805j-technology-law-and-the-working-environment-spring-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/10-805j-technology-law-and-the-working-environment-spring-2006/pages/assignments/)
+
+### Resource
+- [Gramercy Works Alumina Plant Explosion (.jpg)](https://ocw.mit.edu/courses/10-805j-technology-law-and-the-working-environment-spring-2006/resources/10-805js06/)
+- [Gramercy Works Alumina Plant Explosion (thumbnail) (.jpg)](https://ocw.mit.edu/courses/10-805j-technology-law-and-the-working-environment-spring-2006/resources/10-805js06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

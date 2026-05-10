@@ -12,6 +12,9 @@ views: 1569
 completeness: 0.0
 last_modified: "2026-05-06T16:48:34Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Resource: 2"
+api_id: 16000
 ---
 
 # STAR: Software Tools for Academics and Researchers
@@ -32,8 +35,9 @@ Online Publication
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [res-tl-002s12.jpg (.jpg)](https://ocw.mit.edu/courses/res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012/resources/res-tl-002s12/)
+- [res-tl-002s12-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012/resources/res-tl-002s12-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

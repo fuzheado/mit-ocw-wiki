@@ -12,6 +12,8 @@ views: 644
 completeness: 0.12
 last_modified: "2026-05-06T16:57:43Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 1, Reading-List: 1, Syllabus: 2"
 ---
 
 # Nuclear Power Plant Dynamics and Control
@@ -31,10 +33,15 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
-- [Written Assignments] Written Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006/pages/calendar/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006/pages/assignments/)
 ## Wikipedia Bridge
 
 ### Related Articles

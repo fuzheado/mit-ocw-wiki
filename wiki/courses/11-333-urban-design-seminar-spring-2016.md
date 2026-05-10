@@ -12,6 +12,9 @@ views: 873
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:11:19Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5755
 ---
 
 # Urban Design Seminar
@@ -30,9 +33,19 @@ This seminar focuses on understanding the role of high-quality design as a tool 
 
 ## Materials
 
-- [Design Assignments] Design Assignments
-- [Presentation Assignments] Presentation Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-333-urban-design-seminar-spring-2016/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-333-urban-design-seminar-spring-2016/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-333-urban-design-seminar-spring-2016/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-333-urban-design-seminar-spring-2016/pages/assignments/)
+
+### Resource
+- [Informal Settlement in Medellin, Colombia (.jpg)](https://ocw.mit.edu/courses/11-333-urban-design-seminar-spring-2016/resources/11-333s16/)
+- [Informal Settlement in Medellin, Colombia (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-333-urban-design-seminar-spring-2016/resources/11-333s16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles
