@@ -438,20 +438,111 @@ def update_page(slug: str, assets: list):
 
     content = path.read_text()
 
-    # Group assets by type
-    groups = {}
+    # Normalize a display text to its base lecture/concept name
+    def base_name(text: str) -> str:
+        s = text.strip()
+        # Remove trailing badges and format suffixes
+        s = re.sub(r'\s*🎬YouTube\s*$', '', s)
+        s = re.sub(r'\s*📺Video\s*$', '', s)
+        s = re.sub(r'\s*\(\.\w+\)\s*$', '', s)
+        s = re.sub(r'\s*\((?:video|transcript)\)\s*$', '', s, flags=re.I)
+        s = re.sub(r'\s*\((\d+)\)\s*$', '', s)  # de-duplicate counter
+        return s.strip()
+
+    # Detect format from URL and text
+    def format_tag(url: str, text: str) -> str:
+        if 'youtu' in url.lower():
+            # Extract part number from YouTube URL or text
+            part = ""
+            pm = re.search(r'[Pp]art\s*(\d)', text)
+            if pm:
+                part = f" Part {pm.group(1)}"
+            return f"🎬{part}" if part else "🎬"
+        if url.endswith('.mp4') or '.mp4' in url:
+            return "⬇"
+        if 'transcript' in url.lower() or '.pdf' in url.lower() or 'transcript' in text.lower():
+            return "📄"
+        return "🔗"
+
+    # Step 1: Group assets by base name
+    groups = {}  # base_name -> { type: [(text, url)] }
+    standalone = []  # assets without a group partner
+    base_counts = {}
+
     for atype, text, url in assets:
-        groups.setdefault(atype, []).append((text, url))
+        base = base_name(text)
+        base_counts[base] = base_counts.get(base, 0) + 1
 
-    type_order = ["Syllabus", "Lecture-Notes", "Video-Transcript", "Reading-List",
-                  "Problem-Set", "Assignment", "Image-Gallery", "Resource"]
+    for atype, text, url in assets:
+        base = base_name(text)
+        if base_counts[base] >= 2:
+            groups.setdefault(base, []).append((atype, text, url))
+        else:
+            standalone.append((atype, text, url))
 
+    # Step 2: Separate groups by type for rendering, and collect format links
+    type_order = ["Syllabus", "Lecture-Notes", "Reading-List", "Problem-Set",
+                  "Assignment", "Image-Gallery", "Resource"]
+    video_types = {"Video-Transcript"}
+
+    # Separate assets into type-based sections
+    type_groups = {t: [] for t in type_order}
+    for atype, text, url in standalone:
+        if atype in type_groups:
+            type_groups[atype].append((text, url))
+
+    # Detect format from URL and text
+    def format_tag(url: str, text: str) -> str:
+        # Extract part number from URL (e.g. "lecture-1-part-2" not "_360p")
+        part = ""
+        pm = re.search(r'[Pp]art[-_]\d|[Pp]art\s+\d', url)
+        if pm:
+            pn = re.search(r'\d+', url[pm.start():pm.end()])
+            if pn:
+                part = f" {pn.group()}"
+        elif re.search(r'[Pp]art\s*(\d)', text):
+            pm2 = re.search(r'[Pp]art\s*(\d)', text)
+            if pm2:
+                part = f" {pm2.group(1)}"
+        if 'youtu' in url.lower():
+            return f"🎬{part}" if part else "🎬"
+        if url.endswith('.mp4') or '.mp4' in url:
+            return f"⬇{part}" if part else "⬇"
+        if 'transcript' in url.lower() or '.pdf' in url.lower() or 'transcript' in text.lower():
+            return f"📄{part}" if part else "📄"
+        return "🔗"
+
+    # Build format links for each group, allowing duplicates with different part numbers
+    group_lines = []
+    for base_name_key in sorted(groups.keys()):
+        entries = groups[base_name_key]
+        # Collect all format links with part differentiation
+        fmt_parts = []
+        seen = set()
+        for atype, text, url in entries:
+            tag = format_tag(url, text)
+            if url not in seen:
+                seen.add(url)
+                fmt_parts.append(f"[{tag}]({url})")
+        fmt_str = " · ".join(fmt_parts)
+        group_lines.append(f"- **{base_name_key}** — {fmt_str}")
+
+    # Step 3: Render the full materials section
     lines = ["## Materials", ""]
+
+    # Render grouped lectures first
+    if group_lines:
+        lines.append("### Lectures")
+        lines.extend(group_lines)
+        lines.append("")
+
+    # Render type-based sections for standalone assets
     for t in type_order:
-        if t not in groups:
+        items = type_groups[t]
+        if not items:
             continue
         lines.append(f"### {t}")
-        for text, url in groups[t]:
+        for text, url in items:
             lines.append(f"- [{text}]({url})")
         lines.append("")
 
@@ -478,15 +569,18 @@ def update_page(slug: str, assets: list):
     else:
         content = re.sub(r'^(type:.*)', fr'\1\nlast_scanned: {scan_time}', content, flags=re.M)
 
-    # asset_counts (summary of what was found)
-    counts_str = ", ".join(f"{t}: {len(v)}" for t, v in sorted(groups.items()))
+    # asset_counts (summary of what was found, by type)
+    type_counts = {}
+    for atype, text, url in assets:
+        type_counts[atype] = type_counts.get(atype, 0) + 1
+    counts_str = ", ".join(f"{t}: {c}" for t, c in sorted(type_counts.items()))
     if re.search(r'^asset_counts:', content, re.M):
         content = re.sub(r'^asset_counts:.*', f'asset_counts: "{counts_str}"', content, flags=re.M)
     else:
         content = re.sub(r'^(last_scanned:.*)', fr'\1\nasset_counts: "{counts_str}"', content, flags=re.M)
 
     path.write_text(content)
-    print(f"  updated {slug} ({len(assets)} assets in {len(groups)} categories)")
+    print(f"  updated {slug} ({len(assets)} assets in {len(type_counts)} categories)")
 
 def append_log(msg: str):
     p = WIKI_DIR / "log.md"
