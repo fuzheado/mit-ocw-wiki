@@ -127,3 +127,5 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-10 01:22] asset-scan | Hybrid scanned [[4-241j-theory-of-city-form-spring-2013|4.241J Theory of City Form]] (100 assets: 75 API + 41 pages)
 
 ## [2026-05-10 01:24] asset-scan | Hybrid scanned [[14-01-principles-of-microeconomics-fall-2023|14.01 Principles of Microeconomics ]] (110 assets: 105 API + 8 pages)
+
+## [2026-05-10 01:32] asset-scan | Hybrid scanned [[2-43-advanced-thermodynamics-spring-2024|2.43 Advanced Thermodynamics]] (83 assets: 79 API + 57 pages)
