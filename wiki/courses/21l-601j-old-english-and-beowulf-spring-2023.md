@@ -13,7 +13,7 @@ completeness: 0.11666666666666668
 last_modified: "2026-05-06T17:08:45Z"
 type: "course"
 last_scanned: 2026-05-10
-asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 14, Syllabus: 1, Video-Transcript: 11"
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 18, Syllabus: 1, Video-Transcript: 25"
 api_id: 5875
 ---
 
@@ -35,15 +35,16 @@ This course is an intensive introduction to Old English (also called Anglo-Saxon
 
 ### Lectures
 - **How the Course Has Evolved** — [⬇](https://ocw.mit.edu/courses/21l-601j-old-english-and-beowulf-spring-2023/mit21l_601js23_mock_exam_sentence_2_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/21l-601j-old-english-and-beowulf-spring-2023/mit21l_601js23_mock_exam_sentence_2_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/21l-601j-old-english-and-beowulf-spring-2023/pages/how-the-course-has-evolved/)
-
-### Syllabus
-- [Syllabus and Calendar](https://ocw.mit.edu/courses/21l-601j-old-english-and-beowulf-spring-2023/pages/syllabus/)
-
-### Reading-List
-- [Readings](https://ocw.mit.edu/courses/21l-601j-old-english-and-beowulf-spring-2023/pages/readings/)
-
-### Problem-Set
-- [Mock Exam](https://ocw.mit.edu/courses/21l-601j-old-english-and-beowulf-spring-2023/pages/exams/)
+- **Lecture 2: Pronunciation, Grammar Review, the Case System, and Word-Formation** — [🎬](https://youtu.be/N61p2aoPPVs) · [🔗](https://ocw.mit.edu/courses/21l-601j-old-english-and-beowulf-spring-2023/video_galleries/lecture-videos/)
+- **Lecture 3: Pronouns** — [🎬](https://youtu.be/wtE8Hybivog) · [🔗](https://ocw.mit.edu/courses/21l-601j-old-english-and-beowulf-spring-2023/video_galleries/lecture-videos/)
+- **Lecture 4: Nouns** — [🎬](https://youtu.be/boVi_FBYD_c) · [🔗](https://ocw.mit.edu/courses/21l-601j-old-english-and-beowulf-spring-2023/video_galleries/lecture-videos/)
+- **Lecture 5: Verbs** — [🎬 1](https://youtu.be/6LMR2YZrBJo) · [🔗](https://ocw.mit.edu/courses/21l-601j-old-english-and-beowulf-spring-2023/video_galleries/lecture-videos/)
+- **Lecture 6: Mock Exam, Verbs, Part 2, and Adjectives** — [🎬 2](https://youtu.be/x_xXPFS1hkQ) · [🔗](https://ocw.mit.edu/courses/21l-601j-old-english-and-beowulf-spring-2023/video_galleries/lecture-videos/)
+- **Lecture 7: Numerals, Adverbs, Conjunctions, Prepositions, Concord, and Word Order** — [🎬](https://youtu.be/RpK4scGYYmw) · [🔗](https://ocw.mit.edu/courses/21l-601j-old-english-and-beowulf-spring-2023/video_galleries/lecture-videos/)
+- **Lecture 8: Syntax** — [🎬 1](https://youtu.be/v_2t4CT4cpw) · [🔗](https://ocw.mit.edu/courses/21l-601j-old-english-and-beowulf-spring-2023/video_galleries/lecture-videos/)
+- **Mock Exam** — [🔗](https://ocw.mit.edu/courses/21l-601j-old-english-and-beowulf-spring-2023/pages/exams/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21l-601j-old-english-and-beowulf-spring-2023/pages/readings/)
+- **Syllabus and Calendar** — [🔗](https://ocw.mit.edu/courses/21l-601j-old-english-and-beowulf-spring-2023/pages/syllabus/)
 
 ### Resource
 - [Transcript of Using Mock Exams as an Opportunity to Model Thought Processes (.pdf)](https://ocw.mit.edu/courses/21l-601j-old-english-and-beowulf-spring-2023/resources/mit21l_601js23_mock_exam_sentence_2_transcript_pdf/)

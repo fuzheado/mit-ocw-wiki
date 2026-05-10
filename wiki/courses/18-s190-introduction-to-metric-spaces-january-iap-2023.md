@@ -12,6 +12,8 @@ views: 295
 completeness: 0.21000000000000002
 last_modified: "2026-05-06T14:59:35Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Resource: 1, Syllabus: 1, Video-Transcript: 31"
 ---
 
 # Introduction to Metric Spaces 
@@ -30,13 +32,25 @@ This course provides a basic introduction to metric spaces. It covers metrics, o
 
 ## Materials
 
-- [Editable Files] Editable Files
-- [Instructor Insights] Instructor Insights
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Open Textbooks] Open Textbooks
-- [Problem Sets] Problem Sets
+### Lectures
+- **Lecture 1: Motivation, Intuition, and Examples** — [🎬](https://youtu.be/YQQOfK3ZLRU) · [🔗](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/video_galleries/lecture-videos/) · [🔗](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/pages/lecture-notes/)
+- **Lecture 2: General Theory** — [🎬](https://youtu.be/uS-w4yl35vc) · [🔗](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/video_galleries/lecture-videos/) · [🔗](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/pages/lecture-notes/)
+- **Lecture 3: Compact Sets in Rⁿ** — [🎬](https://youtu.be/RdrCzc3DxLg) · [🔗](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/video_galleries/lecture-videos/) · [🔗](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/pages/lecture-notes/)
+- **Lecture 4: Compact Metric Spaces** — [🎬](https://youtu.be/Rv3xYk85Lq0) · [🔗](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/video_galleries/lecture-videos/) · [🔗](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/pages/lecture-notes/)
+- **Lecture 5: Complete Metric Spaces** — [🎬](https://youtu.be/6bPEZYhh1P4) · [🔗](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/video_galleries/lecture-videos/) · [🔗](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/pages/lecture-notes/)
+- **Lecture 6: Where We Go from Here** — [🎬](https://youtu.be/re2cL2GfUfM) · [🔗](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/video_galleries/lecture-videos/) · [🔗](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/pages/lecture-notes/)
 
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/pages/syllabus/)
+
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/pages/lecture-notes/)
+
+### Problem-Set
+- [Problem Sets](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/pages/problem-sets/)
+
+### Resource
+- [Instructor Insights](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

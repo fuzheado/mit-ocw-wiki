@@ -171,3 +171,11 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-10 02:47] asset-scan | Hybrid scanned [[22-67j-principles-of-plasma-diagnostics-fall-2023|22.67J Principles of Plasma Diagnostics]] (52 assets: 49 API + 28 pages)
 
 ## [2026-05-10 02:47] asset-scan | Hybrid scanned [[21l-601j-old-english-and-beowulf-spring-2023|21L.601J Old English and Beowulf]] (28 assets: 25 API + 19 pages)
+
+## [2026-05-10 02:53] asset-scan | Hybrid scanned [[21l-601j-old-english-and-beowulf-spring-2023|21L.601J Old English and Beowulf]] (28 assets: 25 API + 21 pages)
+
+## [2026-05-10 02:54] asset-scan | Hybrid scanned [[21l-601j-old-english-and-beowulf-spring-2023|21L.601J Old English and Beowulf]] (28 assets: 25 API + 21 pages)
+
+## [2026-05-10 02:56] asset-scan | Hybrid scanned [[21l-601j-old-english-and-beowulf-spring-2023|21L.601J Old English and Beowulf]] (46 assets: 25 API + 21 pages)
+
+## [2026-05-10 02:59] asset-scan | Hybrid scanned [[18-s190-introduction-to-metric-spaces-january-iap-2023|18.S190 Introduction to Metric Spaces ]] (35 assets: 0 API + 0 pages)
