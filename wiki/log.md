@@ -11,3 +11,5 @@
 Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead. FIXME tagged.
 
 ## [2026-05-09 16:30] ocw-ingest | Batch offset=0 (100 courses)
+
+## [asset-scan] Scanned 4-241j-the-making-of-cities-spring-2025 (4 assets)

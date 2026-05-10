@@ -20,7 +20,14 @@ from pathlib import Path
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 
+from datetime import datetime
+
+
 WIKI_DIR = Path(__file__).resolve().parent.parent / "wiki"
+
+
+def timestamp() -> str:
+    return datetime.now().strftime("%Y-%m-%d %H:%M")
 
 # Map sidebar link text patterns to asset types
 PATTERN_MAP = [
@@ -186,6 +193,20 @@ def update_course_page(slug: str, assets: list):
     print(f"  updated {slug} ({len(assets)} assets)")
 
 
+def append_log(message: str):
+    """Append an entry to wiki/log.md."""
+    log_path = WIKI_DIR / "log.md"
+    log_path.write_text(log_path.read_text().rstrip() + f"\n\n{message}\n")
+
+
+def update_checkpoint(courses_done: int):
+    """Update _checkpoint.json with asset scan progress."""
+    cp_path = Path(__file__).resolve().parent.parent / "_checkpoint.json"
+    cp = json.loads(cp_path.read_text())
+    cp["stages"]["asset_scan"]["courses_done"] += courses_done
+    cp_path.write_text(json.dumps(cp, indent=2))
+
+
 def main():
     args = sys.argv[1:]
 
@@ -194,13 +215,17 @@ def main():
         limit = int(args[2]) if len(args) > 2 else 100
         slugs = sorted(f.name.replace(".md", "") for f in (WIKI_DIR / "courses").iterdir() if f.name.endswith(".md"))
         batch = slugs[offset:offset + limit]
+        scanned = 0
         print(f"Scanning batch {offset}-{offset + len(batch)} ({len(batch)} courses)...")
         for slug in batch:
             assets = scan_course(slug)
             if assets:
                 update_course_page(slug, assets)
+                scanned += 1
             time.sleep(0.3)  # rate limit
-        print(f"Done. Scanned {len(batch)} courses.")
+        append_log(f"## [{timestamp()}] asset-scan | Batch offset={offset} ({scanned} courses scanned)")
+        update_checkpoint(scanned)
+        print(f"Done. Scanned {scanned} courses.")
 
     elif len(args) >= 1 and args[0] == "--slug":
         slug = args[1]
@@ -210,6 +235,8 @@ def main():
             print(f"  [{at}] {text} -> {url}")
         if assets:
             update_course_page(slug, assets)
+            append_log(f"## [{timestamp()}] asset-scan | Scanned {slug} ({len(assets)} assets)")
+            update_checkpoint(1)
 
     elif len(args) >= 1 and args[0] == "--remaining":
         # Find courses without proper asset scans
@@ -228,12 +255,16 @@ def main():
         print(f"{scanned} scanned, {len(remaining)} remaining")
         if remaining:
             batch = remaining[:100]
+            new_scans = 0
             print(f"Scanning next 100...")
             for slug in batch:
                 assets = scan_course(slug)
                 if assets:
                     update_course_page(slug, assets)
+                    new_scans += 1
                 time.sleep(0.3)
+            append_log(f"## [{timestamp()}] asset-scan | Remaining batch ({new_scans} courses scanned)")
+            update_checkpoint(new_scans)
 
     else:
         print(__doc__)
