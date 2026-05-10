@@ -3,3 +3,4 @@ publish.json
 .rebuild
 raw/api/
 .DS_Store
+.claude/active-file
