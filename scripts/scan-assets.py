@@ -441,13 +441,16 @@ def update_page(slug: str, assets: list):
     # Normalize a display text to its base lecture/concept name
     def base_name(text: str) -> str:
         s = text.strip()
-        # Remove trailing badges and format suffixes
-        s = re.sub(r'\s*🎬YouTube\s*$', '', s)
-        s = re.sub(r'\s*📺Video\s*$', '', s)
-        s = re.sub(r'\s*\(\.\w+\)\s*$', '', s)
-        s = re.sub(r'\s*\((?:video|transcript)\)\s*$', '', s, flags=re.I)
-        s = re.sub(r'\s*\((\d+)\)\s*$', '', s)  # de-duplicate counter
-        return s.strip()
+        # Strip known suffixes in order (no $ anchor, emoji-safe)
+        for suffix in [" 📺Video", " 🎬YouTube", " (video)", " (transcript)", " (.mp4)", " (.pdf)", " (.pptx)", " (.jpg)"]:
+            if s.endswith(suffix):
+                s = s[:-len(suffix)]
+        # Strip trailing ", Part N" or " Part N"
+        s = re.sub(r'\s*,?\s*[Pp]art\s*\d+\s*$', '', s)
+        s = re.sub(r'\s*\(\d+\)\s*$', '', s)
+        return s.strip().lower()
+
+    # Group assets by normalized base name (case-insensitive)
 
     # Detect format from URL and text
     def format_tag(url: str, text: str) -> str:
@@ -493,17 +496,12 @@ def update_page(slug: str, assets: list):
 
     # Detect format from URL and text
     def format_tag(url: str, text: str) -> str:
-        # Extract part number from URL (e.g. "lecture-1-part-2" not "_360p")
+        # Extract part number from URL or text first
         part = ""
-        pm = re.search(r'[Pp]art[-_]\d|[Pp]art\s+\d', url)
-        if pm:
-            pn = re.search(r'\d+', url[pm.start():pm.end()])
-            if pn:
-                part = f" {pn.group()}"
-        elif re.search(r'[Pp]art\s*(\d)', text):
-            pm2 = re.search(r'[Pp]art\s*(\d)', text)
-            if pm2:
-                part = f" {pm2.group(1)}"
+        for src in (url, text):
+            pm = re.search(r'(?:[Pp]art)[-_\s]*(\d+)', src)
+            if pm:
+                part = f" {pm.group(1)}"
         if 'youtu' in url.lower():
             return f"🎬{part}" if part else "🎬"
         if url.endswith('.mp4') or '.mp4' in url:
@@ -516,6 +514,16 @@ def update_page(slug: str, assets: list):
     group_lines = []
     for base_name_key in sorted(groups.keys()):
         entries = groups[base_name_key]
+        # Use the most descriptive original text as the label (longest wins)
+        label = max((t for _, t, _ in entries), key=len)
+        # Clean trailing badges from the label (iterate to handle multiple suffixes)
+        for _ in range(5):
+            cleaned = re.sub(r'\s*(?:🎬YouTube|📺Video|\(\.\w+\)|\((?:video|transcript)\)|,?\s*Part\s*\d+)\s*$', '', label, flags=re.I).rstrip(" ,")
+            if cleaned == label:
+                break
+            label = cleaned
+        # Restore proper case for display
+        label = label[0].upper() + label[1:] if label else label
         # Collect all format links with part differentiation
         fmt_parts = []
         seen = set()
@@ -525,7 +533,7 @@ def update_page(slug: str, assets: list):
                 seen.add(url)
                 fmt_parts.append(f"[{tag}]({url})")
         fmt_str = " · ".join(fmt_parts)
-        group_lines.append(f"- **{base_name_key}** — {fmt_str}")
+        group_lines.append(f"- **{label}** — {fmt_str}")
 
     # Step 3: Render the full materials section
     lines = ["## Materials", ""]
