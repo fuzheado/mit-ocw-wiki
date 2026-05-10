@@ -64,6 +64,22 @@ PATTERN_MAP = [
 def timestamp() -> str:
     return datetime.now().strftime("%Y-%m-%d %H:%M")
 
+def course_label(slug: str) -> str:
+    """Return 'course_id Title' for log entries, e.g. '5.111SC Principles of Chemical Science'."""
+    page_path = WIKI_DIR / "courses" / f"{slug}.md"
+    if not page_path.exists():
+        return slug
+    content = page_path.read_text()
+    cid = re.search(r'^course_id:\s*"(.+)"', content, re.M)
+    title = re.search(r'^title:\s*"(.+)"', content, re.M)
+    parts = []
+    if cid:
+        parts.append(cid.group(1))
+    if title:
+        parts.append(title.group(1))
+    return " ".join(parts) if parts else slug
+    return datetime.now().strftime("%Y-%m-%d %H:%M")
+
 def classify_link(text: str) -> str:
     for pattern, atype in PATTERN_MAP:
         if re.search(pattern, text, re.I):
@@ -442,13 +458,7 @@ def main():
             for t, c in sorted(types.items()):
                 print(f"  [{t:20s}] {c} files")
             update_page(slug, assets)
-            title = slug
-            page_path = WIKI_DIR / "courses" / f"{slug}.md"
-            if page_path.exists():
-                m = re.search(r'^title: "(.+)"', page_path.read_text(), re.M)
-                if m:
-                    title = m.group(1)
-            append_log(f"## [{timestamp()}] asset-scan | API scanned [[{slug}|{title}]] ({len(assets)} assets via API)")
+            append_log(f"## [{timestamp()}] asset-scan | API scanned [[{slug}|{course_label(slug)}]] ({len(assets)} assets via API)")
             update_checkpoint(0)
         else:
             print("  No assets found.")
@@ -459,14 +469,7 @@ def main():
         assets = deep_scan_one(slug, assets)
         if assets:
             update_page(slug, assets)
-            # Get course title for richer log entry
-            title = slug
-            page_path = WIKI_DIR / "courses" / f"{slug}.md"
-            if page_path.exists():
-                m = re.search(r'^title: "(.+)"', page_path.read_text(), re.M)
-                if m:
-                    title = m.group(1)
-            append_log(f"## [{timestamp()}] asset-scan | Deep scanned [[{slug}|{title}]] ({len(assets)} assets)")
+            append_log(f"## [{timestamp()}] asset-scan | Deep scanned [[{slug}|{course_label(slug)}]] ({len(assets)} assets)")
             update_checkpoint(0)
 
     elif args[0] == "--slug" and len(args) >= 2:
@@ -476,13 +479,7 @@ def main():
             print(f"  [{at:20s}] {t}")
         if assets:
             update_page(slug, assets)
-            title = slug
-            page_path = WIKI_DIR / "courses" / f"{slug}.md"
-            if page_path.exists():
-                m = re.search(r'^title: "(.+)"', page_path.read_text(), re.M)
-                if m:
-                    title = m.group(1)
-            append_log(f"## [{timestamp()}] asset-scan | Scanned [[{slug}|{title}]] ({len(assets)} assets)")
+            append_log(f"## [{timestamp()}] asset-scan | Scanned [[{slug}|{course_label(slug)}]] ({len(assets)} assets)")
             update_checkpoint(1)
 
     elif args[0] == "--batch" and len(args) >= 2:
