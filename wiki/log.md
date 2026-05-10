@@ -85,3 +85,5 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-09 21:59] asset-scan | Hybrid scanned [[2-782j-design-of-medical-devices-and-implants-spring-2025|2.782J Design of Medical Devices and Implants]] (7 assets: 7 API + 6 pages)
 
 ## [2026-05-09 22:06] asset-scan | Hybrid scanned [[res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026|RES.10-001 Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work]] (112 assets: 102 API + 18 pages)
+
+## [2026-05-09 22:09] asset-scan | Hybrid scanned [[18-100b-real-analysis-spring-2025|18.100B Real Analysis]] (69 assets: 68 API + 52 pages)
