@@ -113,3 +113,5 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-09 22:31] asset-scan | Hybrid scanned [[2-787j-tissue-engineering-and-organ-regeneration-fall-2024|2.787J Tissue Engineering and Organ Regeneration]] (44 assets: 5 API + 30 pages)
 
 ## [2026-05-09 22:34] asset-scan | Hybrid scanned [[6-1200j-mathematics-for-computer-science-spring-2024|6.1200J Mathematics for Computer Science]] (76 assets: 72 API + 51 pages)
+
+## [2026-05-09 22:35] asset-scan | Hybrid scanned [[cms-595-learning-media-and-technology-spring-2024|CMS.595 Learning, Media, and Technology]] (41 assets: 35 API + 12 pages)
