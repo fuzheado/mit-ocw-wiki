@@ -75,7 +75,7 @@ def course_label(slug: str) -> str:
     title = re.search(r'^title:\s*"(.+)"', content, re.M)
     parts = []
     if cid:
-        parts.append(cid.group(1))
+        parts.append(cid.group(1).upper())
     if title:
         parts.append(title.group(1))
     return " ".join(parts) if parts else slug
@@ -307,7 +307,7 @@ def api_scan(slug: str) -> list:
         print(f"  SKIP {slug} — missing course_id or year_published in frontmatter")
         return []
 
-    readable_id = f"{course_id.group(1)}+{semester}_{year.group(1)}"
+    readable_id = f"{course_id.group(1).upper()}+{semester}_{year.group(1)}"
     encoded_rid = quote(readable_id, safe="")
 
     # Look up course in API to get the numeric ID
