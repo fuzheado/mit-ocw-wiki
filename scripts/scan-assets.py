@@ -109,7 +109,7 @@ def detect_video(html: str) -> list:
     return found
 
 
-def deep_scan_one(slug: str, assets: list, max_pages: int = 30) -> list:
+def deep_scan_one(slug: str, assets: list, max_pages: int = 100) -> list:
     """
     Visit sub-pages to detect video content and downloadable resources.
     Returns updated assets with video annotations.
