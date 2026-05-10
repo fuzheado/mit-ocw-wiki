@@ -12,6 +12,9 @@ views: 199
 completeness: 0.0
 last_modified: "2026-05-06T14:57:48Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 6, Resource: 5, Syllabus: 2"
+api_id: 4224
 ---
 
 # Dialogue in Art, Architecture, and Urbanism
@@ -30,9 +33,21 @@ In this class we will examine how the idea of the city has been “translated”
 
 ## Materials
 
-- [Other Video] Other Video
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-303-dialogue-in-art-architecture-and-urbanism-fall-2003/pages/calendar/)
+- **Projects** — [🔗](https://ocw.mit.edu/courses/4-303-dialogue-in-art-architecture-and-urbanism-fall-2003/pages/projects/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-303-dialogue-in-art-architecture-and-urbanism-fall-2003/pages/syllabus/)
 
+### Assignment
+- [trace (.pdf)](https://ocw.mit.edu/courses/4-303-dialogue-in-art-architecture-and-urbanism-fall-2003/resources/timcarrie/)
+- [Rose Kennedy Greenway Golf Course: Linear Pleasure in Bloom (.pdf)](https://ocw.mit.edu/courses/4-303-dialogue-in-art-architecture-and-urbanism-fall-2003/resources/rossstephen/)
+- [Rob Morgan and Katherine James (.pdf)](https://ocw.mit.edu/courses/4-303-dialogue-in-art-architecture-and-urbanism-fall-2003/resources/robkate/)
+- [Machines for Producing Landscap (.pdf)](https://ocw.mit.edu/courses/4-303-dialogue-in-art-architecture-and-urbanism-fall-2003/resources/freddieliz/)
+
+### Resource
+- [Big Dig (.jpg)](https://ocw.mit.edu/courses/4-303-dialogue-in-art-architecture-and-urbanism-fall-2003/resources/4-303f03/)
+- [Big Dig (thumbnail) (.jpg)](https://ocw.mit.edu/courses/4-303-dialogue-in-art-architecture-and-urbanism-fall-2003/resources/4-303f03-th/)
+- [Course Pedagogy](https://ocw.mit.edu/courses/4-303-dialogue-in-art-architecture-and-urbanism-fall-2003/pages/course-pedagogy/)
 ## Wikipedia Bridge
 
 ### Related Articles

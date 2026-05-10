@@ -12,6 +12,9 @@ views: 1433
 completeness: 0.0
 last_modified: "2026-05-06T16:52:59Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Resource: 1"
+api_id: 14016
 ---
 
 # Sensing Place: Photography as Inquiry
@@ -30,8 +33,8 @@ This course explores photography as a disciplined way of seeing, as a research m
 
 ## Materials
 
-- [Media Assignments with Examples] Media Assignments with Examples
-
+### Resource
+- [mit11_309j_s24.jpg (.jpg)](https://ocw.mit.edu/courses/11-309j-sensing-place-photography-as-inquiry-spring-2024/resources/mit11_309j_s24_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

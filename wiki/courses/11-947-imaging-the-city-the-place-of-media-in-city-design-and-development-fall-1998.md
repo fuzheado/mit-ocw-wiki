@@ -12,6 +12,9 @@ views: 48
 completeness: 0.1366666666666667
 last_modified: "2026-05-06T17:03:34Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 14, Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4611
 ---
 
 # Imaging the City: The Place of Media in City Design and Development
@@ -30,8 +33,36 @@ Kevin Lynch’s landmark volume, The Image of the City (1960), emphasized the pe
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/pages/syllabus/)
 
+### Lecture-Notes
+- [9.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/resources/9/)
+- [8.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/resources/8/)
+- [7.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/resources/7/)
+- [6.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/resources/6/)
+- [5.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/resources/5/)
+- [4.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/resources/4/)
+- [3.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/resources/3/)
+- [2.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/resources/2/)
+- [13.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/resources/13/)
+- [12.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/resources/12/)
+- [11.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/resources/11/)
+- [10.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/resources/10/)
+- [1.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/resources/1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/pages/assignments/)
+
+### Resource
+- [11-947f98.jpg (.jpg)](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/resources/11-947f98/)
+- [11-947f98-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/resources/11-947f98-th/)
+- [Speakers](https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/pages/speakers/)
 ## Wikipedia Bridge
 
 ### Related Articles

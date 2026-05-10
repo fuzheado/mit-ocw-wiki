@@ -12,6 +12,9 @@ views: 504
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:05:06Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 17, Image-Gallery: 1, Problem-Set: 1, Reading-List: 6, Resource: 17, Syllabus: 2"
+api_id: 4580
 ---
 
 # Urban Design
@@ -31,9 +34,56 @@ In the fall 2003 Urban Design Studio we propose to focus in on an area adjacent 
 
 ## Materials
 
-- [Design Assignments] Design Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/pages/calendar/)
+- **Maps** — [🔗](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/pages/maps/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/pages/syllabus/)
 
+### Reading-List
+- [todd2.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/todd2/)
+- [todd1.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/todd1/)
+- [ray2.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/ray2/)
+- [ray1.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/ray1/)
+- [eric.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/eric/)
+- [Readings](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/pages/assignments/)
+
+### Assignment
+- [TheEdge.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/theedge/)
+- [TableOfContents.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/tableofcontents/)
+- [MITCasaSuCasa.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/mitcasasucasa/)
+- [ipsession3.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/ipsession3/)
+- [ipsession1.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/ipsession1/)
+- [ipsecondrev.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/ipsecondrev/)
+- [ipnu.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/ipnu/)
+- [iphbs_suffolk_slides.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/iphbs_suffolk_slides/)
+- [ipharvardold.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/ipharvardold/)
+- [ipharvard.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/ipharvard/)
+- [ipbcbu.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/ipbcbu/)
+- [FSILGs.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/fsilgs/)
+- [CrossingTheTracks.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/crossingthetracks/)
+- [CambridgeStreets.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/cambridgestreets/)
+- [BriggsFields.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/briggsfields/)
+- [Approach.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/approach/)
+- [Projects](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/pages/projects/)
+
+### Resource
+- [zoning.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/zoning/)
+- [transportation.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/transportation/)
+- [resid_use.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/resid_use/)
+- [ortho.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/ortho/)
+- [nonres_use.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/nonres_use/)
+- [mitland.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/mitland/)
+- [grad_res.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/grad_res/)
+- [gen_use.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/gen_use/)
+- [contextcamb.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/contextcamb/)
+- [context.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/context/)
+- [conditions.pdf (.pdf)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/conditions/)
+- [11332j_calendar.gif (.gif)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/11332j_calendar/)
+- [11-332jf03.jpg (.jpg)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/11-332jf03/)
+- [11-332jf03-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/resources/11-332jf03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 103
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:05:16Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5359
 ---
 
 # Brownfields Policy and Practice
@@ -30,8 +33,20 @@ There are several hundred thousand Brownfield sites across the country. The larg
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/pages/readings/)
+
+### Problem-Set
+- [A Survey of Lynn Stakeholders Regarding Potential Waterfront Redevelopment (.pdf)](https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/resources/final_project/)
+- [Assignments](https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/pages/assignments/)
+
+### Resource
+- [Frontier Hard Chrome, Inc. Superfund Site (.jpg)](https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/resources/11-370f05/)
+- [Frontier Hard Chrome, Inc. Superfund Site (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/resources/11-370f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

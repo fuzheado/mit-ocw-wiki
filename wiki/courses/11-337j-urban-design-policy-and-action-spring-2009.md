@@ -12,6 +12,9 @@ views: 205
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:02:00Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 4365
 ---
 
 # Urban Design Policy and Action
@@ -30,8 +33,17 @@ In this course we examine the relationship between public policy and urban desig
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2009/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2009/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2009/pages/assignments/)
+
+### Resource
+- [Zoning map of Whittier California (.jpg)](https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2009/resources/11-337js09/)
 ## Wikipedia Bridge
 
 ### Related Articles

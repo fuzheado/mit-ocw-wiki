@@ -12,6 +12,8 @@ views: 327
 completeness: 0.15000000000000002
 last_modified: "2026-05-06T16:52:13Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Reading-List: 1, Syllabus: 2"
 ---
 
 # Natural Light in Design
@@ -31,9 +33,18 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/4-493-natural-light-in-design-january-iap-2006/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/4-493-natural-light-in-design-january-iap-2006/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/4-493-natural-light-in-design-january-iap-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-493-natural-light-in-design-january-iap-2006/pages/readings/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/4-493-natural-light-in-design-january-iap-2006/pages/projects/)
 ## Wikipedia Bridge
 
 ### Related Articles

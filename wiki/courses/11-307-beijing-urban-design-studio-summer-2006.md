@@ -12,6 +12,9 @@ views: 337
 completeness: 0.1
 last_modified: "2026-05-06T14:49:50Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 13, Image-Gallery: 1, Problem-Set: 5, Reading-List: 1, Resource: 28, Syllabus: 2"
+api_id: 5391
 ---
 
 # Beijing Urban Design Studio
@@ -30,10 +33,62 @@ This is the 20th anniversary of the Beijing Urban Design Studio, which is a join
 
 ## Materials
 
-- [Image Gallery] Image Gallery
-- [Presentation Assignments with Examples] Presentation Assignments with Examples
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/pages/calendar/)
+- **Image Gallery** — [🔗](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/pages/image-gallery/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/pages/readings/)
+
+### Problem-Set
+- [assn4final.pdf (.pdf)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/assn4final/)
+- [assn3.pdf (.pdf)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/assn3/)
+- [assn2.pdf (.pdf)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/assn2/)
+- [assn1.pdf (.pdf)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/assn1/)
+- [Assignments](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/pages/assignments/)
+
+### Assignment
+- [fpres.pdf (.pdf)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/fpres/)
+- [fboards.pdf (.pdf)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/fboards/)
+- [epres.pdf (.pdf)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/epres/)
+- [eboards.pdf (.pdf)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/eboards/)
+- [dpres.pdf (.pdf)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/dpres/)
+- [dboards.pdf (.pdf)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/dboards/)
+- [cpres.pdf (.pdf)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/cpres/)
+- [cboards.pdf (.pdf)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/cboards/)
+- [bpres.pdf (.pdf)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/bpres/)
+- [bboards.pdf (.pdf)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/bboards/)
+- [apres.pdf (.pdf)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/apres/)
+- [aboards.pdf (.pdf)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/aboards/)
+- [Projects](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/pages/projects/)
+
+### Resource
+- [introtalk.pdf (.pdf)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/introtalk/)
+- [9.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/9/)
+- [8.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/8/)
+- [7.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/7/)
+- [6.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/6/)
+- [5.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/5/)
+- [4.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/4/)
+- [3.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/3/)
+- [24.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/24/)
+- [23.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/23/)
+- [22.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/22/)
+- [21.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/21/)
+- [20.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/20/)
+- [2.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/2/)
+- [19.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/19/)
+- [18.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/18/)
+- [17.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/17/)
+- [16.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/16/)
+- [15.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/15/)
+- [13.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/14/)
+- [12.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/12/)
+- [10.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/11/)
+- [11-307su06.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/11-307su06/)
+- [11-307su06-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/11-307su06-th/)
+- [1.jpg (.jpg)](https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/resources/1/)
 ## Wikipedia Bridge
 
 ### Related Articles

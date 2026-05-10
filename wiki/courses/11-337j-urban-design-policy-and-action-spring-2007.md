@@ -12,6 +12,9 @@ views: 301
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T17:23:44Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 7, Reading-List: 2, Resource: 4, Syllabus: 2"
+api_id: 5747
 ---
 
 # Urban Design Policy and Action
@@ -30,8 +33,26 @@ Governments at every level assume a measure of responsibility for seeking good d
 
 ## Materials
 
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2007/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2007/pages/syllabus/)
 
+### Reading-List
+- [Appendix: Additional References (.pdf)](https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2007/resources/appendix/)
+- [Readings](https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2007/pages/readings/)
+
+### Problem-Set
+- [Final Paper (.pdf)](https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2007/resources/final_paper/)
+- [Exercise #5: Information: An Example (.pdf)](https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2007/resources/exercise5/)
+- [Exercise #4: Incentives and Disincentives (.pdf)](https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2007/resources/exercise4/)
+- [Exercise #3: Property Rights: An Example (.pdf)](https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2007/resources/exercise3/)
+- [Exercise #2: Thinking About Regulation (.pdf)](https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2007/resources/exercise2/)
+- [Exercise #1: Thinking about Ownership and Operation: An Example (.pdf)](https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2007/resources/exercise1/)
+- [Assignments](https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2007/pages/assignments/)
+
+### Resource
+- [Photograph of Trinity Church and surrounding buildings in downtown Boston (.jpg)](https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2007/resources/11-337js07/)
+- [11-337js07-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2007/resources/11-337js07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

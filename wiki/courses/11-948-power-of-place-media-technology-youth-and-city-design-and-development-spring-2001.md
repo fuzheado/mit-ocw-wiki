@@ -12,6 +12,9 @@ views: 947
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:55:27Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 2, Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4937
 ---
 
 # Power of Place: Media Technology, Youth, and City Design and Development
@@ -31,8 +34,23 @@ Students will work in a real neighborhood with real people on a real project, pu
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001/pages/assignments/)
+
+### Assignment
+- [Searching Out the Lines (.pdf)](https://ocw.mit.edu/courses/11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001/resources/gaspar/)
+- [Projects](https://ocw.mit.edu/courses/11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001/pages/projects/)
+
+### Resource
+- [Mill Creek (.jpg)](https://ocw.mit.edu/courses/11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001/resources/11-948s01/)
+- [Mill Creek (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001/resources/11-948s01-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

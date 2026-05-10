@@ -12,6 +12,9 @@ views: 288
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:11:29Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 5, Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4098
 ---
 
 # Sites in Sight: Photography as Inquiry
@@ -30,9 +33,27 @@ This course explores photography as a disciplined way of seeing, of investigatin
 
 ## Materials
 
-- [Media Assignments with Examples] Media Assignments with Examples
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/pages/assignments/)
+
+### Assignment
+- [In Livable Cities is Preservation of the Wild: Head of the Charles to Hell's Half Acre (.pdf)](https://ocw.mit.edu/courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/resources/mikehouck/)
+- [mikehouck.jpg (.jpg)](https://ocw.mit.edu/courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/resources/mikehouck-1/)
+- [The Hilltop Campus (.pdf)](https://ocw.mit.edu/courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/resources/latonyagreen/)
+- [Washington, DC (.jpg)](https://ocw.mit.edu/courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/resources/latonyagreen-1/)
+- [Projects](https://ocw.mit.edu/courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/pages/projects/)
+
+### Resource
+- [Boston (.jpg)](https://ocw.mit.edu/courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/resources/24/)
+- [Harvard Bridge Project (.jpg)](https://ocw.mit.edu/courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/resources/11-309jf03/)
+- [Harvard Bridge Project 9thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/resources/11-309jf03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

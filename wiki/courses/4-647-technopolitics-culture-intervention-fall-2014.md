@@ -12,6 +12,9 @@ views: 155
 completeness: 0.2
 last_modified: "2026-05-06T17:01:15Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 5, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 1"
+api_id: 4150
 ---
 
 # Technopolitics, Culture, Intervention
@@ -30,9 +33,21 @@ Twentieth and twenty-first century architecture is defined by its rhetorical sub
 
 ## Materials
 
-- [Exams] Exams
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-647-technopolitics-culture-intervention-fall-2014/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/4-647-technopolitics-culture-intervention-fall-2014/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-647-technopolitics-culture-intervention-fall-2014/pages/syllabus/)
 
+### Problem-Set
+- [Simulating the Healing Machine: A brief, critical history of standardized patient programs (.pdf)](https://ocw.mit.edu/courses/4-647-technopolitics-culture-intervention-fall-2014/resources/mit4_647f14_techno_pr_fnl/)
+- [Final Exam (.pdf)](https://ocw.mit.edu/courses/4-647-technopolitics-culture-intervention-fall-2014/resources/mit4_647f14_exam_3/)
+- [Second Interim Exam (.pdf)](https://ocw.mit.edu/courses/4-647-technopolitics-culture-intervention-fall-2014/resources/mit4_647f14_exam_2/)
+- [First Interim Exam (.pdf)](https://ocw.mit.edu/courses/4-647-technopolitics-culture-intervention-fall-2014/resources/mit4_647f14_exam_1/)
+- [Exams](https://ocw.mit.edu/courses/4-647-technopolitics-culture-intervention-fall-2014/pages/exams/)
+
+### Resource
+- [A young boy uses his head (.jpg)](https://ocw.mit.edu/courses/4-647-technopolitics-culture-intervention-fall-2014/resources/4-647f14/)
+- [A young boy uses his head (thumbnail) (.jpg)](https://ocw.mit.edu/courses/4-647-technopolitics-culture-intervention-fall-2014/resources/4-647f14-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

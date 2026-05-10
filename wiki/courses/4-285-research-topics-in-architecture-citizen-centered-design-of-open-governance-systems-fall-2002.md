@@ -12,6 +12,9 @@ views: 170
 completeness: 0.11666666666666668
 last_modified: "2026-05-06T17:07:58Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 3, Lecture-Notes: 14, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 3817
 ---
 
 # Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems
@@ -31,9 +34,38 @@ A cross-disciplinary approach will be taken; students with background in archite
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/pages/syllabus/)
 
+### Lecture-Notes
+- [Sep24Slashdot.pdf (.pdf)](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/resources/sep24slashdot/)
+- [Oct29Identity.pdf (.pdf)](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/resources/oct29identity/)
+- [Oct22Critique.pdf (.pdf)](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/resources/oct22critique/)
+- [Oct08Project.pdf (.pdf)](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/resources/oct08project/)
+- [Oct01Name.pdf (.pdf)](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/resources/oct01name/)
+- [Nov19Digitalspace.pdf (.pdf)](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/resources/nov19digitalspace/)
+- [Nov12Disputes.pdf (.pdf)](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/resources/nov12disputes/)
+- [Nov05Transactions.pdf (.pdf)](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/resources/nov05transactions/)
+- [F__Working_4_4285_Overvie.pdf (.pdf)](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/resources/f__working_4_4285_overvie/)
+- [F__Working_4_4285_orincip.pdf (.pdf)](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/resources/f__working_4_4285_orincip/)
+- [F__Working_4_4285_OpenGov.pdf (.pdf)](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/resources/f__working_4_4285_opengov/)
+- [F__Working_4_4285_Echoes4.pdf (.pdf)](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/resources/f__working_4_4285_echoes4/)
+- [F__Working_4_4285_Collabo.pdf (.pdf)](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/resources/f__working_4_4285_collabo/)
+- [Lecture Notes](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/pages/readings/)
+
+### Assignment
+- [slideshowS02.pdf (.pdf)](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/resources/slideshows02/)
+- [finalslideshowS02.pdf (.pdf)](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/resources/finalslideshows02/)
+- [Projects](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/pages/projects/)
+
+### Resource
+- [4-285f02_th.jpg (.jpg)](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/resources/4-285f02_th/)
+- [4-285f02.jpg (.jpg)](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/resources/4-285f02/)
+- [Related Resources](https://ocw.mit.edu/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -589,3 +589,81 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-10 03:35] asset-scan | Hybrid scanned [[4-42j-fundamentals-of-energy-in-buildings-fall-2010|4.42J Fundamentals of Energy in Buildings]] (27 assets: 25 API + 5 pages)
 
 ## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009|11.439 Revitalizing Urban Main Streets: St. Claude Avenue, New Orleans]] (24 assets: 22 API + 6 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[4-125a-architecture-studio-building-in-landscapes-fall-2005|4.125A Architecture Studio: Building in Landscapes]] (63 assets: 58 API + 7 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[4-196-architecture-design-level-ii-cuba-studio-spring-2004|4.196 Architecture Design, Level II: Cuba Studio]] (54 assets: 51 API + 5 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-001j-introduction-to-urban-design-and-development-spring-2006|11.001J Introduction to Urban Design and Development]] (27 assets: 25 API + 5 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-946j-beijing-urban-design-studio-summer-2004|11.946J Beijing Urban Design Studio]] (50 assets: 47 API + 5 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002|4.285 Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems]] (25 assets: 23 API + 6 pages)
+
+## [2026-05-10 03:35] asset-scan | Hybrid scanned [[4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004|4.155B Architectural Design, Level III: A Student Center for MIT]] (39 assets: 36 API + 5 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-304j-site-and-infrastructure-systems-planning-spring-2009|11.304J Site and Infrastructure Systems Planning]] (16 assets: 15 API + 5 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006|4.303 The Production of Space: Art, Architecture and Urbanism in Dialogue]] (44 assets: 36 API + 11 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-309j-sites-in-sight-photography-as-inquiry-fall-2003|11.309J Sites in Sight: Photography as Inquiry]] (14 assets: 12 API + 5 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-322-introduction-to-sculpture-fall-2003|4.322 Introduction to Sculpture]] (11 assets: 9 API + 4 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-647-technopolitics-culture-intervention-fall-2014|4.647 Technopolitics, Culture, Intervention]] (14 assets: 10 API + 4 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-303-dialogue-in-art-architecture-and-urbanism-fall-2003|4.303 Dialogue in Art, Architecture, and Urbanism]] (13 assets: 10 API + 4 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-297-special-problems-in-architecture-studies-fall-2000|4.297 Special Problems in Architecture Studies]] (22 assets: 19 API + 6 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-163j-urban-design-studio-providence-spring-2005|4.163J Urban Design Studio: Providence]] (15 assets: 13 API + 5 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-123-architectural-design-level-i-perceptions-and-processes-fall-2003|4.123 Architectural Design, Level I: Perceptions and Processes]] (19 assets: 17 API + 4 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-337j-urban-design-policy-and-action-spring-2009|11.337J Urban Design Policy and Action]] (5 assets: 4 API + 3 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-332j-urban-design-fall-2003|11.332J Urban Design]] (44 assets: 41 API + 6 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998|11.947 Imaging the City: The Place of Media in City Design and Development]] (23 assets: 21 API + 6 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[15-990-architecture-and-communication-in-organizations-fall-2003|15.990 Architecture and Communication in Organizations]] (14 assets: 12 API + 4 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-307-beijing-urban-design-studio-summer-2008|11.307 Beijing Urban Design Studio]] (58 assets: 55 API + 6 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-144-architectural-design-level-ii-new-orleans-studio-spring-2006|4.144 Architectural Design, Level II: New Orleans Studio]] (16 assets: 14 API + 4 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[21h-234j-downtown-spring-2005|21H.234J Downtown]] (11 assets: 9 API + 4 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-493-natural-light-in-design-january-iap-2006|4.493 Natural Light in Design]] (5 assets: 0 API + 0 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-125-architecture-studio-building-in-landscapes-fall-2002|4.125 Architecture Studio: Building in Landscapes]] (58 assets: 31 API + 17 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-945-springfield-studio-spring-2004|11.945 Springfield Studio]] (33 assets: 30 API + 6 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001|11.948 Power of Place: Media Technology, Youth, and City Design and Development]] (10 assets: 8 API + 5 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-170-ecuador-workshop-fall-2006|4.170 Ecuador Workshop]] (69 assets: 65 API + 6 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-171-the-space-between-workshop-fall-2004|4.171 The Space Between Workshop]] (20 assets: 17 API + 5 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-111-introduction-to-architecture-environmental-design-spring-2014|4.111 Introduction to Architecture & Environmental Design]] (131 assets: 117 API + 13 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-370-brownfields-policy-and-practice-fall-2005|11.370 Brownfields Policy and Practice]] (9 assets: 7 API + 4 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-125b-architecture-studio-building-in-landscapes-fall-2005|4.125B Architecture Studio: Building in Landscapes]] (66 assets: 64 API + 4 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-307-beijing-urban-design-studio-summer-2006|11.307 Beijing Urban Design Studio]] (50 assets: 47 API + 6 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004|11.328J Urban Design Skills: Observing, Interpreting, and Representing the City]] (16 assets: 14 API + 5 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-406-ecologies-of-construction-spring-2007|4.406 Ecologies of Construction]] (22 assets: 17 API + 7 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-949-city-visions-past-and-future-spring-2004|11.949 City Visions: Past and Future]] (17 assets: 10 API + 5 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-309j-sensing-place-photography-as-inquiry-fall-2012|11.309J Sensing Place: Photography as Inquiry]] (26 assets: 8 API + 13 pages)
+
+## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-333-urban-design-seminar-spring-2005|11.333 Urban Design Seminar]] (17 assets: 15 API + 6 pages)
+
+## [2026-05-10 03:37] asset-scan | Hybrid scanned [[11-337j-urban-design-policy-and-action-spring-2007|11.337J Urban Design Policy and Action]] (15 assets: 13 API + 4 pages)
+
+## [2026-05-10 03:37] asset-scan | Hybrid scanned [[11-309j-sensing-place-photography-as-inquiry-spring-2024|11.309J Sensing Place: Photography as Inquiry]] (1 assets: 1 API + 0 pages)

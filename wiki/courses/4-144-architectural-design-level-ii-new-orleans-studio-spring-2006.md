@@ -12,6 +12,9 @@ views: 115
 completeness: 0.1
 last_modified: "2026-05-06T14:57:27Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 4, Problem-Set: 5, Resource: 5, Syllabus: 2"
+api_id: 4857
 ---
 
 # Architectural Design, Level II: New Orleans Studio
@@ -36,9 +39,27 @@ To provide/design facilities that can help the residents to gain education and s
 
 ## Materials
 
-- [Design Assignments] Design Assignments
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/pages/syllabus/)
 
+### Problem-Set
+- [assn7mid.pdf (.pdf)](https://ocw.mit.edu/courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/resources/assn7mid/)
+- [assn4spbet.pdf (.pdf)](https://ocw.mit.edu/courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/resources/assn4spbet/)
+- [assn1form.pdf (.pdf)](https://ocw.mit.edu/courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/resources/assn1form/)
+- [assn10final.pdf (.pdf)](https://ocw.mit.edu/courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/resources/assn10final/)
+- [Assignments](https://ocw.mit.edu/courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/pages/assignments/)
+
+### Assignment
+- [neworleans_2.pdf (.pdf)](https://ocw.mit.edu/courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/resources/neworleans_2/)
+- [neworleans_1.pdf (.pdf)](https://ocw.mit.edu/courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/resources/neworleans_1/)
+- [neworleans2s.pdf (.pdf)](https://ocw.mit.edu/courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/resources/neworleans2s/)
+- [Projects](https://ocw.mit.edu/courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/pages/projects/)
+
+### Resource
+- [introstatement.pdf (.pdf)](https://ocw.mit.edu/courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/resources/introstatement/)
+- [4-144s06.jpg (.jpg)](https://ocw.mit.edu/courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/resources/4-144s06/)
+- [4-144s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/resources/4-144s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

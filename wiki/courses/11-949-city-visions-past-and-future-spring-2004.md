@@ -12,6 +12,9 @@ views: 339
 completeness: 0.1
 last_modified: "2026-05-06T14:47:11Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 4, Syllabus: 2, Video-Transcript: 5"
+api_id: 5640
 ---
 
 # City Visions: Past and Future
@@ -30,9 +33,23 @@ This class is intended to introduce students to understandings of the city gener
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-949-city-visions-past-and-future-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-949-city-visions-past-and-future-spring-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-949-city-visions-past-and-future-spring-2004/pages/readings/)
+
+### Problem-Set
+- [nora.pdf (.pdf)](https://ocw.mit.edu/courses/11-949-city-visions-past-and-future-spring-2004/resources/nora/)
+- [eric_orozco.pdf (.pdf)](https://ocw.mit.edu/courses/11-949-city-visions-past-and-future-spring-2004/resources/eric_orozco/)
+- [chris_becker.pdf (.pdf)](https://ocw.mit.edu/courses/11-949-city-visions-past-and-future-spring-2004/resources/chris_becker/)
+- [bierbaum.pdf (.pdf)](https://ocw.mit.edu/courses/11-949-city-visions-past-and-future-spring-2004/resources/bierbaum/)
+- [Assignments](https://ocw.mit.edu/courses/11-949-city-visions-past-and-future-spring-2004/pages/assignments/)
+
+### Resource
+- [11-949s04.jpg (.jpg)](https://ocw.mit.edu/courses/11-949-city-visions-past-and-future-spring-2004/resources/11-949s04/)
+- [11-949s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-949-city-visions-past-and-future-spring-2004/resources/11-949s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

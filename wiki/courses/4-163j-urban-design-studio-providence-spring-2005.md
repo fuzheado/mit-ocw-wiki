@@ -12,6 +12,9 @@ views: 143
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:51:35Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 6, Problem-Set: 1, Reading-List: 2, Resource: 4, Syllabus: 2"
+api_id: 4254
 ---
 
 # Urban Design Studio: Providence
@@ -30,9 +33,28 @@ This studio discusses in great detail the design of urban environments, specific
 
 ## Materials
 
-- [Design Assignments] Design Assignments
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-163j-urban-design-studio-providence-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-163j-urban-design-studio-providence-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [den_calculation.pdf (.pdf)](https://ocw.mit.edu/courses/4-163j-urban-design-studio-providence-spring-2005/resources/den_calculation/)
+- [Readings](https://ocw.mit.edu/courses/4-163j-urban-design-studio-providence-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/4-163j-urban-design-studio-providence-spring-2005/pages/assignments/)
+
+### Assignment
+- [finalzafeiriadou.pdf (.pdf)](https://ocw.mit.edu/courses/4-163j-urban-design-studio-providence-spring-2005/resources/finalzafeiriadou/)
+- [finaltiffany.pdf (.pdf)](https://ocw.mit.edu/courses/4-163j-urban-design-studio-providence-spring-2005/resources/finaltiffany/)
+- [finalmehta.pdf (.pdf)](https://ocw.mit.edu/courses/4-163j-urban-design-studio-providence-spring-2005/resources/finalmehta/)
+- [finallimpantoudi.pdf (.pdf)](https://ocw.mit.edu/courses/4-163j-urban-design-studio-providence-spring-2005/resources/finallimpantoudi/)
+- [finalfugate.pdf (.pdf)](https://ocw.mit.edu/courses/4-163j-urban-design-studio-providence-spring-2005/resources/finalfugate/)
+- [Projects](https://ocw.mit.edu/courses/4-163j-urban-design-studio-providence-spring-2005/pages/projects/)
+
+### Resource
+- [4-163js05.jpg (.jpg)](https://ocw.mit.edu/courses/4-163j-urban-design-studio-providence-spring-2005/resources/4-163js05/)
+- [4-163js05-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-163j-urban-design-studio-providence-spring-2005/resources/4-163js05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 137
 completeness: 0.05833333333333334
 last_modified: "2026-05-06T14:49:08Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 7, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4658
 ---
 
 # Architecture and Communication in Organizations
@@ -31,8 +34,25 @@ This course is offered during the Sloan Innovation Period (SIP), which is a one-
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-990-architecture-and-communication-in-organizations-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-990-architecture-and-communication-in-organizations-fall-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [workplace_design.pdf (.pdf)](https://ocw.mit.edu/courses/15-990-architecture-and-communication-in-organizations-fall-2003/resources/workplace_design/)
+- [strategy_and_design.pdf (.pdf)](https://ocw.mit.edu/courses/15-990-architecture-and-communication-in-organizations-fall-2003/resources/strategy_and_design/)
+- [consolidation_to_innovation2.pdf (.pdf)](https://ocw.mit.edu/courses/15-990-architecture-and-communication-in-organizations-fall-2003/resources/consolidation_to_innovation2/)
+- [consolidation_to_innovation1.pdf (.pdf)](https://ocw.mit.edu/courses/15-990-architecture-and-communication-in-organizations-fall-2003/resources/consolidation_to_innovation1/)
+- [case_studies_emerging_topics.pdf (.pdf)](https://ocw.mit.edu/courses/15-990-architecture-and-communication-in-organizations-fall-2003/resources/case_studies_emerging_topics/)
+- [architecture_communication.pdf (.pdf)](https://ocw.mit.edu/courses/15-990-architecture-and-communication-in-organizations-fall-2003/resources/architecture_communication/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-990-architecture-and-communication-in-organizations-fall-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-990-architecture-and-communication-in-organizations-fall-2003/pages/readings/)
+
+### Resource
+- [15-990f03.jpg (.jpg)](https://ocw.mit.edu/courses/15-990-architecture-and-communication-in-organizations-fall-2003/resources/15-990f03/)
+- [15-990f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-990-architecture-and-communication-in-organizations-fall-2003/resources/15-990f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 154
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T17:15:36Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 6, Problem-Set: 7, Resource: 4, Syllabus: 2"
+api_id: 4342
 ---
 
 # Architectural Design, Level I: Perceptions and Processes
@@ -30,8 +33,30 @@ This studio explores the notion of in-between by engaging several relationships;
 
 ## Materials
 
-- [Design Assignments with Examples] Design Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/pages/syllabus/)
 
+### Problem-Set
+- [problem5.pdf (.pdf)](https://ocw.mit.edu/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/resources/problem5/)
+- [problem4.pdf (.pdf)](https://ocw.mit.edu/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/resources/problem4/)
+- [problem3.pdf (.pdf)](https://ocw.mit.edu/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/resources/problem3/)
+- [problem2.pdf (.pdf)](https://ocw.mit.edu/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/resources/problem2/)
+- [problem1.pdf (.pdf)](https://ocw.mit.edu/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/resources/problem1/)
+- [finalproblem.pdf (.pdf)](https://ocw.mit.edu/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/resources/finalproblem/)
+- [Assignments](https://ocw.mit.edu/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/pages/assignments/)
+
+### Assignment
+- [studproblem5.pdf (.pdf)](https://ocw.mit.edu/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/resources/studproblem5/)
+- [studproblem3.pdf (.pdf)](https://ocw.mit.edu/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/resources/studproblem3/)
+- [studproblem2.pdf (.pdf)](https://ocw.mit.edu/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/resources/studproblem2/)
+- [studproblem1.pdf (.pdf)](https://ocw.mit.edu/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/resources/studproblem1/)
+- [studfinalproblem.pdf (.pdf)](https://ocw.mit.edu/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/resources/studfinalproblem/)
+- [Projects](https://ocw.mit.edu/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/pages/projects/)
+
+### Resource
+- [4-123f03.jpg (.jpg)](https://ocw.mit.edu/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/resources/4-123f03/)
+- [4-123f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/resources/4-123f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

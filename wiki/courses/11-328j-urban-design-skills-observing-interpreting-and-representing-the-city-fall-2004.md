@@ -12,6 +12,9 @@ views: 410
 completeness: 0.16000000000000003
 last_modified: "2026-05-06T16:49:40Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Problem-Set: 8, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5415
 ---
 
 # Urban Design Skills: Observing, Interpreting, and Representing the City
@@ -30,10 +33,27 @@ The course is designed to be an introduction to methods of analyzing, evaluating
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Design Assignments] Design Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/pages/readings/)
+
+### Problem-Set
+- [assn3b.pdf (.pdf)](https://ocw.mit.edu/courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/resources/assn3b/)
+- [assn3a.pdf (.pdf)](https://ocw.mit.edu/courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/resources/assn3a/)
+- [assn2c.pdf (.pdf)](https://ocw.mit.edu/courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/resources/assn2c/)
+- [assn2b.pdf (.pdf)](https://ocw.mit.edu/courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/resources/assn2b/)
+- [assn2a.pdf (.pdf)](https://ocw.mit.edu/courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/resources/assn2a/)
+- [assn1b.pdf (.pdf)](https://ocw.mit.edu/courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/resources/assn1b/)
+- [assn1a.pdf (.pdf)](https://ocw.mit.edu/courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/resources/assn1a/)
+- [Assignments](https://ocw.mit.edu/courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/pages/assignments/)
+
+### Resource
+- [11-328jf04.jpg (.jpg)](https://ocw.mit.edu/courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/resources/11-328jf04/)
+- [11-328jf04-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/resources/11-328jf04-th/)
+- [Related Resources](https://ocw.mit.edu/courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

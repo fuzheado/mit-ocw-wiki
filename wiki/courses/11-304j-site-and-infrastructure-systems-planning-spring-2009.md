@@ -12,6 +12,9 @@ views: 829
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T17:13:57Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 1, Problem-Set: 7, Reading-List: 1, Resource: 6, Syllabus: 1"
+api_id: 3984
 ---
 
 # Site and Infrastructure Systems Planning
@@ -31,9 +34,30 @@ Students will review land inventory, analysis, and planning of sites and the inf
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/pages/readings/)
+
+### Problem-Set
+- [Project Final Goals and Deliverables Framework (.pdf)](https://ocw.mit.edu/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/resources/mit11_304js09_assn05/)
+- [Technology Driven Schematic Site Plan Investigations (.pdf)](https://ocw.mit.edu/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/resources/mit11_304js09_assn04/)
+- [Alternatives and New Approaches to Site and Infrastructure Technologies II  (.pdf)](https://ocw.mit.edu/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/resources/mit11_304js09_assn03b/)
+- [Alternatives and New Approaches to Site and Infrastructure Technologies (.pdf)](https://ocw.mit.edu/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/resources/mit11_304js09_assn03a/)
+- [Landscape Units and Site Physiography Mapping and Transects (.pdf)](https://ocw.mit.edu/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/resources/mit11_304js09_assn02/)
+- [Future Scenarios (.pdf)](https://ocw.mit.edu/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/resources/mit11_304js09_assn01/)
+- [Assignments](https://ocw.mit.edu/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/pages/projects/)
+
+### Resource
+- [Overview (.pdf)](https://ocw.mit.edu/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/resources/mit11_304js09_handout/)
+- [Tama New Town (.jpg)](https://ocw.mit.edu/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/resources/chp_tama/)
+- [Two photos of Tama New Town buildings and rooftops (.jpg)](https://ocw.mit.edu/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/resources/11-304js09/)
+- [Tama New Town buildings and rooftops (.jpg)](https://ocw.mit.edu/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/resources/11-304js09-th/)
+- [Related Resources](https://ocw.mit.edu/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

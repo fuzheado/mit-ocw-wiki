@@ -12,6 +12,9 @@ views: 103
 completeness: 0.06
 last_modified: "2026-05-06T17:18:20Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 10, Image-Gallery: 1, Problem-Set: 3, Reading-List: 1, Resource: 16, Syllabus: 2"
+api_id: 4900
 ---
 
 # Springfield Studio
@@ -35,10 +38,45 @@ The ultimate goal is to explore the integration of social, programmatic and phys
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Image Gallery] Image Gallery
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/pages/calendar/)
+- **Image Gallery** — [🔗](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/pages/image-gallery/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/pages/readings/)
+
+### Problem-Set
+- [assn2.pdf (.pdf)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/assn2/)
+- [assn1.pdf (.pdf)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/assn1/)
+- [Assignments](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/pages/assignments/)
+
+### Assignment
+- [intro.pdf (.pdf)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/intro/)
+- [class_project.pdf (.pdf)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/class_project/)
+- [ch5.pdf (.pdf)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/ch5/)
+- [ch4C.pdf (.pdf)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/ch4c/)
+- [ch4Bz.pdf (.pdf)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/ch4bz/)
+- [ch4Az.pdf (.pdf)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/ch4az/)
+- [ch3.pdf (.pdf)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/ch3/)
+- [ch2z.pdf (.pdf)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/ch2z/)
+- [ch1z.pdf (.pdf)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/ch1z/)
+- [Projects](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/pages/projects/)
+
+### Resource
+- [vision.jpg (.jpg)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/vision/)
+- [thomas3.jpg (.jpg)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/thomas3/)
+- [thomas2.jpg (.jpg)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/thomas2/)
+- [thomas1.jpg (.jpg)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/thomas1/)
+- [genera3.jpg (.jpg)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/genera3/)
+- [genera2.jpg (.jpg)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/genera2/)
+- [genera1.jpg (.jpg)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/genera1/)
+- [existing.jpg (.jpg)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/existing/)
+- [concept.jpg (.jpg)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/concept/)
+- [chestnut3.jpg (.jpg)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/chestnut3/)
+- [chestnut1.jpg (.jpg)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/chestnut1/)
+- [11-945s04.jpg (.jpg)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/11-945s04/)
+- [11-945s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/resources/11-945s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles
