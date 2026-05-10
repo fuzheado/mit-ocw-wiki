@@ -141,3 +141,27 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-10 01:43] asset-scan | Hybrid scanned [[4-241j-the-making-of-cities-spring-2025|4.241J The Making of Cities]] (8 assets: 8 API + 4 pages)
 
 ## [2026-05-10 01:47] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (48 assets: 29 API + 155 pages)
+
+## [2026-05-10 01:54] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+
+## [2026-05-10 02:24] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+
+## [2026-05-10 02:25] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+
+## [2026-05-10 02:25] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+
+## [2026-05-10 02:26] asset-scan | Scanned [[4-241j-the-making-of-cities-spring-2025|4.241J The Making of Cities]] (4 assets)
+
+## [2026-05-10 02:31] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+
+## [2026-05-10 02:32] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+
+## [2026-05-10 02:36] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+
+## [2026-05-10 02:36] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+
+## [2026-05-10 02:37] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+
+## [2026-05-10 02:42] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+
+## [2026-05-10 02:43] asset-scan | Hybrid scanned [[18-225-graph-theory-and-additive-combinatorics-fall-2023|18.225 Graph Theory and Additive Combinatorics]] (48 assets: 46 API + 36 pages)

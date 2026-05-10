@@ -14,7 +14,7 @@ last_modified: "2026-05-06T17:08:59Z"
 type: "course"
 api_id: 113753
 last_scanned: 2026-05-10
-asset_counts: "Assignment: 4, Reading-List: 1, Resource: 1, Syllabus: 2"
+asset_counts: "Assignment: 1, Reading-List: 1, Syllabus: 2"
 ---
 
 # The Making of Cities
@@ -43,13 +43,7 @@ The class debates are complemented by an individual, semester-long design-resear
 - [Readings](https://ocw.mit.edu/courses/4-241j-the-making-of-cities-spring-2025/pages/readings/)
 
 ### Assignment
-- [Terra Ex Nihilo (.pdf)](https://ocw.mit.edu/courses/4-241j-the-making-of-cities-spring-2025/resources/mit4_241_s25_terra_ex_nihilo_pdf/)
-- [IN DEPENDENCE (.pdf)](https://ocw.mit.edu/courses/4-241j-the-making-of-cities-spring-2025/resources/mit4_241_s25_in_dependence_pdf/)
-- [Down Here at the Locus of Disappearance: 100 East Hastings St. Block and the Carnegie Community Centre (.pdf)](https://ocw.mit.edu/courses/4-241j-the-making-of-cities-spring-2025/resources/mit4_241_s25_down_here_pdf/)
 - [Research Project](https://ocw.mit.edu/courses/4-241j-the-making-of-cities-spring-2025/pages/research-project/)
-
-### Resource
-- [mit4_241_s25.jpg (.jpg)](https://ocw.mit.edu/courses/4-241j-the-making-of-cities-spring-2025/resources/mit4_241_s25_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles
