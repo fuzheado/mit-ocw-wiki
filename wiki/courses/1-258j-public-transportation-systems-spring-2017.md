@@ -12,6 +12,9 @@ views: 303
 completeness: 0.3433333333333334
 last_modified: "2026-05-06T14:56:06Z"
 type: "course"
+last_scanned: 2026-05-10
+asset_counts: "Lecture-Notes: 22, Problem-Set: 8, Reading-List: 1, Resource: 4, Syllabus: 2, Video-Transcript: 35"
+api_id: 3723
 ---
 
 # Public Transportation Systems
@@ -30,9 +33,25 @@ This course discusses the evolution and role of urban public transportation mode
 
 ## Materials
 
-### Syllabus
-- [Syllabus](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/pages/syllabus/)
-- [Calendar](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/pages/calendar/)
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/pages/calendar/)
+- **Lecture 10: Origin, Destination, and Transfer Inference** — [🎬](https://youtu.be/avWOCswUJyI) · [🔗](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/video_galleries/class-videos/)
+- **Lecture 13: Vehicle Scheduling** — [🎬](https://youtu.be/_FTwuE36SUA) · [🔗](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/video_galleries/class-videos/)
+- **Lecture 17: Customer Information Strategies—Guest Lecture by John Attanucci** — [🎬](https://youtu.be/mp7Nz8CUPBM) · [🔗](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/video_galleries/class-videos/)
+- **Lecture 19: Transit Signal Priority—Guest Lecture by Peter G. Furth** — [🎬](https://youtu.be/K2g0trGAfgo) · [🔗](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/video_galleries/class-videos/)
+- **Lecture 1: Introduction** — [🎬](https://youtu.be/wzB8Rhm3xCU) · [🔗](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/video_galleries/class-videos/)
+- **Lecture 20: Service Reliability** — [🎬](https://youtu.be/I2K5WnG_TLs) · [🔗](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/video_galleries/class-videos/)
+- **Lecture 21: Fare Policy, Structure, and Technology** — [🎬](https://youtu.be/CJehtdXHR7Q) · [🔗](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/video_galleries/class-videos/)
+- **Lecture 22: Workforce Planning** — [🎬](https://youtu.be/K7lqWX6fq-Q) · [🔗](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/video_galleries/class-videos/)
+- **Lecture 2: Data Collection Techniques and Program Design** — [🎬](https://youtu.be/JPCA2qE9MSw) · [🔗](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/video_galleries/class-videos/)
+- **Lecture 3: Modal Characteristics and Roles** — [🎬](https://youtu.be/MlDdfgjpBe0) · [🔗](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/video_galleries/class-videos/)
+- **Lecture 4: Short-range Planning—** — [🎬 1](https://youtu.be/h5x7-zejY8c) · [🔗](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/video_galleries/class-videos/)
+- **Lecture 5: Short-range Planning—** — [🎬 2](https://youtu.be/aLqEG43nKVE) · [🔗](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/video_galleries/class-videos/)
+- **Lecture 6: Modal Capacities and Costs** — [🎬](https://youtu.be/dttSgzTJKK4) · [🔗](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/video_galleries/class-videos/)
+- **Lecture 7: Cost Estimation** — [🎬](https://youtu.be/YGpxOuDJdJw) · [🔗](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/video_galleries/class-videos/)
+- **Lecture 8: Ridership Forecasting** — [🎬](https://youtu.be/Wlz_17id1BM) · [🔗](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/video_galleries/class-videos/)
+- **Lecture 9: Performance Models** — [🎬](https://youtu.be/Tsn0xSQjo14) · [🔗](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/video_galleries/class-videos/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/pages/syllabus/)
 
 ### Lecture-Notes
 - [MIT1_258JS17_lec24 (.pdf)](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/resources/mit1_258js17_lec24/)
@@ -57,26 +76,6 @@ This course discusses the evolution and role of urban public transportation mode
 - [MIT1_258JS17_lec02 (.pdf)](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/resources/mit1_258js17_lec02/)
 - [MIT1_258JS17_lec01 (.pdf)](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/resources/mit1_258js17_lec01/)
 - [Lecture Notes](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/pages/lecture-notes/)
-
-### Video-Transcript
-- [Lecture 9: Performance Models (.mp4) 🎬YouTube 📺Video](https://youtu.be/Tsn0xSQjo14)
-- [Lecture 8: Ridership Forecasting (.mp4) 🎬YouTube 📺Video](https://youtu.be/Wlz_17id1BM)
-- [Lecture 7: Cost Estimation (.mp4) 🎬YouTube 📺Video](https://youtu.be/YGpxOuDJdJw)
-- [Lecture 6: Modal Capacities and Costs (.mp4) 🎬YouTube 📺Video](https://youtu.be/dttSgzTJKK4)
-- [Lecture 5: Short-range Planning—Part 2 (.mp4) 🎬YouTube 📺Video](https://youtu.be/aLqEG43nKVE)
-- [Lecture 4: Short-range Planning—Part 1 (.mp4) 🎬YouTube 📺Video](https://youtu.be/h5x7-zejY8c)
-- [Lecture 3: Modal Characteristics and Roles (.mp4) 🎬YouTube 📺Video](https://youtu.be/MlDdfgjpBe0)
-- [Lecture 24: Baumol's Disease—Guest Lecture by Frederick Salvucci (.mp4) 🎬YouTube 📺Video](https://youtu.be/G1sBybS2M48)
-- [Lecture 22: Workforce Planning (.mp4) 🎬YouTube 📺Video](https://youtu.be/K7lqWX6fq-Q)
-- [Lecture 21: Fare Policy, Structure, and Technology (.mp4) 🎬YouTube 📺Video](https://youtu.be/CJehtdXHR7Q)
-- [Lecture 20: Service Reliability (.mp4) 🎬YouTube 📺Video](https://youtu.be/I2K5WnG_TLs)
-- [Lecture 2: Data Collection Techniques and Program Design (.mp4) 🎬YouTube 📺Video](https://youtu.be/JPCA2qE9MSw)
-- [Lecture 19: Transit Signal Priority—Guest Lecture by Peter G. Furth (.mp4) 🎬YouTube 📺Video](https://youtu.be/K2g0trGAfgo)
-- [Lecture 17: Customer Information Strategies—Guest Lecture by John Attanucci (.mp4) 🎬YouTube 📺Video](https://youtu.be/mp7Nz8CUPBM)
-- [Lecture 13: Vehicle Scheduling (.mp4) 🎬YouTube 📺Video](https://youtu.be/_FTwuE36SUA)
-- [Lecture 10: Origin, Destination, and Transfer Inference (.mp4) 🎬YouTube 📺Video](https://youtu.be/avWOCswUJyI)
-- [Lecture 1: Introduction (.mp4) 🎬YouTube 📺Video](https://youtu.be/wzB8Rhm3xCU)
-- [Class Videos 📺Video](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/video_galleries/class-videos/)
 
 ### Reading-List
 - [Readings](https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/pages/readings/)
