@@ -245,6 +245,16 @@ def deep_scan_one(slug: str, assets: list, max_pages: int = 100) -> list:
                 assets.append(entry)
                 ext_videos += 1
 
+        # Extract YouTube video IDs from img.youtube.com/vi/{id}/default.jpg thumbnails
+        # These are used in video gallery pages where YouTube links aren't clickable
+        yt_thumb_ids = set(re.findall(r'img\.youtube\.com/vi/([a-zA-Z0-9_-]+)/default\.jpg', html))
+        for ytid in yt_thumb_ids:
+            yt_url = f"https://youtu.be/{ytid}"
+            entry = ("Video-Transcript", f"Video ({ytid[:8]}…)", yt_url)
+            if entry not in assets:
+                assets.append(entry)
+                ext_videos += 1
+
         if annotations or ext_videos or description:
             detail = ", ".join(annotations)
             if description:
@@ -353,12 +363,16 @@ def api_scan(slug: str) -> list:
         seen.add(title.lower())
 
         # Determine asset type from content_feature_type
+        # But also check for video indicators directly
         feature_types = f.get("content_feature_type", [])
         asset_type = "Resource"
         for ft in feature_types:
             if ft in FEATURE_TYPE_MAP:
                 asset_type = FEATURE_TYPE_MAP[ft]
                 break
+        # Override to Video-Transcript if the file has video indicators
+        if asset_type == "Resource" and (f.get("youtube_id") or f.get("content_type") == "video" or f.get("file_extension") in (".mp4", ".webm")):
+            asset_type = "Video-Transcript"
 
         # Build display text with metadata
         display = title
