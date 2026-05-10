@@ -353,6 +353,14 @@ def api_scan(slug: str) -> list:
 
     print(f"  API: {len(all_files)} content files found for course {course_api_id}")
 
+    # Write api_id to course page frontmatter
+    page_content = page_path.read_text()
+    if re.search(r'^api_id:', page_content, re.M):
+        page_content = re.sub(r'^api_id:.*', f'api_id: {course_api_id}', page_content, flags=re.M)
+    else:
+        page_content = re.sub(r'^(type:.*)', fr'\1\napi_id: {course_api_id}', page_content, flags=re.M)
+    page_path.write_text(page_content)
+
     assets = []
     seen = set()
 
@@ -448,13 +456,23 @@ def update_page(slug: str, assets: list):
                                   f"- **License:** CC BY-NC-SA\n\n{new_section}\n")
 
     path.write_text(content)
-    # Update or add last_scanned timestamp in frontmatter
+    # Update or add metadata fields in frontmatter
     content = path.read_text()
     scan_time = datetime.now().strftime("%Y-%m-%d")
+
+    # last_scanned
     if re.search(r'^last_scanned:', content, re.M):
         content = re.sub(r'^last_scanned:.*', f'last_scanned: {scan_time}', content, flags=re.M)
     else:
         content = re.sub(r'^(type:.*)', fr'\1\nlast_scanned: {scan_time}', content, flags=re.M)
+
+    # asset_counts (summary of what was found)
+    counts_str = ", ".join(f"{t}: {len(v)}" for t, v in sorted(groups.items()))
+    if re.search(r'^asset_counts:', content, re.M):
+        content = re.sub(r'^asset_counts:.*', f'asset_counts: "{counts_str}"', content, flags=re.M)
+    else:
+        content = re.sub(r'^(last_scanned:.*)', fr'\1\nasset_counts: "{counts_str}"', content, flags=re.M)
+
     path.write_text(content)
     print(f"  updated {slug} ({len(assets)} assets in {len(groups)} categories)")
 
