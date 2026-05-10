@@ -115,3 +115,11 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-09 22:34] asset-scan | Hybrid scanned [[6-1200j-mathematics-for-computer-science-spring-2024|6.1200J Mathematics for Computer Science]] (76 assets: 72 API + 51 pages)
 
 ## [2026-05-09 22:35] asset-scan | Hybrid scanned [[cms-595-learning-media-and-technology-spring-2024|CMS.595 Learning, Media, and Technology]] (41 assets: 35 API + 12 pages)
+
+## [2026-05-09 22:40] asset-scan | Hybrid scanned [[1-258j-public-transportation-systems-spring-2017|1.258J Public Transportation Systems]] (53 assets: 52 API + 23 pages)
+
+## [2026-05-09 22:42] asset-scan | Hybrid scanned [[1-258j-public-transportation-systems-spring-2017|1.258J Public Transportation Systems]] (53 assets: 52 API + 23 pages)
+
+## [2026-05-09 22:43] asset-scan | Hybrid scanned [[1-258j-public-transportation-systems-spring-2017|1.258J Public Transportation Systems]] (53 assets: 52 API + 23 pages)
+
+## [2026-05-09 22:50] asset-scan | Hybrid scanned [[18-642-topics-in-mathematics-with-applications-in-finance-fall-2024|18.642 Topics in Mathematics with Applications in Finance]] (119 assets: 97 API + 46 pages)
