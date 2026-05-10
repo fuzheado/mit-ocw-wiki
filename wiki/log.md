@@ -129,3 +129,5 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-10 01:24] asset-scan | Hybrid scanned [[14-01-principles-of-microeconomics-fall-2023|14.01 Principles of Microeconomics ]] (110 assets: 105 API + 8 pages)
 
 ## [2026-05-10 01:32] asset-scan | Hybrid scanned [[2-43-advanced-thermodynamics-spring-2024|2.43 Advanced Thermodynamics]] (83 assets: 79 API + 57 pages)
+
+## [2026-05-10 01:33] asset-scan | Hybrid scanned [[2-787j-tissue-engineering-and-organ-regeneration-fall-2024|2.787J Tissue Engineering and Organ Regeneration]] (44 assets: 5 API + 30 pages)
