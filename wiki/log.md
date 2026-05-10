@@ -51,3 +51,11 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-09 21:22] asset-scan | Deep scan 5-111sc-principles-of-chemical-science-fall-2014 (154 assets)
 
 ## [2026-05-09 21:24] asset-scan | Deep scan 15-071-the-analytics-edge-spring-2017 (162 assets)
+
+## [2026-05-09 21:26] asset-scan | Scanned [[4-241j-the-making-of-cities-spring-2025|The Making of Cities]] (4 assets)
+
+## [2026-05-09 21:26] asset-scan | Deep scanned [[4-241j-the-making-of-cities-spring-2025|The Making of Cities]] (4 assets)
+
+## [2026-05-09 21:28] asset-scan | Deep scanned [[5-112-principles-of-chemical-science-fall-2005|Principles of Chemical Science]] (4 assets)
+
+## [2026-05-09 21:30] asset-scan | Deep scanned [[5-112-principles-of-chemical-science-fall-2005|Principles of Chemical Science]] (39 assets)

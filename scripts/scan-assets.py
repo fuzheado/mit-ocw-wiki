@@ -192,6 +192,17 @@ def deep_scan_one(slug: str, assets: list, max_pages: int = 100) -> list:
                 assets.append(entry)
                 ext_videos += 1
 
+        # Extract inline lecture listings from video gallery pages
+        # Pattern: "Lecture N: Title" appearing in page content
+        for m in re.finditer(r'Lecture\s+(\d+[A-Za-z]?):\s*([^<]{10,100})', html):
+            lecture_num = m.group(1)
+            lecture_title = m.group(2).strip()
+            full = f"Lecture {lecture_num}: {lecture_title}"
+            entry = ("Video-Transcript", full, url)
+            if entry not in assets:
+                assets.append(entry)
+                ext_videos += 1
+
         if annotations or ext_videos or description:
             detail = ", ".join(annotations)
             if description:
