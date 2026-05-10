@@ -106,8 +106,10 @@ This ensures consistency across sessions and prevents duplicated effort.
 1. The course page likely already exists from the initial batch ingest (2,573 courses). Check `wiki/courses/` for the slug derived from the URL.
 2. Run the hybrid asset scan: `python3 scripts/scan-assets.py --hybrid {slug}`
    - This fetches the content file inventory from the MIT Learn API
-   - Also deep-scans the OCW page for sidebar structure and external video links
+   - Also deep-scans the OCW page for sidebar structure, embedded video, and YouTube thumbnails
+   - Lecture titles are extracted from gallery pages, thumbnails are paired with nearby titles
    - Merges both sources: API for authoritative file data, URL scan for page types and off-platform videos
+   - Assets sharing the same lecture name are grouped into one line with inline format badges
 3. The pre-commit hook auto-regenerates `wiki/index.md` and `wiki/instructors-index.md`.
 4. Commit with message: `ocw: hybrid scan {course_id}: {N} assets, {M} videos`.
 

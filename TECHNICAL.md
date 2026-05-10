@@ -168,9 +168,13 @@ The deep scan detects video content using these patterns, in order of specificit
 | `img.youtube.com/vi/{id}/default.jpg` | YouTube video thumbnails (galleries without clickable links) | 🎬YouTube |
 | External links to dropbox.com, vimeo.com, panopto.com, kaltura.com, zoom.us, archive.org | Off-platform video hosts | 🎬YouTube / 📺Video |
 
-**Legacy video galleries:** For older courses (pre-2015), all lectures are listed on a single gallery page rather than individual sub-pages. The deep scan detects these inline listings and extracts each lecture title as a separate Video-Transcript asset.
+**Inline lecture titles:** The script extracts lecture titles from video gallery pages using the pattern `Lecture N: Title`. Titles as short as 3 characters after the colon are captured. Each extracted title becomes a separate Video-Transcript asset linked to the gallery page.
+
+**Thumbnail-to-lecture pairing:** YouTube video IDs from `img.youtube.com/vi/{id}/default.jpg` thumbnails are paired with nearby lecture titles by searching the surrounding HTML context (300 chars before, 300 chars after the thumbnail URL). When a lecture title is found nearby, it's used as the asset label instead of a generic "Video (id…)" name.
 
 **JavaScript-loaded galleries:** Modern OCW courses (2024+) often use JavaScript to load video galleries. The HTML may contain zero clickable YouTube links but dozens of `img.youtube.com/vi/{id}/default.jpg` thumbnail references. The deep scan extracts YouTube IDs from these thumbnails to construct direct video links.
+
+**Legacy video galleries:** For older courses (pre-2015), all lectures are listed on a single gallery page with plain text. The deep scan detects these inline listings and extracts each lecture title.
 
 ## Asset Type Mapping
 
@@ -202,7 +206,8 @@ The `--hybrid` mode runs both API and deep scans, then merges:
    - If its URL isn't in the API results, add it directly
    - If its URL IS in the API results but was typed as generic "Resource", replace with the deep scan's more specific type (e.g., "Syllabus", "Reading-List")
 5. For each external video not already covered by the API, add it as a Video-Transcript asset
-6. If the API returns no data (new/unindexed course), fall back to full deep scan results
+6. Dedup by both URL and (type, text) pair — multiple inline lecture titles may share the same gallery page URL but have different names. Tracking both URL+text prevents false dedup.
+7. If the API returns no data (new/unindexed course), fall back to full deep scan results
 
 ## Grouped Lecture Format
 
