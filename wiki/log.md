@@ -165,3 +165,5 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-10 02:42] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
 
 ## [2026-05-10 02:43] asset-scan | Hybrid scanned [[18-225-graph-theory-and-additive-combinatorics-fall-2023|18.225 Graph Theory and Additive Combinatorics]] (48 assets: 46 API + 36 pages)
+
+## [2026-05-10 02:46] asset-scan | Hybrid scanned [[14-310x-data-analysis-for-social-scientists-spring-2023|14.310X Data Analysis for Social Scientists]] (108 assets: 0 API + 0 pages)
