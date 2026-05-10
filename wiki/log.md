@@ -181,3 +181,15 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-10 02:59] asset-scan | Hybrid scanned [[18-s190-introduction-to-metric-spaces-january-iap-2023|18.S190 Introduction to Metric Spaces ]] (35 assets: 0 API + 0 pages)
 
 ## [2026-05-10 03:03] asset-scan | Hybrid scanned [[1-258j-public-transportation-systems-spring-2017|1.258J Public Transportation Systems]] (72 assets: 52 API + 23 pages)
+
+## [2026-05-10 03:21] asset-scan | Hybrid scanned [[ec-716-d-lab-waste-fall-2015|EC.716 D-Lab: Waste]] (40 assets: 31 API + 16 pages)
+
+## [2026-05-10 03:22] asset-scan | Hybrid scanned [[11-165-infrastructure-and-energy-technology-challenges-fall-2011|11.165 Infrastructure and Energy Technology Challenges]] (38 assets: 36 API + 7 pages)
+
+## [2026-05-10 03:22] asset-scan | Hybrid scanned [[2-611-marine-power-and-propulsion-fall-2006|2.611 Marine Power and Propulsion]] (81 assets: 80 API + 6 pages)
+
+## [2026-05-10 03:22] asset-scan | Hybrid scanned [[22-091-nuclear-reactor-safety-spring-2008|22.091 Nuclear Reactor Safety]] (82 assets: 68 API + 12 pages)
+
+## [2026-05-10 03:22] asset-scan | Hybrid scanned [[1-74-land-water-food-and-climate-fall-2020|1.74 Land, Water, Food, and Climate]] (112 assets: 101 API + 38 pages)
+
+## [2026-05-10 03:22] asset-scan | Hybrid scanned [[22-033-nuclear-systems-design-project-fall-2011|22.033 Nuclear Systems Design Project]] (78 assets: 53 API + 22 pages)

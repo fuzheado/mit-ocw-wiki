@@ -12,6 +12,9 @@ views: 169
 completeness: 0.1716666666666667
 last_modified: "2026-05-06T17:11:47Z"
 type: course
+last_scanned: 2026-05-10
+asset_counts: "Assignment: 3, Lecture-Notes: 11, Problem-Set: 5, Reading-List: 2, Resource: 16, Syllabus: 2, Video-Transcript: 1"
+api_id: 3342
 ---
 
 # D-Lab: Waste
@@ -30,11 +33,46 @@ This introductory course will provide you with a multidisciplinary approach to m
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/pages/calendar/)
+- **Designing and Assessing the Open-Ended Final Project** — [🔗](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/pages/instructor-insights/designing-and-assessing-the-open-ended-final-project/)
+- **First Reflection Paper: Waste Technology** — [🔗](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/pages/assignments/waste-technology/)
+- **Projects** — [🔗](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/pages/projects/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/pages/readings/)
+- **Second Reflection Paper: Material Stream** — [🔗](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/pages/assignments/material-stream/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/pages/syllabus/)
+- **Third Reflection Paper: Partnerships/Enterprises** — [🔗](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/pages/assignments/partnerships-enterprises/)
 
+### Lecture-Notes
+- [Session 9: Waste Management Actors (.pdf)](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/resources/mitec_716f15_session9/)
+- [Session 6: End Goal of Waste (.pdf)](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/resources/mitec_716f15_session6/)
+- [Session 4: Landfill, Q&A, Numbers Game (.pdf)](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/resources/mitec_716f15_session4/)
+- [Session 27: Financing Waste Management (.pdf)](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/resources/mitec_716f15_session27/)
+- [MITEC_716F15_Session25 (.pdf)](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/resources/mitec_716f15_session25/)
+- [MITEC_716F15_Session24 (.pdf)](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/resources/mitec_716f15_session24/)
+- [MITEC_716F15_Session21 (.pdf)](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/resources/mitec_716f15_session21/)
+- [MITEC_716F15_Session18 (.pdf)](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/resources/mitec_716f15_session18/)
+- [Session 16: Life Cycle Analysis (.pdf)](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/resources/mitec_716f15_session16/)
+- [Q&A Session (.pdf)](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/resources/mitec_716f15_qa/)
+- [Lecture Slides](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/pages/lecture-slides/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/pages/assignments/)
+
+### Assignment
+- [MITEC_716F15_Biohaz (.pdf)](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/resources/mitec_716f15_biohaz2/)
+- [MIT_EC716_F15_REQS2 (.pdf)](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/resources/final-project/)
+
+### Resource
+- [ec-716f15.jpg (.jpg)](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/resources/ec-716f15/)
+- [ec-716f15-th.jpg (.jpg)](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/resources/ec-716f15-th/)
+- [10 students enrolled (.png)](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/resources/10/)
+- [Using Written Reflections to Encourage Students to Explore Waste through their own Lenses](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/pages/instructor-insights/using-written-reflections-to-encourage-students-to-explore-waste-through-their-own-lenses/)
+- [Instructor Background](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/pages/instructor-insights/instructor-background/)
+- [Grounding the Course in Tangible Experiences](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/pages/instructor-insights/grounding-the-course-in-tangible-experiences/)
+- [Fostering Personalized Relationships with Students](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/pages/instructor-insights/fostering-personalized-relationships-with-students/)
+- [Instructor Insights](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/pages/instructor-insights/)
+- [Co-Teaching the Course](https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/pages/instructor-insights/co-teaching-the-course/)
 ## Wikipedia Bridge
 
 ### Related Articles
