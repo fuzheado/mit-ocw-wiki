@@ -47,3 +47,7 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-09 21:13] asset-scan | Deep scan 5-111sc-principles-of-chemical-science-fall-2014 (49 assets)
 
 ## [2026-05-09 21:16] asset-scan | Deep scan 5-111sc-principles-of-chemical-science-fall-2014 (154 assets)
+
+## [2026-05-09 21:22] asset-scan | Deep scan 5-111sc-principles-of-chemical-science-fall-2014 (154 assets)
+
+## [2026-05-09 21:24] asset-scan | Deep scan 15-071-the-analytics-edge-spring-2017 (162 assets)
