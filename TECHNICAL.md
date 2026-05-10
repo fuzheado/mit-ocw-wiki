@@ -89,8 +89,46 @@ Planned approach:
 |------|---------|
 | WikiWise app | Local viewer, auto-recompiles on file changes |
 | `scripts/ingest-batch.py` | Batch course ingestion |
+| `scripts/scan-assets.py` | Asset inventory and video detection |
+| `scripts/regenerate-index.py` | Rebuild wiki index from filesystem |
 | `touch .rebuild` | Force WikiWise full recompile |
 | `.claude/active-file` | Tracks which page user is viewing |
+
+## Asset Scanning — Three Modes
+
+The `scripts/scan-assets.py` script has three scanning modes, each with different strengths:
+
+### `--deep` (URL deep scan)
+Visits the course page and all its sub-pages, extracts sidebar links, detects embedded video, and catalogs downloadable files.
+
+**Strengths:** Works for all courses regardless of API index status. Finds sidebar page structure (Syllabus, Calendar, Instructor Insights). Detects off-platform video (Dropbox, YouTube embeds) and legacy video gallery listings.
+
+**Weaknesses:** Misses content files that aren't linked from visible pages. No YouTube IDs for direct video links. Slower (visits every sub-page individually). Less complete for video-rich courses.
+
+### `--api` (API content file scan)
+Fetches all content files for a course from the MIT Learn API's `/api/v1/courses/{id}/contentfiles/` endpoint.
+
+**Strengths:** Authoritative inventory — the API knows about every file. Includes YouTube IDs, file extensions, content types, and descriptions. Much faster (single API call vs 50+ HTTP requests). More complete for well-indexed courses (292 files for 5.111SC vs 154 from URL scan).
+
+**Weaknesses:** Only as complete as the API index. Newer courses (2024-2026) may have sparse data. No sidebar page structure. Generic "Resource" type for files the API can't classify.
+
+### `--hybrid` (API + URL, merged)
+Runs both scans and merges the results. API data is the authoritative base; URL deep scan supplements with sidebar pages and corrects generic types.
+
+**Strengths:** Best of both worlds. API provides YouTube IDs, descriptions, and complete file inventory. Deep scan adds page structure and corrects types. Falls back to full deep scan when API is sparse.
+
+**Weaknesses:** Slower (runs both scans). Duplicate handling adds complexity.
+
+### Efficacy comparison
+
+| Course | `--api` | `--deep` | `--hybrid` |
+|--------|---------|----------|------------|
+| **5.111SC** (2014, well-indexed) | 223 assets, 45 YouTube IDs | 154 assets, 35 video badges | **258 assets** (API + 35 sidebar pages) |
+| **15.071** (2017, well-indexed) | 396 assets, 183 video files | 162 assets, 35 video badges | — |
+| **2.782J** (2025, sparse API) | 7 assets, generic types | 50 assets, correct types | **7 assets, correct types** (URL types override) |
+
+### Recommendation
+Use `--hybrid` for best results. Fall back to `--deep` for very new courses not yet in the API.
 
 ## Git Strategy
 
