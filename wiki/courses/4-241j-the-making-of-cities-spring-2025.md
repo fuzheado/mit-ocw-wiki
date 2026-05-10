@@ -32,11 +32,15 @@ The class debates are complemented by an individual, semester-long design-resear
 
 ## Materials
 
-- [Lecture-Notes] [Syllabus](https://ocw.mit.edu/courses/4-241j-the-making-of-cities-spring-2025/pages/syllabus/)
-- [Reading-List] [Course Schedule and Reading Assignments](https://ocw.mit.edu/courses/4-241j-the-making-of-cities-spring-2025/pages/course-schedule-and-reading-assignments/)
-- [Reading-List] [Readings](https://ocw.mit.edu/courses/4-241j-the-making-of-cities-spring-2025/pages/readings/)
-- [Problem-Set] [Research Project](https://ocw.mit.edu/courses/4-241j-the-making-of-cities-spring-2025/pages/research-project/)
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/4-241j-the-making-of-cities-spring-2025/pages/syllabus/)
+- [Course Schedule and Reading Assignments](https://ocw.mit.edu/courses/4-241j-the-making-of-cities-spring-2025/pages/course-schedule-and-reading-assignments/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-241j-the-making-of-cities-spring-2025/pages/readings/)
+
+### Assignment
+- [Research Project](https://ocw.mit.edu/courses/4-241j-the-making-of-cities-spring-2025/pages/research-project/)
 ## Wikipedia Bridge
 
 ### Related Articles
