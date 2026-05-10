@@ -459,12 +459,19 @@ def main():
         # Phase 2: Deep URL scan for sidebar structure
         url_assets = scan_one(slug)
         url_assets = deep_scan_one(slug, url_assets)
-        # From deep scan, keep only the original sidebar page links (not downloaded files)
-        sidebar_pages = [a for a in url_assets if not a[2].startswith("https://archive.org") and not a[2].startswith("https://youtu")
-                         and not a[1].startswith("Download ") and not a[2].startswith("https://www.dropbox")]
-        print(f"  Deep scan phase: {len(url_assets)} total ({len(sidebar_pages)} sidebar pages)")
+        # From deep scan, keep sidebar pages AND external video links
+        sidebar_pages = []
+        external_videos = []
+        for a in url_assets:
+            is_external_video = a[2].startswith(("https://youtu", "https://www.youtube", "https://vimeo", "https://www.dropbox"))
+            is_sidebar = not is_external_video and a[2].count("/") < 12 and not a[2].startswith("https://archive.org") and not a[1].startswith("Download ")
+            if is_external_video:
+                external_videos.append(a)
+            elif is_sidebar:
+                sidebar_pages.append(a)
+        print(f"  Deep scan phase: {len(url_assets)} total ({len(sidebar_pages)} sidebar pages, {len(external_videos)} external videos)")
 
-        # Merge: use API assets as base, add sidebar pages from URL scan
+        # Merge: use API assets as base, add sidebar pages and external videos from URL scan
         if not api_assets:
             merged = url_assets
             print(f"  API empty, using full deep scan ({len(merged)} assets)")
@@ -472,18 +479,24 @@ def main():
             merged = list(api_assets)
             merged_urls = {a[2] for a in merged}
             added = 0
+            # Add sidebar pages (with type correction)
             for a in sidebar_pages:
                 if a[2] not in merged_urls:
                     merged.append(a)
                     merged_urls.add(a[2])
                     added += 1
                 else:
-                    # URL exists but sidebar may have a better type than "Resource"
                     for i, ma in enumerate(merged):
                         if ma[2] == a[2] and ma[0] == "Resource" and a[0] != "Resource":
-                            merged[i] = a  # replace with better-typed entry
+                            merged[i] = a
                             break
-            print(f"  Merged: {len(api_assets)} API + {added} sidebar pages = {len(merged)} total")
+            # Add external video links not already covered
+            for a in external_videos:
+                if a[2] not in merged_urls:
+                    merged.append(a)
+                    merged_urls.add(a[2])
+                    added += 1
+            print(f"  Merged: {len(api_assets)} API + {added} additions = {len(merged)} total")
 
         if merged:
             update_page(slug, merged)
