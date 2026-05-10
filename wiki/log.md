@@ -87,3 +87,5 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-09 22:06] asset-scan | Hybrid scanned [[res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026|RES.10-001 Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work]] (112 assets: 102 API + 18 pages)
 
 ## [2026-05-09 22:09] asset-scan | Hybrid scanned [[18-100b-real-analysis-spring-2025|18.100B Real Analysis]] (69 assets: 68 API + 52 pages)
+
+## [2026-05-09 22:12] asset-scan | Hybrid scanned [[res-11-003-climate-justice-instructional-toolkit-spring-2025|RES.11-003 Climate Justice Instructional Toolkit]] (34 assets: 34 API + 7 pages)
