@@ -282,7 +282,14 @@ def main():
         assets = deep_scan_one(slug, assets)
         if assets:
             update_page(slug, assets)
-            append_log(f"## [{timestamp()}] asset-scan | Deep scan {slug} ({len(assets)} assets)")
+            # Get course title for richer log entry
+            title = slug
+            page_path = WIKI_DIR / "courses" / f"{slug}.md"
+            if page_path.exists():
+                m = re.search(r'^title: "(.+)"', page_path.read_text(), re.M)
+                if m:
+                    title = m.group(1)
+            append_log(f"## [{timestamp()}] asset-scan | Deep scanned [[{slug}|{title}]] ({len(assets)} assets)")
             update_checkpoint(0)
 
     elif args[0] == "--slug" and len(args) >= 2:
@@ -292,7 +299,13 @@ def main():
             print(f"  [{at:20s}] {t}")
         if assets:
             update_page(slug, assets)
-            append_log(f"## [{timestamp()}] asset-scan | Scanned {slug} ({len(assets)} assets)")
+            title = slug
+            page_path = WIKI_DIR / "courses" / f"{slug}.md"
+            if page_path.exists():
+                m = re.search(r'^title: "(.+)"', page_path.read_text(), re.M)
+                if m:
+                    title = m.group(1)
+            append_log(f"## [{timestamp()}] asset-scan | Scanned [[{slug}|{title}]] ({len(assets)} assets)")
             update_checkpoint(1)
 
     elif args[0] == "--batch" and len(args) >= 2:
@@ -307,7 +320,7 @@ def main():
                 update_page(slug, a)
                 scanned += 1
             time.sleep(0.25)
-        append_log(f"## [{timestamp()}] asset-scan | Batch offset={offset} ({scanned} courses)")
+        append_log(f"## [{timestamp()}] asset-scan | Batch offset={offset} ({scanned} courses, e.g. [[{batch[0] if batch else '?'}]] ... [[{batch[-1] if batch else '?'}]])")
         update_checkpoint(scanned)
         print(f"Scanned {scanned} courses in this batch.")
 
@@ -331,7 +344,7 @@ def main():
                     update_page(slug, a)
                     done += 1
                 time.sleep(0.25)
-            append_log(f"## [{timestamp()}] asset-scan | Unscanned batch ({done} courses)")
+            append_log(f"## [{timestamp()}] asset-scan | Unscanned batch ({done} courses, e.g. [[{batch[0] if batch else '?'}]])")
             update_checkpoint(done)
 
     else:
