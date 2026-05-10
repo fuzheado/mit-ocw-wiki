@@ -224,12 +224,24 @@ def deep_scan_one(slug: str, assets: list, max_pages: int = 100) -> list:
                     ext_videos += 1
 
         # Extract "Download video" / "Download transcript" links on sub-pages
+        # Use the page title for a descriptive label instead of "Download video"
         for m in re.finditer(r'href="([^"]+)"[^>]*>(Download\s+(?:video|transcript|the video))</a>', html, re.I):
             dl_href = m.group(1)
-            dl_text = m.group(2)
             if dl_href.startswith("/"):
                 dl_href = "https://ocw.mit.edu" + dl_href
-            entry = ("Video-Transcript", dl_text, dl_href)
+            dl_type = "video" if "video" in m.group(2).lower() else "transcript"
+            # Use page title if available, otherwise derive from filename
+            if text and text not in ("Download video", "Download the video"):
+                dl_label = f"{text} ({dl_type})"
+            else:
+                # Derive from filename: strip course prefix and quality suffix
+                fname = dl_href.rstrip("/").split("/")[-1]
+                # Remove common patterns: course prefix, quality tags, extensions
+                desc = re.sub(r'^[a-z0-9]+-[a-z0-9]+-', '', fname, flags=re.I)
+                desc = re.sub(r'_\d+p_\d+_\d+.*|_360p.*|\.mp4|\.pdf', '', desc, re.I)
+                desc = desc.replace('-', ' ').replace('_', ' ').strip()
+                dl_label = f"{desc} ({dl_type})" if desc else f"Download ({dl_type})"
+            entry = ("Video-Transcript", dl_label, dl_href)
             if entry not in assets:
                 assets.append(entry)
                 ext_videos += 1
