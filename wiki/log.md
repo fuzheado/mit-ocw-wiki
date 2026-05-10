@@ -41,3 +41,5 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-09 21:03] asset-scan | Scanned 2-782j-design-of-medical-devices-and-implants-spring-2025 (6 assets)
 
 ## [2026-05-09 21:03] asset-scan | Deep scan 2-782j-design-of-medical-devices-and-implants-spring-2025 (6 assets)
+
+## [2026-05-09 21:09] asset-scan | Deep scan 2-782j-design-of-medical-devices-and-implants-spring-2025 (50 assets)

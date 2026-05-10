@@ -139,8 +139,26 @@ def deep_scan_one(slug: str, assets: list, max_pages: int = 100) -> list:
         if slides:
             annotations.append("slides")
 
-        if annotations:
-            print(f"    [{atype}] {text} — {', '.join(annotations)}")
+        # Extract external video links on this sub-page
+        ext_videos = 0
+        for href, link_text in re.findall(r'href="(https?://[^"]+)"[^>]*>([^<]+)', html):
+            link_text = link_text.strip()
+            if not link_text or len(link_text) < 3:
+                continue
+            is_external = "(external)" in link_text.lower() or "external" in href.lower()
+            is_video_host = any(d in href for d in ("dropbox", "youtube", "youtu.be", "vimeo", "wistia", "panopto", "kaltura", "zoom.us"))
+            if is_external or is_video_host:
+                link_type = "Video-Transcript" if is_video_host else "Resource"
+                entry = (link_type, link_text, href)
+                if entry not in assets:
+                    assets.append(entry)
+                    ext_videos += 1
+
+        if annotations or ext_videos:
+            detail = ", ".join(annotations)
+            if ext_videos:
+                detail += (", " if detail else "") + f"{ext_videos} external video links"
+            print(f"    [{atype}] {text} — {detail}")
             # Append video annotation to text for display
             if videos:
                 badges = []
