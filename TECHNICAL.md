@@ -203,3 +203,32 @@ The `--hybrid` mode runs both API and deep scans, then merges:
    - If its URL IS in the API results but was typed as generic "Resource", replace with the deep scan's more specific type (e.g., "Syllabus", "Reading-List")
 5. For each external video not already covered by the API, add it as a Video-Transcript asset
 6. If the API returns no data (new/unindexed course), fall back to full deep scan results
+
+## Grouped Lecture Format
+
+Assets from different sources (API YouTube links, deep scan MP4 downloads, transcripts) are grouped by lecture name using normalized base name matching:
+
+1. Each asset's display text is normalized by stripping badges (`🎬YouTube`, `📺Video`), file extensions (`(.mp4)`, `(.pdf)`), format labels (`(video)`, `(transcript)`), and part suffixes (`Part 1`, `, Part 2`)
+2. Normalized names are compared case-insensitively
+3. Assets sharing the same base name are grouped into a single line under `### Lectures`
+4. The most descriptive original label is used as the heading
+5. Each format gets a one-character icon with optional part number:
+   - `🎬` = YouTube (with part number if multi-part)
+   - `⬇` = MP4 download (with part number if multi-part)
+   - `📄` = Transcript
+   - `🔗` = Other resource
+6. Standalone assets (syllabus, readings, problem sets, images) remain in their `### Type` sections below
+
+Example output:
+```
+### Lectures
+- **Lecture 1: Interactive Proofs** — 🎬 1 · 🎬 2 · ⬇ 1 · ⬇ 2 · 📄
+
+### Syllabus
+- [Syllabus](...)
+
+### Problem-Set
+- [Problem Set 1](...)
+```
+
+This keeps all formats one click away while eliminating duplicate lecture name repetition.
