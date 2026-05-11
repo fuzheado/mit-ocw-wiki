@@ -9,26 +9,35 @@ Articles in scope: 12
 
 | Article | Views | Quality | Templates | OCW match | Score
 |---------|-------|---------|-----------|-----------|-------
-| [[wikipedia:Earth_Day|Earth Day]] | 291,552 | C | More citations needed | 11.165 (Energy policy discussions) | **65**
-| [[wikipedia:Earth_Day|Earth Day]] | 291,552 | C | More citations needed | 11.941 (Climate adaptation policy) | **70**
-| [[wikipedia:Nuclear_weapon|Nuclear weapon]] | 95,651 | C | Citation needed, More citations needed | 22.01 (Nuclear weapons overview) | **87**
-| [[wikipedia:Nuclear_weapon|Nuclear weapon]] | 95,651 | C | Citation needed, More citations needed | 22.033 (Nuclear fuel cycle) | **77**
-| [[wikipedia:Nuclear_weapon|Nuclear weapon]] | 95,651 | C | Citation needed, More citations needed | STS.038 (Manhattan Project history) | **72**
-| [[wikipedia:Petroleum|Petroleum]] | 75,490 | C | Refimprove | 22.081J (Fossil fuels) | **77**
-| [[wikipedia:Petroleum|Petroleum]] | 75,490 | C | Refimprove | 2.61 (Petroleum fuels) | **67**
-| [[wikipedia:Petroleum|Petroleum]] | 75,490 | C | Refimprove | 12.340 (Carbon cycle) | **77**
-| [[wikipedia:El_Niño–Southern_Oscillation|El Niño–Southern Oscillation]] | 74,966 | C | Missing information | 12.800 (ENSO dynamics) | **67**
-| [[wikipedia:El_Niño–Southern_Oscillation|El Niño–Southern Oscillation]] | 74,966 | C | Missing information | 12.307 (Climate oscillations) | **77**
-| [[wikipedia:Deepwater_Horizon_oil_spill|Deepwater Horizon oil spill]] | 65,507 | C | Missing information | 1.74 (Environmental disasters) | **67**
-| [[wikipedia:Deepwater_Horizon_oil_spill|Deepwater Horizon oil spill]] | 65,507 | C | Missing information | 1.85 (Water contamination) | **67**
-| [[wikipedia:Carbon_dioxide|Carbon dioxide]] | 37,300 | C | Refimprove | 5.111SC (Greenhouse gases) | **74**
-| [[wikipedia:Carbon_dioxide|Carbon dioxide]] | 37,300 | C | Refimprove | 12.340 (CO2 and climate) | **74**
-| [[wikipedia:Carbon_dioxide|Carbon dioxide]] | 37,300 | C | Refimprove | 1.74 (Carbon cycle) | **64**
-| [[wikipedia:Chernobyl_exclusion_zone|Chernobyl exclusion zone]] | 48,144 | C | Citation needed | 22.091 (Chernobyl case study) | **74**
-| [[wikipedia:Chernobyl_exclusion_zone|Chernobyl exclusion zone]] | 48,144 | C | Citation needed | 22.033 (Containment) | **64**
-| [[wikipedia:Extinction|Extinction]] | 39,794 | C | Refimprove | 1.018J (Biodiversity) | **64**
-| [[wikipedia:Extinction|Extinction]] | 39,794 | C | Refimprove | 7.016 (Evolution) | **74**
-| [[wikipedia:Prisoner's_dilemma|Prisoner's dilemma]] | 39,225 | C | Refimprove | 14.12 (Prisoner's dilemma) | **74**
+| [[en:Earth_Day|Earth Day]] | 291,552 | C | More citations needed | 11.165 (Energy policy discussions) | **65**
+| [[en:Earth_Day|Earth Day]] | 291,552 | C | More citations needed | 11.941 (Climate adaptation policy) | **70**
+| [[en:Earth_Day|Earth Day]] | 291,552 | C | More citations needed | — | —
+| [[en:Nuclear_weapon|Nuclear weapon]] | 95,651 | C | Citation needed, More citations needed | 22.01 (Nuclear weapons overview) | **87**
+| [[en:Nuclear_weapon|Nuclear weapon]] | 95,651 | C | Citation needed, More citations needed | 22.033 (Nuclear fuel cycle) | **77**
+| [[en:Nuclear_weapon|Nuclear weapon]] | 95,651 | C | Citation needed, More citations needed | STS.038 (Manhattan Project history) | **72**
+| [[en:Nuclear_weapon|Nuclear weapon]] | 95,651 | C | Citation needed, More citations needed | — | —
+| [[en:Petroleum|Petroleum]] | 75,490 | C | Refimprove | 22.081J (Fossil fuels) | **77**
+| [[en:Petroleum|Petroleum]] | 75,490 | C | Refimprove | 2.61 (Petroleum fuels) | **67**
+| [[en:Petroleum|Petroleum]] | 75,490 | C | Refimprove | 12.340 (Carbon cycle) | **77**
+| [[en:Petroleum|Petroleum]] | 75,490 | C | Refimprove | — | —
+| [[en:El_Niño–Southern_Oscillation|El Niño–Southern Oscillation]] | 74,966 | C | Missing information | 12.800 (ENSO dynamics) | **67**
+| [[en:El_Niño–Southern_Oscillation|El Niño–Southern Oscillation]] | 74,966 | C | Missing information | 12.307 (Climate oscillations) | **77**
+| [[en:El_Niño–Southern_Oscillation|El Niño–Southern Oscillation]] | 74,966 | C | Missing information | — | —
+| [[en:Deepwater_Horizon_oil_spill|Deepwater Horizon oil spill]] | 65,507 | C | Missing information | 1.74 (Environmental disasters) | **67**
+| [[en:Deepwater_Horizon_oil_spill|Deepwater Horizon oil spill]] | 65,507 | C | Missing information | 1.85 (Water contamination) | **67**
+| [[en:Deepwater_Horizon_oil_spill|Deepwater Horizon oil spill]] | 65,507 | C | Missing information | — | —
+| [[en:Carbon_dioxide|Carbon dioxide]] | 37,300 | C | Refimprove | 5.111SC (Greenhouse gases) | **74**
+| [[en:Carbon_dioxide|Carbon dioxide]] | 37,300 | C | Refimprove | 12.340 (CO2 and climate) | **74**
+| [[en:Carbon_dioxide|Carbon dioxide]] | 37,300 | C | Refimprove | 1.74 (Carbon cycle) | **64**
+| [[en:Carbon_dioxide|Carbon dioxide]] | 37,300 | C | Refimprove | — | —
+| [[en:Chernobyl_exclusion_zone|Chernobyl exclusion zone]] | 48,144 | C | Citation needed | 22.091 (Chernobyl case study) | **74**
+| [[en:Chernobyl_exclusion_zone|Chernobyl exclusion zone]] | 48,144 | C | Citation needed | 22.033 (Containment) | **64**
+| [[en:Chernobyl_exclusion_zone|Chernobyl exclusion zone]] | 48,144 | C | Citation needed | — | —
+| [[en:Extinction|Extinction]] | 39,794 | C | Refimprove | 1.018J (Biodiversity) | **64**
+| [[en:Extinction|Extinction]] | 39,794 | C | Refimprove | 7.016 (Evolution) | **74**
+| [[en:Extinction|Extinction]] | 39,794 | C | Refimprove | — | —
+| [[en:Prisoner's_dilemma|Prisoner's dilemma]] | 39,225 | C | Refimprove | 14.12 (Prisoner's dilemma) | **74**
+| [[en:Prisoner's_dilemma|Prisoner's dilemma]] | 39,225 | C | Refimprove | — | —
 
 ## Maintenance templates found
 
@@ -50,4 +59,4 @@ Articles in scope: 12
 | 80-100 | 1 | █
 
 ---
-_Generated 2026-05-11 03:44 from demo data._
+_Generated 2026-05-11 03:54 from demo data._

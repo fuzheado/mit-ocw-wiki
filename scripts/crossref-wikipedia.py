@@ -21,7 +21,37 @@ WIKI_DIR = Path(__file__).resolve().parent.parent / "wiki"
 REPORT_DIR = WIKI_DIR / "reports"
 CROSSREF_DIR = WIKI_DIR / "crossrefs"
 
-# Hardcoded demo data — matches between WikiProject Environment and OCW courses
+# Department code to name lookup
+DEPT_NAMES = {
+    "1": "Civil & Env. Eng.", "2": "Mechanical Eng.", "3": "Materials Sci.",
+    "4": "Architecture", "5": "Chemistry", "6": "EECS",
+    "7": "Biology", "8": "Physics", "9": "Brain & Cog. Sci.",
+    "10": "Chemical Eng.", "11": "Urban Studies", "12": "Earth, Atmos. & Planetary Sci.",
+    "14": "Economics", "15": "Management", "16": "Aero/Astro",
+    "17": "Political Sci.", "18": "Mathematics", "20": "Biological Eng.",
+    "21H": "History", "21L": "Literature", "21M": "Music",
+    "22": "Nuclear Sci. & Eng.", "24": "Linguistics & Philosophy",
+    "STS": "STS", "HST": "Health Sci. & Tech.", "CC": "Concourse",
+    "ES": "Experimental Study", "CMS": "CMS", "WGS": "Women's Studies",
+    "EC": "Edgerton Center", "MAS": "Media Arts & Sci.",
+    "IDS": "Data, Systems & Society", "PE": "Athletics",
+    "RES": "Supplemental Resources", "ESD": "Eng. Systems Division",
+    "SP": "Special Programs",
+}
+
+# WikiProject name → OCW departments that align with it
+WIKIPROJECT_DEPT_MAP = {
+    "Environment": ["1", "2", "5", "7", "10", "11", "12", "22", "STS", "EC", "ESD"],
+    "Chemistry": ["5", "3", "7", "10", "20"],
+    "Physics": ["8", "6", "22"],
+    "Biology": ["7", "20", "9", "HST"],
+    "History": ["21H", "21L", "STS", "17"],
+    "Nuclear technology": ["22", "STS"],
+    "Energy": ["2", "22", "10", "5", "ESD", "IDS"],
+    "Architecture": ["4", "11"],
+    "Music": ["21M"],
+    "Earth Science": ["12", "1", "ESD"],
+}
 # Source: Wikipedia WikiProject Environment Popular pages (April 2026)
 # OCW course data from hybrid scans
 
@@ -161,6 +191,78 @@ DEMO_DATA = {
         ],
         "total_views": 21793841,
         "period": "2026-04-01 to 2026-04-30"
+    },
+    "Chemistry": {
+        "articles": [
+            {
+                "title": "Chemical bond",
+                "views": 85000,
+                "quality": "C",
+                "importance": "High",
+                "templates": ["Refimprove"],
+                "ocw_matches": [
+                    {"course": "5.111SC", "title": "Principles of Chemical Science", "lecture": "Chemical bonding overview", "assets": "video+transcript"},
+                    {"course": "5.112", "title": "Principles of Chemical Science", "lecture": "Ionic and covalent bonds", "assets": "lecture-notes"},
+                ]
+            },
+            {
+                "title": "Electron configuration",
+                "views": 42000,
+                "quality": "Start",
+                "importance": "High",
+                "templates": ["Missing information"],
+                "ocw_matches": [
+                    {"course": "5.111SC", "title": "Principles of Chemical Science", "lecture": "Electron configurations", "assets": "video+transcript"},
+                ]
+            },
+            {
+                "title": "VSEPR theory",
+                "views": 32000,
+                "quality": "C",
+                "importance": "Mid",
+                "templates": ["Image requested"],
+                "ocw_matches": [
+                    {"course": "5.111SC", "title": "Principles of Chemical Science", "lecture": "Molecular shapes", "assets": "video+transcript"},
+                ]
+            },
+        ],
+        "total_views": 2100000,
+        "period": "2026-04-01 to 2026-04-30"
+    },
+    "Biology": {
+        "articles": [
+            {
+                "title": "Evolution",
+                "views": 120000,
+                "quality": "GA",
+                "importance": "Top",
+                "templates": [],
+                "ocw_matches": []
+            },
+            {
+                "title": "Cell (biology)",
+                "views": 95000,
+                "quality": "C",
+                "importance": "High",
+                "templates": ["Refimprove"],
+                "ocw_matches": [
+                    {"course": "7.016", "title": "Introductory Biology", "lecture": "Cell structure", "assets": "video+transcript"},
+                    {"course": "7.012", "title": "Introductory Biology", "lecture": "Cell biology", "assets": "lecture-notes"},
+                ]
+            },
+            {
+                "title": "DNA replication",
+                "views": 55000,
+                "quality": "B",
+                "importance": "High",
+                "templates": ["Refimprove"],
+                "ocw_matches": [
+                    {"course": "7.016", "title": "Introductory Biology", "lecture": "DNA replication", "assets": "video+transcript"},
+                ]
+            },
+        ],
+        "total_views": 8700000,
+        "period": "2026-04-01 to 2026-04-30"
     }
 }
 
@@ -232,7 +334,7 @@ def generate_summary():
     lines.append("|---|------------|-------------------|-------|---------|------------|-----------|-------")
     for i, (s, proj, article, match) in enumerate(all_matches[:10]):
         tmpl = ", ".join(article.get("templates", [])) or "—"
-        lines.append(f"| {i+1} | **{match['course']}** | [[wikipedia:{article['title'].replace(' ', '_')}|{article['title']}]] | {article['views']:,} | {article['quality']} | {article['importance']} | {tmpl} | **{s}**")
+        lines.append(f"| {i+1} | **{match['course']}** | [[en:{article['title'].replace(' ', '_')}|{article['title']}]] | {article['views']:,} | {article['quality']} | {article['importance']} | {tmpl} | **{s}**")
 
     lines.append("")
     lines.append("## By OCW Department")
@@ -248,7 +350,8 @@ def generate_summary():
     lines.append("| Department | Matches | High-priority |")
     lines.append("|------------|---------|---------------|")
     for dept in sorted(dept_map.keys()):
-        lines.append(f"| {dept} | {dept_map[dept]['matches']} | {dept_map[dept]['high']} |")
+        name = DEPT_NAMES.get(dept, dept)
+        lines.append(f"| **{dept}** {name} | {dept_map[dept]['matches']} | {dept_map[dept]['high']} |")
 
     lines.append("")
     lines.append("## By Quality Class")
@@ -311,9 +414,9 @@ def generate_project_summary(project: str):
         if article["ocw_matches"]:
             for match in article["ocw_matches"]:
                 s = score_match(article, match)
-                lines.append(f"| [[wikipedia:{article['title'].replace(' ', '_')}|{article['title']}]] | {article['views']:,} | {article['quality']} | {tmpl} | {match['course']} ({match['lecture']}) | **{s}**")
-        else:
-            lines.append(f"| [[wikipedia:{article['title'].replace(' ', '_')}|{article['title']}]] | {article['views']:,} | {article['quality']} | {tmpl} | — | —")
+                lines.append(f"| [[en:{article['title'].replace(' ', '_')}|{article['title']}]] | {article['views']:,} | {article['quality']} | {tmpl} | {match['course']} ({match['lecture']}) | **{s}**")
+            else:
+                lines.append(f"| [[en:{article['title'].replace(' ', '_')}|{article['title']}]] | {article['views']:,} | {article['quality']} | {tmpl} | — | —")
 
     # Templates breakdown
     lines.append("")
