@@ -1,74 +1,53 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8">
-<title>CrossRef Heatmap — OCW ↔ Wikipedia</title>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>CrossRef Match Heatmap — OCW ↔ Wikipedia</title>
 <style>
-body { font-family: sans-serif; background: #fff; padding: 2rem; }
-table { border-collapse: collapse; }
-td, th { padding: 8px 14px; text-align: center; border: 1px solid #ddd; font-size: 0.85rem; }
-th { background: #f5f5f5; font-weight: 600; }
-td a { color: #000; text-decoration: none; font-weight: 500; }
-.cell-0 { background: #fff; }
+body { font-family: 'Inter', 'Segoe UI', sans-serif; background: #fafafa; margin: 0; padding: 2rem; }
+h1 { font-size: 1.6rem; font-weight: 600; margin-bottom: 0.3rem; }
+.subtitle { color: #888; font-size: 0.9rem; margin-bottom: 2rem; }
+#heatmap { display: flex; flex-direction: column; gap: 3px; }
+.row { display: flex; align-items: center; gap: 8px; }
+.row-label { width: 160px; text-align: right; font-size: 0.8rem; font-weight: 500; color: #333; padding-right: 8px; flex-shrink: 0; }
+.cell { height: 28px; border-radius: 3px; display: flex; align-items: center; justify-content: center; font-size: 0.75rem; font-weight: 600; color: #fff; transition: transform 0.1s, box-shadow 0.1s; cursor: default; min-width: 28px; position: relative; }
+.cell:hover { transform: scale(1.25); box-shadow: 0 2px 12px rgba(0,0,0,0.25); z-index: 10; }
+.cell.empty { background: transparent !important; }
+.col-headers { display: flex; margin-left: 168px; gap: 8px; margin-bottom: 4px; }
+.col-header { min-width: 28px; text-align: center; font-size: 0.7rem; font-weight: 600; color: #666; white-space: nowrap; flex: 1; }
+.legend { display: flex; align-items: center; gap: 8px; margin-top: 2rem; font-size: 0.8rem; color: #666; }
+.legend-bar { display: flex; height: 16px; border-radius: 3px; overflow: hidden; }
+.legend-bar div { width: 24px; }
+.tooltip { position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background: #333; color: #fff; padding: 4px 10px; border-radius: 4px; font-size: 0.7rem; white-space: nowrap; pointer-events: none; opacity: 0; transition: opacity 0.15s; margin-bottom: 4px; }
+.cell:hover .tooltip { opacity: 1; }
 </style>
-.cell-1 { background: rgb(172, 214, 172); }
-.cell-2 { background: rgb(143, 199, 143); }
-.cell-3 { background: rgb(115, 185, 115); }
-.cell-4 { background: rgb(86, 171, 86); }
-.cell-5 { background: rgb(58, 157, 58); }
-.cell-6 { background: rgb(29, 142, 29); }
-.cell-7 { background: rgb(0, 128, 0); }
-</head><body>
+</head>
+<body>
 <h1>OCW ↔ Wikipedia Match Heatmap</h1>
-<p>Demo data from WikiProject Environment. 9 departments, 3 WikiProjects.</p>
-<table><tr><th>OCW Dept</th>
-<th>Environment</th>
-<th>Chemistry</th>
-<th>Biology</th>
-</tr>
-<tr><th>1</th>
-<td class="cell-4">4</td>
-<td class="cell-0">0</td>
-<td class="cell-0">0</td>
-</tr>
-<tr><th>11</th>
-<td class="cell-2">2</td>
-<td class="cell-0">0</td>
-<td class="cell-0">0</td>
-</tr>
-<tr><th>12</th>
-<td class="cell-5">5</td>
-<td class="cell-0">0</td>
-<td class="cell-0">0</td>
-</tr>
-<tr><th>14</th>
-<td class="cell-1">1</td>
-<td class="cell-0">0</td>
-<td class="cell-0">0</td>
-</tr>
-<tr><th>2</th>
-<td class="cell-1">1</td>
-<td class="cell-0">0</td>
-<td class="cell-0">0</td>
-</tr>
-<tr><th>22</th>
-<td class="cell-7">7</td>
-<td class="cell-0">0</td>
-<td class="cell-0">0</td>
-</tr>
-<tr><th>5</th>
-<td class="cell-1">1</td>
-<td class="cell-4">4</td>
-<td class="cell-0">0</td>
-</tr>
-<tr><th>7</th>
-<td class="cell-1">1</td>
-<td class="cell-0">0</td>
-<td class="cell-3">3</td>
-</tr>
-<tr><th>STS</th>
-<td class="cell-1">1</td>
-<td class="cell-0">0</td>
-<td class="cell-0">0</td>
-</tr>
-</table>
-<p style='margin-top:2rem;color:#888;font-size:0.8rem;'>Generated 2026-05-11 03:54</p>
-</body></html>
+<p class="subtitle">9 departments × 3 WikiProjects — cell color = match density (darker = more OCW courses match that WikiProject)</p>
+
+<div class="col-headers">
+  <div class="col-header" style="min-width:160px;text-align:right;padding-right:8px;"></div>
+  <div class="col-header">Environmen</div><div class="col-header">Chemistry</div><div class="col-header">Biology</div>
+</div>
+
+<div class="row"><div class="row-label"><strong>1</strong> Civil & Env. Eng.</div><div class="cell" style="flex:1;background:rgb(131,189,233);">4<div class="tooltip">1 → Environment: 4 matches</div></div><div class="cell empty" style="min-width:28px;flex:1;"></div><div class="cell empty" style="min-width:28px;flex:1;"></div></div>
+<div class="row"><div class="row-label"><strong>11</strong> Urban Studies</div><div class="cell" style="flex:1;background:rgb(193,222,244);">2<div class="tooltip">11 → Environment: 2 matches</div></div><div class="cell empty" style="min-width:28px;flex:1;"></div><div class="cell empty" style="min-width:28px;flex:1;"></div></div>
+<div class="row"><div class="row-label"><strong>12</strong> Earth, Atmos. & Planetary Sci.</div><div class="cell" style="flex:1;background:rgb(100,173,227);">5<div class="tooltip">12 → Environment: 5 matches</div></div><div class="cell empty" style="min-width:28px;flex:1;"></div><div class="cell empty" style="min-width:28px;flex:1;"></div></div>
+<div class="row"><div class="row-label"><strong>14</strong> Economics</div><div class="cell" style="flex:1;background:rgb(224,238,249);">1<div class="tooltip">14 → Environment: 1 match</div></div><div class="cell empty" style="min-width:28px;flex:1;"></div><div class="cell empty" style="min-width:28px;flex:1;"></div></div>
+<div class="row"><div class="row-label"><strong>2</strong> Mechanical Eng.</div><div class="cell" style="flex:1;background:rgb(224,238,249);">1<div class="tooltip">2 → Environment: 1 match</div></div><div class="cell empty" style="min-width:28px;flex:1;"></div><div class="cell empty" style="min-width:28px;flex:1;"></div></div>
+<div class="row"><div class="row-label"><strong>22</strong> Nuclear Sci. & Eng.</div><div class="cell" style="flex:1;background:rgb(38,140,216);">7<div class="tooltip">22 → Environment: 7 matches</div></div><div class="cell empty" style="min-width:28px;flex:1;"></div><div class="cell empty" style="min-width:28px;flex:1;"></div></div>
+<div class="row"><div class="row-label"><strong>5</strong> Chemistry</div><div class="cell" style="flex:1;background:rgb(224,238,249);">1<div class="tooltip">5 → Environment: 1 match</div></div><div class="cell" style="flex:1;background:rgb(131,189,233);">4<div class="tooltip">5 → Chemistry: 4 matches</div></div><div class="cell empty" style="min-width:28px;flex:1;"></div></div>
+<div class="row"><div class="row-label"><strong>7</strong> Biology</div><div class="cell" style="flex:1;background:rgb(224,238,249);">1<div class="tooltip">7 → Environment: 1 match</div></div><div class="cell empty" style="min-width:28px;flex:1;"></div><div class="cell" style="flex:1;background:rgb(162,205,238);">3<div class="tooltip">7 → Biology: 3 matches</div></div></div>
+<div class="row"><div class="row-label"><strong>STS</strong> STS</div><div class="cell" style="flex:1;background:rgb(224,238,249);">1<div class="tooltip">STS → Environment: 1 match</div></div><div class="cell empty" style="min-width:28px;flex:1;"></div><div class="cell empty" style="min-width:28px;flex:1;"></div></div>
+
+<div class="legend">
+  <span>Match density:</span>
+  <div class="legend-bar">
+    <div style="background:#f5f5f5"></div><div style="background:rgb(224,238,249)"></div><div style="background:rgb(193,222,244)"></div><div style="background:rgb(162,205,238)"></div><div style="background:rgb(131,189,233)"></div><div style="background:rgb(100,173,227)"></div><div style="background:rgb(69,156,222)"></div><div style="background:rgb(38,140,216)"></div>
+  </div>
+  <span>0 → 7</span>
+</div>
+<p style="margin-top:2rem;color:#888;font-size:0.8rem;">Hover over a cell to see details. Generated 2026-05-11 04:01.</p>
+</body>
+</html>
