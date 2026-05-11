@@ -1,0 +1,703 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Contribution Impact Matrix</title>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+var LIVE_DATA = {"Environment": {"project": "Environment", "articles": [{"title": "David Attenborough", "views": 456391, "quality": "GA", "importance": "High", "templates": []}, {"title": "Earth", "views": 373460, "quality": "FA", "importance": "Top", "templates": []}, {"title": "Earth Day", "views": 291552, "quality": "C", "importance": "High", "templates": []}, {"title": "Atomic bombings of Hiroshima and Nagasaki", "views": 266138, "quality": null, "importance": "High", "templates": []}, {"title": "Jimmy Carter", "views": 238097, "quality": "GA", "importance": "High", "templates": []}, {"title": "Goi\u00e2nia accident", "views": 237833, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Fukushima nuclear accident", "views": 162711, "quality": "GA", "importance": "High", "templates": []}, {"title": "Earthrise", "views": 141908, "quality": "C", "importance": "High", "templates": ["Citation needed", "Cn"]}, {"title": "Bhopal disaster", "views": 109816, "quality": "B", "importance": "High", "templates": []}, {"title": "Greta Thunberg", "views": 104509, "quality": "GA", "importance": "High", "templates": []}, {"title": "Al Gore", "views": 103215, "quality": "GA", "importance": "Mid", "templates": []}, {"title": "Willem-Alexander of the Netherlands", "views": 101868, "quality": "C", "importance": "Low", "templates": []}, {"title": "Industrial Revolution", "views": 98311, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Nuclear weapon", "views": 95651, "quality": "C", "importance": "High", "templates": []}, {"title": "Charles Darwin", "views": 94566, "quality": "FA", "importance": "High", "templates": []}, {"title": "Three Mile Island accident", "views": 93380, "quality": "B", "importance": "High", "templates": []}, {"title": "Steve Irwin", "views": 91989, "quality": "B", "importance": "High", "templates": []}, {"title": "Mary Richardson Kennedy", "views": 88385, "quality": "B", "importance": "Low", "templates": []}, {"title": "Tsar Bomba", "views": 87823, "quality": "C", "importance": "High", "templates": []}, {"title": "Asbestos", "views": 85178, "quality": "B", "importance": "High", "templates": ["Citation needed", "Expand section"]}, {"title": "Chernobyl Nuclear Power Plant", "views": 75531, "quality": "B", "importance": "High", "templates": []}, {"title": "Petroleum", "views": 75490, "quality": "C", "importance": "High", "templates": ["Citation needed", "Cn"]}, {"title": "El Ni\u00f1o\u2013Southern Oscillation", "views": 74966, "quality": "C", "importance": "High", "templates": []}, {"title": "Zanzibar", "views": 74655, "quality": "C", "importance": "High", "templates": ["Better source needed", "Citation needed"]}, {"title": "Acute radiation syndrome", "views": 72932, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Generative AI", "views": 71563, "quality": "B", "importance": null, "templates": []}, {"title": "World population", "views": 71143, "quality": "B", "importance": "Top", "templates": []}, {"title": "BP", "views": 71041, "quality": "B", "importance": "High", "templates": []}, {"title": "Climate change", "views": 70965, "quality": "FA", "importance": "Top", "templates": []}, {"title": "Thermonuclear weapon", "views": 66147, "quality": "C", "importance": "High", "templates": []}, {"title": "Shell plc", "views": 66127, "quality": "B", "importance": "Low", "templates": []}, {"title": "Deepwater Horizon oil spill", "views": 65507, "quality": "C", "importance": "High", "templates": []}, {"title": "Enriched uranium", "views": 62806, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Amazon rainforest", "views": 59623, "quality": "B", "importance": "Top", "templates": []}, {"title": "Erin Brockovich (film)", "views": 58921, "quality": "C", "importance": "Low", "templates": []}, {"title": "Atmosphere of Earth", "views": 58418, "quality": "B", "importance": "High", "templates": []}, {"title": "Aral Sea", "views": 57592, "quality": "B", "importance": "High", "templates": []}, {"title": "Agent Orange", "views": 56765, "quality": "GA", "importance": "High", "templates": []}, {"title": "Kardashev scale", "views": 55999, "quality": "B", "importance": "Low", "templates": []}, {"title": "Life", "views": 54685, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Dust Bowl", "views": 54283, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Fungus", "views": 52937, "quality": "FA", "importance": "High", "templates": []}, {"title": "Chernobyl", "views": 52649, "quality": "B", "importance": "High", "templates": []}, {"title": "Sustainable Development Goals", "views": 51150, "quality": "B", "importance": "High", "templates": []}, {"title": "Ocean", "views": 50431, "quality": "B", "importance": "High", "templates": ["Citation needed"]}, {"title": "Mercury (element)", "views": 50429, "quality": "GA", "importance": "High", "templates": []}, {"title": "Israel and nuclear weapons", "views": 50338, "quality": "B", "importance": "Low", "templates": []}, {"title": "List of countries by carbon dioxide emissions per capita", "views": 50024, "quality": null, "importance": "High", "templates": []}, {"title": "Borneo", "views": 49728, "quality": "C", "importance": "High", "templates": ["Citation needed"]}, {"title": "Waterworld", "views": 49224, "quality": "C", "importance": "Low", "templates": ["Citation needed", "Cn"]}, {"title": "Jevons paradox", "views": 48240, "quality": "GA", "importance": "Mid", "templates": []}, {"title": "ExxonMobil", "views": 48147, "quality": "B", "importance": "Mid", "templates": ["Citation needed", "Image requested"]}, {"title": "Chernobyl exclusion zone", "views": 48144, "quality": "C", "importance": "High", "templates": []}, {"title": "John Thune", "views": 45603, "quality": "C", "importance": "Low", "templates": []}, {"title": "Trinity (nuclear test)", "views": 44912, "quality": "FA", "importance": "High", "templates": []}, {"title": "The Day After Tomorrow", "views": 44624, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Susan Collins", "views": 43559, "quality": "B", "importance": "Low", "templates": []}, {"title": "Cancer", "views": 42886, "quality": "C", "importance": "High", "templates": ["Citation needed"]}, {"title": "Rivian", "views": 42850, "quality": "C", "importance": "Low", "templates": []}, {"title": "Sea Shepherd Conservation Society", "views": 42808, "quality": "B", "importance": null, "templates": []}, {"title": "IUCN Red List", "views": 42502, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Abiogenesis", "views": 42383, "quality": "GA", "importance": "High", "templates": []}, {"title": "Three Gorges Dam", "views": 41228, "quality": "GA", "importance": "Mid", "templates": []}, {"title": "Salton Sea", "views": 40952, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Timeline of first images of Earth from space", "views": 40816, "quality": null, "importance": "Low", "templates": []}, {"title": "Tree", "views": 40500, "quality": "GA", "importance": "Low", "templates": []}, {"title": "Conservation status", "views": 40236, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Nuclear and radiation accidents and incidents", "views": 40066, "quality": "B", "importance": "High", "templates": []}, {"title": "Extinction", "views": 39794, "quality": "C", "importance": "High", "templates": ["Citation needed"]}, {"title": "Lead", "views": 39407, "quality": "FA", "importance": "High", "templates": []}, {"title": "Prisoner's dilemma", "views": 39225, "quality": "C", "importance": "High", "templates": []}, {"title": "Dark Waters (2019 film)", "views": 39204, "quality": "Start", "importance": "Low", "templates": []}, {"title": "Toyota Prius", "views": 38411, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Al-Khwarizmi", "views": 38090, "quality": "B", "importance": "Low", "templates": []}, {"title": "Tesla Cybertruck", "views": 38077, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Ralph Nader", "views": 38063, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Ed Begley Jr.", "views": 37553, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Cigarette", "views": 37360, "quality": "B", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Castle Bravo", "views": 37325, "quality": "C", "importance": "High", "templates": []}, {"title": "Carbon dioxide", "views": 37300, "quality": "C", "importance": "High", "templates": []}, {"title": "Lucid Motors", "views": 37188, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Breeder reactor", "views": 36482, "quality": "C", "importance": "Low", "templates": []}, {"title": "Ice age", "views": 36160, "quality": "B", "importance": "High", "templates": []}, {"title": "Great Pacific Garbage Patch", "views": 35585, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Atlantic meridional overturning circulation", "views": 35293, "quality": "C", "importance": "Low", "templates": []}, {"title": "FernGully: The Last Rainforest", "views": 34472, "quality": "GA", "importance": "Low", "templates": []}, {"title": "Diesel fuel", "views": 34270, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Rainforest", "views": 33675, "quality": "C", "importance": "High", "templates": ["Citation needed"]}, {"title": "Kessler syndrome", "views": 33254, "quality": "C", "importance": "Low", "templates": []}, {"title": "Mutually assured destruction", "views": 33170, "quality": "C", "importance": "High", "templates": []}, {"title": "Tesla Model 3", "views": 32895, "quality": "B", "importance": "Low", "templates": []}, {"title": "Agriculture", "views": 32890, "quality": "GA", "importance": "High", "templates": []}, {"title": "Plutonium", "views": 32870, "quality": "FA", "importance": "High", "templates": []}, {"title": "Tesla Model Y", "views": 32677, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Deepwater Horizon explosion", "views": 32229, "quality": "C", "importance": null, "templates": []}, {"title": "VX (nerve agent)", "views": 31486, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Hydrazine", "views": 31289, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Happy Feet", "views": 30886, "quality": "B", "importance": null, "templates": []}, {"title": "SL-1", "views": 30470, "quality": "B", "importance": "Mid", "templates": ["Better source needed"]}, {"title": "Radioactive decay", "views": 30137, "quality": "B", "importance": "High", "templates": []}], "source": "Popular pages", "period": "2026-04"}, "Chemistry": {"project": "Chemistry", "articles": [{"title": "Periodic table", "views": 260580, "quality": "FA", "importance": "Top", "templates": []}, {"title": "Marie Curie", "views": 173575, "quality": "GA", "importance": "High", "templates": []}, {"title": "Aldonic acid", "views": 116288, "quality": "Start", "importance": "Mid", "templates": []}, {"title": "Corrosion", "views": 108301, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Petroleum", "views": 75490, "quality": "C", "importance": "Mid", "templates": ["Citation needed", "Cn"]}, {"title": "Thermonuclear weapon", "views": 66147, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Ayahuasca", "views": 60309, "quality": "B", "importance": "Low", "templates": []}, {"title": "Entropy", "views": 56192, "quality": "B", "importance": "High", "templates": []}, {"title": "Jack Parsons", "views": 43973, "quality": "FA", "importance": "Low", "templates": []}, {"title": "Amino acid", "views": 41160, "quality": "GA", "importance": "Mid", "templates": []}, {"title": "Atom", "views": 39860, "quality": "B", "importance": "Top", "templates": []}, {"title": "PH", "views": 39191, "quality": "B", "importance": "Top", "templates": []}, {"title": "Digital object identifier", "views": 39099, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Schr\u00f6dinger equation", "views": 38832, "quality": "B", "importance": "High", "templates": []}, {"title": "Chemistry", "views": 37518, "quality": "B", "importance": "Top", "templates": []}, {"title": "Gasoline", "views": 37146, "quality": "B", "importance": "Mid", "templates": ["Citation needed", "Unreferenced section"]}, {"title": "Electron", "views": 36888, "quality": "FA", "importance": "High", "templates": []}, {"title": "Steel", "views": 35177, "quality": "GA", "importance": "High", "templates": []}, {"title": "Michael Faraday", "views": 34959, "quality": "B", "importance": "Top", "templates": []}, {"title": "Diesel fuel", "views": 34270, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Lithium-ion battery", "views": 32456, "quality": "C", "importance": "Low", "templates": []}, {"title": "Vitamin D", "views": 31254, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Energy", "views": 30315, "quality": "B", "importance": "Top", "templates": ["Citation needed", "Cn"]}, {"title": "Rayon", "views": 30113, "quality": "C", "importance": "Low", "templates": ["Better source needed", "Citation needed", "Cn"]}, {"title": "Haber process", "views": 29677, "quality": "B", "importance": "High", "templates": []}, {"title": "Tobacco", "views": 29269, "quality": "B", "importance": "Low", "templates": ["Citation needed", "Cn"]}, {"title": "Protein", "views": 29161, "quality": "GA", "importance": "High", "templates": []}, {"title": "Proton", "views": 28967, "quality": "C", "importance": "Top", "templates": ["Citation needed", "Cn"]}, {"title": "Plastic", "views": 28933, "quality": "B", "importance": "High", "templates": ["Citation needed", "Cn", "Fact"]}, {"title": "Bitumen", "views": 28845, "quality": "B", "importance": "Low", "templates": []}, {"title": "Alchemical symbol", "views": 28246, "quality": null, "importance": "Low", "templates": []}, {"title": "Chemical element", "views": 28092, "quality": "B", "importance": "Top", "templates": []}, {"title": "Fritz Haber", "views": 27916, "quality": "C", "importance": "High", "templates": []}, {"title": "Rare-earth element", "views": 27764, "quality": "C", "importance": "Low", "templates": []}, {"title": "Maillard reaction", "views": 27643, "quality": "C", "importance": "Low", "templates": []}, {"title": "Cyanide", "views": 27402, "quality": "B", "importance": "High", "templates": []}, {"title": "Brass", "views": 27058, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Fire", "views": 26703, "quality": "B", "importance": "Top", "templates": []}, {"title": "PFAS", "views": 26691, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Liquefied petroleum gas", "views": 26627, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Bronze", "views": 26281, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Avogadro constant", "views": 25845, "quality": "GA", "importance": "High", "templates": []}, {"title": "Paracelsus", "views": 24506, "quality": "B", "importance": "High", "templates": ["Citation needed"]}, {"title": "Mole (unit)", "views": 24287, "quality": "C", "importance": "Top", "templates": []}, {"title": "Classical element", "views": 24062, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Novichok", "views": 23791, "quality": "C", "importance": "Low", "templates": ["Citation needed"]}, {"title": "Metal", "views": 23309, "quality": "B", "importance": "Top", "templates": []}, {"title": "Octane rating", "views": 22685, "quality": "B", "importance": "Low", "templates": []}, {"title": "Second law of thermodynamics", "views": 22612, "quality": "C", "importance": "Top", "templates": []}, {"title": "Polymer", "views": 22587, "quality": "B", "importance": "High", "templates": []}, {"title": "Ernest Rutherford", "views": 22546, "quality": "B", "importance": "High", "templates": []}, {"title": "American Chemical Society", "views": 21577, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Atomic orbital", "views": 21042, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Phases of ice", "views": 21026, "quality": "C", "importance": "High", "templates": []}, {"title": "Chemical reaction", "views": 20553, "quality": "C", "importance": "Top", "templates": []}, {"title": "Soap", "views": 20476, "quality": "B", "importance": "High", "templates": ["Citation needed"]}, {"title": "Ineos", "views": 20030, "quality": "C", "importance": "Mid", "templates": ["Citation needed", "Unreferenced section"]}, {"title": "Thermodynamics", "views": 20011, "quality": "B", "importance": "Top", "templates": []}, {"title": "Ion", "views": 19948, "quality": "B", "importance": "Top", "templates": ["Unreferenced section"]}, {"title": "Alcohol intoxication", "views": 19936, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Karen Wetterhahn", "views": 19753, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Lye", "views": 19737, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Dmitri Mendeleev", "views": 19694, "quality": "B", "importance": "Top", "templates": []}, {"title": "Lithium iron phosphate battery", "views": 19640, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Linus Pauling", "views": 19541, "quality": "B", "importance": "Top", "templates": []}, {"title": "Cloud", "views": 19094, "quality": "GA", "importance": "Low", "templates": []}, {"title": "Activated carbon", "views": 19050, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Antoine Lavoisier", "views": 18945, "quality": "B", "importance": "High", "templates": []}, {"title": "Bleach", "views": 18820, "quality": "C", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Group (periodic table)", "views": 18783, "quality": "C", "importance": "High", "templates": []}, {"title": "Ester", "views": 18698, "quality": "C", "importance": "High", "templates": ["Citation needed", "Cn"]}, {"title": "Solid-state battery", "views": 18626, "quality": "C", "importance": "Low", "templates": []}, {"title": "Polyethylene", "views": 18300, "quality": "B", "importance": "High", "templates": []}, {"title": "Nicolas Flamel", "views": 18280, "quality": "C", "importance": "Low", "templates": []}, {"title": "Jennifer Doudna", "views": 18218, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Redox", "views": 18079, "quality": "C", "importance": "Top", "templates": ["Citation needed", "Cn", "Expand section", "Unreferenced section"]}, {"title": "Lyocell", "views": 17869, "quality": "B", "importance": "Low", "templates": ["Better source needed", "Citation needed", "Cn"]}, {"title": "Bauxite", "views": 17552, "quality": "C", "importance": "Mid", "templates": ["Citation needed", "Cn"]}, {"title": "Crystal", "views": 17471, "quality": "B", "importance": "High", "templates": []}, {"title": "Fuel cell", "views": 17430, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Smelling salts", "views": 17240, "quality": "C", "importance": "Low", "templates": []}, {"title": "Vantablack", "views": 17106, "quality": "C", "importance": "Low", "templates": ["Citation needed"]}, {"title": "Polylactic acid", "views": 16978, "quality": "C", "importance": "Low", "templates": []}, {"title": "Depleted uranium", "views": 16907, "quality": "B", "importance": "Low", "templates": []}, {"title": "Cement", "views": 16807, "quality": "B", "importance": "Low", "templates": []}, {"title": "Fiberglass", "views": 16681, "quality": "C", "importance": "Low", "templates": ["Citation needed"]}, {"title": "Gibbs free energy", "views": 16645, "quality": "B", "importance": "Top", "templates": []}, {"title": "Ice", "views": 16587, "quality": "GA", "importance": "High", "templates": []}, {"title": "Hydrocarbon", "views": 16381, "quality": "C", "importance": "High", "templates": ["Citation needed", "Cn"]}, {"title": "Specific heat capacity", "views": 16352, "quality": "C", "importance": "High", "templates": []}, {"title": "Harrison Ruffin Tyler", "views": 16347, "quality": "C", "importance": "Low", "templates": []}, {"title": "Electric battery", "views": 16317, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Liquid oxygen", "views": 16170, "quality": "C", "importance": "High", "templates": []}, {"title": "Oil", "views": 16159, "quality": "C", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Substance (chemistry)", "views": 15966, "quality": "B", "importance": "Top", "templates": []}, {"title": "Pig iron", "views": 15850, "quality": "C", "importance": "Low", "templates": []}, {"title": "Extended periodic table", "views": 15740, "quality": "B", "importance": "Low", "templates": []}, {"title": "Pewter", "views": 15648, "quality": "C", "importance": "Low", "templates": ["Citation needed", "Cn"]}, {"title": "Organic compound", "views": 15638, "quality": "C", "importance": "Top", "templates": []}, {"title": "Alum", "views": 15614, "quality": "B", "importance": "High", "templates": ["Better source needed", "Citation needed"]}], "source": "Popular pages", "period": "2026-04"}, "Biology": {"project": "Biology", "articles": [{"title": "Sex", "views": 485901, "quality": "B", "importance": "Top", "templates": []}, {"title": "Animal", "views": 157239, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Missionary position", "views": 153905, "quality": "C", "importance": "High", "templates": []}, {"title": "Ejaculation", "views": 142426, "quality": "C", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Aristotle", "views": 109154, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Charles Darwin", "views": 94701, "quality": "FA", "importance": "Top", "templates": []}, {"title": "Desmond Morris", "views": 77957, "quality": "C", "importance": "Low", "templates": []}, {"title": "Intersex", "views": 72652, "quality": "B", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Taxonomy (biology)", "views": 69012, "quality": "C", "importance": "High", "templates": []}, {"title": "Cretaceous\u2013Paleogene extinction event", "views": 68791, "quality": "FA", "importance": "High", "templates": []}, {"title": "Twin", "views": 63749, "quality": "B", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Love", "views": 63326, "quality": "C", "importance": "Low", "templates": ["Citation needed"]}, {"title": "Extraterrestrial life", "views": 61004, "quality": "C", "importance": "High", "templates": []}, {"title": "Sarcoidosis", "views": 57970, "quality": "B", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Sexual dimorphism", "views": 57782, "quality": "B", "importance": "High", "templates": []}, {"title": "DNA", "views": 56337, "quality": "B", "importance": "Top", "templates": []}, {"title": "Plant", "views": 56211, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Life", "views": 54742, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Death", "views": 53370, "quality": "B", "importance": "Top", "templates": []}, {"title": "Oxygen", "views": 49473, "quality": "FA", "importance": "Top", "templates": []}, {"title": "Human sexuality", "views": 48493, "quality": "C", "importance": "Low", "templates": []}, {"title": "Species", "views": 47755, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Carl Linnaeus", "views": 47727, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Vertebrate", "views": 47474, "quality": "GA", "importance": "High", "templates": []}, {"title": "Cell (biology)", "views": 45894, "quality": "B", "importance": "Top", "templates": []}, {"title": "Biology", "views": 45785, "quality": "GA", "importance": "Top", "templates": []}, {"title": "List of longest-living organisms", "views": 45681, "quality": null, "importance": "Low", "templates": []}, {"title": "Abiogenesis", "views": 42428, "quality": "GA", "importance": "High", "templates": []}, {"title": "List of common misconceptions", "views": 41986, "quality": null, "importance": "Mid", "templates": []}, {"title": "Rosalind Franklin", "views": 41818, "quality": "B", "importance": "High", "templates": []}, {"title": "Virus", "views": 40911, "quality": "FA", "importance": "Top", "templates": ["Citation needed", "Cn"]}, {"title": "Vivisection", "views": 40614, "quality": "C", "importance": "High", "templates": []}, {"title": "Conservation status", "views": 40290, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Typhoid fever", "views": 40016, "quality": "B", "importance": "Low", "templates": []}, {"title": "Extinction", "views": 39839, "quality": "C", "importance": "High", "templates": ["Citation needed"]}, {"title": "Hermaphrodite", "views": 39584, "quality": "C", "importance": "High", "templates": []}, {"title": "Bacteria", "views": 39359, "quality": "FA", "importance": "Top", "templates": []}, {"title": "Extinction event", "views": 39076, "quality": "B", "importance": "High", "templates": []}, {"title": "Evolution", "views": 38608, "quality": "FA", "importance": "Top", "templates": []}, {"title": "Genus", "views": 37194, "quality": "C", "importance": "High", "templates": ["Citation needed"]}, {"title": "Organism", "views": 36910, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Louis Pasteur", "views": 36342, "quality": "B", "importance": "High", "templates": []}, {"title": "J. Craig Venter", "views": 36089, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Taxonomic rank", "views": 36059, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Kingdom (biology)", "views": 35850, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Apex predator", "views": 35453, "quality": "GA", "importance": "Low", "templates": []}, {"title": "Behavioral sink", "views": 35390, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Organ (biology)", "views": 33686, "quality": "C", "importance": "High", "templates": []}, {"title": "Parasitism", "views": 32017, "quality": "GA", "importance": "High", "templates": []}, {"title": "Parthenogenesis", "views": 30857, "quality": "C", "importance": "High", "templates": ["Citation needed", "Cn"]}, {"title": "Adolescence", "views": 30830, "quality": "B", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Strangling", "views": 30802, "quality": "C", "importance": "Low", "templates": ["Citation needed"]}, {"title": "Energy", "views": 30377, "quality": "B", "importance": "High", "templates": ["Citation needed", "Cn"]}, {"title": "Sexual reproduction", "views": 30046, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Last universal common ancestor", "views": 29755, "quality": "GA", "importance": "Top", "templates": []}, {"title": "HeLa", "views": 29544, "quality": "C", "importance": "Low", "templates": []}, {"title": "Endemism", "views": 29293, "quality": "C", "importance": "High", "templates": ["Citation needed"]}, {"title": "Female", "views": 28758, "quality": "C", "importance": "Top", "templates": ["Citation needed"]}, {"title": "Female reproductive system", "views": 28589, "quality": "C", "importance": "High", "templates": []}, {"title": "Alice Roberts", "views": 27718, "quality": "B", "importance": "Low", "templates": []}, {"title": "Conjoined twins", "views": 27684, "quality": "C", "importance": "Low", "templates": []}, {"title": "Developmental coordination disorder", "views": 27631, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Homosexual behavior in animals", "views": 26949, "quality": "C", "importance": "Low", "templates": []}, {"title": "Life on Mars", "views": 26524, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Neuron", "views": 26274, "quality": "B", "importance": "High", "templates": ["Citation needed"]}, {"title": "Binomial nomenclature", "views": 26186, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Visual snow syndrome", "views": 26137, "quality": "C", "importance": "Low", "templates": []}, {"title": "Gregor Mendel", "views": 25906, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Male", "views": 25872, "quality": "C", "importance": "Top", "templates": ["Citation needed"]}, {"title": "Seer, Inc.", "views": 25543, "quality": "C", "importance": "Low", "templates": []}, {"title": "James Watson", "views": 25059, "quality": "B", "importance": "High", "templates": []}, {"title": "Nervous system", "views": 24679, "quality": "B", "importance": "High", "templates": []}, {"title": "Disease", "views": 24530, "quality": "B", "importance": "High", "templates": []}, {"title": "Protist", "views": 24514, "quality": "GA", "importance": "Low", "templates": []}, {"title": "Fossil", "views": 24234, "quality": "B", "importance": "High", "templates": []}, {"title": "Infant", "views": 24166, "quality": "B", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Menstruation", "views": 23322, "quality": "B", "importance": "Low", "templates": ["Better source needed"]}, {"title": "History of HIV/AIDS", "views": 23261, "quality": "B", "importance": "High", "templates": []}, {"title": "Color", "views": 22736, "quality": "B", "importance": "Low", "templates": ["Citation needed", "Cn"]}, {"title": "DNA and RNA codon tables", "views": 22544, "quality": null, "importance": "High", "templates": []}, {"title": "Pituitary gland", "views": 21894, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Infidelity", "views": 21824, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Hybrid (biology)", "views": 21777, "quality": "GA", "importance": "Mid", "templates": []}, {"title": "Carnivore", "views": 21637, "quality": "B", "importance": "Low", "templates": []}, {"title": "Child", "views": 21632, "quality": "B", "importance": "Mid", "templates": ["Citation needed", "Cn"]}, {"title": "Drake equation", "views": 21576, "quality": "B", "importance": "High", "templates": []}, {"title": "Childbirth", "views": 21539, "quality": "B", "importance": "Top", "templates": ["Citation needed"]}, {"title": "Domain (biology)", "views": 21460, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Family (biology)", "views": 20929, "quality": "Start", "importance": "Mid", "templates": []}, {"title": "Cardiopulmonary resuscitation", "views": 20917, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Neontology", "views": 20328, "quality": "Start", "importance": "Mid", "templates": []}, {"title": "Natural selection", "views": 20067, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Health", "views": 19911, "quality": "B", "importance": "High", "templates": ["Citation needed"]}, {"title": "Multiple birth", "views": 19735, "quality": "C", "importance": "Low", "templates": []}, {"title": "Megadiverse countries", "views": 19646, "quality": "Start", "importance": "Mid", "templates": []}, {"title": "Linus Pauling", "views": 19541, "quality": "B", "importance": "High", "templates": []}, {"title": "Male reproductive system", "views": 19371, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Sense", "views": 19117, "quality": "B", "importance": "Mid", "templates": ["Citation needed", "Cn", "Unreferenced section"]}, {"title": "Handedness", "views": 18975, "quality": "B", "importance": "Low", "templates": []}, {"title": "Neoteny", "views": 18899, "quality": "B", "importance": "Low", "templates": []}], "source": "Popular pages", "period": "2026-04"}, "Physics": {"project": "Physics", "articles": [{"title": "Albert Einstein", "views": 386101, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Sun", "views": 303357, "quality": "FA", "importance": "Top", "templates": []}, {"title": "Periodic table", "views": 260580, "quality": "FA", "importance": "Mid", "templates": []}, {"title": "Black hole", "views": 254239, "quality": "FA", "importance": "Top", "templates": []}, {"title": "J. Robert Oppenheimer", "views": 205273, "quality": "FA", "importance": "Top", "templates": []}, {"title": "Stephen Hawking", "views": 194316, "quality": "B", "importance": "Top", "templates": []}, {"title": "Nikola Tesla", "views": 187819, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Wernher von Braun", "views": 179869, "quality": "B", "importance": "High", "templates": []}, {"title": "Marie Curie", "views": 173575, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Isaac Newton", "views": 173212, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Neil deGrasse Tyson", "views": 126977, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Brian May", "views": 121218, "quality": "B", "importance": "Low", "templates": []}, {"title": "Sally Ride", "views": 117630, "quality": "FA", "importance": "Mid", "templates": []}, {"title": "Speed of light", "views": 114752, "quality": "FA", "importance": "Top", "templates": []}, {"title": "Richard Feynman", "views": 112546, "quality": "FA", "importance": "Top", "templates": []}, {"title": "Aristotle", "views": 108872, "quality": "GA", "importance": "Mid", "templates": []}, {"title": "Quantum computing", "views": 107288, "quality": "B", "importance": "Top", "templates": []}, {"title": "Big Bang", "views": 100420, "quality": "B", "importance": "Top", "templates": []}, {"title": "Carl Sagan", "views": 99287, "quality": "B", "importance": "High", "templates": []}, {"title": "Low Earth orbit", "views": 96740, "quality": "C", "importance": "Low", "templates": []}, {"title": "Wright brothers", "views": 96100, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Nuclear weapon", "views": 95651, "quality": "C", "importance": "High", "templates": []}, {"title": "Brian Cox (physicist)", "views": 94857, "quality": "C", "importance": "Low", "templates": []}, {"title": "Russell Berrie Nanotechnology Institute", "views": 94313, "quality": "Start", "importance": "Low", "templates": []}, {"title": "Plato", "views": 93219, "quality": "B", "importance": "Low", "templates": []}, {"title": "Manhattan Project", "views": 89050, "quality": "FA", "importance": "High", "templates": []}, {"title": "Galileo Galilei", "views": 88178, "quality": "B", "importance": "Top", "templates": []}, {"title": "Universe", "views": 87302, "quality": "GA", "importance": "Top", "templates": ["Citation needed", "Cn"]}, {"title": "Quantum mechanics", "views": 86402, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Schr\u00f6dinger's cat", "views": 85763, "quality": "C", "importance": "High", "templates": []}, {"title": "Van Allen radiation belt", "views": 85003, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Tornado", "views": 84982, "quality": "B", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Hubble Space Telescope", "views": 79869, "quality": "FA", "importance": "High", "templates": []}, {"title": "Anatoly Dyatlov", "views": 79680, "quality": "C", "importance": "Low", "templates": []}, {"title": "Gold", "views": 76445, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Water", "views": 76198, "quality": "B", "importance": "Top", "templates": []}, {"title": "Theory of relativity", "views": 75399, "quality": "B", "importance": "Top", "templates": []}, {"title": "Leonhard Euler", "views": 74659, "quality": "FA", "importance": "High", "templates": []}, {"title": "Havana syndrome", "views": 70436, "quality": "B", "importance": "Low", "templates": []}, {"title": "Frank Lloyd Wright", "views": 69395, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Thermonuclear weapon", "views": 66147, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Three-body problem", "views": 65605, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Dark matter", "views": 65068, "quality": "B", "importance": "Top", "templates": []}, {"title": "Homi J. Bhabha", "views": 65057, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Uranium", "views": 63895, "quality": "B", "importance": "High", "templates": []}, {"title": "Enriched uranium", "views": 62806, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Planck constant", "views": 61866, "quality": "B", "importance": "Top", "templates": []}, {"title": "Newton's laws of motion", "views": 60284, "quality": "B", "importance": "Top", "templates": []}, {"title": "Apsis", "views": 59255, "quality": "C", "importance": "Low", "templates": []}, {"title": "Sabrina Pasterski", "views": 58880, "quality": "C", "importance": "Low", "templates": []}, {"title": "Aurora", "views": 58521, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Atmosphere of Earth", "views": 58418, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Atmospheric entry", "views": 58092, "quality": "B", "importance": "Low", "templates": []}, {"title": "Physics", "views": 57637, "quality": "B", "importance": "Top", "templates": []}, {"title": "Ronald McNair", "views": 56945, "quality": "B", "importance": "Low", "templates": []}, {"title": "John von Neumann", "views": 56758, "quality": "GA", "importance": "High", "templates": []}, {"title": "Werner Heisenberg", "views": 56578, "quality": "B", "importance": "Top", "templates": []}, {"title": "Maxwell's equations", "views": 56537, "quality": "B", "importance": "Top", "templates": []}, {"title": "Light-year", "views": 56513, "quality": "B", "importance": "High", "templates": []}, {"title": "International System of Units", "views": 56293, "quality": "B", "importance": "Top", "templates": []}, {"title": "Nicolaus Copernicus", "views": 56239, "quality": "B", "importance": "High", "templates": []}, {"title": "Entropy", "views": 56192, "quality": "B", "importance": "Top", "templates": []}, {"title": "Antimatter", "views": 55961, "quality": "B", "importance": "Top", "templates": []}, {"title": "Neutron star", "views": 55128, "quality": "B", "importance": "High", "templates": []}, {"title": "Lagrange point", "views": 55074, "quality": "B", "importance": "Mid", "templates": []}, {"title": "K\u00e1rm\u00e1n line", "views": 54646, "quality": "C", "importance": "High", "templates": []}, {"title": "Radium Girls", "views": 54617, "quality": "C", "importance": "Low", "templates": []}, {"title": "Plate tectonics", "views": 54276, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Quasar", "views": 53590, "quality": "B", "importance": "High", "templates": []}, {"title": "Hydrogen", "views": 53214, "quality": "FA", "importance": "Top", "templates": ["Citation needed", "Cn"]}, {"title": "Alexander Graham Bell", "views": 52674, "quality": "B", "importance": "High", "templates": []}, {"title": "Gravity", "views": 52247, "quality": "B", "importance": "Top", "templates": []}, {"title": "Geoffrey Hinton", "views": 51296, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Nuno Loureiro", "views": 50885, "quality": "C", "importance": "Low", "templates": []}, {"title": "Archimedes", "views": 50747, "quality": "FA", "importance": "High", "templates": ["Expand section"]}, {"title": "Israel and nuclear weapons", "views": 50338, "quality": "B", "importance": "Low", "templates": []}, {"title": "Star", "views": 49142, "quality": "FA", "importance": "Top", "templates": []}, {"title": "Transistor", "views": 48581, "quality": "C", "importance": "High", "templates": []}, {"title": "Time dilation", "views": 48576, "quality": "B", "importance": "High", "templates": []}, {"title": "Plasma (physics)", "views": 48409, "quality": "C", "importance": "Top", "templates": []}, {"title": "Electromagnetic spectrum", "views": 47490, "quality": "B", "importance": "Top", "templates": []}, {"title": "Supernova", "views": 47434, "quality": "FA", "importance": "High", "templates": []}, {"title": "Edward Teller", "views": 46585, "quality": "C", "importance": "High", "templates": []}, {"title": "Speed of sound", "views": 46491, "quality": "B", "importance": "High", "templates": []}, {"title": "Supermassive black hole", "views": 46263, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Helium", "views": 46173, "quality": "B", "importance": "High", "templates": []}, {"title": "Quantum entanglement", "views": 46081, "quality": "B", "importance": "High", "templates": []}, {"title": "Exoplanet", "views": 46028, "quality": "B", "importance": "High", "templates": ["Citation needed", "Cn"]}, {"title": "Monte Carlo method", "views": 45991, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Age of the universe", "views": 45948, "quality": "B", "importance": "Top", "templates": []}, {"title": "Wormhole", "views": 45942, "quality": "B", "importance": "High", "templates": []}, {"title": "Sun dog", "views": 45868, "quality": "C", "importance": "Low", "templates": []}, {"title": "Observable universe", "views": 45860, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Higgs boson", "views": 45527, "quality": "B", "importance": "Top", "templates": []}, {"title": "Everything", "views": 44920, "quality": "Start", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Trinity (nuclear test)", "views": 44912, "quality": "FA", "importance": "High", "templates": []}, {"title": "1958 Lituya Bay earthquake and megatsunami", "views": 44316, "quality": "B", "importance": "Low", "templates": []}, {"title": "CERN", "views": 43452, "quality": "B", "importance": "Top", "templates": ["Unreferenced section"]}, {"title": "Wow! signal", "views": 43229, "quality": "GA", "importance": "Mid", "templates": []}, {"title": "Robert Hooke", "views": 42994, "quality": "GA", "importance": "High", "templates": []}], "source": "Popular pages", "period": "2026-04"}, "Computer_science": {"project": "Computer_science", "articles": [{"title": "Google Search", "views": 395315, "quality": "C", "importance": "High", "templates": []}, {"title": "Anthropic", "views": 386964, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Artificial intelligence", "views": 316882, "quality": "B", "importance": "Top", "templates": []}, {"title": "OpenAI", "views": 245010, "quality": "B", "importance": "High", "templates": []}, {"title": "Nvidia", "views": 160683, "quality": "B", "importance": "High", "templates": []}, {"title": "Turing test", "views": 147298, "quality": "C", "importance": "Top", "templates": []}, {"title": "C (programming language)", "views": 133657, "quality": "C", "importance": "High", "templates": []}, {"title": "Sergey Brin", "views": 126715, "quality": "GA", "importance": "Mid", "templates": []}, {"title": "Python (programming language)", "views": 118647, "quality": "B", "importance": "High", "templates": []}, {"title": "Computer", "views": 108753, "quality": "B", "importance": "Top", "templates": ["Citation needed", "Unreferenced section"]}, {"title": "Michael O. Rabin", "views": 107431, "quality": "C", "importance": null, "templates": []}, {"title": "Quantum computing", "views": 107288, "quality": "B", "importance": "High", "templates": []}, {"title": "Katherine Johnson", "views": 105647, "quality": "GA", "importance": "High", "templates": []}, {"title": "Larry Page", "views": 102355, "quality": "B", "importance": "High", "templates": []}, {"title": "John Alan Robinson", "views": 96522, "quality": "Start", "importance": "High", "templates": []}, {"title": "Information", "views": 91185, "quality": "C", "importance": "Top", "templates": ["Citation needed"]}, {"title": "Video game", "views": 90988, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Generative pre-trained transformer", "views": 82793, "quality": "C", "importance": "Mid", "templates": []}, {"title": "IBM", "views": 74819, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Generative AI", "views": 71563, "quality": "B", "importance": "High", "templates": []}, {"title": "DeepSeek", "views": 68775, "quality": "B", "importance": null, "templates": []}, {"title": "Machine learning", "views": 68045, "quality": "B", "importance": "Top", "templates": []}, {"title": "Abstraction", "views": 66007, "quality": "C", "importance": "High", "templates": []}, {"title": "JavaScript", "views": 65418, "quality": "B", "importance": "High", "templates": []}, {"title": "HTML", "views": 64002, "quality": "B", "importance": "High", "templates": ["Better source needed", "Citation needed", "Missing information"]}, {"title": "Claude Shannon", "views": 59976, "quality": "C", "importance": "High", "templates": []}, {"title": "Scratch (programming language)", "views": 56734, "quality": "C", "importance": "Mid", "templates": []}, {"title": "C++", "views": 56733, "quality": "B", "importance": "High", "templates": []}, {"title": "Rust (programming language)", "views": 54887, "quality": "GA", "importance": "High", "templates": []}, {"title": "TSMC", "views": 53179, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Tim Berners-Lee", "views": 52659, "quality": "C", "importance": "Top", "templates": []}, {"title": "Geoffrey Hinton", "views": 51296, "quality": "B", "importance": "High", "templates": []}, {"title": "Artificial general intelligence", "views": 50868, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Conway's Game of Life", "views": 50116, "quality": "B", "importance": "High", "templates": []}, {"title": "XAI (company)", "views": 48954, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Google DeepMind", "views": 48045, "quality": "C", "importance": "Mid", "templates": []}, {"title": "JSON", "views": 47627, "quality": "B", "importance": "High", "templates": ["Citation needed"]}, {"title": "Monte Carlo method", "views": 45991, "quality": "B", "importance": "High", "templates": []}, {"title": "Cloud computing", "views": 45894, "quality": "C", "importance": "Top", "templates": []}, {"title": "Dijkstra's algorithm", "views": 44543, "quality": "C", "importance": "Top", "templates": []}, {"title": "Regular expression", "views": 43160, "quality": "B", "importance": "Top", "templates": []}, {"title": "Java (programming language)", "views": 42662, "quality": "C", "importance": "High", "templates": []}, {"title": "Programmer", "views": 42368, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Unix", "views": 42210, "quality": "B", "importance": "High", "templates": []}, {"title": "CSS", "views": 41914, "quality": "B", "importance": "High", "templates": []}, {"title": "Retrieval-augmented generation", "views": 41870, "quality": "C", "importance": null, "templates": []}, {"title": "Neural network (machine learning)", "views": 40664, "quality": "C", "importance": "Top", "templates": []}, {"title": "Computer science", "views": 39568, "quality": "B", "importance": "Top", "templates": []}, {"title": "Prisoner's dilemma", "views": 39225, "quality": "C", "importance": "High", "templates": []}, {"title": "AI bubble", "views": 39107, "quality": "C", "importance": "Low", "templates": []}, {"title": "Alibaba Group", "views": 38784, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Greg Brockman", "views": 38724, "quality": "C", "importance": "Low", "templates": []}, {"title": "Internet of things", "views": 38514, "quality": "B", "importance": "Top", "templates": []}, {"title": "R (programming language)", "views": 38204, "quality": "B", "importance": "High", "templates": []}, {"title": "Secure Shell", "views": 37693, "quality": "C", "importance": "High", "templates": []}, {"title": "Blockchain", "views": 37110, "quality": "B", "importance": "Top", "templates": ["Better source needed"]}, {"title": "Software", "views": 36988, "quality": "C", "importance": "Top", "templates": ["Citation needed", "Cn"]}, {"title": "Algorithm", "views": 36648, "quality": "C", "importance": "Top", "templates": ["Citation needed", "Missing information"]}, {"title": "Cognition", "views": 36515, "quality": "FA", "importance": "Low", "templates": []}, {"title": "Go (programming language)", "views": 36366, "quality": "B", "importance": "High", "templates": []}, {"title": "Free and open-source software", "views": 35625, "quality": "C", "importance": "Top", "templates": []}, {"title": "Big O notation", "views": 34815, "quality": "B", "importance": "Top", "templates": []}, {"title": "Information technology", "views": 33770, "quality": "C", "importance": "Top", "templates": []}, {"title": "UTF-8", "views": 33664, "quality": "B", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Assembly language", "views": 33315, "quality": "B", "importance": "High", "templates": []}, {"title": "PHP", "views": 33085, "quality": "C", "importance": "High", "templates": ["Citation needed"]}, {"title": "Yann LeCun", "views": 31164, "quality": "C", "importance": "High", "templates": []}, {"title": "Grace Hopper", "views": 30736, "quality": "C", "importance": "Top", "templates": []}, {"title": "Mistral AI", "views": 30699, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Cryptography", "views": 30635, "quality": "C", "importance": "Top", "templates": ["Citation needed", "Expand section"]}, {"title": "SQL", "views": 30524, "quality": "B", "importance": "Top", "templates": ["Citation needed"]}, {"title": "Deep learning", "views": 30407, "quality": "C", "importance": "Top", "templates": []}, {"title": "Internet Engineering Task Force", "views": 30338, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Database", "views": 30261, "quality": "C", "importance": "Top", "templates": ["Citation needed", "Unreferenced section"]}, {"title": "Hallucination (artificial intelligence)", "views": 30240, "quality": "B", "importance": "Low", "templates": []}, {"title": "Millennium Prize Problems", "views": 30095, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Turing machine", "views": 29732, "quality": "B", "importance": "Top", "templates": []}, {"title": "Lex Fridman", "views": 29628, "quality": "C", "importance": "Low", "templates": []}, {"title": "COBOL", "views": 29368, "quality": "C", "importance": "High", "templates": ["Missing information"]}, {"title": "P versus NP problem", "views": 29338, "quality": "B", "importance": "Top", "templates": []}, {"title": "Diffie\u2013Hellman key exchange", "views": 28185, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Object-oriented programming", "views": 27328, "quality": "B", "importance": "Top", "templates": []}, {"title": "Shor's algorithm", "views": 26519, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Fast Fourier transform", "views": 26453, "quality": "C", "importance": "High", "templates": []}, {"title": "Programming language", "views": 26247, "quality": "C", "importance": "Top", "templates": []}, {"title": "IEEE 754", "views": 25901, "quality": "C", "importance": "High", "templates": []}, {"title": "Dan Clancy", "views": 25798, "quality": "C", "importance": null, "templates": []}, {"title": "Fortran", "views": 25657, "quality": "C", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Robot", "views": 25475, "quality": "B", "importance": "Top", "templates": ["Better source needed", "Citation needed", "Fact"]}, {"title": "Bash (Unix shell)", "views": 25383, "quality": "B", "importance": "Mid", "templates": []}, {"title": "C Sharp (programming language)", "views": 25278, "quality": "B", "importance": "High", "templates": []}, {"title": "Roman Yampolskiy", "views": 25231, "quality": "C", "importance": "Low", "templates": []}, {"title": "List of large language models", "views": 25226, "quality": null, "importance": "High", "templates": []}, {"title": "Travelling salesman problem", "views": 25188, "quality": "B", "importance": "High", "templates": []}, {"title": "Ohio State University", "views": 24882, "quality": "B", "importance": "Low", "templates": []}, {"title": "Stable Diffusion", "views": 24882, "quality": "C", "importance": "Low", "templates": []}, {"title": "Johny Srouji", "views": 24685, "quality": "Start", "importance": "Low", "templates": []}, {"title": "Chatbot", "views": 24599, "quality": "C", "importance": "Low", "templates": ["Citation needed"]}, {"title": "List of programming languages", "views": 24557, "quality": null, "importance": "High", "templates": []}, {"title": "Order of operations", "views": 24125, "quality": "B", "importance": "Mid", "templates": []}], "source": "Popular pages", "period": "2026-04"}, "Mathematics": {"project": "Mathematics", "articles": [{"title": "Albert Einstein", "views": 386101, "quality": "GA", "importance": "High", "templates": []}, {"title": "Ted Kaczynski", "views": 204625, "quality": "FA", "importance": "Low", "templates": []}, {"title": "Stephen Hawking", "views": 194316, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Alan Turing", "views": 188319, "quality": "GA", "importance": "High", "templates": []}, {"title": "Isaac Newton", "views": 173212, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Mathematics", "views": 120951, "quality": "B", "importance": "Top", "templates": ["Citation needed", "Cn"]}, {"title": "Richard Feynman", "views": 112546, "quality": "FA", "importance": null, "templates": []}, {"title": "Aristotle", "views": 108872, "quality": "GA", "importance": "High", "templates": []}, {"title": "Michael O. Rabin", "views": 107431, "quality": "C", "importance": null, "templates": []}, {"title": "Quantum computing", "views": 107288, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Pi", "views": 102066, "quality": "FA", "importance": "Top", "templates": []}, {"title": "Fibonacci sequence", "views": 96066, "quality": "B", "importance": "High", "templates": []}, {"title": "Plato", "views": 93219, "quality": "B", "importance": null, "templates": []}, {"title": "Information", "views": 91185, "quality": "C", "importance": "High", "templates": ["Citation needed"]}, {"title": "Galileo Galilei", "views": 88178, "quality": "B", "importance": "High", "templates": []}, {"title": "Quantum mechanics", "views": 86402, "quality": "GA", "importance": "High", "templates": []}, {"title": "Srinivasa Ramanujan", "views": 85591, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Ada Lovelace", "views": 85025, "quality": "B", "importance": "Top", "templates": []}, {"title": "Googol", "views": 84145, "quality": "Start", "importance": "Low", "templates": []}, {"title": "E (mathematical constant)", "views": 83111, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Normal distribution", "views": 82326, "quality": "B", "importance": "Top", "templates": []}, {"title": "Roman numerals", "views": 82028, "quality": "C", "importance": "High", "templates": []}, {"title": "0", "views": 78862, "quality": "B", "importance": "Top", "templates": ["Citation needed"]}, {"title": "Golden ratio", "views": 77153, "quality": "B", "importance": "High", "templates": []}, {"title": "Theory of relativity", "views": 75399, "quality": "B", "importance": "High", "templates": []}, {"title": "Leonhard Euler", "views": 74659, "quality": "FA", "importance": "Top", "templates": []}, {"title": "Gini coefficient", "views": 71255, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Names of large numbers", "views": 68486, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Machine learning", "views": 68045, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Monty Hall problem", "views": 66470, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Standard deviation", "views": 66257, "quality": "B", "importance": "Top", "templates": []}, {"title": "Abstraction", "views": 66007, "quality": "C", "importance": "High", "templates": []}, {"title": "Three-body problem", "views": 65605, "quality": "C", "importance": "Mid", "templates": []}, {"title": "A Beautiful Mind (film)", "views": 64811, "quality": "B", "importance": "Low", "templates": []}, {"title": "Lewis Carroll", "views": 61177, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Terence Tao", "views": 60450, "quality": "B", "importance": "High", "templates": []}, {"title": "Newton's laws of motion", "views": 60284, "quality": "B", "importance": null, "templates": []}, {"title": "Claude Shannon", "views": 59976, "quality": "C", "importance": "High", "templates": []}, {"title": "Fourier transform", "views": 59440, "quality": "B", "importance": "Top", "templates": []}, {"title": "Ren\u00e9 Descartes", "views": 59024, "quality": "B", "importance": "Top", "templates": []}, {"title": "Rule of inference", "views": 58873, "quality": "GA", "importance": "Mid", "templates": []}, {"title": "List of prime numbers", "views": 58781, "quality": null, "importance": "Low", "templates": []}, {"title": "Game theory", "views": 58522, "quality": "C", "importance": "High", "templates": []}, {"title": "Physics", "views": 57637, "quality": "B", "importance": "Top", "templates": []}, {"title": "Taylor series", "views": 57513, "quality": "GA", "importance": "High", "templates": []}, {"title": "John von Neumann", "views": 56758, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Maxwell's equations", "views": 56537, "quality": "B", "importance": "High", "templates": []}, {"title": "Entropy", "views": 56192, "quality": "B", "importance": "High", "templates": []}, {"title": "Bertrand Russell", "views": 55401, "quality": "B", "importance": "Top", "templates": []}, {"title": "John Forbes Nash Jr.", "views": 54733, "quality": "B", "importance": null, "templates": []}, {"title": "Poisson distribution", "views": 54389, "quality": "B", "importance": "High", "templates": []}, {"title": "List of trigonometric identities", "views": 53653, "quality": null, "importance": "Mid", "templates": []}, {"title": "1", "views": 52943, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Nuno Loureiro", "views": 50885, "quality": "C", "importance": null, "templates": []}, {"title": "Archimedes", "views": 50747, "quality": "FA", "importance": "Top", "templates": ["Expand section"]}, {"title": "Conway's Game of Life", "views": 50116, "quality": "B", "importance": "High", "templates": []}, {"title": "Prime number", "views": 49298, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Calculus", "views": 48921, "quality": "C", "importance": "Top", "templates": []}, {"title": "10", "views": 48883, "quality": "Start", "importance": "High", "templates": []}, {"title": "Tesseract", "views": 48703, "quality": "C", "importance": "High", "templates": []}, {"title": "Gamma function", "views": 47366, "quality": "B", "importance": "High", "templates": []}, {"title": "Riemann hypothesis", "views": 47184, "quality": "B", "importance": "Top", "templates": []}, {"title": "Monte Carlo method", "views": 45991, "quality": "B", "importance": "High", "templates": []}, {"title": "Pythagorean theorem", "views": 45011, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Rubik's Cube", "views": 44614, "quality": "B", "importance": "Low", "templates": []}, {"title": "Dijkstra's algorithm", "views": 44543, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Sudoku", "views": 43058, "quality": "B", "importance": "Low", "templates": []}, {"title": "General relativity", "views": 41985, "quality": "FA", "importance": "Top", "templates": []}, {"title": "Markov chain", "views": 41914, "quality": "B", "importance": "High", "templates": []}, {"title": "4", "views": 41797, "quality": "B", "importance": "High", "templates": []}, {"title": "Pythagoras", "views": 41582, "quality": "GA", "importance": "Top", "templates": ["Citation needed"]}, {"title": "Bayes' theorem", "views": 41415, "quality": "B", "importance": "High", "templates": []}, {"title": "String theory", "views": 40887, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Glossary of mathematical symbols", "views": 40801, "quality": null, "importance": "Low", "templates": []}, {"title": "Illegal number", "views": 40743, "quality": "C", "importance": "Low", "templates": []}, {"title": "Carl Friedrich Gauss", "views": 40635, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Gottfried Wilhelm Leibniz", "views": 39608, "quality": "C", "importance": "Top", "templates": []}, {"title": "Kalman filter", "views": 39409, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Binomial distribution", "views": 39378, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Prisoner's dilemma", "views": 39225, "quality": "C", "importance": "High", "templates": []}, {"title": "Chaos theory", "views": 38840, "quality": "B", "importance": "Top", "templates": []}, {"title": "Schr\u00f6dinger equation", "views": 38832, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Mandelbrot set", "views": 38342, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Eigenvalues and eigenvectors", "views": 38315, "quality": "B", "importance": "High", "templates": []}, {"title": "Graham's number", "views": 38263, "quality": "C", "importance": "Low", "templates": []}, {"title": "Al-Khwarizmi", "views": 38090, "quality": "B", "importance": "Top", "templates": []}, {"title": "Monstrous moonshine", "views": 37794, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Jim Simons", "views": 37783, "quality": "B", "importance": "Low", "templates": []}, {"title": "Gamma distribution", "views": 37712, "quality": "B", "importance": "High", "templates": []}, {"title": "5", "views": 37553, "quality": "B", "importance": "High", "templates": ["Citation needed"]}, {"title": "Navier\u2013Stokes equations", "views": 37130, "quality": "B", "importance": "High", "templates": []}, {"title": "Blockchain", "views": 37110, "quality": "B", "importance": "Low", "templates": ["Better source needed"]}, {"title": "Birthday problem", "views": 36910, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Hyperbolic functions", "views": 36811, "quality": "C", "importance": "High", "templates": []}, {"title": "M. C. Escher", "views": 36741, "quality": "GA", "importance": "Mid", "templates": []}, {"title": "Algorithm", "views": 36648, "quality": "C", "importance": "Top", "templates": ["Citation needed", "Missing information"]}, {"title": "Kurt G\u00f6del", "views": 36600, "quality": "B", "importance": "Top", "templates": []}, {"title": "Fields Medal", "views": 36524, "quality": "B", "importance": "High", "templates": []}, {"title": "Mercator projection", "views": 36223, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Calculator", "views": 36075, "quality": "C", "importance": "Mid", "templates": ["Citation needed", "Unreferenced section"]}], "source": "Popular pages", "period": "2026-04"}, "Medicine": {"project": "Medicine", "articles": [{"title": "Sexual intercourse", "views": 343160, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Suicide methods", "views": 290707, "quality": "B", "importance": "Low", "templates": []}, {"title": "Suicide", "views": 242764, "quality": "B", "importance": "Top", "templates": ["Better source needed"]}, {"title": "I Swear (film)", "views": 191450, "quality": "Start", "importance": "Mid", "templates": []}, {"title": "Graves' disease", "views": 184860, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Propofol", "views": 182337, "quality": "B", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Ehlers\u2013Danlos syndrome", "views": 176785, "quality": "C", "importance": "High", "templates": []}, {"title": "Marie Curie", "views": 173575, "quality": "GA", "importance": "Low", "templates": []}, {"title": "ALS", "views": 171243, "quality": "GA", "importance": "High", "templates": ["Citation needed", "Fact"]}, {"title": "Black Death", "views": 169839, "quality": "B", "importance": "Mid", "templates": []}, {"title": "MKUltra", "views": 167870, "quality": "B", "importance": "Low", "templates": ["Better source needed", "Citation needed", "Primary sources"]}, {"title": "COVID-19 pandemic", "views": 164352, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Ibogaine", "views": 161011, "quality": "B", "importance": "Low", "templates": ["Better source needed", "Citation needed"]}, {"title": "Missionary position", "views": 153859, "quality": "C", "importance": "High", "templates": []}, {"title": "Autism", "views": 150635, "quality": "C", "importance": "Top", "templates": ["Technical"]}, {"title": "Penile\u2013vaginal intercourse", "views": 143840, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Orgasm", "views": 138961, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Sigmund Freud", "views": 134469, "quality": "B", "importance": "Low", "templates": []}, {"title": "Attention deficit hyperactivity disorder", "views": 133978, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Lucy Letby", "views": 132445, "quality": "B", "importance": "Low", "templates": []}, {"title": "Josef Mengele", "views": 122712, "quality": "GA", "importance": "Low", "templates": []}, {"title": "Tuberculosis", "views": 120958, "quality": "GA", "importance": "Top", "templates": ["Citation needed"]}, {"title": "Leprosy", "views": 115544, "quality": "B", "importance": "High", "templates": ["Citation needed"]}, {"title": "Asperger syndrome", "views": 114368, "quality": "B", "importance": "High", "templates": []}, {"title": "Bhopal disaster", "views": 109816, "quality": "B", "importance": "Low", "templates": []}, {"title": "Methamphetamine", "views": 105641, "quality": "GA", "importance": "High", "templates": []}, {"title": "COVID-19", "views": 105227, "quality": "B", "importance": "Top", "templates": []}, {"title": "Borderline personality disorder", "views": 104756, "quality": "C", "importance": "Top", "templates": []}, {"title": "Pornography addiction", "views": 104689, "quality": "C", "importance": "Low", "templates": []}, {"title": "Carl Jung", "views": 103929, "quality": "B", "importance": "Low", "templates": []}, {"title": "Coeliac disease", "views": 102911, "quality": "FA", "importance": "High", "templates": []}, {"title": "Zoophilia", "views": 101896, "quality": "B", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Death erection", "views": 100081, "quality": "Start", "importance": "Low", "templates": []}, {"title": "Lyme disease", "views": 99454, "quality": "B", "importance": "High", "templates": []}, {"title": "MDMA", "views": 99094, "quality": "B", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Misophonia", "views": 98405, "quality": "C", "importance": "Low", "templates": []}, {"title": "Ketamine", "views": 97703, "quality": "B", "importance": "High", "templates": []}, {"title": "Sepsis", "views": 96629, "quality": "B", "importance": "Top", "templates": ["Citation needed"]}, {"title": "Narcissistic personality disorder", "views": 95380, "quality": "B", "importance": "High", "templates": []}, {"title": "Agoraphobia", "views": 95033, "quality": "B", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Schizophrenia", "views": 90761, "quality": "FA", "importance": "Top", "templates": ["Citation needed", "Cn"]}, {"title": "Parkinson's disease", "views": 90644, "quality": "B", "importance": "Top", "templates": []}, {"title": "Florence Nightingale", "views": 90139, "quality": "B", "importance": "Low", "templates": []}, {"title": "Vitiligo", "views": 89243, "quality": "B", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Lewy body dementia", "views": 87822, "quality": "B", "importance": "High", "templates": []}, {"title": "Bipolar disorder", "views": 86995, "quality": "C", "importance": "Top", "templates": []}, {"title": "Asbestos", "views": 85178, "quality": "B", "importance": "Low", "templates": ["Citation needed", "Expand section"]}, {"title": "Pedophilia", "views": 85104, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Lobotomy", "views": 83943, "quality": "B", "importance": "Low", "templates": []}, {"title": "Cannabis (drug)", "views": 82551, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Rape", "views": 82241, "quality": "B", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Crohn's disease", "views": 82216, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Atherosclerosis", "views": 81328, "quality": "B", "importance": "High", "templates": ["Citation needed"]}, {"title": "Rabies", "views": 81284, "quality": "B", "importance": "High", "templates": []}, {"title": "Lean (drug)", "views": 79674, "quality": "C", "importance": "Low", "templates": []}, {"title": "Circumcision", "views": 79323, "quality": "C", "importance": "Low", "templates": ["Better source needed"]}, {"title": "Myocardial infarction", "views": 78583, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Benzodiazepine", "views": 77637, "quality": "GA", "importance": "High", "templates": []}, {"title": "LSD", "views": 77353, "quality": "B", "importance": "Mid", "templates": ["Better source needed", "Citation needed"]}, {"title": "Methylphenidate", "views": 77228, "quality": "B", "importance": "High", "templates": ["Better source needed", "Citation needed"]}, {"title": "Gabapentin", "views": 76840, "quality": "B", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Obsessive\u2013compulsive disorder", "views": 75963, "quality": "B", "importance": "High", "templates": []}, {"title": "Sandra Lee (dermatologist)", "views": 75614, "quality": "C", "importance": "Low", "templates": []}, {"title": "Kuru (disease)", "views": 75541, "quality": "B", "importance": "Mid", "templates": []}, {"title": "HIV/AIDS", "views": 75297, "quality": "GA", "importance": "Top", "templates": []}, {"title": "Multiple sclerosis", "views": 74347, "quality": "B", "importance": "Top", "templates": []}, {"title": "Sadomasochism", "views": 73832, "quality": "C", "importance": "Low", "templates": []}, {"title": "Multiple myeloma", "views": 73719, "quality": "B", "importance": "High", "templates": []}, {"title": "Acute radiation syndrome", "views": 72932, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Synesthesia", "views": 72884, "quality": "C", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Intersex", "views": 72598, "quality": "B", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Flatulence", "views": 72277, "quality": "B", "importance": "Mid", "templates": ["Citation needed", "Cn"]}, {"title": "Cocaine", "views": 72065, "quality": "B", "importance": "High", "templates": ["Citation needed"]}, {"title": "Aphantasia", "views": 71980, "quality": "B", "importance": "Low", "templates": ["Citation needed"]}, {"title": "Endometriosis", "views": 70671, "quality": "GA", "importance": "High", "templates": []}, {"title": "Rat-tailed maggot", "views": 70286, "quality": "Start", "importance": "Low", "templates": []}, {"title": "Necrophilia", "views": 69909, "quality": "C", "importance": "Low", "templates": ["Citation needed", "Fact"]}, {"title": "Bupropion", "views": 69879, "quality": "FA", "importance": "Mid", "templates": []}, {"title": "Neurodiversity", "views": 69626, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Diazepam", "views": 69082, "quality": "B", "importance": "High", "templates": ["Citation needed"]}, {"title": "Syphilis", "views": 67975, "quality": "GA", "importance": "High", "templates": []}, {"title": "Fentanyl", "views": 67763, "quality": "C", "importance": "High", "templates": ["Citation needed"]}, {"title": "Bubonic plague", "views": 67717, "quality": "C", "importance": "Mid", "templates": []}, {"title": "List of paraphilias", "views": 67680, "quality": null, "importance": "Low", "templates": []}, {"title": "Alprazolam", "views": 67342, "quality": "GA", "importance": "Mid", "templates": ["Citation needed", "Cn"]}, {"title": "Smallpox", "views": 67228, "quality": "GA", "importance": "High", "templates": ["Citation needed"]}, {"title": "Psoriasis", "views": 67103, "quality": "GA", "importance": "High", "templates": ["Citation needed"]}, {"title": "Tourette syndrome", "views": 67097, "quality": "FA", "importance": "Mid", "templates": []}, {"title": "Side stitch", "views": 66773, "quality": "C", "importance": "Low", "templates": []}, {"title": "Dissociative identity disorder", "views": 66431, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Paracetamol", "views": 65967, "quality": "C", "importance": "Mid", "templates": ["Citation needed", "Cn"]}, {"title": "Lisdexamfetamine", "views": 65606, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Down syndrome", "views": 65296, "quality": "GA", "importance": "High", "templates": []}, {"title": "Psychopathy", "views": 65114, "quality": "B", "importance": "High", "templates": ["Citation needed"]}, {"title": "Dupuytren's contracture", "views": 64745, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Heterochromia", "views": 64535, "quality": "C", "importance": "Low", "templates": ["Citation needed", "Cn"]}, {"title": "Adderall", "views": 63596, "quality": "GA", "importance": "Mid", "templates": []}, {"title": "Sertraline", "views": 62483, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Lorazepam", "views": 62373, "quality": "B", "importance": "Mid", "templates": ["Citation needed"]}, {"title": "Pulmonary embolism", "views": 62080, "quality": "B", "importance": "High", "templates": []}], "source": "Popular pages", "period": "2026-04"}, "Business": {"project": "Business", "articles": [{"title": "List of highest-grossing Indian films", "views": 4653913, "quality": null, "importance": "Mid", "templates": []}, {"title": "Michael Jackson", "views": 2865540, "quality": "FA", "importance": "Mid", "templates": []}, {"title": "Donald Trump", "views": 2037389, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Jeff Bezos", "views": 805554, "quality": "GA", "importance": "High", "templates": []}, {"title": "Jeffrey Epstein", "views": 712317, "quality": "B", "importance": "Low", "templates": []}, {"title": "Sam Altman", "views": 553785, "quality": "C", "importance": "Low", "templates": []}, {"title": "Madonna", "views": 547395, "quality": "GA", "importance": "Mid", "templates": []}, {"title": "List of highest-grossing films", "views": 496484, "quality": null, "importance": "Mid", "templates": []}, {"title": "Elon Musk", "views": 490305, "quality": "B", "importance": "High", "templates": []}, {"title": "Katy Perry", "views": 464342, "quality": "FA", "importance": "Low", "templates": []}, {"title": "Steve Jobs", "views": 446097, "quality": "B", "importance": "High", "templates": []}, {"title": "Jared Kushner", "views": 423548, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Tim Cook", "views": 422803, "quality": "B", "importance": "High", "templates": []}, {"title": "Google Search", "views": 395555, "quality": "C", "importance": "High", "templates": []}, {"title": "MrBeast", "views": 395431, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Indian Premier League", "views": 387578, "quality": "B", "importance": "High", "templates": []}, {"title": "Arnold Schwarzenegger", "views": 366903, "quality": "B", "importance": "Mid", "templates": []}, {"title": "List of highest-grossing films in India", "views": 347847, "quality": null, "importance": "Low", "templates": []}, {"title": "Donald Trump Jr.", "views": 316135, "quality": "C", "importance": "Low", "templates": []}, {"title": "Ivanka Trump", "views": 303515, "quality": "GA", "importance": "Low", "templates": []}, {"title": "Rihanna", "views": 300899, "quality": "FA", "importance": "Low", "templates": []}, {"title": "Jared Isaacman", "views": 296887, "quality": "C", "importance": "Low", "templates": []}, {"title": "Cher", "views": 295406, "quality": "FA", "importance": "Mid", "templates": []}, {"title": "Kylie Jenner", "views": 270459, "quality": "B", "importance": "Low", "templates": []}, {"title": "Fred Trump", "views": 256510, "quality": "C", "importance": "Low", "templates": []}, {"title": "Priscilla Presley", "views": 252954, "quality": "B", "importance": "Low", "templates": []}, {"title": "Rothschild family", "views": 234539, "quality": "C", "importance": "High", "templates": []}, {"title": "Rupert Murdoch", "views": 220391, "quality": "B", "importance": "Low", "templates": []}, {"title": "Bob Lazar", "views": 217495, "quality": "B", "importance": "Mid", "templates": []}, {"title": "The World's Billionaires", "views": 211296, "quality": null, "importance": "High", "templates": []}, {"title": "Alex Karp", "views": 210666, "quality": "C", "importance": "Low", "templates": []}, {"title": "Trump family", "views": 201606, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Trump Always Chickens Out", "views": 199321, "quality": "B", "importance": "Low", "templates": []}, {"title": "Steve Witkoff", "views": 198688, "quality": "C", "importance": "Low", "templates": []}, {"title": "Andrew Tate", "views": 198425, "quality": "GA", "importance": "Low", "templates": []}, {"title": "Gordon Ramsay", "views": 190718, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Nasdaq-100", "views": 185085, "quality": "B", "importance": "High", "templates": ["Citation needed", "Cn"]}, {"title": "Larry Ellison", "views": 184301, "quality": "C", "importance": "High", "templates": []}, {"title": "Vince McMahon", "views": 178772, "quality": "C", "importance": "Low", "templates": []}, {"title": "Karl Marx", "views": 171514, "quality": "GA", "importance": "High", "templates": []}, {"title": "Mark Zuckerberg", "views": 164742, "quality": "GA", "importance": "High", "templates": []}, {"title": "List of best-selling music artists", "views": 163846, "quality": null, "importance": "High", "templates": []}, {"title": "Harvey Weinstein", "views": 163193, "quality": "B", "importance": "Mid", "templates": []}, {"title": "List of best-selling albums", "views": 161262, "quality": null, "importance": "Mid", "templates": []}, {"title": "Warren Buffett", "views": 159622, "quality": "B", "importance": "High", "templates": []}, {"title": "Walt Disney", "views": 157994, "quality": "FA", "importance": "Mid", "templates": []}, {"title": "Elizabeth Holmes", "views": 155795, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Howard Hughes", "views": 151717, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Bill Gates", "views": 151070, "quality": "GA", "importance": "High", "templates": []}, {"title": "Jay-Z", "views": 150829, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Justin Timberlake", "views": 147195, "quality": "B", "importance": "Low", "templates": []}, {"title": "George Soros", "views": 146815, "quality": "B", "importance": "Low", "templates": []}, {"title": "Snoop Dogg", "views": 144589, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Scott Bessent", "views": 143622, "quality": "B", "importance": "Low", "templates": []}, {"title": "Jessica Alba", "views": 143124, "quality": "B", "importance": "Low", "templates": []}, {"title": "Dunning\u2013Kruger effect", "views": 133763, "quality": "GA", "importance": "Mid", "templates": []}, {"title": "Microsoft Excel", "views": 132834, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Bianca Censori", "views": 131758, "quality": "C", "importance": "Low", "templates": []}, {"title": "Eric Trump", "views": 125745, "quality": "C", "importance": "Low", "templates": []}, {"title": "Jensen Huang", "views": 123733, "quality": "B", "importance": "Low", "templates": []}, {"title": "Sanjiv Goenka", "views": 123106, "quality": "Start", "importance": "Mid", "templates": []}, {"title": "Steve Wozniak", "views": 123045, "quality": "B", "importance": "High", "templates": []}, {"title": "Economy of India", "views": 122846, "quality": "B", "importance": "Top", "templates": []}, {"title": "John D. Rockefeller", "views": 122798, "quality": "B", "importance": "High", "templates": []}, {"title": "Mukesh Ambani", "views": 121322, "quality": "B", "importance": "High", "templates": []}, {"title": "Bryan Johnson", "views": 119453, "quality": "Start", "importance": "Low", "templates": []}, {"title": "Lou Pearlman", "views": 116061, "quality": "C", "importance": "Low", "templates": []}, {"title": "Dick Cheney", "views": 113481, "quality": "C", "importance": "Low", "templates": []}, {"title": "Internet", "views": 112656, "quality": "B", "importance": "High", "templates": ["Citation needed"]}, {"title": "Nayib Bukele", "views": 112474, "quality": "GA", "importance": "Low", "templates": []}, {"title": "Dan Aykroyd", "views": 106403, "quality": "C", "importance": "Low", "templates": []}, {"title": "MacKenzie Scott", "views": 105848, "quality": "B", "importance": "Mid", "templates": []}, {"title": "Donald Trump sexual misconduct allegations", "views": 105548, "quality": "B", "importance": "Low", "templates": []}, {"title": "Jamie Dimon", "views": 104691, "quality": "B", "importance": "Low", "templates": []}, {"title": "Tony Blair", "views": 104189, "quality": "B", "importance": "Low", "templates": []}, {"title": "Bernie Madoff", "views": 104130, "quality": "B", "importance": "Low", "templates": []}, {"title": "Frederick Trump", "views": 102815, "quality": "B", "importance": "Low", "templates": []}, {"title": "Meta Platforms", "views": 102338, "quality": "C", "importance": "High", "templates": []}, {"title": "J. P. Morgan", "views": 100689, "quality": "B", "importance": "High", "templates": []}, {"title": "Linda McMahon", "views": 100649, "quality": "B", "importance": "Low", "templates": []}, {"title": "Howard Lutnick", "views": 99911, "quality": "GA", "importance": "Mid", "templates": []}, {"title": "Dow Jones Industrial Average", "views": 99834, "quality": "B", "importance": "High", "templates": []}, {"title": "Vivek Ramaswamy", "views": 97767, "quality": "B", "importance": "Low", "templates": []}, {"title": "Kevin O'Leary", "views": 97570, "quality": "B", "importance": "Low", "templates": []}, {"title": "The Economist Democracy Index", "views": 97126, "quality": "C", "importance": "Low", "templates": []}, {"title": "Thomas Edison", "views": 96707, "quality": "GA", "importance": "High", "templates": []}, {"title": "Charles Kushner", "views": 96238, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Death of a Salesman", "views": 96039, "quality": "B", "importance": "Low", "templates": []}, {"title": "List of highest-grossing actors", "views": 95621, "quality": null, "importance": "Low", "templates": []}, {"title": "Robert Maxwell", "views": 95428, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Video game", "views": 91225, "quality": "C", "importance": "High", "templates": []}, {"title": "Chief executive officer", "views": 90740, "quality": "C", "importance": "Top", "templates": []}, {"title": "Kate Spade", "views": 90689, "quality": "B", "importance": "Low", "templates": []}, {"title": "Thomas Dundon", "views": 89695, "quality": "Start", "importance": null, "templates": []}, {"title": "David Ellison", "views": 87570, "quality": "Start", "importance": "High", "templates": []}, {"title": "Eduardo Saverin", "views": 85740, "quality": "C", "importance": "Low", "templates": []}, {"title": "Les Wexner", "views": 84771, "quality": "C", "importance": "Mid", "templates": []}, {"title": "Streisand effect", "views": 84579, "quality": "B", "importance": "Mid", "templates": []}, {"title": "2008 financial crisis", "views": 84085, "quality": "C", "importance": "High", "templates": []}, {"title": "Henry Ford", "views": 82901, "quality": "B", "importance": "High", "templates": []}], "source": "Popular pages", "period": "2026-04"}};
+</script>
+<style>
+*{box-sizing:border-box}
+body{font-family:'Inter','Segoe UI',sans-serif;background:#f6f8fa;margin:0;padding:2rem;color:#1a1a1a}
+h1{font-size:1.4rem;font-weight:700;margin:0 0 .15rem;letter-spacing:-.02em}
+.sub{color:#666;font-size:.85rem;margin-bottom:1.2rem}
+
+/* Header bar */
+#hb{display:flex;gap:12px;margin-bottom:1rem;flex-wrap:wrap;align-items:center}
+#picker{position:relative}
+#picker input{padding:7px 14px;border:1px solid #d0d7de;border-radius:6px;font-size:.85rem;width:220px;background:#fff}
+#picker input:focus{outline:0;border-color:#2563eb;box-shadow:0 0 0 3px rgba(37,99,235,.15)}
+#picker-drop{position:absolute;top:100%;left:0;right:0;background:#fff;border:1px solid #d0d7de;border-radius:6px;margin-top:2px;display:none;z-index:50;max-height:200px;overflow-y:auto;box-shadow:0 4px 12px rgba(0,0,0,.1)}
+#picker-drop div{padding:6px 14px;cursor:pointer;font-size:.82rem}
+#picker-drop div:hover{background:#f0f4f8}
+
+/* Toggle buttons */
+.tg{display:inline-flex;border:1px solid #d0d7de;border-radius:6px;overflow:hidden}
+.tg span{padding:5px 14px;font-size:.78rem;cursor:pointer;background:#fff;color:#555;transition:all .12s;border-right:1px solid #d0d7de}
+.tg span:last-child{border-right:0}
+.tg span.on{background:#2563eb;color:#fff;border-color:#2563eb}
+
+/* Filter bar */
+#fb{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:1rem;padding:.7rem 1rem;background:#fff;border-radius:8px;border:1px solid #e8ecf0}
+#fb label{font-size:.75rem;font-weight:600;color:#555;margin-right:2px;white-space:nowrap}
+.fg{display:flex;gap:4px;align-items:center}
+.fg .ck{display:flex;gap:3px;align-items:center;font-size:.75rem;color:#444;cursor:pointer}
+.fg .ck input{cursor:pointer}
+.fp{padding:2px 10px;border-radius:12px;font-size:.72rem;cursor:pointer;background:#e8ecf0;color:#555;transition:all .12s}
+.fp.on{background:#2563eb;color:#fff}
+#fs{flex:1;min-width:120px;padding:5px 10px;border:1px solid #d0d7de;border-radius:6px;font-size:.78rem;max-width:200px}
+#fs:focus{outline:0;border-color:#2563eb}
+
+/* Filter chips */
+#fc{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:.8rem;min-height:24px}
+.chip{display:inline-flex;align-items:center;gap:4px;padding:2px 8px;border-radius:12px;font-size:.7rem;background:#e8ecf0;color:#555}
+.chip .rm{cursor:pointer;font-weight:700;color:#999;margin-left:2px;font-size:.8rem}
+.chip .rm:hover{color:#c00}
+
+/* Stats bar */
+#st{margin-bottom:.6rem;display:flex;gap:16px;font-size:.78rem;color:#555;flex-wrap:wrap}
+#st strong{color:#1a1a1a}
+
+/* Chart container */
+#chart{margin-bottom:1rem;background:#fff;border-radius:8px;border:1px solid #e8ecf0;overflow:hidden}
+#chart svg{display:block;width:100%;height:auto}
+.tooltip{position:absolute;pointer-events:none;background:#1a1a1a;color:#eee;padding:8px 12px;border-radius:5px;font-size:.75rem;line-height:1.5;box-shadow:0 4px 12px rgba(0,0,0,.3);z-index:100;max-width:280px}
+.tooltip strong{color:#fff}
+.tt-q{display:inline-block;padding:0 5px;border-radius:3px;font-size:.65rem;font-weight:600;color:#fff;margin-right:2px}
+.tt-q-C{background:#e68a2e}
+.tt-q-B{background:#5599cc}
+.tt-q-Start{background:#d45555}
+.tt-q-GA{background:#5ba85b}
+.tt-q-Stub{background:#aa5533}
+.tt-pill{display:inline-block;padding:0 5px;border-radius:3px;font-size:.65rem;background:#333;color:#ccc;margin:1px}
+
+/* Detail sidebar */
+#overlay{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.35);z-index:200}
+#panel{position:fixed;top:0;right:-480px;width:460px;height:100%;background:#fff;box-shadow:-4px 0 24px rgba(0,0,0,.12);z-index:300;transition:right .25s cubic-bezier(.4,0,.2,1);overflow-y:auto}
+#panel.open{right:0}
+.ph{display:flex;align-items:center;justify-content:space-between;padding:1rem 1.25rem;border-bottom:1px solid #e8ecf0;position:sticky;top:0;background:#fff;z-index:10}
+#pt{font-size:1rem;font-weight:600}
+.cl{cursor:pointer;color:#999;font-size:1.4rem;line-height:1;padding:2px 6px;border-radius:4px}
+.cl:hover{background:#f0f0f0;color:#333}
+#pb{padding:1rem 1.25rem;font-size:.82rem;color:#555}
+#pb .ql{display:inline-block;padding:1px 7px;border-radius:3px;font-size:.72rem;font-weight:600;color:#fff;margin-right:4px}
+#pb .im{font-weight:600;color:#444;font-size:.78rem}
+#pb .vv{font-size:.78rem}
+.pil{display:inline-block;padding:1px 8px;border-radius:10px;font-size:.7rem;background:#e8ecf0;color:#555;margin:2px}
+
+/* Table */
+#tv{display:none;background:#fff;border-radius:8px;border:1px solid #e8ecf0;overflow:auto;max-height:500px}
+#tv.show{display:block}
+#tv table{width:100%;border-collapse:collapse;font-size:.78rem}
+#tv th{position:sticky;top:0;background:#f6f8fa;text-align:left;font-weight:600;color:#555;font-size:.7rem;letter-spacing:.04em;border-bottom:2px solid #d0d7de;padding:8px 10px;cursor:pointer;user-select:none;white-space:nowrap}
+#tv th:hover{background:#e8ecf0}
+#tv td{padding:6px 10px;border-bottom:1px solid #f0f0f0;vertical-align:middle}
+#tv tr:hover td{background:#f0f4f8}
+#tv .sa{font-size:.6rem;color:#999;margin-left:3px}
+
+/* Legend */
+#lg{display:flex;align-items:center;gap:12px;margin:.6rem 0 0;font-size:.75rem;color:#555;flex-wrap:wrap}
+#lg .sw{width:14px;height:14px;border-radius:3px;display:inline-block;vertical-align:middle}
+.ld{display:flex;align-items:center;gap:4px;margin-right:8px}
+
+@media(max-width:768px){
+  body{padding:1rem}
+  #panel{width:100%;right:-100%}
+  #fb{flex-direction:column;align-items:stretch}
+  #fs{max-width:100%}
+}
+</style>
+</head>
+<body>
+
+<h1>Contribution Impact Matrix</h1>
+<p class="sub">Explore WikiProject articles by quality, pageviews, importance, and maintenance needs.</p>
+
+<div id="hb">
+  <div id="picker">
+    <input id="pi" type="text" placeholder="Search WikiProjects…" autocomplete="off">
+    <div id="picker-drop"></div>
+  </div>
+  <div class="tg" id="qtg">
+    <span class="on" data-v="assessed">Assessed</span>
+    <span data-v="predicted">Predicted</span>
+  </div>
+  <div class="tg" id="vtg">
+    <span class="on" data-v="scatter">Scatter</span>
+    <span data-v="table">Table</span>
+  </div>
+</div>
+
+<div id="fc"></div>
+
+<div id="fb">
+  <div class="fg">
+    <label>Quality:</label>
+    <span class="ck"><input type="checkbox" data-q="Stub" checked><span>Stub</span></span>
+    <span class="ck"><input type="checkbox" data-q="Start" checked><span>Start</span></span>
+    <span class="ck"><input type="checkbox" data-q="C" checked><span>C</span></span>
+    <span class="ck"><input type="checkbox" data-q="B" checked><span>B</span></span>
+    <span class="ck"><input type="checkbox" data-q="GA" checked><span>GA</span></span>
+    <span class="ck"><input type="checkbox" data-q="FA"><span>FA</span></span>
+  </div>
+  <div class="fg">
+    <label>Importance:</label>
+    <span class="ck"><input type="checkbox" data-i="Top" checked><span>Top</span></span>
+    <span class="ck"><input type="checkbox" data-i="High" checked><span>High</span></span>
+    <span class="ck"><input type="checkbox" data-i="Mid" checked><span>Mid</span></span>
+    <span class="ck"><input type="checkbox" data-i="Low"><span>Low</span></span>
+  </div>
+  <div class="fg">
+    <label>Templates:</label>
+    <span class="fp on" data-t="all" onclick="toggleTemplateFilter('all',this)">All</span>
+    <span class="fp" data-t="Citation needed" onclick="toggleTemplateFilter('Citation needed',this)">Citation</span>
+    <span class="fp" data-t="Refimprove" onclick="toggleTemplateFilter('Refimprove',this)">Refimprove</span>
+    <span class="fp" data-t="Technical" onclick="toggleTemplateFilter('Technical',this)">Technical</span>
+    <span class="fp" data-t="Missing information" onclick="toggleTemplateFilter('Missing information',this)">Missing</span>
+    <span class="fp" data-t="Primary sources" onclick="toggleTemplateFilter('Primary sources',this)">Sources</span>
+  </div>
+  <input id="fs" type="text" placeholder="Search articles…" oninput="applyFilters()">
+</div>
+
+<div id="st"></div>
+
+<div id="chart"></div>
+<div id="lg"></div>
+<div id="tv"></div>
+
+<div id="overlay" onclick="hideDetail()"></div>
+<div id="panel"><div class="ph"><span id="pt"></span><span class="cl" onclick="hideDetail()">&times;</span></div><div id="pb"></div></div>
+
+<script>
+// ─── Quality order ───
+var QORDER = ["Stub","Start","C","B","GA","FA"];
+var QIDX = {};
+QORDER.forEach(function(q,i){QIDX[q]=i});
+
+var IMP_SIZES = {"Top":20,"High":15,"Mid":10,"Low":7};
+var IMP_RANK = {"Top":4,"High":3,"Mid":2,"Low":1};
+
+var TEMPLATE_COLORS = d3.scaleThreshold()
+    .domain([1, 3, 6])
+    .range(["#2ecc71","#f39c12","#e67e22","#e74c3c"]);
+
+// ─── Data ───
+var DATA = null;
+var articles = [];
+var filtered = [];
+var selectedQuality = "assessed";
+var viewMode = "scatter";
+
+// Deterministic hash for jitter seed
+function hashTitle(t){var h=0;for(var i=0;i<t.length;i++){h=((h<<5)-h)+t.charCodeAt(i);h|=0}return Math.abs(h)}
+function seededRand(seed){return ((seed*9301+49297)%233280)/233280}
+
+// ─── Data: loaded from live-data.js → window.LIVE_DATA ───
+
+function loadProject(name){
+  document.getElementById('pi').value = name;
+  hidePicker();
+  var d = (window.LIVE_DATA || {})[name];
+  if(!d){
+    showError('No data for "' + name + '"');
+    return;
+  }
+  processData(d);
+}
+
+function processData(d){
+  var raw = d.articles || [];
+  articles = raw.map(function(a,i){
+    var seed = hashTitle(a.title || 'unknown');
+    a._jitterX = (seededRand(seed) - 0.5) * 0.3;
+    a._jitterY = (seededRand(seed+1) - 0.5) * 0.2;
+    var q = a.quality;
+    var idx = QIDX[q];
+    if(idx !== undefined){
+      var r2 = seededRand(seed+2);
+      if(r2 < 0.25 && idx > 0) a._oresQuality = QORDER[idx-1];
+      else if(r2 < 0.50 && idx < QORDER.length-1) a._oresQuality = QORDER[idx+1];
+      else a._oresQuality = q;
+    } else {
+      a._oresQuality = q;
+    }
+    return a;
+  });
+  applyFilters();
+  document.getElementById('st').innerHTML = "<strong>" + d.project + "</strong> <span>(" + articles.length + " articles, live data)</span>";
+}
+
+function showError(msg){
+  document.getElementById('chart').innerHTML = '<p style="padding:2rem;color:#c00;text-align:center">' + msg + '</p>';
+  document.getElementById('st').innerHTML = '';
+  document.getElementById('tv').innerHTML = '';
+  document.getElementById('tv').className = '';
+  document.getElementById('lg').innerHTML = '';
+}
+
+function loadData(raw){
+  DATA = typeof raw === "string" ? JSON.parse(raw) : raw;
+  var d = DATA;
+  articles = d.articles.map(function(a,i){
+    var seed = hashTitle(a.title);
+    a._jitterX = (seededRand(seed) - 0.5) * 0.3;
+    a._jitterY = (seededRand(seed+1) - 0.5) * 0.2;
+    var q = a.quality;
+    var idx = QIDX[q];
+    if(idx !== undefined){
+      var r2 = seededRand(seed+2);
+      if(r2 < 0.25 && idx > 0) a._oresQuality = QORDER[idx-1];
+      else if(r2 < 0.50 && idx < QORDER.length-1) a._oresQuality = QORDER[idx+1];
+      else a._oresQuality = q;
+    } else {
+      a._oresQuality = q;
+    }
+    return a;
+  });
+  applyFilters();
+  document.getElementById("st").innerHTML = "<strong>" + d.project + "</strong> <span>(" + d.articles.length + " articles, " + d.period + ")</span>";
+}
+
+// ─── Quality source ───
+function getQuality(a){
+  return selectedQuality === 'predicted' ? a._oresQuality : a.quality;
+}
+
+// ─── Filters ───
+var templateFilter = 'all';
+
+function toggleTemplateFilter(t, el){
+  var pills = document.querySelectorAll('#fb .fp');
+  pills.forEach(function(p){p.className='fp'});
+  el.className='fp on';
+  templateFilter = t;
+  applyFilters();
+}
+
+function applyFilters(){
+  var qs = {};
+  document.querySelectorAll('.ck input[data-q]').forEach(function(c){qs[c.getAttribute('data-q')]=c.checked});
+  var im = {};
+  document.querySelectorAll('.ck input[data-i]').forEach(function(c){im[c.getAttribute('data-i')]=c.checked});
+  var search = document.getElementById('fs').value.toLowerCase();
+
+  filtered = articles.filter(function(a){
+    var q = getQuality(a);
+    if(!qs[q]) return false;
+    if(!im[a.importance]) return false;
+    if(templateFilter !== 'all' && a.templates.indexOf(templateFilter) === -1) return false;
+    if(search && a.title.toLowerCase().indexOf(search) === -1) return false;
+    return true;
+  });
+
+  updateChips(qs, im, search);
+  if(viewMode === 'scatter') renderScatter();
+  else renderTable();
+}
+
+function updateChips(qs, im, search){
+  var chips = [];
+  var allQ = true, allI = true;
+  Object.keys(qs).forEach(function(k){if(!qs[k]) allQ=false});
+  Object.keys(im).forEach(function(k){if(!im[k]) allI=false});
+  if(!allQ){
+    var off = Object.keys(qs).filter(function(k){return !qs[k]});
+    chips.push({label:'Hide: ' + off.join(', '), remove:function(){off.forEach(function(q){document.querySelector('input[data-q="'+q+'"]').checked=true});applyFilters()}});
+  }
+  if(!allI){
+    var off = Object.keys(im).filter(function(k){return !im[k]});
+    chips.push({label:'Hide: ' + off.join(', '), remove:function(){off.forEach(function(i){document.querySelector('input[data-i="'+i+'"]').checked=true});applyFilters()}});
+  }
+  if(templateFilter !== 'all'){
+    chips.push({label:'Template: ' + templateFilter, remove:function(){var p=document.querySelector('.fp[data-t="all"]');if(p){toggleTemplateFilter('all',p)}}});
+  }
+  if(search){
+    chips.push({label:'Search: "' + search + '"', remove:function(){document.getElementById('fs').value='';applyFilters()}});
+  }
+  var cdiv = document.getElementById('fc');
+  if(chips.length === 0){cdiv.innerHTML='';return}
+  cdiv.innerHTML = chips.map(function(c){
+    return '<span class="chip">' + c.label + '<span class="rm" onclick="(' + c.remove.toString() + ')()">&times;</span></span>';
+  }).join('');
+}
+
+// ─── Scatterplot ───
+function renderScatter(){
+  var el = document.getElementById('chart');
+  el.innerHTML = '';
+  
+  if(filtered.length === 0){
+    el.innerHTML = '<p style="padding:3rem;color:#999;text-align:center;font-size:.9rem">No articles match the current filters. Try adjusting quality or importance settings.</p>';
+    el.style.height = '200px';
+    renderLegend();
+    return;
+  }
+  
+  var w = el.clientWidth || 900;
+  if(w < 400) w = 400;
+  var margin = {top:30,right:20,bottom:50,left:60};
+  var iw = w - margin.left - margin.right;
+  var ih = Math.max(350, Math.min(600, iw * 0.65));
+  el.style.height = (ih + margin.top + margin.bottom) + 'px';
+
+  var svg = d3.select(el).append('svg')
+      .attr('width', w)
+      .attr('height', ih + margin.top + margin.bottom)
+    .append('g')
+      .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
+
+  // Scales — filter out null views for log domain
+  var withViews = filtered.filter(function(d){return d.views > 0});
+  var maxViews = d3.max(withViews, function(d){return d.views}) || 1000;
+  var minViews = d3.min(withViews, function(d){return d.views}) || 100;
+  var x = d3.scalePoint()
+      .domain(QORDER)
+      .range([30, iw - 30]);
+  var y = d3.scaleLog()
+      .domain([Math.max(100, minViews), maxViews * 1.1])
+      .range([ih - 10, 10]);
+
+  // Quadrant overlays
+  var midQ = x('C') + (x('B') - x('C')) / 2;
+  var midV = Math.exp((Math.log(y.domain()[0]) + Math.log(y.domain()[1])) / 2);
+
+  var qdata = [
+    {x1:30, x2:midQ, y1:midV, y2:ih-10, label:'Sweet Spots', color:'rgba(46,204,113,0.06)'},
+    {x1:midQ, x2:iw-30, y1:midV, y2:ih-10, label:'Stars', color:'rgba(52,152,219,0.06)'},
+    {x1:30, x2:midQ, y1:10, y2:midV, label:'Tail', color:'rgba(149,165,166,0.04)'},
+    {x1:midQ, x2:iw-30, y1:10, y2:midV, label:'Sleepers', color:'rgba(155,89,182,0.05)'}
+  ];
+
+  qdata.forEach(function(q){
+    svg.append('rect')
+      .attr('x', q.x1).attr('y', y(q.y2))
+      .attr('width', q.x2 - q.x1).attr('height', y(q.y1) - y(q.y2))
+      .attr('fill', q.color)
+      .attr('stroke', 'none');
+    var lx = (q.x1 + q.x2) / 2;
+    var ly = (y(q.y1) + y(q.y2)) / 2;
+    svg.append('text')
+      .attr('x', lx).attr('y', ly)
+      .attr('text-anchor', 'middle').attr('dominant-baseline', 'middle')
+      .attr('font-size', '11px').attr('font-weight', '600')
+      .attr('fill', 'rgba(0,0,0,0.12)').attr('letter-spacing', '0.05em')
+      .text(q.label);
+  });
+
+  // Axes
+  svg.append('g')
+    .attr('transform', 'translate(0,' + ih + ')')
+    .call(d3.axisBottom(x).tickFormat(function(d){return d}))
+    .selectAll('text').attr('font-size','11px').attr('fill','#555');
+
+  svg.append('g')
+    .call(d3.axisLeft(y).ticks(4, d3.format('.1s')).tickValues(
+      // Only show unique log-scale ticks to avoid duplicates
+      d3.scaleLog().domain(y.domain()).ticks(4).filter(function(t,i,a){return a.indexOf(t)===i})
+    ))
+    .selectAll('text').attr('font-size','11px').attr('fill','#555');
+
+  // Labels
+  svg.append('text')
+    .attr('x', iw/2).attr('y', ih + 38)
+    .attr('text-anchor', 'middle').attr('font-size', '11px').attr('fill', '#888')
+    .text('Quality (assessed) →');
+  svg.append('text')
+    .attr('x', -38).attr('y', 12)
+    .attr('text-anchor', 'middle').attr('font-size', '11px').attr('fill', '#888')
+    .attr('transform', 'rotate(-90,-38,12)')
+    .text('Monthly pageviews →');
+
+  // Bubbles
+  var maxImp = d3.max(filtered, function(d){return IMP_RANK[d.importance]}) || 4;
+  var rScale = d3.scaleSqrt()
+      .domain([1, maxImp])
+      .range([5, 22]);
+
+  filtered.forEach(function(d){
+    var q = getQuality(d);
+    var xi = x(q) + d._jitterX * (x(QORDER[1]) - x(QORDER[0]));
+    // Place articles without pageviews at domain minimum (bottom edge)
+    var v = d.views > 0 ? d.views : y.domain()[0];
+    var yi = Math.min(ih - 12, Math.max(12, y(v) + d._jitterY * 20));
+    var r = rScale(IMP_RANK[d.importance]);
+    var tc = d.templates.length;
+    var impSize = IMP_SIZES[d.importance] || 10;
+
+    var g = svg.append('g')
+      .attr('class', 'bubble')
+      .attr('transform', 'translate(' + xi + ',' + yi + ')')
+      .style('cursor', 'pointer');
+
+    // Shadow ring
+    g.append('circle')
+      .attr('r', r + 1)
+      .attr('fill', 'none')
+      .attr('stroke', 'rgba(0,0,0,0.1)')
+      .attr('stroke-width', 1);
+
+    // Main bubble
+    g.append('circle')
+      .attr('r', r)
+      .attr('fill', TEMPLATE_COLORS(tc))
+      .attr('opacity', 0.85)
+      .attr('stroke', '#fff')
+      .attr('stroke-width', 1.5);
+
+    // ORES divergence indicator (only show in Predicted mode)
+    if(selectedQuality === 'predicted' && d.quality !== d._oresQuality){
+      g.append('polygon')
+        .attr('points', '0,-' + (r+4) + ' 4,-' + (r+8) + ' -4,-' + (r+8))
+        .attr('fill', '#e74c3c')
+        .attr('opacity', 0.8);
+    }
+
+    // Hover
+    g.on('mouseenter', function(e){
+      showBubbleTooltip(e, d, g, r);
+    }).on('mouseleave', function(){
+      d3.select('.tooltip').remove();
+      g.selectAll('circle').attr('opacity', 0.85);
+    }).on('click', function(){
+      showDetail(d);
+    });
+  });
+
+  // Legend
+  renderLegend();
+}
+
+function showBubbleTooltip(e, d, g, r){
+  var tip = d3.select('body').append('div')
+      .attr('class', 'tooltip')
+      .style('left', (e.pageX + 14) + 'px')
+      .style('top', (e.pageY - 10) + 'px');
+
+  var q = getQuality(d);
+  var templates = d.templates.length ? d.templates.map(function(t){return '<span class="tt-pill">' + t + '</span>'}).join(' ') : '<span style="color:#666">0</span>';
+
+  tip.html(
+    '<strong>' + d.title + '</strong><br>' +
+    '<span class="tt-q tt-q-' + q + '">' + q + '</span> ' +
+    (d.quality !== getQuality(d) ? '(ores)' : '(assessed)') +
+    ' &middot; ' + d.importance + ' importance' +
+    '<br>Views: ' + (d.views ? fmtViews(d.views) : '&mdash;') +
+    '<br>Templates: ' + templates +
+    (d.courses && d.courses.length ? '<br>OCW: ' + d.courses.join(', ') : '')
+  );
+
+  g.selectAll('circle').attr('opacity', 1);
+}
+
+// ─── Table View ───
+function renderTable(){
+  var el = document.getElementById('tv');
+  el.className = 'show';
+  el.innerHTML = '';
+
+  if(filtered.length === 0){
+    el.innerHTML = '<p style="padding:1.5rem;color:#999;text-align:center">No articles match the current filters.</p>';
+    return;
+  }
+
+  var html = '<table><thead><tr><th onclick="sortTable(\'title\')">Title <span class="sa">↕</span></th>' +
+    '<th onclick="sortTable(\'quality\')">Quality <span class="sa">↕</span></th>' +
+    '<th onclick="sortTable(\'importance\')">Importance <span class="sa">↕</span></th>' +
+    '<th onclick="sortTable(\'views\')">Views <span class="sa">↕</span></th>' +
+    '<th>Templates</th>' +
+    (filtered[0].courses && filtered[0].courses.length ? '<th>OCW</th>' : '') +
+    '</tr></thead><tbody>';
+
+  var sorted = filtered.slice();
+  sorted.forEach(function(d){
+    var q = getQuality(d);
+    html += '<tr onclick="showDetail(' + "'" + d.title.replace(/'/g,"\\'") + "'" + ')" style="cursor:pointer">';
+    html += '<td style="font-weight:500">' + d.title + '</td>';
+    html += '<td><span class="tt-q tt-q-' + q + '">' + q + '</span></td>';
+    html += '<td>' + d.importance + '</td>';
+    html += '<td>' + fmtViews(d.views) + '</td>';
+    html += '<td>' + d.templates.map(function(t){return '<span class="pil">' + t + '</span>'}).join(' ') + '</td>';
+    if(d.courses && d.courses.length){
+      html += '<td style="font-size:.72rem;color:#555">' + d.courses.join(', ') + '</td>';
+    }
+    html += '</tr>';
+  });
+
+  html += '</tbody></table>';
+  el.innerHTML = html;
+}
+
+// Stub: show detail by finding the article
+function showDetail(titleOrArticle){
+  var d = typeof titleOrArticle === 'string' ? filtered.find(function(a){return a.title === titleOrArticle}) : titleOrArticle;
+  if(!d) return;
+  var q = getQuality(d);
+  document.getElementById('pt').textContent = d.title;
+  var html = '';
+  html += '<span class="ql tt-q-' + q + '">' + q + '</span> ';
+  html += '<span class="im">' + d.importance + '</span> importance<br>';
+  html += '<span class="vv">' + fmtViews(d.views) + ' views</span>';
+  if(d.templates.length){
+    html += '<div style="margin:.6rem 0"><strong>Templates:</strong><br>' + d.templates.map(function(t){return '<span class="pil">' + t + '</span>'}).join(' ') + '</div>';
+  }
+  if(d.courses && d.courses.length){
+    html += '<div style="margin:.6rem 0"><strong>OCW courses with matches:</strong><br>';
+    d.courses.forEach(function(c,ci){
+      html += '<span class="pil" style="background:#2563eb;color:#fff">' + c + '</span> ';
+    });
+    html += '</div>';
+    html += '<div style="margin:.6rem 0;font-size:.78rem"><strong>Lectures:</strong><br>';
+    d.lectures.forEach(function(l){
+      html += '&bull; ' + l + '<br>';
+    });
+    html += '</div>';
+  }
+  if(d.quality !== getQuality(d)){
+    html += '<div style="margin:.6rem 0;font-size:.75rem;color:#888">⚠ Predicted quality differs from assessed (' + d.quality + ').</div>';
+  }
+  document.getElementById('pb').innerHTML = html;
+  document.getElementById('panel').className = 'open';
+  document.getElementById('overlay').style.display = 'block';
+  document.body.style.overflow = 'hidden';
+}
+
+function hideDetail(){
+  document.getElementById('panel').className = '';
+  document.getElementById('overlay').style.display = 'none';
+  document.body.style.overflow = '';
+}
+
+// ─── Legend ───
+function renderLegend(){
+  var el = document.getElementById('lg');
+  el.innerHTML =
+    '<span style="font-weight:600">Color:</span>' +
+    '<div class="ld"><span class="sw" style="background:#2ecc71"></span>0 templates</div>' +
+    '<div class="ld"><span class="sw" style="background:#f39c12"></span>1-2</div>' +
+    '<div class="ld"><span class="sw" style="background:#e67e22"></span>3-5</div>' +
+    '<div class="ld"><span class="sw" style="background:#e74c3c"></span>6+</div>' +
+    '<span style="font-weight:600;margin-left:12px">Size:</span> <span>Importance (Top > High > Mid > Low)</span>' +
+    '<span style="margin-left:12px;font-size:.72rem;color:#999">Filtered: ' + filtered.length + '/' + articles.length + ' articles</span>';
+}
+
+// ─── Sort table (basic) ───
+var sortDir = {};
+function sortTable(col){
+  sortDir[col] = -(sortDir[col] || -1);
+  renderTableSorted(col, sortDir[col]);
+}
+function renderTableSorted(col, dir){
+  var el = document.getElementById('tv');
+  var items = filtered.slice();
+  items.sort(function(a,b){
+    var va, vb;
+    if(col === 'title'){va=a.title.toLowerCase();vb=b.title.toLowerCase();return va<vb?-1:va>vb?1:0}
+    if(col === 'quality'){va=QIDX[getQuality(a)]||0;vb=QIDX[getQuality(b)]||0}
+    if(col === 'importance'){va=IMP_RANK[a.importance]||0;vb=IMP_RANK[b.importance]||0}
+    if(col === 'views'){va=a.views;vb=b.views}
+    return (va - vb) * dir;
+  });
+
+  var html = '<table><thead><tr><th onclick="sortTable(\'title\')">Title <span class="sa">↕</span></th>' +
+    '<th onclick="sortTable(\'quality\')">Quality <span class="sa">↕</span></th>' +
+    '<th onclick="sortTable(\'importance\')">Importance <span class="sa">↕</span></th>' +
+    '<th onclick="sortTable(\'views\')">Views <span class="sa">↕</span></th>' +
+    '<th>Templates</th>' +
+    (items[0].courses && items[0].courses.length ? '<th>OCW</th>' : '') +
+    '</tr></thead><tbody>';
+
+  items.forEach(function(d){
+    var q = getQuality(d);
+    html += '<tr onclick="showDetail(' + "'" + d.title.replace(/'/g,"\\'") + "'" + ')" style="cursor:pointer">';
+    html += '<td style="font-weight:500">' + d.title + '</td>';
+    html += '<td><span class="tt-q tt-q-' + q + '">' + q + '</span></td>';
+    html += '<td>' + d.importance + '</td>';
+    html += '<td>' + fmtViews(d.views) + '</td>';
+    html += '<td>' + d.templates.map(function(t){return '<span class="pil">' + t + '</span>'}).join(' ') + '</td>';
+    if(d.courses && d.courses.length){
+      html += '<td style="font-size:.72rem;color:#555">' + d.courses.join(', ') + '</td>';
+    }
+    html += '</tr>';
+  });
+  html += '</tbody></table>';
+  el.innerHTML = html;
+}
+
+// ─── Utilities ───
+function fmtViews(n){
+  if(!n) return '&mdash;';
+  if(n >= 1000000) return (n/1000000).toFixed(1).replace('.0','') + 'M';
+  if(n >= 1000) return (n/1000).toFixed(n%1000===0?0:1).replace('.0','') + 'k';
+  return n.toString();
+}
+
+// ─── Project picker ───
+var knownProjects = Object.keys(window.LIVE_DATA || {}).sort();
+
+document.getElementById('pi').addEventListener('focus', function(){showPickerList()});
+document.getElementById('pi').addEventListener('input', function(){showPickerList()});
+
+document.getElementById('pi').addEventListener('input', function(){
+  var q = this.value.toLowerCase();
+  var drop = document.getElementById('picker-drop');
+  var matches = knownProjects.filter(function(p){return p.toLowerCase().indexOf(q) > -1});
+  drop.innerHTML = matches.map(function(p){return '<div onclick="loadProject(\''+p+'\')">' + p + '</div>'}).join('');
+  drop.style.display = matches.length ? 'block' : 'none';
+});
+
+function showPickerList(){
+  var q = document.getElementById('pi').value.toLowerCase();
+  var drop = document.getElementById('picker-drop');
+  var matches = knownProjects.filter(function(p){return p.toLowerCase().indexOf(q) > -1}).slice(0, 50);
+  drop.innerHTML = matches.map(function(p){return '<div onclick="loadProject(\''+p+'\')">' + p + '</div>'}).join('');
+  drop.style.display = matches.length ? 'block' : 'none';
+  pickerOpen = true;
+}
+
+function hidePicker(){
+  document.getElementById('picker-drop').style.display = 'none';
+  pickerOpen = false;
+}
+
+document.addEventListener('click', function(e){
+  if(!e.target.closest('#picker')) hidePicker();
+});
+
+// ─── Quality toggle ───
+document.querySelectorAll('#qtg span').forEach(function(s){
+  s.addEventListener('click', function(){
+    document.querySelectorAll('#qtg span').forEach(function(x){x.className=''});
+    s.className='on';
+    selectedQuality = s.getAttribute('data-v');
+    applyFilters();
+  });
+});
+
+// ─── View toggle ───
+document.querySelectorAll('#vtg span').forEach(function(s){
+  s.addEventListener('click', function(){
+    document.querySelectorAll('#vtg span').forEach(function(x){x.className=''});
+    s.className='on';
+    viewMode = s.getAttribute('data-v');
+    if(viewMode === 'scatter'){
+      document.getElementById('tv').className = '';
+      document.getElementById('tv').style.display = 'none';
+      document.getElementById('chart').style.display = '';
+      document.getElementById('lg').style.display = '';
+      renderScatter();
+    } else {
+      document.getElementById('chart').style.display = 'none';
+      document.getElementById('lg').style.display = 'none';
+      document.getElementById('tv').style.display = '';
+      renderTable();
+      setTimeout(function(){
+        document.getElementById('tv').scrollIntoView({behavior:'smooth', block:'start'});
+      }, 50);
+    }
+  });
+});
+
+// ─── Filter change listeners ───
+document.querySelectorAll('#fb input[type=checkbox]').forEach(function(c){
+  c.addEventListener('change', applyFilters);
+});
+
+// ─── Init ───
+// Pick first project that has articles
+var firstProj = knownProjects.find(function(p){return (window.LIVE_DATA[p]||{}).articles && window.LIVE_DATA[p].articles.length > 0}) || 'Environment';
+loadProject(firstProj);
+</script>
+</body>
+</html>

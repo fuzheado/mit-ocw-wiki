@@ -801,3 +801,23 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 ## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-011-introduction-to-western-music-fall-2024|21M.011 Introduction to Western Music]] (353 assets: 97 API + 208 pages)
 
 ## [2026-05-10 08:44] asset-scan | Hybrid scanned [[21m-383-computational-music-theory-and-analysis-spring-2023|21M.383 Computational Music Theory and Analysis]] (373 assets: 116 API + 199 pages)
+
+## [2026-05-11 08:18] crossref | Expanded demo to 9 WikiProjects (57 matches), added interactive heatmap with sidebar panel, sortable columns, school filters, template pills
+
+## [2026-05-11 08:18] crossref | Saved demo snapshot as crossref-heatmap-demo.html
+
+## [2026-05-11 08:29] crossref | Wrote PRD-CONTRIBUTION-IMPACT-MATRIX.md — design for bubble scatterplot visualization
+
+## [2026-05-11 08:30] prototype | Built Contribution Impact Matrix prototype — D3.js scatterplot with quadrants, quality toggle, table view, filters. wiki/impact-matrix/
+
+## [2026-05-11 09:05] live-data | Established SSH tunnel to enwiki_p. Corrected killer query schema (templatelinks uses tl_target_id → linktarget). Pageview data not available in page_props.
+
+## [2026-05-11 09:40] live-data | Built live query server (scripts/impact-matrix-server.py). Verified: SQL < 0.5s, REST API pageview enrichment works but rate-limited.
+
+## [2026-05-11 10:25] live-data | Generated live data for 8 WikiProjects (100 articles each) with Popular pages + SQL template join. 100% pageview coverage.
+
+## [2026-05-11 10:42] debug | Fixed TEMPLATE_COLORS threshold domain [0,1,3,6] → [1,3,6] so 0 templates maps to green. Fixed null-view Y-axis clamping. Removed blue ORES indicator dots in assessed mode. Fixed table view toggle (hide chart, scroll into view).
+
+## [2026-05-11 11:15] templates | Extended template list to 27 aliases including talk-page templates (Image_requested, Video_requested, etc.). Separate batch query for talk pages via page_title join.
+
+## [2026-05-11 11:45] data-sources | Documented pageview data issues in notes/pageview-data-issues.md. Switched from REST API to WikiProject Popular pages for view counts.

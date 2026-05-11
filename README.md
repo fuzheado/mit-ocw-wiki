@@ -6,29 +6,45 @@ Courses are ingested from the [MIT Learn API](https://api.learn.mit.edu) and cro
 
 ## Status
 
-- **Courses discovered:** 2,577 (all ingested from batch)
-- **Courses asset-scanned:** ~2,500+ with hybrid (API + URL deep scan)
-- **Asset types cataloged:** Video-Transcript, Lecture-Notes, Problem-Set, Reading-List, Syllabus, Assignment, Image-Gallery, Resource
-- **Departments:** 37
-- **Topics:** 110
-- **Instructors tracked:** 2,142
-- **Stages completed:** Bootstrap (0-2 complete), Asset scan (3 in progress), Wikipedia crossref (4 — strategy designed, demo built)
+- **Courses discovered:** 2,577 (all ingested)
+- **Courses asset-scanned:** ~2,500+ (hybrid scan)
+- **Departments:** 37 | **Topics:** 110 | **Instructors:** 2,142
+- **Stages:** Bootstrap (0-2) ✅ | Asset scan (3) ✅ | Wikipedia crossref (4) — crossref tool built, heatmap demo live, Contribution Impact Matrix prototype live
 
 ## What's built
 
 | Layer | Status | Details |
 |-------|--------|---------|
-| Course ingest | ✅ Done | All 2,577 courses ingested via batch API pagination |
-| Course pages | ✅ Done | YAML frontmatter with canonical metadata per course |
-| Department/topic pages | ✅ Done | 37 departments, 110 topics with course cross-links |
-| Instructor index | ✅ Done | 2,142 instructors in A-Z grouped index |
-| Hybrid asset scan | ✅ Done | `--hybrid` mode merges API content files with URL deep scan |
-| Video detection | ✅ Done | YouTube, OCW player, MP4, Dropbox, thumbnail extraction |
-| Grouped lecture format | ✅ Done | One line per lecture with inline format badges (🎬⬇📄) |
-| Log with wikilinks | ✅ Done | Clickable `[[slug|Title]]` entries in log |
-| Pre-commit hook | ✅ Done | Auto-regenerates index on wiki changes |
-| Wikipedia crossref strategy | 📋 Designed | Three-tier matching, SQL via Wikimedia replicas, scoring model |
-| Demo crossref reports | ✅ Done | Summary, per-WikiProject detail, interactive heatmap |
+| Course ingest | ✅ | All 2,577 courses via batch API |
+| Course pages | ✅ | YAML frontmatter with canonical metadata |
+| Department/topic pages | ✅ | 37 depts, 110 topics with cross-links |
+| Instructor index | ✅ | 2,142 instructors, A-Z grouped |
+| Hybrid asset scan | ✅ | API + URL deep scan, merged with type correction |
+| Video detection | ✅ | YouTube, OCW player, MP4, Dropbox, thumbnails |
+| Grouped lecture format | ✅ | One line per lecture with inline format badges |
+| Pre-commit hook | ✅ | Auto-rebuilds index on wiki changes |
+| Wikipedia crossref strategy | ✅ | Three-tier matching, unified SQL query, scoring model |
+| Interactive crossref heatmap | ✅ | 9 WikiProjects × 18 OCW departments, live demo |
+| **Contribution Impact Matrix** | ✅ **Prototype** | Bubble scatterplot visualization for any WikiProject |
+| **Standalone HTML** | ✅ | Self-contained, works from `file://`, no server needed |
+
+## Key features
+
+### Contribution Impact Matrix
+
+A D3.js bubble scatterplot for exploring any WikiProject's articles by quality, pageviews, importance, and maintenance templates. Located at `wiki/impact-matrix/standalone.html`.
+
+- **Generic mode** (default): pick any WikiProject with Popular pages, see all articles
+- **Live data pipeline**: Popular pages (pageviews + quality + importance) + SQL (maintenance templates)
+- **Four dimensions**: Quality (X), Pageviews (Y, log scale), Importance (bubble size), Template count (color)
+- **Interactions**: Hover tooltips, click for detail panel, sortable table view
+- **Filters**: Quality, importance, template type, text search
+- **Quality toggle**: Assessed (SQL) ↔ Predicted (mocked ORES)
+- **Quadrant overlay**: Sweet Spots, Stars, Sleepers, Tail
+
+### Pageview data: key finding
+
+The `enwiki_p` analytics replica does not contain pageview data (`page_props.pageview_daily_average` has 0 rows). The Wikimedia REST API rate-limits aggressively (~15 req/min on the monthly endpoint). **Resolution:** use WikiProject Popular pages — pre-compiled tables maintained by the Community Tech bot — which include accurate monthly view counts for the top 1,000 articles per project. See `notes/pageview-data-issues.md` for details.
 
 ## Quick start
 

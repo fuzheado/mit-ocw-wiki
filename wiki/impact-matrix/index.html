@@ -1,0 +1,701 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Contribution Impact Matrix</title>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="data/live-data.js"></script>
+<style>
+*{box-sizing:border-box}
+body{font-family:'Inter','Segoe UI',sans-serif;background:#f6f8fa;margin:0;padding:2rem;color:#1a1a1a}
+h1{font-size:1.4rem;font-weight:700;margin:0 0 .15rem;letter-spacing:-.02em}
+.sub{color:#666;font-size:.85rem;margin-bottom:1.2rem}
+
+/* Header bar */
+#hb{display:flex;gap:12px;margin-bottom:1rem;flex-wrap:wrap;align-items:center}
+#picker{position:relative}
+#picker input{padding:7px 14px;border:1px solid #d0d7de;border-radius:6px;font-size:.85rem;width:220px;background:#fff}
+#picker input:focus{outline:0;border-color:#2563eb;box-shadow:0 0 0 3px rgba(37,99,235,.15)}
+#picker-drop{position:absolute;top:100%;left:0;right:0;background:#fff;border:1px solid #d0d7de;border-radius:6px;margin-top:2px;display:none;z-index:50;max-height:200px;overflow-y:auto;box-shadow:0 4px 12px rgba(0,0,0,.1)}
+#picker-drop div{padding:6px 14px;cursor:pointer;font-size:.82rem}
+#picker-drop div:hover{background:#f0f4f8}
+
+/* Toggle buttons */
+.tg{display:inline-flex;border:1px solid #d0d7de;border-radius:6px;overflow:hidden}
+.tg span{padding:5px 14px;font-size:.78rem;cursor:pointer;background:#fff;color:#555;transition:all .12s;border-right:1px solid #d0d7de}
+.tg span:last-child{border-right:0}
+.tg span.on{background:#2563eb;color:#fff;border-color:#2563eb}
+
+/* Filter bar */
+#fb{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:1rem;padding:.7rem 1rem;background:#fff;border-radius:8px;border:1px solid #e8ecf0}
+#fb label{font-size:.75rem;font-weight:600;color:#555;margin-right:2px;white-space:nowrap}
+.fg{display:flex;gap:4px;align-items:center}
+.fg .ck{display:flex;gap:3px;align-items:center;font-size:.75rem;color:#444;cursor:pointer}
+.fg .ck input{cursor:pointer}
+.fp{padding:2px 10px;border-radius:12px;font-size:.72rem;cursor:pointer;background:#e8ecf0;color:#555;transition:all .12s}
+.fp.on{background:#2563eb;color:#fff}
+#fs{flex:1;min-width:120px;padding:5px 10px;border:1px solid #d0d7de;border-radius:6px;font-size:.78rem;max-width:200px}
+#fs:focus{outline:0;border-color:#2563eb}
+
+/* Filter chips */
+#fc{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:.8rem;min-height:24px}
+.chip{display:inline-flex;align-items:center;gap:4px;padding:2px 8px;border-radius:12px;font-size:.7rem;background:#e8ecf0;color:#555}
+.chip .rm{cursor:pointer;font-weight:700;color:#999;margin-left:2px;font-size:.8rem}
+.chip .rm:hover{color:#c00}
+
+/* Stats bar */
+#st{margin-bottom:.6rem;display:flex;gap:16px;font-size:.78rem;color:#555;flex-wrap:wrap}
+#st strong{color:#1a1a1a}
+
+/* Chart container */
+#chart{margin-bottom:1rem;background:#fff;border-radius:8px;border:1px solid #e8ecf0;overflow:hidden}
+#chart svg{display:block;width:100%;height:auto}
+.tooltip{position:absolute;pointer-events:none;background:#1a1a1a;color:#eee;padding:8px 12px;border-radius:5px;font-size:.75rem;line-height:1.5;box-shadow:0 4px 12px rgba(0,0,0,.3);z-index:100;max-width:280px}
+.tooltip strong{color:#fff}
+.tt-q{display:inline-block;padding:0 5px;border-radius:3px;font-size:.65rem;font-weight:600;color:#fff;margin-right:2px}
+.tt-q-C{background:#e68a2e}
+.tt-q-B{background:#5599cc}
+.tt-q-Start{background:#d45555}
+.tt-q-GA{background:#5ba85b}
+.tt-q-Stub{background:#aa5533}
+.tt-pill{display:inline-block;padding:0 5px;border-radius:3px;font-size:.65rem;background:#333;color:#ccc;margin:1px}
+
+/* Detail sidebar */
+#overlay{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.35);z-index:200}
+#panel{position:fixed;top:0;right:-480px;width:460px;height:100%;background:#fff;box-shadow:-4px 0 24px rgba(0,0,0,.12);z-index:300;transition:right .25s cubic-bezier(.4,0,.2,1);overflow-y:auto}
+#panel.open{right:0}
+.ph{display:flex;align-items:center;justify-content:space-between;padding:1rem 1.25rem;border-bottom:1px solid #e8ecf0;position:sticky;top:0;background:#fff;z-index:10}
+#pt{font-size:1rem;font-weight:600}
+.cl{cursor:pointer;color:#999;font-size:1.4rem;line-height:1;padding:2px 6px;border-radius:4px}
+.cl:hover{background:#f0f0f0;color:#333}
+#pb{padding:1rem 1.25rem;font-size:.82rem;color:#555}
+#pb .ql{display:inline-block;padding:1px 7px;border-radius:3px;font-size:.72rem;font-weight:600;color:#fff;margin-right:4px}
+#pb .im{font-weight:600;color:#444;font-size:.78rem}
+#pb .vv{font-size:.78rem}
+.pil{display:inline-block;padding:1px 8px;border-radius:10px;font-size:.7rem;background:#e8ecf0;color:#555;margin:2px}
+
+/* Table */
+#tv{display:none;background:#fff;border-radius:8px;border:1px solid #e8ecf0;overflow:auto;max-height:500px}
+#tv.show{display:block}
+#tv table{width:100%;border-collapse:collapse;font-size:.78rem}
+#tv th{position:sticky;top:0;background:#f6f8fa;text-align:left;font-weight:600;color:#555;font-size:.7rem;letter-spacing:.04em;border-bottom:2px solid #d0d7de;padding:8px 10px;cursor:pointer;user-select:none;white-space:nowrap}
+#tv th:hover{background:#e8ecf0}
+#tv td{padding:6px 10px;border-bottom:1px solid #f0f0f0;vertical-align:middle}
+#tv tr:hover td{background:#f0f4f8}
+#tv .sa{font-size:.6rem;color:#999;margin-left:3px}
+
+/* Legend */
+#lg{display:flex;align-items:center;gap:12px;margin:.6rem 0 0;font-size:.75rem;color:#555;flex-wrap:wrap}
+#lg .sw{width:14px;height:14px;border-radius:3px;display:inline-block;vertical-align:middle}
+.ld{display:flex;align-items:center;gap:4px;margin-right:8px}
+
+@media(max-width:768px){
+  body{padding:1rem}
+  #panel{width:100%;right:-100%}
+  #fb{flex-direction:column;align-items:stretch}
+  #fs{max-width:100%}
+}
+</style>
+</head>
+<body>
+
+<h1>Contribution Impact Matrix</h1>
+<p class="sub">Explore WikiProject articles by quality, pageviews, importance, and maintenance needs.</p>
+
+<div id="hb">
+  <div id="picker">
+    <input id="pi" type="text" placeholder="Search WikiProjects…" autocomplete="off">
+    <div id="picker-drop"></div>
+  </div>
+  <div class="tg" id="qtg">
+    <span class="on" data-v="assessed">Assessed</span>
+    <span data-v="predicted">Predicted</span>
+  </div>
+  <div class="tg" id="vtg">
+    <span class="on" data-v="scatter">Scatter</span>
+    <span data-v="table">Table</span>
+  </div>
+</div>
+
+<div id="fc"></div>
+
+<div id="fb">
+  <div class="fg">
+    <label>Quality:</label>
+    <span class="ck"><input type="checkbox" data-q="Stub" checked><span>Stub</span></span>
+    <span class="ck"><input type="checkbox" data-q="Start" checked><span>Start</span></span>
+    <span class="ck"><input type="checkbox" data-q="C" checked><span>C</span></span>
+    <span class="ck"><input type="checkbox" data-q="B" checked><span>B</span></span>
+    <span class="ck"><input type="checkbox" data-q="GA" checked><span>GA</span></span>
+    <span class="ck"><input type="checkbox" data-q="FA"><span>FA</span></span>
+  </div>
+  <div class="fg">
+    <label>Importance:</label>
+    <span class="ck"><input type="checkbox" data-i="Top" checked><span>Top</span></span>
+    <span class="ck"><input type="checkbox" data-i="High" checked><span>High</span></span>
+    <span class="ck"><input type="checkbox" data-i="Mid" checked><span>Mid</span></span>
+    <span class="ck"><input type="checkbox" data-i="Low"><span>Low</span></span>
+  </div>
+  <div class="fg">
+    <label>Templates:</label>
+    <span class="fp on" data-t="all" onclick="toggleTemplateFilter('all',this)">All</span>
+    <span class="fp" data-t="Citation needed" onclick="toggleTemplateFilter('Citation needed',this)">Citation</span>
+    <span class="fp" data-t="Refimprove" onclick="toggleTemplateFilter('Refimprove',this)">Refimprove</span>
+    <span class="fp" data-t="Technical" onclick="toggleTemplateFilter('Technical',this)">Technical</span>
+    <span class="fp" data-t="Missing information" onclick="toggleTemplateFilter('Missing information',this)">Missing</span>
+    <span class="fp" data-t="Primary sources" onclick="toggleTemplateFilter('Primary sources',this)">Sources</span>
+  </div>
+  <input id="fs" type="text" placeholder="Search articles…" oninput="applyFilters()">
+</div>
+
+<div id="st"></div>
+
+<div id="chart"></div>
+<div id="lg"></div>
+<div id="tv"></div>
+
+<div id="overlay" onclick="hideDetail()"></div>
+<div id="panel"><div class="ph"><span id="pt"></span><span class="cl" onclick="hideDetail()">&times;</span></div><div id="pb"></div></div>
+
+<script>
+// ─── Quality order ───
+var QORDER = ["Stub","Start","C","B","GA","FA"];
+var QIDX = {};
+QORDER.forEach(function(q,i){QIDX[q]=i});
+
+var IMP_SIZES = {"Top":20,"High":15,"Mid":10,"Low":7};
+var IMP_RANK = {"Top":4,"High":3,"Mid":2,"Low":1};
+
+var TEMPLATE_COLORS = d3.scaleThreshold()
+    .domain([1, 3, 6])
+    .range(["#2ecc71","#f39c12","#e67e22","#e74c3c"]);
+
+// ─── Data ───
+var DATA = null;
+var articles = [];
+var filtered = [];
+var selectedQuality = "assessed";
+var viewMode = "scatter";
+
+// Deterministic hash for jitter seed
+function hashTitle(t){var h=0;for(var i=0;i<t.length;i++){h=((h<<5)-h)+t.charCodeAt(i);h|=0}return Math.abs(h)}
+function seededRand(seed){return ((seed*9301+49297)%233280)/233280}
+
+// ─── Data: loaded from live-data.js → window.LIVE_DATA ───
+
+function loadProject(name){
+  document.getElementById('pi').value = name;
+  hidePicker();
+  var d = (window.LIVE_DATA || {})[name];
+  if(!d){
+    showError('No data for "' + name + '"');
+    return;
+  }
+  processData(d);
+}
+
+function processData(d){
+  var raw = d.articles || [];
+  articles = raw.map(function(a,i){
+    var seed = hashTitle(a.title || 'unknown');
+    a._jitterX = (seededRand(seed) - 0.5) * 0.3;
+    a._jitterY = (seededRand(seed+1) - 0.5) * 0.2;
+    var q = a.quality;
+    var idx = QIDX[q];
+    if(idx !== undefined){
+      var r2 = seededRand(seed+2);
+      if(r2 < 0.25 && idx > 0) a._oresQuality = QORDER[idx-1];
+      else if(r2 < 0.50 && idx < QORDER.length-1) a._oresQuality = QORDER[idx+1];
+      else a._oresQuality = q;
+    } else {
+      a._oresQuality = q;
+    }
+    return a;
+  });
+  applyFilters();
+  document.getElementById('st').innerHTML = "<strong>" + d.project + "</strong> <span>(" + articles.length + " articles, live data)</span>";
+}
+
+function showError(msg){
+  document.getElementById('chart').innerHTML = '<p style="padding:2rem;color:#c00;text-align:center">' + msg + '</p>';
+  document.getElementById('st').innerHTML = '';
+  document.getElementById('tv').innerHTML = '';
+  document.getElementById('tv').className = '';
+  document.getElementById('lg').innerHTML = '';
+}
+
+function loadData(raw){
+  DATA = typeof raw === "string" ? JSON.parse(raw) : raw;
+  var d = DATA;
+  articles = d.articles.map(function(a,i){
+    var seed = hashTitle(a.title);
+    a._jitterX = (seededRand(seed) - 0.5) * 0.3;
+    a._jitterY = (seededRand(seed+1) - 0.5) * 0.2;
+    var q = a.quality;
+    var idx = QIDX[q];
+    if(idx !== undefined){
+      var r2 = seededRand(seed+2);
+      if(r2 < 0.25 && idx > 0) a._oresQuality = QORDER[idx-1];
+      else if(r2 < 0.50 && idx < QORDER.length-1) a._oresQuality = QORDER[idx+1];
+      else a._oresQuality = q;
+    } else {
+      a._oresQuality = q;
+    }
+    return a;
+  });
+  applyFilters();
+  document.getElementById("st").innerHTML = "<strong>" + d.project + "</strong> <span>(" + d.articles.length + " articles, " + d.period + ")</span>";
+}
+
+// ─── Quality source ───
+function getQuality(a){
+  return selectedQuality === 'predicted' ? a._oresQuality : a.quality;
+}
+
+// ─── Filters ───
+var templateFilter = 'all';
+
+function toggleTemplateFilter(t, el){
+  var pills = document.querySelectorAll('#fb .fp');
+  pills.forEach(function(p){p.className='fp'});
+  el.className='fp on';
+  templateFilter = t;
+  applyFilters();
+}
+
+function applyFilters(){
+  var qs = {};
+  document.querySelectorAll('.ck input[data-q]').forEach(function(c){qs[c.getAttribute('data-q')]=c.checked});
+  var im = {};
+  document.querySelectorAll('.ck input[data-i]').forEach(function(c){im[c.getAttribute('data-i')]=c.checked});
+  var search = document.getElementById('fs').value.toLowerCase();
+
+  filtered = articles.filter(function(a){
+    var q = getQuality(a);
+    if(!qs[q]) return false;
+    if(!im[a.importance]) return false;
+    if(templateFilter !== 'all' && a.templates.indexOf(templateFilter) === -1) return false;
+    if(search && a.title.toLowerCase().indexOf(search) === -1) return false;
+    return true;
+  });
+
+  updateChips(qs, im, search);
+  if(viewMode === 'scatter') renderScatter();
+  else renderTable();
+}
+
+function updateChips(qs, im, search){
+  var chips = [];
+  var allQ = true, allI = true;
+  Object.keys(qs).forEach(function(k){if(!qs[k]) allQ=false});
+  Object.keys(im).forEach(function(k){if(!im[k]) allI=false});
+  if(!allQ){
+    var off = Object.keys(qs).filter(function(k){return !qs[k]});
+    chips.push({label:'Hide: ' + off.join(', '), remove:function(){off.forEach(function(q){document.querySelector('input[data-q="'+q+'"]').checked=true});applyFilters()}});
+  }
+  if(!allI){
+    var off = Object.keys(im).filter(function(k){return !im[k]});
+    chips.push({label:'Hide: ' + off.join(', '), remove:function(){off.forEach(function(i){document.querySelector('input[data-i="'+i+'"]').checked=true});applyFilters()}});
+  }
+  if(templateFilter !== 'all'){
+    chips.push({label:'Template: ' + templateFilter, remove:function(){var p=document.querySelector('.fp[data-t="all"]');if(p){toggleTemplateFilter('all',p)}}});
+  }
+  if(search){
+    chips.push({label:'Search: "' + search + '"', remove:function(){document.getElementById('fs').value='';applyFilters()}});
+  }
+  var cdiv = document.getElementById('fc');
+  if(chips.length === 0){cdiv.innerHTML='';return}
+  cdiv.innerHTML = chips.map(function(c){
+    return '<span class="chip">' + c.label + '<span class="rm" onclick="(' + c.remove.toString() + ')()">&times;</span></span>';
+  }).join('');
+}
+
+// ─── Scatterplot ───
+function renderScatter(){
+  var el = document.getElementById('chart');
+  el.innerHTML = '';
+  
+  if(filtered.length === 0){
+    el.innerHTML = '<p style="padding:3rem;color:#999;text-align:center;font-size:.9rem">No articles match the current filters. Try adjusting quality or importance settings.</p>';
+    el.style.height = '200px';
+    renderLegend();
+    return;
+  }
+  
+  var w = el.clientWidth || 900;
+  if(w < 400) w = 400;
+  var margin = {top:30,right:20,bottom:50,left:60};
+  var iw = w - margin.left - margin.right;
+  var ih = Math.max(350, Math.min(600, iw * 0.65));
+  el.style.height = (ih + margin.top + margin.bottom) + 'px';
+
+  var svg = d3.select(el).append('svg')
+      .attr('width', w)
+      .attr('height', ih + margin.top + margin.bottom)
+    .append('g')
+      .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
+
+  // Scales — filter out null views for log domain
+  var withViews = filtered.filter(function(d){return d.views > 0});
+  var maxViews = d3.max(withViews, function(d){return d.views}) || 1000;
+  var minViews = d3.min(withViews, function(d){return d.views}) || 100;
+  var x = d3.scalePoint()
+      .domain(QORDER)
+      .range([30, iw - 30]);
+  var y = d3.scaleLog()
+      .domain([Math.max(100, minViews), maxViews * 1.1])
+      .range([ih - 10, 10]);
+
+  // Quadrant overlays
+  var midQ = x('C') + (x('B') - x('C')) / 2;
+  var midV = Math.exp((Math.log(y.domain()[0]) + Math.log(y.domain()[1])) / 2);
+
+  var qdata = [
+    {x1:30, x2:midQ, y1:midV, y2:ih-10, label:'Sweet Spots', color:'rgba(46,204,113,0.06)'},
+    {x1:midQ, x2:iw-30, y1:midV, y2:ih-10, label:'Stars', color:'rgba(52,152,219,0.06)'},
+    {x1:30, x2:midQ, y1:10, y2:midV, label:'Tail', color:'rgba(149,165,166,0.04)'},
+    {x1:midQ, x2:iw-30, y1:10, y2:midV, label:'Sleepers', color:'rgba(155,89,182,0.05)'}
+  ];
+
+  qdata.forEach(function(q){
+    svg.append('rect')
+      .attr('x', q.x1).attr('y', y(q.y2))
+      .attr('width', q.x2 - q.x1).attr('height', y(q.y1) - y(q.y2))
+      .attr('fill', q.color)
+      .attr('stroke', 'none');
+    var lx = (q.x1 + q.x2) / 2;
+    var ly = (y(q.y1) + y(q.y2)) / 2;
+    svg.append('text')
+      .attr('x', lx).attr('y', ly)
+      .attr('text-anchor', 'middle').attr('dominant-baseline', 'middle')
+      .attr('font-size', '11px').attr('font-weight', '600')
+      .attr('fill', 'rgba(0,0,0,0.12)').attr('letter-spacing', '0.05em')
+      .text(q.label);
+  });
+
+  // Axes
+  svg.append('g')
+    .attr('transform', 'translate(0,' + ih + ')')
+    .call(d3.axisBottom(x).tickFormat(function(d){return d}))
+    .selectAll('text').attr('font-size','11px').attr('fill','#555');
+
+  svg.append('g')
+    .call(d3.axisLeft(y).ticks(4, d3.format('.1s')).tickValues(
+      // Only show unique log-scale ticks to avoid duplicates
+      d3.scaleLog().domain(y.domain()).ticks(4).filter(function(t,i,a){return a.indexOf(t)===i})
+    ))
+    .selectAll('text').attr('font-size','11px').attr('fill','#555');
+
+  // Labels
+  svg.append('text')
+    .attr('x', iw/2).attr('y', ih + 38)
+    .attr('text-anchor', 'middle').attr('font-size', '11px').attr('fill', '#888')
+    .text('Quality (assessed) →');
+  svg.append('text')
+    .attr('x', -38).attr('y', 12)
+    .attr('text-anchor', 'middle').attr('font-size', '11px').attr('fill', '#888')
+    .attr('transform', 'rotate(-90,-38,12)')
+    .text('Monthly pageviews →');
+
+  // Bubbles
+  var maxImp = d3.max(filtered, function(d){return IMP_RANK[d.importance]}) || 4;
+  var rScale = d3.scaleSqrt()
+      .domain([1, maxImp])
+      .range([5, 22]);
+
+  filtered.forEach(function(d){
+    var q = getQuality(d);
+    var xi = x(q) + d._jitterX * (x(QORDER[1]) - x(QORDER[0]));
+    // Place articles without pageviews at domain minimum (bottom edge)
+    var v = d.views > 0 ? d.views : y.domain()[0];
+    var yi = Math.min(ih - 12, Math.max(12, y(v) + d._jitterY * 20));
+    var r = rScale(IMP_RANK[d.importance]);
+    var tc = d.templates.length;
+    var impSize = IMP_SIZES[d.importance] || 10;
+
+    var g = svg.append('g')
+      .attr('class', 'bubble')
+      .attr('transform', 'translate(' + xi + ',' + yi + ')')
+      .style('cursor', 'pointer');
+
+    // Shadow ring
+    g.append('circle')
+      .attr('r', r + 1)
+      .attr('fill', 'none')
+      .attr('stroke', 'rgba(0,0,0,0.1)')
+      .attr('stroke-width', 1);
+
+    // Main bubble
+    g.append('circle')
+      .attr('r', r)
+      .attr('fill', TEMPLATE_COLORS(tc))
+      .attr('opacity', 0.85)
+      .attr('stroke', '#fff')
+      .attr('stroke-width', 1.5);
+
+    // ORES divergence indicator (only show in Predicted mode)
+    if(selectedQuality === 'predicted' && d.quality !== d._oresQuality){
+      g.append('polygon')
+        .attr('points', '0,-' + (r+4) + ' 4,-' + (r+8) + ' -4,-' + (r+8))
+        .attr('fill', '#e74c3c')
+        .attr('opacity', 0.8);
+    }
+
+    // Hover
+    g.on('mouseenter', function(e){
+      showBubbleTooltip(e, d, g, r);
+    }).on('mouseleave', function(){
+      d3.select('.tooltip').remove();
+      g.selectAll('circle').attr('opacity', 0.85);
+    }).on('click', function(){
+      showDetail(d);
+    });
+  });
+
+  // Legend
+  renderLegend();
+}
+
+function showBubbleTooltip(e, d, g, r){
+  var tip = d3.select('body').append('div')
+      .attr('class', 'tooltip')
+      .style('left', (e.pageX + 14) + 'px')
+      .style('top', (e.pageY - 10) + 'px');
+
+  var q = getQuality(d);
+  var templates = d.templates.length ? d.templates.map(function(t){return '<span class="tt-pill">' + t + '</span>'}).join(' ') : '<span style="color:#666">0</span>';
+
+  tip.html(
+    '<strong>' + d.title + '</strong><br>' +
+    '<span class="tt-q tt-q-' + q + '">' + q + '</span> ' +
+    (d.quality !== getQuality(d) ? '(ores)' : '(assessed)') +
+    ' &middot; ' + d.importance + ' importance' +
+    '<br>Views: ' + (d.views ? fmtViews(d.views) : '&mdash;') +
+    '<br>Templates: ' + templates +
+    (d.courses && d.courses.length ? '<br>OCW: ' + d.courses.join(', ') : '')
+  );
+
+  g.selectAll('circle').attr('opacity', 1);
+}
+
+// ─── Table View ───
+function renderTable(){
+  var el = document.getElementById('tv');
+  el.className = 'show';
+  el.innerHTML = '';
+
+  if(filtered.length === 0){
+    el.innerHTML = '<p style="padding:1.5rem;color:#999;text-align:center">No articles match the current filters.</p>';
+    return;
+  }
+
+  var html = '<table><thead><tr><th onclick="sortTable(\'title\')">Title <span class="sa">↕</span></th>' +
+    '<th onclick="sortTable(\'quality\')">Quality <span class="sa">↕</span></th>' +
+    '<th onclick="sortTable(\'importance\')">Importance <span class="sa">↕</span></th>' +
+    '<th onclick="sortTable(\'views\')">Views <span class="sa">↕</span></th>' +
+    '<th>Templates</th>' +
+    (filtered[0].courses && filtered[0].courses.length ? '<th>OCW</th>' : '') +
+    '</tr></thead><tbody>';
+
+  var sorted = filtered.slice();
+  sorted.forEach(function(d){
+    var q = getQuality(d);
+    html += '<tr onclick="showDetail(' + "'" + d.title.replace(/'/g,"\\'") + "'" + ')" style="cursor:pointer">';
+    html += '<td style="font-weight:500">' + d.title + '</td>';
+    html += '<td><span class="tt-q tt-q-' + q + '">' + q + '</span></td>';
+    html += '<td>' + d.importance + '</td>';
+    html += '<td>' + fmtViews(d.views) + '</td>';
+    html += '<td>' + d.templates.map(function(t){return '<span class="pil">' + t + '</span>'}).join(' ') + '</td>';
+    if(d.courses && d.courses.length){
+      html += '<td style="font-size:.72rem;color:#555">' + d.courses.join(', ') + '</td>';
+    }
+    html += '</tr>';
+  });
+
+  html += '</tbody></table>';
+  el.innerHTML = html;
+}
+
+// Stub: show detail by finding the article
+function showDetail(titleOrArticle){
+  var d = typeof titleOrArticle === 'string' ? filtered.find(function(a){return a.title === titleOrArticle}) : titleOrArticle;
+  if(!d) return;
+  var q = getQuality(d);
+  document.getElementById('pt').textContent = d.title;
+  var html = '';
+  html += '<span class="ql tt-q-' + q + '">' + q + '</span> ';
+  html += '<span class="im">' + d.importance + '</span> importance<br>';
+  html += '<span class="vv">' + fmtViews(d.views) + ' views</span>';
+  if(d.templates.length){
+    html += '<div style="margin:.6rem 0"><strong>Templates:</strong><br>' + d.templates.map(function(t){return '<span class="pil">' + t + '</span>'}).join(' ') + '</div>';
+  }
+  if(d.courses && d.courses.length){
+    html += '<div style="margin:.6rem 0"><strong>OCW courses with matches:</strong><br>';
+    d.courses.forEach(function(c,ci){
+      html += '<span class="pil" style="background:#2563eb;color:#fff">' + c + '</span> ';
+    });
+    html += '</div>';
+    html += '<div style="margin:.6rem 0;font-size:.78rem"><strong>Lectures:</strong><br>';
+    d.lectures.forEach(function(l){
+      html += '&bull; ' + l + '<br>';
+    });
+    html += '</div>';
+  }
+  if(d.quality !== getQuality(d)){
+    html += '<div style="margin:.6rem 0;font-size:.75rem;color:#888">⚠ Predicted quality differs from assessed (' + d.quality + ').</div>';
+  }
+  document.getElementById('pb').innerHTML = html;
+  document.getElementById('panel').className = 'open';
+  document.getElementById('overlay').style.display = 'block';
+  document.body.style.overflow = 'hidden';
+}
+
+function hideDetail(){
+  document.getElementById('panel').className = '';
+  document.getElementById('overlay').style.display = 'none';
+  document.body.style.overflow = '';
+}
+
+// ─── Legend ───
+function renderLegend(){
+  var el = document.getElementById('lg');
+  el.innerHTML =
+    '<span style="font-weight:600">Color:</span>' +
+    '<div class="ld"><span class="sw" style="background:#2ecc71"></span>0 templates</div>' +
+    '<div class="ld"><span class="sw" style="background:#f39c12"></span>1-2</div>' +
+    '<div class="ld"><span class="sw" style="background:#e67e22"></span>3-5</div>' +
+    '<div class="ld"><span class="sw" style="background:#e74c3c"></span>6+</div>' +
+    '<span style="font-weight:600;margin-left:12px">Size:</span> <span>Importance (Top > High > Mid > Low)</span>' +
+    '<span style="margin-left:12px;font-size:.72rem;color:#999">Filtered: ' + filtered.length + '/' + articles.length + ' articles</span>';
+}
+
+// ─── Sort table (basic) ───
+var sortDir = {};
+function sortTable(col){
+  sortDir[col] = -(sortDir[col] || -1);
+  renderTableSorted(col, sortDir[col]);
+}
+function renderTableSorted(col, dir){
+  var el = document.getElementById('tv');
+  var items = filtered.slice();
+  items.sort(function(a,b){
+    var va, vb;
+    if(col === 'title'){va=a.title.toLowerCase();vb=b.title.toLowerCase();return va<vb?-1:va>vb?1:0}
+    if(col === 'quality'){va=QIDX[getQuality(a)]||0;vb=QIDX[getQuality(b)]||0}
+    if(col === 'importance'){va=IMP_RANK[a.importance]||0;vb=IMP_RANK[b.importance]||0}
+    if(col === 'views'){va=a.views;vb=b.views}
+    return (va - vb) * dir;
+  });
+
+  var html = '<table><thead><tr><th onclick="sortTable(\'title\')">Title <span class="sa">↕</span></th>' +
+    '<th onclick="sortTable(\'quality\')">Quality <span class="sa">↕</span></th>' +
+    '<th onclick="sortTable(\'importance\')">Importance <span class="sa">↕</span></th>' +
+    '<th onclick="sortTable(\'views\')">Views <span class="sa">↕</span></th>' +
+    '<th>Templates</th>' +
+    (items[0].courses && items[0].courses.length ? '<th>OCW</th>' : '') +
+    '</tr></thead><tbody>';
+
+  items.forEach(function(d){
+    var q = getQuality(d);
+    html += '<tr onclick="showDetail(' + "'" + d.title.replace(/'/g,"\\'") + "'" + ')" style="cursor:pointer">';
+    html += '<td style="font-weight:500">' + d.title + '</td>';
+    html += '<td><span class="tt-q tt-q-' + q + '">' + q + '</span></td>';
+    html += '<td>' + d.importance + '</td>';
+    html += '<td>' + fmtViews(d.views) + '</td>';
+    html += '<td>' + d.templates.map(function(t){return '<span class="pil">' + t + '</span>'}).join(' ') + '</td>';
+    if(d.courses && d.courses.length){
+      html += '<td style="font-size:.72rem;color:#555">' + d.courses.join(', ') + '</td>';
+    }
+    html += '</tr>';
+  });
+  html += '</tbody></table>';
+  el.innerHTML = html;
+}
+
+// ─── Utilities ───
+function fmtViews(n){
+  if(!n) return '&mdash;';
+  if(n >= 1000000) return (n/1000000).toFixed(1).replace('.0','') + 'M';
+  if(n >= 1000) return (n/1000).toFixed(n%1000===0?0:1).replace('.0','') + 'k';
+  return n.toString();
+}
+
+// ─── Project picker ───
+var knownProjects = Object.keys(window.LIVE_DATA || {}).sort();
+
+document.getElementById('pi').addEventListener('focus', function(){showPickerList()});
+document.getElementById('pi').addEventListener('input', function(){showPickerList()});
+
+document.getElementById('pi').addEventListener('input', function(){
+  var q = this.value.toLowerCase();
+  var drop = document.getElementById('picker-drop');
+  var matches = knownProjects.filter(function(p){return p.toLowerCase().indexOf(q) > -1});
+  drop.innerHTML = matches.map(function(p){return '<div onclick="loadProject(\''+p+'\')">' + p + '</div>'}).join('');
+  drop.style.display = matches.length ? 'block' : 'none';
+});
+
+function showPickerList(){
+  var q = document.getElementById('pi').value.toLowerCase();
+  var drop = document.getElementById('picker-drop');
+  var matches = knownProjects.filter(function(p){return p.toLowerCase().indexOf(q) > -1}).slice(0, 50);
+  drop.innerHTML = matches.map(function(p){return '<div onclick="loadProject(\''+p+'\')">' + p + '</div>'}).join('');
+  drop.style.display = matches.length ? 'block' : 'none';
+  pickerOpen = true;
+}
+
+function hidePicker(){
+  document.getElementById('picker-drop').style.display = 'none';
+  pickerOpen = false;
+}
+
+document.addEventListener('click', function(e){
+  if(!e.target.closest('#picker')) hidePicker();
+});
+
+// ─── Quality toggle ───
+document.querySelectorAll('#qtg span').forEach(function(s){
+  s.addEventListener('click', function(){
+    document.querySelectorAll('#qtg span').forEach(function(x){x.className=''});
+    s.className='on';
+    selectedQuality = s.getAttribute('data-v');
+    applyFilters();
+  });
+});
+
+// ─── View toggle ───
+document.querySelectorAll('#vtg span').forEach(function(s){
+  s.addEventListener('click', function(){
+    document.querySelectorAll('#vtg span').forEach(function(x){x.className=''});
+    s.className='on';
+    viewMode = s.getAttribute('data-v');
+    if(viewMode === 'scatter'){
+      document.getElementById('tv').className = '';
+      document.getElementById('tv').style.display = 'none';
+      document.getElementById('chart').style.display = '';
+      document.getElementById('lg').style.display = '';
+      renderScatter();
+    } else {
+      document.getElementById('chart').style.display = 'none';
+      document.getElementById('lg').style.display = 'none';
+      document.getElementById('tv').style.display = '';
+      renderTable();
+      setTimeout(function(){
+        document.getElementById('tv').scrollIntoView({behavior:'smooth', block:'start'});
+      }, 50);
+    }
+  });
+});
+
+// ─── Filter change listeners ───
+document.querySelectorAll('#fb input[type=checkbox]').forEach(function(c){
+  c.addEventListener('change', applyFilters);
+});
+
+// ─── Init ───
+// Pick first project that has articles
+var firstProj = knownProjects.find(function(p){return (window.LIVE_DATA[p]||{}).articles && window.LIVE_DATA[p].articles.length > 0}) || 'Environment';
+loadProject(firstProj);
+</script>
+</body>
+</html>

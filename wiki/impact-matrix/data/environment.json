@@ -1,0 +1,204 @@
+{
+  "project": "Environment",
+  "total_views": 21793841,
+  "period": "2026-04-01 to 2026-04-30",
+  "articles": [
+    {
+      "title": "Earth Day",
+      "views": 291552,
+      "quality": "C",
+      "importance": "High",
+      "templates": [
+        "More citations needed"
+      ],
+      "courses": [
+        "11.165",
+        "11.941"
+      ],
+      "lectures": [
+        "Energy policy discussions",
+        "Climate adaptation policy"
+      ]
+    },
+    {
+      "title": "Nuclear weapon",
+      "views": 95651,
+      "quality": "C",
+      "importance": "High",
+      "templates": [
+        "Citation needed",
+        "More citations needed"
+      ],
+      "courses": [
+        "22.01",
+        "22.033",
+        "STS.038"
+      ],
+      "lectures": [
+        "Nuclear weapons overview",
+        "Nuclear fuel cycle",
+        "Manhattan Project history"
+      ]
+    },
+    {
+      "title": "Petroleum",
+      "views": 75490,
+      "quality": "C",
+      "importance": "High",
+      "templates": [
+        "Refimprove"
+      ],
+      "courses": [
+        "22.081J",
+        "2.61",
+        "12.340"
+      ],
+      "lectures": [
+        "Fossil fuels",
+        "Petroleum fuels",
+        "Carbon cycle"
+      ]
+    },
+    {
+      "title": "El Ni\u00f1o\u2013Southern Oscillation",
+      "views": 74966,
+      "quality": "C",
+      "importance": "High",
+      "templates": [
+        "Missing information"
+      ],
+      "courses": [
+        "12.800",
+        "12.307"
+      ],
+      "lectures": [
+        "ENSO dynamics",
+        "Climate oscillations"
+      ]
+    },
+    {
+      "title": "Deepwater Horizon oil spill",
+      "views": 65507,
+      "quality": "C",
+      "importance": "High",
+      "templates": [
+        "Missing information"
+      ],
+      "courses": [
+        "1.74",
+        "1.85"
+      ],
+      "lectures": [
+        "Environmental disasters",
+        "Water contamination"
+      ]
+    },
+    {
+      "title": "Carbon dioxide",
+      "views": 37300,
+      "quality": "C",
+      "importance": "High",
+      "templates": [
+        "Refimprove"
+      ],
+      "courses": [
+        "5.111SC",
+        "12.340",
+        "1.74"
+      ],
+      "lectures": [
+        "Greenhouse gases",
+        "CO2 and climate",
+        "Carbon cycle"
+      ]
+    },
+    {
+      "title": "Breeder reactor",
+      "views": 36482,
+      "quality": "C",
+      "importance": "Low",
+      "templates": [
+        "Refimprove"
+      ],
+      "courses": [
+        "22.01",
+        "22.033"
+      ],
+      "lectures": [
+        "Reactor types",
+        "Advanced reactors"
+      ]
+    },
+    {
+      "title": "Chernobyl exclusion zone",
+      "views": 48144,
+      "quality": "C",
+      "importance": "High",
+      "templates": [
+        "Citation needed"
+      ],
+      "courses": [
+        "22.091",
+        "22.033"
+      ],
+      "lectures": [
+        "Chernobyl case study",
+        "Containment"
+      ]
+    },
+    {
+      "title": "Extinction",
+      "views": 39794,
+      "quality": "C",
+      "importance": "High",
+      "templates": [
+        "Refimprove"
+      ],
+      "courses": [
+        "1.018J",
+        "7.016"
+      ],
+      "lectures": [
+        "Biodiversity",
+        "Evolution"
+      ]
+    },
+    {
+      "title": "Prisoner's dilemma",
+      "views": 39225,
+      "quality": "C",
+      "importance": "High",
+      "templates": [
+        "Refimprove"
+      ],
+      "courses": [
+        "14.12"
+      ],
+      "lectures": [
+        "Prisoner's dilemma"
+      ]
+    },
+    {
+      "title": "Atmosphere of Earth",
+      "views": 58418,
+      "quality": "B",
+      "importance": "High",
+      "templates": [],
+      "courses": [
+        "12.810"
+      ],
+      "lectures": [
+        "Atmospheric structure"
+      ]
+    },
+    {
+      "title": "Climate change",
+      "views": 70965,
+      "quality": "FA",
+      "importance": "Top",
+      "templates": [],
+      "courses": [],
+      "lectures": []
+    }
+  ]
+}

@@ -11,13 +11,19 @@
       "last_commit": "1053cdb"
     },
     "asset_scan": {
-      "complete": false,
+      "complete": true,
       "courses_done": 12,
       "last_course_id": null
     },
     "crossref": {
       "complete": false,
-      "courses_done": 0
+      "strategy_designed": true,
+      "demo_report_built": true,
+      "heatmap_built": true,
+      "impact_matrix_prototype": true,
+      "live_sql_tunnel": true,
+      "popular_pages_integrated": true,
+      "notes": "SSH tunnel to enwiki_p works. Pageview data via Popular pages. See notes/pageview-data-issues.md"
     },
     "lint_report": false
   },
