@@ -335,7 +335,7 @@ def generate_summary(top_n=10):
     lines.append("|---|------------|-------------------|-------|---------|------------|-----------|-------")
     for i, (s, proj, article, match) in enumerate(all_matches[:top_n]):
         tmpl = ", ".join(article.get("templates", [])) or "—"
-        lines.append(f"| {i+1} | **{match['course']}** | [[en:{article['title'].replace(' ', '_')}|{article['title']}]] | {article['views']:,} | {article['quality']} | {article['importance']} | {tmpl} | **{s}**")
+        lines.append(f"| {i+1} | **{match['course']}** | [[en:{article['title'].replace(' ', '_')}]] | {article['views']:,} | {article['quality']} | {article['importance']} | {tmpl} | **{s}**")
 
     lines.append("")
     lines.append("## By OCW Department")
@@ -415,9 +415,9 @@ def generate_project_summary(project: str):
         if article["ocw_matches"]:
             for match in article["ocw_matches"]:
                 s = score_match(article, match)
-                lines.append(f"| [[en:{article['title'].replace(' ', '_')}|{article['title']}]] | {article['views']:,} | {article['quality']} | {tmpl} | {match['course']} ({match['lecture']}) | **{s}**")
+                lines.append(f"| [[en:{article['title'].replace(' ', '_')}]] | {article['views']:,} | {article['quality']} | {tmpl} | {match['course']} ({match['lecture']}) | **{s}**")
             else:
-                lines.append(f"| [[en:{article['title'].replace(' ', '_')}|{article['title']}]] | {article['views']:,} | {article['quality']} | {tmpl} | — | —")
+                lines.append(f"| [[en:{article['title'].replace(' ', '_')}]] | {article['views']:,} | {article['quality']} | {tmpl} | — | —")
 
     # Templates breakdown
     lines.append("")
