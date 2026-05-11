@@ -299,51 +299,18 @@ match_method: "title|topic|keyword"
 
 ---
 
-## 3. Wikipedia Utility Rubric (The "Wikimedian Eye")
+## Wikipedia Cross-Reference
 
-When evaluating whether an OCW asset could improve Wikipedia, apply these rules.
+See `CROSSREF-STRATEGY.md` for the full strategy.
 
-### Rule 3.1 (The "Commons" Flag)
+TL;DR — three-tier matching approach:
+1. **Template-driven gaps** — find Wikipedia articles with `{{Citation needed}}`, `{{Missing information}}`, etc. in OCW topic areas
+2. **Term-overlap discovery** — use lecture titles as Wikipedia search queries
+3. **Structural gap analysis** — match OCW topic coverage against Wikipedia category gaps
 
-If an asset contains original diagrams, high-resolution photography, or data visualizations, tag the asset page with `[Visual-Rich]` and set `wikimedia_commons_candidate: true`.
-
-Note whether the diagram is likely a "remakeable" SVG candidate for Wikimedia Commons. If the original is a raster image but could be recreated as an SVG, mention this in the asset description.
-
-### Rule 3.2 (The "Source" Flag)
-
-If a **[Reading-List]** or syllabus contains a high volume of peer-reviewed citations, tag the corresponding asset or course page with `[Source-Rich]` and set `source_rich: true`. These are candidates for Wikipedia's "Further reading" or "References" sections.
-
-### Rule 3.3 (WP:MoS Compliance)
-
-When generating summaries or concept pages in the wiki, follow the Wikipedia Manual of Style:
-
-- **Sentence case** for all headings: `Early development of thermodynamics` not `Early Development Of Thermodynamics`
-- **Avoid peacock terms**: no "This revolutionary lecture..." — stick to neutral descriptions like "This lecture covers..."
-- **Neutral point of view**: present facts, not endorsements
-
----
-
-## 4. Wikipedia Bridge Generation
-
-Every course page and asset page must end with a "Wikipedia Bridge" section.
-
-### Related Articles
-
-List 3-5 Wikipedia article titles where this MIT asset could serve as a reference or provide clarity. Each must link to the corresponding `wiki/crossrefs/` page.
-
-### Citation Template
-
-Generate a pre-formatted Wikipedia `{{cite web}}` or `{{cite book}}` snippet:
-
-```wikitext
-{{cite web
- |url=https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/
- |title=Dynastic China
- |author=Prof. Tristan G. Brown
- |website=MIT OpenCourseWare
- |access-date=2026-05-09
-}}
-```
+Results populate two locations per course:
+- Wikipedia Bridge section with 3-5 top matches and `{{cite web}}` templates
+- `wiki/crossrefs/{article-slug}.md` hub pages aggregating all courses per article
 
 ---
 
