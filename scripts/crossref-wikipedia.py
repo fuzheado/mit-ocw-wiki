@@ -429,7 +429,7 @@ def generate_project_summary(project: str):
         names = ", ".join(a["title"] for a in articles[:5])
         if len(articles) > 5:
             names += f" … and {len(articles)-5} more"
-        lines.append(f"| `{{{{tmpl}}}}` | {names}")
+        lines.append(f"| `{{{{{tmpl}}}}}` | {names}")
 
     lines.append("")
     lines.append("## Score distribution")
