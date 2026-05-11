@@ -149,7 +149,7 @@ WikiProjects are topic-aligned editing groups (e.g., WikiProject Chemistry, Wiki
 - Quality and importance ratings for each article
 - "Popular pages" reports
 
-WikiProject Popular pages reports are the single most useful prioritization tool. A bot generates [monthly lists](https://en.wikipedia.org/wiki/Wikipedia:WikiProject) for each project showing ~1,000 articles ranked by pageviews, with quality and importance ratings.
+WikiProject Popular pages reports are the single most useful prioritization tool. A bot generates [monthly lists](https://en.wikipedia.org/wiki/Wikipedia:WikiProject) for each project showing ~1,000 articles ranked by pageviews, with quality and importance ratings. The [master bot config](https://en.wikipedia.org/wiki/User:Community_Tech_bot/Popular_pages) lists every WikiProject that generates these reports.
 
 A typical Popular pages entry:
 ```
@@ -159,11 +159,40 @@ Rank | Article | Views/month | Quality | Importance
 92   | VSEPR theory | 32,000 | C | Mid
 ```
 
-The high-impact quadrant for OCW is:
-- **High traffic** (top quartile of pageviews within a WikiProject)
-- **High importance** (Top or High importance rating)
-- **Low quality** (Stub, Start, or C-class)
-- **With maintenance templates** (actively requesting help)
+The entries are already ranked by pageviews within each WikiProject, so the priority signal is built in. An article ranked #3 with 291,000 views at C-class is a higher-impact target than one ranked #500 at Start-class.
+
+**Real example from WikiProject Environment (April 2026):**
+
+| Rank | Article | Views | Quality | Importance | OCW match? |
+|------|---------|-------|---------|------------|-----------|
+| 3 | Earth Day | 291,552 | C | High | Environmental policy courses |
+| 14 | Nuclear weapon | 95,651 | C | High | 22.xx Nuclear engineering courses |
+| 22 | Petroleum | 75,490 | C | High | Energy courses, 2.xx thermodynamics |
+| 23 | El Niño–Southern Oscillation | 74,966 | C | High | 12.xx Earth Science courses |
+| 30 | Thermonuclear weapon | 66,147 | C | High | 22.xx, STS.xxx courses |
+| 32 | Deepwater Horizon oil spill | 65,507 | C | High | Environmental engineering courses |
+| 53 | Chernobyl exclusion zone | 48,144 | C | High | 22.xx Nuclear engineering courses |
+| 58 | Cancer | 42,886 | C | High | HST, 7.xx, 20.xx courses |
+| 69 | Extinction | 39,794 | C | High | 1.018J Ecology, 12.xxx courses |
+| 71 | Prisoner's dilemma | 39,225 | C | High | 15.xx, 17.xx, 6.xx courses |
+| 80 | Carbon dioxide | 37,300 | C | High | Chemistry, climate courses |
+| 82 | Breeder reactor | 36,482 | C | Low | 22.xx Nuclear engineering courses |
+
+**New insight: WikiProject → OCW topic mapping.** The master bot page lists ~1,500 WikiProjects. OCW has 110 topics across 37 departments. A lookup table mapping OCW topics to their corresponding WikiProjects would let us directly query the right Popular pages reports. For example:
+
+| OCW Department | Relevant WikiProjects |
+|---|---|
+| 22 Nuclear Science | WikiProject Energy, WikiProject Nuclear technology |
+| 12 Earth Science | WikiProject Climate change, WikiProject Environment, WikiProject Geology |
+| 5 Chemistry | WikiProject Chemistry, WikiProject Chemicals |
+| 21H History | WikiProject History, WikiProject Military history |
+| 7 Biology | WikiProject Biology, WikiProject Molecular biology |
+
+This mapping means we never do freeform Wikipedia searches — we start from the WikiProject that matches the OCW course topic, get its pre-ranked Popular pages list, and score those candidates against our course assets.
+
+**Targeted template lookup.** Instead of scanning all of Wikipedia for `{{Citation needed}}`, fetch the Popular pages for each target WikiProject first (500-1,000 articles), then check only those articles for maintenance templates. The most-read articles are where citations have the most impact and where editors are most likely to have placed template requests.
+
+**Cross-WikiProject matches.** Some articles appear in multiple WikiProjects (e.g., "Chernobyl disaster" appears in Environment, Ukraine, Nuclear technology, History). These cross-cutting matches suggest topics where OCW has material that could serve multiple Wikipedia communities at once.
 
 ### Unified scoring model
 
