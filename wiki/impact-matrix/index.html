@@ -180,111 +180,7 @@ h1{font-size:1.4rem;font-weight:700;margin:0 0 .15rem;letter-spacing:-.02em}
 <div id="panel"><div class="ph"><span id="pt"></span><span class="cl" onclick="hideDetail()">&times;</span></div><div id="pb"></div></div>
 
 <script>
-// ─── Wikitext parser (client-side) ───
-// Fetches raw wikitext for an article via the MediaWiki API and extracts
-// section context, template parameters, and sentence context for each template.
 
-var wikitextCache = {};
-var jsonpCounter = 0;
-
-function fetchWikitext(title){
-  if(wikitextCache[title]) return Promise.resolve(wikitextCache[title]);
-  return new Promise(function(resolve, reject){
-    var cb = 'wt_cb_' + (jsonpCounter++);
-    var timedOut = false;
-    var timer = setTimeout(function(){ timedOut = true; delete window[cb]; resolve(null); }, 15000);
-    window[cb] = function(data){
-      if(timedOut) return;
-      clearTimeout(timer);
-      delete window[cb];
-      var wt = data && data.parse && data.parse.wikitext && data.parse.wikitext['*'] || null;
-      wikitextCache[title] = wt;
-      resolve(wt);
-    };
-    var script = document.createElement('script');
-    script.src = "https://en.wikipedia.org/w/api.php?action=parse&page=" + encodeURIComponent(title) + "&prop=wikitext&format=json&callback=" + cb;
-    script.onerror = function(){ if(!timedOut){ clearTimeout(timer); delete window[cb]; resolve(null); }};
-    document.head.appendChild(script);
-  });
-}
-
-function parseWikitextContext(wikitext, templateNames){
-  // Returns: {sections: [{name, level}], templates: [{name, section, date, context, contextType}]}
-  if(!wikitext) return {sections: [], templates: []};
-  var sections = [{name: null, level: 0, start: 0}];
-  var sectionRe = /^(={1,6})\s*(.*?)\s*\1\s*$/gm;
-  var m;
-  while((m = sectionRe.exec(wikitext)) !== null){
-    sections.push({name: m[2].trim(), level: m[1].length, start: m.index});
-  }
-
-  // Simple recursive {{...}} parser to find template invocations
-  var templates = [];
-  var i = 0;
-  var names_lower = templateNames.map(function(n){return n.toLowerCase()});
-  while(i < wikitext.length){
-    var open = wikitext.indexOf('{{', i);
-    if(open === -1) break;
-    // Check for template or parser function
-    var depth = 1;
-    var j = open + 2;
-    while(j < wikitext.length && depth > 0){
-      if(wikitext[j] === '{' && wikitext[j+1] === '{'){ depth++; j+=2; }
-      else if(wikitext[j] === '}' && wikitext[j+1] === '}'){ depth--; j+=2; }
-      else j++;
-    }
-    var content = wikitext.substring(open + 2, j - 2);
-    // Parse template name (first pipe or }}
-    var pipeIdx = content.indexOf('|');
-    var name = (pipeIdx >= 0 ? content.substring(0, pipeIdx) : content).trim().toLowerCase();
-    if(names_lower.indexOf(name) >= 0){
-      var params = {};
-      if(pipeIdx >= 0){
-        var rest = content.substring(pipeIdx + 1);
-        var paramRe = /\|?\s*(\w+)\s*=\s*([^|]*?)(?=\||$)/g;
-        var pm;
-        while((pm = /(?:\||^)\s*(\w+)\s*=\s*([^|]*?)(?=\||$)/g.exec(rest)) !== null){
-          params[pm[1].toLowerCase()] = pm[2].trim();
-        }
-        // If no named params, check for positional (date)
-        if(Object.keys(params).length === 0 && rest.trim()){
-          var dateMatch = rest.trim().match(/^(\w+\s+\d{4})$/);
-          if(dateMatch) params['date'] = dateMatch[1];
-        }
-      }
-      // Find section
-      var section = null;
-      for(var s = sections.length - 1; s >= 0; s--){
-        if(sections[s].start <= open){ section = sections[s].name; break; }
-      }
-      // Extract preceding text for context
-      var preStart = Math.max(0, open - 500);
-      var preText = wikitext.substring(preStart, open);
-      var lastBreak = preText.lastIndexOf('\n\n');
-      var context = lastBreak >= 0 ? preText.substring(lastBreak + 2) : preText;
-      context = context.replace(/\[\[[^\]]*\]\]/g, function(m){return m.replace(/^\[\[|\]\]$/g,'').split('|').pop();});
-      context = context.replace(/'''|''/g, '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
-      // Classify context
-      var contextType = 'inline';
-      if(context.length < 20) contextType = 'minimal';
-      if(/^\{\||\|\}/.test(context) || /\{\|/.test(context)) contextType = 'table';
-      if(/\{\{Infobox/.test(preText)) contextType = 'infobox';
-      if(/<ref[^>]*>/.test(preText) || /<\/ref>/.test(preText)) contextType = 'footnote';
-      if(/<blockquote/.test(preText) || /\{\{Quot/.test(preText)) contextType = 'blockquote';
-      templates.push({
-        name: content.split('|')[0].trim(),
-        section: section,
-        date: params['date'] || null,
-        context: context.substring(0, 200),
-        contextType: contextType
-      });
-    }
-    i = j;
-  }
-  return {sections: sections, templates: templates};
-}
-
-var detailContextCache = {};
 var maxRank = 200;
 
 function updateSlider(){
@@ -735,13 +631,17 @@ function showDetail(titleOrArticle){
     html += '</div>';
   }
 
-  // Maintenance templates
+  // Maintenance templates with pre-computed context
   if(d.templates.length){
     html += '<div style="border-top:1px solid #e8ecf0;padding-top:.7rem;margin-bottom:.7rem">';
     html += '<div style="font-weight:600;font-size:.82rem;margin-bottom:.5rem">Maintenance templates</div>';
     d.templates.forEach(function(t){
       var tLower = t.toLowerCase();
       var explanation = TEMPLATE_EXPLANATIONS[t] || TEMPLATE_EXPLANATIONS[tLower] || null;
+      // Find context for this template from pre-computed data
+      var ctxInfo = (d.ctx || []).filter(function(c){
+        return c.name.toLowerCase() === tLower || c.name.toLowerCase() === tLower.replace(/ /g,'_');
+      });
       html += '<div style="margin-bottom:.6rem;padding:.6rem;background:#f8f9fa;border-radius:5px;font-size:.78rem">';
       html += '<div style="font-weight:600;color:#c00;margin-bottom:3px">';
       html += '<span class="pil" style="background:#e74c3c;color:#fff;font-size:.7rem">' + t + '</span>';
@@ -749,9 +649,29 @@ function showDetail(titleOrArticle){
       if(explanation){
         html += '<p style="margin:2px 0;color:#555;line-height:1.4">' + explanation + '</p>';
       }
-      // Context fetched asynchronously below
-      html += '<div id="ctx-' + t.replace(/\s+/g,'') + '" class="tpl-ctx" style="margin-top:4px;font-size:.75rem;color:#888">';
-      html += 'Loading context...</div>';
+      // Context details
+      if(ctxInfo.length > 0){
+        var info = [];
+        ctxInfo.forEach(function(pt){
+          if(pt.date) info.push('<span style="color:#555">Tagged: ' + pt.date + '</span>');
+          if(pt.section) info.push('<span style="color:#555">Section: ' + pt.section + '</span>');
+          var ctxLabel = '';
+          if(pt.contextType === 'table') ctxLabel = '⚠ This tag is in a table cell — view the article source to locate it.';
+          else if(pt.contextType === 'infobox') ctxLabel = '⚠ This tag is in an infobox — edit the infobox directly.';
+          else if(pt.contextType === 'footnote') ctxLabel = '⚠ This tag was placed inside a reference — check the article.';
+          else if(pt.contextType === 'blockquote') ctxLabel = '⚠ This tag is inside a quotation — verify against the original source.';
+          else if(pt.contextType === 'minimal') ctxLabel = '⚠ Little surrounding text — the tag may be in a list or nav element.';
+          if(pt.context && pt.contextType === 'inline'){
+            info.push('<span style="color:#555">Possible context:</span>');
+            info.push('<span style="color:#666;font-style:italic;display:block;padding:3px 6px;background:#fff;border-radius:3px;margin:2px 0">"' + pt.context.substring(0, 150) + '..."</span>');
+            info.push('<span style="color:#999;font-size:.7rem">⚠ Best guess — verify against the article source.</span>');
+          }
+          if(ctxLabel) info.push('<span style="color:#c00;font-size:.7rem;display:block;margin-top:2px">' + ctxLabel + '</span>');
+        });
+        html += '<div style="margin-top:4px;font-size:.75rem;color:#888;line-height:1.4">' + info.join('<br>') + '</div>';
+      } else {
+        html += '<div style="margin-top:4px;font-size:.75rem;color:#888">Context pre-computed but not found in article source.</div>';
+      }
       html += '</div>';
     });
     html += '</div>';
@@ -767,47 +687,6 @@ function showDetail(titleOrArticle){
 
   document.getElementById('pb').innerHTML = html;
   document.getElementById('panel').className = 'open';
-  document.getElementById('overlay').style.display = 'block';
-  document.body.style.overflow = 'hidden';
-
-  // Asynchronously fetch and inject wikitext context
-  if(d.templates.length){
-    fetchWikitext(d.title).then(function(wt){
-      if(!wt) return;
-      var parsed = parseWikitextContext(wt, d.templates);
-      // For each template, update the context div
-      d.templates.forEach(function(t){
-        var ctxDiv = document.getElementById('ctx-' + t.replace(/\s+/g,''));
-        if(!ctxDiv) return;
-        var found = parsed.templates.filter(function(pt){
-          return pt.name.toLowerCase() === t.toLowerCase() || pt.name.toLowerCase() === t.toLowerCase().replace(/ /g,'_');
-        });
-        if(found.length === 0){
-          ctxDiv.innerHTML = '<span style="color:#999">Template context unavailable (may be in a complex template structure)</span>';
-          return;
-        }
-        var info = [];
-        found.forEach(function(pt){
-          if(pt.date) info.push('<span style="color:#555">Tagged: ' + pt.date + '</span>');
-          if(pt.section) info.push('<span style="color:#555">Section: ' + pt.section + '</span>');
-          // Context type indicator
-          var ctxLabel = '';
-          if(pt.contextType === 'table') ctxLabel = '⚠ This tag is in a table cell — view the article source to locate it.';
-          else if(pt.contextType === 'infobox') ctxLabel = '⚠ This tag is in an infobox — edit the infobox directly.';
-          else if(pt.contextType === 'footnote') ctxLabel = '⚠ This tag was placed inside a reference — check the article.';
-          else if(pt.contextType === 'blockquote') ctxLabel = '⚠ This tag is inside a quotation — verify against the original source.';
-          else if(pt.contextType === 'minimal') ctxLabel = '⚠ Little surrounding text — the tag may be in a list or nav element.';
-          if(pt.context && pt.contextType === 'inline'){
-            info.push('<span style="color:#555">Possible context:</span>');
-            info.push('<span style="color:#666;font-style:italic;display:block;padding:3px 6px;background:#fff;border-radius:3px;margin:2px 0">"' + pt.context.substring(0, 150) + '..."</span>');
-            info.push('<span style="color:#999;font-size:.7rem">⚠ Best guess — verify against the article source.</span>');
-          }
-          if(ctxLabel) info.push('<span style="color:#c00;font-size:.7rem;display:block;margin-top:2px">' + ctxLabel + '</span>');
-        });
-        ctxDiv.innerHTML = info.join('<br>');
-      });
-    });
-  }
 }
 
 function hideDetail(){
