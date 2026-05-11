@@ -345,3 +345,92 @@ These pages serve as a "Wikipedia gap map" — they show which articles have the
    - `pymysql` and `python-dotenv` installed
    - The root-level files `WIKIMEDIA_DATABASE_SKILL.md`, `WIKIMEDIA_PAGE_ASSESSMENT.md`, `WIKIMEDIA_PAGEVIEWS.md` also live as skill files in `.claude/skills/`
 5. **Script location.** This would be a `scripts/crossref-wikipedia.py` following the same pattern as `scan-assets.py`. Read the skill files for SQL patterns before running.
+
+## Report mode and visualization
+
+Rather than editing 2,573 course pages directly, the crossref script should have a `--report` mode that generates aggregate pages in `wiki/reports/` without touching any course pages. This lets you review the matching landscape before committing to individual course edits.
+
+### Three report layers
+
+**Layer 1 — Executive summary** (`wiki/reports/crossref-summary.md`):
+```
+# Wikipedia CrossRef: Summary Report
+
+## Coverage by OCW Department
+| Department | Courses | Wikipedia matches | High-priority |
+|---|---|---|---|
+| Chemistry (5) | 22 | 47 | 12 |
+| Physics (8) | 61 | 89 | 23 |
+| History (21H) | 87 | 34 | 8 |
+
+## Matches by WikiProject
+| WikiProject | Articles needing help | OCW courses that can help |
+|---|---|---|
+| Chemistry | 142 | 18 |
+| Nuclear technology | 67 | 14 |
+
+## Top 10 highest-impact matches
+| OCW Course | Wikipedia Article | Views/mo | Quality | Template | Score |
+|---|---|---|---|---|---|
+| 5.111SC | Chemical bond | 85,000 | C | Refimprove | 92 |
+| 22.01 | Nuclear reactor | 62,000 | Start | Missing info | 88 |
+```
+
+**Layer 2 — Priority matrix** (`wiki/reports/crossref-{wikiproject}.md`). One per WikiProject. A visual quadrant showing article distribution:
+
+```
+# Chemistry — priority matrix
+
+## High-importance, Low-quality (primary targets)
+| Article | Views | Class | Templates | OCW match |
+|---|---|---|---|---|
+| Chemical bond | 85K | C | Refimprove | 5.111SC |
+| Electron config | 42K | Start | Missing info | 5.111SC |
+
+## Low-importance, Low-quality (ignore)
+(none in top 200)
+
+## Articles needing diagrams
+| Article | Views | Request | Potential OCW asset |
+|---|---|---|---|
+| VSEPR theory | 32K | Image requested | 5.111SC Lecture 12 diagrams |
+```
+
+This is a markdown table, rendered natively by WikiWise. No special tooling needed.
+
+**Layer 3 — Detail pages** (`wiki/reports/crossref-matches.md`). The full ranked list per WikiProject with columns: Rank, Article, Views, Quality, Importance, Templates, OCW matches. Sortable by any column.
+
+### Visualizations that work within WikiWise
+
+WikiWise renders HTML and already has a graph infrastructure (`graph.html`, `map-3d.html`, `map.html`). We can reuse these:
+
+**1. Force-directed graph** — The existing `graph.html` renders a D3.js force-directed graph from `graph.json`. We can generate a `crossref-graph.json` where:
+- Nodes = Wikipedia articles (sized by pageviews, colored by quality class) + OCW courses (sized by asset count)
+- Edges = matches between a course and an article
+- Color: green = high-quality match, yellow = medium, red = low
+- The existing D3.js code in `site/graph.js` already handles node sizing, coloring, and click-to-preview. We just need to feed it different JSON.
+
+**2. Heatmap matrix** — An HTML table with color-coded cells. Rows = OCW departments, Columns = WikiProjects, Cell intensity = match count. Pure HTML/CSS, rendered inline by WikiWise.
+
+**3. Score distribution histogram** — Inline SVG generated from Python. A `<svg>` element with `<rect>` bars showing how many matches fall into each score bucket. No external dependencies.
+
+### The review workflow
+
+```
+python3 scripts/crossref-wikipedia.py --report                 # all WikiProjects
+python3 scripts/crossref-wikipedia.py --report --project Chemistry
+python3 scripts/crossref-wikipedia.py --report --dept 5       # OCW department
+python3 scripts/crossref-wikipedia.py --report --limit 50     # top 50 matches only
+
+python3 scripts/crossref-wikipedia.py --apply                  # apply approved matches
+python3 scripts/crossref-wikipedia.py --apply --project Chemistry
+python3 scripts/crossref-wikipedia.py --apply --course 5.111SC
+```
+
+The `--report` mode writes only to `wiki/reports/`. No course pages are modified. You browse the reports in WikiWise, review the candidate matches, and when you're satisfied, run `--apply` with the same filters to write the Wikipedia Bridge sections into individual course pages.
+
+The `--apply` step creates:
+- A `## Wikipedia Bridge` section on each matched course page (with related articles and citation templates)
+- `wiki/crossrefs/{article-slug}.md` hub pages (aggregating all courses per article)
+- `wiki/log.md` entries for each batch
+- A commit per batch with standard format
