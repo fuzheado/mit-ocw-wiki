@@ -17,16 +17,28 @@ th,td{padding:7px 12px;font-size:0.82rem;text-align:center;border-bottom:1px sol
 .mc{text-align:center}
 .bc{display:inline-block;height:26px;border-radius:3px;line-height:26px;padding:0 8px;font-size:0.75rem;font-weight:600;color:#fff;position:relative;cursor:default;transition:transform 0.1s,box-shadow 0.1s}
 .bc:hover{transform:scale(1.15);box-shadow:0 2px 10px rgba(0,0,0,0.2);z-index:10}
+.clickable{cursor:pointer !important}
+.bc.clickable:active{transform:scale(0.95)}
 .tip{position:absolute;bottom:100%;left:50%;transform:translateX(-50%);background:#333;color:#fff;padding:3px 8px;border-radius:3px;font-size:0.65rem;white-space:nowrap;opacity:0;pointer-events:none;transition:opacity 0.15s;margin-bottom:5px}
 .bc:hover .tip{opacity:1}
 .lg{display:flex;align-items:center;gap:10px;margin-top:2rem;font-size:0.8rem;color:#666}
 .lb{display:flex;height:14px;border-radius:3px;overflow:hidden}
 .lb div{width:22px}
+#panel{margin-top:1.5rem;display:none;background:#fff;border:1px solid #e0e0e0;border-radius:6px;padding:1.2rem 1.5rem}
+#panel h3{margin:0 0 0.5rem;font-size:1.1rem}
+#panel .sub{color:#888;font-size:0.82rem;margin-bottom:1rem}
+#panel table{width:100%;font-size:0.82rem}
+#panel th{text-align:left;font-weight:600;color:#555;font-size:0.72rem;letter-spacing:0.04em;border-bottom:2px solid #ddd;padding:6px 8px}
+#panel td{padding:6px 8px;vertical-align:top;border-bottom:1px solid #f0f0f0}
+#panel .close{float:right;cursor:pointer;color:#aaa;font-size:1.3rem;line-height:1;padding:2px 6px;border-radius:3px}
+#panel .close:hover{background:#f0f0f0;color:#333}
+.ql{display:inline-block;padding:1px 6px;border-radius:3px;font-size:0.7rem;font-weight:600;color:#fff}
+.ql-C{background:#e68a2e} .ql-B{background:#5599cc} .ql-Start{background:#d45555} .ql-GA{background:#5ba85b}
 </style>
 </head>
 <body>
 <h1>OCW ↔ Wikipedia Match Heatmap</h1>
-<p class="s">12 OCW departments × 5 WikiProjects — darker cells = more OCW courses matching that WikiProject. Hover for details.</p>
+<p class="s">12 OCW departments × 5 WikiProjects — click a cell to see course details.</p>
 <table>
   <tr>
     <th class='hl'>Department</th>
@@ -38,7 +50,7 @@ th,td{padding:7px 12px;font-size:0.82rem;text-align:center;border-bottom:1px sol
   </tr>
   <tr>
     <td class='ll'><strong>1</strong> <span class='dn'>Civil & Env. Eng.</span></td>
-    <td class='mc'><span class='bc' style='background:rgb(131,189,233)'>4<span class='tip'>1 → Environment: 4 matches</span></span></td>
+    <td class='mc'><span class='bc clickable' style='background:rgb(131,189,233)' onclick='showDetail("1_Environment")'>4<span class='tip'>1 → Environment: 4 matches</span></span></td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
@@ -46,7 +58,7 @@ th,td{padding:7px 12px;font-size:0.82rem;text-align:center;border-bottom:1px sol
   </tr>
   <tr>
     <td class='ll'><strong>11</strong> <span class='dn'>Urban Studies</span></td>
-    <td class='mc'><span class='bc' style='background:rgb(193,222,244)'>2<span class='tip'>11 → Environment: 2 matches</span></span></td>
+    <td class='mc'><span class='bc clickable' style='background:rgb(193,222,244)' onclick='showDetail("11_Environment")'>2<span class='tip'>11 → Environment: 2 matches</span></span></td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
@@ -54,7 +66,7 @@ th,td{padding:7px 12px;font-size:0.82rem;text-align:center;border-bottom:1px sol
   </tr>
   <tr>
     <td class='ll'><strong>12</strong> <span class='dn'>Earth, Atmos. & Planetary Sci.</span></td>
-    <td class='mc'><span class='bc' style='background:rgb(100,173,227)'>5<span class='tip'>12 → Environment: 5 matches</span></span></td>
+    <td class='mc'><span class='bc clickable' style='background:rgb(100,173,227)' onclick='showDetail("12_Environment")'>5<span class='tip'>12 → Environment: 5 matches</span></span></td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
@@ -62,7 +74,7 @@ th,td{padding:7px 12px;font-size:0.82rem;text-align:center;border-bottom:1px sol
   </tr>
   <tr>
     <td class='ll'><strong>14</strong> <span class='dn'>Economics</span></td>
-    <td class='mc'><span class='bc' style='background:rgb(224,238,249)'>1<span class='tip'>14 → Environment: 1 match</span></span></td>
+    <td class='mc'><span class='bc clickable' style='background:rgb(224,238,249)' onclick='showDetail("14_Environment")'>1<span class='tip'>14 → Environment: 1 match</span></span></td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
@@ -74,11 +86,11 @@ th,td{padding:7px 12px;font-size:0.82rem;text-align:center;border-bottom:1px sol
     <td class='nc'>—</td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
-    <td class='mc'><span class='bc' style='background:rgb(100,173,227)'>5<span class='tip'>15 → Business: 5 matches</span></span></td>
+    <td class='mc'><span class='bc clickable' style='background:rgb(100,173,227)' onclick='showDetail("15_Business")'>5<span class='tip'>15 → Business: 5 matches</span></span></td>
   </tr>
   <tr>
     <td class='ll'><strong>2</strong> <span class='dn'>Mechanical Eng.</span></td>
-    <td class='mc'><span class='bc' style='background:rgb(224,238,249)'>1<span class='tip'>2 → Environment: 1 match</span></span></td>
+    <td class='mc'><span class='bc clickable' style='background:rgb(224,238,249)' onclick='showDetail("2_Environment")'>1<span class='tip'>2 → Environment: 1 match</span></span></td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
@@ -86,7 +98,7 @@ th,td{padding:7px 12px;font-size:0.82rem;text-align:center;border-bottom:1px sol
   </tr>
   <tr>
     <td class='ll'><strong>22</strong> <span class='dn'>Nuclear Sci. & Eng.</span></td>
-    <td class='mc'><span class='bc' style='background:rgb(38,140,216)'>7<span class='tip'>22 → Environment: 7 matches</span></span></td>
+    <td class='mc'><span class='bc clickable' style='background:rgb(38,140,216)' onclick='showDetail("22_Environment")'>7<span class='tip'>22 → Environment: 7 matches</span></span></td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
@@ -94,8 +106,8 @@ th,td{padding:7px 12px;font-size:0.82rem;text-align:center;border-bottom:1px sol
   </tr>
   <tr>
     <td class='ll'><strong>5</strong> <span class='dn'>Chemistry</span></td>
-    <td class='mc'><span class='bc' style='background:rgb(224,238,249)'>1<span class='tip'>5 → Environment: 1 match</span></span></td>
-    <td class='mc'><span class='bc' style='background:rgb(131,189,233)'>4<span class='tip'>5 → Chemistry: 4 matches</span></span></td>
+    <td class='mc'><span class='bc clickable' style='background:rgb(224,238,249)' onclick='showDetail("5_Environment")'>1<span class='tip'>5 → Environment: 1 match</span></span></td>
+    <td class='mc'><span class='bc clickable' style='background:rgb(131,189,233)' onclick='showDetail("5_Chemistry")'>4<span class='tip'>5 → Chemistry: 4 matches</span></span></td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
@@ -105,14 +117,14 @@ th,td{padding:7px 12px;font-size:0.82rem;text-align:center;border-bottom:1px sol
     <td class='nc'>—</td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
-    <td class='mc'><span class='bc' style='background:rgb(69,156,222)'>6<span class='tip'>6 → Computer science: 6 matches</span></span></td>
+    <td class='mc'><span class='bc clickable' style='background:rgb(69,156,222)' onclick='showDetail("6_Computer science")'>6<span class='tip'>6 → Computer science: 6 matches</span></span></td>
     <td class='nc'>—</td>
   </tr>
   <tr>
     <td class='ll'><strong>7</strong> <span class='dn'>Biology</span></td>
-    <td class='mc'><span class='bc' style='background:rgb(224,238,249)'>1<span class='tip'>7 → Environment: 1 match</span></span></td>
+    <td class='mc'><span class='bc clickable' style='background:rgb(224,238,249)' onclick='showDetail("7_Environment")'>1<span class='tip'>7 → Environment: 1 match</span></span></td>
     <td class='nc'>—</td>
-    <td class='mc'><span class='bc' style='background:rgb(162,205,238)'>3<span class='tip'>7 → Biology: 3 matches</span></span></td>
+    <td class='mc'><span class='bc clickable' style='background:rgb(162,205,238)' onclick='showDetail("7_Biology")'>3<span class='tip'>7 → Biology: 3 matches</span></span></td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
   </tr>
@@ -122,11 +134,11 @@ th,td{padding:7px 12px;font-size:0.82rem;text-align:center;border-bottom:1px sol
     <td class='nc'>—</td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
-    <td class='mc'><span class='bc' style='background:rgb(224,238,249)'>1<span class='tip'>ESD → Business: 1 match</span></span></td>
+    <td class='mc'><span class='bc clickable' style='background:rgb(224,238,249)' onclick='showDetail("ESD_Business")'>1<span class='tip'>ESD → Business: 1 match</span></span></td>
   </tr>
   <tr>
     <td class='ll'><strong>STS</strong> <span class='dn'>STS</span></td>
-    <td class='mc'><span class='bc' style='background:rgb(224,238,249)'>1<span class='tip'>STS → Environment: 1 match</span></span></td>
+    <td class='mc'><span class='bc clickable' style='background:rgb(224,238,249)' onclick='showDetail("STS_Environment")'>1<span class='tip'>STS → Environment: 1 match</span></span></td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
     <td class='nc'>—</td>
@@ -135,6 +147,39 @@ th,td{padding:7px 12px;font-size:0.82rem;text-align:center;border-bottom:1px sol
 
 </table>
 <div class="lg"><span>Match density:</span><div class="lb"><div style="background:#f5f5f5"></div><div style="background:rgb(224,238,249)"></div><div style="background:rgb(193,222,244)"></div><div style="background:rgb(162,205,238)"></div><div style="background:rgb(131,189,233)"></div><div style="background:rgb(100,173,227)"></div><div style="background:rgb(69,156,222)"></div><div style="background:rgb(38,140,216)"></div></div><span>0 → 7</span></div>
-<p style="margin-top:2rem;color:#888;font-size:0.8rem">Generated 2026-05-11 04:33</p>
+
+<div id="panel"></div>
+
+<script>
+var DATA = {"11_Environment": [{"course": "11.165", "title": "Infrastructure and Energy Technology Challenges", "lecture": "Energy policy discussions", "assets": "reading-list", "article": "Earth Day", "quality": "C", "importance": "High", "views": 291552, "templates": ["More citations needed"]}, {"course": "11.941", "title": "Urban Climate Adaptation", "lecture": "Climate adaptation policy", "assets": "lecture-notes", "article": "Earth Day", "quality": "C", "importance": "High", "views": 291552, "templates": ["More citations needed"]}], "22_Environment": [{"course": "22.01", "title": "Introduction to Nuclear Engineering", "lecture": "Nuclear weapons overview", "assets": "video+transcript", "article": "Nuclear weapon", "quality": "C", "importance": "High", "views": 95651, "templates": ["Citation needed", "More citations needed"]}, {"course": "22.033", "title": "Nuclear Systems Design Project", "lecture": "Nuclear fuel cycle", "assets": "lecture-notes", "article": "Nuclear weapon", "quality": "C", "importance": "High", "views": 95651, "templates": ["Citation needed", "More citations needed"]}, {"course": "22.081J", "title": "Introduction to Sustainable Energy", "lecture": "Fossil fuels", "assets": "video+transcript", "article": "Petroleum", "quality": "C", "importance": "High", "views": 75490, "templates": ["Refimprove"]}, {"course": "22.01", "title": "Introduction to Nuclear Engineering", "lecture": "Reactor types", "assets": "video+transcript", "article": "Breeder reactor", "quality": "C", "importance": "Low", "views": 36482, "templates": ["Refimprove"]}, {"course": "22.033", "title": "Nuclear Systems Design Project", "lecture": "Advanced reactors", "assets": "lecture-notes", "article": "Breeder reactor", "quality": "C", "importance": "Low", "views": 36482, "templates": ["Refimprove"]}, {"course": "22.091", "title": "Nuclear Reactor Safety", "lecture": "Chernobyl case study", "assets": "video+transcript", "article": "Chernobyl exclusion zone", "quality": "C", "importance": "High", "views": 48144, "templates": ["Citation needed"]}, {"course": "22.033", "title": "Nuclear Systems Design Project", "lecture": "Containment", "assets": "lecture-notes", "article": "Chernobyl exclusion zone", "quality": "C", "importance": "High", "views": 48144, "templates": ["Citation needed"]}], "STS_Environment": [{"course": "STS.038", "title": "Energy and Environment in American History", "lecture": "Manhattan Project history", "assets": "reading-list", "article": "Nuclear weapon", "quality": "C", "importance": "High", "views": 95651, "templates": ["Citation needed", "More citations needed"]}], "2_Environment": [{"course": "2.61", "title": "Internal Combustion Engines", "lecture": "Petroleum fuels", "assets": "lecture-notes", "article": "Petroleum", "quality": "C", "importance": "High", "views": 75490, "templates": ["Refimprove"]}], "12_Environment": [{"course": "12.340", "title": "Global Warming Science", "lecture": "Carbon cycle", "assets": "video+transcript", "article": "Petroleum", "quality": "C", "importance": "High", "views": 75490, "templates": ["Refimprove"]}, {"course": "12.800", "title": "Fluid Dynamics of the Atmosphere and Ocean", "lecture": "ENSO dynamics", "assets": "lecture-notes", "article": "El Ni\u00f1o\u2013Southern Oscillation", "quality": "C", "importance": "High", "views": 74966, "templates": ["Missing information"]}, {"course": "12.307", "title": "Weather and Climate Laboratory", "lecture": "Climate oscillations", "assets": "video+transcript", "article": "El Ni\u00f1o\u2013Southern Oscillation", "quality": "C", "importance": "High", "views": 74966, "templates": ["Missing information"]}, {"course": "12.340", "title": "Global Warming Science", "lecture": "CO2 and climate", "assets": "video+transcript", "article": "Carbon dioxide", "quality": "C", "importance": "High", "views": 37300, "templates": ["Refimprove"]}, {"course": "12.810", "title": "Dynamics of the Atmosphere", "lecture": "Atmospheric structure", "assets": "video+transcript", "article": "Atmosphere of Earth", "quality": "B", "importance": "High", "views": 58418, "templates": []}], "1_Environment": [{"course": "1.74", "title": "Land, Water, Food, and Climate", "lecture": "Environmental disasters", "assets": "lecture-notes", "article": "Deepwater Horizon oil spill", "quality": "C", "importance": "High", "views": 65507, "templates": ["Missing information"]}, {"course": "1.85", "title": "Water and Wastewater Treatment Engineering", "lecture": "Water contamination", "assets": "lecture-notes", "article": "Deepwater Horizon oil spill", "quality": "C", "importance": "High", "views": 65507, "templates": ["Missing information"]}, {"course": "1.74", "title": "Land, Water, Food, and Climate", "lecture": "Carbon cycle", "assets": "lecture-notes", "article": "Carbon dioxide", "quality": "C", "importance": "High", "views": 37300, "templates": ["Refimprove"]}, {"course": "1.018J", "title": "Ecology I: The Earth System", "lecture": "Biodiversity", "assets": "lecture-notes", "article": "Extinction", "quality": "C", "importance": "High", "views": 39794, "templates": ["Refimprove"]}], "5_Environment": [{"course": "5.111SC", "title": "Principles of Chemical Science", "lecture": "Greenhouse gases", "assets": "video+transcript", "article": "Carbon dioxide", "quality": "C", "importance": "High", "views": 37300, "templates": ["Refimprove"]}], "7_Environment": [{"course": "7.016", "title": "Introductory Biology", "lecture": "Evolution", "assets": "video+transcript", "article": "Extinction", "quality": "C", "importance": "High", "views": 39794, "templates": ["Refimprove"]}], "14_Environment": [{"course": "14.12", "title": "Economic Applications of Game Theory", "lecture": "Prisoner's dilemma", "assets": "video+transcript", "article": "Prisoner's dilemma", "quality": "C", "importance": "High", "views": 39225, "templates": ["Refimprove"]}], "5_Chemistry": [{"course": "5.111SC", "title": "Principles of Chemical Science", "lecture": "Chemical bonding overview", "assets": "video+transcript", "article": "Chemical bond", "quality": "C", "importance": "High", "views": 85000, "templates": ["Refimprove"]}, {"course": "5.112", "title": "Principles of Chemical Science", "lecture": "Ionic and covalent bonds", "assets": "lecture-notes", "article": "Chemical bond", "quality": "C", "importance": "High", "views": 85000, "templates": ["Refimprove"]}, {"course": "5.111SC", "title": "Principles of Chemical Science", "lecture": "Electron configurations", "assets": "video+transcript", "article": "Electron configuration", "quality": "Start", "importance": "High", "views": 42000, "templates": ["Missing information"]}, {"course": "5.111SC", "title": "Principles of Chemical Science", "lecture": "Molecular shapes", "assets": "video+transcript", "article": "VSEPR theory", "quality": "C", "importance": "Mid", "views": 32000, "templates": ["Image requested"]}], "7_Biology": [{"course": "7.016", "title": "Introductory Biology", "lecture": "Cell structure", "assets": "video+transcript", "article": "Cell (biology)", "quality": "C", "importance": "High", "views": 95000, "templates": ["Refimprove"]}, {"course": "7.012", "title": "Introductory Biology", "lecture": "Cell biology", "assets": "lecture-notes", "article": "Cell (biology)", "quality": "C", "importance": "High", "views": 95000, "templates": ["Refimprove"]}, {"course": "7.016", "title": "Introductory Biology", "lecture": "DNA replication", "assets": "video+transcript", "article": "DNA replication", "quality": "B", "importance": "High", "views": 55000, "templates": ["Refimprove"]}], "6_Computer science": [{"course": "6.006", "title": "Introduction to Algorithms", "lecture": "Algorithm analysis", "assets": "video+transcript", "article": "Algorithm", "quality": "C", "importance": "Top", "views": 180000, "templates": ["Refimprove"]}, {"course": "6.046J", "title": "Introduction to Algorithms", "lecture": "Advanced algorithms", "assets": "video+transcript", "article": "Algorithm", "quality": "C", "importance": "Top", "views": 180000, "templates": ["Refimprove"]}, {"course": "6.867", "title": "Machine Learning", "lecture": "Supervised learning", "assets": "video+transcript", "article": "Machine learning", "quality": "C", "importance": "Top", "views": 250000, "templates": ["Citation needed"]}, {"course": "6.7900", "title": "Machine Learning", "lecture": "Neural networks", "assets": "video+transcript", "article": "Machine learning", "quality": "C", "importance": "Top", "views": 250000, "templates": ["Citation needed"]}, {"course": "6.7960", "title": "Deep Learning", "lecture": "Neural network architectures", "assets": "video+transcript", "article": "Artificial neural network", "quality": "B", "importance": "High", "views": 95000, "templates": ["Refimprove"]}, {"course": "6.045J", "title": "Automata, Computability, and Complexity", "lecture": "Complexity classes", "assets": "video+transcript", "article": "Computational complexity theory", "quality": "C", "importance": "High", "views": 35000, "templates": ["Citation needed"]}], "15_Business": [{"course": "15.390", "title": "New Enterprises", "lecture": "Entrepreneurship fundamentals", "assets": "video+transcript", "article": "Entrepreneurship", "quality": "C", "importance": "High", "views": 85000, "templates": ["Refimprove"]}, {"course": "15.762J", "title": "Supply Chain Planning", "lecture": "Logistics and planning", "assets": "video+transcript", "article": "Supply chain", "quality": "C", "importance": "High", "views": 45000, "templates": ["Missing information"]}, {"course": "15.401", "title": "Finance Theory I", "lecture": "Corporate finance", "assets": "video+transcript", "article": "Finance", "quality": "C", "importance": "Top", "views": 200000, "templates": ["Citation needed"]}, {"course": "15.450", "title": "Analytics of Finance", "lecture": "Financial analytics", "assets": "lecture-notes", "article": "Finance", "quality": "C", "importance": "Top", "views": 200000, "templates": ["Citation needed"]}, {"course": "15.810", "title": "Marketing Management", "lecture": "Marketing strategy", "assets": "video+transcript", "article": "Marketing", "quality": "C", "importance": "High", "views": 72000, "templates": ["Refimprove"]}], "ESD_Business": [{"course": "ESD.273J", "title": "Logistics and Supply Chain Management", "lecture": "Supply chain design", "assets": "lecture-notes", "article": "Supply chain", "quality": "C", "importance": "High", "views": 45000, "templates": ["Missing information"]}]};
+
+function showDetail(key) {
+    var items = DATA[key];
+    if (!items) return;
+    var parts = key.split("_");
+    var dept = parts[0], proj = parts.slice(1).join("_");
+    var html = '<div><span class="close" onclick="hideDetail()">&times;</span><h3>Department ' + dept + ' → ' + proj + '</h3>';
+    html += '<p class="sub">' + items.length + ' match' + (items.length !== 1 ? 'es' : '') + '</p>';
+    html += '<table><tr><th>Course</th><th>Wikipedia Article</th><th>Lecture</th><th>Assets</th><th>Quality</th></tr>';
+    for (var i = 0; i < items.length; i++) {
+        var m = items[i];
+        html += '<tr><td><strong>' + m.course + '</strong><br><span style="font-size:0.75rem;color:#666">' + m.title + '</span></td>';
+        html += '<td><a href="https://en.wikipedia.org/wiki/' + encodeURIComponent(m.article.replace(/ /g,"_")) + '" target="_blank">' + m.article + '</a><br><span style="font-size:0.72rem;color:#888">' + m.views.toLocaleString() + ' views';
+        if (m.templates.length) html += ' · ' + m.templates.join(", ");
+        html += '</span></td>';
+        html += '<td>' + m.lecture + '</td>';
+        html += '<td>' + m.assets.replace("video+transcript","🎬📄").replace("lecture-notes","📝").replace("reading-list","📚") + '</td>';
+        html += '<td><span class="ql ql-' + m.quality + '">' + m.quality + '</span></td></tr>';
+    }
+    html += '</table></div>';
+    document.getElementById('panel').innerHTML = html;
+    document.getElementById('panel').style.display = 'block';
+}
+
+function hideDetail() {
+    document.getElementById('panel').style.display = 'none';
+}
+</script>
+<p style="margin-top:1.5rem;color:#888;font-size:0.8rem">Click a numbered cell to see course details. Generated 2026-05-11 04:39.</p>
 </body>
 </html>

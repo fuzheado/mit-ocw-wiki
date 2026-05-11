@@ -569,8 +569,9 @@ def generate_heatmap():
         for match in article.get("ocw_matches", [])
     ))
 
-    # Build match matrix
+    # Build match matrix and detail data
     matrix = {}
+    details = {}  # "dept_project" → list of match descriptions
     for dept in depts:
         matrix[dept] = {}
         for proj in projects:
@@ -582,8 +583,22 @@ def generate_heatmap():
                 matrix.setdefault(dept, {})
                 matrix[dept].setdefault(proj, 0)
                 matrix[dept][proj] += 1
+                key = f"{dept}_{proj}"
+                details.setdefault(key, [])
+                details[key].append({
+                    "course": match["course"],
+                    "title": match["title"],
+                    "lecture": match["lecture"],
+                    "assets": match["assets"],
+                    "article": article["title"],
+                    "quality": article["quality"],
+                    "importance": article["importance"],
+                    "views": article["views"],
+                    "templates": article.get("templates", [])
+                })
 
     max_val = max(matrix[d][p] for d in depts for p in projects) or 1
+    details_json = json.dumps(details)
 
     def heat_color(t):
         if t <= 0: return "#f5f5f5"
@@ -610,7 +625,8 @@ def generate_heatmap():
                 rows_html += "    <td class='nc'>—</td>\n"
             else:
                 bg = heat_color(val / max_val)
-                rows_html += f"    <td class='mc'><span class='bc' style='background:{bg}'>{val}<span class='tip'>{d} → {p}: {val} match{'es' if val != 1 else ''}</span></span></td>\n"
+                key = f"{d}_{p}"
+                rows_html += f"    <td class='mc'><span class='bc clickable' style='background:{bg}' onclick='showDetail(\"{key}\")'>{val}<span class='tip'>{d} → {p}: {val} match{'es' if val != 1 else ''}</span></span></td>\n"
         rows_html += "  </tr>\n"
 
     # Legend bar
@@ -635,21 +651,66 @@ th,td{{padding:7px 12px;font-size:0.82rem;text-align:center;border-bottom:1px so
 .mc{{text-align:center}}
 .bc{{display:inline-block;height:26px;border-radius:3px;line-height:26px;padding:0 8px;font-size:0.75rem;font-weight:600;color:#fff;position:relative;cursor:default;transition:transform 0.1s,box-shadow 0.1s}}
 .bc:hover{{transform:scale(1.15);box-shadow:0 2px 10px rgba(0,0,0,0.2);z-index:10}}
+.clickable{{cursor:pointer !important}}
+.bc.clickable:active{{transform:scale(0.95)}}
 .tip{{position:absolute;bottom:100%;left:50%;transform:translateX(-50%);background:#333;color:#fff;padding:3px 8px;border-radius:3px;font-size:0.65rem;white-space:nowrap;opacity:0;pointer-events:none;transition:opacity 0.15s;margin-bottom:5px}}
 .bc:hover .tip{{opacity:1}}
 .lg{{display:flex;align-items:center;gap:10px;margin-top:2rem;font-size:0.8rem;color:#666}}
 .lb{{display:flex;height:14px;border-radius:3px;overflow:hidden}}
 .lb div{{width:22px}}
+#panel{{margin-top:1.5rem;display:none;background:#fff;border:1px solid #e0e0e0;border-radius:6px;padding:1.2rem 1.5rem}}
+#panel h3{{margin:0 0 0.5rem;font-size:1.1rem}}
+#panel .sub{{color:#888;font-size:0.82rem;margin-bottom:1rem}}
+#panel table{{width:100%;font-size:0.82rem}}
+#panel th{{text-align:left;font-weight:600;color:#555;font-size:0.72rem;letter-spacing:0.04em;border-bottom:2px solid #ddd;padding:6px 8px}}
+#panel td{{padding:6px 8px;vertical-align:top;border-bottom:1px solid #f0f0f0}}
+#panel .close{{float:right;cursor:pointer;color:#aaa;font-size:1.3rem;line-height:1;padding:2px 6px;border-radius:3px}}
+#panel .close:hover{{background:#f0f0f0;color:#333}}
+.ql{{display:inline-block;padding:1px 6px;border-radius:3px;font-size:0.7rem;font-weight:600;color:#fff}}
+.ql-C{{background:#e68a2e}} .ql-B{{background:#5599cc}} .ql-Start{{background:#d45555}} .ql-GA{{background:#5ba85b}}
 </style>
 </head>
 <body>
 <h1>OCW ↔ Wikipedia Match Heatmap</h1>
-<p class="s">{len(depts)} OCW departments × {len(projects)} WikiProjects — darker cells = more OCW courses matching that WikiProject. Hover for details.</p>
+<p class="s">{len(depts)} OCW departments × {len(projects)} WikiProjects — click a cell to see course details.</p>
 <table>
 {rows_html}
 </table>
 <div class="lg"><span>Match density:</span><div class="lb">{legend_parts}</div><span>0 → {max_val}</span></div>
-<p style="margin-top:2rem;color:#888;font-size:0.8rem">Generated {timestamp()}</p>
+
+<div id="panel"></div>
+
+<script>
+var DATA = {details_json};
+
+function showDetail(key) {{
+    var items = DATA[key];
+    if (!items) return;
+    var parts = key.split("_");
+    var dept = parts[0], proj = parts.slice(1).join("_");
+    var html = '<div><span class="close" onclick="hideDetail()">&times;</span><h3>Department ' + dept + ' → ' + proj + '</h3>';
+    html += '<p class="sub">' + items.length + ' match' + (items.length !== 1 ? 'es' : '') + '</p>';
+    html += '<table><tr><th>Course</th><th>Wikipedia Article</th><th>Lecture</th><th>Assets</th><th>Quality</th></tr>';
+    for (var i = 0; i < items.length; i++) {{
+        var m = items[i];
+        html += '<tr><td><strong>' + m.course + '</strong><br><span style="font-size:0.75rem;color:#666">' + m.title + '</span></td>';
+        html += '<td><a href="https://en.wikipedia.org/wiki/' + encodeURIComponent(m.article.replace(/ /g,"_")) + '" target="_blank">' + m.article + '</a><br><span style="font-size:0.72rem;color:#888">' + m.views.toLocaleString() + ' views';
+        if (m.templates.length) html += ' · ' + m.templates.join(", ");
+        html += '</span></td>';
+        html += '<td>' + m.lecture + '</td>';
+        html += '<td>' + m.assets.replace("video+transcript","🎬📄").replace("lecture-notes","📝").replace("reading-list","📚") + '</td>';
+        html += '<td><span class="ql ql-' + m.quality + '">' + m.quality + '</span></td></tr>';
+    }}
+    html += '</table></div>';
+    document.getElementById('panel').innerHTML = html;
+    document.getElementById('panel').style.display = 'block';
+}}
+
+function hideDetail() {{
+    document.getElementById('panel').style.display = 'none';
+}}
+</script>
+<p style="margin-top:1.5rem;color:#888;font-size:0.8rem">Click a numbered cell to see course details. Generated {timestamp()}.</p>
 </body>
 </html>"""
 
