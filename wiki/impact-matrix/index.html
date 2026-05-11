@@ -83,6 +83,9 @@ h1{font-size:1.4rem;font-weight:700;margin:0 0 .15rem;letter-spacing:-.02em}
 #pb .im{font-weight:600;color:#444;font-size:.78rem}
 #pb .vv{font-size:.78rem}
 .pil{display:inline-block;padding:1px 8px;border-radius:10px;font-size:.7rem;background:#e8ecf0;color:#555;margin:2px}
+.act-link{display:inline-block;padding:6px 14px;border-radius:6px;font-size:.78rem;background:#f0f4f8;color:#2563eb;text-decoration:none;font-weight:500;transition:all .12s}
+.act-link:hover{background:#2563eb;color:#fff}
+.tpl-ctx{line-height:1.4}
 
 /* Table */
 #tv{display:none;background:#fff;border-radius:8px;border:1px solid #e8ecf0;overflow:auto;max-height:500px}
@@ -177,7 +180,101 @@ h1{font-size:1.4rem;font-weight:700;margin:0 0 .15rem;letter-spacing:-.02em}
 <div id="panel"><div class="ph"><span id="pt"></span><span class="cl" onclick="hideDetail()">&times;</span></div><div id="pb"></div></div>
 
 <script>
-// ─── Rank slider ───
+// ─── Wikitext parser (client-side) ───
+// Fetches raw wikitext for an article via the MediaWiki API and extracts
+// section context, template parameters, and sentence context for each template.
+
+var wikitextCache = {};
+
+function fetchWikitext(title){
+  if(wikitextCache[title]) return Promise.resolve(wikitextCache[title]);
+  var url = "https://en.wikipedia.org/w/api.php?action=parse&page=" + encodeURIComponent(title) + "&prop=wikitext&format=json&origin=*";
+  return fetch(url)
+    .then(function(r){return r.json()})
+    .then(function(data){
+      var wt = data && data.parse && data.parse.wikitext && data.parse.wikitext['*'] || null;
+      wikitextCache[title] = wt;
+      return wt;
+    }).catch(function(){return null});
+}
+
+function parseWikitextContext(wikitext, templateNames){
+  // Returns: {sections: [{name, level}], templates: [{name, section, date, context, contextType}]}
+  if(!wikitext) return {sections: [], templates: []};
+  var sections = [{name: null, level: 0, start: 0}];
+  var sectionRe = /^(={1,6})\s*(.*?)\s*\1\s*$/gm;
+  var m;
+  while((m = sectionRe.exec(wikitext)) !== null){
+    sections.push({name: m[2].trim(), level: m[1].length, start: m.index});
+  }
+
+  // Simple recursive {{...}} parser to find template invocations
+  var templates = [];
+  var i = 0;
+  var names_lower = templateNames.map(function(n){return n.toLowerCase()});
+  while(i < wikitext.length){
+    var open = wikitext.indexOf('{{', i);
+    if(open === -1) break;
+    // Check for template or parser function
+    var depth = 1;
+    var j = open + 2;
+    while(j < wikitext.length && depth > 0){
+      if(wikitext[j] === '{' && wikitext[j+1] === '{'){ depth++; j+=2; }
+      else if(wikitext[j] === '}' && wikitext[j+1] === '}'){ depth--; j+=2; }
+      else j++;
+    }
+    var content = wikitext.substring(open + 2, j - 2);
+    // Parse template name (first pipe or }}
+    var pipeIdx = content.indexOf('|');
+    var name = (pipeIdx >= 0 ? content.substring(0, pipeIdx) : content).trim().toLowerCase();
+    if(names_lower.indexOf(name) >= 0){
+      var params = {};
+      if(pipeIdx >= 0){
+        var rest = content.substring(pipeIdx + 1);
+        var paramRe = /\|?\s*(\w+)\s*=\s*([^|]*?)(?=\||$)/g;
+        var pm;
+        while((pm = /(?:\||^)\s*(\w+)\s*=\s*([^|]*?)(?=\||$)/g.exec(rest)) !== null){
+          params[pm[1].toLowerCase()] = pm[2].trim();
+        }
+        // If no named params, check for positional (date)
+        if(Object.keys(params).length === 0 && rest.trim()){
+          var dateMatch = rest.trim().match(/^(\w+\s+\d{4})$/);
+          if(dateMatch) params['date'] = dateMatch[1];
+        }
+      }
+      // Find section
+      var section = null;
+      for(var s = sections.length - 1; s >= 0; s--){
+        if(sections[s].start <= open){ section = sections[s].name; break; }
+      }
+      // Extract preceding text for context
+      var preStart = Math.max(0, open - 500);
+      var preText = wikitext.substring(preStart, open);
+      var lastBreak = preText.lastIndexOf('\n\n');
+      var context = lastBreak >= 0 ? preText.substring(lastBreak + 2) : preText;
+      context = context.replace(/\[\[[^\]]*\]\]/g, function(m){return m.replace(/^\[\[|\]\]$/g,'').split('|').pop();});
+      context = context.replace(/'''|''/g, '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+      // Classify context
+      var contextType = 'inline';
+      if(context.length < 20) contextType = 'minimal';
+      if(/^\{\||\|\}/.test(context) || /\{\|/.test(context)) contextType = 'table';
+      if(/\{\{Infobox/.test(preText)) contextType = 'infobox';
+      if(/<ref[^>]*>/.test(preText) || /<\/ref>/.test(preText)) contextType = 'footnote';
+      if(/<blockquote/.test(preText) || /\{\{Quot/.test(preText)) contextType = 'blockquote';
+      templates.push({
+        name: content.split('|')[0].trim(),
+        section: section,
+        date: params['date'] || null,
+        context: context.substring(0, 200),
+        contextType: contextType
+      });
+    }
+    i = j;
+  }
+  return {sections: sections, templates: templates};
+}
+
+var detailContextCache = {};
 var maxRank = 200;
 
 function updateSlider(){
@@ -195,6 +292,35 @@ var IMP_RANK = {"Top":4,"High":3,"Mid":2,"Low":1};
 var TEMPLATE_COLORS = d3.scaleThreshold()
     .domain([1, 3, 6])
     .range(["#2ecc71","#f39c12","#e67e22","#e74c3c"]);
+
+var TEMPLATE_EXPLANATIONS = {
+  "Citation needed": "Article has unsourced statements. Adding a citation from a reliable source helps readers verify this information.",
+  "Cn": "Alias for Citation needed — article has unsourced statements.",
+  "Fact": "Alias for Citation needed — article has unsourced statements.",
+  "Cite": "Alias for Citation needed — article has unsourced statements.",
+  "Refimprove": "Article needs more references to reliable sources for verification of existing content.",
+  "Sources": "Alias for Refimprove — article needs more references.",
+  "Cites": "Alias for Refimprove — article needs more references.",
+  "Primary sources": "Article relies heavily on primary sources. Adding secondary sources (analysis, commentary, review) would strengthen it.",
+  "Primarysources": "Alias for Primary sources — article relies on primary sources.",
+  "Better source needed": "A cited source is of low quality or reliability. A more authoritative source would improve this claim.",
+  "Bsn": "Alias for Better source needed — a cited source needs upgrading.",
+  "Technical": "Article may be too technical for a general audience. Introductory explanation or simpler analogies would help.",
+  "Too technical": "Alias for Technical — article may be too technical for a general audience.",
+  "Missing information": "Article is missing important information on a specific subtopic.",
+  "Expand section": "A section of this article needs expansion. Existing content may be a stub or incomplete.",
+  "Gap": "Article has a known coverage gap — a subtopic is missing entirely.",
+  "Unreferenced section": "A section of this article has no references at all. Sources are needed for verification.",
+  "Urs": "Alias for Unreferenced section — a section has no references.",
+  "Scientific verification": "Article needs verification of scientific or technical claims. Course materials can provide reliable sources.",
+  "Verify": "Some information in this article may be inaccurate or needs verification.",
+  "Image requested": "This article would benefit from an illustration. Check the talk page for specific requests.",
+  "Needs image": "Alias for Image requested — article needs an illustration.",
+  "Diagram needed": "Article needs a diagram or schematic to explain a concept or process.",
+  "Needs diagram": "Alias for Diagram needed — article needs a schematic.",
+  "Video requested": "Article would benefit from video content showing a process or demonstration.",
+  "Needs video": "Alias for Video requested — article needs video content.",
+};
 
 // ─── Data ───
 var DATA = null;
@@ -568,31 +694,110 @@ function showDetail(titleOrArticle){
   var q = getQuality(d);
   document.getElementById('pt').textContent = d.title;
   var html = '';
+
+  // Top metadata bar
+  html += '<div style="margin-bottom:.8rem">';
   html += '<span class="ql tt-q-' + q + '">' + q + '</span> ';
-  html += '<span class="im">' + d.importance + '</span> importance<br>';
-  html += '<span class="vv">' + fmtViews(d.views) + ' views</span>';
-  if(d.templates.length){
-    html += '<div style="margin:.6rem 0"><strong>Templates:</strong><br>' + d.templates.map(function(t){return '<span class="pil">' + t + '</span>'}).join(' ') + '</div>';
+  html += '<span class="im" style="font-size:.82rem">' + d.importance + '</span>';
+  if(d.views) html += ' <span class="vv">· ' + fmtViews(d.views) + ' views</span>';
+  html += '</div>';
+  if(d.short_desc){
+    html += '<p style="margin:0 0 .6rem;font-size:.82rem;color:#555;line-height:1.4">' + d.short_desc + '</p>';
   }
-  if(d.courses && d.courses.length){
-    html += '<div style="margin:.6rem 0"><strong>OCW courses with matches:</strong><br>';
-    d.courses.forEach(function(c,ci){
-      html += '<span class="pil" style="background:#2563eb;color:#fff">' + c + '</span> ';
-    });
-    html += '</div>';
-    html += '<div style="margin:.6rem 0;font-size:.78rem"><strong>Lectures:</strong><br>';
-    d.lectures.forEach(function(l){
-      html += '&bull; ' + l + '<br>';
-    });
-    html += '</div>';
+  if(d.touched || d.page_len){
+    html += '<p style="margin:0 0 .8rem;font-size:.75rem;color:#888">';
+    if(d.touched) html += 'Last edit: ' + d.touched;
+    if(d.page_len) html += (d.touched ? ' · ' : '') + (d.page_len/1024).toFixed(1) + ' KB';
+    html += '</p>';
   }
   if(d.quality !== getQuality(d)){
     html += '<div style="margin:.6rem 0;font-size:.75rem;color:#888">⚠ Predicted quality differs from assessed (' + d.quality + ').</div>';
   }
+
+  // Quality gap indicator
+  var qualitySteps = ['Stub','Start','C','B','GA','FA'];
+  var qi = qualitySteps.indexOf(q);
+  if(qi >= 0 && qi < qualitySteps.length - 1){
+    html += '<div style="margin:.6rem 0 .8rem;font-size:.78rem">';
+    html += '<span style="color:#888">Next: </span>';
+    html += '<span style="font-weight:600;color:#2563eb">' + qualitySteps[qi + 1] + '</span>';
+    html += ' <span style="color:#999">(current: ' + q + ')</span>';
+    html += '</div>';
+  }
+
+  // Maintenance templates
+  if(d.templates.length){
+    html += '<div style="border-top:1px solid #e8ecf0;padding-top:.7rem;margin-bottom:.7rem">';
+    html += '<div style="font-weight:600;font-size:.82rem;margin-bottom:.5rem">Maintenance templates</div>';
+    d.templates.forEach(function(t){
+      var tLower = t.toLowerCase();
+      var explanation = TEMPLATE_EXPLANATIONS[t] || TEMPLATE_EXPLANATIONS[tLower] || null;
+      html += '<div style="margin-bottom:.6rem;padding:.6rem;background:#f8f9fa;border-radius:5px;font-size:.78rem">';
+      html += '<div style="font-weight:600;color:#c00;margin-bottom:3px">';
+      html += '<span class="pil" style="background:#e74c3c;color:#fff;font-size:.7rem">' + t + '</span>';
+      html += '</div>';
+      if(explanation){
+        html += '<p style="margin:2px 0;color:#555;line-height:1.4">' + explanation + '</p>';
+      }
+      // Context fetched asynchronously below
+      html += '<div id="ctx-' + t.replace(/\s+/g,'') + '" class="tpl-ctx" style="margin-top:4px;font-size:.75rem;color:#888">';
+      html += 'Loading context...</div>';
+      html += '</div>';
+    });
+    html += '</div>';
+  }
+
+  // Links
+  html += '<div style="border-top:1px solid #e8ecf0;padding-top:.7rem">';
+  html += '<div style="font-weight:600;font-size:.82rem;margin-bottom:.5rem">Actions</div>';
+  html += '<div style="display:flex;gap:8px;flex-wrap:wrap">';
+  html += '<a href="https://en.wikipedia.org/wiki/' + encodeURIComponent(d.title.replace(/ /g,'_')) + '" target="_blank" class="act-link">📄 Read article</a>';
+  html += '<a href="https://en.wikipedia.org/w/index.php?title=' + encodeURIComponent(d.title.replace(/ /g,'_')) + '&action=edit" target="_blank" class="act-link">✏️ Edit page</a>';
+  html += '</div></div>';
+
   document.getElementById('pb').innerHTML = html;
   document.getElementById('panel').className = 'open';
   document.getElementById('overlay').style.display = 'block';
   document.body.style.overflow = 'hidden';
+
+  // Asynchronously fetch and inject wikitext context
+  if(d.templates.length){
+    fetchWikitext(d.title).then(function(wt){
+      if(!wt) return;
+      var parsed = parseWikitextContext(wt, d.templates);
+      // For each template, update the context div
+      d.templates.forEach(function(t){
+        var ctxDiv = document.getElementById('ctx-' + t.replace(/\s+/g,''));
+        if(!ctxDiv) return;
+        var found = parsed.templates.filter(function(pt){
+          return pt.name.toLowerCase() === t.toLowerCase() || pt.name.toLowerCase() === t.toLowerCase().replace(/ /g,'_');
+        });
+        if(found.length === 0){
+          ctxDiv.innerHTML = '<span style="color:#999">Template context unavailable (may be in a complex template structure)</span>';
+          return;
+        }
+        var info = [];
+        found.forEach(function(pt){
+          if(pt.date) info.push('<span style="color:#555">Tagged: ' + pt.date + '</span>');
+          if(pt.section) info.push('<span style="color:#555">Section: ' + pt.section + '</span>');
+          // Context type indicator
+          var ctxLabel = '';
+          if(pt.contextType === 'table') ctxLabel = '⚠ This tag is in a table cell — view the article source to locate it.';
+          else if(pt.contextType === 'infobox') ctxLabel = '⚠ This tag is in an infobox — edit the infobox directly.';
+          else if(pt.contextType === 'footnote') ctxLabel = '⚠ This tag was placed inside a reference — check the article.';
+          else if(pt.contextType === 'blockquote') ctxLabel = '⚠ This tag is inside a quotation — verify against the original source.';
+          else if(pt.contextType === 'minimal') ctxLabel = '⚠ Little surrounding text — the tag may be in a list or nav element.';
+          if(pt.context && pt.contextType === 'inline'){
+            info.push('<span style="color:#555">Possible context:</span>');
+            info.push('<span style="color:#666;font-style:italic;display:block;padding:3px 6px;background:#fff;border-radius:3px;margin:2px 0">"' + pt.context.substring(0, 150) + '..."</span>');
+            info.push('<span style="color:#999;font-size:.7rem">⚠ Best guess — verify against the article source.</span>');
+          }
+          if(ctxLabel) info.push('<span style="color:#c00;font-size:.7rem;display:block;margin-top:2px">' + ctxLabel + '</span>');
+        });
+        ctxDiv.innerHTML = info.join('<br>');
+      });
+    });
+  }
 }
 
 function hideDetail(){
