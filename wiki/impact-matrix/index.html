@@ -49,7 +49,7 @@ h1{font-size:1.4rem;font-weight:700;margin:0 0 .15rem;letter-spacing:-.02em}
 #st strong{color:#1a1a1a}
 
 /* Rank slider */
-#sl{margin-bottom:1rem;background:#fff;border-radius:8px;border:1px solid #e8ecf0;padding:.7rem 1rem}
+#sl{margin-bottom:1rem;background:#fff;border-radius:8px;border:1px solid #e8ecf0;padding:.7rem 1rem;max-width:400px}
 #sl-lab{font-size:.78rem;color:#555;margin-bottom:6px}
 #sl-val{font-weight:600;color:#1a1a1a}
 #sl-max{color:#999;font-size:.7rem}
@@ -154,6 +154,9 @@ h1{font-size:1.4rem;font-weight:700;margin:0 0 .15rem;letter-spacing:-.02em}
     <span class="fp" data-t="Technical" onclick="toggleTemplateFilter('Technical',this)">Technical</span>
     <span class="fp" data-t="Missing information" onclick="toggleTemplateFilter('Missing information',this)">Missing</span>
     <span class="fp" data-t="Primary sources" onclick="toggleTemplateFilter('Primary sources',this)">Sources</span>
+  </div>
+  <div class="fg">
+    <span class="ck"><input type="checkbox" id="hide0tmpl"><label for="hide0tmpl" style="font-size:.75rem;cursor:pointer">Hide 0 templates</label></span>
   </div>
   <input id="fs" type="text" placeholder="Search articles…" oninput="applyFilters()">
 </div>
@@ -305,6 +308,7 @@ function applyFilters(){
     if(templateFilter !== 'all' && a.templates.indexOf(templateFilter) === -1) return false;
     if(search && a.title.toLowerCase().indexOf(search) === -1) return false;
     if(a._idx >= maxRank) return false;
+    if(document.getElementById('hide0tmpl').checked && a.templates.length === 0) return false;
     return true;
   });
 
@@ -331,6 +335,9 @@ function updateChips(qs, im, search){
   }
   if(search){
     chips.push({label:'Search: "' + search + '"', remove:function(){document.getElementById('fs').value='';applyFilters()}});
+  }
+  if(document.getElementById('hide0tmpl').checked){
+    chips.push({label:'No 0 templates', remove:function(){document.getElementById('hide0tmpl').checked=false;applyFilters()}});
   }
   var totalArts = articles.length;
   if(maxRank < totalArts){
@@ -372,8 +379,13 @@ function renderScatter(){
   var withViews = filtered.filter(function(d){return d.views > 0});
   var maxViews = d3.max(withViews, function(d){return d.views}) || 1000;
   var minViews = d3.min(withViews, function(d){return d.views}) || 100;
+  // Only use quality classes that have visible articles
+  var visibleQ = QORDER.filter(function(q){
+    var cb = document.querySelector('input[data-q="'+q+'"]');
+    return cb ? cb.checked : true;
+  });
   var x = d3.scalePoint()
-      .domain(QORDER)
+      .domain(visibleQ.length ? visibleQ : QORDER)
       .range([30, iw - 30]);
   var y = d3.scaleLog()
       .domain([Math.max(100, minViews), maxViews * 1.1])
@@ -438,7 +450,7 @@ function renderScatter(){
 
   filtered.forEach(function(d){
     var q = getQuality(d);
-    var xi = x(q) + d._jitterX * (x(QORDER[1]) - x(QORDER[0]));
+    var xi = x(q) + d._jitterX * (x.domain().length > 1 ? (x(x.domain()[1]) - x(x.domain()[0])) : 10);
     // Place articles without pageviews at domain minimum (bottom edge)
     var v = d.views > 0 ? d.views : y.domain()[0];
     var yi = Math.min(ih - 12, Math.max(12, y(v) + d._jitterY * 20));

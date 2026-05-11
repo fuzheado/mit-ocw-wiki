@@ -1,0 +1,38 @@
+uid=4_0 RootWebArea "Contribution Impact Matrix" url="file:///Users/alih/Documents/MIT/opencode-remotetest/wiki/impact-matrix/index.html"
+  uid=4_1 heading "Contribution Impact Matrix" level="1"
+  uid=4_2 StaticText "Explore WikiProject articles by quality, pageviews, importance, and maintenance needs."
+  uid=4_3 textbox "Search WikiProjects…" value="Environment"
+  uid=4_4 StaticText "Assessed"
+  uid=4_5 StaticText "Predicted"
+  uid=4_6 StaticText "Scatter"
+  uid=4_7 StaticText "Table"
+  uid=4_8 StaticText "Quality:"
+  uid=4_9 checkbox checked
+  uid=4_10 StaticText "Stub"
+  uid=4_11 checkbox checked
+  uid=4_12 StaticText "Start"
+  uid=4_13 checkbox checked
+  uid=4_14 StaticText "C"
+  uid=4_15 checkbox checked
+  uid=4_16 StaticText "B"
+  uid=4_17 checkbox checked
+  uid=4_18 StaticText "GA"
+  uid=4_19 checkbox
+  uid=4_20 StaticText "FA"
+  uid=4_21 StaticText "Importance:"
+  uid=4_22 checkbox checked
+  uid=4_23 StaticText "Top"
+  uid=4_24 checkbox checked
+  uid=4_25 StaticText "High"
+  uid=4_26 checkbox checked
+  uid=4_27 StaticText "Mid"
+  uid=4_28 checkbox
+  uid=4_29 StaticText "Low"
+  uid=4_30 StaticText "Templates:"
+  uid=4_31 StaticText "All"
+  uid=4_32 StaticText "Citation"
+  uid=4_33 StaticText "More cites"
+  uid=4_34 StaticText "Refimprove"
+  uid=4_35 textbox "Search articles…"
+  uid=4_36 StaticText "No data for "Environment". Try another project."
+  uid=4_37 StaticText "×"
