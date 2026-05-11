@@ -48,6 +48,15 @@ h1{font-size:1.4rem;font-weight:700;margin:0 0 .15rem;letter-spacing:-.02em}
 #st{margin-bottom:.6rem;display:flex;gap:16px;font-size:.78rem;color:#555;flex-wrap:wrap}
 #st strong{color:#1a1a1a}
 
+/* Rank slider */
+#sl{margin-bottom:1rem;background:#fff;border-radius:8px;border:1px solid #e8ecf0;padding:.7rem 1rem}
+#sl-lab{font-size:.78rem;color:#555;margin-bottom:6px}
+#sl-val{font-weight:600;color:#1a1a1a}
+#sl-max{color:#999;font-size:.7rem}
+#slider{width:100%;height:6px;-webkit-appearance:none;appearance:none;background:#e8ecf0;border-radius:3px;outline:0;cursor:pointer}
+#slider::-webkit-slider-thumb{-webkit-appearance:none;appearance:none;width:16px;height:16px;border-radius:50%;background:#2563eb;cursor:pointer;border:2px solid #fff;box-shadow:0 1px 3px rgba(0,0,0,.2)}
+#slider::-moz-range-thumb{width:16px;height:16px;border-radius:50%;background:#2563eb;cursor:pointer;border:2px solid #fff}
+
 /* Chart container */
 #chart{margin-bottom:1rem;background:#fff;border-radius:8px;border:1px solid #e8ecf0;overflow:hidden}
 #chart svg{display:block;width:100%;height:auto}
@@ -151,6 +160,12 @@ h1{font-size:1.4rem;font-weight:700;margin:0 0 .15rem;letter-spacing:-.02em}
 
 <div id="st"></div>
 
+<div id="sl">
+  <div id="sl-lab">Show top <span id="sl-val">200</span> articles <span id="sl-max"></span></div>
+  <input id="slider" type="range" min="10" max="1000" value="200" step="10" oninput="updateSlider()">
+  <div id="sl-ticks"></div>
+</div>
+
 <div id="chart"></div>
 <div id="lg"></div>
 <div id="tv"></div>
@@ -159,7 +174,14 @@ h1{font-size:1.4rem;font-weight:700;margin:0 0 .15rem;letter-spacing:-.02em}
 <div id="panel"><div class="ph"><span id="pt"></span><span class="cl" onclick="hideDetail()">&times;</span></div><div id="pb"></div></div>
 
 <script>
-// ─── Quality order ───
+// ─── Rank slider ───
+var maxRank = 200;
+
+function updateSlider(){
+  maxRank = parseInt(document.getElementById('slider').value);
+  document.getElementById('sl-val').textContent = maxRank;
+  applyFilters();
+}
 var QORDER = ["Stub","Start","C","B","GA","FA"];
 var QIDX = {};
 QORDER.forEach(function(q,i){QIDX[q]=i});
@@ -199,6 +221,7 @@ function processData(d){
   var raw = d.articles || [];
   articles = raw.map(function(a,i){
     var seed = hashTitle(a.title || 'unknown');
+    a._idx = i;
     a._jitterX = (seededRand(seed) - 0.5) * 0.3;
     a._jitterY = (seededRand(seed+1) - 0.5) * 0.2;
     var q = a.quality;
@@ -245,7 +268,11 @@ function loadData(raw){
     return a;
   });
   applyFilters();
-  document.getElementById("st").innerHTML = "<strong>" + d.project + "</strong> <span>(" + d.articles.length + " articles, " + d.period + ")</span>";
+  document.getElementById('st').innerHTML = "<strong>" + d.project + "</strong> <span>(" + articles.length + " articles" + (d.source ? ', ' + d.source : '') + ")</span>";
+  // Update slider max to actual article count
+  document.getElementById('slider').max = Math.max(10, articles.length);
+  document.getElementById('sl-max').textContent = '(of ' + articles.length + ')';
+  updateSlider();
 }
 
 // ─── Quality source ───
@@ -277,6 +304,7 @@ function applyFilters(){
     if(!im[a.importance]) return false;
     if(templateFilter !== 'all' && a.templates.indexOf(templateFilter) === -1) return false;
     if(search && a.title.toLowerCase().indexOf(search) === -1) return false;
+    if(a._idx >= maxRank) return false;
     return true;
   });
 
@@ -303,6 +331,10 @@ function updateChips(qs, im, search){
   }
   if(search){
     chips.push({label:'Search: "' + search + '"', remove:function(){document.getElementById('fs').value='';applyFilters()}});
+  }
+  var totalArts = articles.length;
+  if(maxRank < totalArts){
+    chips.push({label:'Top ' + maxRank + ' only', remove:function(){document.getElementById('slider').value=totalArts;updateSlider()}});
   }
   var cdiv = document.getElementById('fc');
   if(chips.length === 0){cdiv.innerHTML='';return}
