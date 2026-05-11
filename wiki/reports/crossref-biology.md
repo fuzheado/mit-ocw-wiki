@@ -9,15 +9,15 @@ Articles in scope: 3
 
 | Article | Views | Quality | Templates | OCW match | Score
 |---------|-------|---------|-----------|-----------|-------
-| [[en:Cell_(biology)|Cell (biology)]] | 95,000 | C | Refimprove | 7.016 (Cell structure) | **77**
-| [[en:Cell_(biology)|Cell (biology)]] | 95,000 | C | Refimprove | 7.012 (Cell biology) | **67**
-| [[en:Cell_(biology)|Cell (biology)]] | 95,000 | C | Refimprove | — | —
+| [[en:Cell_(biology)]] | 95,000 | C | Refimprove | 7.016 (Cell structure) | **77**
+| [[en:Cell_(biology)]] | 95,000 | C | Refimprove | 7.012 (Cell biology) | **67**
+| [[en:Cell_(biology)]] | 95,000 | C | Refimprove | — | —
 
 ## Maintenance templates found
 
 | Template | Articles |
 |----------|----------|
-| `{{tmpl}}` | Cell (biology), DNA replication
+| `{{Refimprove}}` | Cell (biology), DNA replication
 
 ## Score distribution
 
@@ -30,4 +30,4 @@ Articles in scope: 3
 | 80-100 | 0 | 
 
 ---
-_Generated 2026-05-11 03:54 from demo data._
+_Generated 2026-05-11 04:33 from demo data._

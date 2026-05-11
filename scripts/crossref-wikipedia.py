@@ -52,6 +52,8 @@ WIKIPROJECT_DEPT_MAP = {
     "Architecture": ["4", "11"],
     "Music": ["21M"],
     "Earth Science": ["12", "1", "ESD"],
+    "Computer science": ["6", "18"],
+    "Business": ["15", "14"],
 }
 # Source: Wikipedia WikiProject Environment Popular pages (April 2026)
 # OCW course data from hybrid scans
@@ -263,6 +265,102 @@ DEMO_DATA = {
             },
         ],
         "total_views": 8700000,
+        "period": "2026-04-01 to 2026-04-30"
+    },
+    "Computer science": {
+        "articles": [
+            {
+                "title": "Algorithm",
+                "views": 180000,
+                "quality": "C",
+                "importance": "Top",
+                "templates": ["Refimprove"],
+                "ocw_matches": [
+                    {"course": "6.006", "title": "Introduction to Algorithms", "lecture": "Algorithm analysis", "assets": "video+transcript"},
+                    {"course": "6.046J", "title": "Introduction to Algorithms", "lecture": "Advanced algorithms", "assets": "video+transcript"},
+                ]
+            },
+            {
+                "title": "Machine learning",
+                "views": 250000,
+                "quality": "C",
+                "importance": "Top",
+                "templates": ["Citation needed"],
+                "ocw_matches": [
+                    {"course": "6.867", "title": "Machine Learning", "lecture": "Supervised learning", "assets": "video+transcript"},
+                    {"course": "6.7900", "title": "Machine Learning", "lecture": "Neural networks", "assets": "video+transcript"},
+                ]
+            },
+            {
+                "title": "Artificial neural network",
+                "views": 95000,
+                "quality": "B",
+                "importance": "High",
+                "templates": ["Refimprove"],
+                "ocw_matches": [
+                    {"course": "6.7960", "title": "Deep Learning", "lecture": "Neural network architectures", "assets": "video+transcript"},
+                ]
+            },
+            {
+                "title": "Computational complexity theory",
+                "views": 35000,
+                "quality": "C",
+                "importance": "High",
+                "templates": ["Citation needed"],
+                "ocw_matches": [
+                    {"course": "6.045J", "title": "Automata, Computability, and Complexity", "lecture": "Complexity classes", "assets": "video+transcript"},
+                ]
+            },
+        ],
+        "total_views": 12000000,
+        "period": "2026-04-01 to 2026-04-30"
+    },
+    "Business": {
+        "articles": [
+            {
+                "title": "Entrepreneurship",
+                "views": 85000,
+                "quality": "C",
+                "importance": "High",
+                "templates": ["Refimprove"],
+                "ocw_matches": [
+                    {"course": "15.390", "title": "New Enterprises", "lecture": "Entrepreneurship fundamentals", "assets": "video+transcript"},
+                ]
+            },
+            {
+                "title": "Supply chain",
+                "views": 45000,
+                "quality": "C",
+                "importance": "High",
+                "templates": ["Missing information"],
+                "ocw_matches": [
+                    {"course": "15.762J", "title": "Supply Chain Planning", "lecture": "Logistics and planning", "assets": "video+transcript"},
+                    {"course": "ESD.273J", "title": "Logistics and Supply Chain Management", "lecture": "Supply chain design", "assets": "lecture-notes"},
+                ]
+            },
+            {
+                "title": "Finance",
+                "views": 200000,
+                "quality": "C",
+                "importance": "Top",
+                "templates": ["Citation needed"],
+                "ocw_matches": [
+                    {"course": "15.401", "title": "Finance Theory I", "lecture": "Corporate finance", "assets": "video+transcript"},
+                    {"course": "15.450", "title": "Analytics of Finance", "lecture": "Financial analytics", "assets": "lecture-notes"},
+                ]
+            },
+            {
+                "title": "Marketing",
+                "views": 72000,
+                "quality": "C",
+                "importance": "High",
+                "templates": ["Refimprove"],
+                "ocw_matches": [
+                    {"course": "15.810", "title": "Marketing Management", "lecture": "Marketing strategy", "assets": "video+transcript"},
+                ]
+            },
+        ],
+        "total_views": 9500000,
         "period": "2026-04-01 to 2026-04-30"
     }
 }

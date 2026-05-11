@@ -9,19 +9,19 @@ Articles in scope: 3
 
 | Article | Views | Quality | Templates | OCW match | Score
 |---------|-------|---------|-----------|-----------|-------
-| [[en:Chemical_bond|Chemical bond]] | 85,000 | C | Refimprove | 5.111SC (Chemical bonding overview) | **77**
-| [[en:Chemical_bond|Chemical bond]] | 85,000 | C | Refimprove | 5.112 (Ionic and covalent bonds) | **67**
-| [[en:Chemical_bond|Chemical bond]] | 85,000 | C | Refimprove | — | —
-| [[en:Electron_configuration|Electron configuration]] | 42,000 | Start | Missing information | 5.111SC (Electron configurations) | **79**
-| [[en:Electron_configuration|Electron configuration]] | 42,000 | Start | Missing information | — | —
+| [[en:Chemical_bond]] | 85,000 | C | Refimprove | 5.111SC (Chemical bonding overview) | **77**
+| [[en:Chemical_bond]] | 85,000 | C | Refimprove | 5.112 (Ionic and covalent bonds) | **67**
+| [[en:Chemical_bond]] | 85,000 | C | Refimprove | — | —
+| [[en:Electron_configuration]] | 42,000 | Start | Missing information | 5.111SC (Electron configurations) | **79**
+| [[en:Electron_configuration]] | 42,000 | Start | Missing information | — | —
 
 ## Maintenance templates found
 
 | Template | Articles |
 |----------|----------|
-| `{{tmpl}}` | VSEPR theory
-| `{{tmpl}}` | Electron configuration
-| `{{tmpl}}` | Chemical bond
+| `{{Image requested}}` | VSEPR theory
+| `{{Missing information}}` | Electron configuration
+| `{{Refimprove}}` | Chemical bond
 
 ## Score distribution
 
@@ -34,4 +34,4 @@ Articles in scope: 3
 | 80-100 | 0 | 
 
 ---
-_Generated 2026-05-11 03:54 from demo data._
+_Generated 2026-05-11 04:33 from demo data._
