@@ -43,7 +43,7 @@ def get_historical_views(article_title, start_date, end_date, project='en.wikipe
     article_title: Use underscores (e.g., 'Albert_Einstein')
     dates: 'YYYYMMDD' format
     """
-    headers = {'User-Agent': 'OpenCodeAgent/1.0 (Direct Database Integration)'}
+    headers = {'User-Agent': 'MIT OCW Bot/1.0 (https://meta.wikimedia.org/wiki/Wiki_MIT; andrew.lih@gmail.com) ContentGapResearch'}
     url = f"https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/{project}/all-access/all-agents/{article_title}/daily/{start_date}/{end_date}"
     
     response = requests.get(url, headers=headers)

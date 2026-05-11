@@ -19,6 +19,8 @@ from urllib.request import Request, urlopen
 import pymysql
 from dotenv import load_dotenv
 
+UA = 'MIT OCW Bot/1.0 (https://meta.wikimedia.org/wiki/Wiki_MIT; andrew.lih@gmail.com) ContentGapResearch'
+
 load_dotenv(dotenv_path=Path('.env'))
 # Debug: verify credentials loaded
 _user = os.getenv("TOOLFORGE_USER")
@@ -139,7 +141,7 @@ def query_articles(project, limit=500):
 
 def enrich_pageviews(articles, period="20260401/20260430"):
     """Fetch monthly pageviews from the REST API for each article."""
-    headers = {'User-Agent': 'MIT-OCW-Wiki/1.0 (research; impact-matrix)'}
+    headers = {'User-Agent': UA}
     for a in articles:
         t = a['title']
         url = f"https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/all-agents/{t}/monthly/2026010100/2026050100"
