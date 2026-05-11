@@ -9,6 +9,7 @@ Two modes:
 
 Usage:
     python3 scripts/crossref-wikipedia.py --report --demo
+    python3 scripts/crossref-wikipedia.py --report --demo --top 50
     python3 scripts/crossref-wikipedia.py --report --project Chemistry
     python3 scripts/crossref-wikipedia.py --apply --project Chemistry
 """
@@ -299,7 +300,7 @@ def score_match(article: dict, match: dict) -> int:
     return min(score, 100)
 
 
-def generate_summary():
+def generate_summary(top_n=10):
     """Layer 1: Executive summary report."""
     total_courses = set()
     total_matches = 0
@@ -328,11 +329,11 @@ def generate_summary():
     lines.append(f"Demo based on WikiProject Environment Popular pages data (April 2026).")
     lines.append(f"**{total_matches} candidate matches** across **{len(total_courses)} OCW courses**.")
     lines.append("")
-    lines.append("## Top 10 highest-impact matches")
+    lines.append(f"## Top {min(top_n, len(all_matches))} highest-impact matches")
     lines.append("")
     lines.append("| # | OCW Course | Wikipedia Article | Views | Quality | Importance | Templates | Score")
     lines.append("|---|------------|-------------------|-------|---------|------------|-----------|-------")
-    for i, (s, proj, article, match) in enumerate(all_matches[:10]):
+    for i, (s, proj, article, match) in enumerate(all_matches[:top_n]):
         tmpl = ", ".join(article.get("templates", [])) or "—"
         lines.append(f"| {i+1} | **{match['course']}** | [[en:{article['title'].replace(' ', '_')}|{article['title']}]] | {article['views']:,} | {article['quality']} | {article['importance']} | {tmpl} | **{s}**")
 
@@ -560,10 +561,16 @@ def main():
     REPORT_DIR.mkdir(parents=True, exist_ok=True)
 
     if "--report" in args and "--demo" in args:
-        print("Generating crossref demo reports...")
+        top_n = 10
+        for i, a in enumerate(args):
+            if a == "--top" and i + 1 < len(args):
+                top_n = int(args[i + 1])
+                break
+
+        print(f"Generating crossref demo reports (top {top_n} matches)...")
 
         # Layer 1: Executive summary
-        summary = generate_summary()
+        summary = generate_summary(top_n)
         (REPORT_DIR / "crossref-summary.md").write_text(summary)
         print(f"  wrote {REPORT_DIR / 'crossref-summary.md'}")
 
