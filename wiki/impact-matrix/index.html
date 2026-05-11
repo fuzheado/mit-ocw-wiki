@@ -185,17 +185,27 @@ h1{font-size:1.4rem;font-weight:700;margin:0 0 .15rem;letter-spacing:-.02em}
 // section context, template parameters, and sentence context for each template.
 
 var wikitextCache = {};
+var jsonpCounter = 0;
 
 function fetchWikitext(title){
   if(wikitextCache[title]) return Promise.resolve(wikitextCache[title]);
-  var url = "https://en.wikipedia.org/w/api.php?action=parse&page=" + encodeURIComponent(title) + "&prop=wikitext&format=json&origin=*";
-  return fetch(url)
-    .then(function(r){return r.json()})
-    .then(function(data){
+  return new Promise(function(resolve, reject){
+    var cb = 'wt_cb_' + (jsonpCounter++);
+    var timedOut = false;
+    var timer = setTimeout(function(){ timedOut = true; delete window[cb]; resolve(null); }, 15000);
+    window[cb] = function(data){
+      if(timedOut) return;
+      clearTimeout(timer);
+      delete window[cb];
       var wt = data && data.parse && data.parse.wikitext && data.parse.wikitext['*'] || null;
       wikitextCache[title] = wt;
-      return wt;
-    }).catch(function(){return null});
+      resolve(wt);
+    };
+    var script = document.createElement('script');
+    script.src = "https://en.wikipedia.org/w/api.php?action=parse&page=" + encodeURIComponent(title) + "&prop=wikitext&format=json&callback=" + cb;
+    script.onerror = function(){ if(!timedOut){ clearTimeout(timer); delete window[cb]; resolve(null); }};
+    document.head.appendChild(script);
+  });
 }
 
 function parseWikitextContext(wikitext, templateNames){
