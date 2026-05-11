@@ -85,7 +85,149 @@ TALK_TEMPLATE_TARGETS = (
     'Video_requested', 'Needs_video',
 )
 
-# ─── Query helpers ───
+# ─── Popular pages fetcher ───
+def fetch_popular_pages(project, limit=200):
+    """Fetch and parse a WikiProject's Popular pages table.
+
+    URL pattern: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_{name}/Popular_pages
+
+    The Community Tech bot generates these monthly for ~500 WikiProjects.
+    Each table has exactly 6 columns, always in this order:
+
+      Col 0 — Rank           Plain number (1-indexed within the project)
+      Col 1 — Page title     Wikilink to the article: [[Article name]]
+      Col 2 — Views          External link to pageviews.toolforge.org with FORMATNUM: {views}
+      Col 3 — Daily average  FORMATNUM:{daily_avg}
+      Col 4 — Assessment     Category link: [[:Category:{class}-Class articles|{class}]]
+                              e.g. [[:Category:GA-Class articles|GA]]
+                              Classes: FA, GA, B, C, Start, Stub
+      Col 5 — Importance     Category link: [[:Category:{level}-importance articles|{level}]]
+                              e.g. [[:Category:Top-importance articles|Top]]
+                              Levels: Top, High, Mid, Low
+
+    The table is fetched via action=parse with prop=text (rendered HTML).
+    Parsing HTML rather than wikitext is acceptable here because:
+    - The bot-generated wikitable renders to a stable, predictable HTML structure
+    - Standard MediaWiki wikitable rendering hasn't changed in over a decade
+    - The category-link pattern in the assessment/importance columns is
+      trivially extractable from the rendered <a> tag text
+    - mwparserfromhell was evaluated but adds complexity without benefit
+      for this specific machine-generated table
+
+    Returns: list of dicts with keys: title, views, quality, importance
+             or None if the project has no Popular pages page.
+    """
+    page_title = f"Wikipedia:WikiProject_{project}/Popular_pages"
+    url = f"https://en.wikipedia.org/w/api.php?action=parse&page={page_title}&prop=text&format=json"
+    try:
+        req = Request(url, headers={'User-Agent': UA})
+        data = json.loads(urlopen(req, timeout=10).read())
+        html = data['parse']['text']['*']
+    except Exception:
+        return None
+
+    table_match = re.search(r'<table class="wikitable[^>]*>.*?</table>', html, re.DOTALL)
+    if not table_match:
+        return None
+
+    articles = []
+    rows = re.findall(r'<tr>.*?</tr>', table_match.group(), re.DOTALL)
+    for row in rows[1:]:
+        cells = re.findall(r'<td[^>]*>.*?</td>', row, re.DOTALL)
+        if len(cells) < 6:
+            continue
+        # Cell 1: <a href="/wiki/Article_Name" title="Article Name">Article Name</a>
+        title_match = re.search(r'<a[^>]*>([^<]+)</a>', cells[1])
+        if not title_match:
+            continue
+        title = title_match.group(1).strip()
+        # Cell 2: views (strip HTML, remove commas)
+        views_text = re.sub(r'<[^>]+>', '', cells[2]).strip().replace(',', '')
+        try:
+            views = int(re.search(r'[\d]+', views_text).group())
+        except Exception:
+            views = None
+        # Cell 4: assessment — link text is the class name
+        quality = re.sub(r'<[^>]+>', '', cells[4]).strip()
+        # Cell 5: importance — link text is the level name
+        importance = re.sub(r'<[^>]+>', '', cells[5]).strip()
+
+        if quality not in ('FA', 'GA', 'B', 'C', 'Start', 'Stub', 'List', 'FL', 'A'):
+            quality = None
+        if importance not in ('Top', 'High', 'Mid', 'Low'):
+            importance = None
+
+        articles.append({
+            "title": title,
+            "views": views,
+            "quality": quality,
+            "importance": importance,
+        })
+        if len(articles) >= limit:
+            break
+
+    return articles
+
+
+def get_batch_templates(titles):
+    """Batch-query template data for a list of article titles.
+    
+    Runs two queries per batch of 50:
+      1) Article-body templates (citation needed, refimprove, etc.)
+      2) Talk-page templates (image requested, video needed, etc.)
+    
+    Returns dict mapping title → list of template display names.
+    """
+    if not titles:
+        return {}
+    conn = get_db()
+    result = {}
+    try:
+        for i in range(0, len(titles), 50):
+            batch = titles[i:i+50]
+            ph = ','.join(['%s'] * len(batch))
+            with conn.cursor() as cur:
+                cur.execute("""
+                    SELECT p.page_title,
+                           GROUP_CONCAT(DISTINCT lt.lt_title SEPARATOR ',') AS tmpl
+                    FROM page p
+                    LEFT JOIN templatelinks tlt ON tlt.tl_from = p.page_id
+                    LEFT JOIN linktarget lt ON tlt.tl_target_id = lt.lt_id
+                        AND lt.lt_namespace = 10
+                        AND lt.lt_title IN (""" + ','.join('%s' for _ in TEMPLATE_TARGETS) + """)
+                    WHERE p.page_title IN (""" + ph + """) AND p.page_namespace = 0
+                    GROUP BY p.page_id
+                """, TEMPLATE_TARGETS + tuple(batch))
+                for r in cur.fetchall():
+                    t = val(r['page_title'])
+                    s = val(r['tmpl']) if r['tmpl'] else ''
+                    result[t] = [x.replace('_',' ') for x in s.split(',') if x]
+                
+                cur.execute("""
+                    SELECT p2.page_title,
+                           GROUP_CONCAT(DISTINCT lt.lt_title SEPARATOR ',') AS talk_tmpl
+                    FROM page p2
+                    LEFT JOIN page tp ON tp.page_title = p2.page_title AND tp.page_namespace = 1
+                    LEFT JOIN templatelinks tlt ON tlt.tl_from = tp.page_id
+                    LEFT JOIN linktarget lt ON tlt.tl_target_id = lt.lt_id
+                        AND lt.lt_namespace = 10
+                        AND lt.lt_title IN (""" + ','.join('%s' for _ in TALK_TEMPLATE_TARGETS) + """)
+                    WHERE p2.page_title IN (""" + ph + """) AND p2.page_namespace = 0
+                    GROUP BY p2.page_id
+                """, TALK_TEMPLATE_TARGETS + tuple(batch))
+                for r in cur.fetchall():
+                    t = val(r['page_title'])
+                    s = val(r['talk_tmpl']) if r['talk_tmpl'] else ''
+                    talk_list = [x.replace('_',' ') for x in s.split(',') if x]
+                    if t in result:
+                        result[t].extend(talk_list)
+                    else:
+                        result[t] = talk_list
+    finally:
+        conn.close()
+    return result
+
+
 def query_articles(project, limit=500):
     """Run the killer query for a WikiProject. Returns list of dicts."""
     conn = get_db()
@@ -198,13 +340,24 @@ class ImpactHandler(SimpleHTTPRequestHandler):
         if not ensure_tunnel():
             return {"error": "SSH tunnel could not be established"}
         try:
-            articles = query_articles(project, limit)
-            articles = enrich_pageviews(articles)
+            # Try Popular pages first (has pageviews), fall back to SQL
+            articles = fetch_popular_pages(project, limit)
+            source = "Popular pages"
+            if articles is None:
+                articles = query_articles(project, limit)
+                articles = enrich_pageviews(articles)
+                source = "SQL + REST API"
+            else:
+                # Enrich with template data from SQL
+                titles = [a['title'] for a in articles]
+                tmpl_map = get_batch_templates(titles)
+                for a in articles:
+                    a['templates'] = tmpl_map.get(a['title'], [])
             return {
                 "project": project,
                 "articles": articles,
                 "total": len(articles),
-                "note": "Live data from enwiki_p + REST API pageviews"
+                "source": source
             }
         except Exception as e:
             return {"error": str(e)}
