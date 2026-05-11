@@ -54,9 +54,72 @@ WIKIPROJECT_DEPT_MAP = {
     "Earth Science": ["12", "1", "ESD"],
     "Computer science": ["6", "18"],
     "Business": ["15", "14"],
+    "Aviation": ["16"],
+    "Aerospace": ["16"],
+    "Anthropology": ["21A", "STS"],
+    "Philosophy": ["24", "STS"],
+    "Education": ["CC", "ES"],
+    "Media": ["CMS-W", "MAS", "21A"],
+    "Gender studies": ["WGS", "21A", "STS", "21H", "21L"],
+    "Linguistics": ["21G", "24"],
+    "Engineering": ["2", "3", "6", "10", "16", "22", "ES", "IDS"],
+    "Mathematics": ["18"],
+    "Economics": ["14", "EC", "15"],
+    "Political science": ["17", "STS", "EC"],
+    "Medicine": ["HST", "9", "20", "7"],
 }
 # Source: Wikipedia WikiProject Environment Popular pages (April 2026)
 # OCW course data from hybrid scans
+
+# Wikipedia WikiProject metadata for clickable headers and hover descriptions
+WIKIPROJECT_INFO = {
+    "Environment": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Environment", "desc": "Ecology, climate, conservation, and environmental science"},
+    "Chemistry": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Chemistry", "desc": "Chemical compounds, reactions, periodic table, and chemical principles"},
+    "Physics": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Physics", "desc": "Fundamental physics, mechanics, quantum theory, and physical laws"},
+    "Biology": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Biology", "desc": "Living organisms, genetics, evolution, and biological systems"},
+    "History": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_History", "desc": "World history, historical events, periods, and historiography"},
+    "Nuclear technology": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Nuclear_technology", "desc": "Nuclear energy, weapons, safety, and radioactive materials"},
+    "Energy": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Energy", "desc": "Energy production, renewable sources, power generation, and policy"},
+    "Architecture": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Architecture", "desc": "Buildings, structures, architectural styles, and urban design"},
+    "Music": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Music", "desc": "Musical genres, artists, compositions, and music theory"},
+    "Earth Science": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Earth_science", "desc": "Geology, oceanography, meteorology, and geophysics"},
+    "Computer science": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computer_science", "desc": "Algorithms, programming, computing theory, and software"},
+    "Business": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Business", "desc": "Management, marketing, entrepreneurship, and business topics"},
+    "Aviation": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Aviation", "desc": "Aircraft, airlines, aviation history, and aerospace engineering"},
+    "Aerospace": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Aerospace", "desc": "Spacecraft, satellites, rocketry, and space exploration"},
+    "Anthropology": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Anthropology", "desc": "Human cultures, archaeology, linguistics, and social evolution"},
+    "Philosophy": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Philosophy", "desc": "Ethics, metaphysics, epistemology, logic, and philosophical traditions"},
+    "Education": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Education", "desc": "Education methods, institutions, pedagogy, and learning theory"},
+    "Media": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Media", "desc": "Mass media, journalism, broadcasting, and digital media studies"},
+    "Gender studies": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Gender_studies", "desc": "Gender identity, feminism, masculinity, and queer theory"},
+    "Linguistics": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Linguistics", "desc": "Language structure, syntax, phonology, and language acquisition"},
+    "Engineering": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Engineering", "desc": "Engineering disciplines, methods, and technologies across all fields"},
+    "Mathematics": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics", "desc": "Algebra, geometry, calculus, number theory, and analysis"},
+    "Economics": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Economics", "desc": "Economic theory, markets, finance, and policy analysis"},
+    "Political science": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Political_science", "desc": "Government, policy, international relations, and political theory"},
+    "Medicine": {"url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine", "desc": "Diseases, treatments, anatomy, pharmacology, and clinical practice"},
+}
+
+# OCW department → MIT school for row grouping
+DEPT_SCHOOL = {
+    "1": "Engineering", "2": "Engineering", "3": "Engineering",
+    "6": "Engineering", "10": "Engineering", "16": "Engineering",
+    "20": "Engineering", "22": "Engineering",
+    "ES": "Engineering", "ESD": "Engineering", "IDS": "Engineering",
+    "5": "Science", "7": "Science", "8": "Science", "9": "Science",
+    "12": "Science", "18": "Science",
+    "14": "Humanities, Arts & Social Sciences", "15": "Humanities, Arts & Social Sciences",
+    "17": "Humanities, Arts & Social Sciences", "21A": "Humanities, Arts & Social Sciences",
+    "21G": "Humanities, Arts & Social Sciences", "21H": "Humanities, Arts & Social Sciences",
+    "21L": "Humanities, Arts & Social Sciences", "21M": "Humanities, Arts & Social Sciences",
+    "24": "Humanities, Arts & Social Sciences",
+    "CMS": "Humanities, Arts & Social Sciences", "CMS-W": "Humanities, Arts & Social Sciences",
+    "STS": "Humanities, Arts & Social Sciences", "WGS": "Humanities, Arts & Social Sciences",
+    "4": "Architecture & Planning", "11": "Architecture & Planning",
+    "MAS": "Architecture & Planning",
+    "HST": "Health Sciences & Technology",
+    "CC": "Other", "EC": "Other", "PE": "Other", "SP": "Other",
+}
 
 DEMO_DATA = {
     "Environment": {
@@ -288,7 +351,7 @@ DEMO_DATA = {
                 "templates": ["Citation needed"],
                 "ocw_matches": [
                     {"course": "6.867", "title": "Machine Learning", "lecture": "Supervised learning", "assets": "video+transcript"},
-                    {"course": "6.7900", "title": "Machine Learning", "lecture": "Neural networks", "assets": "video+transcript"},
+                    {"course": "6.7960", "title": "Deep Learning", "lecture": "Neural networks", "assets": "video+transcript"},
                 ]
             },
             {
@@ -362,12 +425,184 @@ DEMO_DATA = {
         ],
         "total_views": 9500000,
         "period": "2026-04-01 to 2026-04-30"
+    },
+    "Aviation": {
+        "articles": [
+            {
+                "title": "Aerodynamics",
+                "views": 55000,
+                "quality": "C",
+                "importance": "High",
+                "templates": ["More citations needed"],
+                "ocw_matches": [
+                    {"course": "16.121", "title": "Analytical Subsonic Aerodynamics", "lecture": "Lift and drag", "assets": "video+transcript"},
+                    {"course": "16.885J", "title": "Aircraft Systems Engineering", "lecture": "Aerodynamics overview", "assets": "lecture-notes"},
+                ]
+            },
+            {
+                "title": "Air traffic control",
+                "views": 42000,
+                "quality": "C",
+                "importance": "High",
+                "templates": ["Refimprove"],
+                "ocw_matches": [
+                    {"course": "16.682", "title": "Technology in Transportation", "lecture": "Air traffic management", "assets": "video+transcript"},
+                ]
+            },
+            {
+                "title": "3D printing",
+                "views": 310000,
+                "quality": "C",
+                "importance": "Mid",
+                "templates": ["Citation needed"],
+                "ocw_matches": [
+                    {"course": "16.810", "title": "Engineering Design and Rapid Prototyping", "lecture": "Rapid prototyping techniques", "assets": "video+transcript"},
+                ]
+            },
+        ],
+        "total_views": 407000,
+        "period": "2026-04-01 to 2026-04-30"
+    },
+    "Mathematics": {
+        "articles": [
+            {
+                "title": "Probability",
+                "views": 180000,
+                "quality": "C",
+                "importance": "Top",
+                "templates": ["More citations needed"],
+                "ocw_matches": [
+                    {"course": "18.600", "title": "Probability and Random Variables", "lecture": "Probability axioms", "assets": "video+transcript"},
+                ]
+            },
+            {
+                "title": "Number theory",
+                "views": 95000,
+                "quality": "C",
+                "importance": "High",
+                "templates": ["Citation needed"],
+                "ocw_matches": [
+                    {"course": "18.785", "title": "Number Theory I", "lecture": "Modular forms", "assets": "video+transcript"},
+                ]
+            },
+            {
+                "title": "Statistics",
+                "views": 220000,
+                "quality": "B",
+                "importance": "Top",
+                "templates": ["More citations needed"],
+                "ocw_matches": [
+                    {"course": "18.465", "title": "Topics in Statistics: Nonparametrics and Robustness", "lecture": "Nonparametric methods", "assets": "lecture-notes"},
+                ]
+            },
+        ],
+        "total_views": 495000,
+        "period": "2026-04-01 to 2026-04-30"
+    },
+    "Philosophy": {
+        "articles": [
+            {
+                "title": "Ethics",
+                "views": 290000,
+                "quality": "B",
+                "importance": "Top",
+                "templates": ["More citations needed"],
+                "ocw_matches": [
+                    {"course": "24.191", "title": "Ethics in Your Life: Being, Thinking, Doing (or Not?)", "lecture": "Moral reasoning", "assets": "video+transcript"},
+                    {"course": "24.00", "title": "Problems of Philosophy", "lecture": "Ethical theories", "assets": "lecture-notes"},
+                ]
+            },
+            {
+                "title": "Feminist theory",
+                "views": 68000,
+                "quality": "C",
+                "importance": "High",
+                "templates": ["Citation needed"],
+                "ocw_matches": [
+                    {"course": "WGS.301J", "title": "Feminist Thought", "lecture": "Feminist epistemologies", "assets": "reading-list"},
+                ]
+            },
+            {
+                "title": "Linguistics",
+                "views": 110000,
+                "quality": "C",
+                "importance": "High",
+                "templates": ["Refimprove"],
+                "ocw_matches": [
+                    {"course": "24.900", "title": "Introduction to Linguistics", "lecture": "Language universals", "assets": "video+transcript"},
+                ]
+            },
+        ],
+        "total_views": 468000,
+        "period": "2026-04-01 to 2026-04-30"
+    },
+    "Medicine": {
+        "articles": [
+            {
+                "title": "Neurophysiology",
+                "views": 48000,
+                "quality": "C",
+                "importance": "High",
+                "templates": ["More citations needed"],
+                "ocw_matches": [
+                    {"course": "9.16", "title": "Cellular Neurophysiology", "lecture": "Ion channels", "assets": "video+transcript"},
+                ]
+            },
+            {
+                "title": "Hearing",
+                "views": 105000,
+                "quality": "C",
+                "importance": "Top",
+                "templates": ["Citation needed"],
+                "ocw_matches": [
+                    {"course": "HST.723J", "title": "Neural Coding and Perception of Sound", "lecture": "Auditory pathways", "assets": "video+transcript"},
+                ]
+            },
+            {
+                "title": "Perception",
+                "views": 135000,
+                "quality": "B",
+                "importance": "High",
+                "templates": ["More citations needed"],
+                "ocw_matches": [
+                    {"course": "9.35", "title": "Sensation And Perception", "lecture": "Visual perception", "assets": "video+transcript"},
+                ]
+            },
+            {
+                "title": "Neuroethics",
+                "views": 22000,
+                "quality": "Start",
+                "importance": "Mid",
+                "templates": ["Expand section"],
+                "ocw_matches": [
+                    {"course": "9.46", "title": "Neuroscience of Morality", "lecture": "Moral cognition", "assets": "lecture-notes"},
+                ]
+            },
+        ],
+        "total_views": 310000,
+        "period": "2026-04-01 to 2026-04-30"
     }
 }
 
 
 def timestamp() -> str:
     return datetime.now().strftime("%Y-%m-%d %H:%M")
+
+
+def course_url(course_id: str) -> str:
+    """Look up the OCW URL for a course by searching wiki pages for its course_id."""
+    courses_dir = WIKI_DIR / "courses"
+    if not courses_dir.exists():
+        return ""
+    for f in courses_dir.iterdir():
+        if not f.name.endswith(".md"):
+            continue
+        content = f.read_text()
+        if re.search(rf'^course_id:\s*"{re.escape(course_id)}"', content, re.M):
+            m = re.search(r'^url:\s*"(.+?)"', content, re.M)
+            if m:
+                return m.group(1)
+    return ""
 
 
 def score_match(article: dict, match: dict) -> int:
@@ -560,7 +795,7 @@ def generate_project_summary(project: str):
 
 
 def generate_heatmap():
-    """Generate an HTML heatmap page using a table layout for guaranteed column alignment."""
+    """Generate an HTML heatmap with grouped rows, sortable columns, sidebar panel, rich tooltips, and search."""
     projects = list(DEMO_DATA.keys())
     depts = sorted(set(
         match["course"].split(".")[0]
@@ -569,9 +804,8 @@ def generate_heatmap():
         for match in article.get("ocw_matches", [])
     ))
 
-    # Build match matrix and detail data
     matrix = {}
-    details = {}  # "dept_project" → list of match descriptions
+    details = {}
     for dept in depts:
         matrix[dept] = {}
         for proj in projects:
@@ -594,11 +828,24 @@ def generate_heatmap():
                     "quality": article["quality"],
                     "importance": article["importance"],
                     "views": article["views"],
-                    "templates": article.get("templates", [])
+                    "templates": article.get("templates", []),
+                    "url": course_url(match["course"])
                 })
 
     max_val = max(matrix[d][p] for d in depts for p in projects) or 1
     details_json = json.dumps(details)
+
+    school_order = ["Engineering", "Science", "Humanities, Arts & Social Sciences",
+                    "Architecture & Planning", "Management",
+                    "Health Sciences & Technology", "Other"]
+    groups = {}
+    for s in school_order:
+        groups[s] = [d for d in depts if DEPT_SCHOOL.get(d) == s]
+    groups = {k: v for k, v in groups.items() if v}
+    ungrouped = [d for d in depts if d not in DEPT_SCHOOL]
+    if ungrouped:
+        groups.setdefault("Other", [])
+        groups["Other"].extend(ungrouped)
 
     def heat_color(t):
         if t <= 0: return "#f5f5f5"
@@ -607,110 +854,384 @@ def generate_heatmap():
         b = min(255, int(255 * (1 - t * 0.15)))
         return f"rgb({r},{g},{b})"
 
-    rows_html = ""
+    def fmt_compact(n):
+        if n >= 1000000:
+            s = f"{n/1000000:.1f}M"
+            return s.replace(".0M", "M")
+        if n >= 1000:
+            s = f"{n/1000:.1f}k"
+            return s.replace(".0k", "k")
+        return str(n)
 
-    # Header row
-    rows_html += "  <tr>\n    <th class='hl'>Department</th>\n"
+    proj_cols = ""
     for p in projects:
-        rows_html += f"    <th class='hc'>{p}</th>\n"
-    rows_html += "  </tr>\n"
+        info = WIKIPROJECT_INFO.get(p, {})
+        url = info.get("url", "#")
+        desc = info.get("desc", "")
+        proj_cols += (
+            f'    <th class="hc" data-proj="{p}" onclick="sortBy(\'{p}\')">\n'
+            f'      <a href="{url}" target="_blank" rel="noopener" class="wpl" title="{desc}">\U0001F310</a>\n'
+            f'      <span class="pn">{p}</span>\n'
+            f'      <span class="sa">\u2195</span>\n'
+            f'    </th>\n'
+        )
 
-    # Data rows
-    for d in depts:
-        name = DEPT_NAMES.get(d, d)
-        rows_html += f"  <tr>\n    <td class='ll'><strong>{d}</strong> <span class='dn'>{name}</span></td>\n"
-        for p in projects:
-            val = matrix.get(d, {}).get(p, 0)
-            if val == 0:
-                rows_html += "    <td class='nc'>—</td>\n"
-            else:
-                bg = heat_color(val / max_val)
+    rows_html = ""
+    for school, dept_list in groups.items():
+        rows_html += (
+            f'  <tr class="gh" data-school="{school}">\n'
+            f'    <td colspan="{len(projects) + 1}">'
+            f'<span class="gs">{school}</span> '
+            f'<span class="gc">({len(dept_list)} dep{"t" if len(dept_list) == 1 else "ts"})</span>'
+            f'</td>\n  </tr>\n'
+        )
+        for d in dept_list:
+            name = DEPT_NAMES.get(d, d)
+            rows_html += (
+                f'  <tr class="dr" data-dept="{d}" data-name="{name}">\n'
+                f'    <td class="ll"><strong>{d}</strong> <span class="dn">{name}</span></td>\n'
+            )
+            for p in projects:
+                val = matrix.get(d, {}).get(p, 0)
                 key = f"{d}_{p}"
-                rows_html += f"    <td class='mc'><span class='bc clickable' style='background:{bg}' onclick='showDetail(\"{key}\")'>{val}<span class='tip'>{d} → {p}: {val} match{'es' if val != 1 else ''}</span></span></td>\n"
-        rows_html += "  </tr>\n"
+                if val == 0:
+                    rows_html += f'    <td class="nc">\u2014</td>\n'
+                else:
+                    bg = heat_color(val / max_val)
+                    items = details.get(key, [])
+                    tip_lines = []
+                    for item in items[:5]:
+                        q = f'<span class="ql ql-{item["quality"]}">{item["quality"]}</span>'
+                        tip_lines.append(
+                            f'<div class="tl">{item["course"]} &middot; '
+                            f'{item["article"]} {q}</div>'
+                        )
+                    if len(items) > 5:
+                        tip_lines.append(
+                            f'<div class="tl tm">+{len(items) - 5} more</div>'
+                        )
+                    tip_html = "".join(tip_lines)
+                    rows_html += (
+                        f'    <td class="mc" data-key="{key}">\n'
+                        f'      <span class="bc clickable" style="background:{bg}" '
+                        f'onclick="showDetail(\'{key}\')">\n'
+                        f'        {val}\n'
+                        f'        <span class="tip">{tip_html}</span>\n'
+                        f'      </span>\n'
+                        f'    </td>\n'
+                    )
+            rows_html += "  </tr>\n"
 
-    # Legend bar
-    legend_parts = "".join(f'<div style="background:{heat_color(i/max_val)}"></div>' for i in range(max_val + 1))
+    legend_parts = "".join(
+        f'<div style="background:{heat_color(i / max_val)}"></div>'
+        for i in range(max_val + 1)
+    )
+
+    school_filters = '<span class="fl" data-sel="1" onclick="filterSchool(\'all\',this)">All</span>'
+    for s in groups:
+        school_filters += (
+            f'<span class="fl" onclick="filterSchool(\'{s}\',this)">{s}</span>'
+        )
 
     return f"""<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>CrossRef Match Heatmap — OCW ↔ Wikipedia</title>
 <style>
-body{{font-family:'Inter','Segoe UI',sans-serif;background:#fafafa;margin:0;padding:2rem}}
-h1{{font-size:1.6rem;font-weight:600;margin-bottom:0.3rem}}
-.s{{color:#888;font-size:0.9rem;margin-bottom:2rem}}
-table{{border-collapse:collapse;width:100%}}
-th,td{{padding:7px 12px;font-size:0.82rem;text-align:center;border-bottom:1px solid #eee}}
-.hl{{text-align:right;font-weight:600;color:#555;font-size:0.72rem;letter-spacing:0.05em;border-bottom:2px solid #ddd;padding-right:16px}}
-.hc{{font-weight:600;color:#555;font-size:0.72rem;letter-spacing:0.05em;border-bottom:2px solid #ddd}}
-.ll{{text-align:right;font-weight:500;color:#333;padding-right:16px;white-space:nowrap}}
-.dn{{font-weight:400;color:#999;font-size:0.75rem}}
-.nc{{color:#ddd}}
-.mc{{text-align:center}}
-.bc{{display:inline-block;height:26px;border-radius:3px;line-height:26px;padding:0 8px;font-size:0.75rem;font-weight:600;color:#fff;position:relative;cursor:default;transition:transform 0.1s,box-shadow 0.1s}}
-.bc:hover{{transform:scale(1.15);box-shadow:0 2px 10px rgba(0,0,0,0.2);z-index:10}}
-.clickable{{cursor:pointer !important}}
-.bc.clickable:active{{transform:scale(0.95)}}
-.tip{{position:absolute;bottom:100%;left:50%;transform:translateX(-50%);background:#333;color:#fff;padding:3px 8px;border-radius:3px;font-size:0.65rem;white-space:nowrap;opacity:0;pointer-events:none;transition:opacity 0.15s;margin-bottom:5px}}
+*{{box-sizing:border-box}}
+body{{font-family:'Inter','Segoe UI',sans-serif;background:#f6f8fa;margin:0;padding:2rem;color:#1a1a1a}}
+h1{{font-size:1.5rem;font-weight:700;margin:0 0 .2rem;letter-spacing:-.02em}}
+.s{{color:#666;font-size:.85rem;margin-bottom:1.5rem}}
+
+/* Search + filters */
+#sb{{display:flex;gap:12px;margin-bottom:1rem;flex-wrap:wrap;align-items:center}}
+#search{{flex:1;min-width:180px;padding:8px 14px;border:1px solid #d0d7de;border-radius:6px;font-size:.85rem;background:#fff}}
+#search:focus{{outline:0;border-color:#2563eb;box-shadow:0 0 0 3px rgba(37,99,235,.15)}}
+#sf{{display:flex;gap:6px;flex-wrap:wrap}}
+.fl{{padding:4px 12px;border-radius:20px;font-size:.78rem;cursor:pointer;color:#555;background:#e8ecf0;transition:all .15s;white-space:nowrap}}
+.fl:hover{{background:#d0d7de}}
+.fl[data-sel="1"]{{background:#2563eb;color:#fff}}
+
+/* Table */
+#ht{{border-collapse:collapse;width:100%;background:#fff;border-radius:8px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.08)}}
+th,td{{padding:6px 8px;font-size:.78rem;text-align:center;border-bottom:1px solid #eee}}
+.hl{{text-align:right;font-weight:600;color:#444;font-size:.7rem;letter-spacing:.04em;border-bottom:2px solid #d0d7de;padding-right:14px;white-space:nowrap}}
+.hc{{font-weight:600;color:#444;font-size:.7rem;letter-spacing:.02em;border-bottom:2px solid #d0d7de;cursor:pointer;user-select:none;white-space:nowrap;position:relative;padding:8px 6px;vertical-align:middle}}
+.hc:hover{{background:#f0f4f8}}
+.wpl{{text-decoration:none;font-size:.85rem;opacity:.5;vertical-align:middle;margin-right:2px}}
+.wpl:hover{{opacity:1}}
+.pn{{vertical-align:middle}}
+.sa{{margin-left:3px;font-size:.6rem;opacity:.3;vertical-align:middle}}
+.hc:hover .sa{{opacity:.7}}
+.ll{{text-align:right;font-weight:500;color:#222;padding-right:14px;white-space:nowrap;vertical-align:middle}}
+.dn{{font-weight:400;color:#999;font-size:.7rem}}
+.nc{{color:#ddd;font-size:.75rem}}
+.mc{{text-align:center;padding:4px 6px;vertical-align:middle}}
+
+/* Cell bubble */
+.bc{{display:inline-flex;align-items:center;justify-content:center;height:26px;min-width:26px;border-radius:4px;padding:0 7px;font-size:.72rem;font-weight:700;color:#fff;position:relative;cursor:default;transition:transform .12s,box-shadow .12s}}
+.bc:hover{{transform:scale(1.2);box-shadow:0 3px 12px rgba(0,0,0,.25);z-index:20}}
+.clickable{{cursor:pointer!important}}
+.bc.clickable:active{{transform:scale(.95)}}
+
+/* Rich tooltip */
+.tip{{position:absolute;bottom:calc(100% + 8px);left:50%;transform:translateX(-50%);background:#1a1a1a;color:#eee;padding:6px 10px;border-radius:5px;font-size:.7rem;white-space:nowrap;opacity:0;pointer-events:none;transition:opacity .15s;margin-bottom:0;line-height:1.5;z-index:100;box-shadow:0 4px 16px rgba(0,0,0,.3);font-weight:400;max-width:360px;white-space:normal}}
+.tip::after{{content:'';position:absolute;top:100%;left:50%;margin-left:-5px;border:5px solid transparent;border-top-color:#1a1a1a}}
 .bc:hover .tip{{opacity:1}}
-.lg{{display:flex;align-items:center;gap:10px;margin-top:2rem;font-size:0.8rem;color:#666}}
-.lb{{display:flex;height:14px;border-radius:3px;overflow:hidden}}
-.lb div{{width:22px}}
-#panel{{margin-top:1.5rem;display:none;background:#fff;border:1px solid #e0e0e0;border-radius:6px;padding:1.2rem 1.5rem}}
-#panel h3{{margin:0 0 0.5rem;font-size:1.1rem}}
-#panel .sub{{color:#888;font-size:0.82rem;margin-bottom:1rem}}
-#panel table{{width:100%;font-size:0.82rem}}
-#panel th{{text-align:left;font-weight:600;color:#555;font-size:0.72rem;letter-spacing:0.04em;border-bottom:2px solid #ddd;padding:6px 8px}}
-#panel td{{padding:6px 8px;vertical-align:top;border-bottom:1px solid #f0f0f0}}
-#panel .close{{float:right;cursor:pointer;color:#aaa;font-size:1.3rem;line-height:1;padding:2px 6px;border-radius:3px}}
-#panel .close:hover{{background:#f0f0f0;color:#333}}
-.ql{{display:inline-block;padding:1px 6px;border-radius:3px;font-size:0.7rem;font-weight:600;color:#fff}}
-.ql-C{{background:#e68a2e}} .ql-B{{background:#5599cc}} .ql-Start{{background:#d45555}} .ql-GA{{background:#5ba85b}}
+.tl{{overflow:hidden;text-overflow:ellipsis}}
+.tm{{color:#888;font-style:italic}}
+
+/* Group header rows */
+.gh td{{background:#f0f4f8;font-size:.75rem;font-weight:600;color:#555;text-align:left;padding:5px 14px;border-bottom:1px solid #d0d7de;letter-spacing:.03em}}
+.gs{{text-transform:uppercase}}
+.gc{{font-weight:400;color:#999;margin-left:6px}}
+
+/* Legend */
+.lg{{display:flex;align-items:center;gap:10px;margin-top:1.2rem;font-size:.78rem;color:#555}}
+.lb{{display:flex;height:12px;border-radius:3px;overflow:hidden}}
+.lb div{{width:24px}}
+
+/* Quality badges */
+.ql{{display:inline-block;padding:1px 6px;border-radius:3px;font-size:.65rem;font-weight:600;color:#fff}}
+.ql-C{{background:#e68a2e}}
+.ql-B{{background:#5599cc}}
+.ql-Start{{background:#d45555}}
+.ql-GA{{background:#5ba85b}}
+.ql-Stub{{background:#aa5533}}
+
+/* Sidebar panel */
+#overlay{{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.35);z-index:200}}
+#panel{{position:fixed;top:0;right:-520px;width:500px;height:100%;background:#fff;box-shadow:-4px 0 24px rgba(0,0,0,.12);z-index:300;transition:right .25s cubic-bezier(.4,0,.2,1);overflow-y:auto;overflow-x:hidden}}
+#panel.panel-open{{right:0}}
+.ph{{display:flex;align-items:center;justify-content:space-between;padding:1rem 1.25rem;border-bottom:1px solid #e8ecf0;position:sticky;top:0;background:#fff;z-index:10}}
+#ptitle{{font-size:1rem;font-weight:600}}
+.close{{cursor:pointer;color:#999;font-size:1.4rem;line-height:1;padding:2px 6px;border-radius:4px;transition:all .1s}}
+.close:hover{{background:#f0f0f0;color:#333}}
+#pbody{{padding:1rem 1.25rem}}
+#pbody .sub{{color:#888;font-size:.82rem;margin-bottom:1rem}}
+
+/* Detail table */
+#dt{{width:100%;font-size:.78rem;border-collapse:collapse}}
+#dt th{{text-align:left;font-weight:600;color:#555;font-size:.68rem;letter-spacing:.04em;border-bottom:2px solid #d0d7de;padding:6px 8px;white-space:nowrap}}
+#dt td{{padding:8px;vertical-align:top;border-bottom:1px solid #f0f0f0}}
+#dt tr:last-child td{{border-bottom:0}}
+.cl{{font-weight:600;color:#2563eb;text-decoration:none}}
+.cl:hover{{text-decoration:underline}}
+.tt{{font-size:.72rem;color:#666}}
+.vv{{font-size:.7rem;color:#888}}
+
+/* Template pills */
+.tc{{max-width:150px}}
+.pill{{display:inline-block;padding:1px 8px;border-radius:10px;font-size:.65rem;background:#e8ecf0;color:#555;margin:1px 2px;white-space:nowrap}}
+.pill:hover{{background:#d0d7de}}
+
+/* Sort arrow active */
+.sa-act{{opacity:1!important;color:#2563eb}}
+
+/* Responsive */
+@media(max-width:768px){{
+body{{padding:1rem}}
+h1{{font-size:1.2rem}}
+#panel{{width:100%;right:-100%}}
+#ht{{font-size:.7rem}}
+th,td{{padding:4px 5px}}
+}}
 </style>
 </head>
 <body>
 <h1>OCW ↔ Wikipedia Match Heatmap</h1>
-<p class="s">{len(depts)} OCW departments × {len(projects)} WikiProjects — click a cell to see course details.</p>
-<table>
-{rows_html}
-</table>
-<div class="lg"><span>Match density:</span><div class="lb">{legend_parts}</div><span>0 → {max_val}</span></div>
+<p class="s">{len(depts)} OCW departments &times; {len(projects)} WikiProjects — click a cell for details.</p>
 
-<div id="panel"></div>
+<div id="sb">
+  <input id="search" type="text" placeholder="Search departments by code or name\u2026" oninput="filterRows()">
+  <div id="sf">{school_filters}</div>
+</div>
+
+<table id="ht">
+  <thead>
+    <tr>
+      <th class="hl">Department</th>
+      {proj_cols}
+    </tr>
+  </thead>
+  <tbody>
+    {rows_html}
+  </tbody>
+</table>
+
+<div class="lg"><span>Match density:</span><div class="lb">{legend_parts}</div><span>0 &rarr; {max_val}</span></div>
+
+<div id="overlay" onclick="hideDetail()"></div>
+<div id="panel">
+  <div class="ph"><span id="ptitle"></span><span class="close" onclick="hideDetail()">&times;</span></div>
+  <div id="pbody"></div>
+</div>
 
 <script>
 var DATA = {details_json};
+var sortState = {{}};
+
+function fmtViews(n) {{
+    if (n >= 1000000) return (n/1000000).toFixed(1).replace('.0','') + 'M';
+    if (n >= 1000) return (n/1000).toFixed(n%1000===0?0:1).replace('.0','') + 'k';
+    return n.toString();
+}}
 
 function showDetail(key) {{
     var items = DATA[key];
     if (!items) return;
     var parts = key.split("_");
     var dept = parts[0], proj = parts.slice(1).join("_");
-    var html = '<div><span class="close" onclick="hideDetail()">&times;</span><h3>Department ' + dept + ' → ' + proj + '</h3>';
-    html += '<p class="sub">' + items.length + ' match' + (items.length !== 1 ? 'es' : '') + '</p>';
-    html += '<table><tr><th>Course</th><th>Wikipedia Article</th><th>Lecture</th><th>Assets</th><th>Quality</th></tr>';
+    document.getElementById('ptitle').textContent = dept + ' \u2192 ' + proj;
+    var html = '<p class="sub">' + items.length + ' match' + (items.length !== 1 ? 'es' : '') + '</p>';
+    html += '<table id="dt"><tr><th>Quality</th><th>Article</th><th>Templates</th><th>Course</th><th>Lecture</th><th>Assets</th></tr>';
     for (var i = 0; i < items.length; i++) {{
         var m = items[i];
-        html += '<tr><td><strong>' + m.course + '</strong><br><span style="font-size:0.75rem;color:#666">' + m.title + '</span></td>';
-        html += '<td><a href="https://en.wikipedia.org/wiki/' + encodeURIComponent(m.article.replace(/ /g,"_")) + '" target="_blank">' + m.article + '</a><br><span style="font-size:0.72rem;color:#888">' + m.views.toLocaleString() + ' views';
-        if (m.templates.length) html += ' · ' + m.templates.join(", ");
-        html += '</span></td>';
-        html += '<td>' + m.lecture + '</td>';
+        html += '<tr>';
+        html += '<td><span class="ql ql-' + m.quality + '">' + m.quality + '</span></td>';
+        html += '<td><a href="https://en.wikipedia.org/wiki/' + encodeURIComponent(m.article.replace(/ /g,"_")) + '" target="_blank">' + m.article + '</a><br><span class="vv">' + fmtViews(m.views) + ' views</span></td>';
+        html += '<td class="tc">';
+        for (var t = 0; t < m.templates.length; t++) {{
+            html += '<span class="pill">' + m.templates[t] + '</span> ';
+        }}
+        html += '</td>';
+        html += '<td>' + (m.url ? '<a href="' + m.url + '" target="_blank" class="cl">' + m.course + '</a>' : '<strong>' + m.course + '</strong>') + '<br><span class="tt">' + m.title + '</span></td>';
+        html += '<td>' + (m.url ? '<a href="' + m.url + '" target="_blank">' + m.lecture + '</a>' : m.lecture) + '</td>';
         html += '<td>' + m.assets.replace("video+transcript","🎬📄").replace("lecture-notes","📝").replace("reading-list","📚") + '</td>';
-        html += '<td><span class="ql ql-' + m.quality + '">' + m.quality + '</span></td></tr>';
+        html += '</tr>';
     }}
-    html += '</table></div>';
-    document.getElementById('panel').innerHTML = html;
-    document.getElementById('panel').style.display = 'block';
+    html += '</table>';
+    document.getElementById('pbody').innerHTML = html;
+    document.getElementById('panel').className = 'panel-open';
+    document.getElementById('overlay').style.display = 'block';
+    document.body.style.overflow = 'hidden';
 }}
 
 function hideDetail() {{
-    document.getElementById('panel').style.display = 'none';
+    document.getElementById('panel').className = '';
+    document.getElementById('overlay').style.display = 'none';
+    document.body.style.overflow = '';
+}}
+
+// Sort by WikiProject column
+function sortBy(proj) {{
+    var dir = sortState[proj] || 1;
+    dir = -dir;
+    sortState[proj] = dir;
+
+    // Update arrow indicators
+    var arrows = document.querySelectorAll('.hc .sa');
+    for (var a = 0; a < arrows.length; a++) arrows[a].className = 'sa';
+    var th = document.querySelector('th[data-proj="' + proj + '"]');
+    if (th) {{
+        var arrow = th.querySelector('.sa');
+        if (arrow) {{
+            arrow.className = 'sa sa-act';
+            arrow.textContent = dir === 1 ? '\u2193' : '\u2191';
+        }}
+    }}
+
+    var colIdx = -1;
+    var ths = document.querySelectorAll('#ht thead th');
+    for (var i = 0; i < ths.length; i++) {{
+        if (ths[i].getAttribute('data-proj') === proj) {{
+            colIdx = i;
+            break;
+        }}
+    }}
+    if (colIdx < 0) return;
+
+    var tbody = document.querySelector('#ht tbody');
+    var groups = [];
+    var current = null;
+    for (var i = 0; i < tbody.children.length; i++) {{
+        var row = tbody.children[i];
+        if (row.classList.contains('gh')) {{
+            current = {{header: row, rows: []}};
+            groups.push(current);
+        }} else if (row.classList.contains('dr') && current) {{
+            current.rows.push(row);
+        }}
+    }}
+
+    for (var g = 0; g < groups.length; g++) {{
+        var grp = groups[g];
+        var rows = grp.rows;
+        if (rows.length < 2) continue;
+        rows.sort(function(a, b) {{
+            var va = parseInt(a.cells[colIdx].textContent) || 0;
+            var vb = parseInt(b.cells[colIdx].textContent) || 0;
+            return (va - vb) * dir;
+        }});
+        var ref = grp.header;
+        for (var r = 0; r < rows.length; r++) {{
+            tbody.insertBefore(rows[r], ref.nextSibling);
+            ref = rows[r];
+        }}
+    }}
+}}
+
+// Search filter
+function filterRows() {{
+    var q = document.getElementById('search').value.toLowerCase();
+    var rows = document.querySelectorAll('.dr');
+    for (var i = 0; i < rows.length; i++) {{
+        var dept = rows[i].getAttribute('data-dept').toLowerCase();
+        var name = rows[i].getAttribute('data-name').toLowerCase();
+        rows[i].style.display = (dept.indexOf(q) > -1 || name.indexOf(q) > -1) ? '' : 'none';
+    }}
+    // Hide group headers with no visible children
+    var groups = document.querySelectorAll('.gh');
+    for (var g = 0; g < groups.length; g++) {{
+        var next = groups[g].nextElementSibling;
+        var visible = 0;
+        while (next && !next.classList.contains('gh')) {{
+            if (next.style.display !== 'none') visible++;
+            next = next.nextElementSibling;
+        }}
+        groups[g].style.display = visible > 0 ? '' : 'none';
+    }}
+}}
+
+// School filter
+function filterSchool(school, el) {{
+    var filters = document.querySelectorAll('.fl');
+    for (var f = 0; f < filters.length; f++) filters[f].removeAttribute('data-sel');
+    if (el) el.setAttribute('data-sel', '1');
+
+    if (school === 'all') {{
+        var rows = document.querySelectorAll('.dr');
+        for (var i = 0; i < rows.length; i++) rows[i].style.display = '';
+        var groups = document.querySelectorAll('.gh');
+        for (var g = 0; g < groups.length; g++) groups[g].style.display = '';
+        document.getElementById('search').value = '';
+        return;
+    }}
+    document.getElementById('search').value = '';
+    var groups = document.querySelectorAll('.gh');
+    for (var g = 0; g < groups.length; g++) {{
+        var header = groups[g];
+        if (header.getAttribute('data-school') === school) {{
+            header.style.display = '';
+            var next = header.nextElementSibling;
+            while (next && !next.classList.contains('gh')) {{
+                if (next.classList.contains('dr')) next.style.display = '';
+                next = next.nextElementSibling;
+            }}
+        }} else {{
+            header.style.display = 'none';
+            var next = header.nextElementSibling;
+            while (next && !next.classList.contains('gh')) {{
+                if (next.classList.contains('dr')) next.style.display = 'none';
+                next = next.nextElementSibling;
+            }}
+        }}
+    }}
 }}
 </script>
-<p style="margin-top:1.5rem;color:#888;font-size:0.8rem">Click a numbered cell to see course details. Generated {timestamp()}.</p>
+<p style="margin-top:1.2rem;color:#888;font-size:.78rem">Click a numbered cell to see course details. Generated {timestamp()}.</p>
 </body>
 </html>"""
 

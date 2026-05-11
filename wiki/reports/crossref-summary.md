@@ -3,9 +3,9 @@
 # Wikipedia CrossRef: Summary Report
 
 Demo based on WikiProject Environment Popular pages data (April 2026).
-**42 candidate matches** across **32 OCW courses**.
+**57 candidate matches** across **46 OCW courses**.
 
-## Top 42 highest-impact matches
+## Top 10 highest-impact matches
 
 | # | OCW Course | Wikipedia Article | Views | Quality | Importance | Templates | Score
 |---|------------|-------------------|-------|---------|------------|-----------|-------
@@ -13,44 +13,12 @@ Demo based on WikiProject Environment Popular pages data (April 2026).
 | 2 | **6.006** | [[en:Algorithm]] | 180,000 | C | Top | Refimprove | **85**
 | 3 | **6.046J** | [[en:Algorithm]] | 180,000 | C | Top | Refimprove | **85**
 | 4 | **6.867** | [[en:Machine_learning]] | 250,000 | C | Top | Citation needed | **85**
-| 5 | **6.7900** | [[en:Machine_learning]] | 250,000 | C | Top | Citation needed | **85**
+| 5 | **6.7960** | [[en:Machine_learning]] | 250,000 | C | Top | Citation needed | **85**
 | 6 | **15.401** | [[en:Finance]] | 200,000 | C | Top | Citation needed | **85**
-| 7 | **5.111SC** | [[en:Electron_configuration]] | 42,000 | Start | High | Missing information | **79**
-| 8 | **22.033** | [[en:Nuclear_weapon]] | 95,651 | C | High | Citation needed, More citations needed | **77**
-| 9 | **22.081J** | [[en:Petroleum]] | 75,490 | C | High | Refimprove | **77**
-| 10 | **12.340** | [[en:Petroleum]] | 75,490 | C | High | Refimprove | **77**
-| 11 | **12.307** | [[en:El_Niño–Southern_Oscillation]] | 74,966 | C | High | Missing information | **77**
-| 12 | **5.111SC** | [[en:Chemical_bond]] | 85,000 | C | High | Refimprove | **77**
-| 13 | **7.016** | [[en:Cell_(biology)]] | 95,000 | C | High | Refimprove | **77**
-| 14 | **15.390** | [[en:Entrepreneurship]] | 85,000 | C | High | Refimprove | **77**
-| 15 | **15.810** | [[en:Marketing]] | 72,000 | C | High | Refimprove | **77**
-| 16 | **15.450** | [[en:Finance]] | 200,000 | C | Top | Citation needed | **75**
-| 17 | **5.111SC** | [[en:Carbon_dioxide]] | 37,300 | C | High | Refimprove | **74**
-| 18 | **12.340** | [[en:Carbon_dioxide]] | 37,300 | C | High | Refimprove | **74**
-| 19 | **22.091** | [[en:Chernobyl_exclusion_zone]] | 48,144 | C | High | Citation needed | **74**
-| 20 | **7.016** | [[en:Extinction]] | 39,794 | C | High | Refimprove | **74**
-| 21 | **14.12** | [[en:Prisoner's_dilemma]] | 39,225 | C | High | Refimprove | **74**
-| 22 | **6.045J** | [[en:Computational_complexity_theory]] | 35,000 | C | High | Citation needed | **74**
-| 23 | **15.762J** | [[en:Supply_chain]] | 45,000 | C | High | Missing information | **74**
-| 24 | **STS.038** | [[en:Nuclear_weapon]] | 95,651 | C | High | Citation needed, More citations needed | **72**
-| 25 | **11.941** | [[en:Earth_Day]] | 291,552 | C | High | More citations needed | **70**
-| 26 | **2.61** | [[en:Petroleum]] | 75,490 | C | High | Refimprove | **67**
-| 27 | **12.800** | [[en:El_Niño–Southern_Oscillation]] | 74,966 | C | High | Missing information | **67**
-| 28 | **1.74** | [[en:Deepwater_Horizon_oil_spill]] | 65,507 | C | High | Missing information | **67**
-| 29 | **1.85** | [[en:Deepwater_Horizon_oil_spill]] | 65,507 | C | High | Missing information | **67**
-| 30 | **5.112** | [[en:Chemical_bond]] | 85,000 | C | High | Refimprove | **67**
-| 31 | **7.012** | [[en:Cell_(biology)]] | 95,000 | C | High | Refimprove | **67**
-| 32 | **7.016** | [[en:DNA_replication]] | 55,000 | B | High | Refimprove | **67**
-| 33 | **6.7960** | [[en:Artificial_neural_network]] | 95,000 | B | High | Refimprove | **67**
-| 34 | **11.165** | [[en:Earth_Day]] | 291,552 | C | High | More citations needed | **65**
-| 35 | **1.74** | [[en:Carbon_dioxide]] | 37,300 | C | High | Refimprove | **64**
-| 36 | **22.033** | [[en:Chernobyl_exclusion_zone]] | 48,144 | C | High | Citation needed | **64**
-| 37 | **1.018J** | [[en:Extinction]] | 39,794 | C | High | Refimprove | **64**
-| 38 | **5.111SC** | [[en:VSEPR_theory]] | 32,000 | C | Mid | Image requested | **64**
-| 39 | **ESD.273J** | [[en:Supply_chain]] | 45,000 | C | High | Missing information | **64**
-| 40 | **22.01** | [[en:Breeder_reactor]] | 36,482 | C | Low | Refimprove | **59**
-| 41 | **12.810** | [[en:Atmosphere_of_Earth]] | 58,418 | B | High | — | **57**
-| 42 | **22.033** | [[en:Breeder_reactor]] | 36,482 | C | Low | Refimprove | **49**
+| 7 | **18.600** | [[en:Probability]] | 180,000 | C | Top | More citations needed | **85**
+| 8 | **HST.723J** | [[en:Hearing]] | 105,000 | C | Top | Citation needed | **85**
+| 9 | **24.900** | [[en:Linguistics]] | 110,000 | C | High | Refimprove | **80**
+| 10 | **5.111SC** | [[en:Electron_configuration]] | 42,000 | Start | High | Missing information | **79**
 
 ## By OCW Department
 
@@ -61,21 +29,27 @@ Demo based on WikiProject Environment Popular pages data (April 2026).
 | **12** Earth, Atmos. & Planetary Sci. | 5 | 4 |
 | **14** Economics | 1 | 1 |
 | **15** Management | 5 | 5 |
+| **16** Aero/Astro | 4 | 4 |
+| **18** Mathematics | 3 | 3 |
 | **2** Mechanical Eng. | 1 | 1 |
 | **22** Nuclear Sci. & Eng. | 7 | 5 |
+| **24** Linguistics & Philosophy | 3 | 3 |
 | **5** Chemistry | 5 | 5 |
 | **6** EECS | 6 | 6 |
 | **7** Biology | 4 | 4 |
+| **9** Brain & Cog. Sci. | 3 | 2 |
 | **ESD** Eng. Systems Division | 1 | 1 |
+| **HST** Health Sci. & Tech. | 1 | 1 |
 | **STS** STS | 1 | 1 |
+| **WGS** Women's Studies | 1 | 1 |
 
 ## By Quality Class
 
 | Quality | Matches |
 |---------|---------|
-| Start | 1 |
-| C | 38 |
-| B | 3 |
+| Start | 2 |
+| C | 48 |
+| B | 7 |
 
 ---
-_Report generated 2026-05-11 04:33._
+_Report generated 2026-05-11 08:21._

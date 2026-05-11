@@ -13,7 +13,7 @@ Articles in scope: 4
 | [[en:Algorithm]] | 180,000 | C | Refimprove | 6.046J (Advanced algorithms) | **85**
 | [[en:Algorithm]] | 180,000 | C | Refimprove | — | —
 | [[en:Machine_learning]] | 250,000 | C | Citation needed | 6.867 (Supervised learning) | **85**
-| [[en:Machine_learning]] | 250,000 | C | Citation needed | 6.7900 (Neural networks) | **85**
+| [[en:Machine_learning]] | 250,000 | C | Citation needed | 6.7960 (Neural networks) | **85**
 | [[en:Machine_learning]] | 250,000 | C | Citation needed | — | —
 | [[en:Computational_complexity_theory]] | 35,000 | C | Citation needed | 6.045J (Complexity classes) | **74**
 | [[en:Computational_complexity_theory]] | 35,000 | C | Citation needed | — | —
@@ -36,4 +36,4 @@ Articles in scope: 4
 | 80-100 | 4 | ██████████████████████████████
 
 ---
-_Generated 2026-05-11 04:33 from demo data._
+_Generated 2026-05-11 08:21 from demo data._
