@@ -194,6 +194,79 @@ This mapping means we never do freeform Wikipedia searches — we start from the
 
 **Cross-WikiProject matches.** Some articles appear in multiple WikiProjects (e.g., "Chernobyl disaster" appears in Environment, Ukraine, Nuclear technology, History). These cross-cutting matches suggest topics where OCW has material that could serve multiple Wikipedia communities at once.
 
+## Unified SQL query (the "killer query")
+
+With the three Wikimedia skills providing SSH-tunneled SQL access to the `enwiki_p` replica, a single query replaces the entire multi-stage, multi-API matching process:
+
+| Skill file | What it provides | SQL table |
+|---|---|---|
+| `wikimedia-database` | SSH tunnel → `enwiki_p` connection | — |
+| `wikimedia-page-assessment` | Quality and importance ratings | `page_assessments` + `page_assessments_projects` |
+| `wikimedia-pageviews` | Cached daily average pageviews | `page_props` (propname = `pageview_daily_average`) |
+
+### The unified query
+
+```sql
+SELECT 
+    p.page_title, 
+    pap.pap_project_title AS wikiproject,
+    pa.pa_class, 
+    pa.pa_importance,
+    CAST(pp.pp_value AS UNSIGNED) AS avg_daily_views,
+    GROUP_CONCAT(DISTINCT tlt.tl_title) AS maintenance_templates
+FROM page p
+JOIN page_assessments pa ON pa.pa_page_id = p.page_id
+JOIN page_assessments_projects pap ON pa.pa_project_id = pap.pap_project_id
+LEFT JOIN page_props pp ON p.page_id = pp.pp_page 
+    AND pp.pp_propname = 'pageview_daily_average'
+LEFT JOIN templatelinks tlt ON tlt.tl_from = p.page_id 
+    AND tlt.tl_title IN ('Citation_needed', 'More_citations_needed', 
+                         'Refimprove', 'Missing_information', 'Technical')
+WHERE p.page_namespace = 0
+    AND pap.pap_project_title IN ('Chemistry', 'Physics', 'Environment', 'Biology')
+    AND pa.pa_class IN ('Stub', 'Start', 'C')
+    AND pa.pa_importance IN ('Top', 'High')
+GROUP BY p.page_id
+ORDER BY CAST(pp.pp_value AS UNSIGNED) DESC
+LIMIT 200;
+```
+
+**What it does in one pass:**
+1. Filters articles by WikiProject membership (replace the `IN (...)` list with the project(s) matching an OCW topic)
+2. Restricts to quality gaps — Stub, Start, or C-class only (ignoring FA/GA/B)
+3. Keeps only Top or High importance articles
+4. Includes cached average daily pageviews for ranking
+5. Flags which maintenance templates are present
+6. Returns results sorted by popularity descending
+
+**Without the SQL tunnel**, achieving the same result requires:
+- One `list=embeddedin` API call per template (paginated, 500 results max per call)
+- One `prop=pageassessments` API call per article (or batch of 50)
+- External pageview lookup via REST API (one call per article)
+- Client-side joining of all results
+
+**With the SQL tunnel**, it's one connection, one query, one result set — all in under a second.
+
+### How the crossref script uses it
+
+The `scripts/crossref-wikipedia.py` script follows this flow:
+
+1. **Connect** via SSH tunnel using the `wikimedia-database` skill pattern
+2. **For each OCW topic being matched**, look up the corresponding WikiProject name(s) from a mapping table
+3. **Run the unified query** parameterized by WikiProject name
+4. **For each result row**, compute a match score against the OCW course's lecture titles and assets
+5. **Generate output:**
+   - Wikipedia Bridge section on the course page with `{{cite web}}` templates
+   - `wiki/crossrefs/{article-slug}.md` hub pages
+   - Specific edit suggestions where maintenance templates match
+
+### Skill files
+
+The three skills are located at:
+- `.claude/skills/wikimedia-database/SKILL.md` — SSH tunnel setup, connection management, guardrails
+- `.claude/skills/wikimedia-page-assessment/SKILL.md` — `page_assessments` schema, Talk page paradox, multi-project dedup
+- `.claude/skills/wikimedia-pageviews/SKILL.md` — `page_props` for cached averages, REST API for precise historical data
+
 ### Unified scoring model
 
 For each candidate article, compute a match score against each OCW course:
@@ -264,7 +337,11 @@ These pages serve as a "Wikipedia gap map" — they show which articles have the
 ## Implementation considerations
 
 1. **Breadth vs. depth.** 2,573 courses × 5 matches = ~13,000 crossrefs. This is a lot. A quality threshold is needed — only match when relevance is high or maintenance templates are found.
-2. **Wikipedia API rate limits.** The API is public but rate-limited. Use `User-Agent` header, add delays between requests, and consider batching.
-3. **Two-way linking.** Each crossref links both ways: course → Wikipedia AND crossref page → all OCW courses. This builds the "gap map."
-4. **Targeted first pass.** Start with Tier 1 (template index). Use `embeddedin` to find pages with specific templates in OCW's topic areas. These are the highest-ROI matches — a clear action is already requested.
-5. **Script location.** This would be a `scripts/crossref-wikipedia.py` following the same pattern as `scan-assets.py`.
+2. **Two-way linking.** Each crossref links both ways: course → Wikipedia AND crossref page → all OCW courses. This builds the "gap map."
+3. **Targeted first pass.** Start with the unified SQL query against a few WikiProjects that best match OCW's course inventory (Chemistry, Physics, Biology, Environment, History, etc.). These are the highest-ROI matches.
+4. **SQL tunnel prerequisites.** The crossref script requires:
+   - `TOOLFORGE_USER`, `TOOLFORGE_SQL_USER`, `TOOLFORGE_SQL_PASSWORD` in `.env`
+   - SSH keys added to `ssh-agent`
+   - `pymysql` and `python-dotenv` installed
+   - The root-level files `WIKIMEDIA_DATABASE_SKILL.md`, `WIKIMEDIA_PAGE_ASSESSMENT.md`, `WIKIMEDIA_PAGEVIEWS.md` also live as skill files in `.claude/skills/`
+5. **Script location.** This would be a `scripts/crossref-wikipedia.py` following the same pattern as `scan-assets.py`. Read the skill files for SQL patterns before running.

@@ -53,6 +53,9 @@ Detailed skill files live in `.claude/skills/<name>/SKILL.md`. **Read the skill 
 | **ingest** | `.claude/skills/ingest/SKILL.md` | Add a source to the wiki — save raw, create summary page, propagate claims, update index and log |
 | **digest** | `.claude/skills/digest/SKILL.md` | Deep-propagate ingested sources across the wiki — update concept/entity pages, flag contradictions, create new pages where warranted |
 | **lint** | `.claude/skills/lint/SKILL.md` | Health-check for contradictions, orphan pages, broken links, stale claims, missing cross-links |
+| **wikimedia-database** | `.claude/skills/wikimedia-database/SKILL.md` | SSH tunnel to Wikimedia database replicas for direct SQL queries (enwiki_p, wikidata, commons) |
+| **wikimedia-page-assessment** | `.claude/skills/wikimedia-page-assessment/SKILL.md` | Query article quality (FA/GA/B/C/Start/Stub) and importance ratings from page_assessments tables |
+| **wikimedia-pageviews** | `.claude/skills/wikimedia-pageviews/SKILL.md` | Retrieve cached pageview averages (via SQL page_props) or precise historical data (via REST API) |
 | **ingest-tweets** | `.claude/skills/ingest-tweets/SKILL.md` | Search Twitter/X for tweets on a topic using browser automation, extract content, and ingest into the wiki |
 | **import-readwise** | `.claude/skills/import-readwise/SKILL.md` | Search and import documents/highlights from Readwise (orchestrator — delegates to fetch skills below) |
 | **fetch-readwise-document** | `.claude/skills/fetch-readwise-document/SKILL.md` | Stream a Reader document into `raw/` without loading the body into context |
@@ -86,6 +89,14 @@ These are abbreviated versions. Read the full skill files for details.
 2. Check OCW-specific: link rot (dead OCW URLs → suggest Wayback Machine), missing Wikipedia Bridges, inconsistent frontmatter
 3. Report findings grouped by category
 4. Append to `wiki/log.md` — `## [YYYY-MM-DD HH:MM] lint | <summary>`
+
+**Cross-reference against Wikipedia (Stage 4):**
+1. Read `CROSSREF-STRATEGY.md` for the full matching strategy
+2. Establish SSH tunnel per `wikimedia-database` skill
+3. For each OCW topic, query matching WikiProject via `page_assessments` and `page_assessments_projects` tables
+4. Filter by quality gaps (Stub/Start/C-class), importance, pageview averages, and maintenance templates
+5. Score candidate articles against OCW course assets and lecture titles
+6. Generate Wikipedia Bridge sections and `wiki/crossrefs/` hub pages
 
 **Ingest tweets:**
 1. Open Twitter/X search via browser automation
