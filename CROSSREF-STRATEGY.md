@@ -132,8 +132,8 @@ Articles in Wikipedia have quality classes on their Talk pages, set by WikiProje
 
 | Class | Meaning | OCW priority |
 |---|---|---|
-| FA / GA | Featured / Good article | Low — already well-sourced |
-| B | Mostly complete | Low — likely has sufficient references |
+| FA / GA | Featured / Good article | Low — but still worth checking for maintenance templates |
+| B | Mostly complete | Medium — may have templates requesting specific improvements |
 | C | Substantial but missing key content | **High** — likely to have templates requesting help |
 | Start | Basic but incomplete | **High** — early stage, needs substantial work |
 | Stub | Very short | **Medium** — may need creation-level help |
@@ -224,7 +224,7 @@ LEFT JOIN templatelinks tlt ON tlt.tl_from = p.page_id
                          'Refimprove', 'Missing_information', 'Technical')
 WHERE p.page_namespace = 0
     AND pap.pap_project_title IN ('Chemistry', 'Physics', 'Environment', 'Biology')
-    AND pa.pa_class IN ('Stub', 'Start', 'C')
+    AND pa.pa_class IN ('Stub', 'Start', 'C', 'B', 'GA')
     AND pa.pa_importance IN ('Top', 'High')
 GROUP BY p.page_id
 ORDER BY CAST(pp.pp_value AS UNSIGNED) DESC
@@ -274,7 +274,7 @@ For each candidate article, compute a match score against each OCW course:
 | Factor | Weight | How to compute |
 |---|---|---|
 | Template match | 30% | Does the Wikipedia article have a maintenance template relevant to the OCW course's topic? |
-| Quality gap | 20% | Is the article C-class or below (higher score for larger gap) |
+| Quality gap | 20% | Is the article C-class or below? (B and GA get partial credit if they have templates) |
 | Page traffic | 15% | Monthly pageviews from Popular pages report |
 | Title similarity | 15% | Overlap between lecture title and article title |
 | Asset richness | 10% | Does the OCW course have video, transcripts, or downloadable diagrams? |
@@ -284,7 +284,7 @@ For each candidate article, compute a match score against each OCW course:
 
 ### Execution order
 
-1. **First pass:** Run Popular pages filtering across WikiProjects matching OCW topics. Identify articles in the high-impact quadrant (high traffic × high importance × low quality × maintenance templates). These are the strongest candidates.
+1. **First pass:** Run Popular pages filtering across WikiProjects matching OCW topics. Identify articles with maintenance templates regardless of quality class — B and GA articles with templates are still viable targets. Prioritize by template count and pageviews.
 2. **Second pass:** Lecture title matching against remaining high-traffic articles.
 3. **Third pass:** Broad topic-based matching for comprehensive coverage.
 

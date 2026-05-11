@@ -275,7 +275,7 @@ def score_match(article: dict, match: dict) -> int:
     """Score a candidate match 0-100."""
     score = 0
     # Quality gap: C or below = good target
-    quality_scores = {"Stub": 30, "Start": 25, "C": 20, "B": 5, "GA": 0, "FA": 0}
+    quality_scores = {"Stub": 30, "Start": 25, "C": 20, "B": 10, "GA": 5, "FA": 0}
     score += quality_scores.get(article["quality"], 0)
     # Importance
     importance_scores = {"Top": 25, "High": 20, "Mid": 10, "Low": 5}
