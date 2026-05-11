@@ -461,7 +461,7 @@ def generate_project_summary(project: str):
 
 
 def generate_heatmap():
-    """Generate an interactive HTML heatmap page with D3.js visualization."""
+    """Generate an HTML heatmap page using a table layout for guaranteed column alignment."""
     projects = list(DEMO_DATA.keys())
     depts = sorted(set(
         match["course"].split(".")[0]
@@ -486,33 +486,36 @@ def generate_heatmap():
 
     max_val = max(matrix[d][p] for d in depts for p in projects) or 1
 
-    # Build data arrays for D3
-    dept_list = []
+    def heat_color(t):
+        if t <= 0: return "#f5f5f5"
+        r = min(255, int(255 * (1 - t * 0.85)))
+        g = min(255, int(255 * (1 - t * 0.45)))
+        b = min(255, int(255 * (1 - t * 0.15)))
+        return f"rgb({r},{g},{b})"
+
+    rows_html = ""
+
+    # Header row
+    rows_html += "  <tr>\n    <th class='hl'>Department</th>\n"
+    for p in projects:
+        rows_html += f"    <th class='hc'>{p}</th>\n"
+    rows_html += "  </tr>\n"
+
+    # Data rows
     for d in depts:
-        dept_list.append({
-            "id": d,
-            "name": DEPT_NAMES.get(d, d)
-        })
+        name = DEPT_NAMES.get(d, d)
+        rows_html += f"  <tr>\n    <td class='ll'><strong>{d}</strong> <span class='dn'>{name}</span></td>\n"
+        for p in projects:
+            val = matrix.get(d, {}).get(p, 0)
+            if val == 0:
+                rows_html += "    <td class='nc'>—</td>\n"
+            else:
+                bg = heat_color(val / max_val)
+                rows_html += f"    <td class='mc'><span class='bc' style='background:{bg}'>{val}<span class='tip'>{d} → {p}: {val} match{'es' if val != 1 else ''}</span></span></td>\n"
+        rows_html += "  </tr>\n"
 
-    proj_list = [{"id": p, "name": f"WikiProject {p}"} for p in projects]
-
-    cells = []
-    for di, d in enumerate(depts):
-        for pi, p in enumerate(projects):
-            val = matrix[d][p]
-            if val > 0:
-                cells.append({
-                    "deptIdx": di,
-                    "projIdx": pi,
-                    "value": val,
-                    "deptName": DEPT_NAMES.get(d, d)
-                })
-
-    data_json = json.dumps({
-        "departments": dept_list,
-        "wikiprojects": proj_list,
-        "cells": cells
-    })
+    # Legend bar
+    legend_parts = "".join(f'<div style="background:{heat_color(i/max_val)}"></div>' for i in range(max_val + 1))
 
     return f"""<!doctype html>
 <html lang="en">
@@ -520,73 +523,36 @@ def generate_heatmap():
 <meta charset="utf-8">
 <title>CrossRef Match Heatmap — OCW ↔ Wikipedia</title>
 <style>
-body {{ font-family: 'Inter', 'Segoe UI', sans-serif; background: #fafafa; margin: 0; padding: 2rem; }}
-h1 {{ font-size: 1.6rem; font-weight: 600; margin-bottom: 0.3rem; }}
-.subtitle {{ color: #888; font-size: 0.9rem; margin-bottom: 2rem; }}
-#heatmap {{ display: flex; flex-direction: column; gap: 3px; }}
-.row {{ display: flex; align-items: center; gap: 8px; }}
-.row-label {{ width: 160px; text-align: right; font-size: 0.8rem; font-weight: 500; color: #333; padding-right: 8px; flex-shrink: 0; }}
-.cell {{ height: 28px; border-radius: 3px; display: flex; align-items: center; justify-content: center; font-size: 0.75rem; font-weight: 600; color: #fff; transition: transform 0.1s, box-shadow 0.1s; cursor: default; min-width: 28px; position: relative; }}
-.cell:hover {{ transform: scale(1.25); box-shadow: 0 2px 12px rgba(0,0,0,0.25); z-index: 10; }}
-.cell.empty {{ background: transparent !important; }}
-.col-headers {{ display: flex; margin-left: 168px; gap: 8px; margin-bottom: 4px; }}
-.col-header {{ min-width: 28px; text-align: center; font-size: 0.7rem; font-weight: 600; color: #666; white-space: nowrap; flex: 1; }}
-.legend {{ display: flex; align-items: center; gap: 8px; margin-top: 2rem; font-size: 0.8rem; color: #666; }}
-.legend-bar {{ display: flex; height: 16px; border-radius: 3px; overflow: hidden; }}
-.legend-bar div {{ width: 24px; }}
-.tooltip {{ position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background: #333; color: #fff; padding: 4px 10px; border-radius: 4px; font-size: 0.7rem; white-space: nowrap; pointer-events: none; opacity: 0; transition: opacity 0.15s; margin-bottom: 4px; }}
-.cell:hover .tooltip {{ opacity: 1; }}
+body{{font-family:'Inter','Segoe UI',sans-serif;background:#fafafa;margin:0;padding:2rem}}
+h1{{font-size:1.6rem;font-weight:600;margin-bottom:0.3rem}}
+.s{{color:#888;font-size:0.9rem;margin-bottom:2rem}}
+table{{border-collapse:collapse;width:100%}}
+th,td{{padding:7px 12px;font-size:0.82rem;text-align:center;border-bottom:1px solid #eee}}
+.hl{{text-align:right;font-weight:600;color:#555;font-size:0.72rem;letter-spacing:0.05em;border-bottom:2px solid #ddd;padding-right:16px}}
+.hc{{font-weight:600;color:#555;font-size:0.72rem;letter-spacing:0.05em;border-bottom:2px solid #ddd}}
+.ll{{text-align:right;font-weight:500;color:#333;padding-right:16px;white-space:nowrap}}
+.dn{{font-weight:400;color:#999;font-size:0.75rem}}
+.nc{{color:#ddd}}
+.mc{{text-align:center}}
+.bc{{display:inline-block;height:26px;border-radius:3px;line-height:26px;padding:0 8px;font-size:0.75rem;font-weight:600;color:#fff;position:relative;cursor:default;transition:transform 0.1s,box-shadow 0.1s}}
+.bc:hover{{transform:scale(1.15);box-shadow:0 2px 10px rgba(0,0,0,0.2);z-index:10}}
+.tip{{position:absolute;bottom:100%;left:50%;transform:translateX(-50%);background:#333;color:#fff;padding:3px 8px;border-radius:3px;font-size:0.65rem;white-space:nowrap;opacity:0;pointer-events:none;transition:opacity 0.15s;margin-bottom:5px}}
+.bc:hover .tip{{opacity:1}}
+.lg{{display:flex;align-items:center;gap:10px;margin-top:2rem;font-size:0.8rem;color:#666}}
+.lb{{display:flex;height:14px;border-radius:3px;overflow:hidden}}
+.lb div{{width:22px}}
 </style>
 </head>
 <body>
 <h1>OCW ↔ Wikipedia Match Heatmap</h1>
-<p class="subtitle">{len(depts)} departments × {len(projects)} WikiProjects — cell color = match density (darker = more OCW courses match that WikiProject)</p>
-
-<div class="col-headers">
-  <div class="col-header" style="min-width:160px;text-align:right;padding-right:8px;"></div>
-  {"".join(f'<div class="col-header">{p[:10]}</div>' for p in projects)}
-</div>
-
-{_render_heatmap_rows(depts, projects, matrix, max_val)}
-
-<div class="legend">
-  <span>Match density:</span>
-  <div class="legend-bar">
-    {''.join(f'<div style="background:{_heat_color(i/max_val)}"></div>' for i in range(max_val + 1))}
-  </div>
-  <span>0 → {max_val}</span>
-</div>
-<p style="margin-top:2rem;color:#888;font-size:0.8rem;">Hover over a cell to see details. Generated {timestamp()}.</p>
+<p class="s">{len(depts)} OCW departments × {len(projects)} WikiProjects — darker cells = more OCW courses matching that WikiProject. Hover for details.</p>
+<table>
+{rows_html}
+</table>
+<div class="lg"><span>Match density:</span><div class="lb">{legend_parts}</div><span>0 → {max_val}</span></div>
+<p style="margin-top:2rem;color:#888;font-size:0.8rem">Generated {timestamp()}</p>
 </body>
 </html>"""
-
-
-def _heat_color(t: float) -> str:
-    """Return a color string for a normalized value 0-1."""
-    if t <= 0:
-        return "#f5f5f5"
-    # Deep blue → teal → yellow gradient
-    r = min(255, int(255 * (1 - t * 0.85)))
-    g = min(255, int(255 * (1 - t * 0.45)))
-    b = min(255, int(255 * (1 - t * 0.15)))
-    return f"rgb({r},{g},{b})"
-
-
-def _render_heatmap_rows(depts, projects, matrix, max_val):
-    rows = []
-    for d in depts:
-        name = DEPT_NAMES.get(d, d)
-        row_label = f"<strong>{d}</strong> {name}"
-        cells_html = ""
-        for p in projects:
-            val = matrix.get(d, {}).get(p, 0)
-            if val == 0:
-                cells_html += '<div class="cell empty" style="min-width:28px;flex:1;"></div>'
-            else:
-                bg = _heat_color(val / max_val)
-                cells_html += f'<div class="cell" style="flex:1;background:{bg};">{val}<div class="tooltip">{d} → {p}: {val} match{"es" if val != 1 else ""}</div></div>'
-        rows.append(f'<div class="row"><div class="row-label">{row_label}</div>{cells_html}</div>')
-    return "\n".join(rows)
 
 
 def main():

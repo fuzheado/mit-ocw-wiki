@@ -4,50 +4,93 @@
 <meta charset="utf-8">
 <title>CrossRef Match Heatmap — OCW ↔ Wikipedia</title>
 <style>
-body { font-family: 'Inter', 'Segoe UI', sans-serif; background: #fafafa; margin: 0; padding: 2rem; }
-h1 { font-size: 1.6rem; font-weight: 600; margin-bottom: 0.3rem; }
-.subtitle { color: #888; font-size: 0.9rem; margin-bottom: 2rem; }
-#heatmap { display: flex; flex-direction: column; gap: 3px; }
-.row { display: flex; align-items: center; gap: 8px; }
-.row-label { width: 160px; text-align: right; font-size: 0.8rem; font-weight: 500; color: #333; padding-right: 8px; flex-shrink: 0; }
-.cell { height: 28px; border-radius: 3px; display: flex; align-items: center; justify-content: center; font-size: 0.75rem; font-weight: 600; color: #fff; transition: transform 0.1s, box-shadow 0.1s; cursor: default; min-width: 28px; position: relative; }
-.cell:hover { transform: scale(1.25); box-shadow: 0 2px 12px rgba(0,0,0,0.25); z-index: 10; }
-.cell.empty { background: transparent !important; }
-.col-headers { display: flex; margin-left: 168px; gap: 8px; margin-bottom: 4px; }
-.col-header { min-width: 28px; text-align: center; font-size: 0.7rem; font-weight: 600; color: #666; white-space: nowrap; flex: 1; }
-.legend { display: flex; align-items: center; gap: 8px; margin-top: 2rem; font-size: 0.8rem; color: #666; }
-.legend-bar { display: flex; height: 16px; border-radius: 3px; overflow: hidden; }
-.legend-bar div { width: 24px; }
-.tooltip { position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background: #333; color: #fff; padding: 4px 10px; border-radius: 4px; font-size: 0.7rem; white-space: nowrap; pointer-events: none; opacity: 0; transition: opacity 0.15s; margin-bottom: 4px; }
-.cell:hover .tooltip { opacity: 1; }
+body{font-family:'Inter','Segoe UI',sans-serif;background:#fafafa;margin:0;padding:2rem}
+h1{font-size:1.6rem;font-weight:600;margin-bottom:0.3rem}
+.s{color:#888;font-size:0.9rem;margin-bottom:2rem}
+table{border-collapse:collapse;width:100%}
+th,td{padding:7px 12px;font-size:0.82rem;text-align:center;border-bottom:1px solid #eee}
+.hl{text-align:right;font-weight:600;color:#555;font-size:0.72rem;letter-spacing:0.05em;border-bottom:2px solid #ddd;padding-right:16px}
+.hc{font-weight:600;color:#555;font-size:0.72rem;letter-spacing:0.05em;border-bottom:2px solid #ddd}
+.ll{text-align:right;font-weight:500;color:#333;padding-right:16px;white-space:nowrap}
+.dn{font-weight:400;color:#999;font-size:0.75rem}
+.nc{color:#ddd}
+.mc{text-align:center}
+.bc{display:inline-block;height:26px;border-radius:3px;line-height:26px;padding:0 8px;font-size:0.75rem;font-weight:600;color:#fff;position:relative;cursor:default;transition:transform 0.1s,box-shadow 0.1s}
+.bc:hover{transform:scale(1.15);box-shadow:0 2px 10px rgba(0,0,0,0.2);z-index:10}
+.tip{position:absolute;bottom:100%;left:50%;transform:translateX(-50%);background:#333;color:#fff;padding:3px 8px;border-radius:3px;font-size:0.65rem;white-space:nowrap;opacity:0;pointer-events:none;transition:opacity 0.15s;margin-bottom:5px}
+.bc:hover .tip{opacity:1}
+.lg{display:flex;align-items:center;gap:10px;margin-top:2rem;font-size:0.8rem;color:#666}
+.lb{display:flex;height:14px;border-radius:3px;overflow:hidden}
+.lb div{width:22px}
 </style>
 </head>
 <body>
 <h1>OCW ↔ Wikipedia Match Heatmap</h1>
-<p class="subtitle">9 departments × 3 WikiProjects — cell color = match density (darker = more OCW courses match that WikiProject)</p>
+<p class="s">9 OCW departments × 3 WikiProjects — darker cells = more OCW courses matching that WikiProject. Hover for details.</p>
+<table>
+  <tr>
+    <th class='hl'>Department</th>
+    <th class='hc'>Environment</th>
+    <th class='hc'>Chemistry</th>
+    <th class='hc'>Biology</th>
+  </tr>
+  <tr>
+    <td class='ll'><strong>1</strong> <span class='dn'>Civil & Env. Eng.</span></td>
+    <td class='mc'><span class='bc' style='background:rgb(131,189,233)'>4<span class='tip'>1 → Environment: 4 matches</span></span></td>
+    <td class='nc'>—</td>
+    <td class='nc'>—</td>
+  </tr>
+  <tr>
+    <td class='ll'><strong>11</strong> <span class='dn'>Urban Studies</span></td>
+    <td class='mc'><span class='bc' style='background:rgb(193,222,244)'>2<span class='tip'>11 → Environment: 2 matches</span></span></td>
+    <td class='nc'>—</td>
+    <td class='nc'>—</td>
+  </tr>
+  <tr>
+    <td class='ll'><strong>12</strong> <span class='dn'>Earth, Atmos. & Planetary Sci.</span></td>
+    <td class='mc'><span class='bc' style='background:rgb(100,173,227)'>5<span class='tip'>12 → Environment: 5 matches</span></span></td>
+    <td class='nc'>—</td>
+    <td class='nc'>—</td>
+  </tr>
+  <tr>
+    <td class='ll'><strong>14</strong> <span class='dn'>Economics</span></td>
+    <td class='mc'><span class='bc' style='background:rgb(224,238,249)'>1<span class='tip'>14 → Environment: 1 match</span></span></td>
+    <td class='nc'>—</td>
+    <td class='nc'>—</td>
+  </tr>
+  <tr>
+    <td class='ll'><strong>2</strong> <span class='dn'>Mechanical Eng.</span></td>
+    <td class='mc'><span class='bc' style='background:rgb(224,238,249)'>1<span class='tip'>2 → Environment: 1 match</span></span></td>
+    <td class='nc'>—</td>
+    <td class='nc'>—</td>
+  </tr>
+  <tr>
+    <td class='ll'><strong>22</strong> <span class='dn'>Nuclear Sci. & Eng.</span></td>
+    <td class='mc'><span class='bc' style='background:rgb(38,140,216)'>7<span class='tip'>22 → Environment: 7 matches</span></span></td>
+    <td class='nc'>—</td>
+    <td class='nc'>—</td>
+  </tr>
+  <tr>
+    <td class='ll'><strong>5</strong> <span class='dn'>Chemistry</span></td>
+    <td class='mc'><span class='bc' style='background:rgb(224,238,249)'>1<span class='tip'>5 → Environment: 1 match</span></span></td>
+    <td class='mc'><span class='bc' style='background:rgb(131,189,233)'>4<span class='tip'>5 → Chemistry: 4 matches</span></span></td>
+    <td class='nc'>—</td>
+  </tr>
+  <tr>
+    <td class='ll'><strong>7</strong> <span class='dn'>Biology</span></td>
+    <td class='mc'><span class='bc' style='background:rgb(224,238,249)'>1<span class='tip'>7 → Environment: 1 match</span></span></td>
+    <td class='nc'>—</td>
+    <td class='mc'><span class='bc' style='background:rgb(162,205,238)'>3<span class='tip'>7 → Biology: 3 matches</span></span></td>
+  </tr>
+  <tr>
+    <td class='ll'><strong>STS</strong> <span class='dn'>STS</span></td>
+    <td class='mc'><span class='bc' style='background:rgb(224,238,249)'>1<span class='tip'>STS → Environment: 1 match</span></span></td>
+    <td class='nc'>—</td>
+    <td class='nc'>—</td>
+  </tr>
 
-<div class="col-headers">
-  <div class="col-header" style="min-width:160px;text-align:right;padding-right:8px;"></div>
-  <div class="col-header">Environmen</div><div class="col-header">Chemistry</div><div class="col-header">Biology</div>
-</div>
-
-<div class="row"><div class="row-label"><strong>1</strong> Civil & Env. Eng.</div><div class="cell" style="flex:1;background:rgb(131,189,233);">4<div class="tooltip">1 → Environment: 4 matches</div></div><div class="cell empty" style="min-width:28px;flex:1;"></div><div class="cell empty" style="min-width:28px;flex:1;"></div></div>
-<div class="row"><div class="row-label"><strong>11</strong> Urban Studies</div><div class="cell" style="flex:1;background:rgb(193,222,244);">2<div class="tooltip">11 → Environment: 2 matches</div></div><div class="cell empty" style="min-width:28px;flex:1;"></div><div class="cell empty" style="min-width:28px;flex:1;"></div></div>
-<div class="row"><div class="row-label"><strong>12</strong> Earth, Atmos. & Planetary Sci.</div><div class="cell" style="flex:1;background:rgb(100,173,227);">5<div class="tooltip">12 → Environment: 5 matches</div></div><div class="cell empty" style="min-width:28px;flex:1;"></div><div class="cell empty" style="min-width:28px;flex:1;"></div></div>
-<div class="row"><div class="row-label"><strong>14</strong> Economics</div><div class="cell" style="flex:1;background:rgb(224,238,249);">1<div class="tooltip">14 → Environment: 1 match</div></div><div class="cell empty" style="min-width:28px;flex:1;"></div><div class="cell empty" style="min-width:28px;flex:1;"></div></div>
-<div class="row"><div class="row-label"><strong>2</strong> Mechanical Eng.</div><div class="cell" style="flex:1;background:rgb(224,238,249);">1<div class="tooltip">2 → Environment: 1 match</div></div><div class="cell empty" style="min-width:28px;flex:1;"></div><div class="cell empty" style="min-width:28px;flex:1;"></div></div>
-<div class="row"><div class="row-label"><strong>22</strong> Nuclear Sci. & Eng.</div><div class="cell" style="flex:1;background:rgb(38,140,216);">7<div class="tooltip">22 → Environment: 7 matches</div></div><div class="cell empty" style="min-width:28px;flex:1;"></div><div class="cell empty" style="min-width:28px;flex:1;"></div></div>
-<div class="row"><div class="row-label"><strong>5</strong> Chemistry</div><div class="cell" style="flex:1;background:rgb(224,238,249);">1<div class="tooltip">5 → Environment: 1 match</div></div><div class="cell" style="flex:1;background:rgb(131,189,233);">4<div class="tooltip">5 → Chemistry: 4 matches</div></div><div class="cell empty" style="min-width:28px;flex:1;"></div></div>
-<div class="row"><div class="row-label"><strong>7</strong> Biology</div><div class="cell" style="flex:1;background:rgb(224,238,249);">1<div class="tooltip">7 → Environment: 1 match</div></div><div class="cell empty" style="min-width:28px;flex:1;"></div><div class="cell" style="flex:1;background:rgb(162,205,238);">3<div class="tooltip">7 → Biology: 3 matches</div></div></div>
-<div class="row"><div class="row-label"><strong>STS</strong> STS</div><div class="cell" style="flex:1;background:rgb(224,238,249);">1<div class="tooltip">STS → Environment: 1 match</div></div><div class="cell empty" style="min-width:28px;flex:1;"></div><div class="cell empty" style="min-width:28px;flex:1;"></div></div>
-
-<div class="legend">
-  <span>Match density:</span>
-  <div class="legend-bar">
-    <div style="background:#f5f5f5"></div><div style="background:rgb(224,238,249)"></div><div style="background:rgb(193,222,244)"></div><div style="background:rgb(162,205,238)"></div><div style="background:rgb(131,189,233)"></div><div style="background:rgb(100,173,227)"></div><div style="background:rgb(69,156,222)"></div><div style="background:rgb(38,140,216)"></div>
-  </div>
-  <span>0 → 7</span>
-</div>
-<p style="margin-top:2rem;color:#888;font-size:0.8rem;">Hover over a cell to see details. Generated 2026-05-11 04:01.</p>
+</table>
+<div class="lg"><span>Match density:</span><div class="lb"><div style="background:#f5f5f5"></div><div style="background:rgb(224,238,249)"></div><div style="background:rgb(193,222,244)"></div><div style="background:rgb(162,205,238)"></div><div style="background:rgb(131,189,233)"></div><div style="background:rgb(100,173,227)"></div><div style="background:rgb(69,156,222)"></div><div style="background:rgb(38,140,216)"></div></div><span>0 → 7</span></div>
+<p style="margin-top:2rem;color:#888;font-size:0.8rem">Generated 2026-05-11 04:05</p>
 </body>
 </html>
