@@ -13,6 +13,48 @@ After hybrid scanning, each course page has rich, structured data:
 - **Asset URLs** — direct links to YouTube, MP4 files, transcripts, OCW pages
 - **Grouped format badges** — 🎬YouTube, 📺OCW, ⬇MP4, 📄Transcript — tells us what media exists for each lecture
 
+## Data sources
+
+### Option A: Wikipedia API (public, no auth)
+
+The MediaWiki API (`api.wikipedia.org`) is fully public. Suitable for term discovery and small-scale matching:
+
+- `list=search` — find articles by keyword (lecture titles)
+- `list=embeddedin` — find pages with specific templates, but requires pagination
+- `prop=info` with `inprop=size` — find short/"thin" articles
+- `prop=pageassessments` — get quality/importance ratings
+
+**Limitation:** Pagination. A single query returns at most 500 results, and finding all "Citation needed" templates across all chemistry articles would require ~10-50 sequential queries.
+
+### Option B: Quarry SQL (faster, requires credentials)
+
+[Quarry](https://meta.wikimedia.org/wiki/Research:Quarry) is a public SQL query service for Wikimedia databases. It runs arbitrary SQL against replicated databases, with results returned as flat tables. No pagination, no rate limits.
+
+**Advantage over the API:** A single SQL query can do what takes 50+ API calls:
+
+```sql
+-- Find all articles in chemistry-related categories
+-- that have maintenance templates AND quality ratings
+SELECT
+  p.page_title,
+  pp.pageview_count,
+  pa.quality_class,
+  pa.importance_class,
+  tl.template_name
+FROM page p
+JOIN categorylinks cl ON cl.cl_from = p.page_id
+JOIN page_assessments pa ON pa.page_id = p.page_id
+LEFT JOIN templatelinks tl ON tl.tl_from = p.page_id
+WHERE cl.cl_to IN ('Chemistry', 'Thermodynamics', 'Chemical_bonding')
+  AND tl.tl_title IN ('Citation_needed', 'Refimprove', 'More_citations_needed')
+  AND pa.quality_class IN ('Stub', 'Start', 'C')
+ORDER BY pa.importance_class DESC, pp.pageview_count DESC;
+```
+
+The example queries at `https://quarry.wmcloud.org/query/105029` show how to generate template usage histograms. The same approach can produce full article lists.
+
+**Requires:** Quarry login credentials (you offered to provide). This is worth it — SQL access replaces the entire API-based template index build.
+
 ## Three target tiers
 
 ### Tier 1: Template-driven gaps
@@ -41,12 +83,17 @@ Highest priority. A Wikipedia article is actively asking for what OCW has.
 | `{{Diagram needed}}` | Talk page | Technical diagrams from course PDFs and slides |
 | `{{Video requested}}` | Talk page | YouTube lecture recordings |
 
-**Approach:**
+**Approach with Quarry (preferred):**
 
-1. **Build a template index.** Use `action=query&list=embeddedin` with each template name to find Wikipedia pages containing maintenance templates, filtered to topic categories matching OCW's hierarchy (110 topics).
-2. **Match templates to OCW courses by topic overlap.** A `{{Missing information}}` tag on a thermodynamics article matches courses with "Thermodynamics" in lecture titles.
-3. **Score by specificity.** A `{{Citation needed}}` tag matched against "Lecture 7: Multielectron Atoms" is a direct, high-value hit. A generic `{{More citations needed}}` template on "Chemistry" is weak.
-4. **Generate specific edit suggestions:** "Add citation from OCW 5.111SC Lecture 7 for the claim about electron shielding effect."
+1. **Run a single SQL query** to get all articles in OCW-relevant categories that have maintenance templates, joined with quality ratings and pageview data.
+2. **Filter by quality** — restrict to Stub/Start/C-class where OCW contributions would have the most impact. Ignore GA/FA articles.
+3. **Filter by template type** — prioritize `{{Missing information}}` and `{{Citation needed}}` over generic templates.
+4. **Match against OCW courses** by topic overlap. A `{{Missing information}}` on a thermodynamics article matches courses with "Thermodynamics" in lecture titles.
+5. **Score by specificity.** A `{{Citation needed}}` tag matched against "Lecture 7: Multielectron Atoms" is a direct, high-value hit.
+6. **Generate specific edit suggestions:** "Add citation from OCW 5.111SC Lecture 7 for the claim about electron shielding effect."
+
+**Approach without Quarry (fallback):**
+Use `action=query&list=embeddedin` with each template name, paginating through results. Then cross-reference with category membership and quality ratings via API calls. Slower but doesn't require credentials.
 
 ### Tier 2: Term-overlap discovery
 
@@ -69,25 +116,75 @@ Broader matches where OCW fills known gaps in Wikipedia's coverage.
 **Approach:**
 
 1. **Compare OCW topic hierarchy to Wikipedia category tree.** Courses in OCW topics with sparse Wikipedia category coverage are candidates for new "Further reading" or "External links" sections.
-2. **Identify "thin" articles.** Use the Web API's `prop=info` with `inprop=size` to find articles below a byte threshold in topic areas where OCW has extensive courses.
+2. **Identify "thin" articles.** Use the Web API's `prop=info` with `inprop=size` (or a Quarry SQL query on `page_len`) to find articles below a byte threshold in topic areas where OCW has extensive courses.
 3. **Map course asset types to Wikipedia needs:**
    - Heavy `[Reading-List]` courses → candidates for "Further reading" sections in Wikipedia
    - `[Image-Gallery]` and diagram assets → candidates for Wikimedia Commons upload
    - `[Video-Transcript]` lectures → candidates for "External links" with educational video
 
-## Scoring model
+## Prioritization framework
 
-Each potential match between an OCW course/lecture and a Wikipedia article should get a score:
+The most impactful targets share a combination of signals. These can be obtained from Wikipedia's quality assessment, WikiProject ratings, and pageview data — all accessible via the API or Quarry.
+
+### Quality signals
+
+Articles in Wikipedia have quality classes on their Talk pages, set by WikiProject members:
+
+| Class | Meaning | OCW priority |
+|---|---|---|
+| FA / GA | Featured / Good article | Low — already well-sourced |
+| B | Mostly complete | Low — likely has sufficient references |
+| C | Substantial but missing key content | **High** — likely to have templates requesting help |
+| Start | Basic but incomplete | **High** — early stage, needs substantial work |
+| Stub | Very short | **Medium** — may need creation-level help |
+| List, Disambig | Non-article pages | Low |
+
+[ORES](https://en.wikipedia.org/wiki/Wikipedia:Content_assessment) (Objective Revision Evaluation Service) provides AI-predicted quality scores via `api.wikimedia.org/service/lw/inference/v1/models/{model}:predict`. This is being migrated to the [Lift Wing](https://wikitech.wikimedia.org/wiki/Machine_Learning/LiftWing) system.
+
+### WikiProject signals
+
+WikiProjects are topic-aligned editing groups (e.g., WikiProject Chemistry, WikiProject Physics, WikiProject History). Each project maintains:
+
+- An article list (all articles within their scope)
+- Quality and importance ratings for each article
+- "Popular pages" reports
+
+WikiProject Popular pages reports are the single most useful prioritization tool. A bot generates [monthly lists](https://en.wikipedia.org/wiki/Wikipedia:WikiProject) for each project showing ~1,000 articles ranked by pageviews, with quality and importance ratings.
+
+A typical Popular pages entry:
+```
+Rank | Article | Views/month | Quality | Importance
+ 1   | Chemistry | 450,000 | B | Top
+45   | Chemical bond | 85,000 | C | High
+92   | VSEPR theory | 32,000 | C | Mid
+```
+
+The high-impact quadrant for OCW is:
+- **High traffic** (top quartile of pageviews within a WikiProject)
+- **High importance** (Top or High importance rating)
+- **Low quality** (Stub, Start, or C-class)
+- **With maintenance templates** (actively requesting help)
+
+### Unified scoring model
+
+For each candidate article, compute a match score against each OCW course:
 
 | Factor | Weight | How to compute |
 |---|---|---|
-| Template match | 40% | Does the Wikipedia article have a maintenance template relevant to the OCW course's topic? |
-| Title similarity | 25% | Cosine similarity or simple overlap between lecture title and article title |
-| Asset richness | 15% | Does the OCW course have video, transcripts, or downloadable diagrams for this topic? |
-| Topic alignment | 10% | Is the OCW course topic in the same Wikipedia category? |
-| License compatibility | 10% | CC BY-NC-SA materials can be cited; some assets can be uploaded to Commons |
+| Template match | 30% | Does the Wikipedia article have a maintenance template relevant to the OCW course's topic? |
+| Quality gap | 20% | Is the article C-class or below (higher score for larger gap) |
+| Page traffic | 15% | Monthly pageviews from Popular pages report |
+| Title similarity | 15% | Overlap between lecture title and article title |
+| Asset richness | 10% | Does the OCW course have video, transcripts, or downloadable diagrams? |
+| Topic alignment | 10% | Is the OCW course topic in the same WikiProject? |
 
 **Threshold:** Only generate crossref links for matches above a minimum score. Keep the bridge section to 3-5 per course.
+
+### Execution order
+
+1. **First pass:** Run Popular pages filtering across WikiProjects matching OCW topics. Identify articles in the high-impact quadrant (high traffic × high importance × low quality × maintenance templates). These are the strongest candidates.
+2. **Second pass:** Lecture title matching against remaining high-traffic articles.
+3. **Third pass:** Broad topic-based matching for comprehensive coverage.
 
 ## Concrete process (per course)
 
