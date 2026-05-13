@@ -50,14 +50,11 @@ h1{font-size:1.4rem;font-weight:700;margin:0 0 .15rem;letter-spacing:-.02em}
 #st{margin-bottom:.6rem;display:flex;gap:16px;font-size:.78rem;color:#555;flex-wrap:wrap}
 #st strong{color:#1a1a1a}
 
-/* Rank slider */
-#sl{margin-bottom:1rem;background:#fff;border-radius:8px;border:1px solid #e8ecf0;padding:.7rem 1rem;max-width:400px}
-#sl-lab{font-size:.78rem;color:#555;margin-bottom:6px}
-#sl-val{font-weight:600;color:#1a1a1a}
-#sl-max{color:#999;font-size:.7rem}
-#slider{width:100%;height:6px;-webkit-appearance:none;appearance:none;background:#e8ecf0;border-radius:3px;outline:0;cursor:pointer}
-#slider::-webkit-slider-thumb{-webkit-appearance:none;appearance:none;width:16px;height:16px;border-radius:50%;background:#2563eb;cursor:pointer;border:2px solid #fff;box-shadow:0 1px 3px rgba(0,0,0,.2)}
-#slider::-moz-range-thumb{width:16px;height:16px;border-radius:50%;background:#2563eb;cursor:pointer;border:2px solid #fff}
+/* Inline rank slider in header bar */
+#sl-hb{display:inline-flex;align-items:center;gap:4px;margin-left:6px}
+#sl-hb input[type=range]{-webkit-appearance:none;appearance:none;background:#e8ecf0;border-radius:2px;outline:0;cursor:pointer;margin:0 2px}
+#sl-hb input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;appearance:none;width:12px;height:12px;border-radius:50%;background:#2563eb;cursor:pointer;border:2px solid #fff;box-shadow:0 1px 2px rgba(0,0,0,.2)}
+#sl-hb input[type=range]::-moz-range-thumb{width:12px;height:12px;border-radius:50%;background:#2563eb;cursor:pointer;border:2px solid #fff}
 
 /* Chart container */
 #chart{margin-bottom:1rem;background:#fff;border-radius:8px;border:1px solid #e8ecf0;overflow:hidden}
@@ -130,6 +127,12 @@ h1{font-size:1.4rem;font-weight:700;margin:0 0 .15rem;letter-spacing:-.02em}
     <span class="on" data-v="scatter">Scatter</span>
     <span data-v="table">Table</span>
   </div>
+  <div id="sl-hb">
+    <span style="font-size:.75rem;color:#555;white-space:nowrap">Top</span>
+    <input id="slider" type="range" min="10" max="1000" value="200" step="10" oninput="updateSlider()" style="width:80px;height:4px;vertical-align:middle">
+    <span id="sl-val" style="font-size:.78rem;font-weight:600;color:#1a1a1a;min-width:30px;display:inline-block;text-align:center">200</span>
+    <span id="sl-max" style="font-size:.7rem;color:#999"></span>
+  </div>
 </div>
 
 <div id="fc"></div>
@@ -168,12 +171,6 @@ h1{font-size:1.4rem;font-weight:700;margin:0 0 .15rem;letter-spacing:-.02em}
 
 <div id="st"></div>
 
-<div id="sl">
-  <div id="sl-lab">Show top <span id="sl-val">200</span> articles <span id="sl-max"></span></div>
-  <input id="slider" type="range" min="10" max="1000" value="200" step="10" oninput="updateSlider()">
-  <div id="sl-ticks"></div>
-</div>
-
 <div id="chart"></div>
 <div id="lg"></div>
 <div id="tv"></div>
@@ -199,7 +196,7 @@ var IMP_RANK = {"Top":4,"High":3,"Mid":2,"Low":1};
 
 var TEMPLATE_COLORS = d3.scaleThreshold()
     .domain([1, 2, 3, 4])
-    .range(["#2ecc71","#e67e22","#d35400","#e74c3c","#c0392b"]);
+    .range(["#27ae60","#f1c40f","#e67e22","#e74c3c","#8b0000"]);
 
 var TEMPLATE_EXPLANATIONS = {
   "Citation needed": "Article has unsourced statements. Adding a citation from a reliable source helps readers verify this information.",
@@ -702,11 +699,11 @@ function renderLegend(){
   var el = document.getElementById('lg');
   el.innerHTML =
     '<span style="font-weight:600">Color:</span>' +
-    '<div class="ld"><span class="sw" style="background:#2ecc71"></span>0</div>' +
-    '<div class="ld"><span class="sw" style="background:#e67e22"></span>1</div>' +
-    '<div class="ld"><span class="sw" style="background:#d35400"></span>2</div>' +
+    '<div class="ld"><span class="sw" style="background:#27ae60"></span>0</div>' +
+    '<div class="ld"><span class="sw" style="background:#f1c40f"></span>1</div>' +
+    '<div class="ld"><span class="sw" style="background:#e67e22"></span>2</div>' +
     '<div class="ld"><span class="sw" style="background:#e74c3c"></span>3</div>' +
-    '<div class="ld"><span class="sw" style="background:#c0392b"></span>4+</div>' +
+    '<div class="ld"><span class="sw" style="background:#8b0000"></span>4+</div>' +
     '<span style="font-weight:600;margin-left:12px">Size:</span> <span>Importance (Top > High > Mid > Low)</span>' +
     '<span style="margin-left:12px;font-size:.72rem;color:#999">Filtered: ' + filtered.length + '/' + articles.length + ' articles</span>';
 }
