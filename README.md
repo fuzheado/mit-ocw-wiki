@@ -74,7 +74,7 @@ A D3.js bubble scatterplot for exploring any WikiProject's articles by quality, 
 
 ### Pageview data: key finding
 
-The `enwiki_p` analytics replica does not contain pageview data (`page_props.pageview_daily_average` has 0 rows). The Wikimedia REST API rate-limits aggressively (~15 req/min on the monthly endpoint). **Resolution:** use WikiProject Popular pages — pre-compiled tables maintained by the Community Tech bot — which include accurate monthly view counts for the top 1,000 articles per project. See `notes/pageview-data-issues.md` for details.
+The `enwiki_p` analytics replica does not contain pageview data (`page_props.pageview_daily_average` has 0 rows). The Wikimedia REST API was initially rate-limiting our early tests (~15 req/min) before we standardized on a compliant User-Agent string. With the proper UA (`MIT OCW Bot/1.0 (https://meta.wikimedia.org/wiki/Wiki_MIT; andrew.lih@gmail.com) ContentGapResearch`), rate limits are more lenient. However, Popular pages remain the preferred source — one API call returns 1,000 articles with views, quality, and importance vs. 1,000+ individual API calls for the same data. See `notes/pageview-data-issues.md` for details.
 
 ### Template context extraction
 

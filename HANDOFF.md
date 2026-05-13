@@ -14,7 +14,7 @@ These are things a new agent would need to know that aren't captured in `DESIGN.
 
 - **Data generation script is inline** — The Python script that fetches Popular pages, runs SQL, and parses wikitext with mwparserfromhell was executed as multiple inline heredocs. There is no standalone `.py` file for it yet. To regenerate data, you must reconstruct the heredoc or extract it into `scripts/generate-impact-matrix-data.py`.
 - **`templatelinks` schema changed** — The table no longer has `tl_title`. It uses `tl_target_id` which joins to `linktarget.lt_id` where the actual title lives. This applies to ALL Wikimedia replica queries.
-- **`pageview_daily_average` doesn't exist** in `enwiki_p`. Zero rows. The REST API rate-limits heavily. The only reliable pageview source is WikiProject Popular pages.
+- **`pageview_daily_average` doesn't exist** in `enwiki_p`. Zero rows. The REST API rate-limits improved after we added a compliant User-Agent, but Popular pages are still the preferred source (1 API call vs 1,000+).
 - **Popular pages are fetched via `action=parse` with `prop=text`** (rendered HTML), not `prop=wikitext`. Parsed with regex on `<table class="wikitable">`. This works because the bot output is stable but is intentionally not using mwparserfromhell (see DESIGN.md for rationale).
 - **Wikitext for individual article context** was fetched via `action=parse&prop=wikitext` during data generation. The client-side JS approaches (`fetch()` with CORS, JSONP) both failed from `file://` — this is why context is pre-computed.
 - **mwparserfromhell `ifilter_templates(recursive=True)` returns duplicates** — same template appears in parent and child sections. Must deduplicate by text position.

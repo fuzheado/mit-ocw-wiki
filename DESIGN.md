@@ -85,7 +85,7 @@ Current state: **v0.1** — Generic Mode with 8 WikiProjects, 6,500 articles, pr
 
 ### 1. Popular pages over REST API for pageviews
 
-**Problem:** The Wikimedia pageview REST API rate-limits at ~15 requests/minute on the monthly endpoint, making batch fetching of 1,000+ articles infeasible. The `enwiki_p` analytics replica also has no pageview data (`page_props.pageview_daily_average` = 0 rows).
+**Problem:** The `enwiki_p` analytics replica has no pageview data (`page_props.pageview_daily_average` = 0 rows). The Wikimedia pageview REST API was initially rate-limiting our early tests (~15 req/min), though this improved after standardizing on a compliant User-Agent string. Even with better rate limits, Popular pages remain the clear winner — 1 API call per project vs. 1,000+ individual calls for the same data.
 
 **Decision:** Use WikiProject Popular pages — bot-maintained monthly tables at `Wikipedia:WikiProject_{name}/Popular_pages`. These pre-compile the top 1,000 articles by pageviews with quality and importance ratings. Available via a single `action=parse` API call per project.
 

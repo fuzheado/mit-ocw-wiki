@@ -16,14 +16,14 @@ Other `page_props` entries exist (`wikibase_item`, `page_image_free`, etc.) but 
 
 ### 2. REST API: `/metrics/pageviews/per-article/.../monthly/`
 
-**Result: Rate-limited heavily.** The Wikimedia pageview REST API returns HTTP 429 after ~10-20 sequential requests. Even with:
+**Result: Initially rate-limited.** Early tests without a compliant User-Agent returned HTTP 429 after ~10-20 sequential requests. Even with:
 - 5 parallel workers → immediate 429s
 - Sequential single-threaded requests → 429s after ~15 requests
 - 0.5s delay between batches → still 429s
 
-The monthly endpoint appears to have a stricter rate limit than the general API. Only ~3% of articles (24/800) returned data in our last attempt.
+The monthly endpoint appeared to have a stricter rate limit than the general API. Only ~3% of articles (24/800) returned data in our first attempt.
 
-The API works for individual, ad-hoc lookups but cannot sustain batch fetching of 100-800 articles.
+**Update after UA compliance:** After standardizing on a descriptive User-Agent string (`MIT OCW Bot/1.0 (https://meta.wikimedia.org/wiki/Wiki_MIT; andrew.lih@gmail.com) ContentGapResearch`), rate limits became more lenient. The API works for individual ad-hoc lookups and small batches. However, Popular pages are still the preferred source for the tool — one API call returns 1,000 articles with views, quality, and importance, vs. 1,000+ individual API calls for the same data.
 
 ### 3. REST API fallback: daily endpoint, different date ranges
 
