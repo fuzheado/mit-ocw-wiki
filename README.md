@@ -9,7 +9,7 @@ Courses are ingested from the [MIT Learn API](https://api.learn.mit.edu) and cro
 - **Courses discovered:** 2,577 (all ingested)
 - **Courses asset-scanned:** ~2,500+ (hybrid scan)
 - **Departments:** 37 | **Topics:** 110 | **Instructors:** 2,142
-- **Stages:** Bootstrap (0-2) ✅ | Asset scan (3) ✅ | Wikipedia crossref (4) — crossref tool built, heatmap demo live, Contribution Impact Matrix prototype live
+- **Stages:** Bootstrap (0-2) ✅ | Asset scan (3) ✅ | Wikipedia crossref (4) ✅ | Contribution Impact Matrix (4b) ✅ — v0.1 tagged
 
 ## What's built
 
@@ -25,26 +25,60 @@ Courses are ingested from the [MIT Learn API](https://api.learn.mit.edu) and cro
 | Pre-commit hook | ✅ | Auto-rebuilds index on wiki changes |
 | Wikipedia crossref strategy | ✅ | Three-tier matching, unified SQL query, scoring model |
 | Interactive crossref heatmap | ✅ | 9 WikiProjects × 18 OCW departments, live demo |
-| **Contribution Impact Matrix** | ✅ **Prototype** | Bubble scatterplot visualization for any WikiProject |
-| **Standalone HTML** | ✅ | Self-contained, works from `file://`, no server needed |
+| **Contribution Impact Matrix** | ✅ **v0.1** | D3.js bubble scatterplot — standalone HTML |
+| **Detail panel with context** | ✅ | Pre-computed wikitext: section, date, sentence |
+| **Popular pages pipeline** | ✅ | Beats API rate limits, 100% view coverage |
 
 ## Key features
 
 ### Contribution Impact Matrix
 
-A D3.js bubble scatterplot for exploring any WikiProject's articles by quality, pageviews, importance, and maintenance templates. Located at `wiki/impact-matrix/standalone.html`.
+A D3.js bubble scatterplot for exploring any WikiProject's articles by quality, pageviews, importance, and maintenance templates. Located at `wiki/impact-matrix/standalone.html` (1.7 MB self-contained, works from `file://`).
 
-- **Generic mode** (default): pick any WikiProject with Popular pages, see all articles
-- **Live data pipeline**: Popular pages (pageviews + quality + importance) + SQL (maintenance templates)
-- **Four dimensions**: Quality (X), Pageviews (Y, log scale), Importance (bubble size), Template count (color)
-- **Interactions**: Hover tooltips, click for detail panel, sortable table view
-- **Filters**: Quality, importance, template type, text search
-- **Quality toggle**: Assessed (SQL) ↔ Predicted (mocked ORES)
-- **Quadrant overlay**: Sweet Spots, Stars, Sleepers, Tail
+**Core visualization:**
+- **X axis:** Quality (Stub → FA, ordinal scale, dynamically collapses hidden classes)
+- **Y axis:** Monthly pageviews (log scale, from WikiProject Popular pages)
+- **Bubble size:** Importance (Top > High > Mid > Low)
+- **Bubble color:** Template count (green=0, yellow=1, orange=2, red=3, maroon=4+)
+- **Quadrant overlays:** Sweet Spots, Stars, Sleepers, Tail
+
+**Filters:**
+- Rank slider (inline in header bar, top 10-1000 articles)
+- Quality checkboxes (Stub/Start/C/B/GA/FA — hidden classes removed from X axis)
+- Importance checkboxes (Top/High/Mid/Low)
+- Template type pills (Citation, Refimprove, Technical, Missing, Sources)
+- "Hide 0 templates" toggle — isolate articles with maintenance tags
+- Text search by article title
+- Active filters shown as removable chips
+
+**Interactions:**
+- Hover: tooltip with title, quality, importance, views, templates
+- Click: slide-out detail panel with:
+  - Short description (from Wikidata), last edit date, page size
+  - Quality gap indicator ("Next: B, current: C")
+  - Maintenance template cards with explanations
+  - Per-template context: section name, date parameter, preceding sentence
+  - 6 context classifiers (inline, infobox, table, footnote, blockquote, minimal)
+  - Action links: "Read article", "Edit page" (direct to source editor)
+- Scatter/Table view toggle (sortable columns)
+- Assessed / Predicted quality toggle (mocked ORES)
+- School group headers (Engineering, Science, Humanities, etc.)
+
+**Data pipeline:**
+- 8 WikiProjects × 500-1000 articles each (6,500 total)
+- Popular pages fetched via `action=parse` (1 API call per project, 0 per article)
+- Templates from SQL (`enwiki_p` via SSH tunnel) — 27 aliases including talk-page templates
+- Wikitext context pre-computed with `mwparserfromhell` (section name, date, sentence)
+- Short descriptions and page metadata from SQL batch queries
+- All data pre-generated; no API calls needed at runtime
 
 ### Pageview data: key finding
 
 The `enwiki_p` analytics replica does not contain pageview data (`page_props.pageview_daily_average` has 0 rows). The Wikimedia REST API rate-limits aggressively (~15 req/min on the monthly endpoint). **Resolution:** use WikiProject Popular pages — pre-compiled tables maintained by the Community Tech bot — which include accurate monthly view counts for the top 1,000 articles per project. See `notes/pageview-data-issues.md` for details.
+
+### Template context extraction
+
+Maintenance template context (section name, date parameter, preceding sentence) is extracted from raw wikitext using `mwparserfromhell` during data generation. Context types are classified by checking whether the template is inside a `<ref>` tag (last unmatched opener), an infobox, a table, a blockquote, or normal paragraph text. The classification uses the full preceding wikitext to determine containment, avoiding false positives from nearby but unrelated markup.
 
 ## Quick start
 

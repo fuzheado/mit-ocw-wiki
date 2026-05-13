@@ -1,5 +1,8 @@
 # PRD: Contribution Impact Matrix
 
+> **v0.1 released** — see `wiki/impact-matrix/standalone.html` for the current prototype.
+> Implementation status is marked below with ✅ (done), 🔄 (partial), or ⬜ (not yet).
+
 A bubble-scatterplot visualization that surfaces "enrichment opportunities" (articles where OCW materials — or any editor's efforts — can fill Wikipedia's known gaps) using pageviews, quality assessment, importance ratings, and maintenance templates.
 
 ## Problem
@@ -95,16 +98,17 @@ article_url      | VARCHAR  — OCW course URL
 
 This data is pre-computed by `crossref-wikipedia.py` and stored as a JSON sidecar, then joined client-side against the live query results.
 
-## Feature requirements
+## Feature requirements ✅ (v0.1)
 
-### 0. Entry point: Project picker (default screen)
+### 0. Entry point: Project picker ✅
 
 The tool opens to a project picker — a searchable dropdown or typeahead listing all WikiProjects with qualifying articles (those with assessments + pageview data). Each entry shows the project name and article count. "All Projects" is an option (runs a sweep across all projects). Below the picker, a toggle labeled "MIT Mode" switches to the restricted project list and OCW overlay.
 
-### 1. Bubble scatterplot (primary view)
+### 1. Bubble scatterplot (primary view) ✅
 
 - **X axis**: Quality (ordered Stub ← Start ← C ← B ← GA ← FA). Treated as ordinal — spacing reflects judgment, not a linear scale.
-- **Y axis**: Pageviews (log scale by default, toggle to linear).
+- **X axis dynamic collapse**: Hidden quality classes removed from scale ✅
+- **Y axis**: Pageviews (log scale by default, toggle to linear). ✅
 - **Each bubble** = one article.
 - **Bubble size**: Importance (Top > High > Mid > Low).
 - **Bubble color**: Template count (green = 0, yellow = 1-2, orange = 3-5, red = 6+).
@@ -296,16 +300,27 @@ The tool mitigates this by:
 
 ## Open questions (resolved)
 
-These were discussed and resolved before prototyping:
+These were discussed and resolved before and during prototyping:
 
-1. **Y axis scale: log or sqrt?** → **Log with a "Linear" toggle**. Log handles the 10-100× spread naturally (articles range from 10 to 250K+ views); sqrt over-compresses the high end. A one-click toggle lets power users switch to linear for specific comparisons.
+1. **Y axis scale: log or sqrt?** → **Log with a "Linear" toggle**. Log handles the 10-100× spread naturally (articles range from 10 to 250K+ views); sqrt over-compresses the high end. A one-click toggle lets power users switch to linear for specific comparisons. *(Not yet implemented — v0.1 uses log only.)*
 
-2. **Jitter overlapping bubbles?** → **Yes, force-directed jitter**. When many articles share the same quality × views coordinates, apply a small random offset to bubble positions. The offset is deterministic by article ID so hover/click targets remain consistent across re-renders.
+2. **Jitter overlapping bubbles?** → **Deterministic jitter by article title hash**. When many articles share the same quality × views coordinates, apply a small random offset. The offset is deterministic by article ID so hover/click targets remain consistent across re-renders. ✅
 
-3. **Show all articles vs. only OCW-matched in MIT Mode?** → **Both, with a filter toggle** (all / matched only / unmatched only). Default: all, with matched articles visually distinguished.
+3. **Show all articles vs. only OCW-matched in MIT Mode?** → **Both, with a filter toggle** (all / matched only / unmatched only). Default: all, with matched articles visually distinguished. *(MIT Mode not yet implemented — v0.1 is Generic Mode only.)*
 
 4. **Individual project vs. aggregate "all 25" in MIT Mode?** → **Start with individual project views**. The picker restricts to the 25 projects but you explore one at a time. An aggregate dashboard ("all 25 at once") is v2.
 
-5. **WikiProjects without Popular pages?** → **They still appear in the picker**. The killer query works for any project regardless (it queries `page_assessments_projects`, not Popular pages). Articles from these projects show the note "no pageview data" and sort by importance + quality gap instead.
+5. **WikiProjects without Popular pages?** → **They still appear in the picker**. The killer query works for any project regardless (it queries `page_assessments_projects`, not Popular pages). Articles from these projects show the note "no pageview data" and sort by importance + quality gap instead. *(Not yet implemented — v0.1 covers 8 Popular pages projects.)*
 
-6. **Static v1 prototype scope:** → A single-project data file (WikiProject Environment), scatterplot with all four dimensions, quality source toggle (with mocked ORES), table view, filters (quality, importance, template count, search), and a project picker that shows the selected project. No MIT Mode in v1. This is the confirmed starting point.
+6. **Static v1 prototype scope:** → A single-project data file (WikiProject Environment), scatterplot with all four dimensions, quality source toggle (with mocked ORES), table view, filters (quality, importance, template count, search), and a project picker that shows the selected project. No MIT Mode in v1. **This was the starting point — v0.1 far exceeds this scope with 8 projects, 6,500 articles, pre-computed context, and 1.7 MB standalone.**
+
+## What's next (v0.2+)
+
+| Feature | Priority |
+|---------|----------|
+| MIT Mode: OCW overlay on bubbles, match indicators | High |
+| Aggregate "all 25" dashboard for MIT Mode | Medium |
+| Live SQL query server for any WikiProject | Medium |
+| Popular pages request tool for missing projects | Low |
+| "Edit in Wikipedia" with pre-filled citation snippet | Low |
+| License/copyright notes for OCW asset reuse | Low |
