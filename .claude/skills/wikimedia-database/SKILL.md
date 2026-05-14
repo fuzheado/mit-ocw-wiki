@@ -2,12 +2,12 @@
 
 ## **Description**
 
-Enables the agent to execute dynamic SQL queries against Wikimedia production replicas (e.g., `enwiki`, `wikidata`, `commonswiki`) by leveraging a local SSH tunnel and specific environment variables for multi-layer authentication.
+Enables the agent to execute dynamic SQL queries against Wikimedia production replicas (e.g., `enwiki`, `enwiki_p`, `wikidata`, `commonswiki`) by leveraging a local SSH tunnel and specific environment variables for multi-layer authentication.
 
 ## **Prerequisites**
 
 * **Authentication:** The following variables must be set in the `.env` file:
-* `TOOLFORGE_USER`: The shell/LDAP username for SSH (e.g., `alih`).
+* `TOOLFORGE_USER`: The shell/LDAP username for SSH (e.g., `janesmith`).
 * `TOOLFORGE_SQL_USER`: The replica database username (e.g., `u1234`).
 * `TOOLFORGE_SQL_PASSWORD`: The replica database password.
 

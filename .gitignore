@@ -5,3 +5,6 @@ raw/api/
 .DS_Store
 .claude/active-file
 .env
+.wiki_cache/
+.venv/
+__pycache__/

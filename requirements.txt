@@ -1,0 +1,4 @@
+diskcache>=5.6.1
+pymysql>=1.1.0
+python-dotenv>=1.0.0
+mwparserfromhell>=0.6.6

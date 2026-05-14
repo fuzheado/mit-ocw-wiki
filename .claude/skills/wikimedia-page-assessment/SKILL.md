@@ -4,7 +4,7 @@
 
 Enables the agent to retrieve quality and importance ratings for Wikipedia articles. This data is derived from WikiProject banners on talk pages and is stored in the `page_assessments` table.
 
-### **Database Schema: `enwiki_p**`
+### **Database Schema: `enwiki_p`**
 
 The assessment system relies on three primary tables:
 

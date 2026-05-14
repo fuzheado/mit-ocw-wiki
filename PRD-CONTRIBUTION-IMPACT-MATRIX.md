@@ -1,4 +1,4 @@
-# PRD: Contribution Impact Matrix
+# PRD: Wiki Contribution Impact Matrix
 
 > **v0.1 released** — see `wiki/impact-matrix/standalone.html` for the current prototype.
 > Implementation status is marked below with ✅ (done), 🔄 (partial), or ⬜ (not yet).
@@ -7,7 +7,13 @@ A bubble-scatterplot visualization that surfaces "enrichment opportunities" (art
 
 ## Problem
 
-Wikipedia editors have no unified view of the four signals that determine where effort is most impactful: pageviews (audience reach), quality class (condition), importance (weight), and maintenance templates (active needs). These live in separate database tables and are never shown together. A volunteer looking to adopt articles has to jump between tools — XTools for pageviews, the assessment table for quality, category pages for templates — to piece together a priority list.
+Wikipedia editors have no unified view of the four signals for a Wikipedia article that determine where effort might be most impactful: 
+- **Pageviews** (audience reach)
+- **Assessment/quality class** (determined by human effort or via machine learning model prediction via ORES)
+- **Importance** (as hand-categorized in a WikiProject)
+- **Maintenance templates** (citation needed, and other requests for improvement)
+
+These live in separate database tables and are not easily shown together. A volunteer looking to adopt articles has to jump between tools — XTools for pageviews, the assessment table for quality, category pages for templates — to piece together a priority list.
 
 ## Dual-mode design
 
@@ -15,11 +21,11 @@ The tool has two modes, with **Generic Mode as the default**:
 
 ### Generic Mode (default)
 
-Opens to a WikiProject picker — any of Wikipedia's ~1,500 WikiProjects. The user selects one and sees the scatterplot for that project's articles. No OCW data visible. This is a general-purpose Wikipedia editor tool: "show me the best articles to improve in WikiProject Chemistry."
+Opens to a WikiProject picker — any of Wikipedia's ~1,500 WikiProjects. The user selects one and sees the scatterplot for that project's articles. No OCW data visible. This is a general-purpose Wikipedia editor tool: "show me the high-value articles to improve in WikiProject Chemistry."
 
 Target user: any Wikipedia editor who wants to prioritize their contribution within a project they care about.
 
-### MIT Mode
+### MIT Mode (future development)
 
 A toggle in the header switches to MIT Mode, which:
 1. Restricts the project picker to the ~25 WikiProjects that align with MIT OCW departments (Chemistry, Physics, Biology, Environment, Computer science, etc.)

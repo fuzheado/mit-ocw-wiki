@@ -1,0 +1,313 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Picker Mockup — Two-Column Browser</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Inter','Segoe UI',sans-serif;background:#f0f2f5;padding:2rem;color:#1a1a1a}
+
+/* simulate the existing header bar */
+#hb{display:flex;gap:12px;margin-bottom:1rem;align-items:center;background:#fff;padding:.7rem 1rem;border-radius:8px;border:1px solid #e0e4e8}
+
+/* picker trigger */
+#picker{position:relative;width:280px}
+#picker-input{width:100%;padding:8px 14px;border:1px solid #d0d7de;border-radius:6px;font-size:.85rem;background:#fff;cursor:pointer;outline:none}
+#picker-input:focus{border-color:#2563eb;box-shadow:0 0 0 3px rgba(37,99,235,.15)}
+
+/* two-column overlay panel */
+#panel{position:absolute;top:calc(100% + 6px);left:0;width:600px;display:none;z-index:100}
+#panel.open{display:flex}
+#panel-inner{display:flex;width:100%;background:#fff;border:1px solid #d0d7de;border-radius:10px;box-shadow:0 8px 30px rgba(0,0,0,.15);overflow:hidden;max-height:440px}
+
+/* left column — domains */
+#col-left{width:200px;border-right:1px solid #e8ecf0;overflow-y:auto;flex-shrink:0;background:#f8f9fb}
+#col-left .search-inside{padding:8px;border-bottom:1px solid #e8ecf0}
+#col-left .search-inside input{width:100%;padding:5px 8px;border:1px solid #e0e4e8;border-radius:5px;font-size:.75rem;outline:none}
+#col-left .search-inside input:focus{border-color:#2563eb}
+.domain-item{padding:7px 12px;font-size:.78rem;cursor:pointer;display:flex;justify-content:space-between;align-items:center;border-left:3px solid transparent;transition:all .08s}
+.domain-item:hover{background:#edf2f7}
+.domain-item.active{background:#e8f0fe;border-left-color:#2563eb;color:#2563eb;font-weight:600}
+.domain-item .cnt{font-size:.68rem;color:#999;background:#e8ecf0;padding:1px 6px;border-radius:8px}
+.domain-item.active .cnt{background:#2563eb;color:#fff}
+.domain-item .cnt.matched{background:#dbeafe;color:#2563eb}
+
+/* right column — projects */
+#col-right{flex:1;overflow-y:auto;display:flex;flex-direction:column}
+#col-right .header{padding:10px 14px;font-size:.72rem;color:#666;border-bottom:1px solid #e8ecf0;flex-shrink:0}
+#col-right .list{flex:1;overflow-y:auto}
+.proj-item{padding:6px 14px;font-size:.78rem;cursor:pointer;display:flex;align-items:center;gap:6px;transition:background .08s}
+.proj-item:hover{background:#f0f4ff}
+.proj-item.selected{background:#2563eb;color:#fff;border-radius:4px;margin:2px 6px;padding:4px 8px}
+.proj-item .domain-tag{font-size:.62rem;color:#999;background:#e8ecf0;padding:1px 5px;border-radius:4px;flex-shrink:0}
+.proj-item.selected .domain-tag{background:rgba(255,255,255,.2);color:rgba(255,255,255,.8)}
+.proj-item .article-count{font-size:.65rem;color:#bbb;margin-left:auto}
+
+/* responsive */
+@media(max-width:640px){#panel{width:calc(100vw - 32px)}#col-left{width:140px}}
+</style>
+</head>
+<body>
+
+<h1 style="font-size:1.1rem;font-weight:600;margin-bottom:1rem;color:#333">Picker Mockup — Two-Column Browser</h1>
+
+<!-- header bar simulating the existing layout -->
+<div id="hb">
+  <div id="picker">
+    <input id="picker-input" placeholder="🔍  Search or browse projects..." readonly>
+    <div id="panel">
+      <div id="panel-inner">
+        <!-- left: domains -->
+        <div id="col-left">
+          <div class="search-inside">
+            <input id="domain-search" type="text" placeholder="Filter domains...">
+          </div>
+          <div id="domain-list"></div>
+        </div>
+        <!-- right: projects -->
+        <div id="col-right">
+          <div class="header" id="col-header">Select a domain</div>
+          <div class="list" id="project-list"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <span style="font-size:.75rem;color:#999">Click the search bar to browse</span>
+</div>
+
+<p style="font-size:.8rem;color:#888;max-width:600px;line-height:1.5">
+This is a static mockup of the two-column browser. Click the search bar to
+open the panel. Click a domain on the left to see its projects on the right.
+Type in the search box to filter within the current domain.
+</p>
+
+<script>
+// ─── Hardcoded data for mockup ──────────────────────────────
+const DOMAINS = [
+  { name: "Geography & Places",     count: 327, color: "#3b82f6" },
+  { name: "Arts & Culture",         count: 88,  color: "#8b5cf6" },
+  { name: "Health, Medicine & Bio", count: 86,  color: "#10b981" },
+  { name: "Sports & Games",         count: 84,  color: "#f59e0b" },
+  { name: "History",                count: 70,  color: "#ef4444" },
+  { name: "Society & Social Sci",   count: 67,  color: "#06b6d4" },
+  { name: "Philosophy & Religion",  count: 41,  color: "#8b5cf6" },
+  { name: "Physical Sciences",      count: 36,  color: "#3b82f6" },
+  { name: "People & Biography",     count: 32,  color: "#ec4899" },
+  { name: "Technology & Engineer",  count: 32,  color: "#6366f1" },
+  { name: "Transportation",         count: 29,  color: "#d97706" },
+  { name: "Everyday Life & Food",   count: 24,  color: "#84cc16" },
+  { name: "Business & Economics",   count: 13,  color: "#14b8a6" },
+  { name: "Wikipedia Maintenance",  count: 11,  color: "#78716c" },
+  { name: "Mathematics",            count: 2,   color: "#a855f7" },
+];
+
+const PROJECTS = {
+  "Geography & Places": [
+    "Afghanistan","Alabama","Alaska","Albania","Algeria","Andhra Pradesh",
+    "Angola","Argentina","Arizona","Arkansas","Armenia","Australia","Austria",
+    "Bangladesh","Belgium","Bolivia","Botswana","Brazil","Bulgaria",
+    "California","Cambodia","Canada","Chile","China","Colombia","Colorado",
+    "Congo","Croatia","Cuba","Czech Republic","Denmark","Ecuador","Egypt",
+    "Ethiopia","Finland","France","Germany","Ghana","Greece","Greenland",
+    "Guatemala","Honduras","Hungary","Iceland","India","Indonesia","Iran",
+    "Iraq","Ireland","Israel","Italy","Japan","Jordan","Kazakhstan","Kenya",
+    "Kuwait","Laos","Latvia","Lebanon","Libya","Lithuania","Madagascar",
+    "Malaysia","Maldives","Mali","Malta","Mauritania","Mexico","Moldova",
+    "Monaco","Mongolia","Montenegro","Morocco","Myanmar","Nepal",
+    "Netherlands","New Zealand","Nicaragua","Niger","Nigeria","North Korea",
+    "Norway","Oman","Pakistan","Panama","Paraguay","Peru","Philippines",
+    "Poland","Portugal","Qatar","Romania","Russia","Rwanda","Saudi Arabia",
+    "Senegal","Serbia","Singapore","Slovakia","Slovenia","Somalia",
+    "South Africa","South Korea","Spain","Sri Lanka","Sudan","Sweden",
+    "Switzerland","Syria","Taiwan","Tanzania","Thailand","Tunisia","Turkey",
+    "Uganda","Ukraine","United Arab Emirates","United Kingdom","United States",
+    "Uruguay","Uzbekistan","Vatican City","Venezuela","Vietnam","Zambia",
+    "Zimbabwe"
+  ],
+  "Arts & Culture": [
+    "20th Century Studios","A Song of Ice and Fire","Actors and Filmmakers",
+    "Albums","Alien","Alternative music","Anime and manga","Animation",
+    "Architecture","Australian music","BBC","Ballet","Bollywood","Books",
+    "Cartoon Network","Children's literature","Christian music",
+    "Classical music","Color","Comedy","Comics","Composers","Craft",
+    "Dance","Design","Discographies","Disney","Doctor Who","EastEnders",
+    "Fashion","Fictional characters","Film","Films","Folk music","Gospel",
+    "Graphic design","Harry Potter","Heavy metal","Hip hop","Hollywood",
+    "Horror","Instrument","Jazz","Jewelry","Literature","Magazines",
+    "Manga","Metal","Museum","Museums","Music","Musical theatre",
+    "Musicians","Mythology","Nickelodeon","Novels","Opera","Painting",
+    "Performing arts","Photography","Pixar","Poetry","Pop music",
+    "Popular culture","Post-hardcore","Publishing","Radio","Record labels",
+    "Rock music","Sculpture","Shakespeare","Songs","South Park","Square Enix",
+    "Star Trek","Star Wars","TV","Television","The Beatles","The Simpsons",
+    "Theatre","Video games/comics","Visual arts","Westerns","Writing",
+    "YouTube personalities"
+  ],
+  "Health, Medicine & Biology": [
+    "AIDS","Addictions and recovery","Ageing","Algae","Alternative medicine",
+    "Amphibians and Reptiles","Anatomy","Animal rights","Animals","Aquarium",
+    "Arthropods","Autism","Bacteriology","Bats","Beetles","Biology","Birds",
+    "Botany","COVID-19","Cancer","Cannabis","Carnivorous plants","Cats",
+    "Cetaceans","Chemistry (medicinal)","Chiropractic","Dentistry",
+    "Dietary supplements","Dinosaurs","Disability","Diseases","Dogs",
+    "Ecology","Entomology","Epilepsy","Evolution","Extinction","Fishes",
+    "First aid","Fungi","Genetics","Health","Herbalism","Homeopathy",
+    "Horses","Immunology","Insects","Mammals","Marine life","Medical",
+    "Medicine","Mental health","Microbiology","Mycology","Neuroscience",
+    "Nursing","Nutrition","Optometry","Ornithology","Palaeontology",
+    "Pharmacy","Phasmatodea","Physiology","Plants","Primates","Psychology",
+    "Public health","Reptiles","Rodents","Sanitation","Sharks","Spiders",
+    "Toxicology","Turtles","Veterinary medicine","Virology","Viruses",
+    "Zoology"
+  ],
+  "Sports & Games": [
+    "American football","Archery","Athletics","Auto racing","Badminton",
+    "Baseball","Basketball","Biathlon","Billiards","Board games","Bowling",
+    "Boxing","Chess","Climbing","Cricket","Curling","Cycling","Darts",
+    "Diving","Equestrian","Esports","Fencing","Figure skating","Floorball",
+    "Football","Golf","Gymnastics","Handball","Hockey","Horse racing",
+    "Hunting","Ice hockey","Judo","Karate","Kickboxing","Lacrosse",
+    "Martial arts","Mixed martial arts","Motorsport","Netball","Olympics",
+    "Paintball","Paralympics","Parkour","Poker","Polo","Rowing","Rugby",
+    "Running","Sailing","Shooting","Skateboarding","Skiing","Snooker",
+    "Snowboarding","Soccer","Speed skating","Squash","Sumo","Surfing",
+    "Swimming","Table tennis","Taekwondo","Tennis","Volleyball",
+    "Water polo","Weightlifting","Wrestling"
+  ],
+  "History": [
+    "Ancient Egypt","Ancient Near East","Anglo-Saxon Kingdoms",
+    "Archaeology","Australian history","Australian maritime history",
+    "Byzantine Empire","Canadian history","Castles","Civil War",
+    "Civilizations","Colonial history","Crusades","Dynasties",
+    "European history","Genealogy","Greek history","Heraldry",
+    "Heritage sites","Historical figures","Historic places",
+    "History of China","History of France","History of India",
+    "History of Japan","History of Russia","History of the United States",
+    "Holocaust","Medieval history","Mesopotamia","Military history",
+    "Monarchy","Napoleonic era","Native American history","Numismatics",
+    "Ottoman Empire","Philately","Phoenicia","Piracy","Prehistory",
+    "Renaissance","Roman Empire","Royalty","Russian Revolution",
+    "Soviet Union","Vikings","World War I","World War II"
+  ],
+};
+
+// ─── DOM refs ────────────────────────────────────────────────
+const pickerInput = document.getElementById("picker-input");
+const panel = document.getElementById("panel");
+const domainList = document.getElementById("domain-list");
+const projectList = document.getElementById("project-list");
+const colHeader = document.getElementById("col-header");
+const domainSearch = document.getElementById("domain-search");
+
+let activeDomain = null;
+let selectedProject = null;
+
+// ─── Render domains ──────────────────────────────────────────
+function renderDomains(filter = "") {
+  domainList.innerHTML = "";
+  const re = filter ? new RegExp(filter.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i') : null;
+
+  DOMAINS.forEach(d => {
+    if (re && !re.test(d.name)) return;
+    const el = document.createElement("div");
+    el.className = "domain-item" + (d.name === activeDomain ? " active" : "");
+    el.innerHTML = `<span>${d.name}</span><span class="cnt">${d.count}</span>`;
+    el.addEventListener("click", () => selectDomain(d.name));
+    domainList.appendChild(el);
+  });
+
+  // auto-select first if active not visible
+  if (activeDomain && !DOMAINS.some(d => d.name === activeDomain)) {
+    const first = domainList.querySelector(".domain-item");
+    if (first) first.click();
+  }
+}
+
+// ─── Render projects ─────────────────────────────────────────
+function renderProjects(domain, filter = "") {
+  const projects = PROJECTS[domain] || [];
+  const re = filter ? new RegExp(filter.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i') : null;
+  const filtered = re ? projects.filter(p => re.test(p)) : projects;
+
+  colHeader.textContent = `${domain} (${filtered.length}/${projects.length})`;
+  projectList.innerHTML = "";
+
+  if (filtered.length === 0) {
+    projectList.innerHTML = '<div style="padding:20px;text-align:center;font-size:.78rem;color:#999">No matches</div>';
+    return;
+  }
+
+  filtered.forEach(p => {
+    const el = document.createElement("div");
+    el.className = "proj-item" + (p === selectedProject ? " selected" : "");
+    el.innerHTML = `<span>${p}</span>`;
+    el.addEventListener("click", (e) => {
+      e.stopPropagation();
+      selectedProject = p;
+      pickerInput.value = p;
+      panel.classList.remove("open");
+      // update visual
+      document.querySelectorAll(".proj-item").forEach(el => el.classList.remove("selected"));
+      el.classList.add("selected");
+    });
+    projectList.appendChild(el);
+  });
+}
+
+// ─── Select domain ───────────────────────────────────────────
+function selectDomain(name) {
+  activeDomain = name;
+  renderDomains(domainSearch.value);
+  renderProjects(name, "");
+  domainSearch.value = "";
+}
+
+// ─── Open / close ────────────────────────────────────────────
+pickerInput.addEventListener("click", () => {
+  const opening = !panel.classList.contains("open");
+  panel.classList.toggle("open");
+  if (opening) {
+    if (!activeDomain) {
+      activeDomain = DOMAINS[0].name;
+    }
+    renderDomains();
+    renderProjects(activeDomain);
+    domainSearch.value = "";
+    domainSearch.focus();
+  }
+});
+
+document.addEventListener("click", (e) => {
+  if (!e.target.closest("#picker")) {
+    panel.classList.remove("open");
+  }
+});
+
+// ─── Domain search filter ────────────────────────────────────
+domainSearch.addEventListener("input", () => {
+  renderDomains(domainSearch.value);
+});
+
+// ─── Keyboard nav ────────────────────────────────────────────
+domainSearch.addEventListener("keydown", (e) => {
+  if (e.key === "ArrowDown") {
+    e.preventDefault();
+    const items = domainList.querySelectorAll(".domain-item");
+    const active = domainList.querySelector(".active");
+    const idx = Array.from(items).indexOf(active);
+    const next = items[Math.min(idx + 1, items.length - 1)];
+    if (next) next.click();
+  }
+  if (e.key === "ArrowRight" && activeDomain) {
+    e.preventDefault();
+    projectList.querySelector(".proj-item")?.focus();
+  }
+});
+
+// ─── Init ────────────────────────────────────────────────────
+selectDomain(DOMAINS[0].name);
+</script>
+
+</body>
+</html>
