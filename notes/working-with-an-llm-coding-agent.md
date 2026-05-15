@@ -15,8 +15,9 @@ queries, wikitext parsing, API orchestration) with **vanilla JavaScript +
 D3.js** for the browser visualization — no frameworks, no build step.
 
 The agent used was **OpenCode CLI** running **DeepSeek V4 Flash** with the
-variation parameter set to **"high"** (which increases the randomness of
-responses, encouraging more creative and less deterministic outputs). All
+reasoning effort set to **"high"** (which allocates more compute to internal
+reasoning before generating each response, producing more thorough and
+carefully considered outputs). All
 sessions combined consumed no more than **USD $10** in API costs (May 2026).
 This extremely low cost — a few dollars for what would have been weeks of
 human developer time — is itself a notable data point about the current
