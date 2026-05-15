@@ -1,4 +1,4 @@
-# MIT OCW LLM Wiki
+# Wiki MIT — MIT OCW and Wikipedia Cross-Linking
 
 This project started out as a living, interlinked knowledge base of MIT
 OpenCourseWare's 2,577 courses from its website, built incrementally by an
