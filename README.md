@@ -4,6 +4,13 @@ A living, interlinked knowledge base of MIT OpenCourseWare's 2,500+ courses,
 built incrementally by an LLM agent following the [LLM Wiki
 pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
 
+The creation of this knowledge base is in service of the [Wiki MIT
+project](https://meta.wikimedia.org/wiki/Wiki_MIT), which aims to connect
+MIT OpenCourseWare with Wikipedia. By connecting the breadth of MIT Open
+Learning with the Wikimedia ecosystem, this project prototypes a sustainable
+exchange for high-quality, openly licensed academic expertise — ranging from
+courseware materials to multimedia content.
+
 Courses are ingested from the [MIT Learn API](https://api.learn.mit.edu) and
 cross-referenced against Wikipedia to identify where MIT's open-licensed
 educational materials can improve articles. The wiki is maintained as markdown
