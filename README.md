@@ -24,7 +24,7 @@ Courses are ingested from the [MIT Learn API](https://api.learn.mit.edu) and cro
 | Grouped lecture format | ✅ | One line per lecture with inline format badges |
 | Pre-commit hook | ✅ | Auto-rebuilds index on wiki changes |
 | Wikipedia crossref strategy | ✅ | Three-tier matching, unified SQL query, scoring model |
-| Interactive crossref heatmap | ✅ | 9 WikiProjects × 18 OCW departments, live demo |
+| **OCW ↔ Wikipedia Match Heatmap** | ✅ **v0.1** | 9 WikiProjects × 18 OCW departments, interactive matrix |
 | **Contribution Impact Matrix** | ✅ **v0.1** | D3.js bubble scatterplot — standalone HTML |
 | **Detail panel with context** | ✅ | Pre-computed wikitext: section, date, sentence |
 | **Popular pages pipeline** | ✅ | Beats API rate limits, 100% view coverage |
@@ -86,8 +86,10 @@ Maintenance template context (section name, date parameter, preceding sentence) 
 
 ### OCW ↔ Wikipedia Match Heatmap
 
-Another tool prototype is the cross-reference matrix at `wiki/reports/crossref-heatmap.html` showing where
-MIT OCW course content overlaps with Wikipedia WikiProject article scopes.
+A cross-reference matrix (`wiki/reports/crossref-heatmap.html`, tagged
+[`v0.1-heatmap`](https://github.com/fuzheado/mit-ocw-wiki/releases/tag/v0.1-heatmap))
+showing where MIT OCW course content overlaps with Wikipedia WikiProject
+article scopes.
 
 The heatmap arranges **18 OCW departments** (rows, grouped by school) against
 **9 WikiProjects** (columns). Each cell counts how many articles in that
