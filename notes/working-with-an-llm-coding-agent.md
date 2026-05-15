@@ -154,11 +154,15 @@ the agent could see what it built and self-correct.
 an `AI_Continuation_Document` — a structured summary of project state, recent
 work, decisions made, open threads, known bugs, and a resume prompt. The next
 session started by reading this document, which let the agent pick up mid-
-stream without re-deriving the architecture. This pattern — having the agent
-memorialize its own state — was essential for multi-session work. Without it,
-each new session would have started from scratch, and context from previous
-sessions (why a particular SQL query was chosen, what alternatives were tried
-and rejected) would have been lost.
+stream without re-deriving the architecture. This pattern was essential
+because session contexts regularly approached **1 million tokens** — already
+a very high context window by current model standards. Rather than compacting
+or trimming the conversation, the agent would start a completely fresh session
+with a blank context, ingest the continuation document, and continue
+performing as if no handoff had occurred. Without this, each new session
+would have started from scratch, and context from previous sessions (why a
+particular SQL query was chosen, what alternatives were tried and rejected)
+would have been lost.
 
 **Proactively protected secrets and infrastructure.** The agent added `.env`
 to `.gitignore` without being asked — no one had to tell it that database
