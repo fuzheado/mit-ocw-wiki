@@ -157,9 +157,9 @@ session started by reading this document, which let the agent pick up mid-
 stream without re-deriving the architecture. This pattern was essential
 because session contexts regularly approached **1 million tokens** — already
 a very high context window by current model standards. Rather than compacting
-or trimming the conversation, the agent would start a completely fresh session
-with a blank context, ingest the continuation document, and continue
-performing as if no handoff had occurred. Without this, each new session
+or trimming the conversation, **I could start a completely fresh session
+with a blank context in OpenCode**, ingest the continuation document, and
+the agent would continue performing as if no handoff had occurred. Without this, each new session
 would have started from scratch, and context from previous sessions (why a
 particular SQL query was chosen, what alternatives were tried and rejected)
 would have been lost.
