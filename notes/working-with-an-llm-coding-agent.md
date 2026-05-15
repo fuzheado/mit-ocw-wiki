@@ -73,10 +73,21 @@ were the right unit of analysis.
 
 - **WikiProject Vital Articles taxonomy** — The agent's initial attempt at
   categorizing 942 WikiProjects into domains was ad-hoc keyword matching
-  that left 334 projects uncategorized. I pointed to Wikipedia's own Vital
-  Articles hierarchy, which has decades of editorial consensus behind it.
-  This gave the taxonomy legitimacy and structure that keyword rules never
-  could.
+  that left 334 projects uncategorized across 25 messy categories. I pointed
+  to Wikipedia's [Vital Articles template](https://en.wikipedia.org/wiki/Template:Vital_articles),
+  which organizes the encyclopedia's most important articles into an
+  11-category hierarchy (People, History, Geography, Arts, Philosophy &
+  Religion, Everyday Life, Society, Biology & Health, Physical Sciences,
+  Technology, Mathematics). This taxonomy has decades of editorial consensus
+  behind it. The agent fetched the template's structure via the API, mapped
+  each WikiProject against it, then made targeted pragmatic adjustments
+  (elevating Transportation and Sports to top-level categories, adding a
+  "Wikipedia Maintenance" bucket for meta-projects, merging five arts
+  subcategories into one). The result: 15 stable domains, zero uncategorized,
+  with a defensible rationale for every placement — documented in the
+  classification decision log. This gave the taxonomy legitimacy that
+  keyword rules never could, because it was grounded in Wikipedia's own
+  understanding of how its knowledge is organized.
 
 - **Caching API calls** — While iterating on the data pipeline, the agent
   was re-fetching hundreds of raw wikitext pages on every run. I noticed the
