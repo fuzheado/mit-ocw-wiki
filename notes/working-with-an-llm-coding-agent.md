@@ -14,10 +14,14 @@ WikiProjects. The project is primarily **Python** (data generation, SQL
 queries, wikitext parsing, API orchestration) with **vanilla JavaScript +
 D3.js** for the browser visualization — no frameworks, no build step.
 
-The agent used was **OpenCode CLI** running **DeepSeek V4 Flash** with the
-reasoning effort set to **"high"** (which allocates more compute to internal
-reasoning before generating each response, producing more thorough and
-carefully considered outputs). All
+The agent used was **OpenCode CLI** running **DeepSeek V4 Flash** in
+[thinking mode](https://api-docs.deepseek.com/guides/thinking_mode) with
+the reasoning effort set to **`max`** (OpenCode automatically uses this
+setting for complex agent sessions). In this mode, the model outputs an
+internal chain-of-thought before each response, producing more thorough
+and carefully considered outputs. Notably, thinking mode disables the
+`temperature`, `top_p`, and penalty parameters — the model is not being
+"more random" or "more creative," it's reasoning harder before speaking.
 sessions combined consumed no more than **USD $10** in API costs (May 2026).
 This extremely low cost — a few dollars for what would have been weeks of
 human developer time — is itself a notable data point about the current
