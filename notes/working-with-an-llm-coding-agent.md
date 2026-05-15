@@ -22,10 +22,18 @@ producing more thorough and carefully considered outputs. Notably, thinking
 mode disables the `temperature`, `top_p`, and penalty parameters — the model
 is not being "more random" or "more creative," it's reasoning harder before
 speaking.
-sessions combined consumed no more than **USD $10** in API costs (May 2026).
-This extremely low cost — a few dollars for what would have been weeks of
-human developer time — is itself a notable data point about the current
-economics of LLM-assisted software development.
+
+All sessions combined consumed no more than **USD $10** in API costs (May 2026).
+This extremely low cost is explained by DeepSeek V4 Flash's pricing: **$0.14
+per million input tokens** (cache miss), **$0.0028 per million input tokens**
+(cache hit), and **$0.28 per million output tokens** — among the lowest in
+the industry. For context, comparable models from OpenAI (GPT-4o) and
+Anthropic (Claude Sonnet 4) charge roughly 15-50x more per token. In total,
+the project consumed somewhere in the tens of millions of tokens across all
+sessions, with the majority of input tokens being cache hits (repeated
+project context across sessions). A few dollars for what would have been
+weeks of human developer time — this is itself a notable data point about
+the current economics of LLM-assisted software development.
 
 The collaboration spanned roughly a dozen sessions over several days, each
 session an open-ended conversation rather than a written specification. I
@@ -49,6 +57,15 @@ required both sides to bring different strengths. If you're reading this
 to understand whether a coding agent could replicate this work, the answer
 is: not alone, and not in one shot.
 
+### Contents
+
+- [Project Context](#project-context) — goal, tools, costs, session structure
+- [The Division of Labor](#the-division-of-labor) — what the human did, what the
+  agent did, and what the agent could not do
+- [Key Insights for Future Projects](#key-insights-for-future-projects) — six
+  patterns from the collaboration
+- [Suggested Citation](#suggested-citation) — for academic or project references
+
 ---
 
 ## The Division of Labor
@@ -67,7 +84,7 @@ were the right unit of analysis.
   parsing, which broke on edge cases. I knew about mwparserfromhell because
   it's the de-facto wikitext parser in the Python ecosystem, born from years
   of frustration with MediaWiki's irregular, evolved-over-decades markup. The
-  name itself ("from hell") is a inside joke about how hard wikitext is to
+  name itself ("from hell") is an inside joke about how hard wikitext is to
   parse. The agent didn't know this existed.
 
 - **Community Tech bot Popular pages** — When the agent hit rate limits on
@@ -379,11 +396,12 @@ If referencing this collaboration pattern in academic or project
 documentation:
 
 > The technical implementation — data pipeline, visualization, classification
-> — was built by an LLM coding agent (Claude Code / OpenCode) guided by a
-> human domain expert who set the strategic direction, identified key tools
-> and data sources, and made editorial decisions about the taxonomy and user
-> experience. The work required approximately [N] sessions over [M] days,
-> with each session involving multiple rounds of proposal and revision.
+> — was built by an LLM coding agent (OpenCode CLI running DeepSeek V4 Flash)
+> guided by a human domain expert who set the strategic direction, identified
+> key tools and data sources, and made editorial decisions about the taxonomy
+> and user experience. The work required roughly a dozen sessions over several
+> days, with the human starting most sessions by ingesting a continuation
+> document that preserved project context across handoffs.
 
 ---
 
