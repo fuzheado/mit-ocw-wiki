@@ -49,7 +49,7 @@ cross-referenced against Wikipedia:
 | **OCW ↔ Wikipedia Match Heatmap** | ✅ **v0.1** | 9 WikiProjects × 18 OCW departments, interactive matrix |
 | **Contribution Impact Matrix** | ✅ **v0.1** | D3.js bubble scatterplot — standalone HTML |
 | **Detail panel with context** | ✅ | Pre-computed wikitext: section, date, sentence |
-| **Popular pages pipeline** | ✅ | Beats API rate limits, 100% view coverage |
+| **Popular pages pipeline** | ✅ | Identified method to determine most-popular pages per WikiProject that beats Wikimedia API rate limits — uses Community Tech bot's pre-compiled Popular pages tables via a single `action=parse` call per project instead of 1,000+ individual pageview API calls |
 
 ## Key features
 
