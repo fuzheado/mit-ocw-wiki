@@ -1,8 +1,30 @@
 # MIT OCW LLM Wiki
 
-A living, interlinked knowledge base of MIT OpenCourseWare's 2,500+ courses, built incrementally by an LLM agent following the [LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
+A living, interlinked knowledge base of MIT OpenCourseWare's 2,500+ courses,
+built incrementally by an LLM agent following the [LLM Wiki
+pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
 
-Courses are ingested from the [MIT Learn API](https://api.learn.mit.edu) and cross-referenced against Wikipedia to identify where MIT's open-licensed educational materials can improve articles. The wiki is maintained as markdown files, compiled into a browsable site by the WikiWise app.
+Courses are ingested from the [MIT Learn API](https://api.learn.mit.edu) and
+cross-referenced against Wikipedia to identify where MIT's open-licensed
+educational materials can improve articles. The wiki is maintained as markdown
+files and compiled into a browsable site by the WikiWise app.
+
+This repository also contains two interactive data visualization tools that
+demonstrate what becomes possible once course metadata is normalized and
+cross-referenced against Wikipedia:
+
+- **Contribution Impact Matrix** ([`v0.1-impact-matrix`]) — a D3.js bubble
+  scatterplot that surfaces high-impact articles to improve within any
+  WikiProject. Uses pre-computed pageviews, quality ratings, importance, and
+  maintenance template data. Self-contained HTML, works from `file://`.
+
+- **OCW ↔ Wikipedia Match Heatmap** ([`v0.1-heatmap`]) — a cross-reference
+  matrix showing where OCW course content overlaps with Wikipedia WikiProject
+  article scopes. 18 OCW departments × 9 WikiProjects, with clickable cells
+  for match details.
+
+[`v0.1-impact-matrix`]: https://github.com/fuzheado/mit-ocw-wiki/releases/tag/v0.1-impact-matrix
+[`v0.1-heatmap`]: https://github.com/fuzheado/mit-ocw-wiki/releases/tag/v0.1-heatmap
 
 ## Status
 
