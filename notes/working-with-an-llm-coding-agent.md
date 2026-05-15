@@ -150,12 +150,69 @@ Without this capability, every visual bug would have required me to open the
 file, reproduce the issue, and describe it back to the agent. With Playwright,
 the agent could see what it built and self-correct.
 
+**Wrote its own session memory.** At the end of each session, the agent wrote
+an `AI_Continuation_Document` — a structured summary of project state, recent
+work, decisions made, open threads, known bugs, and a resume prompt. The next
+session started by reading this document, which let the agent pick up mid-
+stream without re-deriving the architecture. This pattern — having the agent
+memorialize its own state — was essential for multi-session work. Without it,
+each new session would have started from scratch, and context from previous
+sessions (why a particular SQL query was chosen, what alternatives were tried
+and rejected) would have been lost.
+
+**Proactively protected secrets and infrastructure.** The agent added `.env`
+to `.gitignore` without being asked — no one had to tell it that database
+credentials shouldn't be committed. It also added `.wiki_cache/` (the
+diskcache directory containing cached API responses) to `.gitignore`, kept
+the User-Agent string consistent across all API calls for Wikimedia compliance,
+and warned before running any command that modified remote state. This security
+reflex — treating credentials, API limits, and infrastructure as first-class
+concerns — built trust that the agent could be given broad system access
+without close supervision.
+
 **Created reusable skills.** Competencies like Wikimedia database access,
 page assessment queries, and pageview retrieval were isolated into Claude
 skill files (`.claude/skills/`). These are standalone markdown documents that
 any Claude Code session can discover and use, meaning the agent won't have to
 re-derive the SSH tunnel setup or the Popular pages parsing logic from scratch
 next time.
+
+### What the Agent Could Not Do
+
+For balance, it's worth making explicit what the agent could not do — because
+these limits shaped the project as much as its capabilities.
+
+**Could not set up accounts or infrastructure.** The agent could not create a
+Wikimedia developer account, generate SSH keys, add them to the ssh-agent, or
+negotiate Toolforge access. All of these require a human identity, a browser
+session on the Wikimedia wiki, and manual approval. The agent could use the
+tunnel once it existed, but it could not create it.
+
+**Could not know what "looks right."** The agent generated many versions of the
+scatterplot that were technically correct — correct data, correct D3.js API
+usage — but visually confusing. Bubble colors that were too similar, axis
+labels that overlapped, tooltips that appeared off-screen. These required a
+human to look at and say "something's off" before the agent could fix them.
+The agent could implement design feedback but could not generate it from first
+principles.
+
+**Could not evaluate tradeoffs without being prompted.** When faced with a
+choice — Popular pages vs. REST API, single-file vs. per-project, keyword
+classification vs. taxonomy — the agent would present options with data but
+would not (and should not) make the final call. The human brought editorial
+judgment rooted in understanding who would use the tool and what they would
+find intuitive. The agent could analyze, but not decide.
+
+**Could not know when to stop.** Without a human saying "this is good enough,"
+the agent would continue refining: more classification rules, more edge-case
+handling, more filter options. The human's role included recognizing
+diminishing returns and capping scope. This is a general pattern: LLM agents
+tend to over-optimize unless given an explicit stopping criterion.
+
+**Could not navigate Wikipedia community norms.** The agent did not know that
+some WikiProjects are inactive, that certain template aliases are deprecated,
+or that the Vital Articles hierarchy represents years of often-contentious
+consensus. It could process the data but not the social context around it.
 
 ---
 
@@ -205,7 +262,7 @@ Each stage unearthed new constraints that changed the approach. The agent
 could keep the full context of these iterations; a human would need to
 re-discover them through documentation.
 
-### 4. Skills Work, But They Need Active Maintenance
+### 4. Skills Work, But They Need Active Maintenance (and Honest Evaluation)
 
 The `.claude/skills/` directory isolates competencies into files that
 Claude Code auto-discovers. This is effective for:
@@ -216,7 +273,22 @@ Claude Code auto-discovers. This is effective for:
   column naming, the `ifilter_templates` deduplication bug.
 - **Compliance** — User-Agent strings, rate-limit best practices.
 
-However, skills are static documents. They don't update themselves when
+**However, the honest assessment is that skills were written more than they
+were reused.** In practice, the agent typically re-derived SQL queries and
+API call patterns from the existing codebase (copying patterns from
+`scripts/impact-matrix-server.py` into `scripts/generate-impact-matrix-data.py`)
+rather than loading a skill file. The skills captured knowledge that would
+otherwise be lost between sessions, but they were not the primary mechanism
+for code reuse within this project.
+
+Where skills did provide clear value was in **onboarding** — if a new agent
+started a session on this project tomorrow, reading the database skill would
+save it from having to re-discover the SSH tunnel setup, the `linktarget`
+join pattern, and the compliant User-Agent. As institutional memory rather
+than active tooling, they work well. As a just-in-time code-generation
+mechanism, they were less impactful than expected.
+
+Skills are also static documents. They don't update themselves when
 Wikimedia's schema changes or when a new API endpoint becomes available.
 They need periodic human review to stay current.
 
@@ -224,7 +296,31 @@ For non-Claude agents (Codex, Copilot, OpenCode), skills are just markdown
 files that the human can point the agent to. The pattern works but requires
 the human to know the skill exists and tell the agent to read it.
 
-### 5. The "One-Shot" Myth
+### 5. "Done" Means "Open It and Look at It"
+
+This project had no automated tests, no CI pipeline, no QA process. The
+definition of "done" for every feature was: open the HTML file in a browser,
+try the interaction, see if the data looks correct. This is an unusual QA
+model for software development, but it worked here because:
+
+- **The output was visual and interactive.** The scatterplot either rendered
+  correctly or it didn't. Filters either showed the right articles or they
+  didn't. There was rarely ambiguity about whether something worked.
+- **The agent could self-verify.** With Playwright, the agent could open the
+  file, interact with it, take screenshots, and check console errors without
+  involving the human for every iteration.
+- **The cost of being wrong was low.** A bug meant the human said "this
+  doesn't look right" and the agent fixed it in minutes. There was no
+  production deployment, no user impact, no data corruption risk.
+
+For a project of this scale — two tools, a dozen sessions, no users beyond
+the two of us — this lightweight QA model was appropriate. For a project
+with real users or production data, tests would be necessary. But the
+pattern is worth noting: an LLM agent with browser automation can do a
+significant amount of its own quality assurance, reducing the human's
+verification burden to periodic spot-checks rather than exhaustive testing.
+
+### 6. The "One-Shot" Myth
 
 The most important takeaway: **this project could not have been built in a
 single prompt or even a single session.** The architecture, data sources,
