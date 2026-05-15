@@ -1,5 +1,23 @@
 # Working with an LLM Coding Agent on Wikimedia Projects
 
+## Project Context
+
+This document describes how the Wiki MIT project was built — not by a
+developer writing code from a spec, but by a human Wikipedia editor
+collaborating with an LLM coding agent over many sessions. The project's
+goal: connect MIT OpenCourseWare's 2,577 open-licensed courses to Wikipedia
+articles that need improvement, using WikiProject data (pageviews, quality
+ratings, maintenance templates) to surface high-impact editing opportunities.
+The tools produced include a D3.js bubble scatterplot (Contribution Impact
+Matrix) and a cross-reference heatmap between OCW departments and Wikipedia
+WikiProjects.
+
+The agent used was **OpenCode CLI** running **DeepSeek V4 Flash**. All
+sessions combined consumed no more than **USD $10** in API costs (May 2026).
+This extremely low cost — a few dollars for what would have been weeks of
+human developer time — is itself a notable data point about the current
+economics of LLM-assisted software development.
+
 ## What This Document Is
 
 A retrospective on how this project was actually built — not as a linear
