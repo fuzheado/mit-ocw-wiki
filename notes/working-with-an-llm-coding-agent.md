@@ -138,6 +138,18 @@ the per-project manifest architecture, the agent analyzed data size scaling,
 generation time, and versioning gaps — showing that the single-file approach
 breaks around 50-80 projects. This analysis happened in minutes, not days.
 
+**Used a real browser to test interactive visuals.** The Contribution Impact
+Matrix is a D3.js visualization that responds to clicks, hovers, filters, and
+sliders — none of which can be verified by reading code alone. The agent used
+**Playwright** (a browser automation tool) to open the standalone HTML file
+from `file://`, take screenshots at each iteration, click on bubbles to
+verify the detail panel slid out, type in the search box, toggle filters,
+and check the browser console for JavaScript errors. This was essential for a
+project with zero automated test suite — the browser was the test harness.
+Without this capability, every visual bug would have required me to open the
+file, reproduce the issue, and describe it back to the agent. With Playwright,
+the agent could see what it built and self-correct.
+
 **Created reusable skills.** Competencies like Wikimedia database access,
 page assessment queries, and pageview retrieval were isolated into Claude
 skill files (`.claude/skills/`). These are standalone markdown documents that
