@@ -54,7 +54,7 @@ of Wikipedia editing experience. The agent had no way to know which signals
 mattered (pageviews, quality, importance, templates) or that WikiProjects
 were the right unit of analysis.
 
-**Pointed to obscure but essential tools.** Three examples:
+**Pointed to obscure but essential tools.** Four examples:
 
 - **`mwparserfromhell`** — The agent initially tried regex-based wikitext
   parsing, which broke on edge cases. I knew about mwparserfromhell because
@@ -77,6 +77,16 @@ were the right unit of analysis.
   Articles hierarchy, which has decades of editorial consensus behind it.
   This gave the taxonomy legitimacy and structure that keyword rules never
   could.
+
+- **Caching API calls** — While iterating on the data pipeline, the agent
+  was re-fetching hundreds of raw wikitext pages on every run. I noticed the
+  slowdown and the rate-limit warnings and asked the agent to implement
+  caching. I had used `requests_cache` in the past, but the agent recommended
+  **diskcache** ("DiskCache is faster, more modern, and handles larger data
+  better"). I wouldn't have known about diskcache — there are dozens of
+  Python caching libraries and no obvious winner. The agent did. This was a
+  rare case where the technical knowledge flowed from agent to human, and it
+  saved us both time: cached runs dropped from ~35 minutes to ~90 seconds.
 
 **Handled infrastructure that requires a real human identity.** The agent
 could not create a Wikimedia developer account, set up SSH keys, or sign up
