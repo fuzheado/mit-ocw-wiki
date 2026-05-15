@@ -10,7 +10,9 @@ articles that need improvement, using WikiProject data (pageviews, quality
 ratings, maintenance templates) to surface high-impact editing opportunities.
 The tools produced include a D3.js bubble scatterplot (Contribution Impact
 Matrix) and a cross-reference heatmap between OCW departments and Wikipedia
-WikiProjects.
+WikiProjects. The project is primarily **Python** (data generation, SQL
+queries, wikitext parsing, API orchestration) with **vanilla JavaScript +
+D3.js** for the browser visualization — no frameworks, no build step.
 
 The agent used was **OpenCode CLI** running **DeepSeek V4 Flash**. All
 sessions combined consumed no more than **USD $10** in API costs (May 2026).
