@@ -22,6 +22,11 @@ Before executing any SQL, the agent must ensure the tunnel is active.
 * **Check:** Attempt a connection to `127.0.0.1:3306`.
 * **Auto-Establish:** If the port is closed, the agent should attempt to spawn a background SSH process:
 `ssh -L 3306:enwiki.analytics.db.svc.wikimedia.cloud:3306 ${TOOLFORGE_USER}@login.toolforge.org -N`
+* **Persistence (Recommended):** For long-running data generation, use `autossh` instead of plain
+  `ssh`. Autossh monitors the connection and re-establishes it if the tunnel drops, which happens
+  frequently during multi-hour sessions. Install with `brew install autossh` (macOS) or
+  `apt install autossh` (Linux), then use:
+  `autossh -M 0 -o "ServerAliveInterval 30" -o "ServerAliveCountMax 3" -L 3306:enwiki.analytics.db.svc.wikimedia.cloud:3306 ${TOOLFORGE_USER}@login.toolforge.org -N -v`
 * **Escalation:** If the tunnel fails to open, provide the user with the command above to run manually.
 
 ### **2. Implementation Pattern (Python)**
