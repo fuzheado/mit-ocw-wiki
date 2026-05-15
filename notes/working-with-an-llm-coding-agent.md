@@ -20,6 +20,20 @@ This extremely low cost — a few dollars for what would have been weeks of
 human developer time — is itself a notable data point about the current
 economics of LLM-assisted software development.
 
+The collaboration spanned roughly a dozen sessions over several days, each
+session an open-ended conversation rather than a written specification. I
+would describe what I wanted in plain language — "make the bubble color
+reflect how many maintenance templates are on the page" — and the agent would
+propose code, I'd review the result, and we'd iterate. No tickets, no PR
+reviews, no formal requirements documents. The agent retained context across
+sessions via project files (continuation documents, checkpoint files),
+meaning it could pick up where it left off without re-explaining the
+architecture. This fluidity — the ability to try an idea, see it fail, and
+redirect in minutes — is the core advantage over traditional development.
+And it required no specialized training or fine-tuning of the model; a
+general-purpose LLM with internet-era knowledge of Python, D3.js, and SQL
+was sufficient.
+
 ## What This Document Is
 
 A retrospective on how this project was actually built — not as a linear
