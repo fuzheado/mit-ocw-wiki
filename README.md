@@ -5,10 +5,6 @@ OpenCourseWare's 2,577 courses from its website, built incrementally by an
 LLM agent following the [LLM Wiki
 pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
 
-The 2,577 courses MIT OpenCourseWare has published are scattered across HTML
-pages, PDF syllabi, YouTube playlists, and archive.org metadata. This repo
-pulls them into one place.
-
 The creation of this knowledge base is in service of the [Wiki MIT
 project](https://meta.wikimedia.org/wiki/Wiki_MIT), which aims to connect
 MIT OpenCourseWare with Wikipedia. By connecting the breadth of MIT Open
