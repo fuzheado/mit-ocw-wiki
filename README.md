@@ -1,7 +1,9 @@
 # MIT OCW LLM Wiki
 
-A living, interlinked knowledge base of MIT OpenCourseWare's 2,500+ courses,
-built incrementally by an LLM agent following the [LLM Wiki
+The 2,577 courses MIT OpenCourseWare has published are scattered across HTML
+pages, PDF syllabi, YouTube playlists, and archive.org metadata. This repo
+pulls them into one place — a living, interlinked knowledge base built
+incrementally by an LLM agent following the [LLM Wiki
 pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
 
 The creation of this knowledge base is in service of the [Wiki MIT
