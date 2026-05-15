@@ -89,8 +89,7 @@ were the right unit of analysis.
   better." I would have reached for `requests_cache` (the older, more widely
   known library), but the agent knew a better fit. This was a great
   illustration of both parties doing what they do best, together: I
-  identified the problem (repeated fetches, rate-limit risk), and the agent
-  picked the最优 solution from a crowded library landscape. The result:
+  identified the problem (repeated fetches, rate-limit risk), and the agent picked the right solution from a crowded library landscape. The result:
   cached runs dropped from ~35 minutes to ~90 seconds.
 
 **Handled infrastructure that requires a real human identity.** The agent
