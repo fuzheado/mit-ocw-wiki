@@ -96,7 +96,6 @@ The tool shows a visualization of a given WikiProject, using its "Popular pages"
   - Action links: "Read article", "Edit page" (direct to source editor)
 - Scatter/Table view toggle (sortable columns)
 - Assessed / Predicted quality toggle (mocked ORES)
-- School group headers (Engineering, Science, Humanities, etc.)
 
 **Data pipeline:**
 - 8 WikiProjects × 500-1000 articles each (6,500 total)
@@ -152,6 +151,9 @@ opencode
 ## Key commands
 
 ```bash
+# Contribution Impact Matrix
+open wiki/impact-matrix/standalone.html           # Open the tool (file:// works)
+
 # Ingest a single course + asset scan
 python3 scripts/scan-assets.py --hybrid {slug}
 
@@ -161,6 +163,10 @@ python3 scripts/scan-assets.py --hybrid --skip-scanned {slug}
 # Generate crossref demo reports
 python3 scripts/crossref-wikipedia.py --report --demo
 
+# Live query server (requires SSH tunnel + .env)
+python3 scripts/impact-matrix-server.py
+# Then open http://localhost:8899/wiki/impact-matrix/index.html
+
 # Regenerate index
 python3 scripts/regenerate-index.py
 ```
@@ -169,11 +175,17 @@ python3 scripts/regenerate-index.py
 
 - `CLAUDE.md` — agent instructions and project schema
 - `CROSSREF-STRATEGY.md` — Wikipedia matching strategy with unified SQL query
+- `DESIGN.md` — impact matrix architecture, data flow, key decisions
+- `HANDOFF.md` — session context and next actions for agent handoff
+- `PRD-CONTRIBUTION-IMPACT-MATRIX.md` — product requirements for the scatterplot tool
 - `TECHNICAL.md` — architecture, data sources, scan modes, video detection patterns
 - `raw/` — immutable API source data
-- `wiki/` — LLM-maintained markdown pages (courses, departments, topics, instructors, crossrefs, reports)
+- `wiki/` — LLM-maintained markdown pages (courses, departments, topics, crossrefs, reports)
+- `wiki/impact-matrix/` — Contribution Impact Matrix: standalone HTML, data, screenshots
+- `wiki/reports/` — crossref heatmaps, Popular pages reports
+- `notes/` — design specs, research findings, pageview data issues
 - `site/` — WikiWise build tooling
-- `scripts/` — ingest-batch.py, scan-assets.py, regenerate-index.py, crossref-wikipedia.py
+- `scripts/` — ingest-batch.py, scan-assets.py, regenerate-index.py, crossref-wikipedia.py, impact-matrix-server.py
 - `.claude/skills/` — skill files for Wikimedia database access, page assessments, pageviews
 
 ## Project files
@@ -184,7 +196,12 @@ python3 scripts/regenerate-index.py
 | `OCW-LLM-WIKI-GIT.md` | Version control best practices |
 | `OCW-LLM-WIKI-EXECUTION.md` | Staged execution plan with checkpoint resume |
 | `CROSSREF-STRATEGY.md` | Wikipedia cross-reference strategy and unified SQL query design |
+| `DESIGN.md` | Impact matrix architecture, data flow, key decisions |
+| `PRD-CONTRIBUTION-IMPACT-MATRIX.md` | Product requirements for the scatterplot tool |
 | `TECHNICAL.md` | Technical architecture and scan mode comparison |
+| `HANDOFF.md` | Session context, next actions, known issues for agent handoff |
+| `notes/pageview-data-issues.md` | Pageview data research (3 failed approaches, Popular pages resolution) |
+| `notes/detail-panel-spec.md` | Detail panel content specification |
 
 ## License
 
