@@ -101,6 +101,20 @@ def _is_mit_article(title: str) -> bool:
     return False
 
 
+def _is_low_value_article(title: str) -> bool:
+    """Filter navigation pages, overly broad topics, education meta-articles."""
+    lower = title.lower()
+    nav_prefixes = ("list of", "glossary of", "glossary", "outline of",
+                    "index of", "timeline of")
+    if lower.startswith(nav_prefixes):
+        return True
+    if " " not in title and "(" not in title and len(title) > 3:
+        return True
+    if lower.endswith(" education") and lower != "education":
+        return True
+    return False
+
+
 def search_articles(query: str, limit: int = 50) -> list:
     """Search Wikipedia for articles matching a topic query."""
     encoded = urllib.parse.quote(query)
@@ -269,6 +283,9 @@ def generate(projects: list = None, articles_per_project: int = 50) -> dict:
         for article, tmpls in sorted(with_t.items()):
             # Skip MIT-internal articles
             if _is_mit_article(article):
+                continue
+            # Skip low-value articles
+            if _is_low_value_article(article):
                 continue
             matches = match_article(article, dept_courses, dept_codes)
             if matches:

@@ -399,6 +399,34 @@ def _is_mit_article(title: str) -> bool:
     return False
 
 
+def _is_low_value_article(title: str) -> bool:
+    """
+    Filter out articles where OCW references add little value:
+    - Navigation pages (lists, glossaries, outlines, indices)
+    - Overly broad single-word topics ("Chemistry", "Physics")
+    - Articles about education/pedagogy, not the subject itself
+    """
+    lower = title.lower()
+
+    # Navigation pages
+    nav_prefixes = ("list of", "glossary of", "glossary", "outline of",
+                    "index of", "timeline of")
+    if lower.startswith(nav_prefixes):
+        return True
+
+    # Overly broad single-word articles
+    if " " not in title and "(" not in title and len(title) > 3:
+        return True
+
+    # Education-topic articles (about teaching, not the subject)
+    if lower.endswith(" education") and lower != "education":
+        return True
+    if lower in ("education sciences", "pedagogy"):
+        return True
+
+    return False
+
+
 def score_match(article_title: str, templates: list, lecture_title: str) -> dict:
     """
     Score a single article↔lecture match.
@@ -464,6 +492,9 @@ def score_all_matches(demo_data: dict, course_urls: dict, lecture_titles: dict, 
 
             # Skip MIT-internal articles — circular to suggest MIT OCW for MIT departments
             if _is_mit_article(article_title):
+                continue
+            # Skip low-value articles — navigation pages, overly broad topics, education meta
+            if _is_low_value_article(article_title):
                 continue
             # Use live template data, fall back to demo estimate
             templates = TEMPLATE_CACHE.get(article_title, article.get("templates", []))
