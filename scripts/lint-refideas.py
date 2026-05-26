@@ -414,13 +414,11 @@ def generate_fix(wikitext: str, article_title: str) -> Tuple[str, List[LintError
             for p in tmpl.params:
                 v = str(p.value).strip()
                 n = str(p.name).strip()
+                # Preserve non-reference params (state, comment, small)
                 if n in ("comment", "state", "small"):
-                    continue
-                # Preserve numbered params: |1=value; bare positional: |value
-                if n.isdigit():
                     all_vals.append(f"{n}={v}")
-                else:
-                    all_vals.append(v)
+                elif n.isdigit():
+                    all_vals.append(f"{n}={v}")
             ref_lines = ["{{refideas"]
             for v in all_vals:
                 ref_lines.append(f"|{v}")
@@ -488,6 +486,8 @@ def generate_fix(wikitext: str, article_title: str) -> Tuple[str, List[LintError
                             v = v[2:]
                         # Preserve numbering: |1=value vs |value
                         if n.isdigit():
+                            all_vals.append(f"{n}={v}")
+                        elif n in ("comment", "state", "small"):
                             all_vals.append(f"{n}={v}")
                         else:
                             all_vals.append(v)

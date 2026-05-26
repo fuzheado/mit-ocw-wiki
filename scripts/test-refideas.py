@@ -375,6 +375,32 @@ Text."""
         self.assertFalse(result2.has_actionable_errors)
 
 
+class TestStateCommentPreserved(unittest.TestCase):
+    """state=, comment= params must survive reformatting."""
+
+    def test_state_collapsed_preserved(self):
+        wikitext = """{{refideas
+|state=collapsed
+|1=https://a.com
+|2=https://a.com
+}}
+== Talk ==
+Text."""
+        _, fixed, _ = lint_and_fix(wikitext)
+        self.assertIn("state=collapsed", fixed)
+        self.assertEqual(fixed.count("https://a.com"), 1)
+
+    def test_comment_preserved(self):
+        wikitext = """{{refideas
+|comment=These are useful sources
+|1=https://example.com
+}}
+== Talk ==
+Text."""
+        _, fixed, _ = lint_and_fix(wikitext)
+        self.assertIn("comment=These are useful sources", fixed)
+
+
 class TestPikminRegression(unittest.TestCase):
     """Regression tests for bugs found in production."""
 
