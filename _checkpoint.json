@@ -12,8 +12,10 @@
     },
     "asset_scan": {
       "complete": true,
-      "courses_done": 12,
-      "last_course_id": null
+      "courses_done": 2165,
+      "parallel_scanner_built": true,
+      "last_course_id": null,
+      "notes": "scan-batch-parallel.py with 8 workers scanned 2165 courses in 13.5 min (2.7/s). 2869 lecture titles across 149 courses."
     },
     "crossref": {
       "complete": false,
@@ -21,9 +23,10 @@
       "demo_report_built": true,
       "heatmap_built": true,
       "impact_matrix_prototype": true,
-      "live_sql_tunnel": true,
+      "live_sql_tunnel": false,
       "popular_pages_integrated": true,
-      "notes": "SSH tunnel to enwiki_p works. Pageview data via Popular pages."
+      "live_match_generator_built": true,
+      "notes": "SSH tunnel not active. generate-matches.py searches Wikipedia API across 25 WikiProjects, detects templates via mwparserfromhell, matches by keyword overlap with OCW courses. 156 articles across 25 projects after filtering."
     },
     "l1_refideas": {
       "complete": true,
@@ -33,10 +36,15 @@
       "insert_editor_built": true,
       "generic_cli_built": true,
       "pure_function_extracted": true,
+      "prioritize_matches_built": true,
+      "match_generator_built": true,
+      "mwparserfromhell_templates": true,
+      "idf_weighted_scoring": true,
       "test_suite": "50 tests, all passing (28 linter + 22 insert)",
       "pages_fixed": 8,
       "pages_refideas_added": 7,
-      "notes": "Three fix types: multi_bullet, bullet_syntax, duplicate_url. Insert: build_refideas_wikitext (pure fn, 22 tests) + refideas_add (orchestrator + dedup) + l1_insert_refideas (OCW wrapper). Generic CLI: refideas-add.py. Editing via bot password in .env. 4 refideas posted: Algorithm (6.006), Carbon dioxide (5.111SC), Earth Day (11.165), El Ni\u00f1o (12.800)."
+      "match_corpus": "156 articles across 25 WikiProjects (filtered from 310 with MIT-internal, outlines, single-word, institutions, organizations, geo-locale filters)",
+      "notes": "Full pipeline: generate-matches.py (API search + mwparserfromhell template detection) → prioritize-matches.py (template gate + IDF-weighted overlap + specificity scoring) → apply-l1-refideas.py (live posting). Modes: rank, -v verbose, --interactive N, --apply-top N --yes. All demo data replaced with live Wikipedia API queries."
     },
     "l2_external_links": {
       "complete": false,

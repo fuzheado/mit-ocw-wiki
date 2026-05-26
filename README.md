@@ -37,9 +37,10 @@ cross-referenced against Wikipedia:
 ## Status
 
 - **Courses discovered:** 2,577 (all ingested)
-- **Courses asset-scanned:** ~2,500+ (hybrid scan)
+- **Courses asset-scanned:** 2,165 (parallel scan, 13.5 min)
 - **Departments:** 37 | **Topics:** 110 | **Instructors:** 2,142
-- **Stages:** Bootstrap (0-2) ✅ | Asset scan (3) ✅ | Wikipedia crossref (4) ✅ | Contribution Impact Matrix (4b) ✅ — v0.1 tagged
+- **L1 Refideas pipeline:** Production-ready — 50 tests, 7 live Wikipedia edits, 156 candidate matches across 25 WikiProjects
+- **Stages:** Bootstrap (0-2) ✅ | Asset scan (3) ✅ | Wikipedia crossref (4) ✅ | Contribution Impact Matrix (4b) ✅ | L1 Refideas (5) ✅
 
 ## What's built
 
@@ -49,15 +50,16 @@ cross-referenced against Wikipedia:
 | Course pages | ✅ | YAML frontmatter with canonical metadata |
 | Department/topic pages | ✅ | 37 depts, 110 topics with cross-links |
 | Instructor index | ✅ | 2,142 instructors, A-Z grouped |
-| Hybrid asset scan | ✅ | API + URL deep scan, merged with type correction |
-| Video detection | ✅ | YouTube, OCW player, MP4, Dropbox, thumbnails |
-| Grouped lecture format | ✅ | One line per lecture with inline format badges |
-| Pre-commit hook | ✅ | Auto-rebuilds index on wiki changes |
-| Wikipedia crossref strategy | ✅ | Three-tier matching, unified SQL query, scoring model |
+| Hybrid asset scan | ✅ | 2,165 courses scanned in 13.5 min (8 parallel workers) |
+| Lecture title extraction | ✅ | 2,869 titled lectures across 149 courses |
+| Wikipedia crossref strategy | ✅ | Three-tier matching, 25 WikiProject↔OCW department mappings |
+| **Refideas linter** | ✅ | 6 error types, 11 template aliases, 28 tests |
+| **Refideas fixer** | ✅ | Live Wikipedia editing with bot auth + confirmation |
+| **Refideas insert** | ✅ | Generic + OCW-specific CLIs with pure-function architecture |
+| **Match discovery** | ✅ | 25 WikiProjects via Wikipedia API, mwparserfromhell template detection |
+| **Match scoring** | ✅ | Template gate + IDF-weighted overlap + specificity + 7 filter layers |
 | **OCW ↔ Wikipedia Match Heatmap** | ✅ **v0.1** | 9 WikiProjects × 18 OCW departments, interactive matrix |
 | **Contribution Impact Matrix** | ✅ **v0.1** | D3.js bubble scatterplot — standalone HTML |
-| **Detail panel with context** | ✅ | Pre-computed wikitext: section, date, sentence |
-| **Popular pages pipeline** | ✅ | Identified method to determine most-popular pages per WikiProject that beats Wikimedia API rate limits — uses Community Tech bot's pre-compiled Popular pages tables via a single `action=parse` call per project instead of 1,000+ individual pageview API calls |
 
 ## Key features
 
@@ -156,33 +158,35 @@ open wiki/impact-matrix/standalone.html           # Open the tool (file:// works
 
 # Ingest a single course + asset scan
 python3 scripts/scan-assets.py --hybrid {slug}
-
-# With skip-scanned flag (for batch reprocessing)
 python3 scripts/scan-assets.py --hybrid --skip-scanned {slug}
 
-# Generate crossref demo reports
-python3 scripts/crossref-wikipedia.py --report --demo
-
-# Live query server (requires SSH tunnel + .env)
-python3 scripts/impact-matrix-server.py
-# Then open http://localhost:8899/wiki/impact-matrix/index.html
-
-# Regenerate index
-python3 scripts/regenerate-index.py
+# Parallel batch scan all courses (8 workers, 13.5 min for 2,165 courses)
+python3 scripts/scan-batch-parallel.py --workers 8
 
 # Refideas linter
 python3 scripts/lint-refideas.py --fetch "Article"    # Lint one Talk page
 python3 scripts/lint-refideas.py --sample 50           # Lint random sample
-python3 scripts/lint-refideas.py --classify 30         # Classify reference types
 
 # Refideas fixer (requires Wikipedia bot password in .env)
 python3 scripts/apply-refideas-fix.py --survey 50      # Find pages with errors
 python3 scripts/apply-refideas-fix.py "Article"        # Fix one page (diff → confirm → apply)
-python3 scripts/apply-refideas-fix.py --dry-run "Art"   # Preview fix without editing
+
+# Refideas insert
+python3 scripts/refideas-add.py "Article" --url "..." --label "..." --source "..."
+python3 scripts/apply-l1-refideas.py "Article" --course-id 6.006 --course-title "..." --course-url "..."
+
+# Match discovery and scoring
+python3 scripts/generate-matches.py --top 30 --output .wiki_cache/live-matches.json
+python3 scripts/prioritize-matches.py --data .wiki_cache/live-matches.json
+python3 scripts/prioritize-matches.py --data .wiki_cache/live-matches.json -v
+python3 scripts/prioritize-matches.py --data .wiki_cache/live-matches.json --interactive 5
 
 # Contribution protocol
 python3 scripts/contribution-protocol.py --validate    # Validate example records
 python3 scripts/contribution-protocol.py --l1-test "Article"  # Dry-run L1 insertion
+
+# Generate crossref demo reports
+python3 scripts/crossref-wikipedia.py --report --demo
 ```
 
 ## Structure
@@ -206,7 +210,7 @@ python3 scripts/contribution-protocol.py --l1-test "Article"  # Dry-run L1 inser
 - `wiki/reports/` — crossref heatmaps, Popular pages reports
 - `notes/` — design specs, research findings, pageview data issues
 - `site/` — WikiWise build tooling
-- `scripts/` — ingest-batch.py, scan-assets.py, regenerate-index.py, crossref-wikipedia.py, impact-matrix-server.py, contribution-protocol.py, lint-refideas.py, apply-refideas-fix.py
+- `scripts/` — ingest-batch.py, scan-assets.py, scan-batch-parallel.py, regenerate-index.py, crossref-wikipedia.py, impact-matrix-server.py, contribution-protocol.py, lint-refideas.py, apply-refideas-fix.py, refideas-add.py, apply-l1-refideas.py, prioritize-matches.py, generate-matches.py
 - `.claude/skills/` — skill files for Wikimedia database access, page assessments, pageviews
 
 ## Project files
@@ -225,11 +229,17 @@ python3 scripts/contribution-protocol.py --l1-test "Article"  # Dry-run L1 inser
 | `notes/detail-panel-spec.md` | Detail panel content specification |
 | `docs/ROADMAP.md` | Next steps: subsystem integration and contribution interface |
 | `docs/CONTRIBUTION-LEVELS.md` | All five contribution levels (L1-L5): what they do, processing, open questions |
-| `docs/L1-REFIDEAS.md` | L1 algorithm: Talk page {{refideas}} — insertion strategy, empirical findings, pitfalls, linter
-| `scripts/contribution-protocol.py` | Reference implementation: dataclasses, factories, validation, wikitext generation |
-| `scripts/lint-refideas.py` | Refideas linter: detects 6 error types across 11 aliases, reference classification, random sampling |
-| `scripts/apply-refideas-fix.py` | Applies Refideas fixes to live Wikipedia: survey mode, color diff, [y/N] confirmation |
-| `scripts/test-refideas.py` | Test suite: 24 tests covering all fix types and regressions |
+| `docs/L1-REFIDEAS.md` | L1 algorithm: Talk page {{refideas}} — insertion strategy, pure function pattern, linter, CLI tools |
+| `scripts/contribution-protocol.py` | L1-L5 data model, build_refideas_wikitext (pure fn), refideas_add (orchestrator) |
+| `scripts/lint-refideas.py` | Refideas linter: detects 6 error types across 11 aliases |
+| `scripts/apply-refideas-fix.py` | Applies Refideas fixes to live Wikipedia |
+| `scripts/refideas-add.py` | Generic CLI: add any reference to {{refideas}} |
+| `scripts/apply-l1-refideas.py` | OCW-specific CLI: formats course details, posts refideas |
+| `scripts/prioritize-matches.py` | Match scoring: template gate, IDF overlap, specificity, 7 filter layers |
+| `scripts/generate-matches.py` | Live match discovery: searches 25 WikiProjects via API |
+| `scripts/scan-batch-parallel.py` | Parallel asset scanner: 8 workers, 2.7 courses/sec |
+| `scripts/test-refideas.py` | 28 tests (linter/fixer) |
+| `scripts/test-l1-refideas-insert.py` | 22 tests (pure insert function) |
 
 ## External skills
 

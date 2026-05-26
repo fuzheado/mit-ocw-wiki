@@ -17,17 +17,20 @@ Read `README.md` for the full overview. Read `docs/ROADMAP.md` for the plan.
 
 ---
 
-## What we built (L1 — Refideas insert, linter, and fixer)
+## What we built (L1 — Refideas: insert, linter, fixer, match discovery)
 
 ### Scripts
 
 | Script | Purpose | Key commands |
 |--------|---------|-------------|
-| `scripts/lint-refideas.py` | Detect 6 error types in `{{refideas}}` templates across 11 aliases | `--fetch "Article"`, `--sample 50`, `--classify 30`, `--fix "Article"` |
+| `scripts/lint-refideas.py` | Detect 6 error types in `{{refideas}}` templates across 11 aliases | `--fetch "Article"`, `--sample 50`, `--classify 30` |
 | `scripts/apply-refideas-fix.py` | Apply fixes to live Wikipedia with auth | `"Article"`, `--dry-run`, `--yes`, `--survey 50` |
-| `scripts/contribution-protocol.py` | L1-L5 data model, factories, validation; `build_refideas_wikitext()` (pure fn), `refideas_add()` (orchestrator), `l1_insert_refideas()` (OCW wrapper) | `--validate`, `--wikitext`, `--l1-test` |
-| `scripts/refideas-add.py` | **Generic** CLI — add any reference to `{{refideas}}` (not OCW-specific) | `"Article" --url "..." --label "..." [--source "..."] [--note "..."]` |
-| `scripts/apply-l1-refideas.py` | **OCW wrapper** CLI — formats `--course-id` etc. and delegates to generic tools | `"Article" --course-id 6.006 --course-title "..." --course-url "..."` |
+| `scripts/contribution-protocol.py` | L1-L5 data model, factories; `build_refideas_wikitext()` (pure fn), `refideas_add()` (orchestrator), `l1_insert_refideas()` (OCW wrapper) | `--validate`, `--wikitext`, `--l1-test` |
+| `scripts/refideas-add.py` | **Generic** CLI — add any reference to `{{refideas}}` | `"Article" --url "..." --label "..." [--source "..."]` |
+| `scripts/apply-l1-refideas.py` | **OCW wrapper** CLI — formats `--course-id` and delegates to generic tools | `"Article" --course-id 6.006 --course-title "..."` |
+| `scripts/prioritize-matches.py` | **Match scoring** — template gate + IDF-weighted overlap + specificity | `--data FILE`, `-v` (verbose), `--interactive N`, `--apply-top N --yes` |
+| `scripts/generate-matches.py` | **Live match discovery** — searches 25 WikiProjects via Wikipedia API, detects templates with mwparserfromhell, matches against 2,577 OCW courses | `--top 30 --output FILE`, `--project Chemistry` |
+| `scripts/scan-batch-parallel.py` | **Parallel asset scanner** — scanned 2,165 courses in 13.5 min (8 workers, 2.7/s) | `--workers 8`, `--limit 50`, `--dry-run` |
 | `scripts/test-refideas.py` | 28 regression tests (linter/fixer) | `python3 scripts/test-refideas.py -v` |
 | `scripts/test-l1-refideas-insert.py` | 22 tests for `build_refideas_wikitext()` (pure function, no API) | `python3 scripts/test-l1-refideas-insert.py -v` |
 
@@ -62,11 +65,33 @@ L1 refactored into three layers (pattern to follow for L2-L5):
 - **`refideas_add(article, url, label, source, note)`** — orchestrator. Fetches Talk page via API, deduplicates by URL, delegates to `build_refideas_wikitext()`.
 - **`l1_insert_refideas(article, course_id, course_title, url, note)`** — OCW wrapper. Formats `"[url MIT id: title], MIT OpenCourseWare (note)"` and calls `refideas_add()`.
 
-New features in this refactor:
-- **Deduplication** — checks entire Talk page for the URL before inserting; skips with `⏭` message
-- **11 template aliases** recognized (refideas, refidea, RI, suggested sources, etc.)
-- **Heading at page start** handled (no leading `\n` before `==`)
-- **Generic CLI** (`refideas-add.py`) — works for any reference, not just OCW
+### Match discovery and scoring pipeline
+
+```
+generate-matches.py          prioritize-matches.py        apply-l1-refideas.py
+──────────────────          ─────────────────────        ─────────────────────
+1. Search Wikipedia API     4. Template gate            7. Post to Wikipedia
+   across 25 WikiProjects      (mwparserfromhell)          (bot auth, diff,
+2. Batch-fetch wikitext      5. IDF-weighted overlap        [y/N] confirm)
+3. Detect templates via        (rare words > common)
+   mwparserfromhell         6. Multiple filter layers:
+                               MIT-internal, outlines,
+                               single-word, institutions,
+                               organizations, geo-locale
+```
+
+**Scoring formula:** `template_urgency + overlap×35 + specificity×30` (0-100 scale)
+
+**Filter layers remove false positives:**
+- MIT-internal articles (circular)
+- Outlines/lists/glossaries (navigation pages)
+- Single-word topics (too broad)
+- Education meta-articles
+- Named institutions (Harvard, Max Planck)
+- Organizations (labs, companies, agencies)
+- Geo-locale articles (Solar power in the UK)
+
+**Result:** 156 high-quality article↔course matches across 25 WikiProjects, scored and ready for review.
 
 ### Key architectural decisions
 
@@ -133,21 +158,33 @@ python3 scripts/lint-refideas.py --classify 30
 python3 scripts/refideas-add.py "Article" \
     --url "https://example.com/ref" \
     --label "Reference Label" \
-    --source "Source Name" \
-    --note "optional note"
+    --source "Source Name"
 
 # OCW-specific: add MIT course as refideas suggestion
 python3 scripts/apply-l1-refideas.py "Article" \
     --course-id 6.006 \
     --course-title "Introduction to Algorithms" \
-    --course-url "https://ocw.mit.edu/courses/6-006-..." \
-    --note "video lectures, problem sets"
+    --course-url "https://ocw.mit.edu/courses/6-006-..."
 
 # Preview either without posting (--dry-run)
 python3 scripts/apply-l1-refideas.py --dry-run "Article" --course-id ...
 
-# Quick dry-run from contribution-protocol (no auth needed)
-python3 scripts/contribution-protocol.py --l1-test "Article"
+# ── Match discovery and scoring ──
+
+# Generate live matches across 25 WikiProjects
+python3 scripts/generate-matches.py --top 30 --output .wiki_cache/live-matches.json
+
+# Score and rank all matches
+python3 scripts/prioritize-matches.py --data .wiki_cache/live-matches.json
+
+# Verbose reasoning for top 5
+python3 scripts/prioritize-matches.py --data .wiki_cache/live-matches.json -v
+
+# Interactive: review each match with [y/N/q]
+python3 scripts/prioritize-matches.py --data .wiki_cache/live-matches.json --interactive 5
+
+# Batch apply top N (requires --yes)
+python3 scripts/prioritize-matches.py --data .wiki_cache/live-matches.json --apply-top 3 --yes
 
 # ── Tests ──
 
