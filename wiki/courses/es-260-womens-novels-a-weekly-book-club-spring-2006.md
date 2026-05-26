@@ -12,6 +12,9 @@ views: 251
 completeness: 0.0
 last_modified: "2026-05-06T14:55:40Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 4459
 ---
 
 # Women's Novels: A Weekly Book Club
@@ -30,8 +33,16 @@ This pass/fail seminar should be a fun setting where we can all enjoy a love of 
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/es-260-womens-novels-a-weekly-book-club-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/es-260-womens-novels-a-weekly-book-club-spring-2006/pages/readings/)
+
+### Resource
+- [Edith Wharton, Jane Austen, and Virginia Woolf (.jpg)](https://ocw.mit.edu/courses/es-260-womens-novels-a-weekly-book-club-spring-2006/resources/es-260s06/)
+- [Edith Wharton, Jane Austen, and Virginia Woolf (thumbnail) (.jpg)](https://ocw.mit.edu/courses/es-260-womens-novels-a-weekly-book-club-spring-2006/resources/es-260s06-th/)
+- [Study Materials](https://ocw.mit.edu/courses/es-260-womens-novels-a-weekly-book-club-spring-2006/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

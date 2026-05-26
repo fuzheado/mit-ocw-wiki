@@ -12,6 +12,9 @@ views: 3889
 completeness: 0.0
 last_modified: "2026-05-06T17:11:40Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 6, Video-Transcript: 2"
+api_id: 5508
 ---
 
 # Calculus I: Single Variable Calculus
@@ -37,10 +40,14 @@ This series of courses is part of the Open Learning Library, which is free to us
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Lecture Videos] Lecture Videos
-- [Podcasts] Podcasts
+### Lectures
+- **Instructor Insights** — [📄](https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/gv1aMp4YxyA_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/pages/instructor-insights/)
 
+### Resource
+- [18-01sc.jpg (.jpg)](https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/resources/18-01sc/)
+- [18-01sc-th.jpg (.jpg)](https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/resources/18-01sc-th/)
+- [18-01F20.jpg (.jpg)](https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/resources/18-01f20/)
+- [18-01F20-th.jpg (.jpg)](https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/resources/18-01f20-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

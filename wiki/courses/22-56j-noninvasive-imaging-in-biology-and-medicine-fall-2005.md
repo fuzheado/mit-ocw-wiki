@@ -12,6 +12,9 @@ views: 494
 completeness: 0.2
 last_modified: "2026-05-06T17:25:10Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 12, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4392
 ---
 
 # Noninvasive Imaging in Biology and Medicine
@@ -30,8 +33,30 @@ type: "course"
 
 ## Materials
 
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/pages/readings/)
+
+### Problem-Set
+- [hw9.pdf (.pdf)](https://ocw.mit.edu/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/resources/hw9/)
+- [hw8.pdf (.pdf)](https://ocw.mit.edu/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/resources/hw8/)
+- [hw7.pdf (.pdf)](https://ocw.mit.edu/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/resources/hw7/)
+- [hw6.pdf (.pdf)](https://ocw.mit.edu/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/resources/hw6/)
+- [hw5.pdf (.pdf)](https://ocw.mit.edu/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/resources/hw5/)
+- [hw4.pdf (.pdf)](https://ocw.mit.edu/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/resources/hw4/)
+- [hw3.pdf (.pdf)](https://ocw.mit.edu/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/resources/hw3/)
+- [hw2.pdf (.pdf)](https://ocw.mit.edu/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/resources/hw2/)
+- [hw10.pdf (.pdf)](https://ocw.mit.edu/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/resources/hw10/)
+- [hw1.pdf (.pdf)](https://ocw.mit.edu/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/resources/hw1/)
+- [22_56j_problem05.pdf (.pdf)](https://ocw.mit.edu/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/resources/22_56j_problem05/)
+- [Assignments](https://ocw.mit.edu/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/pages/assignments/)
+
+### Resource
+- [22-56jf05.jpg (.jpg)](https://ocw.mit.edu/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/resources/22-56jf05/)
+- [22-56jf05-th.jpg (.jpg)](https://ocw.mit.edu/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/resources/22-56jf05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

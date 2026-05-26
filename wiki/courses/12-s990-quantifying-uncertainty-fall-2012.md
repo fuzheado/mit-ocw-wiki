@@ -12,6 +12,9 @@ views: 597
 completeness: 0.11666666666666668
 last_modified: "2026-05-06T14:45:36Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 4, Lecture-Notes: 13, Resource: 14, Syllabus: 1"
+api_id: 4315
 ---
 
 # Quantifying Uncertainty
@@ -30,9 +33,44 @@ The ability to quantify the uncertainty in our models of nature is fundamental t
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/pages/syllabus/)
 
+### Lecture-Notes
+- [Quantifying Uncertainty, Summary (.pdf)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/mit12_s990f12_summary/)
+- [Quantifying Uncertainty, Lecture 12-13 (.pdf)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/mit12_s990f12_lecture12-13/)
+- [Quantifying Uncertainty, Lecture 11 (.pdf)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/mit12_s990f12_lecture11/)
+- [Quantifying Uncertainity, Lecture 10 (.pdf)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/mit12_s990f12_lecture10/)
+- [Quantifying Uncertainty, Lecture 9 (.pdf)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/mit12_s990f12_lec9/)
+- [Quantifying Uncertainty, Lecture 7-8 (.pdf)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/mit12_s990f12_lec7-8/)
+- [Quantifying Uncertainty, Lecture 6 (.pdf)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/mit12_s990f12_lec6/)
+- [Quantifying Uncertainty, Lecture 4-5 (.pdf)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/mit12_s990f12_lec4-5/)
+- [Quantifying Uncertainty, Lecture 2-3 (.pdf)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/mit12_s990f12_lec2-3/)
+- [Quantifying Uncertainty (.pdf)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/mit12_s990f12_lec12/)
+- [Quantifying Uncertainty, Lecture 10 (.pdf)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/mit12_s990f12_lec10/)
+- [Quantifying Uncertainty, Lecture 1 (.pdf)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/mit12_s990f12_lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/pages/lecture-notes/)
+
+### Assignment
+- [Factor analysis techniques in single-particle aerosol mass spectrometry (.pdf)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/mit12_s990f12_zawadowicz/)
+- [Explanation for each slide of "Probabilistic Collocation Method (PCM) for modeling response of GEOS-Chem simulations to model parameter uncertainties" (.pdf)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/mit12_s990f12_thackraydoc/)
+- [Probabilistic Collocation Method (PCM) for modeling response of GEOS-Chem simulations to model parameter uncertainties (.pdf)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/mit12_s990f12_thackray/)
+- [Projects](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/pages/projects/)
+
+### Resource
+- [randfield.m (.m)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/randfield/)
+- [mdsex.m (.m)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/mdsex/)
+- [mani.m (.m)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/mani/)
+- [kernelest.m (.m)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/kernelest/)
+- [icaexample.mat (.mat)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/icaexample/)
+- [icaexample.m (.m)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/icaexample-1/)
+- [ex11a.m (.m)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/ex11a/)
+- [dt.m (.m)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/dt/)
+- [cereal.mat (.mat)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/cereal/)
+- [12-s990f12.jpg (.jpg)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/12-s990f12/)
+- [12-s990f12-th.jpg (.jpg)](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/resources/12-s990f12-th/)
+- [Tools](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/pages/tools/)
+- [Study Materials](https://ocw.mit.edu/courses/12-s990-quantifying-uncertainty-fall-2012/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

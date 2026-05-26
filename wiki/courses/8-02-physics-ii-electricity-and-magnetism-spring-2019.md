@@ -12,6 +12,9 @@ views: 1119
 completeness: 0.0
 last_modified: "2026-05-06T15:01:49Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 3"
+api_id: 6013
 ---
 
 # Physics II: Electricity and Magnetism
@@ -35,8 +38,10 @@ This course was organized as a three-part series on MITx by MIT’s Department o
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-
+### Resource
+- [8-02s19.jpg (.jpg)](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/resources/8-02s19/)
+- [8-02s19-th.jpg (.jpg)](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/resources/8-02s19-th/)
+- [Syllabus](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/pages/syllabus/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 64
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T14:42:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 7, Reading-List: 1, Resource: 8, Syllabus: 2"
+api_id: 3824
 ---
 
 # Popular Narrative: Masterminds
@@ -30,9 +33,29 @@ Our purpose is to consider some of the most elaborate and thoughtful efforts to 
 
 ## Materials
 
-- [Presentation Assignments with Examples] Presentation Assignments with Examples
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-430-popular-narrative-masterminds-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-430-popular-narrative-masterminds-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-430-popular-narrative-masterminds-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Unthinking Scientists (On Hawthorne and Frankenstein.) (.pdf)](https://ocw.mit.edu/courses/21l-430-popular-narrative-masterminds-fall-2004/resources/mit21l_430f04_unthink/)
+- [The Role of Supporting Characters in Dr. Faustus (.pdf)](https://ocw.mit.edu/courses/21l-430-popular-narrative-masterminds-fall-2004/resources/mit21l_430f04_support/)
+- [Hawthorne and Frankenstein Journal (.pdf)](https://ocw.mit.edu/courses/21l-430-popular-narrative-masterminds-fall-2004/resources/mit21l_430f04_hawt_frank/)
+- [Hawthorne Analysis (.pdf)](https://ocw.mit.edu/courses/21l-430-popular-narrative-masterminds-fall-2004/resources/mit21l_430f04_hawt_ana/)
+- [Thoughts on Caligari and Faustus (.pdf)](https://ocw.mit.edu/courses/21l-430-popular-narrative-masterminds-fall-2004/resources/mit21l_430f04_caligari/)
+- [Faustus Analysis (.pdf)](https://ocw.mit.edu/courses/21l-430-popular-narrative-masterminds-fall-2004/resources/mit21l_430f04_analysis/)
+- [Assignments](https://ocw.mit.edu/courses/21l-430-popular-narrative-masterminds-fall-2004/pages/assignments/)
+
+### Resource
+- [Building a Thesis (.pdf)](https://ocw.mit.edu/courses/21l-430-popular-narrative-masterminds-fall-2004/resources/mit21l_430f04_thesis/)
+- [Reading Journals (.pdf)](https://ocw.mit.edu/courses/21l-430-popular-narrative-masterminds-fall-2004/resources/mit21l_430f04_journals/)
+- [Analyzing a Text (.pdf)](https://ocw.mit.edu/courses/21l-430-popular-narrative-masterminds-fall-2004/resources/mit21l_430f04_analyzing/)
+- [Mary A. Shanley (.jpg)](https://ocw.mit.edu/courses/21l-430-popular-narrative-masterminds-fall-2004/resources/21l-430f04/)
+- [Mary A. Shanley (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-430-popular-narrative-masterminds-fall-2004/resources/21l-430f04-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21l-430-popular-narrative-masterminds-fall-2004/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

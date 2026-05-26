@@ -12,6 +12,9 @@ views: 346
 completeness: 0.4366666666666667
 last_modified: "2026-05-06T17:07:39Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 14, Problem-Set: 9, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4040
 ---
 
 # Advanced Structural Dynamics and Acoustics (13.811)
@@ -31,12 +34,43 @@ This course was originally offered in Course 13 (Department of Ocean Engineering
 
 ## Materials
 
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [lect_8_2.pdf (.pdf)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/lect_8_2/)
+- [lect_7_31.pdf (.pdf)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/lect_7_31/)
+- [lect_6_4.pdf (.pdf)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/lect_6_4/)
+- [lect_5_4.pdf (.pdf)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/lect_5_4/)
+- [lect_4_6.pdf (.pdf)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/lect_4_6/)
+- [lect_3_5.pdf (.pdf)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/lect_3_5/)
+- [lect_2_9.pdf (.pdf)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/lect_2_9/)
+- [lect_25.zip (.zip)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/lect_25/)
+- [lect_19.zip (.zip)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/lect_19/)
+- [lect_18.zip (.zip)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/lect_18/)
+- [lect_11_5.pdf (.pdf)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/lect_11_5/)
+- [lect_10_2.pdf (.pdf)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/lect_10_2/)
+- [lect114.pdf (.pdf)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/lect114/)
+- [Lecture Notes](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/pages/readings/)
+
+### Problem-Set
+- [quiz_soln.pdf (.pdf)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/quiz_soln/)
+- [quiz.pdf (.pdf)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/quiz/)
+- [13_811ps3.pdf (.pdf)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/13_811ps3/)
+- [13_811ps2sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/13_811ps2sol/)
+- [13_811ps2.pdf (.pdf)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/13_811ps2/)
+- [13_811ps1sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/13_811ps1sol/)
+- [13_811ps1.pdf (.pdf)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/13_811ps1/)
+- [Exams](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/pages/assignments/)
+
+### Resource
+- [2-067s04.jpg (.jpg)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/2-067s04/)
+- [2-067s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/resources/2-067s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

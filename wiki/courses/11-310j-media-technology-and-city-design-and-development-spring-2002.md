@@ -12,6 +12,9 @@ views: 120
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:58:34Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5022
 ---
 
 # Media Technology and City Design and Development
@@ -31,9 +34,23 @@ The class Web site can be found here:&nbsp;Media Technology and City Design and 
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-spring-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-spring-2002/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-spring-2002/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-spring-2002/pages/assignments/)
+
+### Assignment
+- [West Philadelphia Landscape Project (.pdf)](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-spring-2002/resources/kim/)
+- [Projects](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-spring-2002/pages/projects/)
+
+### Resource
+- [Mill Creek (.jpg)](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-spring-2002/resources/11-310js02/)
+- [Mill Creek (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-spring-2002/resources/11-310js02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

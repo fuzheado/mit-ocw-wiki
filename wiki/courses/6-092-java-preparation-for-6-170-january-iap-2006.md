@@ -12,6 +12,8 @@ views: 442
 completeness: 0.05833333333333334
 last_modified: "2026-05-06T16:51:17Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 2, Resource: 2, Syllabus: 2"
 ---
 
 # Java Preparation for 6.170
@@ -30,9 +32,20 @@ This course focuses on introducing the language, libraries, tools and concepts o
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects] Projects
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/6-092-java-preparation-for-6-170-january-iap-2006/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/6-092-java-preparation-for-6-170-january-iap-2006/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/6-092-java-preparation-for-6-170-january-iap-2006/pages/lecture-notes/)
+- [Labs](https://ocw.mit.edu/courses/6-092-java-preparation-for-6-170-january-iap-2006/pages/labs/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/6-092-java-preparation-for-6-170-january-iap-2006/pages/projects/)
+
+### Resource
+- [Study Materials](https://ocw.mit.edu/courses/6-092-java-preparation-for-6-170-january-iap-2006/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/6-092-java-preparation-for-6-170-january-iap-2006/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

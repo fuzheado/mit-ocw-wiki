@@ -12,6 +12,9 @@ views: 430
 completeness: 0.33999999999999997
 last_modified: "2026-05-06T17:17:58Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 12, Resource: 5, Syllabus: 2"
+api_id: 5016
 ---
 
 # Microeconomic Theory II
@@ -30,9 +33,28 @@ This course offers an introduction to noncooperative game theory. The course is 
 
 ## Materials
 
-- [Exams] Exams
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/pages/syllabus/)
 
+### Problem-Set
+- [Problem Set #5 (.pdf)](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/resources/ps5q/)
+- [Problem Set #4 (.pdf)](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/resources/ps4q/)
+- [Problem Set #3 (.pdf)](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/resources/ps3q/)
+- [Problem Set #2 (.pdf)](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/resources/ps2q/)
+- [Problem Set #1 (.pdf)](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/resources/ps1q/)
+- [Handout #1: Finding PBE in Signaling Games (.pdf)](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/resources/pbe/)
+- [Final 2001: Solutions (.pdf)](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/resources/f2001s/)
+- [Final Exam 2001 (.pdf)](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/resources/f2001q/)
+- [Final 2000: Solutions (.pdf)](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/resources/f2000s/)
+- [Final Exam 2000 (.pdf)](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/resources/f2000q/)
+- [Exams](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/pages/assignments/)
+
+### Resource
+- [Microeconomic Theory II Syllabus (.pdf)](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/resources/syllabus/)
+- [Darts and Dartboard (.jpg)](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/resources/14-122f02/)
+- [Darts and Dartboard (thumbnail) (.jpg)](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/resources/14-122f02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 3254
 completeness: 0.0
 last_modified: "2026-05-06T17:24:33Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 1"
+api_id: 16902
 ---
 
 # Advances in Computer Vision
@@ -32,10 +35,8 @@ Finally, we will explore the intersection of robotics and computer vision with â
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Problem Sets] Problem Sets
-
+### Resource
+- [mit6_8300_s25.jpg (.jpg)](https://ocw.mit.edu/courses/6-8300-advances-in-computer-vision-spring-2025/resources/mit6_8300_s25_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

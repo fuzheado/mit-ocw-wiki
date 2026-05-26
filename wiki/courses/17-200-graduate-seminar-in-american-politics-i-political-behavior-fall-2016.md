@@ -12,6 +12,9 @@ views: 194
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:20:10Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4723
 ---
 
 # Graduate Seminar in American Politics I: Political Behavior
@@ -30,8 +33,19 @@ This graduate-level course focuses on mass political behavior within the America
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-200-graduate-seminar-in-american-politics-i-political-behavior-fall-2016/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-200-graduate-seminar-in-american-politics-i-political-behavior-fall-2016/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-200-graduate-seminar-in-american-politics-i-political-behavior-fall-2016/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-200-graduate-seminar-in-american-politics-i-political-behavior-fall-2016/pages/assignments/)
+
+### Resource
+- [17-200F16.jpg (.jpg)](https://ocw.mit.edu/courses/17-200-graduate-seminar-in-american-politics-i-political-behavior-fall-2016/resources/17-200f16/)
+- [17-200F16-th.jpg (.jpg)](https://ocw.mit.edu/courses/17-200-graduate-seminar-in-american-politics-i-political-behavior-fall-2016/resources/17-200f16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

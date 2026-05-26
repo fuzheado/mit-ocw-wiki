@@ -12,6 +12,8 @@ views: 301
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T15:00:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Image-Gallery: 1, Problem-Set: 1, Reading-List: 1, Syllabus: 1, Video-Transcript: 6"
 ---
 
 # Special Topics in Mechanical Engineering: The Art and Science of Boat Design
@@ -31,9 +33,17 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Image Gallery] Image Gallery
-- [Lecture Videos] Lecture Videos
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007/pages/assignments/)
+
+### Image-Gallery
+- [Image Gallery](https://ocw.mit.edu/courses/2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007/pages/image-gallery/)
 ## Wikipedia Bridge
 
 ### Related Articles

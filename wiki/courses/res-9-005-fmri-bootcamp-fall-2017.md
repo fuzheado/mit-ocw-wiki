@@ -12,6 +12,9 @@ views: 670
 completeness: 0.0
 last_modified: "2026-05-06T17:25:03Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 1, Video-Transcript: 18"
+api_id: 4895
 ---
 
 # fMRI Bootcamp
@@ -47,8 +50,8 @@ Poldrack R. A., Mumford J. A., Nichols T. E. (2011) Handbook of Functional MRI D
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-
+### Resource
+- [mitres9_005_f17.jpg (.jpg)](https://ocw.mit.edu/courses/res-9-005-fmri-bootcamp-fall-2017/resources/mitres9_005_f17_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

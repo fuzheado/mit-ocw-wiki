@@ -12,6 +12,9 @@ views: 172
 completeness: 0.0
 last_modified: "2026-05-06T16:51:20Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 2, Reading-List: 1, Resource: 11, Syllabus: 2, Video-Transcript: 1"
+api_id: 5112
 ---
 
 # Science Writing and New Media: Writing and the Environment
@@ -30,10 +33,23 @@ Environmentalists have traditionally relied upon the power of their prose to tra
 
 ## Materials
 
-- [Editable Files] Editable Files
-- [Readings] Readings
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022/pages/calendar/)
+- **Narrative Essay: Kernel and Motive** — [🔗](https://ocw.mit.edu/courses/21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022/pages/narrative-essay-kernel-and-motive/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022/pages/syllabus/)
 
+### Problem-Set
+- [21W.036 Science Writing and New Media: Writing and the Environment, Preparation for Critical Review (.pdf)](https://ocw.mit.edu/courses/21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022/resources/mit21w-036s22_critreview2/)
+
+### Resource
+- [Preparation for Critical Review (.doc)](https://ocw.mit.edu/courses/21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022/resources/mit21w-036s22_critreview/)
+- [21w-036s22.png (.png)](https://ocw.mit.edu/courses/21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022/resources/21w-036s22/)
+- [21w-036s22-th.png (.png)](https://ocw.mit.edu/courses/21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022/resources/21w-036s22-th/)
+- [Videos](https://ocw.mit.edu/courses/21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022/pages/videos/)
+- [Scientific American Update](https://ocw.mit.edu/courses/21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022/pages/scientific-american-update/)
+- [Critical Review](https://ocw.mit.edu/courses/21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022/pages/critical-review/)
 ## Wikipedia Bridge
 
 ### Related Articles

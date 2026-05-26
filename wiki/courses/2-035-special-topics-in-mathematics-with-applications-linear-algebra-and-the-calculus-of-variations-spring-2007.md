@@ -12,6 +12,9 @@ views: 374
 completeness: 0.2
 last_modified: "2026-05-06T17:24:31Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 9, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 3794
 ---
 
 # Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations
@@ -30,9 +33,27 @@ This course forms an introduction to a selection of mathematical topics that are
 
 ## Materials
 
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007/pages/readings/)
+
+### Problem-Set
+- [midterm_2_sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007/resources/midterm_2_sol/)
+- [midterm_2.pdf (.pdf)](https://ocw.mit.edu/courses/2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007/resources/midterm_2/)
+- [midterm_1_sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007/resources/midterm_1_sol/)
+- [midterm_1.pdf (.pdf)](https://ocw.mit.edu/courses/2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007/resources/midterm_1/)
+- [midterm2004_2.pdf (.pdf)](https://ocw.mit.edu/courses/2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007/resources/midterm2004_2/)
+- [midterm2004_1.pdf (.pdf)](https://ocw.mit.edu/courses/2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007/resources/midterm2004_1/)
+- [finalexam_sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007/resources/finalexam_sol/)
+- [finalexam.pdf (.pdf)](https://ocw.mit.edu/courses/2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007/resources/finalexam/)
+- [Exams](https://ocw.mit.edu/courses/2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007/pages/exams/)
+
+### Resource
+- [chp_dendrites2.jpg (.jpg)](https://ocw.mit.edu/courses/2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007/resources/chp_dendrites2/)
+- [2-035s07.jpg (.jpg)](https://ocw.mit.edu/courses/2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007/resources/2-035s07/)
+- [2-035s07-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007/resources/2-035s07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

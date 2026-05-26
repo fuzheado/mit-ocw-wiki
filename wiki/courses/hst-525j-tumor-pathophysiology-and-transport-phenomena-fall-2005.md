@@ -12,6 +12,9 @@ views: 349
 completeness: 0.18666666666666665
 last_modified: "2026-05-06T16:51:49Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 8, Problem-Set: 6, Resource: 3, Syllabus: 1"
+api_id: 4404
 ---
 
 # Tumor Pathophysiology and Transport Phenomena
@@ -38,8 +41,30 @@ Dr. Lance Munn
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [06_damore.pdf (.pdf)](https://ocw.mit.edu/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/resources/06_damore/)
+- [04b_duda.pdf (.pdf)](https://ocw.mit.edu/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/resources/04b_duda/)
+- [04a_duda.pdf (.pdf)](https://ocw.mit.edu/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/resources/04a_duda/)
+- [02b_jain.pdf (.pdf)](https://ocw.mit.edu/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/resources/02b_jain/)
+- [02a_jain.pdf (.pdf)](https://ocw.mit.edu/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/resources/02a_jain/)
+- [01b_jain.pdf (.pdf)](https://ocw.mit.edu/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/resources/01b_jain/)
+- [01a_jain.pdf (.pdf)](https://ocw.mit.edu/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/resources/01a_jain/)
+- [Lecture Notes](https://ocw.mit.edu/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/pages/lecture-notes/)
+
+### Problem-Set
+- [zach_morris.pdf (.pdf)](https://ocw.mit.edu/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/resources/zach_morris/)
+- [samir_awasthi.pdf (.pdf)](https://ocw.mit.edu/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/resources/samir_awasthi/)
+- [michael_schmidt.pdf (.pdf)](https://ocw.mit.edu/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/resources/michael_schmidt/)
+- [jeff_hsu.pdf (.pdf)](https://ocw.mit.edu/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/resources/jeff_hsu/)
+- [jana_mooster.pdf (.pdf)](https://ocw.mit.edu/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/resources/jana_mooster/)
+- [Assignments](https://ocw.mit.edu/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/pages/assignments/)
+
+### Resource
+- [hst-525jf05.jpg (.jpg)](https://ocw.mit.edu/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/resources/hst-525jf05/)
+- [hst-525jf05-th.jpg (.jpg)](https://ocw.mit.edu/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/resources/hst-525jf05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

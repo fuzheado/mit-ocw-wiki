@@ -12,6 +12,9 @@ views: 183
 completeness: 0.1
 last_modified: "2026-05-06T14:54:45Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 2, Resource: 4, Syllabus: 2"
+api_id: 3673
 ---
 
 # Dilemmas in Bio-Medical Ethics: Playing God or Doing Good?
@@ -30,9 +33,21 @@ This course is an introduction to the cross-cultural study of biomedical ethics,
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013/pages/syllabus/)
 
+### Problem-Set
+- [Paper 3 (.pdf)](https://ocw.mit.edu/courses/21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013/resources/mit21a_302jf13_paper_3/)
+- [Paper 2 (.pdf)](https://ocw.mit.edu/courses/21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013/resources/mit21a_302jf13_paper_2/)
+- [Paper 1 (.pdf)](https://ocw.mit.edu/courses/21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013/resources/mit21a_302jf13_paper_1/)
+- [Guidelines for Reading and Discussion in “Dilemmas in Bio-Medical Ethics: Playing God or Doing Good?” (.pdf)](https://ocw.mit.edu/courses/21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013/resources/mit21a_302jf13_guidelines/)
+- [Assignments](https://ocw.mit.edu/courses/21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013/pages/assignments/)
+
+### Resource
+- [A white doctor gives a shot in the arm of an elderly black man (.jpg)](https://ocw.mit.edu/courses/21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013/resources/21a-302jf13/)
+- [A white doctor gives a shot in the arm of an elderly black man (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013/resources/21a-302jf13-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

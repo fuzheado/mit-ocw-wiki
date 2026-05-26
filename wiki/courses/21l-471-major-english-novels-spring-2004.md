@@ -12,6 +12,9 @@ views: 317
 completeness: 0.24000000000000002
 last_modified: "2026-05-06T17:25:10Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 8, Reading-List: 1, Resource: 4, Syllabus: 2, Video-Transcript: 1"
+api_id: 3868
 ---
 
 # Major English Novels
@@ -30,8 +33,26 @@ This course studies several important examples of the genre that between the ear
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-471-major-english-novels-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-471-major-english-novels-spring-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-471-major-english-novels-spring-2004/pages/readings/)
+
+### Problem-Set
+- [Take-home exam on Joyce, A Portrait of the Artist as a Young Man (.pdf)](https://ocw.mit.edu/courses/21l-471-major-english-novels-spring-2004/resources/t_h_exam5joyce/)
+- [Take-home exam on Eliot, The Mill on the Floss (.pdf)](https://ocw.mit.edu/courses/21l-471-major-english-novels-spring-2004/resources/t_h_exam4eliot/)
+- [Take-home exam on Dickens, A Tale of Two Cities (.pdf)](https://ocw.mit.edu/courses/21l-471-major-english-novels-spring-2004/resources/t_h_exam3dick/)
+- [Topics for take-home exam on Brontë, Wuthering Heights. (.pdf)](https://ocw.mit.edu/courses/21l-471-major-english-novels-spring-2004/resources/t_h_exam2bronte/)
+- [Topics for take-home exam on Austen, Mansfield Park (.pdf)](https://ocw.mit.edu/courses/21l-471-major-english-novels-spring-2004/resources/t_h_exam1austen/)
+- [Mill Quotations for Eliot (.pdf)](https://ocw.mit.edu/courses/21l-471-major-english-novels-spring-2004/resources/millquot_eliot/)
+- [Exams](https://ocw.mit.edu/courses/21l-471-major-english-novels-spring-2004/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/21l-471-major-english-novels-spring-2004/pages/assignments/)
+
+### Resource
+- [Charles Dickens (.jpg)](https://ocw.mit.edu/courses/21l-471-major-english-novels-spring-2004/resources/21l-471s04/)
+- [Charles Dickens (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-471-major-english-novels-spring-2004/resources/21l-471s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

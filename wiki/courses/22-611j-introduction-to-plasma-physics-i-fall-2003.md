@@ -12,6 +12,9 @@ views: 970
 completeness: 0.19
 last_modified: "2026-05-06T14:47:02Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 6, Problem-Set: 7, Reading-List: 1, Resource: 8, Syllabus: 2"
+api_id: 4701
 ---
 
 # Introduction to Plasma Physics I
@@ -32,9 +35,37 @@ The course introduces plasma phenomena relevant to energy generation by controll
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [chap5.pdf (.pdf)](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/resources/chap5/)
+- [chap4.pdf (.pdf)](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/resources/chap4/)
+- [chap3.pdf (.pdf)](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/resources/chap3/)
+- [chap2.pdf (.pdf)](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/resources/chap2/)
+- [chap1.pdf (.pdf)](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/resources/chap1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/pages/readings/)
+
+### Problem-Set
+- [set6611j03.pdf (.pdf)](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/resources/set6611j03/)
+- [set5611j03.pdf (.pdf)](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/resources/set5611j03/)
+- [set4611j03.pdf (.pdf)](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/resources/set4611j03/)
+- [set3611j03.pdf (.pdf)](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/resources/set3611j03/)
+- [set2611j03.pdf (.pdf)](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/resources/set2611j03/)
+- [set1611j03.pdf (.pdf)](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/resources/set1611j03/)
+- [Assignments](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/pages/assignments/)
+
+### Resource
+- [orbit_matlab.pdf (.pdf)](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/resources/orbit_matlab/)
+- [lorentz_track.pdf (.pdf)](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/resources/lorentz_track/)
+- [birdsall.pdf (.pdf)](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/resources/birdsall/)
+- [22-611jf03.jpg (.jpg)](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/resources/22-611jf03/)
+- [22-611jf03-th.jpg (.jpg)](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/resources/22-611jf03-th/)
+- [Study Materials](https://ocw.mit.edu/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

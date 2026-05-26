@@ -12,6 +12,9 @@ views: 499
 completeness: 0.30000000000000004
 last_modified: "2026-05-06T17:10:38Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 8, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 5559
 ---
 
 # Nonlinear Dynamics and Waves
@@ -30,9 +33,25 @@ This graduate-level course provides a unified treatment of nonlinear oscillation
 
 ## Materials
 
-- [Exams] Exams
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-034j-nonlinear-dynamics-and-waves-spring-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/2-034j-nonlinear-dynamics-and-waves-spring-2007/pages/readings/)
+
+### Problem-Set
+- [exam1.pdf (.pdf)](https://ocw.mit.edu/courses/2-034j-nonlinear-dynamics-and-waves-spring-2007/resources/exam1/)
+- [assn5.pdf (.pdf)](https://ocw.mit.edu/courses/2-034j-nonlinear-dynamics-and-waves-spring-2007/resources/assn5/)
+- [assn4.pdf (.pdf)](https://ocw.mit.edu/courses/2-034j-nonlinear-dynamics-and-waves-spring-2007/resources/assn4/)
+- [assn3.pdf (.pdf)](https://ocw.mit.edu/courses/2-034j-nonlinear-dynamics-and-waves-spring-2007/resources/assn3/)
+- [assn2.pdf (.pdf)](https://ocw.mit.edu/courses/2-034j-nonlinear-dynamics-and-waves-spring-2007/resources/assn2/)
+- [assn1.pdf (.pdf)](https://ocw.mit.edu/courses/2-034j-nonlinear-dynamics-and-waves-spring-2007/resources/assn1/)
+- [Exams](https://ocw.mit.edu/courses/2-034j-nonlinear-dynamics-and-waves-spring-2007/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/2-034j-nonlinear-dynamics-and-waves-spring-2007/pages/assignments/)
+
+### Resource
+- [2-034js07.jpg (.jpg)](https://ocw.mit.edu/courses/2-034j-nonlinear-dynamics-and-waves-spring-2007/resources/2-034js07/)
+- [2-034js07-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-034j-nonlinear-dynamics-and-waves-spring-2007/resources/2-034js07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,8 @@ views: 196
 completeness: 0.3416666666666667
 last_modified: "2026-05-06T17:14:15Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Problem-Set: 1, Reading-List: 1, Resource: 2, Syllabus: 2"
 ---
 
 # Introduction to Computers in Public Management II
@@ -30,10 +32,23 @@ Second of two modules facilitating a basic understanding of computing in plannin
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/pages/lecture-notes/)
+- [Labs](https://ocw.mit.edu/courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/pages/labs/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/pages/assignments/)
+
+### Resource
+- [Study Materials](https://ocw.mit.edu/courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

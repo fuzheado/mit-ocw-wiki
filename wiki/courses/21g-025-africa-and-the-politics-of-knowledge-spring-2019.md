@@ -12,6 +12,9 @@ views: 113
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:11:26Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 5"
+api_id: 3976
 ---
 
 # Africa and the Politics of Knowledge
@@ -30,8 +33,18 @@ This course considers how, despite its immense diversity, Africa continues to ho
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-025-africa-and-the-politics-of-knowledge-spring-2019/pages/calendar/)
+- **Readings and Films** — [🔗](https://ocw.mit.edu/courses/21g-025-africa-and-the-politics-of-knowledge-spring-2019/pages/readings-and-films/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-025-africa-and-the-politics-of-knowledge-spring-2019/pages/syllabus/)
 
+### Problem-Set
+- [Final Project Prospectus Guidelines](https://ocw.mit.edu/courses/21g-025-africa-and-the-politics-of-knowledge-spring-2019/pages/assignments/final-project-prospectus-guidelines/)
+- [Assignments](https://ocw.mit.edu/courses/21g-025-africa-and-the-politics-of-knowledge-spring-2019/pages/assignments/)
+
+### Resource
+- [21G-025s19.jpg (.jpg)](https://ocw.mit.edu/courses/21g-025-africa-and-the-politics-of-knowledge-spring-2019/resources/21g-025s19/)
+- [21G-025s19-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-025-africa-and-the-politics-of-knowledge-spring-2019/resources/21g-025s19-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

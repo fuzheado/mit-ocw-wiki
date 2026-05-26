@@ -12,6 +12,9 @@ views: 276
 completeness: 0.22000000000000003
 last_modified: "2026-05-06T14:57:32Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 1"
+api_id: 4546
 ---
 
 # Neural Basis of Movement
@@ -30,9 +33,21 @@ Surveys general principles and specific examples of motor control in biological 
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-05-neural-basis-of-movement-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-05-neural-basis-of-movement-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-05-neural-basis-of-movement-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/9-05-neural-basis-of-movement-spring-2003/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/9-05-neural-basis-of-movement-spring-2003/pages/assignments/)
+
+### Resource
+- [The Withdrawal Reflex (.jpg)](https://ocw.mit.edu/courses/9-05-neural-basis-of-movement-spring-2003/resources/9-05s03/)
+- [Study Materials](https://ocw.mit.edu/courses/9-05-neural-basis-of-movement-spring-2003/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/9-05-neural-basis-of-movement-spring-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 63
 completeness: 0.25
 last_modified: "2026-05-06T17:15:11Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 6, Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5236
 ---
 
 # Economic Development & Technical Capabilities
@@ -30,8 +33,27 @@ The economic growth of developing countries requires the acquisition of technolo
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-167-economic-development-technical-capabilities-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-167-economic-development-technical-capabilities-spring-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture 9 (.pdf)](https://ocw.mit.edu/courses/11-167-economic-development-technical-capabilities-spring-2004/resources/lec_9/)
+- [Lecture 7  (.pdf)](https://ocw.mit.edu/courses/11-167-economic-development-technical-capabilities-spring-2004/resources/lec_7/)
+- [Lecture 5 (.pdf)](https://ocw.mit.edu/courses/11-167-economic-development-technical-capabilities-spring-2004/resources/lec_5/)
+- [Lecture 3 (.pdf)](https://ocw.mit.edu/courses/11-167-economic-development-technical-capabilities-spring-2004/resources/lec_3/)
+- [Lecture 1  (.pdf)](https://ocw.mit.edu/courses/11-167-economic-development-technical-capabilities-spring-2004/resources/lec_1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-167-economic-development-technical-capabilities-spring-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-167-economic-development-technical-capabilities-spring-2004/pages/readings/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/11-167-economic-development-technical-capabilities-spring-2004/pages/exams/)
+
+### Resource
+- [Financial Analysis (.jpg)](https://ocw.mit.edu/courses/11-167-economic-development-technical-capabilities-spring-2004/resources/11-167s04/)
+- [Financial Analysis (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-167-economic-development-technical-capabilities-spring-2004/resources/11-167s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

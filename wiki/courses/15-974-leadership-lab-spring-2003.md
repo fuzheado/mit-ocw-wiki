@@ -12,6 +12,9 @@ views: 1738
 completeness: 0.17500000000000002
 last_modified: "2026-05-06T17:11:13Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 4, Lecture-Notes: 9, Problem-Set: 5, Reading-List: 2, Resource: 15, Syllabus: 2"
+api_id: 4689
 ---
 
 # Leadership Lab
@@ -30,12 +33,52 @@ This five-day interactive and experiential workshop focuses on how leaders lead 
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Projects with Examples] Projects with Examples
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [mbdc.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/mbdc/)
+- [lecturenotes7.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/lecturenotes7/)
+- [lecturenotes6.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/lecturenotes6/)
+- [lecturenotes5.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/lecturenotes5/)
+- [lecturenotes4.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/lecturenotes4/)
+- [lecturenotes3.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/lecturenotes3/)
+- [lecturenotes2.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/lecturenotes2/)
+- [lecturenotes1.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/lecturenotes1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/pages/lecture-notes/)
+
+### Reading-List
+- [readingsnew.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/readingsnew/)
+- [Readings](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/pages/readings/)
+
+### Problem-Set
+- [assignment4.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/assignment4/)
+- [assignment3.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/assignment3/)
+- [assignment2.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/assignment2/)
+- [assignment1.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/assignment1/)
+- [Assignments](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/pages/assignments/)
+
+### Assignment
+- [studentpressrelease.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/studentpressrelease/)
+- [mitunglobalcompact.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/mitunglobalcompact/)
+- [csrleadershipdialogue.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/csrleadershipdialogue/)
+- [Projects](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/pages/projects/)
+
+### Resource
+- [triplebtmline.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/triplebtmline/)
+- [sengesmrjan2001.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/sengesmrjan2001/)
+- [sengesmr1990.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/sengesmr1990/)
+- [sengekauefer.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/sengekauefer/)
+- [pdf3primer.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/pdf3primer/)
+- [pdf2mission.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/pdf2mission/)
+- [pdf1brochure.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/pdf1brochure/)
+- [managementbarometersep02.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/managementbarometersep02/)
+- [dialogueinterviewtraining.pdf (.pdf)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/dialogueinterviewtraining/)
+- [15-974s03.jpg (.jpg)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/15-974s03/)
+- [15-974s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/resources/15-974s03-th/)
+- [Study Materials](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/15-974-leadership-lab-spring-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 387
 completeness: 0.03333333333333333
 last_modified: "2026-05-06T17:02:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 6, Lecture-Notes: 4, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5423
 ---
 
 # Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context
@@ -32,9 +35,31 @@ Course requirements will consist of critiques of class readings (about 3 papers/
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/pages/syllabus/)
 
+### Lecture-Notes
+- [Henry's Introductory Lecture (.pdf)](https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/resources/sld0013/)
+- [Mathematical and Machine Learning Approaches to Context (.pdf)](https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/resources/sld0012/)
+- [Context for Software Agents (.pdf)](https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/resources/sld0011/)
+- [Lecture Notes](https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/pages/readings/)
+
+### Assignment
+- [Publications (.pdf)](https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/resources/publications/)
+- [Context-Aware Office Assistant (.pdf)](https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/resources/yan/)
+- [Student Projects (.pdf)](https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/resources/projects/)
+- [Press Clippings (.pdf)](https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/resources/press/)
+- [Cheese: Tracking Mouse Movement Activity on Websites, a Tool for User Modeling (.pdf)](https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/resources/cheese/)
+- [Projects](https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/pages/projects/)
+
+### Resource
+- [Just-in-Time Programming (.pdf)](https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/resources/potter/)
+- [Context-aware Application (.gif)](https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/resources/mas-963f01/)
+- [Context-aware Application (thumbnail) (.jpg)](https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/resources/mas-963f01-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

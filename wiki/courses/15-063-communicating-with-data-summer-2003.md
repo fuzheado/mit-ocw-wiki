@@ -12,6 +12,9 @@ views: 923
 completeness: 0.445
 last_modified: "2026-05-06T14:42:50Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 16, Problem-Set: 12, Reading-List: 1, Resource: 12, Syllabus: 2"
+api_id: 4393
 ---
 
 # Communicating With Data
@@ -30,10 +33,55 @@ Communicating With Data has a distinctive structure and content, combining funda
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/pages/calendar/)
+- **Recitations** — [🔗](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/pages/recitations/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [lecture9.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/lecture9/)
+- [lecture8.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/lecture8/)
+- [lecture7.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/lecture7/)
+- [lecture6.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/lecture6/)
+- [lecture5.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/lecture5/)
+- [lecture3.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/lecture3/)
+- [lecture20.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/lecture20/)
+- [lecture2.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/lecture2/)
+- [lecture16.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/lecture16/)
+- [Lecture14.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/lecture14/)
+- [lecture12.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/lecture12/)
+- [lecture11.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/lecture11/)
+- [lecture10.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/lecture10/)
+- [lecture1.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/lecture1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/pages/readings/)
+
+### Problem-Set
+- [practicefinalsolutions.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/practicefinalsolutions/)
+- [practicefinal.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/practicefinal/)
+- [lobstercaseinstructions.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/lobstercaseinstructions/)
+- [hw2solutions.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/hw2solutions/)
+- [hw2.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/hw2/)
+- [hw1solutions.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/hw1solutions/)
+- [hw1.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/hw1/)
+- [formulasheetforfinal.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/formulasheetforfinal/)
+- [finalsolutions.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/finalsolutions/)
+- [final.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/final/)
+- [Exams](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/pages/assignments/)
+
+### Resource
+- [ski.xls (.xls)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/ski/)
+- [rec6.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/rec6/)
+- [rec5.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/rec5/)
+- [rec4.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/rec4/)
+- [rec3.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/rec3/)
+- [rec2.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/rec2/)
+- [rec1.pdf (.pdf)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/rec1/)
+- [15-063su03.jpg (.jpg)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/15-063su03/)
+- [15-063su03-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-063-communicating-with-data-summer-2003/resources/15-063su03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

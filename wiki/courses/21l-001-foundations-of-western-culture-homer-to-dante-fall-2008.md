@@ -12,6 +12,9 @@ views: 832
 completeness: 0.1
 last_modified: "2026-05-06T17:06:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 5, Reading-List: 1, Resource: 9, Syllabus: 1"
+api_id: 5763
 ---
 
 # Foundations of Western Culture:  Homer to Dante
@@ -30,8 +33,28 @@ As we read broadly from throughout the vast chronological period that is “Home
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/pages/syllabus/)
+- **Writing Resources** — [🔗](https://ocw.mit.edu/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/pages/writing-resources/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/pages/readings/)
+
+### Problem-Set
+- [Homer/Virgil Essay Prompt (.pdf)](https://ocw.mit.edu/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/resources/virg_home_prompt/)
+- [Techniques of Close Reading (.pdf)](https://ocw.mit.edu/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/resources/tech_close_read1/)
+- [Elements of Close Reading (.pdf)](https://ocw.mit.edu/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/resources/elemntcloseread1/)
+- [Close Reading Exercise (.pdf)](https://ocw.mit.edu/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/resources/close_read_exer1/)
+- [Assignments](https://ocw.mit.edu/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/pages/assignments/)
+
+### Resource
+- [Prose Issues to Watch for in Analytic Writing (.pdf)](https://ocw.mit.edu/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/resources/pros_isu_anl_wrt/)
+- [Paragraph Construction, Transitions, and Incorporating Quotations (.pdf)](https://ocw.mit.edu/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/resources/para_constructn/)
+- [Observation vs. Analysis (.pdf)](https://ocw.mit.edu/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/resources/obser_ver_anlsis/)
+- [Good Theses, Fruit Papers, and Other Crucial Issues (.pdf)](https://ocw.mit.edu/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/resources/good_thses_fruit/)
+- [Constructing Introductions (.pdf)](https://ocw.mit.edu/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/resources/construct_intro/)
+- [Roles of Sentences in Body Paragraphs (.pdf)](https://ocw.mit.edu/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/resources/body_para_concl/)
+- [Ulysses deriding Polyphemus by Joseph Mallord William Turner (.jpg)](https://ocw.mit.edu/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/resources/21l-001f08/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 249
 completeness: 0.0
 last_modified: "2026-05-06T14:43:24Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 2, Resource: 9, Syllabus: 2, Video-Transcript: 2"
+api_id: 4175
 ---
 
 # Chinese III (Regular)
@@ -30,8 +33,18 @@ This course forms the intermediate level of what constitutes a four-term foundat
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
+### Lectures
+- **Assignments and In-class Activities** — [🔗](https://ocw.mit.edu/courses/21g-103-chinese-iii-regular-fall-2018/pages/assignments-and-in-class-activities/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-103-chinese-iii-regular-fall-2018/pages/calendar/)
+- **Essay** — [🔗](https://ocw.mit.edu/courses/21g-103-chinese-iii-regular-fall-2018/pages/essay/)
+- **Review Test Format** — [🔗](https://ocw.mit.edu/courses/21g-103-chinese-iii-regular-fall-2018/pages/review-test-format/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-103-chinese-iii-regular-fall-2018/pages/syllabus/)
 
+### Resource
+- [Participant's Role in Chinese III (.png)](https://ocw.mit.edu/courses/21g-103-chinese-iii-regular-fall-2018/resources/roleofparticipant/)
+- [21g-103f18 (.gif)](https://ocw.mit.edu/courses/21g-103-chinese-iii-regular-fall-2018/resources/21g-103f18/)
+- [21g-103f18-th (.gif)](https://ocw.mit.edu/courses/21g-103-chinese-iii-regular-fall-2018/resources/21g-103f18-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21g-103-chinese-iii-regular-fall-2018/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

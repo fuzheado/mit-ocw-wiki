@@ -12,6 +12,9 @@ views: 401
 completeness: 0.06
 last_modified: "2026-05-06T17:12:08Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Problem-Set: 3, Reading-List: 1, Resource: 8, Syllabus: 2"
+api_id: 5550
 ---
 
 # Introduction to Drama
@@ -30,11 +33,26 @@ Drama combines the literary arts of storytelling and poetry with the world of li
 
 ## Materials
 
-- [Media Assignments with Examples] Media Assignments with Examples
-- [Presentation Assignments] Presentation Assignments
-- [Projects with Examples] Projects with Examples
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2004/pages/calendar/)
+- **Projects** — [🔗](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2004/pages/projects/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Death and the King's Horsemen (.pdf)](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2004/resources/student_question/)
+- [Introduction to Drama (.pdf)](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2004/resources/essay_assignmt/)
+- [Assignments](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2004/pages/assignments/)
+
+### Resource
+- [Thesis statement Worksheet (.pdf)](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2004/resources/thesis_worksheet/)
+- [Guidelines/Checklist for Scene Rehearsal and Class Leadership (.pdf)](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2004/resources/reha_guidelines/)
+- [Research Essay Assignment: some reminders and guidelines  (.pdf)](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2004/resources/essay_assignmt-1/)
+- [Elizabethan Drama (.jpg)](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2004/resources/21l-005f04/)
+- [Elizabethan Drama (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2004/resources/21l-005f04-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2004/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

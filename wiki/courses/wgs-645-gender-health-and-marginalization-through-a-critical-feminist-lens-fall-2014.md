@@ -12,6 +12,9 @@ views: 261
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:43:10Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 8, Syllabus: 2, Video-Transcript: 2"
+api_id: 4903
 ---
 
 # Gender, Health and Marginalization Through a Critical Feminist Lens
@@ -32,10 +35,21 @@ This course is part of the Graduate Consortium in Women’s Studies. The GCWS at
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014/pages/assignments/)
+
+### Resource
+- [Pro-choice counter-protest (.jpg)](https://ocw.mit.edu/courses/wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014/resources/wgs-645f14/)
+- [Pro-choice counter-protest (thumbnail) (.jpg)](https://ocw.mit.edu/courses/wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014/resources/wgs-645f14-th/)
+- [WGS-645_stat-students (.png)](https://ocw.mit.edu/courses/wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014/resources/wgs-645_stat-students/)
+- [WGS-645_classroom-1 (.jpg)](https://ocw.mit.edu/courses/wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014/resources/wgs-645_classroom-1/)
+- [Session Summaries](https://ocw.mit.edu/courses/wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014/pages/session-summaries/)
+- [Instructor Insights](https://ocw.mit.edu/courses/wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 127
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:51:36Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4694
 ---
 
 # Dynamics of Complex Systems: Ecological Theory
@@ -30,8 +33,19 @@ In this class we will critically review both classical works and recent literatu
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-ecological-theory-spring-2001/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-ecological-theory-spring-2001/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-ecological-theory-spring-2001/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-ecological-theory-spring-2001/pages/assignments/)
+
+### Resource
+- [Lorenz Attractor (.jpg)](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-ecological-theory-spring-2001/resources/12-517s01/)
+- [Lorenz Attractor (thumbnail) (.jpg)](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-ecological-theory-spring-2001/resources/12-517s01-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

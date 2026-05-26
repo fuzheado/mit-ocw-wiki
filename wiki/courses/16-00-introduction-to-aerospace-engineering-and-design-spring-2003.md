@@ -12,6 +12,9 @@ views: 3109
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T17:23:46Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 3, Problem-Set: 4, Reading-List: 1, Resource: 8, Syllabus: 2, Video-Transcript: 11"
+api_id: 5118
 ---
 
 # Introduction to Aerospace Engineering and Design
@@ -30,11 +33,31 @@ The fundamental concepts, and approaches of aerospace engineering, are highlight
 
 ## Materials
 
-- [Activity Assignments with Examples] Activity Assignments with Examples
-- [Problem Sets] Problem Sets
-- [Projects] Projects
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Beginning-of-term Questionnaire Spring 2003 (.pdf)](https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/resources/questionnaire_2003/)
+- [Problem Set #2 (.pdf)](https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/resources/hw2_03/)
+- [Problem Set #1 (.pdf)](https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/resources/hw1_03/)
+- [Assignments](https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/pages/assignments/)
+
+### Assignment
+- [Lighter Than Air Design Competition (.pdf)](https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/resources/lta2003/)
+- [Delta Design Game  (.pdf)](https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/resources/intro/)
+- [Projects](https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/pages/projects/)
+
+### Resource
+- [Rocket Performance Lab (.pdf)](https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/resources/rocketlab2003/)
+- [Aircraft Performance Flight Simulation Lab Solution (.pdf)](https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/resources/ps3sol/)
+- [Aircraft Performance Flight Simulation Lab (.pdf)](https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/resources/ps3_2003/)
+- [Space Shuttle Atlantis on a Boeing 747 (.jpg)](https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/resources/16-00s03/)
+- [Space Shuttle Atlantis on a Boeing 747 (thumbnail) (.jpg)](https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/resources/16-00s03-th/)
+- [Related Resources](https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

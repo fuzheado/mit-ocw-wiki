@@ -12,6 +12,8 @@ views: 98
 completeness: 0.26666666666666666
 last_modified: "2026-05-06T15:01:32Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Problem-Set: 1, Resource: 1, Syllabus: 2"
 ---
 
 # Trace Element Analysis of Geological, Biological & Environmental Materials by Neutron Activation Analysis: An Exposure
@@ -30,9 +32,21 @@ This course introduces students to the technique of instrumental neutron activat
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments with Examples] Presentation Assignments with Examples
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/pages/lecture-notes/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/pages/exams/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/pages/projects/)
+
+### Resource
+- [Related Resources](https://ocw.mit.edu/courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

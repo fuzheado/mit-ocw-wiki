@@ -12,6 +12,9 @@ views: 69
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:54:38Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 3971
 ---
 
 # Major Authors: Oscar Wilde and the '90's
@@ -30,8 +33,20 @@ At this distance Oscar Wilde seems not only to be on the threshold between centu
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-705-major-authors-oscar-wilde-and-the-90s-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-705-major-authors-oscar-wilde-and-the-90s-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-705-major-authors-oscar-wilde-and-the-90s-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-705-major-authors-oscar-wilde-and-the-90s-spring-2003/pages/assignments/)
+
+### Resource
+- [Oscar Wilde (.jpg)](https://ocw.mit.edu/courses/21l-705-major-authors-oscar-wilde-and-the-90s-spring-2003/resources/21l-705s03/)
+- [Oscar Wilde (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-705-major-authors-oscar-wilde-and-the-90s-spring-2003/resources/21l-705s03-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21l-705-major-authors-oscar-wilde-and-the-90s-spring-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 545
 completeness: 0.2
 last_modified: "2026-05-06T17:16:08Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 4, Problem-Set: 11, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 5196
 ---
 
 # Rhetoric
@@ -30,10 +33,33 @@ This course uses the study of rhetoric as an opportunity to offer instruction in
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Projects with Examples] Projects with Examples
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/pages/calendar/)
+- **Projects** — [🔗](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/pages/projects/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/pages/syllabus/)
 
+### Problem-Set
+- [samantha_a1r.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/resources/samantha_a1r/)
+- [samantha_a1d.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/resources/samantha_a1d/)
+- [s_speaking_assns.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/resources/s_speaking_assns/)
+- [kevin_a1r.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/resources/kevin_a1r/)
+- [kevin_a1d.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/resources/kevin_a1d/)
+- [d_debate_topics.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/resources/d_debate_topics/)
+- [c_rhet_cas_assn.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/resources/c_rhet_cas_assn/)
+- [a3_rhetoric_tech.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/resources/a3_rhetoric_tech/)
+- [a2_rhetoric_anys.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/resources/a2_rhetoric_anys/)
+- [a1_rhetoric_trut.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/resources/a1_rhetoric_trut/)
+
+### Assignment
+- [d3_comments.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/resources/d3_comments/)
+- [d2_comments.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/resources/d2_comments/)
+- [d1_comments.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/resources/d1_comments/)
+
+### Resource
+- [21w-747s05.jpg (.jpg)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/resources/21w-747s05/)
+- [21w-747s05-th.jpg (.jpg)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2005/resources/21w-747s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

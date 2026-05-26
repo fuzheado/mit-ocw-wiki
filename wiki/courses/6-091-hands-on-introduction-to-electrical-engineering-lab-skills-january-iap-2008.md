@@ -12,6 +12,8 @@ views: 1014
 completeness: 0.05833333333333334
 last_modified: "2026-05-06T16:49:36Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Syllabus: 1"
 ---
 
 # Hands-On Introduction to Electrical Engineering Lab Skills
@@ -31,8 +33,12 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-january-iap-2008/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-january-iap-2008/pages/lecture-notes/)
+- [Labs](https://ocw.mit.edu/courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-january-iap-2008/pages/labs/)
 ## Wikipedia Bridge
 
 ### Related Articles

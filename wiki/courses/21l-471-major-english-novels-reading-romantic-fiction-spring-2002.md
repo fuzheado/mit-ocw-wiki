@@ -12,6 +12,9 @@ views: 189
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:50:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 4868
 ---
 
 # Major English Novels: Reading Romantic Fiction
@@ -30,8 +33,21 @@ Though the era of British Romanticism (ca. 1790-1830) is sometimes exclusively a
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-471-major-english-novels-reading-romantic-fiction-spring-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-471-major-english-novels-reading-romantic-fiction-spring-2002/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-471-major-english-novels-reading-romantic-fiction-spring-2002/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-471-major-english-novels-reading-romantic-fiction-spring-2002/pages/assignments/)
+
+### Resource
+- [Spring 2002 Syllabus (.pdf)](https://ocw.mit.edu/courses/21l-471-major-english-novels-reading-romantic-fiction-spring-2002/resources/21l471__syllabus/)
+- [Vindication of the Rights of Woman (.jpg)](https://ocw.mit.edu/courses/21l-471-major-english-novels-reading-romantic-fiction-spring-2002/resources/21l-471s02/)
+- [Vindication of the Rights of Woman (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-471-major-english-novels-reading-romantic-fiction-spring-2002/resources/21l-471s02-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21l-471-major-english-novels-reading-romantic-fiction-spring-2002/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

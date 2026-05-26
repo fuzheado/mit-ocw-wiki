@@ -12,6 +12,9 @@ views: 141
 completeness: 0.21000000000000002
 last_modified: "2026-05-06T16:49:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 6, Problem-Set: 8, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5571
 ---
 
 # Seminar in Geophysics: Thermal and Chemical Evolution of the Earth
@@ -30,9 +33,34 @@ The main objective of this cross-disciplinary course is to understand the histor
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments with Examples] Presentation Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [Earth's Geochemistry (.pdf)](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/resources/notes_150205/)
+- [Noble Gas Constraints on Mantle Structure (.pdf)](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/resources/noblegas_lect/)
+- [Thermal and Chemical Evolution of the Earth (.pdf)](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/resources/lectureoconnell/)
+- [Phase Transitions in the Earth’s Mantle (.pdf)](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/resources/grp4notes010305/)
+- [Core Thermodynamics and the Geodynamo (.pdf)](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/resources/240205_notes/)
+- [Lecture Notes](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Chemical and Clapeyron-induced buoyancy at the 660 km discontinuity (.pdf)](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/resources/grp4prsnttn80305/)
+- [The effect of water on the 410-km discontinuity: An experiment study (.pdf)](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/resources/grp3prsnttn80305/)
+- [Why does Venus lack a magnetic field? (.pdf)](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/resources/grp1vensmgntcfld/)
+- [Low abundances of highly siderophile elements in the lunar mantle: evidence for prolonged late accretion (.pdf)](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/resources/240205_group4/)
+- [Summary of "Chemical composition of the Earth ..." by Claude Allègre (.pdf)](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/resources/240205_group3/)
+- [Thermal Histories of Convective Earth Models & Constrains on Radiogenic Heat Production in The Earth (.pdf)](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/resources/150205_group2/)
+- [Presentation and discussion by Group 1 (.pdf)](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/resources/150205_group1/)
+- [Assignments](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/pages/assignments/)
+
+### Resource
+- [Mantle Convection (.gif)](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/resources/chp_mantleconvection/)
+- [Mantle Convection (thumbnail) (.jpg)](https://ocw.mit.edu/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/resources/12-570s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

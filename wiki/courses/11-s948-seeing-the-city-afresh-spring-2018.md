@@ -12,6 +12,9 @@ views: 62
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:00:25Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Resource: 4, Syllabus: 2"
+api_id: 4400
 ---
 
 # Seeing the City Afresh
@@ -30,8 +33,16 @@ This course explores the city through writing—listening to the voices of poets
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-s948-seeing-the-city-afresh-spring-2018/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-s948-seeing-the-city-afresh-spring-2018/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-s948-seeing-the-city-afresh-spring-2018/pages/assignments/)
+
+### Resource
+- [11-s948s18-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-s948-seeing-the-city-afresh-spring-2018/resources/11-s948s18-th/)
+- [Primary Course Texts](https://ocw.mit.edu/courses/11-s948-seeing-the-city-afresh-spring-2018/pages/primary-course-texts/)
 ## Wikipedia Bridge
 
 ### Related Articles

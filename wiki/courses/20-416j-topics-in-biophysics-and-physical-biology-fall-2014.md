@@ -12,6 +12,9 @@ views: 561
 completeness: 0.0
 last_modified: "2026-05-06T15:02:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Resource: 14, Syllabus: 2"
+api_id: 5634
 ---
 
 # Topics in Biophysics and Physical Biology
@@ -30,8 +33,26 @@ This course provides broad exposure to research in biophysics and physical biolo
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
+### Lectures
+- **Calendar and Materials** — [🔗](https://ocw.mit.edu/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/pages/calendar-and-materials/)
+- **Supporting Students Writing Research Proposals** — [🔗](https://ocw.mit.edu/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/pages/instructor-insights/supporting-students-writing-research-proposals/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/pages/syllabus/)
 
+### Lecture-Notes
+- [Teaching the &#34;How-To&#34; of Scholarship Outside of the Lab](https://ocw.mit.edu/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/pages/instructor-insights/teaching-the-201chow-to201d-of-scholarship-outside-of-the-lab/)
+
+### Resource
+- [Guidelines & Advice on Applying to Graduate Fellowships (.pdf)](https://ocw.mit.edu/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/resources/mit20_416jf14_fellowships/)
+- [Creating figures for scientific papers (.jpeg)](https://ocw.mit.edu/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/resources/20-416jf14/)
+- [Creating figures for scientific papers (thumbnail) (.jpeg)](https://ocw.mit.edu/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/resources/20-416jf14-th/)
+- [20.416J Classroom (.jpeg)](https://ocw.mit.edu/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/resources/20-416j-classroom/)
+- [13 students (.png)](https://ocw.mit.edu/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/resources/13/)
+- [~12 students (.png)](https://ocw.mit.edu/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/resources/12-approx/)
+- [Teaching the "How-To" of Scholarship Outside of the Lab](https://ocw.mit.edu/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/pages/instructor-insights/teaching-the-201chow-to201d-of-scholarship-outside-of-the-lab/)
+- [Motivation for Developing the Course](https://ocw.mit.edu/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/pages/instructor-insights/motivation-for-developing-the-course/)
+- [Instructor Insights](https://ocw.mit.edu/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/pages/instructor-insights/)
+- [Cultivating a Biophysics Community](https://ocw.mit.edu/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/pages/instructor-insights/cultivating-a-biophysics-community/)
+- [Advice for Other Educators](https://ocw.mit.edu/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/pages/instructor-insights/advice-for-other-educators/)
 ## Wikipedia Bridge
 
 ### Related Articles

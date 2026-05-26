@@ -12,6 +12,8 @@ views: 68
 completeness: 0.04833333333333334
 last_modified: "2026-05-06T16:49:26Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Reading-List: 1, Syllabus: 1"
 ---
 
 # Frameworks of Urban Governance
@@ -30,8 +32,17 @@ Urban governance comprises the various forces, institutions, and movements that 
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/11-957-frameworks-of-urban-governance-january-iap-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/11-957-frameworks-of-urban-governance-january-iap-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-957-frameworks-of-urban-governance-january-iap-2007/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-957-frameworks-of-urban-governance-january-iap-2007/pages/assignments/)
 ## Wikipedia Bridge
 
 ### Related Articles

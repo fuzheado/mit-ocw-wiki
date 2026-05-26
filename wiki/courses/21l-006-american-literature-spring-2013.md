@@ -12,6 +12,9 @@ views: 459
 completeness: 0.1
 last_modified: "2026-05-06T16:59:42Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 6, Syllabus: 1, Video-Transcript: 1"
+api_id: 5247
 ---
 
 # American Literature
@@ -30,9 +33,25 @@ This course studies the national literature of the United States since the early
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-006-american-literature-spring-2013/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-006-american-literature-spring-2013/pages/readings/)
+
+### Problem-Set
+- [21L.006 American Literature essay 1 worksheet (.pdf)](https://ocw.mit.edu/courses/21l-006-american-literature-spring-2013/resources/mit21l_006s13_researchwork/)
+- [21L.006 American Literature report signup (.pdf)](https://ocw.mit.edu/courses/21l-006-american-literature-spring-2013/resources/mit21l_006s13_reportsign/)
+- [21L.006 American Literature report guidelines (.pdf)](https://ocw.mit.edu/courses/21l-006-american-literature-spring-2013/resources/mit21l_006s13_reportguide/)
+- [21L.006 American Literature essay signup (.pdf)](https://ocw.mit.edu/courses/21l-006-american-literature-spring-2013/resources/mit21l_006s13_essaysignup/)
+- [Assignments](https://ocw.mit.edu/courses/21l-006-american-literature-spring-2013/pages/assignments/)
+
+### Resource
+- [21L.006 American Literature writing FAQs (.pdf)](https://ocw.mit.edu/courses/21l-006-american-literature-spring-2013/resources/mit21l_006s13_writingfaqs/)
+- [21L.006 American Literature guidelines for revision (.pdf)](https://ocw.mit.edu/courses/21l-006-american-literature-spring-2013/resources/mit21l_006s13_revision/)
+- [21L-006s13.jpg (.jpg)](https://ocw.mit.edu/courses/21l-006-american-literature-spring-2013/resources/21l-006s13/)
+- [21L-006s13-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-006-american-literature-spring-2013/resources/21l-006s13-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21l-006-american-literature-spring-2013/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

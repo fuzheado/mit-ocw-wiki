@@ -12,6 +12,9 @@ views: 296
 completeness: 0.22000000000000003
 last_modified: "2026-05-06T17:07:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4841
 ---
 
 # Advanced Animal Behavior
@@ -30,10 +33,20 @@ The course includes survey and special topics designed for graduate students in 
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-201-advanced-animal-behavior-spring-2000/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-201-advanced-animal-behavior-spring-2000/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-201-advanced-animal-behavior-spring-2000/pages/readings/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/9-201-advanced-animal-behavior-spring-2000/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/9-201-advanced-animal-behavior-spring-2000/pages/assignments/)
+
+### Resource
+- [Hamster (.jpg)](https://ocw.mit.edu/courses/9-201-advanced-animal-behavior-spring-2000/resources/9-201s00/)
+- [Hamster (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-201-advanced-animal-behavior-spring-2000/resources/9-201s00-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

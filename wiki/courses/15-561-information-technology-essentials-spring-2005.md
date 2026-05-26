@@ -12,6 +12,9 @@ views: 1074
 completeness: 0.5133333333333334
 last_modified: "2026-05-06T17:09:00Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 16, Problem-Set: 11, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5460
 ---
 
 # Information Technology Essentials
@@ -31,10 +34,47 @@ This course is intended for students with little or no background in computer te
 
 ## Materials
 
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [lecture8.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/lecture8/)
+- [lecture7.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/lecture7/)
+- [lecture6.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/lecture6/)
+- [lecture5.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/lecture5/)
+- [lecture4.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/lecture4/)
+- [lecture3.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/lecture3/)
+- [lecture2.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/lecture2/)
+- [lecture16.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/lecture16/)
+- [lecture15.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/lecture15/)
+- [lecture14.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/lecture14/)
+- [lecture13.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/lecture13/)
+- [lecture12.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/lecture12/)
+- [lecture11.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/lecture11/)
+- [lecture1.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/lecture1/)
+- [lec9and10.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/lec9and10/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/pages/readings/)
+
+### Problem-Set
+- [solutions.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/solutions/)
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/ps3/)
+- [ps1teachingnote.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/ps1teachingnote/)
+- [ps02.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/ps02/)
+- [ps01.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/ps01/)
+- [practice_quest.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/practice_quest/)
+- [nwind_ps2_solut.mdb (.mdb)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/nwind_ps2_solut/)
+- [nwind_ps2.mdb (.mdb)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/nwind_ps2/)
+- [db_open_inst.pdf (.pdf)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/db_open_inst/)
+- [Exams](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/pages/assignments/)
+
+### Resource
+- [15-561s05.jpg (.jpg)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/15-561s05/)
+- [15-561s05-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/resources/15-561s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

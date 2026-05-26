@@ -12,6 +12,9 @@ views: 102
 completeness: 0.028333333333333335
 last_modified: "2026-05-06T17:15:02Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5673
 ---
 
 # Housing and Human Services
@@ -30,8 +33,22 @@ This class focuses on how the housing and human service systems interact: how ne
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-421-housing-and-human-services-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-421-housing-and-human-services-spring-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/11-421-housing-and-human-services-spring-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-421-housing-and-human-services-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-421-housing-and-human-services-spring-2005/pages/assignments/)
+
+### Resource
+- [Homeless in America (.jpg)](https://ocw.mit.edu/courses/11-421-housing-and-human-services-spring-2005/resources/11-421s05/)
+- [Homeless in America (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-421-housing-and-human-services-spring-2005/resources/11-421s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

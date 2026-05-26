@@ -12,6 +12,9 @@ views: 194
 completeness: 0.36000000000000004
 last_modified: "2026-05-06T14:50:49Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 6, Resource: 5, Syllabus: 2"
+api_id: 4638
 ---
 
 # Chinese III (Streamlined)
@@ -30,8 +33,22 @@ This course is the intermediate level of the streamlined curriculum, which is in
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-109-chinese-iii-streamlined-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-109-chinese-iii-streamlined-fall-2005/pages/syllabus/)
 
+### Problem-Set
+- [《中国现代文学选读》 (.pdf)](https://ocw.mit.edu/courses/21g-109-chinese-iii-streamlined-fall-2005/resources/mit21g_109f05_sampletestu1/)
+- [End of term Essay (.pdf)](https://ocw.mit.edu/courses/21g-109-chinese-iii-streamlined-fall-2005/resources/mit21g_109f05_finess/)
+- [Learn Chinese from Modern Writers (.pdf)](https://ocw.mit.edu/courses/21g-109-chinese-iii-streamlined-fall-2005/resources/mit21g_109f05_bjwbprevwjt/)
+- [電影《家》问题 (.pdf)](https://ocw.mit.edu/courses/21g-109-chinese-iii-streamlined-fall-2005/resources/mit21g_109f05_bjffexerjtft/)
+- [Exams](https://ocw.mit.edu/courses/21g-109-chinese-iii-streamlined-fall-2005/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/21g-109-chinese-iii-streamlined-fall-2005/pages/assignments/)
+
+### Resource
+- [21g-109f05.jpg (.jpg)](https://ocw.mit.edu/courses/21g-109-chinese-iii-streamlined-fall-2005/resources/21g-109f05/)
+- [21g-109f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-109-chinese-iii-streamlined-fall-2005/resources/21g-109f05-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21g-109-chinese-iii-streamlined-fall-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

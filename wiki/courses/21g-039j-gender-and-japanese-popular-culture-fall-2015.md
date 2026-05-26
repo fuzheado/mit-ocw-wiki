@@ -12,6 +12,9 @@ views: 325
 completeness: 0.16000000000000003
 last_modified: "2026-05-06T17:13:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 8, Reading-List: 2, Resource: 4, Syllabus: 2"
+api_id: 5482
 ---
 
 # Gender and Japanese Popular Culture
@@ -30,9 +33,27 @@ This course examines relationships between identity and participation in Japanes
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/pages/readings/)
+- [Additional Readings](https://ocw.mit.edu/courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/pages/readings/additional-readings/)
+
+### Problem-Set
+- [21G.039J Gender and Japanese Popular Culture: Student 2 Example Essay 1 (.pdf)](https://ocw.mit.edu/courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/resources/mit21g_039jf15_transformation/)
+- [21G.039J Gender and Japanese Popular Culture: Student 1 Example Essay 1 (.pdf)](https://ocw.mit.edu/courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/resources/mit21g_039jf15_inequality/)
+- [21G.039J Gender and Japanese Popular Culture: Assignments: Final Project (.pdf)](https://ocw.mit.edu/courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/resources/mit21g_039jf15_final/)
+- [21G.039J Gender and Japanese Popular Culture: Student 3 Example Final Essay (.pdf)](https://ocw.mit.edu/courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/resources/mit21g_039jf15_feminism/)
+- [21G.039J Gender and Japanese Popular Culture: Assignments: Essay 1 (.pdf)](https://ocw.mit.edu/courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/resources/mit21g_039jf15_essay1/)
+- [21G.039J 21G.039J Gender and Japanese Popular Culture: Student 1 Example Final Essay (.pdf)](https://ocw.mit.edu/courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/resources/mit21g_039jf15_education/)
+- [21G.039J Gender and Japanese Popular Culture: Student 3 Example Essay 1 (.pdf)](https://ocw.mit.edu/courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/resources/mit21g_039jf15_culture/)
+- [Assignments](https://ocw.mit.edu/courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/pages/assignments/)
+
+### Resource
+- [21g-039jf15.jpg (.jpg)](https://ocw.mit.edu/courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/resources/21g-039jf15/)
+- [21g-039jf15-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/resources/21g-039jf15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

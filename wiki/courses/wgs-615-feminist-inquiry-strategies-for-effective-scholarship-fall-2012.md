@@ -12,6 +12,9 @@ views: 49
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:58:06Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 3, Syllabus: 2, Video-Transcript: 1"
+api_id: 4157
 ---
 
 # Feminist Inquiry: Strategies for Effective Scholarship
@@ -32,8 +35,16 @@ This course is part of the Graduate Consortium in Women’s Studies at MIT.
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012/pages/assignments/)
+
+### Resource
+- [London Feminist Network (.jpg)](https://ocw.mit.edu/courses/wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012/resources/wgs-615f12/)
 ## Wikipedia Bridge
 
 ### Related Articles

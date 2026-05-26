@@ -12,6 +12,9 @@ views: 107
 completeness: 0.0
 last_modified: "2026-05-06T14:50:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 4748
 ---
 
 # Case Studies in Social and Ethical Responsibilities of Computing
@@ -31,8 +34,9 @@ The Series Editors interpret “social and ethical responsibilities of computing
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [res-tll-007f21.jpg (.jpg)](https://ocw.mit.edu/courses/res-tll-007-case-studies-in-social-and-ethical-responsibilities-of-computing-fall-2021/resources/res-tll-007f21/)
+- [res-tll-007f21-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-tll-007-case-studies-in-social-and-ethical-responsibilities-of-computing-fall-2021/resources/res-tll-007f21-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

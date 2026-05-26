@@ -12,6 +12,8 @@ views: 771
 completeness: 0.04166666666666667
 last_modified: "2026-05-06T17:03:31Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Syllabus: 1"
 ---
 
 # Statistics and Visualization for Data Analysis and Inference
@@ -30,8 +32,11 @@ A whirl-wind tour of the statistics used in behavioral science research, coverin
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009/pages/lecture-notes/)
 ## Wikipedia Bridge
 
 ### Related Articles

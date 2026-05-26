@@ -12,6 +12,9 @@ views: 60
 completeness: 0.2
 last_modified: "2026-05-06T14:45:57Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 9, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4594
 ---
 
 # International Women's Voices
@@ -30,9 +33,27 @@ International Women’s Voices has several objectives. It introduces students to
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-022j-international-womens-voices-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-022j-international-womens-voices-spring-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-022j-international-womens-voices-spring-2004/pages/readings/)
+
+### Problem-Set
+- [Thought Questions on Chinese Short Stories “Love Must Not be Forgotten” and “At Middle Age” (.pdf)](https://ocw.mit.edu/courses/21g-022j-international-womens-voices-spring-2004/resources/mit21g_022js04_on_ch/)
+- [Thought Questions for Kitchen and Moonlight Shadow (.pdf)](https://ocw.mit.edu/courses/21g-022j-international-womens-voices-spring-2004/resources/mit21g_022js04_forkh1/)
+- [Thought Questions for House of the Spirits (.pdf)](https://ocw.mit.edu/courses/21g-022j-international-womens-voices-spring-2004/resources/mit21g_022js04_forhou2/)
+- [Thought Questions for Woman at Point Zero (.pdf)](https://ocw.mit.edu/courses/21g-022j-international-womens-voices-spring-2004/resources/mit21g_022js04_f_wm/)
+- [Thought Questions for So Long a Letter (.pdf)](https://ocw.mit.edu/courses/21g-022j-international-womens-voices-spring-2004/resources/mit21g_022js04_f_so/)
+- [Thought Questions for Kitchen and Moonlight Shadows (.pdf)](https://ocw.mit.edu/courses/21g-022j-international-womens-voices-spring-2004/resources/mit21g_022js04_f_kt/)
+- [Thought Questions for Distant View of a Minaret (.pdf)](https://ocw.mit.edu/courses/21g-022j-international-womens-voices-spring-2004/resources/mit21g_022js04_f_ds/)
+- [Thought Questions for “At Middle Age” and “Love Must Not be Forgotten” (.pdf)](https://ocw.mit.edu/courses/21g-022j-international-womens-voices-spring-2004/resources/mit21g_022js04_f_at/)
+- [Assignments](https://ocw.mit.edu/courses/21g-022j-international-womens-voices-spring-2004/pages/assignments/)
+
+### Resource
+- [21g-022js04.jpg (.jpg)](https://ocw.mit.edu/courses/21g-022j-international-womens-voices-spring-2004/resources/21g-022js04/)
+- [21g-022js04-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-022j-international-womens-voices-spring-2004/resources/21g-022js04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

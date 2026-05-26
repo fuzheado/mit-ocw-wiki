@@ -12,6 +12,9 @@ views: 106
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T14:53:46Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 4059
 ---
 
 # Chinese Foreign Policy
@@ -30,9 +33,24 @@ This course explores the leading theoretical and methodological approaches to st
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-408-chinese-foreign-policy-fall-2013/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-408-chinese-foreign-policy-fall-2013/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-408-chinese-foreign-policy-fall-2013/pages/readings/)
+
+### Problem-Set
+- [Modern Chinese Strategic Thought: Classical and Maoist Influences  (.pdf)](https://ocw.mit.edu/courses/17-408-chinese-foreign-policy-fall-2013/resources/mit17_408f13_modrnchinese/)
+- [Explaining China's Participation in Anti-Piracy Operations in the Gulf of Aden (.pdf)](https://ocw.mit.edu/courses/17-408-chinese-foreign-policy-fall-2013/resources/mit17_408f13_explinigchina/)
+- [An Analysis of Traditional Chinese Strategic Thought (.pdf)](https://ocw.mit.edu/courses/17-408-chinese-foreign-policy-fall-2013/resources/mit17_408f13_anlyistrdtnl/)
+- [Assignments](https://ocw.mit.edu/courses/17-408-chinese-foreign-policy-fall-2013/pages/assignments/)
+
+### Resource
+- [Chinese Foreign Minister Wang Yi meets with US Secretary of State John Kerry (.jpg)](https://ocw.mit.edu/courses/17-408-chinese-foreign-policy-fall-2013/resources/17-408f13/)
+- [Chinese Foreign Minister Wang Yi (.jpg)](https://ocw.mit.edu/courses/17-408-chinese-foreign-policy-fall-2013/resources/17-408f13-th/)
+- [17-408_stat-students (.png)](https://ocw.mit.edu/courses/17-408-chinese-foreign-policy-fall-2013/resources/17-408_stat-students/)
+- [Instructor Insights](https://ocw.mit.edu/courses/17-408-chinese-foreign-policy-fall-2013/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 303
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T15:03:01Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 1"
+api_id: 4758
 ---
 
 # Organizations and Environments
@@ -31,8 +34,20 @@ This is an introduction to a vast and multifaceted domain of inquiry. Due to tim
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-342j-organizations-and-environments-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-342j-organizations-and-environments-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-342j-organizations-and-environments-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-342j-organizations-and-environments-fall-2004/pages/assignments/)
+
+### Resource
+- [Palm Pilot (.jpg)](https://ocw.mit.edu/courses/15-342j-organizations-and-environments-fall-2004/resources/chp_palm_pilot/)
+- [A man walks down the hallway (.jpg)](https://ocw.mit.edu/courses/15-342j-organizations-and-environments-fall-2004/resources/15-342jf04/)
+- [A man walks down the hallway (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-342j-organizations-and-environments-fall-2004/resources/15-342jf04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

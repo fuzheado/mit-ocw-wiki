@@ -12,6 +12,8 @@ views: 969
 completeness: 0.21000000000000002
 last_modified: "2026-05-06T14:55:24Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Syllabus: 1, Video-Transcript: 5"
 ---
 
 # Introduction to MATLAB
@@ -30,9 +32,14 @@ This is an accelerated introduction to MATLAB® and its popular toolboxes. Lectu
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Programming Assignments] Programming Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/6-057-introduction-to-matlab-january-iap-2019/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/6-057-introduction-to-matlab-january-iap-2019/pages/lecture-notes/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/6-057-introduction-to-matlab-january-iap-2019/pages/assignments/)
 ## Wikipedia Bridge
 
 ### Related Articles

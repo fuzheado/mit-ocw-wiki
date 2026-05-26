@@ -12,6 +12,9 @@ views: 55
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:04:53Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 12, Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 3387
 ---
 
 # AIDS and Poverty in Africa
@@ -30,8 +33,34 @@ This is a discussion-based interactive seminar on the two major issues that affe
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/pages/assignments/)
+
+### Assignment
+- [tufool_nuaimi.pdf (.pdf)](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/resources/tufool_nuaimi/)
+- [stephen_weiner.pdf (.pdf)](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/resources/stephen_weiner/)
+- [report2006.pdf (.pdf)](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/resources/report2006/)
+- [Discrimination in Schools (.pdf)](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/resources/mites_253s05_tawanda_siban/)
+- [Policies in Schools (.pdf)](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/resources/mites_253s05_shima_goswami/)
+- [Workplace Discrimination (.pdf)](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/resources/mites_253s05_samuel_curtis/)
+- [On Pre-Nuptial Testing (.pdf)](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/resources/mites_253s05_priyadesai/)
+- [Marriage Laws (.pdf)](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/resources/mites_253s05_melissa_lat/)
+- [Policies in Institution (Companies, Civil, Religious and Health) (.pdf)](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/resources/mites_253s05_ato_ulzen/)
+- [mahreen_khan.pdf (.pdf)](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/resources/mahreen_khan/)
+- [frances_rogoz.pdf (.pdf)](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/resources/frances_rogoz/)
+- [Projects](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/pages/projects/)
+
+### Resource
+- [es-253s05.jpg (.jpg)](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/resources/es-253s05/)
+- [es-253s05-th.jpg (.jpg)](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/resources/es-253s05-th/)
+- [Related Resources](https://ocw.mit.edu/courses/es-253-aids-and-poverty-in-africa-spring-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

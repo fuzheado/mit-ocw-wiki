@@ -12,6 +12,9 @@ views: 128
 completeness: 0.045000000000000005
 last_modified: "2026-05-06T14:45:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 3, Problem-Set: 1, Reading-List: 1, Resource: 11, Syllabus: 2"
+api_id: 4074
 ---
 
 # Systems Leadership and Management Praxis
@@ -30,9 +33,31 @@ SLaM (Systems Leadership and Management) Praxis is a course is designed to intro
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/pages/syllabus/)
 
+### Lecture-Notes
+- ['Smartphone Wars' (.pdf)](https://ocw.mit.edu/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/resources/mitesd_s51s14_lec9/)
+- [Debrief on Back Bay Battery and preparation for 'Smartphone Wars' (.pdf)](https://ocw.mit.edu/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/resources/mitesd_s51s14_lec6/)
+- [Lecture Notes](https://ocw.mit.edu/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/pages/assignments/)
+
+### Resource
+- [esd-s51s14.jpg (.jpg)](https://ocw.mit.edu/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/resources/esd-s51s14/)
+- [esd-s51s14-th.jpg (.jpg)](https://ocw.mit.edu/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/resources/esd-s51s14-th/)
+- [ESD-S51_stat-students.png (.png)](https://ocw.mit.edu/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/resources/esd-s51_stat-students/)
+- [ESD-S51_classroom-2.jpg (.jpg)](https://ocw.mit.edu/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/resources/esd-s51_classroom-2/)
+- [ESD-S51_classroom-1.jpg (.jpg)](https://ocw.mit.edu/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/resources/esd-s51_classroom-1/)
+- [Related Resources](https://ocw.mit.edu/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/pages/related-resources/)
+- [Role-Play and Simulation](https://ocw.mit.edu/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/pages/instructor-insights/role-play-and-simulation/)
+- [Refining the Course](https://ocw.mit.edu/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/pages/instructor-insights/refining-the-course/)
+- [Instructor Insights](https://ocw.mit.edu/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

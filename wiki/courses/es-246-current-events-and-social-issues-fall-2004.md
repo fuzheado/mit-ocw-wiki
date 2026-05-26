@@ -12,6 +12,9 @@ views: 89
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:49:07Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 3951
 ---
 
 # Current Events and Social Issues
@@ -30,8 +33,18 @@ The goal of this seminar is to have open discussions of controversial political 
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/es-246-current-events-and-social-issues-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/es-246-current-events-and-social-issues-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/es-246-current-events-and-social-issues-fall-2004/pages/assignments/)
+
+### Resource
+- [Ntarama Church Memorial in Rwanda (.jpg)](https://ocw.mit.edu/courses/es-246-current-events-and-social-issues-fall-2004/resources/es-246f04/)
+- [Ntarama Church Memorial in Rwanda (thumbnail) (.jpg)](https://ocw.mit.edu/courses/es-246-current-events-and-social-issues-fall-2004/resources/es-246f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

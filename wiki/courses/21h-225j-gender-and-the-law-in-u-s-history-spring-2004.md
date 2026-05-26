@@ -12,6 +12,9 @@ views: 335
 completeness: 0.06
 last_modified: "2026-05-06T16:55:48Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5622
 ---
 
 # Gender and the Law in U.S. History
@@ -30,8 +33,21 @@ This subject explores the legal history of the United States as a gendered syste
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-225j-gender-and-the-law-in-u-s-history-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-225j-gender-and-the-law-in-u-s-history-spring-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-225j-gender-and-the-law-in-u-s-history-spring-2004/pages/readings/)
+
+### Problem-Set
+- [First Writing Assignment (.pdf)](https://ocw.mit.edu/courses/21h-225j-gender-and-the-law-in-u-s-history-spring-2004/resources/mit21h_225js04_fpaper_204/)
+- [Final Paper Assignment (.pdf)](https://ocw.mit.edu/courses/21h-225j-gender-and-the-law-in-u-s-history-spring-2004/resources/mit21h_225js04_final_paper4/)
+- [Assignments](https://ocw.mit.edu/courses/21h-225j-gender-and-the-law-in-u-s-history-spring-2004/pages/assignments/)
+
+### Resource
+- [Same-sex Marriage (.jpg)](https://ocw.mit.edu/courses/21h-225j-gender-and-the-law-in-u-s-history-spring-2004/resources/21h-225js04/)
+- [Same-sex Marriage (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21h-225j-gender-and-the-law-in-u-s-history-spring-2004/resources/21h-225js04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

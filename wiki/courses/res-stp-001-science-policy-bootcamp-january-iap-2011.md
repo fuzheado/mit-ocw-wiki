@@ -12,6 +12,8 @@ views: 443
 completeness: 0.0
 last_modified: "2026-05-06T17:19:10Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 6, Syllabus: 2"
 ---
 
 # Science Policy Bootcamp
@@ -31,8 +33,17 @@ This course is offered during MIT’s Independent Activities Period (IAP), which
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/res-stp-001-science-policy-bootcamp-january-iap-2011/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/res-stp-001-science-policy-bootcamp-january-iap-2011/pages/calendar/)
 
+### Resource
+- [Class Sessions](https://ocw.mit.edu/courses/res-stp-001-science-policy-bootcamp-january-iap-2011/pages/class-sessions/)
+- [Class 1 - Economic Drivers Behind Science and Technology Support](https://ocw.mit.edu/courses/res-stp-001-science-policy-bootcamp-january-iap-2011/pages/class-sessions/class01/)
+- [Class 2 - The Organizing Framework Behind US Science Agencies](https://ocw.mit.edu/courses/res-stp-001-science-policy-bootcamp-january-iap-2011/pages/class-sessions/class02/)
+- [Class 3 - The Organization of Innovation Systems at the Face-to-Face Level](https://ocw.mit.edu/courses/res-stp-001-science-policy-bootcamp-january-iap-2011/pages/class-sessions/class03/)
+- [Class 4 - The Competitiveness Challenge in Advanced Technologies and Services](https://ocw.mit.edu/courses/res-stp-001-science-policy-bootcamp-january-iap-2011/pages/class-sessions/class04/)
+- [Class 5 - The Structure of an Energy Technology Revolution](https://ocw.mit.edu/courses/res-stp-001-science-policy-bootcamp-january-iap-2011/pages/class-sessions/class05/)
 ## Wikipedia Bridge
 
 ### Related Articles

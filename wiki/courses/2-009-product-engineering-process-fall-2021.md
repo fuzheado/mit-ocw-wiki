@@ -12,6 +12,9 @@ views: 930
 completeness: 0.0
 last_modified: "2026-05-06T14:59:08Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 5371
 ---
 
 # Product Engineering Process
@@ -41,10 +44,9 @@ To develop an appreciation for the significance of societal contributions that c
 
 ## Materials
 
-- [Image Gallery] Image Gallery
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
-
+### Resource
+- [2-009f21.jpg (.jpg)](https://ocw.mit.edu/courses/2-009-product-engineering-process-fall-2021/resources/2-009f21/)
+- [2-009f21-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-009-product-engineering-process-fall-2021/resources/2-009f21-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

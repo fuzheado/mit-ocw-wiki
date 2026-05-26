@@ -12,6 +12,8 @@ views: 2014
 completeness: 0.11333333333333334
 last_modified: "2026-05-06T17:06:44Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Resource: 1, Syllabus: 1"
 ---
 
 # Designing Your Life
@@ -33,9 +35,17 @@ The instructors would like to thank Prof. David Mindell for his sponsorship of t
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/pe-550-designing-your-life-january-iap-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/pe-550-designing-your-life-january-iap-2007/pages/lecture-notes/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/pe-550-designing-your-life-january-iap-2007/pages/assignments/)
+
+### Resource
+- [Related Resources](https://ocw.mit.edu/courses/pe-550-designing-your-life-january-iap-2007/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 213
 completeness: 0.07833333333333334
 last_modified: "2026-05-06T17:16:28Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 7, Problem-Set: 1, Reading-List: 2, Resource: 4, Syllabus: 2"
+api_id: 5690
 ---
 
 # Research Seminar on Urban Information Systems
@@ -31,10 +34,29 @@ ArcGIS/ArcMap/ArcInfo Graphical User Interface is the intellectual property of E
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [notes_7.pdf (.pdf)](https://ocw.mit.edu/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/resources/notes_7/)
+- [notes_6.pdf (.pdf)](https://ocw.mit.edu/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/resources/notes_6/)
+- [notes_5.pdf (.pdf)](https://ocw.mit.edu/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/resources/notes_5/)
+- [notes_4.pdf (.pdf)](https://ocw.mit.edu/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/resources/notes_4/)
+- [notes_3.pdf (.pdf)](https://ocw.mit.edu/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/resources/notes_3/)
+- [notes_2.pdf (.pdf)](https://ocw.mit.edu/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/resources/notes_2/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/pages/lecture-notes/)
+
+### Reading-List
+- [raj_disseratn_c1.pdf (.pdf)](https://ocw.mit.edu/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/resources/raj_disseratn_c1/)
+- [Readings](https://ocw.mit.edu/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/pages/assignments/)
+
+### Resource
+- [11-522f05.jpg (.jpg)](https://ocw.mit.edu/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/resources/11-522f05/)
+- [11-522f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/resources/11-522f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

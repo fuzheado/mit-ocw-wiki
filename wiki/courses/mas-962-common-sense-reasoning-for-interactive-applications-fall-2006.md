@@ -12,6 +12,9 @@ views: 412
 completeness: 0.1
 last_modified: "2026-05-06T15:00:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 3, Problem-Set: 5, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5271
 ---
 
 # Common Sense Reasoning for Interactive Applications
@@ -31,8 +34,28 @@ This year’s theme will be about how common sense knowledge differs in differen
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/pages/readings/)
+
+### Problem-Set
+- [a5.pdf (.pdf)](https://ocw.mit.edu/courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/resources/a5/)
+- [a4.pdf (.pdf)](https://ocw.mit.edu/courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/resources/a4/)
+- [a2.pdf (.pdf)](https://ocw.mit.edu/courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/resources/a2/)
+- [a1.pdf (.pdf)](https://ocw.mit.edu/courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/resources/a1/)
+- [Assignments](https://ocw.mit.edu/courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/pages/assignments/)
+
+### Assignment
+- [proj_file3.pdf (.pdf)](https://ocw.mit.edu/courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/resources/proj_file3/)
+- [proj_file1.pdf (.pdf)](https://ocw.mit.edu/courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/resources/proj_file1/)
+- [Projects](https://ocw.mit.edu/courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/pages/projects/)
+
+### Resource
+- [mas-962f06.jpg (.jpg)](https://ocw.mit.edu/courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/resources/mas-962f06/)
+- [mas-962f06-th.jpg (.jpg)](https://ocw.mit.edu/courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/resources/mas-962f06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 150
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:57:26Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4973
 ---
 
 # Public Opinion and American Democracy
@@ -30,8 +33,18 @@ This course will examine public opinion and assess its place in the American pol
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-265-public-opinion-and-american-democracy-spring-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-265-public-opinion-and-american-democracy-spring-2007/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-265-public-opinion-and-american-democracy-spring-2007/pages/assignments/)
+
+### Resource
+- [U.S. Capitol Building (.jpg)](https://ocw.mit.edu/courses/17-265-public-opinion-and-american-democracy-spring-2007/resources/17-265s07/)
+- [U.S. Capitol Building (thumbnail) (.jpg)](https://ocw.mit.edu/courses/17-265-public-opinion-and-american-democracy-spring-2007/resources/17-265s07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 231
 completeness: 0.06666666666666667
 last_modified: "2026-05-06T16:48:58Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 8, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 1"
+api_id: 4192
 ---
 
 # Genomics, Computing, Economics, and Society
@@ -30,8 +33,30 @@ This course will focus on understanding aspects of modern technology displaying 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/hst-510-genomics-computing-economics-and-society-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-510-genomics-computing-economics-and-society-fall-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [05g_oct27.pdf (.pdf)](https://ocw.mit.edu/courses/hst-510-genomics-computing-economics-and-society-fall-2005/resources/05g_oct27/)
+- [05f_oct13.pdf (.pdf)](https://ocw.mit.edu/courses/hst-510-genomics-computing-economics-and-society-fall-2005/resources/05f_oct13/)
+- [05e_oct11.pdf (.pdf)](https://ocw.mit.edu/courses/hst-510-genomics-computing-economics-and-society-fall-2005/resources/05e_oct11/)
+- [05d_oct4.pdf (.pdf)](https://ocw.mit.edu/courses/hst-510-genomics-computing-economics-and-society-fall-2005/resources/05d_oct4/)
+- [05c_sep27.pdf (.pdf)](https://ocw.mit.edu/courses/hst-510-genomics-computing-economics-and-society-fall-2005/resources/05c_sep27/)
+- [05b_sep22.pdf (.pdf)](https://ocw.mit.edu/courses/hst-510-genomics-computing-economics-and-society-fall-2005/resources/05b_sep22/)
+- [05a_sep20.pdf (.pdf)](https://ocw.mit.edu/courses/hst-510-genomics-computing-economics-and-society-fall-2005/resources/05a_sep20/)
+- [Lecture Notes](https://ocw.mit.edu/courses/hst-510-genomics-computing-economics-and-society-fall-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/hst-510-genomics-computing-economics-and-society-fall-2005/pages/readings/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/hst-510-genomics-computing-economics-and-society-fall-2005/pages/projects/)
+
+### Resource
+- [hst-510f05.jpg (.jpg)](https://ocw.mit.edu/courses/hst-510-genomics-computing-economics-and-society-fall-2005/resources/hst-510f05/)
+- [hst-510f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/hst-510-genomics-computing-economics-and-society-fall-2005/resources/hst-510f05-th/)
+- [Related Resources](https://ocw.mit.edu/courses/hst-510-genomics-computing-economics-and-society-fall-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

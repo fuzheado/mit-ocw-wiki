@@ -12,6 +12,8 @@ views: 3058
 completeness: 0.26666666666666666
 last_modified: "2026-05-06T17:08:59Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Resource: 1, Syllabus: 1"
 ---
 
 # Introduction to Programming in Java
@@ -32,9 +34,17 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Programming Assignments] Programming Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/pages/lecture-notes/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/pages/assignments/)
+
+### Resource
+- [Related Resources](https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

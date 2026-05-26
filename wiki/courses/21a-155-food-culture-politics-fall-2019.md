@@ -12,6 +12,9 @@ views: 483
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T14:49:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 2"
+api_id: 4867
 ---
 
 # Food, Culture & Politics
@@ -30,8 +33,18 @@ This course explores connections between what we eat and who we are through cros
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-155-food-culture-politics-fall-2019/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21a-155-food-culture-politics-fall-2019/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-155-food-culture-politics-fall-2019/pages/syllabus/)
 
+### Problem-Set
+- [21A.155_F19 Assignments_Final Paper: Cracking Open Fortune Cookies (.pdf)](https://ocw.mit.edu/courses/21a-155-food-culture-politics-fall-2019/resources/mit21a_155f19_finalpaper/)
+- [Assignments](https://ocw.mit.edu/courses/21a-155-food-culture-politics-fall-2019/pages/assignments/)
+
+### Resource
+- [21A-155f19.jpg (.jpg)](https://ocw.mit.edu/courses/21a-155-food-culture-politics-fall-2019/resources/21a-155f19/)
+- [21A-155f19-th.jpg (.jpg)](https://ocw.mit.edu/courses/21a-155-food-culture-politics-fall-2019/resources/21a-155f19-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

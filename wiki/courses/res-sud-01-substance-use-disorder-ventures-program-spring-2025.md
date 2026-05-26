@@ -12,6 +12,9 @@ views: 824
 completeness: 0.041666666666666664
 last_modified: "2026-05-06T17:04:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Resource: 6, Video-Transcript: 6"
+api_id: 16859
 ---
 
 # Substance Use Disorder Ventures Program 
@@ -31,10 +34,18 @@ The program and its research are supported by the National Institute on Drug Abu
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
+### Lectures
+- **Day 1: Prapela Case Study** — [🎬](https://youtu.be/1OnsQj9qpZs) · [⬇](https://ocw.mit.edu/courses/res-sud-01-substance-use-disorder-ventures-program-spring-2025/ocw_ressud-01-video_1-paprela_case_study_v2_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/res-sud-01-substance-use-disorder-ventures-program-spring-2025/17JDfBhRsd_95DRTx6pGKlsQZJGfOLnzh_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/res-sud-01-substance-use-disorder-ventures-program-spring-2025/pages/day-1-prapela-case-study/)
+- **Day 2: Translating Healthcare Research into Healthcare Entrepreneurship** — [🎬](https://youtu.be/VPaOFkMKreA) · [⬇](https://ocw.mit.edu/courses/res-sud-01-substance-use-disorder-ventures-program-spring-2025/ocw_ressud-01-video_2-translating_healthcare_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/res-sud-01-substance-use-disorder-ventures-program-spring-2025/1r5l4tLSwYce7RY6Bd6K_asfF1kq6XUzT_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/res-sud-01-substance-use-disorder-ventures-program-spring-2025/pages/day-2-translating-healthcare-research-into-healthcare-entrepreneurship/)
 
+### Lecture-Notes
+- [SUD Ventures Program Prapela Case Study (.pdf)](https://ocw.mit.edu/courses/res-sud-01-substance-use-disorder-ventures-program-spring-2025/resources/mitsud_res_01_f25_prapela_pdf/)
+
+### Resource
+- [Day 2: Translating Healthcare Research into Healthcare Entrepreneurship transcript (.pdf)](https://ocw.mit.edu/courses/res-sud-01-substance-use-disorder-ventures-program-spring-2025/resources/vpaofkmkrea_transcript/)
+- [Day 2: Translating Healthcare Research into Healthcare Entrepreneurship captions (.webvtt)](https://ocw.mit.edu/courses/res-sud-01-substance-use-disorder-ventures-program-spring-2025/resources/vpaofkmkrea_captions/)
+- [Instructor Insights](https://ocw.mit.edu/courses/res-sud-01-substance-use-disorder-ventures-program-spring-2025/pages/instructor-insights/)
+- [res_sud_01_s25_chp.jpg (.jpg)](https://ocw.mit.edu/courses/res-sud-01-substance-use-disorder-ventures-program-spring-2025/resources/res_sud_01_s25_chp_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,8 @@ views: 150
 completeness: 0.05833333333333334
 last_modified: "2026-05-06T14:47:06Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Resource: 1, Syllabus: 1"
 ---
 
 # A Hands-On Introduction to Nuclear Magnetic Resonance
@@ -30,10 +32,15 @@ Hands-on introduction to NMR presenting background in classical theory and instr
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
-- [Simulation Videos] Simulation Videos
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/pages/lecture-notes/)
+- [Labs](https://ocw.mit.edu/courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/pages/labs/)
+
+### Resource
+- [Animations](https://ocw.mit.edu/courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/pages/animations/)
 ## Wikipedia Bridge
 
 ### Related Articles

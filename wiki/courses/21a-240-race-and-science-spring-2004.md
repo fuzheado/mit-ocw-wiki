@@ -12,6 +12,9 @@ views: 110
 completeness: 0.1716666666666667
 last_modified: "2026-05-06T16:53:50Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 11, Problem-Set: 4, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3726
 ---
 
 # Race and Science
@@ -30,9 +33,35 @@ This course examines one of the most enduring and influential forms of identity 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [lecnotes_04_22.pdf (.pdf)](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/resources/lecnotes_04_22/)
+- [lecnotes_04_15.pdf (.pdf)](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/resources/lecnotes_04_15/)
+- [lecnotes_04_08.pdf (.pdf)](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/resources/lecnotes_04_08/)
+- [lecnotes_04_01.pdf (.pdf)](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/resources/lecnotes_04_01/)
+- [lecnotes_03_18.pdf (.pdf)](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/resources/lecnotes_03_18/)
+- [lecnotes_03_11.pdf (.pdf)](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/resources/lecnotes_03_11/)
+- [lecnotes_03_04.pdf (.pdf)](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/resources/lecnotes_03_04/)
+- [lecnotes_02_26.pdf (.pdf)](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/resources/lecnotes_02_26/)
+- [lecnotes_02_19.pdf (.pdf)](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/resources/lecnotes_02_19/)
+- [lecnotes_02_12.pdf (.pdf)](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/resources/lecnotes_02_12/)
+- [Lecture Notes](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/pages/readings/)
+
+### Problem-Set
+- [topicspapertwo.pdf (.pdf)](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/resources/topicspapertwo/)
+- [topicspaperthree.pdf (.pdf)](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/resources/topicspaperthree/)
+- [topicspaperone.pdf (.pdf)](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/resources/topicspaperone/)
+- [Assignments](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/pages/assignments/)
+
+### Resource
+- [21a-240s04.jpg (.jpg)](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/resources/21a-240s04/)
+- [21a-240s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/21a-240-race-and-science-spring-2004/resources/21a-240s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

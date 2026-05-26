@@ -12,6 +12,9 @@ views: 1273
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T15:00:50Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 7, Resource: 5, Syllabus: 2, Video-Transcript: 1"
+api_id: 5501
 ---
 
 # Ancient Greek Philosophy and Mathematics
@@ -30,8 +33,27 @@ This course explores the relationship between ancient Greek philosophy and mathe
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/pages/syllabus/)
 
+### Reading-List
+- [ES.113 S16 Study Guide (.pdf)](https://ocw.mit.edu/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/resources/mites_113s16_readingques/)
+- [ES.113 S16 Meno by Plato (.pdf)](https://ocw.mit.edu/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/resources/mites_113s16_meno/)
+- [ES.113 S16 Instructors Guide to Reading Euclid’s Elements (.pdf)](https://ocw.mit.edu/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/resources/mites_113s16_instructguide/)
+- [ES.113 S16 Summary of Aristotle’s Categories (.pdf)](https://ocw.mit.edu/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/resources/mites_113s16_categoriessum/)
+- [ES.113 S16 Definitions of Arithmos and Unit (.pdf)](https://ocw.mit.edu/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/resources/mites_113s16_arithmos/)
+- [ES.113 S16 Analysis and Synthesis of Euclid (.pdf)](https://ocw.mit.edu/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/resources/mites_113s16_analysis/)
+- [Readings](https://ocw.mit.edu/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/pages/readings/)
+
+### Problem-Set
+- [ES.113 S16 Writing a Paper for Me (.pdf)](https://ocw.mit.edu/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/resources/mites_113s16_writingapaper/)
+- [Assignments](https://ocw.mit.edu/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/pages/assignments/)
+
+### Resource
+- [es-113s16.jpg (.jpg)](https://ocw.mit.edu/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/resources/es-113s16/)
+- [es-113s16-th.jpg (.jpg)](https://ocw.mit.edu/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/resources/es-113s16-th/)
+- [Related Resources](https://ocw.mit.edu/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

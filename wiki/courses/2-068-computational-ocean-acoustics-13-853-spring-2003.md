@@ -12,6 +12,9 @@ views: 287
 completeness: 0.33999999999999997
 last_modified: "2026-05-06T14:42:58Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 27, Problem-Set: 7, Resource: 4, Syllabus: 2"
+api_id: 5267
 ---
 
 # Computational Ocean Acoustics (13.853)
@@ -31,8 +34,51 @@ This course was originally offered in Course 13 (Department of Ocean Engineering
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [wavint.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/wavint/)
+- [pp_511514.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/pp_511514/)
+- [pp_483490.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/pp_483490/)
+- [lect_91.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_91/)
+- [lect_81.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_81/)
+- [lect_72.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_72/)
+- [lect_61.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_61/)
+- [lect_51.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_51/)
+- [lect_42.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_42/)
+- [lect_32.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_32/)
+- [lect_224.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_224/)
+- [lect_211.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_211/)
+- [lect_201.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_201/)
+- [lect_2.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_2/)
+- [lect_19.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_19/)
+- [lect_181.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_181/)
+- [lect_17.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_17/)
+- [lect_161.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_161/)
+- [lect_151.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_151/)
+- [lect_141.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_141/)
+- [lect_131.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_131/)
+- [lect_121.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_121/)
+- [lect_113.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_113/)
+- [lect_101.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_101/)
+- [lect_1.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/lect_1/)
+- [jasa961pp386395.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/jasa961pp386395/)
+- [Lecture Notes](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/pages/lecture-notes/)
+
+### Problem-Set
+- [ps6.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/ps6/)
+- [ps5.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/ps5/)
+- [PS4.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/ps4/)
+- [PS3.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/ps3/)
+- [PS2.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/ps2/)
+- [PS1.pdf (.pdf)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/ps1/)
+- [Assignments](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/pages/assignments/)
+
+### Resource
+- [2-068s03.jpg (.jpg)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/2-068s03/)
+- [2-068s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/resources/2-068s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

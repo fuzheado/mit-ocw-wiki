@@ -12,6 +12,9 @@ views: 400
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:43:00Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 3890
 ---
 
 # Executing Strategy for Results
@@ -30,8 +33,18 @@ This course provides business students an alternative to the mechanistic view of
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-361-executing-strategy-for-results-fall-2017/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-361-executing-strategy-for-results-fall-2017/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-361-executing-strategy-for-results-fall-2017/pages/assignments/)
+
+### Resource
+- [15-361f17.jpg (.jpg)](https://ocw.mit.edu/courses/15-361-executing-strategy-for-results-fall-2017/resources/15-361f17/)
+- [15-361f17-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-361-executing-strategy-for-results-fall-2017/resources/15-361f17-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

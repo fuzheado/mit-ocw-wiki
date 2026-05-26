@@ -12,6 +12,8 @@ views: 4826
 completeness: 0.06666666666666667
 last_modified: "2026-05-06T17:07:35Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Reading-List: 1, Resource: 2, Syllabus: 2"
 ---
 
 # Bioinformatics and Proteomics
@@ -30,8 +32,20 @@ This interdisciplinary course provides a hands-on approach to students in the to
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/6-092-bioinformatics-and-proteomics-january-iap-2005/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/6-092-bioinformatics-and-proteomics-january-iap-2005/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/6-092-bioinformatics-and-proteomics-january-iap-2005/pages/lecture-notes/)
+- [Labs](https://ocw.mit.edu/courses/6-092-bioinformatics-and-proteomics-january-iap-2005/pages/labs/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/6-092-bioinformatics-and-proteomics-january-iap-2005/pages/readings/)
+
+### Resource
+- [Related Resources](https://ocw.mit.edu/courses/6-092-bioinformatics-and-proteomics-january-iap-2005/pages/related-resources/)
+- [MATLAB® Recorded Webinars](https://www.mathworks.com/videos/search.html?q=&amp;fq=video-external-category:recwebinar%20product:ML&amp;page=1)
 ## Wikipedia Bridge
 
 ### Related Articles

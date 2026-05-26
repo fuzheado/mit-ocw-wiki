@@ -12,6 +12,9 @@ views: 331
 completeness: 0.0
 last_modified: "2026-05-06T16:51:24Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 11, Syllabus: 2"
+api_id: 4236
 ---
 
 # Media and Methods: Seeing and Expression
@@ -30,8 +33,20 @@ In this course students create digital visual images and analyze designs from hi
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar, Readings, and Assignments** — [🔗](https://ocw.mit.edu/courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/pages/calendar-readings-and-assignments/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/pages/syllabus/)
 
+### Resource
+- [Exercise 1 (.pdf)](https://ocw.mit.edu/courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/resources/mitcms_405s13_exercise_1/)
+- [Exercise 0 (.pdf)](https://ocw.mit.edu/courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/resources/mitcms_405s13_exercise_0/)
+- [Assignment 5 (.pdf)](https://ocw.mit.edu/courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/resources/mitcms_405s13_assignment5/)
+- [Assignment 4 (.pdf)](https://ocw.mit.edu/courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/resources/mitcms_405s13_assignment4/)
+- [Assignment 3 (.pdf)](https://ocw.mit.edu/courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/resources/mitcms_405s13_assignment3/)
+- [Assignment 2 (.pdf)](https://ocw.mit.edu/courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/resources/mitcms_405s13_assignment2/)
+- [Assignment 1 (.pdf)](https://ocw.mit.edu/courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/resources/mitcms_405s13_assignment1/)
+- [CMS-405s13.jpg (.jpg)](https://ocw.mit.edu/courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/resources/cms-405s13/)
+- [CMS-405s13-th.jpg (.jpg)](https://ocw.mit.edu/courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/resources/cms-405s13-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 86
 completeness: 0.22000000000000003
 last_modified: "2026-05-06T16:57:48Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 3373
 ---
 
 # Prohibition and Permission
@@ -30,9 +33,20 @@ Explore where the prohibitions and permissions that occur in every day life come
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/cc-s10-prohibition-and-permission-spring-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/cc-s10-prohibition-and-permission-spring-2007/pages/readings/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/cc-s10-prohibition-and-permission-spring-2007/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/cc-s10-prohibition-and-permission-spring-2007/pages/assignments/)
+
+### Resource
+- [Costume design for Feste (.jpg)](https://ocw.mit.edu/courses/cc-s10-prohibition-and-permission-spring-2007/resources/cc-s10s07/)
+- [Costume design for Feste (thumbnail) (.jpg)](https://ocw.mit.edu/courses/cc-s10-prohibition-and-permission-spring-2007/resources/cc-s10s07-th/)
+- [Study Materials](https://ocw.mit.edu/courses/cc-s10-prohibition-and-permission-spring-2007/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

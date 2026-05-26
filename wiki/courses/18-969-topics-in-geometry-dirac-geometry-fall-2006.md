@@ -12,6 +12,9 @@ views: 97
 completeness: 0.29000000000000004
 last_modified: "2026-05-06T17:12:32Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 18, Problem-Set: 7, Resource: 3, Syllabus: 1, Video-Transcript: 14"
+api_id: 5775
 ---
 
 # Topics in Geometry: Dirac Geometry
@@ -30,9 +33,41 @@ This is an introductory (i.e. first year graduate students are welcome and expec
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [lecture9.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/lecture9/)
+- [lecture8.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/lecture8/)
+- [lecture7.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/lecture7/)
+- [lecture6.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/lecture6/)
+- [lecture5.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/lecture5/)
+- [lecture4.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/lecture4/)
+- [lecture3.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/lecture3/)
+- [lecture21.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/lecture21/)
+- [lecture20.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/lecture20/)
+- [lecture2.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/lecture2/)
+- [lecture19.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/lecture19/)
+- [lecture18.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/lecture18/)
+- [lecture12.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/lecture12/)
+- [lecture11.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/lecture11/)
+- [lecture10.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/lecture10/)
+- [lecture1.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/lecture1/)
+- [18_969_geometry.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/18_969_geometry/)
+- [Lecture Notes](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/pages/lecture-notes/)
+
+### Problem-Set
+- [problems6.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/problems6/)
+- [problems5.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/problems5/)
+- [problems4.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/problems4/)
+- [problems3.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/problems3/)
+- [problems2.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/problems2/)
+- [problems1.pdf (.pdf)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/problems1/)
+- [Assignments](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/pages/assignments/)
+
+### Resource
+- [18-969f06.jpg (.jpg)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/18-969f06/)
+- [18-969f06-th.jpg (.jpg)](https://ocw.mit.edu/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/resources/18-969f06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 114
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:57:31Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4086
 ---
 
 # Studies in Poetry: "What's the Use of Beauty?"
@@ -30,8 +33,18 @@ This course explores variations on the proposition that an adequate recognition 
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-whats-the-use-of-beauty-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-whats-the-use-of-beauty-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-whats-the-use-of-beauty-fall-2005/pages/assignments/)
+
+### Resource
+- [Dido building Carthage, or The Rise of the Carthaginian Empire (.jpg)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-whats-the-use-of-beauty-fall-2005/resources/21l-704f05/)
+- [Dido building Carthage, or The Rise of the Carthaginian Empire (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-whats-the-use-of-beauty-fall-2005/resources/21l-704f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

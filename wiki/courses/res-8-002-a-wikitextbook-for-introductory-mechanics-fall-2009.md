@@ -12,6 +12,9 @@ views: 130
 completeness: 0.0
 last_modified: "2026-05-06T14:47:28Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 6014
 ---
 
 # A WikiTextBook for Introductory Mechanics
@@ -31,8 +34,9 @@ Online Publication
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [res-8-002f09.jpg (.jpg)](https://ocw.mit.edu/courses/res-8-002-a-wikitextbook-for-introductory-mechanics-fall-2009/resources/res-8-002f09/)
+- [res-8-002f09-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-8-002-a-wikitextbook-for-introductory-mechanics-fall-2009/resources/res-8-002f09-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 1098
 completeness: 0.0
 last_modified: "2026-05-06T16:48:04Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 11, Syllabus: 2"
+api_id: 16687
 ---
 
 # The Linguistic Study of Bilingualism
@@ -30,8 +33,26 @@ One mind, two languages. The basic focus of this class will be on the linguistic
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/24-906j-the-linguistic-study-of-bilingualism-fall-2024/pages/assignments/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-906j-the-linguistic-study-of-bilingualism-fall-2024/pages/syllabus/)
 
+### Syllabus
+- [Calendar](https://ocw.mit.edu/courses/24-906j-the-linguistic-study-of-bilingualism-fall-2024/pages/calendar/)
+
+### Reading-List
+- [Reading List](https://ocw.mit.edu/courses/24-906j-the-linguistic-study-of-bilingualism-fall-2024/pages/readings/)
+
+### Resource
+- [mit24-906j-f24.jpg (.jpg)](https://ocw.mit.edu/courses/24-906j-the-linguistic-study-of-bilingualism-fall-2024/resources/mit24-906j-f24_jpg/)
+- [Writing Assignment #3B](https://ocw.mit.edu/courses/24-906j-the-linguistic-study-of-bilingualism-fall-2024/pages/writing-assignment-3b/)
+- [Writing Assignment #3A](https://ocw.mit.edu/courses/24-906j-the-linguistic-study-of-bilingualism-fall-2024/pages/writing-assignment-3a/)
+- [Writing Assignment #2](https://ocw.mit.edu/courses/24-906j-the-linguistic-study-of-bilingualism-fall-2024/pages/writing-assignment-2/)
+- [Writing Assignment #1](https://ocw.mit.edu/courses/24-906j-the-linguistic-study-of-bilingualism-fall-2024/pages/writing-assignment-1/)
+- [Readings](https://ocw.mit.edu/courses/24-906j-the-linguistic-study-of-bilingualism-fall-2024/pages/readings/)
+- [Final Project](https://ocw.mit.edu/courses/24-906j-the-linguistic-study-of-bilingualism-fall-2024/pages/final-project/)
+- [Calendar of Topics, Readings, and Assignments](https://ocw.mit.edu/courses/24-906j-the-linguistic-study-of-bilingualism-fall-2024/pages/calendar/)
+- [Assignments -duplicate page](https://ocw.mit.edu/courses/24-906j-the-linguistic-study-of-bilingualism-fall-2024/pages/assignments2/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 120
 completeness: 0.2
 last_modified: "2026-05-06T17:19:23Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 10, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3643
 ---
 
 # Studies in Poetry - British Poetry and the Sciences of the Mind
@@ -30,8 +33,28 @@ Do poems think? Recurrent images of the poet as an inspired lunatic, and of poet
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/pages/readings/)
+
+### Problem-Set
+- [wordsworth_essay.pdf (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/resources/wordsworth_essay/)
+- [univ_beauty_rev.pdf (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/resources/univ_beauty_rev/)
+- [thomson_summer.pdf (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/resources/thomson_summer/)
+- [text_essay.pdf (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/resources/text_essay/)
+- [pope_analysis.pdf (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/resources/pope_analysis/)
+- [luc_essay_jnp_v2.pdf (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/resources/luc_essay_jnp_v2/)
+- [imagination.pdf (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/resources/imagination/)
+- [final_essay.pdf (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/resources/final_essay/)
+- [041122_text.pdf (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/resources/041122_text/)
+- [Assignments](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/pages/assignments/)
+
+### Resource
+- [21l-704f04.jpg (.jpg)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/resources/21l-704f04/)
+- [21l-704f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/resources/21l-704f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

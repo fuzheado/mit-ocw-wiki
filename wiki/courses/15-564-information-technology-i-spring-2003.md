@@ -12,6 +12,9 @@ views: 509
 completeness: 0.3216666666666667
 last_modified: "2026-05-06T14:58:17Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 18, Problem-Set: 9, Reading-List: 1, Resource: 9, Syllabus: 2"
+api_id: 4538
 ---
 
 # Information Technology I
@@ -30,8 +33,51 @@ Information Technology I helps students understand technical concepts underlying
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/pages/calendar/)
+- **Recitations** — [🔗](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/pages/recitations/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [lec9.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/lec9/)
+- [lec8.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/lec8/)
+- [lec7.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/lec7/)
+- [lec6.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/lec6/)
+- [lec4.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/lec4/)
+- [lec3.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/lec3/)
+- [lec21.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/lec21/)
+- [lec20.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/lec20/)
+- [lec19.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/lec19/)
+- [lec18.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/lec18/)
+- [lec16and17.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/lec16and17/)
+- [lec15.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/lec15/)
+- [lec14.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/lec14/)
+- [lec13.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/lec13/)
+- [lec11.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/lec11/)
+- [lec10.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/lec10/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/pages/readings/)
+
+### Problem-Set
+- [termproject.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/termproject/)
+- [random.txt (.txt)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/random/)
+- [pset5.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/pset5/)
+- [pset4.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/pset4/)
+- [pset3.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/pset3/)
+- [pset2.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/pset2/)
+- [pset1.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/pset1/)
+- [one.txt (.txt)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/one/)
+- [Assignments](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/pages/assignments/)
+
+### Resource
+- [sql_query.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/sql_query/)
+- [ms_access_forms.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/ms_access_forms/)
+- [db_design.pdf (.pdf)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/db_design/)
+- [15-564s03.jpg (.jpg)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/15-564s03/)
+- [15-564s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/resources/15-564s03-th/)
+- [Related Resources](https://ocw.mit.edu/courses/15-564-information-technology-i-spring-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 56
 completeness: 0.06
 last_modified: "2026-05-06T14:43:16Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4943
 ---
 
 # Cellular and Molecular Computation
@@ -30,8 +33,22 @@ Life as an emergent property of networks of chemical reactions involving protein
 
 ## Materials
 
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-530-cellular-and-molecular-computation-spring-2000/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-530-cellular-and-molecular-computation-spring-2000/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-530-cellular-and-molecular-computation-spring-2000/pages/readings/)
+
+### Problem-Set
+- [assignment2.pdf (.pdf)](https://ocw.mit.edu/courses/9-530-cellular-and-molecular-computation-spring-2000/resources/assignment2/)
+- [assignment1.pdf (.pdf)](https://ocw.mit.edu/courses/9-530-cellular-and-molecular-computation-spring-2000/resources/assignment1/)
+- [Assignments](https://ocw.mit.edu/courses/9-530-cellular-and-molecular-computation-spring-2000/pages/assignments/)
+
+### Resource
+- [9-530s00.jpg (.jpg)](https://ocw.mit.edu/courses/9-530-cellular-and-molecular-computation-spring-2000/resources/9-530s00/)
+- [9-530s00-th.jpg (.jpg)](https://ocw.mit.edu/courses/9-530-cellular-and-molecular-computation-spring-2000/resources/9-530s00-th/)
+- [Related Resources](https://ocw.mit.edu/courses/9-530-cellular-and-molecular-computation-spring-2000/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 5959
 completeness: 0.35833333333333334
 last_modified: "2026-05-06T17:19:44Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 3, Lecture-Notes: 19, Problem-Set: 7, Reading-List: 3, Resource: 5, Syllabus: 2"
+api_id: 4007
 ---
 
 # Artificial Intelligence
@@ -30,9 +33,54 @@ This course introduces representations, techniques, and architectures used to bu
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [ch9_logic1b.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/ch9_logic1b/)
+- [ch9_logic1a.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/ch9_logic1a/)
+- [ch8_mach4.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/ch8_mach4/)
+- [ch7_mach3.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/ch7_mach3/)
+- [ch6_mach2.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/ch6_mach2/)
+- [ch5_mach1.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/ch5_mach1/)
+- [ch4_learnintro.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/ch4_learnintro/)
+- [ch3_csp_games2.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/ch3_csp_games2/)
+- [ch3_csp_games1.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/ch3_csp_games1/)
+- [ch2_search3.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/ch2_search3/)
+- [ch2_search2.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/ch2_search2/)
+- [ch2_search1.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/ch2_search1/)
+- [ch1_intro.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/ch1_intro/)
+- [ch12_language2.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/ch12_language2/)
+- [ch12_language1.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/ch12_language1/)
+- [ch11_logicprog.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/ch11_logicprog/)
+- [ch10_logic2b.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/ch10_logic2b/)
+- [ch10_logic2a.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/ch10_logic2a/)
+- [Lecture Notes](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/pages/lecture-notes/)
+
+### Reading-List
+- [searchataglance.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/searchataglance/)
+- [learningatglance.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/learningatglance/)
+- [Readings](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/pages/readings/)
+
+### Problem-Set
+- [quiz2_review_sol.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/quiz2_review_sol/)
+- [quiz2_review.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/quiz2_review/)
+- [quiz1_review_sol.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/quiz1_review_sol/)
+- [quiz1_review.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/quiz1_review/)
+- [q2_soln.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/q2_soln/)
+- [q1_soln.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/q1_soln/)
+- [Exams](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/pages/exams/)
+
+### Assignment
+- [dp2.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/dp2/)
+- [dp1.pdf (.pdf)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/dp1/)
+- [Projects](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/pages/projects/)
+
+### Resource
+- [6-034s05.jpg (.jpg)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/6-034s05/)
+- [6-034s05-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/resources/6-034s05-th/)
+- [Study Materials](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

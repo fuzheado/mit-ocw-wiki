@@ -12,6 +12,9 @@ views: 84
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:24:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 2"
+api_id: 4635
 ---
 
 # Media in Cultural Context
@@ -30,8 +33,17 @@ This seminar is about the pleasures and power of reading. From the Sumerian clay
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-715-media-in-cultural-context-fall-2015/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21l-715-media-in-cultural-context-fall-2015/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-715-media-in-cultural-context-fall-2015/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-715-media-in-cultural-context-fall-2015/pages/assignments/)
+
+### Resource
+- [21L-715f15.jpg (.jpg)](https://ocw.mit.edu/courses/21l-715-media-in-cultural-context-fall-2015/resources/21l-715f15/)
+- [21L-715f15-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-715-media-in-cultural-context-fall-2015/resources/21l-715f15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

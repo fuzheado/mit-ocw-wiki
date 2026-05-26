@@ -12,6 +12,8 @@ views: 188
 completeness: 0.2
 last_modified: "2026-05-06T16:48:53Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Reading-List: 1, Resource: 1, Syllabus: 2"
 ---
 
 # Transcribing Prosodic Structure of Spoken Utterances with ToBI
@@ -31,10 +33,21 @@ Please submit any feedback about the course content using the user survey.
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Lecture Notes] Lecture Notes
-- [Open Textbooks] Open Textbooks
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/pages/readings/)
+
+### Problem-Set
+- [Exercises](https://ocw.mit.edu/courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/pages/exercises/)
+
+### Resource
+- [Tools](https://ocw.mit.edu/courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/pages/tools/)
 ## Wikipedia Bridge
 
 ### Related Articles

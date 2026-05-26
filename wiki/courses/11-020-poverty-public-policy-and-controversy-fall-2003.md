@@ -12,6 +12,9 @@ views: 100
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T17:00:33Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4278
 ---
 
 # Poverty, Public Policy and Controversy
@@ -30,8 +33,22 @@ This course covers topics and questions such as: What is poverty? How is it defi
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-020-poverty-public-policy-and-controversy-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-020-poverty-public-policy-and-controversy-fall-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-020-poverty-public-policy-and-controversy-fall-2003/pages/readings/)
+
+### Problem-Set
+- [William Julius Wilson's Call for Revitalization (.pdf)](https://ocw.mit.edu/courses/11-020-poverty-public-policy-and-controversy-fall-2003/resources/william_julius_wilson/)
+- [Controversies within the Frame of Poverty (.pdf)](https://ocw.mit.edu/courses/11-020-poverty-public-policy-and-controversy-fall-2003/resources/contro_frame_poverty/)
+- [On meritocracy and equality (.pdf)](https://ocw.mit.edu/courses/11-020-poverty-public-policy-and-controversy-fall-2003/resources/bell_paper/)
+- [Assignments](https://ocw.mit.edu/courses/11-020-poverty-public-policy-and-controversy-fall-2003/pages/assignments/)
+
+### Resource
+- [Maiko gets new shoes and socks (.jpg)](https://ocw.mit.edu/courses/11-020-poverty-public-policy-and-controversy-fall-2003/resources/11-020f03/)
+- [Maiko gets new shoes and socks (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-020-poverty-public-policy-and-controversy-fall-2003/resources/11-020f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

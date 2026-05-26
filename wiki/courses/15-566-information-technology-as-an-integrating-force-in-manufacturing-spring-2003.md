@@ -12,6 +12,9 @@ views: 149
 completeness: 0.21000000000000002
 last_modified: "2026-05-06T17:16:16Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 19, Problem-Set: 3, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5381
 ---
 
 # Information Technology as an Integrating Force in Manufacturing
@@ -30,10 +33,41 @@ In virtually every industry and every firm, information technology is driving ch
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/pages/calendar/)
+- **Lecture Notes** — [🔗](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/pages/lecture-notes/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [steelscreen_a_secure_portal.pdf (.pdf)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/steelscreen_a_secure_portal/)
+- [steelscreen.exe (.exe)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/steelscreen/)
+- [market_res_testing_steelscr.pdf (.pdf)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/market_res_testing_steelscr/)
+- [lnstanleystanzykcasesupports.pdf (.pdf)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/lnstanleystanzykcasesupports/)
+- [lnlmchandout.pdf (.pdf)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/lnlmchandout/)
+- [lnamericancrownsoftwaredevel.pdf (.pdf)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/lnamericancrownsoftwaredevel/)
+- [ln15566databases.pdf (.pdf)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/ln15566databases/)
+- [integrating_systems.pdf (.pdf)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/integrating_systems/)
+- [assignemailsurveyv5onesurvey.pdf (.pdf)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/assignemailsurveyv5onesurvey/)
+- [7networkslides.pdf (.pdf)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/7networkslides/)
+- [5baxterebusinessbnv4.pdf (.pdf)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/5baxterebusinessbnv4/)
+- [4fourthsession15566.pdf (.pdf)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/4fourthsession15566/)
+- [3thirdsession15566v3.pdf (.pdf)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/3thirdsession15566v3/)
+- [2secondsession15566v3.pdf (.pdf)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/2secondsession15566v3/)
+- [1firstsession15566v1.pdf (.pdf)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/1firstsession15566v1/)
+- [19lnsecurity566handout1.pdf (.pdf)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/19lnsecurity566handout1/)
+- [19lnsecurity566handout.pdf (.pdf)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/19lnsecurity566handout/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/pages/readings/)
+
+### Problem-Set
+- [lecture815566technologyassig.pdf (.pdf)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/lecture815566technologyassig/)
+- [15566finalexam.pdf (.pdf)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/15566finalexam/)
+- [Assignments](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/pages/assignments/)
+
+### Resource
+- [15-566s03.jpg (.jpg)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/15-566s03/)
+- [15-566s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/resources/15-566s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

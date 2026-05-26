@@ -12,6 +12,9 @@ views: 228
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T14:50:09Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 7, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 3330
 ---
 
 # Communicating Across Cultures
@@ -32,10 +35,26 @@ It has become commonplace knowledge that globalization is one of the major force
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-019-communicating-across-cultures-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-019-communicating-across-cultures-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-019-communicating-across-cultures-spring-2005/pages/readings/)
+
+### Problem-Set
+- [What Should Walther Do (.pdf)](https://ocw.mit.edu/courses/21g-019-communicating-across-cultures-spring-2005/resources/mit21g_019s05_wh_sh_wal/)
+- [Cross Cultural Persuasion (.pdf)](https://ocw.mit.edu/courses/21g-019-communicating-across-cultures-spring-2005/resources/mit21g_019s05_pers_exe/)
+- [964.neg role play (.pdf)](https://ocw.mit.edu/courses/21g-019-communicating-across-cultures-spring-2005/resources/mit21g_019s05_negot_ex/)
+- [Language Exercise (.pdf)](https://ocw.mit.edu/courses/21g-019-communicating-across-cultures-spring-2005/resources/mit21g_019s05_lang_exe/)
+- [964.daphne exercise (.pdf)](https://ocw.mit.edu/courses/21g-019-communicating-across-cultures-spring-2005/resources/mit21g_019s05_int_co_si/)
+- [SOME QUESTIONS TO ASK ABOUT CULTURE (.pdf)](https://ocw.mit.edu/courses/21g-019-communicating-across-cultures-spring-2005/resources/mit21g_019s05_cult_quest/)
+- [Assignments](https://ocw.mit.edu/courses/21g-019-communicating-across-cultures-spring-2005/pages/assignments/)
+
+### Resource
+- [21g-019s05.jpg (.jpg)](https://ocw.mit.edu/courses/21g-019-communicating-across-cultures-spring-2005/resources/21g-019s05/)
+- [21g-019s05-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-019-communicating-across-cultures-spring-2005/resources/21g-019s05-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21g-019-communicating-across-cultures-spring-2005/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

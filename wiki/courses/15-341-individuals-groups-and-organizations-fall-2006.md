@@ -12,6 +12,9 @@ views: 141
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:54:10Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4119
 ---
 
 # Individuals, Groups, and Organizations
@@ -30,8 +33,19 @@ This class develops basic concepts for understanding individual, group, and orga
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-341-individuals-groups-and-organizations-fall-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-341-individuals-groups-and-organizations-fall-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-341-individuals-groups-and-organizations-fall-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-341-individuals-groups-and-organizations-fall-2006/pages/assignments/)
+
+### Resource
+- [Group Interactions (.jpg)](https://ocw.mit.edu/courses/15-341-individuals-groups-and-organizations-fall-2006/resources/15-341f06/)
+- [Group Interactions (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-341-individuals-groups-and-organizations-fall-2006/resources/15-341f06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

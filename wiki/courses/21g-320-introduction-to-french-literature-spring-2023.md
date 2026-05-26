@@ -12,6 +12,9 @@ views: 1317
 completeness: 0.0
 last_modified: "2026-05-06T14:56:33Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 1"
+api_id: 14039
 ---
 
 # Introduction to French Literature	
@@ -33,9 +36,14 @@ Perreau recently published The Politics of Adoption: Gender and the Making of Fr
 
 ## Materials
 
-- [Readings] Readings
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/21g-320-introduction-to-french-literature-spring-2023/pages/assignments/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-320-introduction-to-french-literature-spring-2023/pages/syllabus/)
+- **Topics, Readings, Media** — [🔗](https://ocw.mit.edu/courses/21g-320-introduction-to-french-literature-spring-2023/pages/topics-readings-media/)
 
+### Resource
+- [mit21g-320s23.jpeg (.jpeg)](https://ocw.mit.edu/courses/21g-320-introduction-to-french-literature-spring-2023/resources/mit21g-320s23_jpeg/)
+- [Additional Resources](https://ocw.mit.edu/courses/21g-320-introduction-to-french-literature-spring-2023/pages/ressources-additionnelles/)
 ## Wikipedia Bridge
 
 ### Related Articles

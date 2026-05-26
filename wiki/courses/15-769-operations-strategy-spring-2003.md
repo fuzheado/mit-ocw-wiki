@@ -12,6 +12,9 @@ views: 225
 completeness: 0.09500000000000001
 last_modified: "2026-05-06T14:44:52Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 9, Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4112
 ---
 
 # Operations Strategy
@@ -36,8 +39,34 @@ The concepts there emphasize the necessity of integrating product strategy, manu
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-769-operations-strategy-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-769-operations-strategy-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [roadmapwkshp.pdf (.pdf)](https://ocw.mit.edu/courses/15-769-operations-strategy-spring-2003/resources/roadmapwkshp/)
+- [promodel.pdf (.pdf)](https://ocw.mit.edu/courses/15-769-operations-strategy-spring-2003/resources/promodel/)
+- [methodology.pdf (.pdf)](https://ocw.mit.edu/courses/15-769-operations-strategy-spring-2003/resources/methodology/)
+- [lecture9.pdf (.pdf)](https://ocw.mit.edu/courses/15-769-operations-strategy-spring-2003/resources/lecture9/)
+- [lecture2.pdf (.pdf)](https://ocw.mit.edu/courses/15-769-operations-strategy-spring-2003/resources/lecture2/)
+- [lecture1a.pdf (.pdf)](https://ocw.mit.edu/courses/15-769-operations-strategy-spring-2003/resources/lecture1a/)
+- [hammer.pdf (.pdf)](https://ocw.mit.edu/courses/15-769-operations-strategy-spring-2003/resources/hammer/)
+- [analoghalflifeacct.pdf (.pdf)](https://ocw.mit.edu/courses/15-769-operations-strategy-spring-2003/resources/analoghalflifeacct/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-769-operations-strategy-spring-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-769-operations-strategy-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-769-operations-strategy-spring-2003/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/15-769-operations-strategy-spring-2003/pages/projects/)
+
+### Resource
+- [15-769s03.jpg (.jpg)](https://ocw.mit.edu/courses/15-769-operations-strategy-spring-2003/resources/15-769s03/)
+- [15-769s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-769-operations-strategy-spring-2003/resources/15-769s03-th/)
+- [Study Materials](https://ocw.mit.edu/courses/15-769-operations-strategy-spring-2003/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

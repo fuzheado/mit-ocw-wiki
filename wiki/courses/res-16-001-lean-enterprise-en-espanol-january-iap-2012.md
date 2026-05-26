@@ -12,6 +12,8 @@ views: 332
 completeness: 0.0
 last_modified: "2026-05-06T15:02:26Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Resource: 2, Video-Transcript: 3"
 ---
 
 # Lean Enterprise en Español
@@ -35,10 +37,12 @@ Para mayor información acerca de los programas de MIT Professional Education fa
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
+### Lecture-Notes
+- [Programa de estudios](https://ocw.mit.edu/courses/res-16-001-lean-enterprise-en-espanol-january-iap-2012/pages/programa-de-estudios/)
 
+### Resource
+- [Material de lectura](https://ocw.mit.edu/courses/res-16-001-lean-enterprise-en-espanol-january-iap-2012/pages/material-de-lectura/)
+- [Vídeos 📺Video](https://ocw.mit.edu/courses/res-16-001-lean-enterprise-en-espanol-january-iap-2012/video_galleries/videos/)
 ## Wikipedia Bridge
 
 ### Related Articles

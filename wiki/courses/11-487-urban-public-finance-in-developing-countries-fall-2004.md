@@ -12,6 +12,9 @@ views: 201
 completeness: 0.2
 last_modified: "2026-05-06T14:50:32Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 13, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5119
 ---
 
 # Urban Public Finance in Developing Countries
@@ -30,10 +33,32 @@ This readings-based course analyzes the structure and operation of government sy
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Utilities Privatization and the Poor: Lessons and Evidence from Latin America (.pdf)](https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/resources/sess2324summary/)
+- [Fiscal crisis and fiscal reform in developing countries (.pdf)](https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/resources/sess22summary/)
+- [Summary of “Achieving Balance in Decentralization: A Case Study of Education Decentralization in Chile” (.pdf)](https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/resources/sess1819summarytulier/)
+- [Summary and Questions for Week 8 (.pdf)](https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/resources/sess1617summary/)
+- [Problem Set 4 Answers (.pdf)](https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/resources/ps4_ans/)
+- [Problem Set 4 (.pdf)](https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/resources/ps4/)
+- [Problem Set 3 Answers (.pdf)](https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/resources/ps3_ans/)
+- [Problem Set 3 (.pdf)](https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/resources/ps3/)
+- [Problem Set 2 Answers (.pdf)](https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/resources/ps2_ans/)
+- [Problem Set 2 (.pdf)](https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/resources/ps2/)
+- [Problem Set 1 Answers (.pdf)](https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/resources/ps1_ans/)
+- [Problem Set 1 (.pdf)](https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/resources/ps1/)
+- [Assignments](https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/pages/assignments/)
+
+### Resource
+- [Ho Chi Minh City (.jpg)](https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/resources/11-487f04/)
+- [Ho Chi Minh City (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/resources/11-487f04-th/)
+- [PDF](http://www.imf.org/external/pubs/ft/gfs/manual/supp.pdf)
 ## Wikipedia Bridge
 
 ### Related Articles

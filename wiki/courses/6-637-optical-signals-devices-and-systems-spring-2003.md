@@ -12,6 +12,9 @@ views: 365
 completeness: 0.2
 last_modified: "2026-05-06T16:49:20Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 10, Resource: 4, Syllabus: 2"
+api_id: 4460
 ---
 
 # Optical Signals, Devices, and Systems
@@ -31,8 +34,25 @@ Most optical systems involve the use of one or more of the following: sources (e
 
 ## Materials
 
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-637-optical-signals-devices-and-systems-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-637-optical-signals-devices-and-systems-spring-2003/pages/syllabus/)
 
+### Problem-Set
+- [Problem Set No. 9 (.pdf)](https://ocw.mit.edu/courses/6-637-optical-signals-devices-and-systems-spring-2003/resources/6637pset9/)
+- [Problem Set No. 8 (.pdf)](https://ocw.mit.edu/courses/6-637-optical-signals-devices-and-systems-spring-2003/resources/6637pset8/)
+- [Problem Set No. 7 (.pdf)](https://ocw.mit.edu/courses/6-637-optical-signals-devices-and-systems-spring-2003/resources/6637pset7/)
+- [Problem Set No. 6 (.pdf)](https://ocw.mit.edu/courses/6-637-optical-signals-devices-and-systems-spring-2003/resources/6637pset6/)
+- [Problem Set No. 5 (.pdf)](https://ocw.mit.edu/courses/6-637-optical-signals-devices-and-systems-spring-2003/resources/6637pset5/)
+- [Problem Set No. 4 (.pdf)](https://ocw.mit.edu/courses/6-637-optical-signals-devices-and-systems-spring-2003/resources/6637pset4/)
+- [Problem Set No. 3 (.pdf)](https://ocw.mit.edu/courses/6-637-optical-signals-devices-and-systems-spring-2003/resources/6637pset3/)
+- [Problem Set No. 2 (.pdf)](https://ocw.mit.edu/courses/6-637-optical-signals-devices-and-systems-spring-2003/resources/6637pset2/)
+- [Problem Set No. 1 (.pdf)](https://ocw.mit.edu/courses/6-637-optical-signals-devices-and-systems-spring-2003/resources/6637pset1/)
+- [Assignments](https://ocw.mit.edu/courses/6-637-optical-signals-devices-and-systems-spring-2003/pages/assignments/)
+
+### Resource
+- [Simple Acousto-optic Processor (.jpg)](https://ocw.mit.edu/courses/6-637-optical-signals-devices-and-systems-spring-2003/resources/6-637s03/)
+- [Simple Acousto-optic Processor (thumbnail) (.jpg)](https://ocw.mit.edu/courses/6-637-optical-signals-devices-and-systems-spring-2003/resources/6-637s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

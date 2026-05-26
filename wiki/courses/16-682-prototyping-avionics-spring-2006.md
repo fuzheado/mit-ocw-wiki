@@ -12,6 +12,9 @@ views: 305
 completeness: 0.13833333333333336
 last_modified: "2026-05-06T17:08:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 7, Problem-Set: 4, Resource: 4, Syllabus: 2"
+api_id: 4530
 ---
 
 # Prototyping Avionics
@@ -30,9 +33,31 @@ In the past building prototypes of electronic components for new projects/produc
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/16-682-prototyping-avionics-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/16-682-prototyping-avionics-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [lect6.pdf (.pdf)](https://ocw.mit.edu/courses/16-682-prototyping-avionics-spring-2006/resources/lect6/)
+- [lect5.pdf (.pdf)](https://ocw.mit.edu/courses/16-682-prototyping-avionics-spring-2006/resources/lect5/)
+- [lect4.pdf (.pdf)](https://ocw.mit.edu/courses/16-682-prototyping-avionics-spring-2006/resources/lect4/)
+- [Lecture 3 (.pdf)](https://ocw.mit.edu/courses/16-682-prototyping-avionics-spring-2006/resources/lect3/)
+- [Lecture 2 (.pdf)](https://ocw.mit.edu/courses/16-682-prototyping-avionics-spring-2006/resources/lect2/)
+- [lect1.pdf (.pdf)](https://ocw.mit.edu/courses/16-682-prototyping-avionics-spring-2006/resources/lect1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/16-682-prototyping-avionics-spring-2006/pages/lecture-notes/)
+
+### Problem-Set
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/16-682-prototyping-avionics-spring-2006/resources/ps3/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/16-682-prototyping-avionics-spring-2006/resources/ps2/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/16-682-prototyping-avionics-spring-2006/resources/ps1/)
+- [Assignments](https://ocw.mit.edu/courses/16-682-prototyping-avionics-spring-2006/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/16-682-prototyping-avionics-spring-2006/pages/projects/)
+
+### Resource
+- [F-15E Strike Eagle (.jpg)](https://ocw.mit.edu/courses/16-682-prototyping-avionics-spring-2006/resources/16-682s06/)
+- [F-15E Strike Eagle (thumbnail) (.jpg)](https://ocw.mit.edu/courses/16-682-prototyping-avionics-spring-2006/resources/16-682s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

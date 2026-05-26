@@ -12,6 +12,9 @@ views: 162
 completeness: 0.1
 last_modified: "2026-05-06T17:23:30Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 7, Syllabus: 1"
+api_id: 4623
 ---
 
 # History of Urban Form: Locating Capitalism: Producing Early Modern Cities and Objects
@@ -30,10 +33,26 @@ What was the early modern economy like, and how did monetization impact artistic
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/pages/readings/)
+
+### Problem-Set
+- [Networks of Trade and Surveillance: the Case of the Fondaco (.pdf)](https://ocw.mit.edu/courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/resources/mit4_663s14_ntwrksoftrd/)
+- [Marking the Water: Territoriality, Fortifications and Port Cities in Early Modern (.pdf)](https://ocw.mit.edu/courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/resources/mit4_663s14_markthewater/)
+- [Fluid Currency:  The Political Economy of Hydrology in Baroque Rome (.pdf)](https://ocw.mit.edu/courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/resources/mit4_663s14_fluidcurrency/)
+- [Early Modern Urbanization and Marketplaces and an Architecture of Trade (.pdf)](https://ocw.mit.edu/courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/resources/mit4_663s14_erlymdrnurban/)
+- [Assignments and Student Work](https://ocw.mit.edu/courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/pages/assignments-and-student-work/)
+
+### Resource
+- [8-422_classroom-1.jpg (.jpg)](https://ocw.mit.edu/courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/resources/8-422_classroom-1/)
+- [4-663s14.jpg (.jpg)](https://ocw.mit.edu/courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/resources/4-663s14/)
+- [4-663s14-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/resources/4-663s14-th/)
+- [4-663_stat-students.png (.png)](https://ocw.mit.edu/courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/resources/4-663_stat-students/)
+- [4-663_classroom-1.jpg (.jpg)](https://ocw.mit.edu/courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/resources/4-663_classroom-1/)
+- [Instructor Insights](https://ocw.mit.edu/courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

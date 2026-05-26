@@ -12,6 +12,9 @@ views: 246
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:59:51Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 3888
 ---
 
 # Anthropology of Biology
@@ -30,8 +33,17 @@ This course applies the tools of anthropology to examine biology in the age of g
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-303j-anthropology-of-biology-fall-2013/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21a-303j-anthropology-of-biology-fall-2013/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21a-303j-anthropology-of-biology-fall-2013/pages/assignments/)
+
+### Resource
+- [Jellyfish (.jpg)](https://ocw.mit.edu/courses/21a-303j-anthropology-of-biology-fall-2013/resources/21a-303f13/)
 ## Wikipedia Bridge
 
 ### Related Articles

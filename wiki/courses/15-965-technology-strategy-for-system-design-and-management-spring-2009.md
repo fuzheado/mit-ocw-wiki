@@ -12,6 +12,9 @@ views: 696
 completeness: 0.22000000000000003
 last_modified: "2026-05-06T14:55:06Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 25, Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 2"
+api_id: 5756
 ---
 
 # Technology Strategy for System Design and Management
@@ -31,10 +34,45 @@ The emphasis throughout is on the development and application of ways of thinkin
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/pages/syllabus/)
 
+### Lecture-Notes
+- [Decision Making (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_lec22/)
+- [Modularity, open interfaces, open standards and open source (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_lec16/)
+- [Danger, Inc. (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_lec11/)
+- [Life cycles and transitions  (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_lec10/)
+- [Polaroid (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_lec09/)
+- [A recap on technological innovation, and its co-evolution  with the demand opportunity (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_lec07/)
+- [Documentum (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_lec06/)
+- [Lexar Media (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_lec05/)
+- [Projects – teams, domains and businesses (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_lec04/)
+- [Iridium and Technologies (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_lec03/)
+- [Introduction to the course (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_lec01/)
+- [Class 21: Toyota Motor Corporation: Launching Prius (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_case21/)
+- [Class 17: Apple Computer (2008)  (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_case17/)
+- [Class 15: Red Hat (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_case15/)
+- [Class 13: Ember Corporation  (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_case13/)
+- [Class 12: Adobe Systems Incorporated (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_case12/)
+- [Class 11: Danger (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_case11/)
+- [Class 9: Polaroid: Entering Digital Imaging (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_case09/)
+- [Class 8: Kodak and the Digital Revolution (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_case08/)
+- [Case #6: Documentum (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_case06/)
+- [Case #5: Lexar Media: The Digital Photography Company (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_case05/)
+- [Case # 3: Iridium (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_case03/)
+- [Case #2: A123 Systems  (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_case02/)
+- [Case #1: E Ink (.pdf)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/mit15_965s09_case01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/pages/assignments/)
+
+### Resource
+- [Graph of technology tradeoffs and performance envelopes (.jpg)](https://ocw.mit.edu/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/resources/15-965s09/)
 ## Wikipedia Bridge
 
 ### Related Articles

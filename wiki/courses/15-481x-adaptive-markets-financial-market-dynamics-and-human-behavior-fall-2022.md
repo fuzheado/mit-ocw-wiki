@@ -12,6 +12,9 @@ views: 1225
 completeness: 0.0
 last_modified: "2026-05-06T14:47:50Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 5, Video-Transcript: 2"
+api_id: 14022
 ---
 
 # Adaptive Markets: Financial Market Dynamics and Human Behavior
@@ -45,11 +48,13 @@ As part of the Open Learning Library (OLL), this course is free to use. You have
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
-- [Tutorial Videos] Tutorial Videos
+### Lectures
+- **Instructor Insights** — [📄](https://ocw.mit.edu/courses/15-481x-adaptive-markets-financial-market-dynamics-and-human-behavior-fall-2022/8kFFg5jAoQc_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/15-481x-adaptive-markets-financial-market-dynamics-and-human-behavior-fall-2022/pages/instructor-insights/)
 
+### Resource
+- [MIT Economist Andrew W. Lo on Finance, AI, and Human Behavior transcript (.pdf)](https://ocw.mit.edu/courses/15-481x-adaptive-markets-financial-market-dynamics-and-human-behavior-fall-2022/resources/8kffg5jaoqc_transcript/)
+- [MIT Economist Andrew W. Lo on Finance, AI, and Human Behavior captions (.webvtt)](https://ocw.mit.edu/courses/15-481x-adaptive-markets-financial-market-dynamics-and-human-behavior-fall-2022/resources/8kffg5jaoqc_captions/)
+- [mit15_481x_f22.jpg (.jpg)](https://ocw.mit.edu/courses/15-481x-adaptive-markets-financial-market-dynamics-and-human-behavior-fall-2022/resources/mit15_481x_f22_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

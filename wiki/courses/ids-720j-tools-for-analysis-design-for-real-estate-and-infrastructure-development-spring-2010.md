@@ -12,6 +12,9 @@ views: 507
 completeness: 0.0
 last_modified: "2026-05-06T16:53:01Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 7, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4403
 ---
 
 # Tools for Analysis: Design for Real Estate and Infrastructure Development
@@ -32,8 +35,25 @@ This MIT OpenCourseWare site is based, in part, on materials on Design for Real 
 
 ## Materials
 
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/pages/readings/)
+
+### Assignment
+- [Assignment: Final Report (.pdf)](https://ocw.mit.edu/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/resources/mitesd_712s10_proj06/)
+- [Assignment: Draft Final Report (.pdf)](https://ocw.mit.edu/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/resources/mitesd_712s10_proj05/)
+- [Assignment: Monte Carlo "engineering analysis" of value of flexibility (.pdf)](https://ocw.mit.edu/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/resources/mitesd_712s10_proj04/)
+- [Assignment: "Roadmap" for your project, & Excel model of uncertainties (.pdf)](https://ocw.mit.edu/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/resources/mitesd_712s10_proj03/)
+- [Assignment: Teams Identify and Estimate Major Uncertainties for Projects (.pdf)](https://ocw.mit.edu/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/resources/mitesd_712s10_proj02/)
+- [Assignment: Teams select their project (.pdf)](https://ocw.mit.edu/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/resources/mitesd_712s10_proj01/)
+- [Projects](https://ocw.mit.edu/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/pages/projects/)
+
+### Resource
+- [ids-712s10.jpg (.jpg)](https://ocw.mit.edu/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/resources/ids-712s10/)
+- [ids-712s10-th.jpg (.jpg)](https://ocw.mit.edu/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/resources/ids-712s10-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

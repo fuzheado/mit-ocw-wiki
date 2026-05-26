@@ -12,6 +12,9 @@ views: 755
 completeness: 0.1
 last_modified: "2026-05-06T14:55:21Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 5, Resource: 3, Syllabus: 1"
+api_id: 3351
 ---
 
 # Introduction to Literary Theory
@@ -30,8 +33,26 @@ This subject examines the ways in which we read. It introduces some important st
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-451-introduction-to-literary-theory-fall-2014/pages/syllabus/)
 
+### Reading-List
+- [21L.451 Notes on Zizek's Graphs (.pdf)](https://ocw.mit.edu/courses/21l-451-introduction-to-literary-theory-fall-2014/resources/mit21l_451f14_notes_9/)
+- [21L.451 Structure, Sign and Play Notes (.pdf)](https://ocw.mit.edu/courses/21l-451-introduction-to-literary-theory-fall-2014/resources/mit21l_451f14_notes_6/)
+- [21L.451 Elementary Structures Notes (.pdf)](https://ocw.mit.edu/courses/21l-451-introduction-to-literary-theory-fall-2014/resources/mit21l_451f14_notes_5/)
+- [21L.451 F14 Saussere Structuralism Notes (.pdf)](https://ocw.mit.edu/courses/21l-451-introduction-to-literary-theory-fall-2014/resources/mit21l_451f14_notes_4/)
+- [Readings](https://ocw.mit.edu/courses/21l-451-introduction-to-literary-theory-fall-2014/pages/readings/)
+
+### Problem-Set
+- [21L.451 F14 Response Paper (.pdf)](https://ocw.mit.edu/courses/21l-451-introduction-to-literary-theory-fall-2014/resources/mit21l_451f14_response_pap/)
+- [21L.451 F14 Oral Presentations (.pdf)](https://ocw.mit.edu/courses/21l-451-introduction-to-literary-theory-fall-2014/resources/mit21l_451f14_oral_prese/)
+- [21L.451 F14 Midterm (.pdf)](https://ocw.mit.edu/courses/21l-451-introduction-to-literary-theory-fall-2014/resources/mit21l_451f14_midterm/)
+- [21L.451 F14 Final Paper (.pdf)](https://ocw.mit.edu/courses/21l-451-introduction-to-literary-theory-fall-2014/resources/mit21l_451f14_final_paper/)
+- [Assignments](https://ocw.mit.edu/courses/21l-451-introduction-to-literary-theory-fall-2014/pages/assignments/)
+
+### Resource
+- [21l-451f14.jpg (.jpg)](https://ocw.mit.edu/courses/21l-451-introduction-to-literary-theory-fall-2014/resources/21l-451f14/)
+- [21l-451f14-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-451-introduction-to-literary-theory-fall-2014/resources/21l-451f14-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

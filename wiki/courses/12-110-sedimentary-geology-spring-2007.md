@@ -12,6 +12,9 @@ views: 250
 completeness: 0.13333333333333333
 last_modified: "2026-05-06T16:58:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 16, Resource: 6, Syllabus: 1, Video-Transcript: 8"
+api_id: 5403
 ---
 
 # Sedimentary Geology
@@ -30,9 +33,33 @@ Survey of the important aspects of modern sediments and ancient sedimentary rock
 
 ## Materials
 
-- [Activity Assignments with Examples] Activity Assignments with Examples
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [ch9c.pdf (.pdf)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/ch9c/)
+- [ch9b.pdf (.pdf)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/ch9b/)
+- [ch9a.pdf (.pdf)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/ch9a/)
+- [ch8.pdf (.pdf)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/ch8/)
+- [ch7.pdf (.pdf)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/ch7/)
+- [ch6.pdf (.pdf)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/ch6/)
+- [ch5.pdf (.pdf)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/ch5/)
+- [ch4.pdf (.pdf)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/ch4/)
+- [ch3.pdf (.pdf)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/ch3/)
+- [ch2_2.pdf (.pdf)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/ch2_2/)
+- [ch2_1.pdf (.pdf)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/ch2_1/)
+- [ch12.pdf (.pdf)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/ch12/)
+- [ch11.pdf (.pdf)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/ch11/)
+- [ch10.pdf (.pdf)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/ch10/)
+- [ch1.pdf (.pdf)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/ch1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/pages/lecture-notes/)
+
+### Resource
+- [slotznick_1.pdf (.pdf)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/slotznick_1/)
+- [safipour.pdf (.pdf)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/safipour/)
+- [12-110s07.jpg (.jpg)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/12-110s07/)
+- [12-110s07-th.jpg (.jpg)](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/resources/12-110s07-th/)
+- [Field Trip](https://ocw.mit.edu/courses/12-110-sedimentary-geology-spring-2007/pages/field-trip/)
 ## Wikipedia Bridge
 
 ### Related Articles

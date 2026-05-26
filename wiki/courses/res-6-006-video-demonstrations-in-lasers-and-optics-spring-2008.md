@@ -12,6 +12,9 @@ views: 101
 completeness: 0.0
 last_modified: "2026-05-06T16:53:20Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 5, Video-Transcript: 49"
+api_id: 3883
 ---
 
 # Video Demonstrations in Lasers and Optics
@@ -39,8 +42,12 @@ These videos were produced by the MIT Center for Advanced Engineering Study.
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [res-6-006s08.jpg (.jpg)](https://ocw.mit.edu/courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/resources/res-6-006s08/)
+- [res-6-006s08-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/resources/res-6-006s08-th/)
+- [Related courses](https://ocw.mit.edu/courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/pages/related-courses/)
+- [Demonstrations in physical optics](https://ocw.mit.edu/courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/pages/demonstrations-in-physical-optics/)
+- [Demonstrations in laser fundamentals](https://ocw.mit.edu/courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/pages/demonstrations-in-laser-fundamentals/)
 ## Wikipedia Bridge
 
 ### Related Articles

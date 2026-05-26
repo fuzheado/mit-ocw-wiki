@@ -12,6 +12,8 @@ views: 1180
 completeness: 0.0
 last_modified: "2026-05-06T14:44:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 3, Lecture-Notes: 4, Resource: 7, Syllabus: 1, Video-Transcript: 1"
 ---
 
 # Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft Kinect
@@ -31,12 +33,28 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Demonstration Videos] Demonstration Videos
-- [Instructor Insights] Instructor Insights
-- [Lecture Videos] Lecture Videos
-- [Projects with Examples] Projects with Examples
-- [Tutorial Videos] Tutorial Videos
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/pages/syllabus/)
 
+### Lecture-Notes
+- [Guided Tutorial](https://ocw.mit.edu/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/pages/class-activities/guided-tutorial/)
+- [Collaboration](https://ocw.mit.edu/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/pages/class-activities/collaboration/)
+- [Expanding on Tutorials](https://ocw.mit.edu/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/pages/class-activities/expanding-on-tutorials/)
+- [Host Your Own Workshop](https://ocw.mit.edu/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/pages/host-your-own-workshop/)
+
+### Assignment
+- [Student Projects](https://ocw.mit.edu/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/pages/student-projects/)
+- [Short Project](https://ocw.mit.edu/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/pages/student-projects/short-project/)
+- [Long Project](https://ocw.mit.edu/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/pages/student-projects/long-project/)
+
+### Resource
+- [Instructor Insights](https://ocw.mit.edu/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/pages/instructor-insights/)
+- [Two Weeks, Two Life Skills](https://ocw.mit.edu/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/pages/instructor-insights/two-weeks-two-life-skills/)
+- [If You Know Something, Share it with Someone](https://ocw.mit.edu/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/pages/instructor-insights/if-you-know-something-share-it-with-someone/)
+- [Failing, On Purpose](https://ocw.mit.edu/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/pages/instructor-insights/failing-on-purpose/)
+- [Impressions and Advice](https://ocw.mit.edu/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/pages/instructor-insights/impressions-and-advice/)
+- [Class Activities](https://ocw.mit.edu/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/pages/class-activities/)
+- [Getting Started](https://ocw.mit.edu/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/pages/class-activities/getting-started/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 983
 completeness: 0.4
 last_modified: "2026-05-06T14:45:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Problem-Set: 18, Reading-List: 1, Resource: 10, Syllabus: 1"
+api_id: 3850
 ---
 
 # Analysis and Design of Digital Control Systems
@@ -30,9 +33,42 @@ This course is a comprehensive introduction to control system synthesis in which
 
 ## Materials
 
-- [Exams] Exams
-- [Problem Sets] Problem Sets
+### Lectures
+- **Labs** — [🔗](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/pages/labs/) · [🔗](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/pages/labs)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/pages/readings/)
+
+### Problem-Set
+- [quiz2_sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/quiz2_sol/)
+- [quiz2.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/quiz2/)
+- [quiz1.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/quiz1/)
+- [ps6sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/ps6sol/)
+- [ps6.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/ps6/)
+- [ps5sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/ps5sol/)
+- [ps5.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/ps5/)
+- [ps4sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/ps4sol/)
+- [ps4.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/ps4/)
+- [ps3sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/ps3sol/)
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/ps3/)
+- [ps2sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/ps2sol/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/ps2/)
+- [ps1sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/ps1sol/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/ps1/)
+- [final.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/final/)
+- [Exams](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/pages/assignments/)
+
+### Resource
+- [scanner06_update.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/scanner06_update/)
+- [scanner06.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/scanner06/)
+- [lab2.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/lab2/)
+- [lab1.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/lab1/)
+- [designproblem06.pdf (.pdf)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/designproblem06/)
+- [chp_iss_robot.jpg (.jpg)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/chp_iss_robot/)
+- [2-171f06.gif (.gif)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/2-171f06/)
+- [2-171f06-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/resources/2-171f06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

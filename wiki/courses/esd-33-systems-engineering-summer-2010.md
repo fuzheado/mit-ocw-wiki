@@ -12,6 +12,9 @@ views: 551
 completeness: 0.1
 last_modified: "2026-05-06T14:43:23Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 12, Reading-List: 2, Resource: 5, Syllabus: 2"
+api_id: 5001
 ---
 
 # Systems Engineering
@@ -30,9 +33,34 @@ Systems Engineering is an interdisciplinary approach and means to enable the rea
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/pages/calendar/)
+- **Requirements Engineering** — [🔗](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/resources/mitesd_33sum10_lec04b/) · [🔗](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/resources/mitesd_33sum10_lec04a/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/pages/syllabus/)
 
+### Lecture-Notes
+- [Operating Operating Windows Windows for Robust Concept Design (and other advanced topics in Robust Design) (.pdf)](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/resources/mitesd_33sum10_lec12/)
+- [Experiments: Strategy, Design, Analysis (.pdf)](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/resources/mitesd_33sum10_lec10/)
+- [The 12 Step Process to Develop Critical Parameters (.pdf)](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/resources/mitesd_33sum10_lec07c/)
+- [PDSS Critical Parameter Development & Mgt. Process Quick Guide (.pdf)](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/resources/mitesd_33sum10_lec07b/)
+- [Critical Parameter Development & Mgt. (.pdf)](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/resources/mitesd_33sum10_lec07/)
+- [Requirements Driven Systems Design (.pdf)](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/resources/mitesd_33sum10_lec06/)
+- [Innovation in Systems  Engineering (.pdf)](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/resources/mitesd_33sum10_lec05/)
+- [Systems Engineering as a Human Activity (.pdf)](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/resources/mitesd_33sum10_lec02/)
+- [Course Introduction (.pdf)](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/resources/mitesd_33sum10_lec01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/pages/lecture-notes/)
+
+### Reading-List
+- [Critical Parameter Management (.pdf)](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/resources/mitesd_33sum10_read07/)
+- [Readings](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/pages/readings/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/pages/projects/)
+
+### Resource
+- [Sem_Plan.jpg (.jpg)](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/resources/sem_plan/)
+- [Fuel and Engine Management System (.jpg)](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/resources/esd-33s10/)
+- [Fuel and Engine Management System (thumbnail) (.jpg)](https://ocw.mit.edu/courses/esd-33-systems-engineering-summer-2010/resources/esd-33s10-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

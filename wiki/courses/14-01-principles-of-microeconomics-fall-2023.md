@@ -12,6 +12,9 @@ views: 6422
 completeness: 1.0
 last_modified: "2026-05-06T17:05:38Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 48, Problem-Set: 20, Resource: 14, Syllabus: 2, Video-Transcript: 57"
+api_id: 16730
 ---
 
 # Principles of Microeconomics 
@@ -30,9 +33,11 @@ This introductory undergraduate course covers the fundamentals of microeconomics
 
 ## Materials
 
-### Syllabus
-- [Syllabus](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/pages/syllabus/)
-- [Calendar](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/pages/calendar/)
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/pages/calendar/)
+- **Exams** — [🔗](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/pages/exams/) · [🔗](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/lists/exams/)
+- **Instructor Insights** — [📄](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/oMWvVcKdtco_transcript.pdf) · [📄](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/dLg9MK1hv2Y_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/pages/instructor-insights/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/pages/syllabus/)
 
 ### Lecture-Notes
 - [Lecture Summary 09: Supply and Demand, Consumer and Producer Surplus (.pdf)](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/resources/mit14_01_f23_lec9_pdf/)
@@ -84,37 +89,6 @@ This introductory undergraduate course covers the fundamentals of microeconomics
 - [Lecture 11 Handout (.pdf)](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/resources/mit14_01_f23_handout11_pdf/)
 - [Lecture 10 Handout (.pdf)](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/resources/mit14_01_f23_handout10_pdf/)
 
-### Video-Transcript
-- [MIT Economist on AI, Trade-Offs & Healthcare 🎬YouTube 📺Video](https://youtu.be/dLg9MK1hv2Y)
-- [Lec 9: Supply and Demand & Consumer/Producer Surplus (.mp4) 🎬YouTube 📺Video](https://youtu.be/-Z35m38qLd4)
-- [Lec 8: Competition II (.mp4) 🎬YouTube 📺Video](https://youtu.be/sHlazW9s_g8)
-- [Lec 7: Competition I (.mp4) 🎬YouTube 📺Video](https://youtu.be/IYwk6EwPmCg)
-- [Lec 6: Costs (.mp4) 🎬YouTube 📺Video](https://youtu.be/y1bnBxfNVkU)
-- [Lec 5: Production Theory (.mp4) 🎬YouTube 📺Video](https://youtu.be/Q7-mCKOzNUI)
-- [Lec 4: Demand Curves and Income/Substitution Effects (.mp4) 🎬YouTube 📺Video](https://youtu.be/Qj1HvrSKLqY)
-- [Lec 3: Budget Constraints and Constrained Choice (.mp4) 🎬YouTube 📺Video](https://youtu.be/c8K_FSLtceQ)
-- [Lec 26: Health Care Economics (.mp4) 🎬YouTube 📺Video](https://youtu.be/VoLP28-OSRU)
-- [Lec 25: Behavioral Economics (.mp4) 🎬YouTube 📺Video](https://youtu.be/TT7ZUJGPqos)
-- [Lec 24: Externalities (.mp4) 🎬YouTube 📺Video](https://youtu.be/EDGRxqnILUM)
-- [Lec 23: Government Redistribution and Taxation (.mp4) 🎬YouTube 📺Video](https://youtu.be/DB7dSaro4cE)
-- [Lec 22: Efficiency and Equity (.mp4) 🎬YouTube 📺Video](https://youtu.be/8sgl_wzzQUY)
-- [Lec 21: Social Insurance (.mp4) 🎬YouTube 📺Video](https://youtu.be/rXwgo-9xZDo)
-- [Lec 20: Uncertainty (.mp4) 🎬YouTube 📺Video](https://youtu.be/qwNTv1tjKbA)
-- [Lec 2: Preferences and Utility Function (.mp4) 🎬YouTube 📺Video](https://youtu.be/uuY13aUtFUo)
-- [Lec 19: International Trade: Welfare and Policy (.mp4) 🎬YouTube 📺Video](https://youtu.be/TxoAbm57ELE)
-- [Lec 18: Introduction to Trade (.mp4) 🎬YouTube 📺Video](https://youtu.be/KVV8pUOap2I)
-- [Lec 17: Making Choices over Time (.mp4) 🎬YouTube 📺Video](https://youtu.be/CZwgOqxScB4)
-- [Lec 16: Input Markets II—Labor and Capital (.mp4) 🎬YouTube 📺Video](https://youtu.be/Zl92WCm30bU)
-- [Lec 15: Input Markets I—Labor Market (.mp4) 🎬YouTube 📺Video](https://youtu.be/kUt5rgd8kfc)
-- [Lec 14: Oligopoly II (.mp4) 🎬YouTube 📺Video](https://youtu.be/omeBIMSJ89k)
-- [Lec 13: Oligopoly I (.mp4) 🎬YouTube 📺Video](https://youtu.be/_crDeSDpB20)
-- [Lec 12: Monopoly II (.mp4) 🎬YouTube 📺Video](https://youtu.be/iBmoqczj7xs)
-- [Lec 11: Monopoly I (.mp4) 🎬YouTube 📺Video](https://youtu.be/CD_HqiEdNOw)
-- [Lec 10: Welfare Economics (.mp4) 🎬YouTube 📺Video](https://youtu.be/1zAuKwZ5PPE)
-- [Lec 1: Introduction to Principles of Microeconomics and Supply & Demand (.mp4) 🎬YouTube 📺Video](https://youtu.be/8ssjKR7nNck)
-- [Thinking Like an Economist with Prof. Jonathan Gruber (.mp4) 🎬YouTube 📺Video](https://youtu.be/oMWvVcKdtco)
-- [Video Lectures 📺Video](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/video_galleries/video-lectures/)
-
 ### Problem-Set
 - [Problem Set 08 Solutions (.pdf)](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/resources/mit14_01_f23_pset8sol_pdf/)
 - [Problem Set 08 (.pdf)](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/resources/mit14_01_f23_pset8_pdf/)
@@ -135,18 +109,15 @@ This introductory undergraduate course covers the fundamentals of microeconomics
 - [Midterm Exam with Solutions (.pdf)](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/resources/mit14_01_f23_midterm_pdf/)
 - [Final Exam with Solutions (.pdf)](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/resources/mit14_01_f23_final_pdf/)
 - [Problem Sets](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/lists/problem-sets/)
-- [Exams](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/lists/exams/)
 
 ### Resource
 - [MIT Economist on AI, Trade-Offs & Healthcare transcript (.pdf)](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/resources/dlg9mk1hv2y_transcript/)
 - [MIT Economist on AI, Trade-Offs & Healthcare captions (.webvtt)](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/resources/dlg9mk1hv2y_captions/)
 - [Thinking Like an Economist with Prof. Jonathan Gruber transcript (.pdf)](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/resources/omwvvckdtco_transcript/)
 - [Thinking Like an Economist with Prof. Jonathan Gruber captions (.webvtt)](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/resources/omwvvckdtco_captions/)
-- [Instructor Insights](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/pages/instructor-insights/)
 - [14.01-Lecture05-2023sep20-V2_transcript.pdf (.pdf)](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/resources/1401-lecture05-2023sep20-v2_transcript_pdf/)
 - [14.01-Lecture05-2023sep20-V2_captions.vtt (.vtt)](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/resources/1401-lecture05-2023sep20-v2_captions_vtt/)
 - [mit14_01_f23.jpg (.jpg)](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/resources/mit14_01_f23_jpg/)
-- [Exams](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/pages/exams/)
 - [Lecture Handouts](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/lists/lecture-handouts/)
 - [Lecture Summaries](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/lists/lecture-summaries/)
 ## Wikipedia Bridge

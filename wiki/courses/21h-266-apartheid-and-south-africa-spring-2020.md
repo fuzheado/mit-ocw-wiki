@@ -12,6 +12,9 @@ views: 124
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:03:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 7, Syllabus: 2, Video-Transcript: 7"
+api_id: 3905
 ---
 
 # Apartheid and South Africa
@@ -30,8 +33,19 @@ This course introduces students to the spatial, legal, economic, social and poli
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-266-apartheid-and-south-africa-spring-2020/pages/calendar/)
+- **Readings and Videos** — [🔗](https://ocw.mit.edu/courses/21h-266-apartheid-and-south-africa-spring-2020/pages/readings-and-videos/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-266-apartheid-and-south-africa-spring-2020/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-266-apartheid-and-south-africa-spring-2020/pages/assignments/)
+
+### Resource
+- [21H.266S20 Apartheid and South Africa: Key Terms from Nigel Worden’s The Making of Modern South Africa (.pdf)](https://ocw.mit.edu/courses/21h-266-apartheid-and-south-africa-spring-2020/resources/mit21h_266s20_keytermsworden/)
+- [21H-266s20.jpg (.jpg)](https://ocw.mit.edu/courses/21h-266-apartheid-and-south-africa-spring-2020/resources/21h-266s20/)
+- [21H-266s20-th.jpg (.jpg)](https://ocw.mit.edu/courses/21h-266-apartheid-and-south-africa-spring-2020/resources/21h-266s20-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21h-266-apartheid-and-south-africa-spring-2020/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

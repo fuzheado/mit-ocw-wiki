@@ -12,6 +12,9 @@ views: 153
 completeness: 0.0
 last_modified: "2026-05-06T16:51:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Reading-List: 1, Resource: 13, Syllabus: 1"
+api_id: 3907
 ---
 
 # Seminar on Health Care Systems Innovation
@@ -30,9 +33,25 @@ This seminar applies a systems perspective to understand health care delivery to
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Lectures and Readings** — [🔗](https://ocw.mit.edu/courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/pages/lecture-slides-and-reading-assignments/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/pages/syllabus/)
 
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/pages/projects/)
+
+### Resource
+- [Stroke Team Slides (.pdf)](https://ocw.mit.edu/courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/resources/mitesd_69f10_stroke_mdtrm/)
+- [Improving Ischemic Stroke Care in the US and UK (.pdf)](https://ocw.mit.edu/courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/resources/mitesd_69f10_stroke_final/)
+- [Predictive Modeling Team Slides (.pdf)](https://ocw.mit.edu/courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/resources/mitesd_69f10_prmdlng_mdtrm/)
+- [Predictive Modeling at Beth Israel Deaconess Medical Center (.pdf)](https://ocw.mit.edu/courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/resources/mitesd_69f10_predmdlng_fnl/)
+- [Performance Measures in Health Care (.pdf)](https://ocw.mit.edu/courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/resources/mitesd_69f10_lecture4/)
+- [Health Care Systems Overview (.pdf)](https://ocw.mit.edu/courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/resources/mitesd_69f10_lecture3/)
+- [Health Care Systems from a Health Policy Perspective (.pdf)](https://ocw.mit.edu/courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/resources/mitesd_69f10_lecture2/)
+- [Decision Support Project Team Slides (.pdf)](https://ocw.mit.edu/courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/resources/mitesd_69f10_ds_midterm/)
+- [Decision Support Project Team Report (.pdf)](https://ocw.mit.edu/courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/resources/mitesd_69f10_ds_final/)
+- [United States Health Expenditure (.jpg)](https://ocw.mit.edu/courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/resources/esd-69f10/)
+- [United States Health Expenditure (thumbnail) (.jpg)](https://ocw.mit.edu/courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010/resources/esd-69f10-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

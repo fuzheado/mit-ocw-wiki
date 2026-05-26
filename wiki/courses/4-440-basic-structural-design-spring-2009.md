@@ -12,6 +12,9 @@ views: 1706
 completeness: 0.33999999999999997
 last_modified: "2026-05-06T16:55:26Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 10, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4891
 ---
 
 # Basic Structural Design
@@ -30,11 +33,29 @@ This course provides students with a basic knowledge of structural analysis and 
 
 ## Materials
 
-- [Design Assignments] Design Assignments
-- [Exams] Exams
-- [Problem Sets] Problem Sets
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-440-basic-structural-design-spring-2009/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-440-basic-structural-design-spring-2009/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-440-basic-structural-design-spring-2009/pages/readings/)
+
+### Problem-Set
+- [Structural Design Project  (.pdf)](https://ocw.mit.edu/courses/4-440-basic-structural-design-spring-2009/resources/mit4_440s09_project03/)
+- [Beam Design Project (.pdf)](https://ocw.mit.edu/courses/4-440-basic-structural-design-spring-2009/resources/mit4_440s09_project02/)
+- [Structural Design Project #1 (.pdf)](https://ocw.mit.edu/courses/4-440-basic-structural-design-spring-2009/resources/mit4_440s09_project01/)
+- [Equations for Structural Design (.pdf)](https://ocw.mit.edu/courses/4-440-basic-structural-design-spring-2009/resources/mit4_440s09_exam02_equations/)
+- [Midterm Exam (.pdf)](https://ocw.mit.edu/courses/4-440-basic-structural-design-spring-2009/resources/mit4_440s09_exam01_2007/)
+- [Homework #4: Frame Design (.pdf)](https://ocw.mit.edu/courses/4-440-basic-structural-design-spring-2009/resources/mit4_440s09_assn04/)
+- [Assignment #2 (.pdf)](https://ocw.mit.edu/courses/4-440-basic-structural-design-spring-2009/resources/mit4_440s09_assn02/)
+- [Assignment #1 (.pdf)](https://ocw.mit.edu/courses/4-440-basic-structural-design-spring-2009/resources/mit4_440s09_assn01/)
+- [Exams](https://ocw.mit.edu/courses/4-440-basic-structural-design-spring-2009/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/4-440-basic-structural-design-spring-2009/pages/assignments/)
+
+### Resource
+- [CO2 Content for Building Materials (.pdf)](https://ocw.mit.edu/courses/4-440-basic-structural-design-spring-2009/resources/mit4_440s09_res_co2/)
+- [Photograph of a building that showcases sustainable design (.jpg)](https://ocw.mit.edu/courses/4-440-basic-structural-design-spring-2009/resources/4-440s09/)
+- [Related Resources](https://ocw.mit.edu/courses/4-440-basic-structural-design-spring-2009/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 3532
 completeness: 0.38
 last_modified: "2026-05-06T17:00:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 10, Reading-List: 3, Resource: 4, Syllabus: 1, Video-Transcript: 11"
+api_id: 5394
 ---
 
 # Philosophical Issues in Brain Science
@@ -30,11 +33,37 @@ This course provides an introduction to important philosophical questions about 
 
 ## Materials
 
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Written Assignments] Written Assignments
+### Lectures
+- **Lecture 12: The Imagery Debate: The Role of the Brain** — [🎬](https://youtu.be/FkhU7i8hRK4) · [🔗](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/video_galleries/video-lectures/)
+- **Lecture 17: Theories of Consciousness that Neuroscientists Take Seriously** — [🎬](https://youtu.be/M3F_hAHJzNQ) · [🔗](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/video_galleries/video-lectures/)
+- **Lecture 19: Theories of Consciousness** — [🎬](https://youtu.be/F0Eq5Lt_fSQ) · [🔗](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/video_galleries/video-lectures/)
+- **Lecture 5: Are Infants Little Scientists?** — [🎬](https://youtu.be/mcrGC0KTfnY) · [🔗](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/video_galleries/video-lectures/)
+- **Lecture 8: Addressing Molyneux&#39;s Query** — [🎬](https://youtu.be/EDRa-ESxmJY) · [🔗](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/video_galleries/video-lectures/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/pages/syllabus/)
 
+### Lecture-Notes
+- [Lectures: Video and Slides 📺Video](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/video_galleries/video-lectures/)
+
+### Reading-List
+- [The Pink Guide to Taking Philosophy Classes (.pdf)](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/resources/mit24_08js09_read/)
+
+### Problem-Set
+- [Arguments: the basics (.pdf)](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/resources/mit24_08js09_assn08/)
+- [Meno and the Paradox of Inquiry (.pdf)](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/resources/mit24_08js09_assn07/)
+- [Guidelines for Papers (.pdf)](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/resources/mit24_08js09_assn06/)
+- [Third Paper (.pdf)](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/resources/mit24_08js09_assn05/)
+- [Second Paper (.pdf)](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/resources/mit24_08js09_assn04/)
+- [First Paper (.pdf)](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/resources/mit24_08js09_assn03/)
+- [Second Argument Analysis (.pdf)](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/resources/mit24_08js09_assn02/)
+- [First Argument Analysis (.pdf)](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/resources/mit24_08js09_assn01/)
+- [Exams](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/pages/assignments/)
+
+### Resource
+- [Theories of Consciousness (.pdf)](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/resources/mit24_08js09_lec_apr13/)
+- [The Infant as Scientist (.pdf)](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/resources/mit24_08js09_lec5/)
+- [An illustration of the brain (.jpg)](https://ocw.mit.edu/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/resources/24-08js09/)
 ## Wikipedia Bridge
 
 ### Related Articles

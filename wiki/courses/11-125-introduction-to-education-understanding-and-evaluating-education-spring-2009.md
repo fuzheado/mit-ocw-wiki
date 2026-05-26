@@ -12,6 +12,9 @@ views: 777
 completeness: 0.2
 last_modified: "2026-05-06T16:54:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 11, Reading-List: 1, Resource: 2, Syllabus: 2"
+api_id: 3625
 ---
 
 # Introduction to Education: Understanding and Evaluating Education
@@ -30,8 +33,27 @@ This class uses K-12 classroom experiences, along with student-centered classroo
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
+### Lectures
+- **Calendar and Assignments** — [🔗](https://ocw.mit.edu/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/pages/calendar-and-assignments/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/pages/readings/)
+
+### Problem-Set
+- [Technologies for Learning - Velocity and Acceleration  (.pdf)](https://ocw.mit.edu/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/resources/mit11_125s09_cal_week8_physics_lab02/)
+- [Standards Town Hall (.pdf)](https://ocw.mit.edu/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/resources/mit11_125s09_cal_standards_town_hall03/)
+- [Activity 1 (.pdf)](https://ocw.mit.edu/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/resources/mit11_125s09_cal_activity01/)
+- [Final Portfolio (.pdf)](https://ocw.mit.edu/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/resources/mit11_125s09_assn_final_portfolio06/)
+- [Final Assignment (.pdf)](https://ocw.mit.edu/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/resources/mit11_125s09_assn_final_assignment05/)
+- [Assignments for 11.125 (.pdf)](https://ocw.mit.edu/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/resources/mit11_125s09_assn_assignments_overview07/)
+- [Assignment 4: Comparison of Media (.pdf)](https://ocw.mit.edu/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/resources/mit11_125s09_assn_assignment04/)
+- [Assignment 3: Reflection of Formative Assessment (.pdf)](https://ocw.mit.edu/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/resources/mit11_125s09_assn_assignment03/)
+- [Assignment 2 - Misconceptions (.pdf)](https://ocw.mit.edu/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/resources/mit11_125s09_assn_assignment02/)
+- [Assignment 1 - MIT Observation (.pdf)](https://ocw.mit.edu/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/resources/mit11_125s09_assn_assignment01/)
+
+### Resource
+- [Two girls in green shirts use a laptop computer and microscope (.jpg)](https://ocw.mit.edu/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/resources/11-125s09/)
 ## Wikipedia Bridge
 
 ### Related Articles

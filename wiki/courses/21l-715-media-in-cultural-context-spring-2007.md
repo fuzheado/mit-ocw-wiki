@@ -12,6 +12,9 @@ views: 137
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T15:01:32Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 3978
 ---
 
 # Media in Cultural Context
@@ -30,8 +33,18 @@ This course explores the international trade in television text, considering the
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-715-media-in-cultural-context-spring-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-715-media-in-cultural-context-spring-2007/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-715-media-in-cultural-context-spring-2007/pages/assignments/)
+
+### Resource
+- [Television on the Prairie (.jpg)](https://ocw.mit.edu/courses/21l-715-media-in-cultural-context-spring-2007/resources/21l-715s07/)
+- [Television on the Prairie (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-715-media-in-cultural-context-spring-2007/resources/21l-715s07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

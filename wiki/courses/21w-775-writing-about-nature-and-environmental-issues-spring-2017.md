@@ -12,6 +12,9 @@ views: 90
 completeness: 0.0
 last_modified: "2026-05-06T17:19:09Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 3, Lecture-Notes: 1, Problem-Set: 1, Reading-List: 3, Resource: 19, Syllabus: 2"
+api_id: 4634
 ---
 
 # Writing about Nature and Environmental Issues
@@ -30,9 +33,30 @@ In this course we will read and write about works that explore symbolic encounte
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Balancing Intensive Writing and Reading** — [🔗](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/pages/instructor-insights/balancing-intensive-writing-and-reading/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/pages/calendar/)
+- **Draft** — [🔗](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/pages/essay-3/draft/) · [🔗](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/pages/essay-1/draft/)
+- **Essay 1** — [🔗](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/pages/essay-1/)
+- **Essay 2** — [🔗](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/pages/essay-2/)
+- **Essay 3** — [🔗](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/pages/essay-3/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/pages/readings/)
+- **Short Assignments** — [🔗](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/pages/short-assignments/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/pages/syllabus/)
+- **Workshop** — [🔗](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/pages/essay-3/workshop/) · [🔗](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/pages/essay-1/workshop/)
 
+### Reading-List
+- [Supplementary Readings](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/pages/readings/supplementary-readings/)
+
+### Resource
+- [MIT21W_775S17_Essay3_Wilderness (.pdf)](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/resources/mit21w_775s17_essay3_wilderness/)
+- [_less-than-10.png (.png)](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/resources/less-than-10/)
+- [21W-775S17 (.jpg)](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/resources/21w-775s17/)
+- [21W-775S17-th (.jpg)](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/resources/21w-775s17-th/)
+- [21W.775_Laptop (.jpg)](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/resources/21w-775_laptop/)
+- [21W.775 classroom (.jpg)](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/resources/21w-775-classroom/)
+- [Providing Students with Feedback](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/pages/instructor-insights/providing-students-with-feedback/)
+- [Instructor Insights](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 583
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T17:25:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 17, Problem-Set: 4, Resource: 3, Syllabus: 2"
+api_id: 4633
 ---
 
 # Space Systems Engineering
@@ -32,11 +35,37 @@ The second half of the class will then pick 1-2 of the top-rated architectures f
 
 ## Materials
 
-- [Design Assignments] Design Assignments
-- [Presentation Assignments with Examples] Presentation Assignments with Examples
-- [Projects with Examples] Projects with Examples
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/syllabus/) · [🔗](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/pages/syllabus/)
 
+### Problem-Set
+- [Assignment #3 (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/assignment_3/)
+- [Assignment #2 (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/assignment_2/)
+- [Assignment #1 (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/assignment_1/)
+- [Assignments](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/pages/assignments/)
+
+### Assignment
+- [ASTRO: Architecting the Search for Terrestrial planets and Related Origins (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/report_99/)
+- [Extensible Planetary Surface Mobility Systems (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/report_06/)
+- [Paradigm Shift in Design for NASA’s New Exploration Initiative (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/report_04/)
+- [Extensible Planetary Surface Mobility Systems: Rapid Modeling of Mars Robotic Explorers Critical Design Review (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/report_03/)
+- [X-TOS: Final Design Report (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/report_02/)
+- [B-TOS: Terrestrial Observer Swarm (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/report_01/)
+- [Project MINERVA: Establish an Enabling Space Infrastructure that will Support the Exploration of Mars (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/report_00/)
+- [Lunar Telescope Facility (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/report/)
+- [Terrestrial Planet Finder Mission: Critical Design Review (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/presentation_99/)
+- [16.89 / ESD 352 Final Design Review (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/presentation_06/)
+- [Paradigm Shift in Design for NASA’s New Exploration Initiative: The result of MIT’s space systems engineering graduate design class study (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/presentation_04/)
+- [Rapid Modeling of Mars Robotic Explorers: Critical Design Review (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/presentation_03/)
+- [X-TOS: Preliminary Design Review (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/presentation_02/)
+- [B-Terrestrial Observer Swarm (B-TOS) (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/presentation_01/)
+- [MINERVA Critical Design Review (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/presentation_00/)
+- [ATA-01-1003 – Lunar Telescope Facility IDAC3 Results Presentation to the CxAWG (.pdf)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/presentation/)
+- [Projects](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/pages/projects/)
+
+### Resource
+- [Artist's conception of astronauts setting up a lunar telescope array (.jpg)](https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/resources/16-89js07/)
 ## Wikipedia Bridge
 
 ### Related Articles

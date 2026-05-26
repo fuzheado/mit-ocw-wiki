@@ -12,6 +12,9 @@ views: 318
 completeness: 0.54
 last_modified: "2026-05-06T17:08:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 27, Problem-Set: 9, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 1"
+api_id: 5750
 ---
 
 # Pervasive Human Centric Computing (SMA 5508)
@@ -31,10 +34,54 @@ This course was also taught as part of the Singapore-MIT Alliance (SMA) programm
 
 ## Materials
 
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [r2_bluetooth_tut.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/r2_bluetooth_tut/)
+- [l9_symbpythonii.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l9_symbpythonii/)
+- [l8_symbianpython.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l8_symbianpython/)
+- [l7_batscrickets.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l7_batscrickets/)
+- [l6_proximity.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l6_proximity/)
+- [l5b.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l5b/)
+- [l5a.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l5a/)
+- [l4.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l4/)
+- [l3.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l3/)
+- [l2_python_intro.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l2_python_intro/)
+- [l2_ipaqlinux_hic.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l2_ipaqlinux_hic/)
+- [l2_gui_pyt_int.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l2_gui_pyt_int/)
+- [l22_o2s.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l22_o2s/)
+- [l20_publish_subs.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l20_publish_subs/)
+- [l20_metaglue.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l20_metaglue/)
+- [l20_hyperglue.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l20_hyperglue/)
+- [l19_spchanim_bbg.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l19_spchanim_bbg/)
+- [l18_security_puf.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l18_security_puf/)
+- [l18_security.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l18_security/)
+- [l18_sec_untruste.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l18_sec_untruste/)
+- [l17_sketch.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l17_sketch/)
+- [l16_kiosk.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l16_kiosk/)
+- [l14_simplespeech.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l14_simplespeech/)
+- [l13_speech_intro.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l13_speech_intro/)
+- [l12_arrays.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l12_arrays/)
+- [l10_gui.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/l10_gui/)
+- [Lecture Notes](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/pages/lecture-notes/)
+
+### Problem-Set
+- [quiz_questions.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/quiz_questions/)
+- [ps6.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/ps6/)
+- [ps5.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/ps5/)
+- [ps4.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/ps4/)
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/ps3/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/ps2/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/ps1/)
+- [Exams](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/pages/assignments/)
+
+### Resource
+- [6-883s06.jpg (.jpg)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/6-883s06/)
+- [6-883s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/resources/6-883s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

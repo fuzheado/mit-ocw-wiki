@@ -12,6 +12,9 @@ views: 2310
 completeness: 0.0
 last_modified: "2026-05-06T17:07:34Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 6, Video-Transcript: 2"
+api_id: 4582
 ---
 
 # Day of AI
@@ -31,9 +34,14 @@ Developed by leading faculty and educators from MIT RAISE, the curriculum featur
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Podcasts] Podcasts
+### Lectures
+- **Instructor Insights** — [📄](https://ocw.mit.edu/courses/res-mas-002-day-of-ai-spring-2022/Fj1OICPboCU_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/res-mas-002-day-of-ai-spring-2022/pages/instructor-insights/)
 
+### Resource
+- [AI Literacy for All with Prof. Cynthia Breazeal transcript (.pdf)](https://ocw.mit.edu/courses/res-mas-002-day-of-ai-spring-2022/resources/fj1oicpbocu_transcript/)
+- [AI Literacy for All with Prof. Cynthia Breazeal captions (.webvtt)](https://ocw.mit.edu/courses/res-mas-002-day-of-ai-spring-2022/resources/fj1oicpbocu_captions/)
+- [res-mas-002s22.jpg (.jpg)](https://ocw.mit.edu/courses/res-mas-002-day-of-ai-spring-2022/resources/res-mas-002s22/)
+- [res-mas-002s22-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-mas-002-day-of-ai-spring-2022/resources/res-mas-002s22-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

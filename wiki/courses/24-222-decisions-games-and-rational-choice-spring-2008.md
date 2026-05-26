@@ -12,6 +12,9 @@ views: 335
 completeness: 0.28
 last_modified: "2026-05-06T14:54:46Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 7, Reading-List: 2, Resource: 3, Syllabus: 1"
+api_id: 4572
 ---
 
 # Decisions, Games, and Rational Choice
@@ -30,10 +33,25 @@ Foundations and philosophical applications of Bayesian decision theory, game the
 
 ## Materials
 
-- [Exams] Exams
-- [Problem Sets] Problem Sets
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-222-decisions-games-and-rational-choice-spring-2008/pages/syllabus/)
 
+### Reading-List
+- [games_and_models.pdf (.pdf)](https://ocw.mit.edu/courses/24-222-decisions-games-and-rational-choice-spring-2008/resources/games_and_models/)
+- [Readings](https://ocw.mit.edu/courses/24-222-decisions-games-and-rational-choice-spring-2008/pages/readings/)
+
+### Problem-Set
+- [sp2.pdf (.pdf)](https://ocw.mit.edu/courses/24-222-decisions-games-and-rational-choice-spring-2008/resources/sp2/)
+- [sp1.pdf (.pdf)](https://ocw.mit.edu/courses/24-222-decisions-games-and-rational-choice-spring-2008/resources/sp1/)
+- [sample_questions.pdf (.pdf)](https://ocw.mit.edu/courses/24-222-decisions-games-and-rational-choice-spring-2008/resources/sample_questions/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/24-222-decisions-games-and-rational-choice-spring-2008/resources/ps1/)
+- [final_exam.pdf (.pdf)](https://ocw.mit.edu/courses/24-222-decisions-games-and-rational-choice-spring-2008/resources/final_exam/)
+- [Exams](https://ocw.mit.edu/courses/24-222-decisions-games-and-rational-choice-spring-2008/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/24-222-decisions-games-and-rational-choice-spring-2008/pages/assignments/)
+
+### Resource
+- [24-222s08.jpg (.jpg)](https://ocw.mit.edu/courses/24-222-decisions-games-and-rational-choice-spring-2008/resources/24-222s08/)
+- [24-222s08-th.jpg (.jpg)](https://ocw.mit.edu/courses/24-222-decisions-games-and-rational-choice-spring-2008/resources/24-222s08-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

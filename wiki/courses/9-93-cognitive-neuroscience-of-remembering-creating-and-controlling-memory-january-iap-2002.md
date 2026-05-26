@@ -12,6 +12,8 @@ views: 476
 completeness: 0.0
 last_modified: "2026-05-06T15:03:08Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Reading-List: 1, Resource: 1, Syllabus: 2, Video-Transcript: 1"
 ---
 
 # Cognitive Neuroscience of Remembering: Creating and Controlling Memory
@@ -32,8 +34,15 @@ Memory provides a bridge between past and present. Through memory, past sensatio
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/9-93-cognitive-neuroscience-of-remembering-creating-and-controlling-memory-january-iap-2002/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/9-93-cognitive-neuroscience-of-remembering-creating-and-controlling-memory-january-iap-2002/pages/calendar/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-93-cognitive-neuroscience-of-remembering-creating-and-controlling-memory-january-iap-2002/pages/readings/)
+
+### Resource
+- [Related Resources](https://ocw.mit.edu/courses/9-93-cognitive-neuroscience-of-remembering-creating-and-controlling-memory-january-iap-2002/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

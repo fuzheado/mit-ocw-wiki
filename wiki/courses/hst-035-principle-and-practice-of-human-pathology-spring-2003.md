@@ -12,6 +12,9 @@ views: 369
 completeness: 0.30833333333333335
 last_modified: "2026-05-06T16:53:33Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 14, Problem-Set: 11, Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 3576
 ---
 
 # Principle and Practice of Human Pathology
@@ -41,8 +44,46 @@ Prof. Jon Aster, Prof. Frederick Bieber, Prof. Carlo Brugnara, Prof. Robert B. C
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/pages/calendar/)
+- **Labs** — [🔗](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/pages/labs/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [transplant_2003.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/transplant_2003/)
+- [tissuerepair2003.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/tissuerepair2003/)
+- [optimal_diets_sl.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/optimal_diets_sl/)
+- [liver.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/liver/)
+- [isch_infarct2003.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/isch_infarct2003/)
+- [introduction_2003.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/introduction_2003/)
+- [inflammation2003.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/inflammation2003/)
+- [infections.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/infections/)
+- [immunesystem2003.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/immunesystem2003/)
+- [genetics_2003.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/genetics_2003/)
+- [epithelium_2003.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/epithelium_2003/)
+- [cellinjury_2003.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/cellinjury_2003/)
+- [Lecture Notes](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/pages/readings/)
+
+### Problem-Set
+- [homework6_answers.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/homework6_answers/)
+- [homework6.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/homework6/)
+- [homework5_answers.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/homework5_answers/)
+- [homework5.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/homework5/)
+- [homework4_answers.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/homework4_answers/)
+- [homework4.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/homework4/)
+- [homework2_answer.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/homework2_answer/)
+- [homework2.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/homework2/)
+- [homework1_answer.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/homework1_answer/)
+- [homework1.pdf (.pdf)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/homework1/)
+- [Assignments](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/pages/assignments/)
+
+### Resource
+- [hst-035s03.jpg (.jpg)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/hst-035s03/)
+- [hst-035s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/resources/hst-035s03-th/)
+- [Related Resources](https://ocw.mit.edu/courses/hst-035-principle-and-practice-of-human-pathology-spring-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,8 @@ views: 95
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:20:41Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Syllabus: 1"
 ---
 
 # Marathon Moral Reasoning Laboratory
@@ -32,8 +34,14 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/9-93-marathon-moral-reasoning-laboratory-january-iap-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-93-marathon-moral-reasoning-laboratory-january-iap-2007/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/9-93-marathon-moral-reasoning-laboratory-january-iap-2007/pages/assignments/)
 ## Wikipedia Bridge
 
 ### Related Articles

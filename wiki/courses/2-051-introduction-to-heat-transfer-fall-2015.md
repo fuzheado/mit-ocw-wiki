@@ -12,6 +12,9 @@ views: 1082
 completeness: 0.2
 last_modified: "2026-05-06T17:20:39Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4291
 ---
 
 # Introduction to Heat Transfer
@@ -30,9 +33,23 @@ This course is an introduction to the principal concepts and methods of heat tra
 
 ## Materials
 
-- [Exams] Exams
-- [Open Textbooks] Open Textbooks
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-051-introduction-to-heat-transfer-fall-2015/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-051-introduction-to-heat-transfer-fall-2015/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/2-051-introduction-to-heat-transfer-fall-2015/pages/readings/)
+
+### Problem-Set
+- [Quiz 1 – Review Problems (.pdf)](https://ocw.mit.edu/courses/2-051-introduction-to-heat-transfer-fall-2015/resources/mit2_051f15_quiz1_rvwprob/)
+- [Quiz 2 Review Problems (.pdf)](https://ocw.mit.edu/courses/2-051-introduction-to-heat-transfer-fall-2015/resources/mit2_051f15_q2_review_v3/)
+- [Quiz 2 Equation Sheet (.pdf)](https://ocw.mit.edu/courses/2-051-introduction-to-heat-transfer-fall-2015/resources/mit2_051f15_eqnsheet_q2_v3/)
+- [Quiz 1 Equation Sheet (.pdf)](https://ocw.mit.edu/courses/2-051-introduction-to-heat-transfer-fall-2015/resources/mit2_051f15_eqnsheet_q1/)
+- [Quizzes](https://ocw.mit.edu/courses/2-051-introduction-to-heat-transfer-fall-2015/pages/quizzes/)
+
+### Resource
+- [Four steaks on a charcoal grill with flames (.jpg)](https://ocw.mit.edu/courses/2-051-introduction-to-heat-transfer-fall-2015/resources/2-051f15/)
+- [Four steaks on a charcoal grill with flames (thumbnail) (.jpg)](https://ocw.mit.edu/courses/2-051-introduction-to-heat-transfer-fall-2015/resources/2-051f15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

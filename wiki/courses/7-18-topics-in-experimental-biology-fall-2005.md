@@ -12,6 +12,9 @@ views: 117
 completeness: 0.11166666666666668
 last_modified: "2026-05-06T14:58:19Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 11, Problem-Set: 1, Resource: 5, Syllabus: 2"
+api_id: 3458
 ---
 
 # Topics in Experimental Biology
@@ -31,10 +34,30 @@ This course provides instruction and practice in written and oral communication.
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/7-18-topics-in-experimental-biology-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/7-18-topics-in-experimental-biology-fall-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [lecture_9.pdf (.pdf)](https://ocw.mit.edu/courses/7-18-topics-in-experimental-biology-fall-2005/resources/lecture_9/)
+- [lecture_5.pdf (.pdf)](https://ocw.mit.edu/courses/7-18-topics-in-experimental-biology-fall-2005/resources/lecture_5/)
+- [lecture_2.pdf (.pdf)](https://ocw.mit.edu/courses/7-18-topics-in-experimental-biology-fall-2005/resources/lecture_2/)
+- [lecture_12.pdf (.pdf)](https://ocw.mit.edu/courses/7-18-topics-in-experimental-biology-fall-2005/resources/lecture_12/)
+- [lecture_1.pdf (.pdf)](https://ocw.mit.edu/courses/7-18-topics-in-experimental-biology-fall-2005/resources/lecture_1/)
+- [fall05mm_lar.pdf (.pdf)](https://ocw.mit.edu/courses/7-18-topics-in-experimental-biology-fall-2005/resources/fall05mm_lar/)
+- [fall05lecture6.pdf (.pdf)](https://ocw.mit.edu/courses/7-18-topics-in-experimental-biology-fall-2005/resources/fall05lecture6/)
+- [fall05lectu7_lar.pdf (.pdf)](https://ocw.mit.edu/courses/7-18-topics-in-experimental-biology-fall-2005/resources/fall05lectu7_lar/)
+- [fall05abstra_lar.pdf (.pdf)](https://ocw.mit.edu/courses/7-18-topics-in-experimental-biology-fall-2005/resources/fall05abstra_lar/)
+- [fal05lec21_dipo.pdf (.pdf)](https://ocw.mit.edu/courses/7-18-topics-in-experimental-biology-fall-2005/resources/fal05lec21_dipo/)
+- [Lecture Notes](https://ocw.mit.edu/courses/7-18-topics-in-experimental-biology-fall-2005/pages/lecture-notes/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/7-18-topics-in-experimental-biology-fall-2005/pages/assignments/)
+
+### Resource
+- [702lab.jpg (.jpg)](https://ocw.mit.edu/courses/7-18-topics-in-experimental-biology-fall-2005/resources/702lab/)
+- [7-18f05.jpg (.jpg)](https://ocw.mit.edu/courses/7-18-topics-in-experimental-biology-fall-2005/resources/7-18f05/)
+- [7-18f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/7-18-topics-in-experimental-biology-fall-2005/resources/7-18f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

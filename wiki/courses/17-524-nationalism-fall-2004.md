@@ -12,6 +12,9 @@ views: 270
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:57:52Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5274
 ---
 
 # Nationalism
@@ -30,8 +33,20 @@ This course provides a broad overview of the theories of and approaches to the s
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-524-nationalism-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-524-nationalism-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-524-nationalism-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-524-nationalism-fall-2004/pages/assignments/)
+
+### Resource
+- [Firefighters on September 12, 2001 (.jpg)](https://ocw.mit.edu/courses/17-524-nationalism-fall-2004/resources/chp_flag/)
+- [European UN Headquarters (.jpg)](https://ocw.mit.edu/courses/17-524-nationalism-fall-2004/resources/17-524f04/)
+- [European UN Headquarters (thumbnail) (.jpg)](https://ocw.mit.edu/courses/17-524-nationalism-fall-2004/resources/17-524f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 920
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T14:42:30Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 4, Reading-List: 2, Resource: 8, Syllabus: 2"
+api_id: 5732
 ---
 
 # Meta-ethics
@@ -30,8 +33,25 @@ This course considers a range of philosophical questions about the foundations o
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/24-230-meta-ethics-fall-2015/pages/calendar/)
+- **Grading Criteria** — [🔗](https://ocw.mit.edu/courses/24-230-meta-ethics-fall-2015/pages/assignments/grading-criteria/)
+- **Papers** — [🔗](https://ocw.mit.edu/courses/24-230-meta-ethics-fall-2015/pages/assignments/papers/)
+- **Reading Responses** — [🔗](https://ocw.mit.edu/courses/24-230-meta-ethics-fall-2015/pages/assignments/reading-responses/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-230-meta-ethics-fall-2015/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/24-230-meta-ethics-fall-2015/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/24-230-meta-ethics-fall-2015/pages/assignments/)
+
+### Resource
+- [Can moral facts be an explanation? (.pdf)](https://ocw.mit.edu/courses/24-230-meta-ethics-fall-2015/resources/mit24_230f15_paper1/)
+- [Contextualism and moral intuition (.pdf)](https://ocw.mit.edu/courses/24-230-meta-ethics-fall-2015/resources/mit24_230f15_finalpaper/)
+- [Essay 2 (.pdf)](https://ocw.mit.edu/courses/24-230-meta-ethics-fall-2015/resources/mit24_230f15_essay2/)
+- [Moral Compass (.jpg)](https://ocw.mit.edu/courses/24-230-meta-ethics-fall-2015/resources/24-230f15/)
+- [Moral Compass (thumbnail) (.jpg)](https://ocw.mit.edu/courses/24-230-meta-ethics-fall-2015/resources/24-230f15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

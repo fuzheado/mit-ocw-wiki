@@ -12,6 +12,9 @@ views: 136
 completeness: 0.12
 last_modified: "2026-05-06T17:07:07Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 6, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 5128
 ---
 
 # Civic Media Codesign Studio
@@ -30,8 +33,30 @@ This course is a service-learning, project-based studio course that focuses on c
 
 ## Materials
 
-- [Presentation Assignments with Examples] Presentation Assignments with Examples
+### Lectures
+- **Final Presentations** — [🔗](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-spring-2016/pages/final-presentations/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-spring-2016/pages/syllabus/)
 
+### Syllabus
+- [Calendar &amp; Assignments](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-spring-2016/pages/calendar-assignments/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-spring-2016/pages/readings/)
+
+### Problem-Set
+- [CMS.362S16 Project Working Agreement (.pdf)](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-spring-2016/resources/mitcms_362s16_projectwork/)
+- [CMS.362S16 Partner (.pdf)](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-spring-2016/resources/mitcms_362s16_partnerrqst/)
+- [CMS.362S16 First Prototypes & Presentation (.pdf)](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-spring-2016/resources/mitcms_362s16_firstproto/)
+- [CMS.362S16 Co-design Studio Intake Questionnaire (.pdf)](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-spring-2016/resources/mitcms_362s16_co-design/)
+- [CMS.362S16 Case Study Template (.pdf)](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-spring-2016/resources/mitcms_362s16_casestudy/)
+- [Calendar & Assignments](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-spring-2016/pages/calendar-assignments/)
+
+### Resource
+- [cms-362s16.jpg (.jpg)](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-spring-2016/resources/cms-362s16/)
+- [cms-362s16-th.jpg (.jpg)](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-spring-2016/resources/cms-362s16-th/)
+- [Related Resources](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-spring-2016/pages/related-resources/)
+- [Learning Tools & Activities](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-spring-2016/pages/learning-tools-activities/)
+- [Learning Tools &amp; Activities](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-spring-2016/pages/learning-tools-activities/)
 ## Wikipedia Bridge
 
 ### Related Articles

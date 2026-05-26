@@ -12,6 +12,8 @@ views: 1912
 completeness: 0.6000000000000001
 last_modified: "2026-05-06T14:59:19Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Problem-Set: 2, Resource: 6, Syllabus: 2, Video-Transcript: 26"
 ---
 
 # Unified Engineering I, II, III, & IV
@@ -30,13 +32,29 @@ The basic objective of Unified Engineering is to give a solid understanding of t
 
 ## Materials
 
-- [Competition Videos] Competition Videos
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
-- [Lecture Videos] Lecture Videos
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Lectures
+- **Download the video** — [⬇](https://archive.org/download/MIT16.03F03/mit-ocw-16.03-lec-mit-27apr2004.mpg-220k.mp4) · [⬇](https://archive.org/download/MIT16.03F03/mit-ocw-16.03-lec-mit-01mar2004.mpg-220k.mp4)
+- **Download video** — [⬇](https://archive.org/download/MIT16.03F03/mit-ocw-16.03-lec-mit-27apr2004.mpg-220k.mp4) · [⬇](https://archive.org/download/MIT16.03F03/mit-ocw-16.03-lec-mit-01mar2004.mpg-220k.mp4)
+- **Materials and Structures** — [⬇](https://archive.org/download/MIT16.03F03/mit-ocw-16.03-lec-mit-01mar2004.mpg-220k.mp4) · [🔗](https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/pages/materials-structures/)
+- **Thermodynamics and Propulsion** — [⬇](https://archive.org/download/MIT16.03F03/mit-ocw-16.03-lec-mit-27apr2004.mpg-220k.mp4) · [🔗](https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/pages/thermo-propulsion/)
 
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/pages/calendar/)
+
+### Lecture-Notes
+- [Systems/Labs 04 📺Video](https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/video_galleries/systems-labs-04/)
+- [Systems/Labs 06](https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/pages/systems-labs-06/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/pages/assignments/)
+- [Exams](https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/pages/exams/)
+
+### Resource
+- [Signals and Systems](https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/pages/signals-systems/)
+- [Fluid Mechanics](https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/pages/fluid-mechanics/)
+- [Computers and Programming](https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/pages/computers-and-programming/)
+- [Unified Concepts](https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/pages/unified-concepts/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 203
 completeness: 0.1
 last_modified: "2026-05-06T15:01:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 2, Resource: 8, Syllabus: 1, Video-Transcript: 2"
+api_id: 4559
 ---
 
 # Race, Crime, and Citizenship in American Law
@@ -30,9 +33,25 @@ This seminar looks at key issues in the historical development and current state
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/pages/syllabus/)
 
+### Problem-Set
+- [American Criminal Justice – Problems and How They Came to Be (.pdf)](https://ocw.mit.edu/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/resources/mit21h_319f14_stuntzcritiq/)
+- [Historical Patterns in Street Crime and National Security Policing (.pdf)](https://ocw.mit.edu/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/resources/mit21h_319f14_streetcrime/)
+- [Illegal Immigration: Evaluating the Constitutionality of SB 1070 in its Enforcement (.pdf)](https://ocw.mit.edu/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/resources/mit21h_319f14_illegalmmigr/)
+- [Awareness of Racial Discrimination in American Policing: Transforming The Silent Observer (.pdf)](https://ocw.mit.edu/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/resources/mit21h_319f14_americapolic/)
+- [Assignments](https://ocw.mit.edu/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/pages/assignments/)
+
+### Resource
+- [Imprisonment Rates vs. Population by Region (.pdf)](https://ocw.mit.edu/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/resources/mit21h_319f14_prisonstate/)
+- [#FERGUSON (.jpg)](https://ocw.mit.edu/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/resources/21h-319f14/)
+- [#FERGUSON (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/resources/21h-319f14-th/)
+- [21H-319_stat-students (.png)](https://ocw.mit.edu/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/resources/21h-319_stat-students/)
+- [21H-319_classroom-1 (.jpg)](https://ocw.mit.edu/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/resources/21h-319_classroom-1/)
+- [Related Resources](https://ocw.mit.edu/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/pages/related-resources/)
+- [Instructor Insights](https://ocw.mit.edu/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

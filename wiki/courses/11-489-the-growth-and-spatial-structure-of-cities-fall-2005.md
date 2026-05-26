@@ -12,6 +12,9 @@ views: 92
 completeness: 0.16000000000000003
 last_modified: "2026-05-06T17:11:50Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 8, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4336
 ---
 
 # The Growth and Spatial Structure of Cities
@@ -30,8 +33,26 @@ This course examines the economic, political, social, and spatial dynamics of ur
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/pages/readings/)
+
+### Problem-Set
+- [klingler_memo2.pdf (.pdf)](https://ocw.mit.edu/courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/resources/klingler_memo2/)
+- [klingler_fin_pap.pdf (.pdf)](https://ocw.mit.edu/courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/resources/klingler_fin_pap/)
+- [joo_memo2.pdf (.pdf)](https://ocw.mit.edu/courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/resources/joo_memo2/)
+- [joo_memo1.pdf (.pdf)](https://ocw.mit.edu/courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/resources/joo_memo1/)
+- [joo_finalpaper.pdf (.pdf)](https://ocw.mit.edu/courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/resources/joo_finalpaper/)
+- [icampbell_memo2.pdf (.pdf)](https://ocw.mit.edu/courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/resources/icampbell_memo2/)
+- [icampbell_memo1.pdf (.pdf)](https://ocw.mit.edu/courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/resources/icampbell_memo1/)
+- [Assignments](https://ocw.mit.edu/courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/pages/assignments/)
+
+### Resource
+- [11-489f05.jpg (.jpg)](https://ocw.mit.edu/courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/resources/11-489f05/)
+- [11-489f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/resources/11-489f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

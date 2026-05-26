@@ -12,6 +12,9 @@ views: 781
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T16:58:03Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 2, Resource: 2, Syllabus: 1"
+api_id: 5291
 ---
 
 # Commutative Algebra
@@ -30,8 +33,19 @@ In this course students will learn about Noetherian rings and modules, Hilbert b
 
 ## Materials
 
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-705-commutative-algebra-fall-2008/pages/syllabus/)
 
+### Reading-List
+- [Refined Noether Normalization Lemma (.pdf)](https://ocw.mit.edu/courses/18-705-commutative-algebra-fall-2008/resources/handoutnoeth/)
+- [Readings](https://ocw.mit.edu/courses/18-705-commutative-algebra-fall-2008/pages/readings/)
+
+### Problem-Set
+- [Assigned homework Problems (.pdf)](https://ocw.mit.edu/courses/18-705-commutative-algebra-fall-2008/resources/handoutprob/)
+- [Assignments](https://ocw.mit.edu/courses/18-705-commutative-algebra-fall-2008/pages/assignments/)
+
+### Resource
+- [The UMP of the residue class ring (.jpg)](https://ocw.mit.edu/courses/18-705-commutative-algebra-fall-2008/resources/18-705f08/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,8 @@ views: 410
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:03:34Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Syllabus: 1, Video-Transcript: 9"
 ---
 
 # Introduction to Copyright Law
@@ -30,8 +32,20 @@ This course is an introduction to copyright law and American law in general. Top
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
+### Lectures
+- **Lecture 1: Introduction** — [🎬](https://youtu.be/zqtx0gA5K2s) · [🔗](https://ocw.mit.edu/courses/6-912-introduction-to-copyright-law-january-iap-2006/video_galleries/video-lectures/)
+- **Lecture 2: LexisNexis and 1976 Copyright Act** — [🎬](https://youtu.be/g9UwqdMHjnM) · [🔗](https://ocw.mit.edu/courses/6-912-introduction-to-copyright-law-january-iap-2006/video_galleries/video-lectures/)
+- **Lecture 3: Copyright Applied to Music** — [🎬](https://youtu.be/X1npDVcp9wU) · [🔗](https://ocw.mit.edu/courses/6-912-introduction-to-copyright-law-january-iap-2006/video_galleries/video-lectures/)
+- **Lecture 4: Software Licensing** — [🎬](https://youtu.be/BkaJCbyyLEA) · [🔗](https://ocw.mit.edu/courses/6-912-introduction-to-copyright-law-january-iap-2006/video_galleries/video-lectures/)
 
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/6-912-introduction-to-copyright-law-january-iap-2006/pages/syllabus/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/6-912-introduction-to-copyright-law-january-iap-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/6-912-introduction-to-copyright-law-january-iap-2006/pages/assignments/)
 ## Wikipedia Bridge
 
 ### Related Articles

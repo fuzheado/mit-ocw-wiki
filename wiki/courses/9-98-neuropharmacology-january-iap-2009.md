@@ -12,6 +12,8 @@ views: 579
 completeness: 0.2416666666666667
 last_modified: "2026-05-06T17:03:52Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Syllabus: 1"
 ---
 
 # Neuropharmacology
@@ -31,8 +33,14 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/9-98-neuropharmacology-january-iap-2009/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/9-98-neuropharmacology-january-iap-2009/pages/lecture-notes/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/9-98-neuropharmacology-january-iap-2009/pages/exams/)
 ## Wikipedia Bridge
 
 ### Related Articles

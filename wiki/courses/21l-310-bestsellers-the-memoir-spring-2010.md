@@ -12,6 +12,9 @@ views: 132
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:54:31Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 3473
 ---
 
 # Bestsellers: The Memoir
@@ -31,8 +34,19 @@ As a “Sampling,” this class offers 6 units, with a strong emphasis on close 
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-310-bestsellers-the-memoir-spring-2010/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-310-bestsellers-the-memoir-spring-2010/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-310-bestsellers-the-memoir-spring-2010/pages/assignments/)
+
+### Resource
+- [Guidelines for In-Class Presentations (.pdf)](https://ocw.mit.edu/courses/21l-310-bestsellers-the-memoir-spring-2010/resources/mit21l_310s10_rr01/)
+- [Autobiography of Benjamin Franklin (.jpg)](https://ocw.mit.edu/courses/21l-310-bestsellers-the-memoir-spring-2010/resources/21l-310s10/)
+- [Related Resources](https://ocw.mit.edu/courses/21l-310-bestsellers-the-memoir-spring-2010/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

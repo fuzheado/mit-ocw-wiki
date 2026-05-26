@@ -12,6 +12,9 @@ views: 174
 completeness: 0.07833333333333334
 last_modified: "2026-05-06T17:18:43Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Lecture-Notes: 7, Problem-Set: 1, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 4137
 ---
 
 # Global Entrepreneurship Lab: Asia-Pacific
@@ -32,10 +35,34 @@ Special Features
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects] Projects
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010/pages/syllabus/)
+- **Teamwork and Match Process** — [🔗](https://ocw.mit.edu/courses/15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010/pages/projects/teamwork-and-match-process/)
 
+### Lecture-Notes
+- [MIT15_389AF10_lec23.pdf (.pdf)](https://ocw.mit.edu/courses/15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010/resources/mit15_389af10_lec23/)
+- [MIT15_389AF10_lec08.pdf (.pdf)](https://ocw.mit.edu/courses/15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010/resources/mit15_389af10_lec08/)
+- [MIT15_389AF10_lec04.pdf (.pdf)](https://ocw.mit.edu/courses/15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010/resources/mit15_389af10_lec04/)
+- [MIT15_389AF10_lec03.pdf (.pdf)](https://ocw.mit.edu/courses/15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010/resources/mit15_389af10_lec03/)
+- [MIT15_389AF10_lec02.pdf (.pdf)](https://ocw.mit.edu/courses/15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010/resources/mit15_389af10_lec02/)
+- [MIT15_389AF10_lec01.pdf (.pdf)](https://ocw.mit.edu/courses/15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010/resources/mit15_389af10_lec01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010/pages/projects/)
+
+### Resource
+- [MIT15_389AF10_rescasestudy.pdf (.pdf)](https://ocw.mit.edu/courses/15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010/resources/mit15_389af10_rescasestudy/)
+- [15-389af10.jpg (.jpg)](https://ocw.mit.edu/courses/15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010/resources/15-389af10/)
+- [15-389af10-th (.jpg)](https://ocw.mit.edu/courses/15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010/resources/15-389af10-th/)
+- [Related Resources](https://ocw.mit.edu/courses/15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

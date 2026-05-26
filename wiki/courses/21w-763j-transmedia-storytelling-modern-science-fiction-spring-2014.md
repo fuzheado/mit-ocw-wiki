@@ -12,6 +12,9 @@ views: 412
 completeness: 0.3166666666666667
 last_modified: "2026-05-06T14:50:52Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 14, Problem-Set: 25, Reading-List: 2, Resource: 6, Syllabus: 2, Video-Transcript: 3"
+api_id: 3338
 ---
 
 # Transmedia Storytelling: Modern Science Fiction
@@ -30,11 +33,59 @@ Transmedia narratives exist across multiple storytelling platforms, using the ad
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments with Examples] Presentation Assignments with Examples
-- [Projects with Examples] Projects with Examples
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/pages/calendar-and-readings/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/pages/syllabus/)
 
+### Lecture-Notes
+- [Session 9: Media Axis II - Sensory Information & Iconography (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_session_9/)
+- [Session 8: Media Axis - Information (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_session_8/)
+- [Session 7: What Makes it Speculative Fiction? (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_session_7/)
+- [Session 6: Building the Story (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_session_6/)
+- [Session 5: Building the Characters (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_session_5/)
+- [Session 3: Building the World (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_session_3/)
+- [Session 2: Science Fictions - The Genre and the Media (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_session_2/)
+- [Session 16: Fairy Tales, Folk Processes, and Fan Fic (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_session_16/)
+- [Session 15: Games & Immersive Experiences (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_session_15/)
+- [Session 14: Hunger Games - Book/Film/Digital Expansion in Real Life (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_session_14/)
+- [Session 12: Engaging the Audience for Repeat/Expansion Involvement (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_session_12/)
+- [Session 11: Media Axis III - Arc of Story (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_session_11/)
+- [Session 1: What is Transmedia? (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_session_1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/pages/lecture-notes/)
+
+### Problem-Set
+- [Project Helheim – Document 6 (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_projct_doc6/)
+- [Project Helheim – Document 5 (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_projct_doc5/)
+- [Project Helheim – Document 4 (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_projct_doc4/)
+- [Project Helheim – Document 3 (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_projct_doc3/)
+- [Project Helheim – Document 2 (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_projct_doc2/)
+- [Project Helheim – Document 1 (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_projct_doc1/)
+- [A Memoir of Helheim (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_mmoirhelhm/)
+- [Assignment 1 - First Expansion (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_frst_exp/)
+- [Typescript (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_dilonhndwrt/)
+- [Project Helheim Dialogue for Recording Script (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_dilguercrdng/)
+- [Assignment 2 - Critical Essay (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_crtcalesay/)
+- [Chuck Travels on His Stomach (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_chucktravel/)
+- [Project Helheim - Script 3 (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_blog_3/)
+- [Project Helheim - Script 2 (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_blog_2/)
+- [Project Helheim - Script 1 (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_blog_1/)
+- [MIT21W_763JS14_audio_recording.mp4 (.mp4) 📺Video](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_audio_recording/)
+- [MIT21W_763JS14_audio_recording.mp3 (.mp3)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_audio_recording-1/)
+- [Central Orbis - June 20, 2480 (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_6-20-2480/)
+- [Central Orbis - June 19, 2480 (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_6-19-2480/)
+- [Central Orbis - June 15, 2480 (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_6-15-2480/)
+- [Central Orbis - June 7, 2480 (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_6-07-2480/)
+- [Central Orbis - June 3, 2480 (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_6-03-2480/)
+- [Central Orbis - May 27, 2480 (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_5-27-2480/)
+- [Central Orbis - April 29, 2480 (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_4-29-2480/)
+- [Assignments and Student Work](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/pages/assignments-and-student-work/)
+
+### Resource
+- [Worldbuilding Worksheet (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_wrldbuildng/)
+- [Hunger Games Screening - Questions (.pdf)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/mit21w_763js14_hnger_gams/)
+- [21w-763js14.jpg (.jpg)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/21w-763js14/)
+- [21w-763js14-th.jpg (.jpg)](https://ocw.mit.edu/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/resources/21w-763js14-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 123
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T17:20:13Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 7, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 3446
 ---
 
 # Screen Women: Body Narratives in Popular American Film
@@ -32,10 +35,28 @@ This course is part of the Graduate Consortium in Women’s Studies. The GCWS at
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/pages/readings/)
+
+### Problem-Set
+- [The Phenomenal Woman: How Beauty Shop Redefines Postfeminism to Makes Space for Black Bodies (.pdf)](https://ocw.mit.edu/courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/resources/mitwgs_640s14_fnlpapr_hs/)
+- [Smells Like Teen Vomit: Abjection, Unruliness, and Genre in Black Swan and Jennifer's Body (.pdf)](https://ocw.mit.edu/courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/resources/mitwgs_640s14_finl_studt1/)
+- [Addressing Transphobia With Boys Don’t Cry (.pdf)](https://ocw.mit.edu/courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/resources/mitwgs_640s14_bysdntcry_hs/)
+- [Boys Don’t Cry Class Discussion Questions (.pdf)](https://ocw.mit.edu/courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/resources/mitwgs_640s14_bys_dscsn_qt/)
+- [Boys Don’t Cry Film Analysis (.pdf)](https://ocw.mit.edu/courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/resources/mitwgs_640s14_bdc_ppr_kd/)
+- [Angels in America: AIDS as an Epidemic of Signification (.pdf)](https://ocw.mit.edu/courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/resources/mitwgs_640s14_agls_amrica/)
+- [Assignments](https://ocw.mit.edu/courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/pages/assignments/)
+
+### Resource
+- [Dragon Tattoo (.jpg)](https://ocw.mit.edu/courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/resources/wgs-640s14/)
+- [Dragon Tattoo (thumbnail) (.jpg)](https://ocw.mit.edu/courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/resources/wgs-640s14-th/)
+- [WGS-640_stat-students (.png)](https://ocw.mit.edu/courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/resources/wgs-640_stat-students/)
+- [WGS-640_classroom-1 (.jpg)](https://ocw.mit.edu/courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/resources/wgs-640_classroom-1/)
+- [Instructor Insights](https://ocw.mit.edu/courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

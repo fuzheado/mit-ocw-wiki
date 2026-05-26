@@ -12,6 +12,9 @@ views: 211
 completeness: 0.16000000000000003
 last_modified: "2026-05-06T14:54:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 23, Syllabus: 2"
+api_id: 3798
 ---
 
 # Chinese IV (Streamlined)
@@ -30,9 +33,42 @@ This is the second semester of the intermediate level sequence intended for stud
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Demonstration Audio] Demonstration Audio
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/pages/readings/)
+
+### Problem-Set
+- [Microsoft Word - L-4 (.pdf)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/mit21g_110s04_l_4/)
+- [Microsoft Word - L-3 homework (.pdf)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/mit21g_110s04_l_3/)
+- [Microsoft Word - L-2 homework (.pdf)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/mit21g_110s04_l_2_j/)
+- [Microsoft Word - L-1 homework (.pdf)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/mit21g_110s04_l_1_homework/)
+- [Assignments](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/pages/assignments/)
+
+### Resource
+- [Microsoft Word - L-7 (.pdf)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/mit21g_110s04_lesson_7/)
+- [Microsoft Word - L-5 (.pdf)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/mit21g_110s04_lesson_5/)
+- [Microsoft Word - Lesson-4 (.pdf)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/mit21g_110s04_lesson_4/)
+- [Microsoft Word - Lesson-3 (.pdf)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/mit21g_110s04_lesson_3/)
+- [Microsoft Word - L-2 F (.pdf)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/mit21g_110s04_lesson_2f/)
+- [Microsoft Word - Lesson-2 (.pdf)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/mit21g_110s04_lesson_2/)
+- [Microsoft Word - Lesson-1 (.pdf)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/mit21g_110s04_lesson_1/)
+- [Microsoft Word - L-3 (.pdf)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/mit21g_110s04_l3/)
+- [Microsoft Word - L-2 (.pdf)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/mit21g_110s04_l2/)
+- [Microsoft Word - L-1 cihui (.pdf)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/mit21g_110s04_l1_cihui/)
+- [Lesson7.mp3 (.mp3)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/lesson7/)
+- [Lesson5.mp3 (.mp3)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/lesson5/)
+- [Lesson4.mp3 (.mp3)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/lesson4/)
+- [Lesson3b.mp3 (.mp3)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/lesson3b/)
+- [Lesson3a.mp3 (.mp3)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/lesson3a/)
+- [Lesson2b.mp3 (.mp3)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/lesson2b/)
+- [Lesson2a.mp3 (.mp3)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/lesson2a/)
+- [Lesson1.mp3 (.mp3)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/lesson1/)
+- [21g-110s04.jpg (.jpg)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/21g-110s04/)
+- [21g-110s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/resources/21g-110s04-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21g-110-chinese-iv-streamlined-spring-2004/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

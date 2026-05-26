@@ -12,6 +12,9 @@ views: 483
 completeness: 0.38
 last_modified: "2026-05-06T17:13:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 17, Problem-Set: 11, Resource: 8, Syllabus: 2"
+api_id: 4697
 ---
 
 # Sailing Yacht Design (13.734)
@@ -32,9 +35,49 @@ This course was originally offered in Course 13 (Department of Ocean Engineering
 
 ## Materials
 
-- [Exams] Exams
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/pages/syllabus/)
 
+### Problem-Set
+- [reading_assign.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/reading_assign/)
+- [quiz.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/quiz/)
+- [pset_4.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/pset_4/)
+- [ps_3.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/ps_3/)
+- [ps_2.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/ps_2/)
+- [ps_1.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/ps_1/)
+- [ps3_boat_offset.xls (.xls)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/ps3_boat_offset/)
+- [ps1_addendum_sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/ps1_addendum_sol/)
+- [hydrostat_reading.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/hydrostat_reading/)
+- [Exams](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/pages/assignments/)
+
+### Assignment
+- [small_4.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/small_4/)
+- [small_3.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/small_3/)
+- [small_2.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/small_2/)
+- [small_1.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/small_1/)
+- [preldesignpar.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/preldesignpar/)
+- [manneville_5.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/manneville_5/)
+- [manneville_4.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/manneville_4/)
+- [manneville_3.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/manneville_3/)
+- [manneville_2.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/manneville_2/)
+- [manneville_1.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/manneville_1/)
+- [cairoli_6.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/cairoli_6/)
+- [cairoli_5.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/cairoli_5/)
+- [cairoli_4.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/cairoli_4/)
+- [cairoli_3.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/cairoli_3/)
+- [cairoli_2.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/cairoli_2/)
+- [cairoli_1.pdf (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/cairoli_1/)
+- [Projects](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/pages/projects/)
+
+### Resource
+- [An Overview of the SCRIMP™  Technology   (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/scrimp_overview/)
+- [General Links (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/links/)
+- [International Measurement  System (.pdf)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/ims_rule_book/)
+- [2-996f03.jpg (.jpg)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/2-996f03/)
+- [2-996f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/resources/2-996f03-th/)
+- [Study Materials](https://ocw.mit.edu/courses/2-996-sailing-yacht-design-13-734-fall-2003/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

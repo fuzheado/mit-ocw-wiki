@@ -12,6 +12,9 @@ views: 300
 completeness: 0.0
 last_modified: "2026-05-06T17:00:32Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 4077
 ---
 
 # Becoming a More Equitable Educator: Mindsets and Practices
@@ -33,8 +36,9 @@ This course is part of the&nbsp;Open Learning Library, which is free to use. You
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [RES-CMS-503S20.jpg (.jpg)](https://ocw.mit.edu/courses/res-cms-503-becoming-a-more-equitable-educator-mindsets-and-practices-spring-2020/resources/res-cms-503s20/)
+- [RES-CMS-503S20-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-cms-503-becoming-a-more-equitable-educator-mindsets-and-practices-spring-2020/resources/res-cms-503s20-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

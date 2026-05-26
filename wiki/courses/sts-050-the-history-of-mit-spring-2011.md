@@ -12,6 +12,9 @@ views: 217
 completeness: 0.2666666666666667
 last_modified: "2026-05-06T14:55:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 4, Reading-List: 1, Resource: 3, Syllabus: 1, Video-Transcript: 14"
+api_id: 4716
 ---
 
 # The History of MIT
@@ -30,9 +33,22 @@ This course examines the history of MIT through the lens of the broader history 
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Written Assignments] Written Assignments
+### Lectures
+- **Guidelines for Preparing Scholarly Essays** — [🔗](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2011/pages/assignments/essay_guidelines/)
+- **Lecture Videos** — [🔗](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2011/pages/lecture-videos/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2011/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2011/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2011/pages/assignments/assignments/)
+- [First Writing Assignment](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2011/pages/assignments/first-writing-assignment/)
+- [Final Writing Assignment](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2011/pages/assignments/final-writing-assignment/)
+
+### Resource
+- [Disney or MIT? (.jpg)](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2011/resources/sts-050s11/)
+- [Cropped image of The Stata Center at MIT (.jpg)](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2011/resources/sts-050s11-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

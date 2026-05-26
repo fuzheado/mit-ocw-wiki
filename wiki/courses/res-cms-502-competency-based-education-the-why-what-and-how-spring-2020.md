@@ -12,6 +12,9 @@ views: 313
 completeness: 0.0
 last_modified: "2026-05-06T15:01:38Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 4420
 ---
 
 # Competency-Based Education: The Why, What, and How
@@ -32,9 +35,9 @@ This course is part of the Open Learning Library, which is free to use.&nbsp;You
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Lecture Videos] Lecture Videos
-
+### Resource
+- [res-cms-502s20.jpeg (.jpeg)](https://ocw.mit.edu/courses/res-cms-502-competency-based-education-the-why-what-and-how-spring-2020/resources/res-cms-502s20/)
+- [res-cms-502s20-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-cms-502-competency-based-education-the-why-what-and-how-spring-2020/resources/res-cms-502s20-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

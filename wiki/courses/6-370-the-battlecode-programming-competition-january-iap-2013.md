@@ -12,6 +12,8 @@ views: 2077
 completeness: 0.13333333333333333
 last_modified: "2026-05-06T16:57:16Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 3, Syllabus: 2, Video-Transcript: 17"
 ---
 
 # The Battlecode Programming Competition
@@ -31,8 +33,24 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
+### Lectures
+- **Lecture 1: Introduction to Battlecode** — [🎬](https://youtu.be/BLExWo9Empk) · [🔗](https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/video_galleries/lecture-videos/)
+- **Lecture 2: Writing Your First Player** — [🎬](https://youtu.be/Fl6fKzon8LI) · [🔗](https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/video_galleries/lecture-videos/)
+- **Lecture 3: Navigation** — [🎬](https://youtu.be/PA3bcu83j38) · [🔗](https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/video_galleries/lecture-videos/)
+- **Lecture 4: Git Repository** — [🎬](https://youtu.be/g2NoQCEgsCM) · [🔗](https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/video_galleries/lecture-videos/)
+- **Lecture 5: Swarms, Artillery, and Mines** — [🎬](https://youtu.be/dEXo0QyA-Rs) · [🔗](https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/video_galleries/lecture-videos/)
+- **Lecture 6: Numerical Strategy** — [🎬](https://youtu.be/tbsYFzmk_24) · [🔗](https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/video_galleries/lecture-videos/)
+- **Lecture 7: The Lost Lecture** — [🎬](https://youtu.be/pISCwkvKMZ0) · [🔗](https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/video_galleries/lecture-videos/)
+- **Lecture 8: Lessons from the Sprint Tournament** — [🎬](https://youtu.be/3j3Odfpvhrs) · [🔗](https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/video_galleries/lecture-videos/)
 
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/pages/calendar/)
+
+### Resource
+- [Specs and Software](https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/pages/specs-and-software/specs-and-software/)
+- [Battlecode 2013 Gameplay Specs](https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/pages/specs-and-software/battlecode-2013-gameplay-specs/)
+- [Battlecode 2013 Software](https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/pages/specs-and-software/battlecode-2013-software/)
 ## Wikipedia Bridge
 
 ### Related Articles

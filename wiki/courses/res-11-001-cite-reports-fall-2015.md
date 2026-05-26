@@ -12,6 +12,9 @@ views: 152
 completeness: 0.0
 last_modified: "2026-05-06T14:44:00Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Resource: 3"
+api_id: 5377
 ---
 
 # CITE Reports
@@ -30,8 +33,12 @@ Created in 2012 at the Massachusetts Institute of Technology, the Comprehensive 
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **CITE Reports** — [🔗](https://ocw.mit.edu/courses/res-11-001-cite-reports-fall-2015/pages/cite-reports/)
 
+### Resource
+- [res-11-001f15.jpg (.jpg)](https://ocw.mit.edu/courses/res-11-001-cite-reports-fall-2015/resources/res-11-001f15/)
+- [res-11-001f15-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-11-001-cite-reports-fall-2015/resources/res-11-001f15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

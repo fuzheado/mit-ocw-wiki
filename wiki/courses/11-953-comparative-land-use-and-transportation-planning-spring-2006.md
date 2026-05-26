@@ -12,6 +12,9 @@ views: 393
 completeness: 0.23166666666666666
 last_modified: "2026-05-06T17:19:43Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 11, Problem-Set: 7, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5715
 ---
 
 # Comparative Land Use and Transportation Planning
@@ -30,9 +33,38 @@ This course focuses on the land use-transportation “interaction space” in me
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [mmurga_lect25.pdf (.pdf)](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/resources/mmurga_lect25/)
+- [lect6.pdf (.pdf)](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/resources/lect6/)
+- [lect5.pdf (.pdf)](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/resources/lect5/)
+- [lect4.pdf (.pdf)](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/resources/lect4/)
+- [lect3.pdf (.pdf)](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/resources/lect3/)
+- [lect24.pdf (.pdf)](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/resources/lect24/)
+- [lect23.pdf (.pdf)](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/resources/lect23/)
+- [lect2.pdf (.pdf)](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/resources/lect2/)
+- [lect13.pdf (.pdf)](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/resources/lect13/)
+- [cporter_lect22.pdf (.pdf)](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/resources/cporter_lect22/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/pages/readings/)
+
+### Problem-Set
+- [intro_assn.pdf (.pdf)](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/resources/intro_assn/)
+- [assn6.pdf (.pdf)](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/resources/assn6/)
+- [assn5.pdf (.pdf)](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/resources/assn5/)
+- [assn4.pdf (.pdf)](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/resources/assn4/)
+- [assn2.pdf (.pdf)](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/resources/assn2/)
+- [assn1.pdf (.pdf)](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/resources/assn1/)
+- [Assignments](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/pages/assignments/)
+
+### Resource
+- [11-953s06.jpg (.jpg)](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/resources/11-953s06/)
+- [11-953s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/resources/11-953s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

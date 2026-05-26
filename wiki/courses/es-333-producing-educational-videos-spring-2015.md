@@ -12,6 +12,9 @@ views: 579
 completeness: 0.12
 last_modified: "2026-05-06T17:17:23Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 6, Resource: 10, Syllabus: 2, Video-Transcript: 8"
+api_id: 5457
 ---
 
 # Producing Educational Videos
@@ -30,10 +33,26 @@ Production of Educational Videos is an introduction to technical communication t
 
 ## Materials
 
-- [Media Assignments] Media Assignments
-- [Projects with Examples] Projects with Examples
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/es-333-producing-educational-videos-spring-2015/pages/calendar/)
+- **Final Video** — [🔗](https://ocw.mit.edu/courses/es-333-producing-educational-videos-spring-2015/pages/assignments/final-video/)
+- **Hairy Arm Video** — [🔗](https://ocw.mit.edu/courses/es-333-producing-educational-videos-spring-2015/pages/assignments/hairy-arm-video/)
+- **Lie Video** — [🔗](https://ocw.mit.edu/courses/es-333-producing-educational-videos-spring-2015/pages/assignments/lie-video/)
+- **Lifestream Video** — [🔗](https://ocw.mit.edu/courses/es-333-producing-educational-videos-spring-2015/pages/assignments/lifestream-video/)
+- **Reflections** — [🔗](https://ocw.mit.edu/courses/es-333-producing-educational-videos-spring-2015/pages/assignments/reflections/)
+- **Student Projects** — [🔗](https://ocw.mit.edu/courses/es-333-producing-educational-videos-spring-2015/pages/student-projects/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/es-333-producing-educational-videos-spring-2015/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/es-333-producing-educational-videos-spring-2015/pages/assignments/)
+
+### Resource
+- [Proposal Rating Table (.pdf)](https://ocw.mit.edu/courses/es-333-producing-educational-videos-spring-2015/resources/mites_333s15_propsl-ratng/)
+- [Timeline & Task List Template (.pdf)](https://ocw.mit.edu/courses/es-333-producing-educational-videos-spring-2015/resources/mites_333s15_project-plan/)
+- [Peer Review Form (.pdf)](https://ocw.mit.edu/courses/es-333-producing-educational-videos-spring-2015/resources/mites_333s15_peer-review/)
+- [Idea Selection Table (.pdf)](https://ocw.mit.edu/courses/es-333-producing-educational-videos-spring-2015/resources/mites_333s15_idea-selectn/)
+- [Workflow from an ES.333 sample video (.jpg)](https://ocw.mit.edu/courses/es-333-producing-educational-videos-spring-2015/resources/es-333s15/)
+- [Workflow from an ES.333 sample video (thumbnail) (.jpg)](https://ocw.mit.edu/courses/es-333-producing-educational-videos-spring-2015/resources/es-333s15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

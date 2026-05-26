@@ -12,6 +12,8 @@ views: 3585
 completeness: 0.06666666666666667
 last_modified: "2026-05-06T17:22:33Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Resource: 7, Syllabus: 1, Video-Transcript: 14"
 ---
 
 # Introduction to C and C++
@@ -31,11 +33,21 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
-- [Programming Assignments with Examples] Programming Assignments with Examples
-- [Projects] Projects
+### Syllabus
+- [Syllabus and Software](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/pages/syllabus/)
 
+### Problem-Set
+- [Lectures and Assignments](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/pages/lectures-and-assignments/)
+- [Final Project](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/pages/final-project/final-project/)
+
+### Resource
+- [Compilation Pipeline](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/pages/lectures-and-assignments/compilation-pipeline/)
+- [Core C: Control Structures, Variables, Scope, and Uninitialized Memory](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/pages/lectures-and-assignments/core-c-control-structures-variables-scope-and-uninitialized-memory/)
+- [C Memory Management](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/pages/lectures-and-assignments/c-memory-management/)
+- [Data Structures, Debugging](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/pages/lectures-and-assignments/data-structures-debugging/)
+- [C&#43;&#43; Introduction, Classes, and Templates](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/pages/lectures-and-assignments/c-introduction-classes-and-templates/)
+- [C&#43;&#43; Inheritance](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/pages/lectures-and-assignments/c-inheritance/)
+- [Starter Kit](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/pages/final-project/starter-kit/)
 ## Wikipedia Bridge
 
 ### Related Articles

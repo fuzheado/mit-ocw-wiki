@@ -12,6 +12,9 @@ views: 444
 completeness: 0.325
 last_modified: "2026-05-06T16:53:28Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 9, Lecture-Notes: 16, Problem-Set: 4, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 8"
+api_id: 5413
 ---
 
 # Computer Language Engineering (SMA 5502)
@@ -31,10 +34,52 @@ This course was also taught as part of the Singapore-MIT Alliance (SMA) programm
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [9_unoptimized.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/9_unoptimized/)
+- [8_topdownparsing.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/8_topdownparsing/)
+- [7_semantic_check.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/7_semantic_check/)
+- [6_parsetable.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/6_parsetable/)
+- [5shiftreducepars.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/5shiftreducepars/)
+- [4regexp_grammars.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/4regexp_grammars/)
+- [3_intrmdatefrmts.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/3_intrmdatefrmts/)
+- [2scanerparsr_prj.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/2scanerparsr_prj/)
+- [1_introduction.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/1_introduction/)
+- [14_wrapup.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/14_wrapup/)
+- [13_registeralloc.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/13_registeralloc/)
+- [12listscheduling.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/12listscheduling/)
+- [11dataflowanlys.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/11dataflowanlys/)
+- [10anlystrnsfrmn2.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/10anlystrnsfrmn2/)
+- [10_anlystrnsfrmn.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/10_anlystrnsfrmn/)
+- [Lecture Notes 📺Video](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/video_galleries/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/pages/readings/)
+
+### Problem-Set
+- [practice_quiz3.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/practice_quiz3/)
+- [practice_quiz2.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/practice_quiz2/)
+- [practice_quiz1.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/practice_quiz1/)
+- [Exams](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/pages/exams/)
+
+### Assignment
+- [x86_64_guide.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/x86_64_guide/)
+- [semantics_proj.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/semantics_proj/)
+- [scannerparser_pr.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/scannerparser_pr/)
+- [project_overview.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/project_overview/)
+- [lowlevel_project.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/lowlevel_project/)
+- [decaf_spec.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/decaf_spec/)
+- [dataflow_project.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/dataflow_project/)
+- [codegen_project.pdf (.pdf)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/codegen_project/)
+- [Projects](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/pages/projects/)
+
+### Resource
+- [6-035f05.jpg (.jpg)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/6-035f05/)
+- [6-035f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/resources/6-035f05-th/)
+- [Related Resources](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

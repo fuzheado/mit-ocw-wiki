@@ -12,6 +12,9 @@ views: 93
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:01:49Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3316
 ---
 
 # Social Movements in Comparative Perspective
@@ -30,8 +33,19 @@ This course seeks to provide students with a general understanding of the form o
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-509-social-movements-in-comparative-perspective-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-509-social-movements-in-comparative-perspective-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-509-social-movements-in-comparative-perspective-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-509-social-movements-in-comparative-perspective-spring-2005/pages/assignments/)
+
+### Resource
+- [March on Washington for Jobs and Freedom (.jpg)](https://ocw.mit.edu/courses/17-509-social-movements-in-comparative-perspective-spring-2005/resources/17-509s05/)
+- [March on Washington for Jobs and Freedom (thumbnail) (.jpg)](https://ocw.mit.edu/courses/17-509-social-movements-in-comparative-perspective-spring-2005/resources/17-509s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

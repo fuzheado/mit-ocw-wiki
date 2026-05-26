@@ -12,6 +12,9 @@ views: 120
 completeness: 0.0
 last_modified: "2026-05-06T14:55:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 4294
 ---
 
 # Sorting Truth From Fiction: Civic Online Reasoning
@@ -32,8 +35,9 @@ This course is part of the Open Learning Library, which is free to use. You have
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [res-cms504s21.png (.png)](https://ocw.mit.edu/courses/res-cms-504-sorting-truth-from-fiction-civic-online-reasoning-spring-2021/resources/res-cms504s21/)
+- [res-cms504s21-th.png (.png)](https://ocw.mit.edu/courses/res-cms-504-sorting-truth-from-fiction-civic-online-reasoning-spring-2021/resources/res-cms504s21-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

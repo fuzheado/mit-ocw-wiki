@@ -12,6 +12,9 @@ views: 309
 completeness: 0.1
 last_modified: "2026-05-06T17:24:09Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 3, Syllabus: 1, Video-Transcript: 1"
+api_id: 4743
 ---
 
 # Writing About Literature
@@ -30,8 +33,22 @@ Students, scholars, bloggers, reviewers, fans, and book-group members write abou
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-fall-2010/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-fall-2010/pages/readings/)
+
+### Problem-Set
+- [Revision Workshop Worksheet (.pdf)](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-fall-2010/resources/mit21l_000jf10_assn04/)
+- [Guidelines for Revision (.pdf)](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-fall-2010/resources/mit21l_000jf10_assn03/)
+- [Report Guidelines (.pdf)](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-fall-2010/resources/mit21l_000jf10_assn02/)
+- [Notes on Close Reading (.pdf)](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-fall-2010/resources/mit21l_000jf10_assn01/)
+- [Assignments](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-fall-2010/pages/assignments/)
+
+### Resource
+- [Portrait of Mary Shelley by Richard Rothwell (.jpg)](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-fall-2010/resources/21l-000jf10/)
+- [Related Resources](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-fall-2010/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

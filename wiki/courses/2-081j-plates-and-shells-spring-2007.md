@@ -12,6 +12,9 @@ views: 454
 completeness: 0.32
 last_modified: "2026-05-06T17:12:49Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 9, Reading-List: 3, Resource: 4, Syllabus: 1"
+api_id: 3938
 ---
 
 # Plates and Shells
@@ -30,9 +33,29 @@ This course explores the following topics: derivation of elastic and plastic str
 
 ## Materials
 
-- [Exams] Exams
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-081j-plates-and-shells-spring-2007/pages/syllabus/)
 
+### Reading-List
+- [lecturenote.pdf (.pdf)](https://ocw.mit.edu/courses/2-081j-plates-and-shells-spring-2007/resources/lecturenote/)
+- [analysis.pdf (.pdf)](https://ocw.mit.edu/courses/2-081j-plates-and-shells-spring-2007/resources/analysis/)
+- [Readings](https://ocw.mit.edu/courses/2-081j-plates-and-shells-spring-2007/pages/readings/)
+
+### Problem-Set
+- [self_quiz.pdf (.pdf)](https://ocw.mit.edu/courses/2-081j-plates-and-shells-spring-2007/resources/self_quiz/)
+- [homework5.pdf (.pdf)](https://ocw.mit.edu/courses/2-081j-plates-and-shells-spring-2007/resources/homework5/)
+- [homework4.pdf (.pdf)](https://ocw.mit.edu/courses/2-081j-plates-and-shells-spring-2007/resources/homework4/)
+- [homework3.pdf (.pdf)](https://ocw.mit.edu/courses/2-081j-plates-and-shells-spring-2007/resources/homework3/)
+- [homework2.pdf (.pdf)](https://ocw.mit.edu/courses/2-081j-plates-and-shells-spring-2007/resources/homework2/)
+- [homework1.pdf (.pdf)](https://ocw.mit.edu/courses/2-081j-plates-and-shells-spring-2007/resources/homework1/)
+- [final_quiz.pdf (.pdf)](https://ocw.mit.edu/courses/2-081j-plates-and-shells-spring-2007/resources/final_quiz/)
+- [Exams](https://ocw.mit.edu/courses/2-081j-plates-and-shells-spring-2007/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/2-081j-plates-and-shells-spring-2007/pages/assignments/)
+
+### Resource
+- [chp_plat_bucklng.jpg (.jpg)](https://ocw.mit.edu/courses/2-081j-plates-and-shells-spring-2007/resources/chp_plat_bucklng/)
+- [2-081js07.jpg (.jpg)](https://ocw.mit.edu/courses/2-081j-plates-and-shells-spring-2007/resources/2-081js07/)
+- [2-081js07-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-081j-plates-and-shells-spring-2007/resources/2-081js07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 242
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T17:19:24Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 4, Resource: 9, Syllabus: 2"
+api_id: 4781
 ---
 
 # Media Technology and City Design and Development
@@ -32,8 +35,24 @@ We will explore these themes in the context of Camfield Estates in Lower Roxbury
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-fall-2002/pages/syllabus/)
+- **Tutorials** — [🔗](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-fall-2002/pages/tutorials/)
 
+### Problem-Set
+- [Products (.pdf)](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-fall-2002/resources/products/)
+- [Journal (.pdf)](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-fall-2002/resources/journal/)
+- [Background (.pdf)](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-fall-2002/resources/background/)
+- [Assignments](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-fall-2002/pages/assignments/)
+
+### Resource
+- [Transitions, Zooms and Pans, Text, Music (.pdf)](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-fall-2002/resources/premiere2/)
+- [Bringing Your Files into Premiere and Creating a Basic Edit  (.pdf)](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-fall-2002/resources/premiere1/)
+- [A brief intro to Photoshop (.pdf)](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-fall-2002/resources/photoshoptutorial/)
+- [Before you start using Premiere (.pdf)](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-fall-2002/resources/beforeyoustartusingpremiere/)
+- [Students Presenting to the Community (.jpg)](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-fall-2002/resources/11-310jf02/)
+- [Students Presenting to the Community (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-fall-2002/resources/11-310jf02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

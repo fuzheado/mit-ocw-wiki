@@ -12,6 +12,9 @@ views: 127
 completeness: 0.2
 last_modified: "2026-05-06T17:08:03Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 3, Problem-Set: 10, Resource: 4, Syllabus: 2"
+api_id: 4663
 ---
 
 # Architectural Design, Level II: Material Essence: The Glass House
@@ -30,9 +33,30 @@ The theme that unites the Level II studios in the fall semester is a focus upon 
 
 ## Materials
 
-- [Design Assignments] Design Assignments
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/pages/syllabus/)
 
+### Problem-Set
+- [thomisleassn.pdf (.pdf)](https://ocw.mit.edu/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/resources/thomisleassn/)
+- [program.pdf (.pdf)](https://ocw.mit.edu/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/resources/program/)
+- [fortworthassign.pdf (.pdf)](https://ocw.mit.edu/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/resources/fortworthassign/)
+- [finalreview.pdf (.pdf)](https://ocw.mit.edu/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/resources/finalreview/)
+- [assn5.pdf (.pdf)](https://ocw.mit.edu/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/resources/assn5/)
+- [assn4.pdf (.pdf)](https://ocw.mit.edu/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/resources/assn4/)
+- [assn3.pdf (.pdf)](https://ocw.mit.edu/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/resources/assn3/)
+- [assn2.pdf (.pdf)](https://ocw.mit.edu/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/resources/assn2/)
+- [assn1.pdf (.pdf)](https://ocw.mit.edu/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/resources/assn1/)
+- [Assignments](https://ocw.mit.edu/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/pages/assignments/)
+
+### Assignment
+- [thomisle.pdf (.pdf)](https://ocw.mit.edu/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/resources/thomisle/)
+- [final.pdf (.pdf)](https://ocw.mit.edu/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/resources/final/)
+- [Projects](https://ocw.mit.edu/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/pages/projects/)
+
+### Resource
+- [4-131f03.jpg (.jpg)](https://ocw.mit.edu/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/resources/4-131f03/)
+- [4-131f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/resources/4-131f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

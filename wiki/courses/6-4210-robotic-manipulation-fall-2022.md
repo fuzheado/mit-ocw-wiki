@@ -12,6 +12,9 @@ views: 1483
 completeness: 0.0
 last_modified: "2026-05-06T17:08:39Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 4410
 ---
 
 # Robotic Manipulation
@@ -31,9 +34,9 @@ Homework assignments will guide students through building a software stack that 
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Open Textbooks] Open Textbooks
-
+### Resource
+- [6-4210f22.jpeg (.jpeg)](https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/resources/6-4210f22/)
+- [6-4210f22-th.jpeg (.jpeg)](https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/resources/6-4210f22-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

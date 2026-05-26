@@ -12,6 +12,9 @@ views: 114
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:23:58Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4288
 ---
 
 # The Neural Basis of Visual Object Recognition in Monkeys and Humans
@@ -30,8 +33,20 @@ Understanding the brain’s remarkable ability for visual object recognition is 
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-916-the-neural-basis-of-visual-object-recognition-in-monkeys-and-humans-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-916-the-neural-basis-of-visual-object-recognition-in-monkeys-and-humans-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-916-the-neural-basis-of-visual-object-recognition-in-monkeys-and-humans-spring-2005/pages/readings/)
+
+### Problem-Set
+- [How to give a Paper Presentation (.pdf)](https://ocw.mit.edu/courses/9-916-the-neural-basis-of-visual-object-recognition-in-monkeys-and-humans-spring-2005/resources/how_to_pres_pap/)
+- [Assignments](https://ocw.mit.edu/courses/9-916-the-neural-basis-of-visual-object-recognition-in-monkeys-and-humans-spring-2005/pages/assignments/)
+
+### Resource
+- [fMRI Scan (.jpg)](https://ocw.mit.edu/courses/9-916-the-neural-basis-of-visual-object-recognition-in-monkeys-and-humans-spring-2005/resources/9-916s05/)
+- [fMRI Scan (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-916-the-neural-basis-of-visual-object-recognition-in-monkeys-and-humans-spring-2005/resources/9-916s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

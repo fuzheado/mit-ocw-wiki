@@ -12,6 +12,9 @@ views: 217
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:42:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 3917
 ---
 
 # Nationalism, Internationalism, and Globalism in Modern Art
@@ -30,9 +33,20 @@ This course studies how international modernism interacted with the concept of �
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-671-nationalism-internationalism-and-globalism-in-modern-art-spring-2016/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-671-nationalism-internationalism-and-globalism-in-modern-art-spring-2016/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-671-nationalism-internationalism-and-globalism-in-modern-art-spring-2016/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/4-671-nationalism-internationalism-and-globalism-in-modern-art-spring-2016/pages/assignments/)
+
+### Resource
+- [Tower of the Sun (.jpg)](https://ocw.mit.edu/courses/4-671-nationalism-internationalism-and-globalism-in-modern-art-spring-2016/resources/4-671s16/)
+- [Tower of the Sun (thumbnail) (.jpg)](https://ocw.mit.edu/courses/4-671-nationalism-internationalism-and-globalism-in-modern-art-spring-2016/resources/4-671s16-th/)
+- [Related Resources](https://ocw.mit.edu/courses/4-671-nationalism-internationalism-and-globalism-in-modern-art-spring-2016/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

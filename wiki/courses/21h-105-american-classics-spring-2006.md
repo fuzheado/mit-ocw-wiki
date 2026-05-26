@@ -12,6 +12,9 @@ views: 330
 completeness: 0.06
 last_modified: "2026-05-06T14:42:44Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 14, Syllabus: 1"
+api_id: 5414
 ---
 
 # American Classics
@@ -30,8 +33,31 @@ This subject is devoted to reading and discussing basic American historical text
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-105-american-classics-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-105-american-classics-spring-2006/pages/readings/)
+
+### Problem-Set
+- [zgazak_105_brady.pdf (.pdf)](https://ocw.mit.edu/courses/21h-105-american-classics-spring-2006/resources/zgazak_105_brady/)
+- [paper_topics.pdf (.pdf)](https://ocw.mit.edu/courses/21h-105-american-classics-spring-2006/resources/paper_topics/)
+- [Assignments](https://ocw.mit.edu/courses/21h-105-american-classics-spring-2006/pages/assignments/)
+
+### Resource
+- [reference_guide.pdf (.pdf)](https://ocw.mit.edu/courses/21h-105-american-classics-spring-2006/resources/reference_guide/)
+- [MIT21H_105s06_sylls11.pdf (.pdf)](https://ocw.mit.edu/courses/21h-105-american-classics-spring-2006/resources/mit21h_105s06_sylls11/)
+- [MIT21H_105S06_syllS10.pdf (.pdf)](https://ocw.mit.edu/courses/21h-105-american-classics-spring-2006/resources/mit21h_105s06_sylls10/)
+- [MIT21H_105s06_sylls09.pdf (.pdf)](https://ocw.mit.edu/courses/21h-105-american-classics-spring-2006/resources/mit21h_105s06_sylls09/)
+- [MIT21H_105s06_sylls07.pdf (.pdf)](https://ocw.mit.edu/courses/21h-105-american-classics-spring-2006/resources/mit21h_105s06_sylls07/)
+- [MIT21H_105s06_sylls06.pdf (.pdf)](https://ocw.mit.edu/courses/21h-105-american-classics-spring-2006/resources/mit21h_105s06_sylls06/)
+- [MIT21H_105s06_sylls05.pdf (.pdf)](https://ocw.mit.edu/courses/21h-105-american-classics-spring-2006/resources/mit21h_105s06_sylls05/)
+- [MIT21H_105s06_syllf02.pdf (.pdf)](https://ocw.mit.edu/courses/21h-105-american-classics-spring-2006/resources/mit21h_105s06_syllf02/)
+- [madison_guide.pdf (.pdf)](https://ocw.mit.edu/courses/21h-105-american-classics-spring-2006/resources/madison_guide/)
+- [21h-105s06.jpg (.jpg)](https://ocw.mit.edu/courses/21h-105-american-classics-spring-2006/resources/21h-105s06/)
+- [21h-105s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/21h-105-american-classics-spring-2006/resources/21h-105s06-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21h-105-american-classics-spring-2006/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/21h-105-american-classics-spring-2006/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

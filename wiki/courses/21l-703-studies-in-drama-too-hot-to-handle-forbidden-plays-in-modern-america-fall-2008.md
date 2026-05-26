@@ -12,6 +12,9 @@ views: 138
 completeness: 0.1
 last_modified: "2026-05-06T15:02:13Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 2, Syllabus: 1, Video-Transcript: 1"
+api_id: 4118
 ---
 
 # Studies in Drama: Too Hot to Handle: Forbidden Plays in Modern America
@@ -30,9 +33,20 @@ Unlike film, theater in America does not have a ratings board that censors conte
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-703-studies-in-drama-too-hot-to-handle-forbidden-plays-in-modern-america-fall-2008/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-703-studies-in-drama-too-hot-to-handle-forbidden-plays-in-modern-america-fall-2008/pages/readings/)
+
+### Problem-Set
+- [Mrs. Warren’s Profession Close Reading Revision (.pdf)](https://ocw.mit.edu/courses/21l-703-studies-in-drama-too-hot-to-handle-forbidden-plays-in-modern-america-fall-2008/resources/warencl_readrev/)
+- [Reactions to Corpus Christi as a Barometer of Predispositions and Internalization (.pdf)](https://ocw.mit.edu/courses/21l-703-studies-in-drama-too-hot-to-handle-forbidden-plays-in-modern-america-fall-2008/resources/researchpaper/)
+- [The Children’s Hour Response (.pdf)](https://ocw.mit.edu/courses/21l-703-studies-in-drama-too-hot-to-handle-forbidden-plays-in-modern-america-fall-2008/resources/childrenshour/)
+- [Assignments](https://ocw.mit.edu/courses/21l-703-studies-in-drama-too-hot-to-handle-forbidden-plays-in-modern-america-fall-2008/pages/assignments/)
+
+### Resource
+- [An image depicting a sensuous scene from a modern American play (.jpg)](https://ocw.mit.edu/courses/21l-703-studies-in-drama-too-hot-to-handle-forbidden-plays-in-modern-america-fall-2008/resources/21l-703f08/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 1013
 completeness: 0.1
 last_modified: "2026-05-06T16:52:11Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 6, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 5594
 ---
 
 # History of Media and Technology
@@ -30,8 +33,23 @@ History of Media and Technology addresses the mutually influential histories of 
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/cms-876-history-of-media-and-technology-spring-2005/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/cms-876-history-of-media-and-technology-spring-2005/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/cms-876-history-of-media-and-technology-spring-2005/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/cms-876-history-of-media-and-technology-spring-2005/pages/syllabus/)
 
+### Problem-Set
+- [cms876finalproj.pdf (.pdf)](https://ocw.mit.edu/courses/cms-876-history-of-media-and-technology-spring-2005/resources/cms876finalproj/)
+- [cms876assign_4.pdf (.pdf)](https://ocw.mit.edu/courses/cms-876-history-of-media-and-technology-spring-2005/resources/cms876assign_4/)
+- [cms876assign_3.pdf (.pdf)](https://ocw.mit.edu/courses/cms-876-history-of-media-and-technology-spring-2005/resources/cms876assign_3/)
+- [cms876assign_2.pdf (.pdf)](https://ocw.mit.edu/courses/cms-876-history-of-media-and-technology-spring-2005/resources/cms876assign_2/)
+- [cms876assign_1.pdf (.pdf)](https://ocw.mit.edu/courses/cms-876-history-of-media-and-technology-spring-2005/resources/cms876assign_1/)
+
+### Resource
+- [cms-876s05.jpg (.jpg)](https://ocw.mit.edu/courses/cms-876-history-of-media-and-technology-spring-2005/resources/cms-876s05/)
+- [cms-876s05-th.jpg (.jpg)](https://ocw.mit.edu/courses/cms-876-history-of-media-and-technology-spring-2005/resources/cms-876s05-th/)
+- [chp_eternal_war.jpg (.jpg)](https://ocw.mit.edu/courses/cms-876-history-of-media-and-technology-spring-2005/resources/chp_eternal_war/)
 ## Wikipedia Bridge
 
 ### Related Articles

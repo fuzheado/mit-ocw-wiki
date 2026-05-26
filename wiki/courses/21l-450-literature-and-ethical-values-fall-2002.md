@@ -12,6 +12,9 @@ views: 1181
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T16:58:28Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 8, Resource: 4, Syllabus: 2"
+api_id: 5528
 ---
 
 # Literature and Ethical Values
@@ -30,8 +33,29 @@ The aim of this subject is to acquaint the student with some important works of 
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-450-literature-and-ethical-values-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-450-literature-and-ethical-values-fall-2002/pages/syllabus/)
 
+### Reading-List
+- [lec3.pdf (.pdf)](https://ocw.mit.edu/courses/21l-450-literature-and-ethical-values-fall-2002/resources/lec3/)
+- [lec26.pdf (.pdf)](https://ocw.mit.edu/courses/21l-450-literature-and-ethical-values-fall-2002/resources/lec26/)
+- [lec24.pdf (.pdf)](https://ocw.mit.edu/courses/21l-450-literature-and-ethical-values-fall-2002/resources/lec24/)
+- [lec23.pdf (.pdf)](https://ocw.mit.edu/courses/21l-450-literature-and-ethical-values-fall-2002/resources/lec23/)
+- [lec2.pdf (.pdf)](https://ocw.mit.edu/courses/21l-450-literature-and-ethical-values-fall-2002/resources/lec2/)
+- [lec17.pdf (.pdf)](https://ocw.mit.edu/courses/21l-450-literature-and-ethical-values-fall-2002/resources/lec17/)
+- [lec11machiavelli.pdf (.pdf)](https://ocw.mit.edu/courses/21l-450-literature-and-ethical-values-fall-2002/resources/lec11machiavelli/)
+- [Readings](https://ocw.mit.edu/courses/21l-450-literature-and-ethical-values-fall-2002/pages/readings/)
+
+### Problem-Set
+- [paperassignment3.pdf (.pdf)](https://ocw.mit.edu/courses/21l-450-literature-and-ethical-values-fall-2002/resources/paperassignment3/)
+- [paperassignment2.pdf (.pdf)](https://ocw.mit.edu/courses/21l-450-literature-and-ethical-values-fall-2002/resources/paperassignment2/)
+- [paperassignment1.pdf (.pdf)](https://ocw.mit.edu/courses/21l-450-literature-and-ethical-values-fall-2002/resources/paperassignment1/)
+- [Assignments](https://ocw.mit.edu/courses/21l-450-literature-and-ethical-values-fall-2002/pages/assignments/)
+
+### Resource
+- [21l-450f02.jpg (.jpg)](https://ocw.mit.edu/courses/21l-450-literature-and-ethical-values-fall-2002/resources/21l-450f02/)
+- [21l-450f02-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-450-literature-and-ethical-values-fall-2002/resources/21l-450f02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

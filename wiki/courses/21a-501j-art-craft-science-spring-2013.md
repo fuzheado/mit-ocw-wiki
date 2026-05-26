@@ -12,6 +12,9 @@ views: 636
 completeness: 0.06
 last_modified: "2026-05-06T14:59:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 1"
+api_id: 4332
 ---
 
 # Art, Craft, Science
@@ -30,8 +33,19 @@ This course examines how people learn, practice, and evaluate traditional and co
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-501j-art-craft-science-spring-2013/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21a-501j-art-craft-science-spring-2013/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-501j-art-craft-science-spring-2013/pages/syllabus/)
 
+### Problem-Set
+- [Research Paper Style Sheet (.pdf)](https://ocw.mit.edu/courses/21a-501j-art-craft-science-spring-2013/resources/mit21a_501js13_research/)
+- [Photography as Skilled Practice (.pdf)](https://ocw.mit.edu/courses/21a-501j-art-craft-science-spring-2013/resources/mit21a_501js13_photography/)
+- [Assignments](https://ocw.mit.edu/courses/21a-501j-art-craft-science-spring-2013/pages/assignments/)
+
+### Resource
+- [Gee's Bend Quiltmakers (.jpg)](https://ocw.mit.edu/courses/21a-501j-art-craft-science-spring-2013/resources/21a-501js13/)
+- [Gee's Bend Quiltmakers (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21a-501j-art-craft-science-spring-2013/resources/21a-501js13-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

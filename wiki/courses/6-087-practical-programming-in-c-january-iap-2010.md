@@ -12,6 +12,8 @@ views: 4119
 completeness: 0.325
 last_modified: "2026-05-06T16:50:16Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Problem-Set: 1, Syllabus: 2"
 ---
 
 # Practical Programming in C
@@ -30,10 +32,16 @@ This course provides a thorough introduction to the C programming language, the 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Programming Assignments with Examples] Programming Assignments with Examples
-- [Projects] Projects
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/pages/lecture-notes/)
+- [Labs](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/pages/labs/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/pages/assignments/)
 ## Wikipedia Bridge
 
 ### Related Articles

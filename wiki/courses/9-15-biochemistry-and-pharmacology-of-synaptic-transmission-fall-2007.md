@@ -12,6 +12,9 @@ views: 194
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:51:50Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 10, Syllabus: 1"
+api_id: 3381
 ---
 
 # Biochemistry and Pharmacology of Synaptic Transmission
@@ -30,8 +33,25 @@ This course considers the process of neurotransmission, especially chemicals use
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/pages/assignments/)
+
+### Resource
+- [Spinal Cord Section (.pdf)](https://ocw.mit.edu/courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/resources/spinalcord/)
+- [sally_ltp.pdf (.pdf)](https://ocw.mit.edu/courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/resources/sally_ltp/)
+- [recitation1.pdf (.pdf)](https://ocw.mit.edu/courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/resources/recitation1/)
+- [nt_release.pdf (.pdf)](https://ocw.mit.edu/courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/resources/nt_release/)
+- [glutamate.pdf (.pdf)](https://ocw.mit.edu/courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/resources/glutamate/)
+- [Serotonin (.gif)](https://ocw.mit.edu/courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/resources/chp_serotonin/)
+- [antidepressants.pdf (.pdf)](https://ocw.mit.edu/courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/resources/antidepressants/)
+- [Serotonin (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/resources/9-15f07-th/)
+- [Study Materials](https://ocw.mit.edu/courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

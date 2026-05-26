@@ -12,6 +12,9 @@ views: 398
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:15:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2, Video-Transcript: 3"
+api_id: 5355
 ---
 
 # Film as Visual and Literary Mythmaking
@@ -30,8 +33,19 @@ This course examines problems in the philosophy of film as well as literature st
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/24-264-film-as-visual-and-literary-mythmaking-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-264-film-as-visual-and-literary-mythmaking-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/24-264-film-as-visual-and-literary-mythmaking-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/24-264-film-as-visual-and-literary-mythmaking-fall-2005/pages/assignments/)
+
+### Resource
+- [Death of Tristan (.jpg)](https://ocw.mit.edu/courses/24-264-film-as-visual-and-literary-mythmaking-fall-2005/resources/24-264f05/)
+- [Death of Tristan (thumbnail) (.jpg)](https://ocw.mit.edu/courses/24-264-film-as-visual-and-literary-mythmaking-fall-2005/resources/24-264f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

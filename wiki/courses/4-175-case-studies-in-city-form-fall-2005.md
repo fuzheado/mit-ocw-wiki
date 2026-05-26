@@ -12,6 +12,9 @@ views: 208
 completeness: 0.008333333333333333
 last_modified: "2026-05-06T17:19:36Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 22, Lecture-Notes: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4954
 ---
 
 # Case Studies in City Form
@@ -30,8 +33,43 @@ This course serves as an introduction to urban form and design, focusing on the 
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/pages/readings/)
+
+### Assignment
+- [washingtondc.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/washingtondc/)
+- [strts_squares.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/strts_squares/)
+- [prsnt_dy_anlys.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/prsnt_dy_anlys/)
+- [introductionam.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/introductionam/)
+- [introductional.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/introductional/)
+- [intro_history.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/intro_history/)
+- [hstricl_anlys.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/hstricl_anlys/)
+- [historic_devlpmt.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/historic_devlpmt/)
+- [dsgn_prpsal.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/dsgn_prpsal/)
+- [design_propsal.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/design_propsal/)
+- [civic_structure.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/civic_structure/)
+- [chapter6.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/chapter6/)
+- [chapter5.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/chapter5/)
+- [chapter4.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/chapter4/)
+- [chapter3.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/chapter3/)
+- [chapter2.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/chapter2/)
+- [chapter1.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/chapter1/)
+- [block_study.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/block_study/)
+- [bldgtyp_urbnfbrc.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/bldgtyp_urbnfbrc/)
+- [bibliographyam.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/bibliographyam/)
+- [bibliographyal.pdf (.pdf)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/bibliographyal/)
+- [Projects](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/pages/projects/)
+
+### Resource
+- [4-175f05.jpg (.jpg)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/4-175f05/)
+- [4-175f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-175-case-studies-in-city-form-fall-2005/resources/4-175f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

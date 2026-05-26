@@ -12,6 +12,8 @@ views: 608
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T17:24:58Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 1, Syllabus: 1"
 ---
 
 # Street-Fighting Mathematics
@@ -30,10 +32,18 @@ This course teaches the art of guessing results and solving problems without doi
 
 ## Materials
 
-- [Open Textbooks] Open Textbooks
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/readings/)
+- [Street Fighting Mathematics textbook](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/resources/mit18_098iap08_draft_text/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/assignments/)
+
+### Resource
+- [Related Resources](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

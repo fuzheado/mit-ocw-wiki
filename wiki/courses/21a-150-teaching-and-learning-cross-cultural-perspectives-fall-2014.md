@@ -12,6 +12,9 @@ views: 875
 completeness: 0.06
 last_modified: "2026-05-06T16:53:11Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Problem-Set: 3, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 3819
 ---
 
 # Teaching and Learning: Cross-Cultural Perspectives
@@ -30,8 +33,19 @@ This course explores the diverse ways that people teach and learn—in different
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014/pages/calendar/)
+- **Readings, Films, and Activities** — [🔗](https://ocw.mit.edu/courses/21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014/pages/readings-films-and-activities/)
+- **Research Project** — [🔗](https://ocw.mit.edu/courses/21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014/pages/assignments/research-project/)
+- **Response Papers** — [🔗](https://ocw.mit.edu/courses/21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014/pages/assignments/response-papers/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014/pages/assignments/)
+
+### Resource
+- [Burmese boy has his head shaved (.jpg)](https://ocw.mit.edu/courses/21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014/resources/21a-150f14/)
+- [Burmese boy has his head shaved (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21a-150-teaching-and-learning-cross-cultural-perspectives-fall-2014/resources/21a-150f14-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

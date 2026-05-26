@@ -12,6 +12,9 @@ views: 250
 completeness: 0.16999999999999998
 last_modified: "2026-05-06T14:51:23Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 6, Problem-Set: 6, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3445
 ---
 
 # Cross-Cultural Leadership
@@ -31,9 +34,32 @@ Course deliverables include: active participation in the class, contribution of 
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-996-cross-cultural-leadership-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-996-cross-cultural-leadership-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [lec5.pdf (.pdf)](https://ocw.mit.edu/courses/15-996-cross-cultural-leadership-fall-2004/resources/lec5/)
+- [lec4.pdf (.pdf)](https://ocw.mit.edu/courses/15-996-cross-cultural-leadership-fall-2004/resources/lec4/)
+- [lec3.pdf (.pdf)](https://ocw.mit.edu/courses/15-996-cross-cultural-leadership-fall-2004/resources/lec3/)
+- [lec2.pdf (.pdf)](https://ocw.mit.edu/courses/15-996-cross-cultural-leadership-fall-2004/resources/lec2/)
+- [lec1.pdf (.pdf)](https://ocw.mit.edu/courses/15-996-cross-cultural-leadership-fall-2004/resources/lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-996-cross-cultural-leadership-fall-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-996-cross-cultural-leadership-fall-2004/pages/readings/)
+
+### Problem-Set
+- [final_paper.pdf (.pdf)](https://ocw.mit.edu/courses/15-996-cross-cultural-leadership-fall-2004/resources/final_paper/)
+- [assign4.pdf (.pdf)](https://ocw.mit.edu/courses/15-996-cross-cultural-leadership-fall-2004/resources/assign4/)
+- [assign3.pdf (.pdf)](https://ocw.mit.edu/courses/15-996-cross-cultural-leadership-fall-2004/resources/assign3/)
+- [assign2.pdf (.pdf)](https://ocw.mit.edu/courses/15-996-cross-cultural-leadership-fall-2004/resources/assign2/)
+- [assign1.pdf (.pdf)](https://ocw.mit.edu/courses/15-996-cross-cultural-leadership-fall-2004/resources/assign1/)
+- [Assignments](https://ocw.mit.edu/courses/15-996-cross-cultural-leadership-fall-2004/pages/assignments/)
+
+### Resource
+- [15-996f04.jpg (.jpg)](https://ocw.mit.edu/courses/15-996-cross-cultural-leadership-fall-2004/resources/15-996f04/)
+- [15-996f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-996-cross-cultural-leadership-fall-2004/resources/15-996f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

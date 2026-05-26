@@ -12,6 +12,9 @@ views: 226
 completeness: 0.2
 last_modified: "2026-05-06T17:02:13Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 15, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 3495
 ---
 
 # The Anthropology of Cybercultures
@@ -30,8 +33,31 @@ This course explores a range of contemporary scholarship oriented to the study o
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/pages/readings/)
+
+### Problem-Set
+- [Week 9 (.pdf)](https://ocw.mit.edu/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/resources/mit21a_850js09_week9/)
+- [Week 8 (.pdf)](https://ocw.mit.edu/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/resources/mit21a_850js09_week8/)
+- [Week 7 (.pdf)](https://ocw.mit.edu/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/resources/mit21a_850js09_week7/)
+- [Week 5 (.pdf)](https://ocw.mit.edu/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/resources/mit21a_850js09_week5/)
+- [Week 4 (.pdf)](https://ocw.mit.edu/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/resources/mit21a_850js09_week4/)
+- [Week 3 (.pdf)](https://ocw.mit.edu/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/resources/mit21a_850js09_week3/)
+- [Week 2 (.pdf)](https://ocw.mit.edu/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/resources/mit21a_850js09_week2/)
+- [Week 14 (.pdf)](https://ocw.mit.edu/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/resources/mit21a_850js09_week14/)
+- [Week 13 (.pdf)](https://ocw.mit.edu/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/resources/mit21a_850js09_week13/)
+- [Week 11 (.pdf)](https://ocw.mit.edu/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/resources/mit21a_850js09_week11/)
+- [Week 10 (.pdf)](https://ocw.mit.edu/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/resources/mit21a_850js09_week10/)
+- [Site Visit Tools (.pdf)](https://ocw.mit.edu/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/resources/mit21a_850js09_sw03/)
+- [Alternative Narratives of Nighttime and Illumination: An Exploration of Central Square in Cambridge, MA  (.pdf)](https://ocw.mit.edu/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/resources/mit21a_850js09_sw02/)
+- [Connections: the double interface and constructing the cyborg body (.pdf)](https://ocw.mit.edu/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/resources/mit21a_850js09_sw01/)
+- [Assignments](https://ocw.mit.edu/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/pages/assignments/)
+
+### Resource
+- [A black and white photo of a computer-rendered head projected on a screen (.jpg)](https://ocw.mit.edu/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/resources/21a-850js09/)
 ## Wikipedia Bridge
 
 ### Related Articles

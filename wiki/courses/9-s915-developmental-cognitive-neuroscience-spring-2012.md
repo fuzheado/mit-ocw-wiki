@@ -12,6 +12,9 @@ views: 459
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T16:58:25Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 3535
 ---
 
 # Developmental Cognitive Neuroscience
@@ -30,8 +33,20 @@ This course uses neuroscience methods to study the cognitive development of huma
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-s915-developmental-cognitive-neuroscience-spring-2012/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-s915-developmental-cognitive-neuroscience-spring-2012/pages/readings/)
+
+### Problem-Set
+- [Learning as Exploration (.pdf)](https://ocw.mit.edu/courses/9-s915-developmental-cognitive-neuroscience-spring-2012/resources/mit9_s915s12_sample_wk9/)
+- [Geometry and Navigation—A Candidate Innate Representation (.pdf)](https://ocw.mit.edu/courses/9-s915-developmental-cognitive-neuroscience-spring-2012/resources/mit9_s915s12_sample_wk2/)
+- [Executive Function (.pdf)](https://ocw.mit.edu/courses/9-s915-developmental-cognitive-neuroscience-spring-2012/resources/mit9_s915s12_sample_wk10/)
+- [Assignments](https://ocw.mit.edu/courses/9-s915-developmental-cognitive-neuroscience-spring-2012/pages/assignments/)
+
+### Resource
+- [A child sorts colorful toy bears as a teacher looks on (.jpg)](https://ocw.mit.edu/courses/9-s915-developmental-cognitive-neuroscience-spring-2012/resources/9-s915s12/)
 ## Wikipedia Bridge
 
 ### Related Articles

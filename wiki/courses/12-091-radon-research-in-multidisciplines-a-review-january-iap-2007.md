@@ -12,6 +12,8 @@ views: 94
 completeness: 0.07
 last_modified: "2026-05-06T17:23:41Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Problem-Set: 1, Reading-List: 1, Syllabus: 2"
 ---
 
 # Radon Research in Multidisciplines: A Review
@@ -31,10 +33,21 @@ The course is offered during the Independent Activities Period (IAP), which is a
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments with Examples] Presentation Assignments with Examples
-- [Written Assignments with Examples] Written Assignments with Examples
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/12-091-radon-research-in-multidisciplines-a-review-january-iap-2007/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/12-091-radon-research-in-multidisciplines-a-review-january-iap-2007/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/12-091-radon-research-in-multidisciplines-a-review-january-iap-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-091-radon-research-in-multidisciplines-a-review-january-iap-2007/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/12-091-radon-research-in-multidisciplines-a-review-january-iap-2007/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/12-091-radon-research-in-multidisciplines-a-review-january-iap-2007/pages/projects/)
 ## Wikipedia Bridge
 
 ### Related Articles

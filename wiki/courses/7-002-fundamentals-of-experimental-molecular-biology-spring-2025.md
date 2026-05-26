@@ -12,6 +12,9 @@ views: 1075
 completeness: 0.0
 last_modified: "2026-05-06T16:57:20Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 17, Resource: 25, Syllabus: 2"
+api_id: 17178
 ---
 
 # Fundamentals of Experimental Molecular Biology
@@ -30,11 +33,34 @@ type: "course"
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Instructor Insights] Instructor Insights
-- [Laboratory Assignments] Laboratory Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/calendar/)
+- **Lab Day 1** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/lab-day-1/)
+- **Lab Day 10** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/lab-day-10/)
+- **Lab Day 2** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/lab-day-2/)
+- **Lab Day 3** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/lab-day-3/)
+- **Lab Day 4** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/lab-day-4/)
+- **Lab Day 5** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/lab-day-5/)
+- **Lab Day 6** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/lab-day-6/)
+- **Lab Day 6.5** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/lab-day-65/)
+- **Lab Day 7** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/lab-day-7/)
+- **Lab Day 8** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/lab-day-8/)
+- **Lab Day 9** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/lab-day-9/)
+- **Lab Manual** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/lab-manual/)
+- **Lab Objective 1: Reagent preparation** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/lab-objective-1-reagent-preparation/)
+- **Lab Objective 2: Mutagenesis of the ClpX Gene** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/lab-objective-2-mutagenesis-of-the-clpx-gene/)
+- **Lab Objective 3: Expression and Purification of Mutant ClpX** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/lab-objective-3-expression-and-purification-of-mutant-clpx/)
+- **Lab Objective 4: Analysis of ClpX Protein Purification** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/lab-objective-4-analysis-of-clpx-protein-purification/)
+- **Lab Objective 5: Analysis of mutant ClpX ATPase activity** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/lab-objective-5-analysis-of-mutant-clpx-atpase-activity/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/syllabus/)
 
+### Resource
+- [Instructor Insights](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/pages/instructor-insights/)
+- [Lab Day 10 Relative Absorbance Spreadsheet (XLS) (.xlsx)](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/resources/mit7_002_s25_day10_spreadsheet_xlsx/)
+- [Lab Day 10 Relative Absorbance Spreadsheet (PDF) (.pdf)](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/resources/mit7_002_s25_day10_spreadsheet_pdf/)
+- [7.002 S25 Fundamentals of Experimental Molecular Biology Lab Manual (.pdf)](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/resources/mit7_002_s25_clpx-lab-manual_pdf2/)
+- [7-002S25.psd (.psd)](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/resources/7-002s25_psd/)
+- [7-002S25.jpg (.jpg)](https://ocw.mit.edu/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/resources/7-002s25_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

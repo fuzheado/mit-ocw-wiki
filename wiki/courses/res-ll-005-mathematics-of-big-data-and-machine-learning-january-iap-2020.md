@@ -12,6 +12,8 @@ views: 14574
 completeness: 0.45000000000000007
 last_modified: "2026-05-06T17:03:35Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Resource: 4, Syllabus: 1, Video-Transcript: 42"
 ---
 
 # Mathematics of Big Data and Machine Learning
@@ -30,10 +32,25 @@ This course introduces the Dynamic Distributed Dimensional Data Model (D4M), a b
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
+### Lectures
+- **Class Videos** — [⬇](https://archive.org/download/MITRESLL-005F12/MITRESLL-005F12_IEPBigData_300k.mp4) · [⬇](https://archive.org/download/MITRESLL-005IAP20/MITRESLL-005IAP20_ses01_300k.mp4) · [⬇](https://archive.org/download/MITRESLL-005IAP20/MITRESLL-005IAP20_ses02_300k.mp4) · [📄](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/3fe5d6cadc9646cf618a99446383412d_iCAZLl6nq4c.pdf) · [📄](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/c730d9520b97248d8935096ad809ac7f_t4K6lney7Zw.pdf) · [📄](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/1d360cf2e7cba564583a9a5f182083cc_RpPlj2HnuWg.pdf) · [📄](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/91f21f0e239a639a7d912d2e8b529020_RpPlj2HnuWg.pdf) · [🔗](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/video_galleries/class-videos/)
+- **Download the video** — [⬇](https://archive.org/download/MITRESLL-005F12/MITRESLL-005F12_IEPBigData_300k.mp4) · [⬇](https://archive.org/download/MITRESLL-005IAP20/MITRESLL-005IAP20_ses01_300k.mp4) · [⬇](https://archive.org/download/MITRESLL-005IAP20/MITRESLL-005IAP20_ses02_300k.mp4)
+- **Download video** — [⬇](https://archive.org/download/MITRESLL-005F12/MITRESLL-005F12_IEPBigData_300k.mp4) · [⬇](https://archive.org/download/MITRESLL-005IAP20/MITRESLL-005IAP20_ses01_300k.mp4) · [⬇](https://archive.org/download/MITRESLL-005IAP20/MITRESLL-005IAP20_ses02_300k.mp4)
 
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/pages/syllabus/)
+
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/pages/lecture-notes/)
+
+### Problem-Set
+- [Homework Assignments that Spotlight Application](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/pages/instructor-insights/homework-assignments-that-spotlight-application/)
+
+### Resource
+- [Instructor Insights](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/pages/instructor-insights/)
+- [A Novel Course on a New Technology](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/pages/instructor-insights/a-novel-course-on-a-new-technology/)
+- [Lectures as Performance](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/pages/instructor-insights/lectures-as-performance/)
+- [Valuing Concept Transition](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/pages/instructor-insights/valuing-concept-transition/)
 ## Wikipedia Bridge
 
 ### Related Articles

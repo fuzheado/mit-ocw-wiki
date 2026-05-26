@@ -12,6 +12,9 @@ views: 788
 completeness: 0.16
 last_modified: "2026-05-06T16:57:22Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 6, Problem-Set: 2, Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 5323
 ---
 
 # Algorithmic Aspects of Machine Learning
@@ -30,11 +33,33 @@ This course is organized around algorithmic issues that arise in machine learnin
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/pages/syllabus/)
 
+### Lecture-Notes
+- [Algorithmic Aspects of Machine Learning, Lecture 4a (.pdf)](https://ocw.mit.edu/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/resources/mit18_409s15_lec4a/)
+- [Algorithmic Aspects of Machine Learning, Lecture 3a (.pdf)](https://ocw.mit.edu/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/resources/mit18_409s15_lec3a/)
+- [Algorithmic Aspects of Machine Learning, Lecture 2a (.pdf)](https://ocw.mit.edu/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/resources/mit18_409s15_lec2a/)
+- [Algorithmic Aspects of Machine Learning, Lecture 1a (.pdf)](https://ocw.mit.edu/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/resources/mit18_409s15_lec1a/)
+- [Algorithmic Aspects of Machine Learning, textbook (.pdf)](https://ocw.mit.edu/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/resources/mit18_409s15_intro/)
+- [Lecture Notes](https://ocw.mit.edu/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/pages/readings/)
+
+### Problem-Set
+- [Algorithmic Aspects of Machine Learning (.pdf)](https://ocw.mit.edu/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/resources/mit18_409s15_pset_2/)
+- [Assignments](https://ocw.mit.edu/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/pages/projects/)
+
+### Resource
+- [18-409s15.jpg (.jpg)](https://ocw.mit.edu/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/resources/18-409s15/)
+- [18-409s15-th.jpg (.jpg)](https://ocw.mit.edu/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/resources/18-409s15-th/)
+- [This Course at MIT](https://ocw.mit.edu/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/pages/this-course-at-mit/)
+- [Discussion](https://ocw.mit.edu/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/pages/discussion/)
 ## Wikipedia Bridge
 
 ### Related Articles

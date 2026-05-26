@@ -12,6 +12,9 @@ views: 116
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:49:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5409
 ---
 
 # Cultural Pluralism in Modern Middle East
@@ -30,8 +33,19 @@ This seminar considers “difference” and “sameness” as they have been con
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-365-cultural-pluralism-in-modern-middle-east-spring-2014/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-365-cultural-pluralism-in-modern-middle-east-spring-2014/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-365-cultural-pluralism-in-modern-middle-east-spring-2014/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-365-cultural-pluralism-in-modern-middle-east-spring-2014/pages/assignments/)
+
+### Resource
+- [Mehmed the Conqueror and Patriarch Gennadius II (.jpg)](https://ocw.mit.edu/courses/21h-365-cultural-pluralism-in-modern-middle-east-spring-2014/resources/21h-365s14/)
+- [Mehmed the Conqueror and Patriarch Gennadius II (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21h-365-cultural-pluralism-in-modern-middle-east-spring-2014/resources/21h-365s14-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

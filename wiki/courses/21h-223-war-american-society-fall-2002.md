@@ -12,6 +12,9 @@ views: 109
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T14:56:17Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 7, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5514
 ---
 
 # War & American Society
@@ -30,8 +33,26 @@ Writing in the wake of the Civil War, poet Walt Whitman insisted that “the rea
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-223-war-american-society-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-223-war-american-society-fall-2002/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-223-war-american-society-fall-2002/pages/readings/)
+
+### Problem-Set
+- [Second Writing Assignment (.pdf)](https://ocw.mit.edu/courses/21h-223-war-american-society-fall-2002/resources/war_sec_assig902/)
+- [Presentations on War and American History after September 11 (.pdf)](https://ocw.mit.edu/courses/21h-223-war-american-society-fall-2002/resources/war_preshand1102/)
+- [Final Presentations and Discussions (.pdf)](https://ocw.mit.edu/courses/21h-223-war-american-society-fall-2002/resources/war_presguid1202/)
+- [First Writing Assignment (.pdf)](https://ocw.mit.edu/courses/21h-223-war-american-society-fall-2002/resources/war_fir_assig902/)
+- [Fourth Writing Assignment (.pdf)](https://ocw.mit.edu/courses/21h-223-war-american-society-fall-2002/resources/war_4_assig1102/)
+- [World War II Paper (.pdf)](https://ocw.mit.edu/courses/21h-223-war-american-society-fall-2002/resources/war_3_assign1002/)
+- [Assignments](https://ocw.mit.edu/courses/21h-223-war-american-society-fall-2002/pages/assignments/)
+
+### Resource
+- [Syllabus, Fall 2002, Christopher Capozzola (.pdf)](https://ocw.mit.edu/courses/21h-223-war-american-society-fall-2002/resources/mit21h_223f02_syllf02/)
+- [Black Civil War Soldiers of the 54th Massachusetts Regiment (.jpg)](https://ocw.mit.edu/courses/21h-223-war-american-society-fall-2002/resources/21h-223f02/)
+- [Black Civil War Soldiers of the 54th Massachusetts Regiment (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21h-223-war-american-society-fall-2002/resources/21h-223f02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

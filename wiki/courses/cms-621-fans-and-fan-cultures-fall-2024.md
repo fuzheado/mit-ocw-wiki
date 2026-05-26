@@ -12,6 +12,9 @@ views: 773
 completeness: 0.05833333333333334
 last_modified: "2026-05-06T17:12:25Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 8, Problem-Set: 1, Resource: 5, Syllabus: 2, Video-Transcript: 3"
+api_id: 16853
 ---
 
 # Fans and Fan Cultures
@@ -30,12 +33,23 @@ This subject examines media audiences—specifically, fans—and the subcultures
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments with Examples] Presentation Assignments with Examples
-- [Readings] Readings
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/cms-621-fans-and-fan-cultures-fall-2024/pages/assignments/)
+- **Normative Assessment Slides** — [🔗](https://ocw.mit.edu/courses/cms-621-fans-and-fan-cultures-fall-2024/resources/mitcms_621_f24_normative02_pdf/) · [🔗](https://ocw.mit.edu/courses/cms-621-fans-and-fan-cultures-fall-2024/resources/mitcms_621_f24_normative01_pdf/)
+- **Readings and Calendar** — [🔗](https://ocw.mit.edu/courses/cms-621-fans-and-fan-cultures-fall-2024/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/cms-621-fans-and-fan-cultures-fall-2024/pages/syllabus/)
 
+### Lecture-Notes
+- [Presentation Tips Slides (.pdf)](https://ocw.mit.edu/courses/cms-621-fans-and-fan-cultures-fall-2024/resources/mitcms_621_f24_presentation_pdf/)
+- [Oral and Personal Histories Slides (.pdf)](https://ocw.mit.edu/courses/cms-621-fans-and-fan-cultures-fall-2024/resources/mitcms_621_f24_oralhist_pdf/)
+- [Motivations, Needs, & Media Use Slides (.pdf)](https://ocw.mit.edu/courses/cms-621-fans-and-fan-cultures-fall-2024/resources/mitcms_621_f24_motivation_pdf/)
+- [Media Effects and Theories Slides (.pdf)](https://ocw.mit.edu/courses/cms-621-fans-and-fan-cultures-fall-2024/resources/mitcms_621_f24_media_pdf/)
+- [Comic Books Slides (.pdf)](https://ocw.mit.edu/courses/cms-621-fans-and-fan-cultures-fall-2024/resources/mitcms_621_f24_comicbooks_pdf/)
+- [Lecture Slides](https://ocw.mit.edu/courses/cms-621-fans-and-fan-cultures-fall-2024/lists/lecture-slides/)
+
+### Resource
+- [Instructor Insights](https://ocw.mit.edu/courses/cms-621-fans-and-fan-cultures-fall-2024/pages/instructor-insights/)
+- [mitcms_621_f24.jpg (.jpg)](https://ocw.mit.edu/courses/cms-621-fans-and-fan-cultures-fall-2024/resources/mitcms_621_f24_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

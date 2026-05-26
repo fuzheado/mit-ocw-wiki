@@ -12,6 +12,9 @@ views: 174
 completeness: 0.06
 last_modified: "2026-05-06T16:56:26Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 3, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 1"
+api_id: 5366
 ---
 
 # Energy, Environment, and Society: Global Politics, Technologies, and Ecologies of the Water-Energy-Food Crises
@@ -30,9 +33,19 @@ With increasing public awareness of the multiple effects of global environmental
 
 ## Materials
 
-- [Projects] Projects
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018/pages/syllabus/)
+- **Writing Tips** — [🔗](https://ocw.mit.edu/courses/sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018/pages/assignments/writing-tips/)
 
+### Problem-Set
+- [STS.032 Energy, Environment, and Society, Grading Checklist (.pdf)](https://ocw.mit.edu/courses/sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018/resources/mitsts_032s18gradingchecklist/)
+- [Assignments](https://ocw.mit.edu/courses/sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018/pages/assignments/)
+
+### Resource
+- [sts-032s18.jpg (.jpg)](https://ocw.mit.edu/courses/sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018/resources/sts-032s18/)
+- [sts-032s18-th.jpeg (.jpeg)](https://ocw.mit.edu/courses/sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018/resources/sts-032s18-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

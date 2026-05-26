@@ -12,6 +12,9 @@ views: 178
 completeness: 0.0
 last_modified: "2026-05-06T14:43:26Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 1"
+api_id: 5933
 ---
 
 # Teaching La Princesse de Clèves
@@ -32,10 +35,8 @@ The La Princesse de Clèves website is published under a Creative Commons Attrib
 
 ## Materials
 
-- [Image Gallery] Image Gallery
-- [Multiple Assignment Types] Multiple Assignment Types
-- [Other Video] Other Video
-
+### Resource
+- [mitres_21g_3001_f23.jpeg (.jpeg)](https://ocw.mit.edu/courses/res-21g-3001-teaching-la-princesse-de-cleves-fall-2023/resources/mitres_21g_3001_f23_jpeg/)
 ## Wikipedia Bridge
 
 ### Related Articles

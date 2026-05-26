@@ -12,6 +12,9 @@ views: 15
 completeness: 0.0
 last_modified: "2026-05-06T15:02:59Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 3, Video-Transcript: 10"
+api_id: 13889
 ---
 
 # IIT Joint Entrance Exam Preparation 
@@ -32,8 +35,10 @@ This project was conceptualized and implemented by Dr. Ankur Gupta, now a profes
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-
+### Resource
+- [res-tll-009-IIT.png (.png)](https://ocw.mit.edu/courses/res-tll-009-iit-joint-entrance-exam-preparation-fall-2022/resources/res-tll-009-iit/)
+- [res-tll-009-IIT-th.png (.png)](https://ocw.mit.edu/courses/res-tll-009-iit-joint-entrance-exam-preparation-fall-2022/resources/res-tll-009-iit-th/)
+- [Lecture Videos](https://ocw.mit.edu/courses/res-tll-009-iit-joint-entrance-exam-preparation-fall-2022/pages/lecture-videos/)
 ## Wikipedia Bridge
 
 ### Related Articles

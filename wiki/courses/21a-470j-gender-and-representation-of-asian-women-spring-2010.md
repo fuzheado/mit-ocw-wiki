@@ -12,6 +12,9 @@ views: 84
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:17:22Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 2"
+api_id: 3791
 ---
 
 # Gender and Representation of Asian Women
@@ -30,8 +33,18 @@ This course explores stereotypes associated with Asian women in colonial, nation
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-470j-gender-and-representation-of-asian-women-spring-2010/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-470j-gender-and-representation-of-asian-women-spring-2010/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21a-470j-gender-and-representation-of-asian-women-spring-2010/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21a-470j-gender-and-representation-of-asian-women-spring-2010/pages/assignments/)
+
+### Resource
+- [A black and white photo of two women dressed as geishas (.jpg)](https://ocw.mit.edu/courses/21a-470j-gender-and-representation-of-asian-women-spring-2010/resources/21a-470js10/)
 ## Wikipedia Bridge
 
 ### Related Articles

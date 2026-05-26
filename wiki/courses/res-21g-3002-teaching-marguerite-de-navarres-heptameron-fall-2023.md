@@ -12,6 +12,9 @@ views: 45
 completeness: 0.0
 last_modified: "2026-05-06T16:53:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 1"
+api_id: 5930
 ---
 
 # Teaching Marguerite de Navarre's Heptaméron
@@ -31,9 +34,8 @@ The website is published under a Creative Commons Attribution-NonCommercial-Shar
 
 ## Materials
 
-- [Image Gallery] Image Gallery
-- [Other Video] Other Video
-
+### Resource
+- [mitres_21g_3002_f23.jpeg (.jpeg)](https://ocw.mit.edu/courses/res-21g-3002-teaching-marguerite-de-navarres-heptameron-fall-2023/resources/mitres_21g_3002_f23_jpeg/)
 ## Wikipedia Bridge
 
 ### Related Articles

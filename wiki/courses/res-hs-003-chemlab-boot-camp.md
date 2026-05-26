@@ -12,6 +12,8 @@ views: 319
 completeness: 0.0
 last_modified: "2026-05-06T16:52:39Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 3, Video-Transcript: 16"
 ---
 
 # ChemLab Boot Camp
@@ -33,8 +35,10 @@ The experiments described in these materials are potentially hazardous. Among ot
 
 ## Materials
 
-- [Demonstration Videos] Demonstration Videos
-
+### Resource
+- [Episodes 📺Video](https://ocw.mit.edu/courses/res-hs-003-chemlab-boot-camp/video_galleries/video-lectures/)
+- [Related Resources](https://ocw.mit.edu/courses/res-hs-003-chemlab-boot-camp/pages/related-resources/)
+- [Credits](https://ocw.mit.edu/courses/res-hs-003-chemlab-boot-camp/pages/credits/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 242
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:17:25Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 5, Syllabus: 2"
+api_id: 5471
 ---
 
 # Advanced Seminar: Urban Nature and City Design
@@ -30,8 +33,21 @@ This course will explore the mutual influences of ideas of nature, theories of c
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-308j-advanced-seminar-urban-nature-and-city-design-fall-2012/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-308j-advanced-seminar-urban-nature-and-city-design-fall-2012/pages/syllabus/)
 
+### Reading-List
+- [Further Reading](https://ocw.mit.edu/courses/11-308j-advanced-seminar-urban-nature-and-city-design-fall-2012/pages/readings/further-reading/)
+- [Readings](https://ocw.mit.edu/courses/11-308j-advanced-seminar-urban-nature-and-city-design-fall-2012/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-308j-advanced-seminar-urban-nature-and-city-design-fall-2012/pages/assignments/)
+
+### Resource
+- [Philadelphia Waterworks (.jpg)](https://ocw.mit.edu/courses/11-308j-advanced-seminar-urban-nature-and-city-design-fall-2012/resources/11-308jf12/)
+- [Cropped photograph of the Philadelphia Waterworks (.jpg)](https://ocw.mit.edu/courses/11-308j-advanced-seminar-urban-nature-and-city-design-fall-2012/resources/11-308jf12-th/)
+- [Related Resources](https://ocw.mit.edu/courses/11-308j-advanced-seminar-urban-nature-and-city-design-fall-2012/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

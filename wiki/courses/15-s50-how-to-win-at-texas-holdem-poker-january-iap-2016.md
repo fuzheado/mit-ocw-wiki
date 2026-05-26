@@ -12,6 +12,8 @@ views: 443
 completeness: 0.17833333333333334
 last_modified: "2026-05-06T17:08:43Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Resource: 1, Syllabus: 1, Video-Transcript: 21"
 ---
 
 # How to Win at Texas Hold'em Poker
@@ -32,11 +34,25 @@ Faculty Advisor: Paul Mende
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Lectures
+- **Lecture 1: Overview and Introduction** — [🎬](https://youtu.be/62nDLA_A8gs) · [🔗](https://ocw.mit.edu/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/video_galleries/video-lectures/)
+- **Lecture 2: Introduction to Postflop Play** — [🎬](https://youtu.be/uFsM8pc36QQ) · [🔗](https://ocw.mit.edu/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/video_galleries/video-lectures/)
+- **Lecture 3: Tournaments vs. Cash Games** — [🎬](https://youtu.be/KTzFk1s2ymE) · [🔗](https://ocw.mit.edu/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/video_galleries/video-lectures/)
+- **Lecture 4: Preflop Re-raising Theory** — [🎬](https://youtu.be/_GgdGtQME1I) · [🔗](https://ocw.mit.edu/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/video_galleries/video-lectures/)
+- **Lecture 6: Independent Chip Model** — [🎬](https://youtu.be/zlmokDj0DaU) · [🔗](https://ocw.mit.edu/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/video_galleries/video-lectures/)
+- **Lecture 7: An In-depth Combinatorial Hand Analysis** — [🎬](https://youtu.be/u14ymLSF8y4) · [🔗](https://ocw.mit.edu/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/video_galleries/video-lectures/)
 
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/pages/syllabus/)
+
+### Lecture-Notes
+- [Lecture Slides](https://ocw.mit.edu/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/pages/lecture-slides/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/pages/assignments/)
+
+### Resource
+- [Study Materials](https://ocw.mit.edu/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

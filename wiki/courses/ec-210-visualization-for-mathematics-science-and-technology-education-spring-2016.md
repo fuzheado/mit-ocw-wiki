@@ -12,6 +12,9 @@ views: 545
 completeness: 0.0
 last_modified: "2026-05-06T16:55:48Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 5, Syllabus: 2, Video-Transcript: 11"
+api_id: 4846
 ---
 
 # Visualization for Mathematics, Science, and Technology Education
@@ -30,8 +33,15 @@ This course is an introduction to principles and techniques of visual communicat
 
 ## Materials
 
-- [Media Assignments] Media Assignments
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016/pages/syllabus/)
 
+### Resource
+- [EC-210S16.jpg (.jpg)](https://ocw.mit.edu/courses/ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016/resources/ec-210s16/)
+- [EC-210S16-th.jpg (.jpg)](https://ocw.mit.edu/courses/ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016/resources/ec-210s16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

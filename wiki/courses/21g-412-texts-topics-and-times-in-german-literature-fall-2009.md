@@ -12,6 +12,9 @@ views: 186
 completeness: 0.2
 last_modified: "2026-05-06T14:45:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 18, Resource: 6, Syllabus: 1, Video-Transcript: 9"
+api_id: 3548
 ---
 
 # Texts, Topics, and Times in German Literature
@@ -30,8 +33,34 @@ In diesem Kurs erhalten Sie einen Überblick über einige wichtige literarische 
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Study Materials** — [🔗](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/pages/study-materials/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/pages/syllabus/)
 
+### Problem-Set
+- [Homework 17 (.pdf)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/mit21g_412f09_hw17/)
+- [Homework 16 (.pdf)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/mit21g_412f09_hw16/)
+- [Homework 15 (.pdf)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/mit21g_412f09_hw15/)
+- [Homework 14 (.pdf)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/mit21g_412f09_hw14/)
+- [Homework 13 (.pdf)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/mit21g_412f09_hw13/)
+- [Homework 12 (.pdf)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/mit21g_412f09_hw12/)
+- [Homework 11 (.pdf)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/mit21g_412f09_hw11/)
+- [Homework 10 (.pdf)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/mit21g_412f09_hw10/)
+- [Homework 9 (.pdf)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/mit21g_412f09_hw09/)
+- [Homework 8 (.pdf)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/mit21g_412f09_hw08/)
+- [Homework 7 (.pdf)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/mit21g_412f09_hw07/)
+- [Homework 6 (.pdf)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/mit21g_412f09_hw06/)
+- [Homework 5 (.pdf)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/mit21g_412f09_hw05/)
+- [Homework 4 (.pdf)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/mit21g_412f09_hw04/)
+- [Homework 3 (.pdf)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/mit21g_412f09_hw03/)
+- [Homework 2 (.pdf)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/mit21g_412f09_hw02/)
+- [Homework 1 (.pdf)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/mit21g_412f09_hw01/)
+- [Assignments](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/pages/assignments/)
+
+### Resource
+- [Berlin Holocaust Memorial Design (.pdf)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/mit21g_412f09_eisenman/)
+- [21g-412f09.jpg (.jpg)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/21g-412f09/)
+- [21g-412f09-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/resources/21g-412f09-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 235
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T14:50:11Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 2, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 3353
 ---
 
 # Foundations of World Culture I: World Civilizations and Texts
@@ -30,8 +33,19 @@ This course aims to introduce students to the rich diversity of human culture fr
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Advice on Writing** — [🔗](https://ocw.mit.edu/courses/21l-001x-foundations-of-world-culture-i-world-civilizations-and-texts-fall-2011/pages/assignments/advice-on-writing/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-001x-foundations-of-world-culture-i-world-civilizations-and-texts-fall-2011/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-001x-foundations-of-world-culture-i-world-civilizations-and-texts-fall-2011/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-001x-foundations-of-world-culture-i-world-civilizations-and-texts-fall-2011/pages/assignments/)
+
+### Resource
+- [A collage of four photos, including (clockwise from top left) a Greek Statue, Chinese calligraphy, an Indian painting, and the Quran (.jpg)](https://ocw.mit.edu/courses/21l-001x-foundations-of-world-culture-i-world-civilizations-and-texts-fall-2011/resources/21l-001xf11/)
+- [Krishna giving spiritual instructions (.jpg)](https://ocw.mit.edu/courses/21l-001x-foundations-of-world-culture-i-world-civilizations-and-texts-fall-2011/resources/21l-001xf11-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

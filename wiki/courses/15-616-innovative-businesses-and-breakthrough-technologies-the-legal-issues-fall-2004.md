@@ -12,6 +12,9 @@ views: 317
 completeness: 0.06
 last_modified: "2026-05-06T17:16:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 3, Reading-List: 3, Resource: 4, Syllabus: 2, Video-Transcript: 1"
+api_id: 4711
 ---
 
 # Innovative Businesses and Breakthrough Technologies - The Legal Issues
@@ -31,8 +34,26 @@ Note: This course used to be numbered 15.648.
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Tort Law in a Peanut (.pdf)](https://ocw.mit.edu/courses/15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004/resources/tort_law/)
+- [Antitrust Guidelines for the Licensing of Intellectual Property (.pdf)](https://ocw.mit.edu/courses/15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004/resources/ip_guide/)
+- [Readings](https://ocw.mit.edu/courses/15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Second Takehome Exercise (.pdf)](https://ocw.mit.edu/courses/15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004/resources/ex2/)
+- [First Takehome Exercise (.pdf)](https://ocw.mit.edu/courses/15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004/resources/ex1/)
+- [Assignments](https://ocw.mit.edu/courses/15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004/pages/projects/)
+
+### Resource
+- [James Earle Fraser's Authority of Law (.jpg)](https://ocw.mit.edu/courses/15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004/resources/15-616f04/)
+- [James Earle Fraser's Authority of Law (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004/resources/15-616f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

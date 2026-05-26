@@ -12,6 +12,9 @@ views: 19613
 completeness: 0.0
 last_modified: "2026-05-06T15:03:08Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 4212
 ---
 
 # Introduction to Machine Learning
@@ -31,8 +34,9 @@ This course is part of the Open Learning Library, which is free to use.&nbsp;You
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [6-026f20.jpg (.jpg)](https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/resources/6-026f20/)
+- [6-026f20-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/resources/6-026f20-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

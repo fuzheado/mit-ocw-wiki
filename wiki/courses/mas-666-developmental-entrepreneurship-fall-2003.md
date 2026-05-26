@@ -12,6 +12,9 @@ views: 702
 completeness: 0.1
 last_modified: "2026-05-06T16:48:08Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 12, Resource: 12, Syllabus: 2"
+api_id: 5373
 ---
 
 # Developmental Entrepreneurship
@@ -30,9 +33,38 @@ This class surveys developmental entrepreneurship via case examples of both succ
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [SelcoFinal.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/selcofinal/)
+- [sari.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/sari/)
+- [nepal.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/nepal/)
+- [kenya.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/kenya/)
+- [jordan.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/jordan/)
+- [intro.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/intro/)
+- [india.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/india/)
+- [grameen.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/grameen/)
+- [FMSdeventre1.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/fmsdeventre1/)
+- [devopps.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/devopps/)
+- [blue.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/blue/)
+- [Lecture Notes](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/pages/lecture-notes/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/pages/projects/)
+
+### Resource
+- [mas-666f03.jpg (.jpg)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/mas-666f03/)
+- [mas-666f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/mas-666f03-th/)
+- [8.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/8/)
+- [7.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/7/)
+- [6.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/6/)
+- [5.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/5/)
+- [4.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/4/)
+- [3.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/3/)
+- [2.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/2/)
+- [1.pdf (.pdf)](https://ocw.mit.edu/courses/mas-666-developmental-entrepreneurship-fall-2003/resources/1/)
 ## Wikipedia Bridge
 
 ### Related Articles

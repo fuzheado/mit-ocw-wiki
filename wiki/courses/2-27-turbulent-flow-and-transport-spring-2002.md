@@ -12,6 +12,9 @@ views: 310
 completeness: 0.15500000000000003
 last_modified: "2026-05-06T16:59:51Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 9, Problem-Set: 4, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5079
 ---
 
 # Turbulent Flow and Transport
@@ -31,9 +34,33 @@ Turbulence: its production, dissipation, and scaling laws. Reynolds averaged equ
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-27-turbulent-flow-and-transport-spring-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-27-turbulent-flow-and-transport-spring-2002/pages/syllabus/)
 
+### Lecture-Notes
+- [Bounded Flows I: General Near−Wall Scaling Laws; Flows in Pipes, Channels, etc.  (.pdf)](https://ocw.mit.edu/courses/2-27-turbulent-flow-and-transport-spring-2002/resources/simple_turb_wall_flows/)
+- [Review of Fundamental Laws and Constitutive Equations (.pdf)](https://ocw.mit.edu/courses/2-27-turbulent-flow-and-transport-spring-2002/resources/fundamentals/)
+- [Free Shear Flows I: Jets, Wakes, etc.−Solutions Based on Simple Mean−Flow Closure Schemes (.pdf)](https://ocw.mit.edu/courses/2-27-turbulent-flow-and-transport-spring-2002/resources/free_shear_flows/)
+- [Concepts in Turbulence (.pdf)](https://ocw.mit.edu/courses/2-27-turbulent-flow-and-transport-spring-2002/resources/concepts/)
+- [Introduction to Turbulent Boundary Layers (.pdf)](https://ocw.mit.edu/courses/2-27-turbulent-flow-and-transport-spring-2002/resources/boundary_layers/)
+- [Dispersion in Pipe and Channel flow (.pdf)](https://ocw.mit.edu/courses/2-27-turbulent-flow-and-transport-spring-2002/resources/9_taylor_dispersion/)
+- [Introduction to Turbulence Models (.pdf)](https://ocw.mit.edu/courses/2-27-turbulent-flow-and-transport-spring-2002/resources/8_turbulence_models/)
+- [Buoyant Plumes, Thermals, etc. (.pdf)](https://ocw.mit.edu/courses/2-27-turbulent-flow-and-transport-spring-2002/resources/7_simplebuoyancy/)
+- [Lecture Notes](https://ocw.mit.edu/courses/2-27-turbulent-flow-and-transport-spring-2002/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/2-27-turbulent-flow-and-transport-spring-2002/pages/readings/)
+
+### Problem-Set
+- [Problem: Friction in Turbulent Hydrodynamic Bearings (.pdf)](https://ocw.mit.edu/courses/2-27-turbulent-flow-and-transport-spring-2002/resources/prob5_2/)
+- [Problem 5.1: The Kolmogorov microscale, the viscous sublayer, and the inertial sublayer (.pdf)](https://ocw.mit.edu/courses/2-27-turbulent-flow-and-transport-spring-2002/resources/prob5_1/)
+- [Problem 3.1: Scales of turbulent motion. (.pdf)](https://ocw.mit.edu/courses/2-27-turbulent-flow-and-transport-spring-2002/resources/prob3_1/)
+- [Assignments](https://ocw.mit.edu/courses/2-27-turbulent-flow-and-transport-spring-2002/pages/assignments/)
+
+### Resource
+- [Ocean waves breaking on a beach (.jpg)](https://ocw.mit.edu/courses/2-27-turbulent-flow-and-transport-spring-2002/resources/2-27s02/)
+- [Ocean waves breaking on a beach (thumbnail) (.jpg)](https://ocw.mit.edu/courses/2-27-turbulent-flow-and-transport-spring-2002/resources/2-27s02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 763
 completeness: 0.2916666666666667
 last_modified: "2026-05-06T14:57:28Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 11, Problem-Set: 2, Resource: 4, Syllabus: 2, Video-Transcript: 10"
+api_id: 5097
 ---
 
 # Management Accounting and Control
@@ -30,8 +33,30 @@ This course examines management accounting and related analytical methodologies 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-521-management-accounting-and-control-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-521-management-accounting-and-control-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [web_class9.pdf (.pdf)](https://ocw.mit.edu/courses/15-521-management-accounting-and-control-spring-2003/resources/web_class9/)
+- [web_class8.pdf (.pdf)](https://ocw.mit.edu/courses/15-521-management-accounting-and-control-spring-2003/resources/web_class8/)
+- [web_class7.pdf (.pdf)](https://ocw.mit.edu/courses/15-521-management-accounting-and-control-spring-2003/resources/web_class7/)
+- [web_class6.pdf (.pdf)](https://ocw.mit.edu/courses/15-521-management-accounting-and-control-spring-2003/resources/web_class6/)
+- [web_class4.pdf (.pdf)](https://ocw.mit.edu/courses/15-521-management-accounting-and-control-spring-2003/resources/web_class4/)
+- [web_class3.pdf (.pdf)](https://ocw.mit.edu/courses/15-521-management-accounting-and-control-spring-2003/resources/web_class3/)
+- [web_class2.pdf (.pdf)](https://ocw.mit.edu/courses/15-521-management-accounting-and-control-spring-2003/resources/web_class2/)
+- [web_class12.pdf (.pdf)](https://ocw.mit.edu/courses/15-521-management-accounting-and-control-spring-2003/resources/web_class12/)
+- [web_class10.pdf (.pdf)](https://ocw.mit.edu/courses/15-521-management-accounting-and-control-spring-2003/resources/web_class10/)
+- [web_class1.pdf (.pdf)](https://ocw.mit.edu/courses/15-521-management-accounting-and-control-spring-2003/resources/web_class1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-521-management-accounting-and-control-spring-2003/pages/lecture-notes/)
+
+### Problem-Set
+- [weberselectronicsfinal.pdf (.pdf)](https://ocw.mit.edu/courses/15-521-management-accounting-and-control-spring-2003/resources/weberselectronicsfinal/)
+- [Exams](https://ocw.mit.edu/courses/15-521-management-accounting-and-control-spring-2003/pages/exams/)
+
+### Resource
+- [15-521s03.jpg (.jpg)](https://ocw.mit.edu/courses/15-521-management-accounting-and-control-spring-2003/resources/15-521s03/)
+- [15-521s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-521-management-accounting-and-control-spring-2003/resources/15-521s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

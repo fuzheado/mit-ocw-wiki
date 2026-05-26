@@ -12,6 +12,9 @@ views: 94
 completeness: 0.0
 last_modified: "2026-05-06T14:55:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Resource: 24, Syllabus: 1, Video-Transcript: 33"
+api_id: 4310
 ---
 
 # Malaysia Sustainable Cities Practicum
@@ -38,10 +41,33 @@ Selmah Goldberg
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Other Video] Other Video
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Collaborating with Visiting International Scholars** — [🔗](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/pages/instructor-insights/collaborating-with-visiting-international-scholars/)
+- **Pre-Travel Tutorial** — [🔗](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/pages/pre-travel-tutorial/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/pages/syllabus/)
 
+### Resource
+- [women.jpg (.jpg)](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/resources/women/)
+- [11.384 Spring 2018: Malaysia Sustainable Cities Practicum 2016-2017 Syllabus (.pdf)](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/resources/mit11_384s18_syllabus/)
+- [11.384 Spring 2018: Research Agenda 2017-2018: Report of the MIT-UTM 2017 Practicum 2017 (.pdf)](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/resources/mit11_384s18_2017cohort/)
+- [11.384 Spring 2018: Research Agenda 2016-2017: Report of the MIT-UTM 2016 Practicum (.pdf)](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/resources/mit11_384s18_2016cohort/)
+- [11.384 Spring 2018: Research Agenda 2015-2016: Report of the MIT-UTM 2015 Practicum (.pdf)](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/resources/mit11_384s18_2015cohort/)
+- [Kuala Lumpur (.jpg)](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/resources/kampung-bharu/)
+- [fishermen.jpg (.jpg)](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/resources/fishermen/)
+- [15 students enrolled (.png)](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/resources/15/)
+- [11-384s18.jpg (.jpg)](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/resources/11-384s18/)
+- [11-384s18-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/resources/11-384s18-th/)
+- [Malay house  (.jpg)](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/resources/11-384-tlp/)
+- [street life photo (.jpg)](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/resources/11-384-classroom/)
+- [Research Agendas](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/pages/research-agendas/)
+- [Related Resources](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/pages/related-resources/)
+- [2017 Teaching Videos](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/pages/related-resources/2017-teaching-videos/)
+- [2016 Teaching Videos](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/pages/related-resources/2016-teaching-videos/)
+- [2015 Teaching Videos](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/pages/related-resources/2015-teaching-videos/)
+- [The Role of Reflective Practice](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/pages/instructor-insights/the-role-of-reflective-practice/)
+- [The Role of Online Technology](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/pages/instructor-insights/the-role-of-online-technology/)
+- [Malaysia Sustainable Cities Program: History and Implementation](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/pages/instructor-insights/malaysia-sustainable-cities-program-history-and-implementation/)
+- [Instructor Insights](https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

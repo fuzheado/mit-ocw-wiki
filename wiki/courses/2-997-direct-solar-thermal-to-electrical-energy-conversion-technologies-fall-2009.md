@@ -12,6 +12,9 @@ views: 346
 completeness: 0.09166666666666667
 last_modified: "2026-05-06T17:07:20Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 12, Reading-List: 1, Resource: 3, Syllabus: 1, Video-Transcript: 18"
+api_id: 4852
 ---
 
 # Direct Solar/Thermal to Electrical Energy Conversion Technologies
@@ -30,9 +33,31 @@ This course introduces principles and technologies for converting heat into elec
 
 ## Materials
 
-- [Lecture Audio] Lecture Audio
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Lecture Audio and Slides** — [🔗](https://ocw.mit.edu/courses/2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009/pages/audio-lectures/)
+- **MP3 - 18MB** — [🔗](http://www.archive.org/download/MIT2.997F09/MIT2_997F09_lec07.mp3) · [🔗](http://www.archive.org/download/MIT2.997F09/MIT2_997F09_lec08.mp3)
+- **MP3 - 19MB** — [🔗](http://www.archive.org/download/MIT2.997F09/MIT2_997F09_lec01.mp3) · [🔗](http://www.archive.org/download/MIT2.997F09/MIT2_997F09_lec03.mp3) · [🔗](http://www.archive.org/download/MIT2.997F09/MIT2_997F09_lec09.mp3)
+- **MP3 - 20MB** — [🔗](http://www.archive.org/download/MIT2.997F09/MIT2_997F09_lec02.mp3) · [🔗](http://www.archive.org/download/MIT2.997F09/MIT2_997F09_lec04.mp3) · [🔗](http://www.archive.org/download/MIT2.997F09/MIT2_997F09_lec05.mp3) · [🔗](http://www.archive.org/download/MIT2.997F09/MIT2_997F09_lec06.mp3)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009/pages/syllabus/)
 
+### Lecture-Notes
+- [Photonic Crystals: Shaping the Flow of Thermal Radiation (.pdf)](https://ocw.mit.edu/courses/2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009/resources/mit2_997f09_lec11/)
+- [Applications of thermoelectrics and photovoltaics (.pdf)](https://ocw.mit.edu/courses/2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009/resources/mit2_997f09_lec12/)
+- [Solar concentration and solar thermal technology (.pdf)](https://ocw.mit.edu/courses/2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009/resources/mit2_997f09_lec09/)
+- [Radiative heat transfer (.pdf)](https://ocw.mit.edu/courses/2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009/resources/mit2_997f09_lec08/)
+- [Photovoltaic cells (.pdf)](https://ocw.mit.edu/courses/2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009/resources/mit2_997f09_lec07/)
+- [Thermionic power conversion (.pdf)](https://ocw.mit.edu/courses/2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009/resources/mit2_997f09_lec06/)
+- [Current research on thermoelectric materials (.pdf)](https://ocw.mit.edu/courses/2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009/resources/mit2_997f09_lec05/)
+- [Kinetic formulation of thermoelectricity (.pdf)](https://ocw.mit.edu/courses/2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009/resources/mit2_997f09_lec04/)
+- [Energy states in matter (.pdf)](https://ocw.mit.edu/courses/2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009/resources/mit2_997f09_lec03/)
+- [Thermoelectric effect and thermoelectric devices (.pdf)](https://ocw.mit.edu/courses/2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009/resources/mit2_997f09_lec02/)
+- [Introduction (.pdf)](https://ocw.mit.edu/courses/2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009/resources/mit2_997f09_lec01/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009/pages/readings/)
+
+### Resource
+- [Three people walk between huge mirrored troughs, pointed straight upwards, extending for thousands of feet beyond in all directions (.jpg)](https://ocw.mit.edu/courses/2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009/resources/2-997f09/)
 ## Wikipedia Bridge
 
 ### Related Articles

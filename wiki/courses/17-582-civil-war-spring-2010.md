@@ -12,6 +12,9 @@ views: 85
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:42:59Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 2"
+api_id: 4657
 ---
 
 # Civil War
@@ -30,8 +33,18 @@ This course surveys the social science literature on civil war. Students will st
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-582-civil-war-spring-2010/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-582-civil-war-spring-2010/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-582-civil-war-spring-2010/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-582-civil-war-spring-2010/pages/assignments/)
+
+### Resource
+- [Children from the Sudan crouch on the ground playing with clay figures (.jpg)](https://ocw.mit.edu/courses/17-582-civil-war-spring-2010/resources/17-582s10/)
 ## Wikipedia Bridge
 
 ### Related Articles

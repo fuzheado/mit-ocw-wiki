@@ -12,6 +12,9 @@ views: 172
 completeness: 0.2
 last_modified: "2026-05-06T17:12:33Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 4, Problem-Set: 12, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4679
 ---
 
 # Scientific Visualization across Disciplines: A Critical Introduction
@@ -30,10 +33,36 @@ This subject exposes students to a variety of visualization techniques so that t
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Problem Sets] Problem Sets
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Problem Set 9 (.pdf)](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/resources/pset9/)
+- [Problem Set 8 (.pdf)](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/resources/pset8/)
+- [Problem Set 7  (.pdf)](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/resources/pset7/)
+- [Problem Set 6 (.pdf)](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/resources/pset6/)
+- [Problem Set 5 (.pdf)](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/resources/pset5/)
+- [Problem Set 4 (.pdf)](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/resources/pset4/)
+- [Problem Set 3 (.pdf)](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/resources/pset3/)
+- [Problem Set 2 (.pdf)](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/resources/pset2/)
+- [Problem Set 10 (.pdf)](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/resources/pset10/)
+- [Problem Set 1 (.pdf)](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/resources/pset1/)
+- [Instruction Guide (.pdf)](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/resources/instr_guide/)
+- [Assignments](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/pages/assignments/)
+
+### Assignment
+- [Project 3: Visualization Teaching and Counter-Visualization  (.pdf)](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/resources/project3/)
+- [Project 2: Genealogy of a Visualizer (.pdf)](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/resources/project2/)
+- [Project 1: Archaeology of a Visualization (.pdf)](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/resources/project1/)
+- [Projects](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/pages/projects/)
+
+### Resource
+- [Two-dimensional Projections of the Globe (.gif)](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/resources/sts-067s05/)
+- [Two-dimensional Projections of the Globe (thumbnail) (.jpg)](https://ocw.mit.edu/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/resources/sts-067s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

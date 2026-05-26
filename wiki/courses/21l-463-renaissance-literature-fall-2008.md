@@ -12,6 +12,9 @@ views: 220
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:10:38Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 4, Resource: 2, Syllabus: 1"
+api_id: 3510
 ---
 
 # Renaissance Literature
@@ -30,9 +33,20 @@ The Renaissance has justly become both famous and notorious as an age of discove
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-463-renaissance-literature-fall-2008/pages/syllabus/)
 
+### Reading-List
+- [The Faerie Queene, Book I (.pdf)](https://ocw.mit.edu/courses/21l-463-renaissance-literature-fall-2008/resources/t_far_qne_bk_i/)
+- [The Faerie Queene, Book II (.pdf)](https://ocw.mit.edu/courses/21l-463-renaissance-literature-fall-2008/resources/t_far_qn_bk_ii/)
+- [Johan Day Letter (.pdf)](https://ocw.mit.edu/courses/21l-463-renaissance-literature-fall-2008/resources/johan_day/)
+- [Readings](https://ocw.mit.edu/courses/21l-463-renaissance-literature-fall-2008/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-463-renaissance-literature-fall-2008/pages/assignments/)
+
+### Resource
+- [Image of ship returning home after going through a voyage around the world (.jpg)](https://ocw.mit.edu/courses/21l-463-renaissance-literature-fall-2008/resources/21l-463f08/)
 ## Wikipedia Bridge
 
 ### Related Articles

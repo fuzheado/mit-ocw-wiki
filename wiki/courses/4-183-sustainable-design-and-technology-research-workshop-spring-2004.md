@@ -12,6 +12,9 @@ views: 275
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T14:44:01Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 12, Problem-Set: 4, Resource: 5, Syllabus: 2"
+api_id: 4883
 ---
 
 # Sustainable Design and Technology Research Workshop
@@ -30,9 +33,34 @@ This workshop investigates the current state of sustainability in regards to arc
 
 ## Materials
 
-- [Design Assignments with Examples] Design Assignments with Examples
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/pages/syllabus/)
 
+### Problem-Set
+- [assn3.pdf (.pdf)](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/resources/assn3/)
+- [assn2.pdf (.pdf)](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/resources/assn2/)
+- [assn1.pdf (.pdf)](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/resources/assn1/)
+- [Assignments](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/pages/assignments/)
+
+### Assignment
+- [midlin.pdf (.pdf)](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/resources/midlin/)
+- [midleifer.pdf (.pdf)](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/resources/midleifer/)
+- [midhelinski.pdf (.pdf)](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/resources/midhelinski/)
+- [midbrown.pdf (.pdf)](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/resources/midbrown/)
+- [midbraddock.pdf (.pdf)](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/resources/midbraddock/)
+- [finalmeguro.pdf (.pdf)](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/resources/finalmeguro/)
+- [finallin.pdf (.pdf)](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/resources/finallin/)
+- [finalleifer.pdf (.pdf)](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/resources/finalleifer/)
+- [finalhelinski.pdf (.pdf)](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/resources/finalhelinski/)
+- [finalbrown.pdf (.pdf)](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/resources/finalbrown/)
+- [finalbraddock.pdf (.pdf)](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/resources/finalbraddock/)
+- [Projects](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/pages/projects/)
+
+### Resource
+- [4-183s04.jpg (.jpg)](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/resources/4-183s04/)
+- [4-183s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/resources/4-183s04-th/)
+- [Related Resources](https://ocw.mit.edu/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

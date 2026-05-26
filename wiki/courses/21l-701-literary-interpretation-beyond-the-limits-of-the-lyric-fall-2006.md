@@ -12,6 +12,9 @@ views: 136
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:57:51Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 4924
 ---
 
 # Literary Interpretation: Beyond the Limits of the Lyric
@@ -30,8 +33,21 @@ In this seminar we’ll read individual poems closely within a set of questions 
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-701-literary-interpretation-beyond-the-limits-of-the-lyric-fall-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-701-literary-interpretation-beyond-the-limits-of-the-lyric-fall-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-701-literary-interpretation-beyond-the-limits-of-the-lyric-fall-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-701-literary-interpretation-beyond-the-limits-of-the-lyric-fall-2006/pages/assignments/)
+
+### Resource
+- [Anna Akhmatova (.jpg)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-beyond-the-limits-of-the-lyric-fall-2006/resources/chp_modigliani/)
+- [Machu Picchu at Sunrise (.jpg)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-beyond-the-limits-of-the-lyric-fall-2006/resources/21l-701f06/)
+- [Machu Picchu at Sunrise (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-beyond-the-limits-of-the-lyric-fall-2006/resources/21l-701f06-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21l-701-literary-interpretation-beyond-the-limits-of-the-lyric-fall-2006/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

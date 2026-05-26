@@ -12,6 +12,9 @@ views: 231
 completeness: 0.12000000000000001
 last_modified: "2026-05-06T15:02:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 12, Problem-Set: 1, Reading-List: 5, Resource: 4, Syllabus: 2"
+api_id: 4045
 ---
 
 # Survival Skills for Researchers: The Responsible Conduct of Research
@@ -31,8 +34,37 @@ Beginning in Spring 2004, this course will be titled “Survival Skills for Rese
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [Advisors and Mentors (.pdf)](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/resources/9mentorsadvisorsha/)
+- [Allegations of Scientific Misconduct (.pdf)](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/resources/8allegationsofscie/)
+- [Checklist for Critical Review: General Study Design (.pdf)](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/resources/7reviewchecklist/)
+- [Peer Review (.pdf)](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/resources/7handoutpeerreview/)
+- [Literature Review and Preparing Proposals and Manuscripts (.pdf)](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/resources/6roposalsmanus/)
+- [Credit and Responsibility in Science (.pdf)](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/resources/5creditand/)
+- [Integrity of Research Data: Data Acquisition, Management, and Sharing (.pdf)](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/resources/4data/)
+- [Survival Skills for Researchers (.pdf)](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/resources/3bstudydesign/)
+- [Human Subjects in Research (.pdf)](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/resources/3ahumansubhandout/)
+- [Bias in Research and the Responsible Use of Laboratory Animals  (.pdf)](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/resources/2biasandlabanim/)
+- [Pathways to a Career in Science and Engineering (.pdf)](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/resources/11careers/)
+- [Lecture Notes](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/pages/lecture-notes/)
+
+### Reading-List
+- [The Mentor  (.pdf)](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/resources/5athementor/)
+- [The Coronary Artery Bypass Patient (.pdf)](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/resources/3thecoronaryartery/)
+- [Safety and Effectiveness of a Biomedical Implant (.pdf)](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/resources/2bsafetyandeffecti/)
+- [Getting Results (.pdf)](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/resources/2agettingresults/)
+- [Readings](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/pages/assignments/)
+
+### Resource
+- [Typical Process in Research (.jpg)](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/resources/hst-502s03/)
+- [Typical Process in Research (thumbnail) (.jpg)](https://ocw.mit.edu/courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003/resources/hst-502s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

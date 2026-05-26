@@ -12,6 +12,9 @@ views: 195
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T15:02:19Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4591
 ---
 
 # Games for Social Change
@@ -30,10 +33,17 @@ Run as a workshop, students collaborate in teams to design and prototype games f
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar and Readings** — [🔗](https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/pages/calendar-and-readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/pages/assignments/)
+
+### Resource
+- [The Cat and the Coup (.jpg)](https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/resources/cms-615f13/)
+- [The Cat and the Coup (thumbnail) (.jpg)](https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/resources/cms-615f13-th/)
+- [Serious Games](https://ocw.mit.edu/courses/cms-615-games-for-social-change-fall-2013/pages/serious-games/)
 ## Wikipedia Bridge
 
 ### Related Articles

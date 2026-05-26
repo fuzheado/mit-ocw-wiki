@@ -12,6 +12,9 @@ views: 640
 completeness: 0.2416666666666667
 last_modified: "2026-05-06T17:14:17Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 4, Lecture-Notes: 6, Problem-Set: 11, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3720
 ---
 
 # Affective Computing
@@ -30,10 +33,41 @@ This course instructs students on how to develop technologies that help people m
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/pages/calendar/)
+- **Final Project** — [🔗](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/pages/final-project/)
+- **Presentations** — [🔗](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/pages/final-project/presentations/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/pages/syllabus/)
 
+### Lecture-Notes
+- [MAS.630F15 Weeks 1-3 (.pdf)](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/resources/mitmas_630f15_weeks1-3/)
+- [MAS.630F15 Week 4 - Isen, Forgas, Mood++ (.pdf)](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/resources/mitmas_630f15_week4/)
+- [MAS.630F15 Week 2  - Extra Slides on EDA and Arousal (.pdf)](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/resources/mitmas_630f15_week2/)
+- [MAS.630F15 Frustration, Empathy, and Relational Agents (.pdf)](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/resources/mitmas_630f15_frustration/)
+- [Lecture Notes](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/pages/readings/)
+
+### Problem-Set
+- [MAS.630F15 Affective Computing Ethical Discussions (.pdf)](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/resources/mitmas_630f15_ethical/)
+- [Assignments](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/pages/assignments/)
+- [Assignment 8](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/pages/assignments/assignment-8/)
+- [Assignment 7](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/pages/assignments/assignment-7/)
+- [Assignment 6](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/pages/assignments/assignment-6/)
+- [Assignment 5](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/pages/assignments/assignment-5/)
+- [Assignment 4](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/pages/assignments/assignment-4/)
+- [Assignment 3](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/pages/assignments/assignment-3/)
+- [Assignment 2](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/pages/assignments/assignment-2/)
+- [Assignment 1](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/pages/assignments/assignment-1/)
+
+### Assignment
+- [Written Report](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/pages/final-project/written-report/)
+- [Project Proposal](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/pages/final-project/project-proposal/)
+
+### Resource
+- [mas-630f15.jpg (.jpg)](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/resources/mas-630f15/)
+- [mas-630f15-th.jpg (.jpg)](https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/resources/mas-630f15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

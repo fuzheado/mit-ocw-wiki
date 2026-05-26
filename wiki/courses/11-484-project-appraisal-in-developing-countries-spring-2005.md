@@ -12,6 +12,9 @@ views: 159
 completeness: 0.16000000000000003
 last_modified: "2026-05-06T16:51:13Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 8, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4050
 ---
 
 # Project Appraisal in Developing Countries
@@ -31,9 +34,26 @@ Introductory micro-economics is a pre-requisite for this course.
 
 ## Materials
 
-- [Problem Sets] Problem Sets
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-484-project-appraisal-in-developing-countries-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-484-project-appraisal-in-developing-countries-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-484-project-appraisal-in-developing-countries-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Problem Set 4: Mexican Toll Road Project Case Memo (.pdf)](https://ocw.mit.edu/courses/11-484-project-appraisal-in-developing-countries-spring-2005/resources/ps_4_risk_case_m/)
+- [Problem Set 5: Economic Appraisal of Nontradeable Projects (.pdf)](https://ocw.mit.edu/courses/11-484-project-appraisal-in-developing-countries-spring-2005/resources/ps05/)
+- [Problem Set 3: Scale and Timing (.pdf)](https://ocw.mit.edu/courses/11-484-project-appraisal-in-developing-countries-spring-2005/resources/ps03/)
+- [Problem Set 2: Discounting and Alternative Investment Criteria (.pdf)](https://ocw.mit.edu/courses/11-484-project-appraisal-in-developing-countries-spring-2005/resources/ps02/)
+- [Problem Set 1: Financial Cash Flows from Alternative Perspectives (.pdf)](https://ocw.mit.edu/courses/11-484-project-appraisal-in-developing-countries-spring-2005/resources/ps01/)
+- [Final Essay (.pdf)](https://ocw.mit.edu/courses/11-484-project-appraisal-in-developing-countries-spring-2005/resources/final_memo/)
+- [Case Study Memo Assignment: World Bank’s appraisal of the Three Cities Sanitation Project (.pdf)](https://ocw.mit.edu/courses/11-484-project-appraisal-in-developing-countries-spring-2005/resources/case_study_memo/)
+- [Assignments](https://ocw.mit.edu/courses/11-484-project-appraisal-in-developing-countries-spring-2005/pages/assignments/)
+
+### Resource
+- [Road and Infrastructure Project (.jpg)](https://ocw.mit.edu/courses/11-484-project-appraisal-in-developing-countries-spring-2005/resources/11-484s05/)
+- [Road and Infrastructure Project (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-484-project-appraisal-in-developing-countries-spring-2005/resources/11-484s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

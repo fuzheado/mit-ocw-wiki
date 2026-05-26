@@ -12,6 +12,8 @@ views: 5858
 completeness: 0.0
 last_modified: "2026-05-06T17:04:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Resource: 10, Video-Transcript: 16"
 ---
 
 # How to CAD Almost Anything
@@ -33,10 +35,20 @@ This supplemental resource offers links to the class’s&nbsp;Solidworks, Fusion
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
+### Lecture-Notes
+- [Students&#39; Reasons for Enrolling in the Workshop](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/pages/students-reasons-for-enrolling-in-the-workshop/)
 
+### Resource
+- [SolidWorks](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/pages/solidworks/)
+- [Fusion 360](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/pages/fusion-360/)
+- [Inventor](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/pages/inventor/)
+- [Onshape](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/pages/onshape/)
+- [Siemens NX](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/pages/siemens-nx/)
+- [Instructor Insights](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/pages/instructor-insights/)
+- [Reverse Engineering as a Design Technique](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/pages/reverse-engineering-as-a-design-technique/)
+- [Learning to Use CAD Software](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/pages/learning-to-use-cad-software/)
+- [Free Alternatives to Proprietary CAD Software](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/pages/free-alternatives-to-proprietary-cad-software/)
+- [Parting Thoughts](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/pages/parting-thoughts/)
 ## Wikipedia Bridge
 
 ### Related Articles

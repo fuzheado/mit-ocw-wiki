@@ -12,6 +12,9 @@ views: 377
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:08:28Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 4, Syllabus: 2"
+api_id: 5639
 ---
 
 # Environmental Justice Law and Policy
@@ -30,8 +33,20 @@ This seminar introduces students to basic principles of environmental justice an
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-368-environmental-justice-law-and-policy-fall-2019/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-368-environmental-justice-law-and-policy-fall-2019/pages/syllabus/)
 
+### Reading-List
+- [Full Bibliography](https://ocw.mit.edu/courses/11-368-environmental-justice-law-and-policy-fall-2019/pages/readings/full-bibliography/)
+- [Readings](https://ocw.mit.edu/courses/11-368-environmental-justice-law-and-policy-fall-2019/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-368-environmental-justice-law-and-policy-fall-2019/pages/assignments/)
+
+### Resource
+- [Standing Rock protest camp (.jpg)](https://ocw.mit.edu/courses/11-368-environmental-justice-law-and-policy-fall-2019/resources/11-368f19/)
+- [Standing Rock protest camp thumbnail (.jpg)](https://ocw.mit.edu/courses/11-368-environmental-justice-law-and-policy-fall-2019/resources/11-368f19-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

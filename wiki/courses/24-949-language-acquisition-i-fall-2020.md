@@ -12,6 +12,9 @@ views: 299
 completeness: 0.11166666666666668
 last_modified: "2026-05-06T17:18:41Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 11, Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4746
 ---
 
 # Language Acquisition I
@@ -30,8 +33,31 @@ This course focuses on the process by which native speakers of a language acquir
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-949-language-acquisition-i-fall-2020/pages/syllabus/)
 
+### Lecture-Notes
+- [Class 9: Quantifiers (.pdf)](https://ocw.mit.edu/courses/24-949-language-acquisition-i-fall-2020/resources/mit24_949f20_lec9/)
+- [Class 8: Wh-Movement (.pdf)](https://ocw.mit.edu/courses/24-949-language-acquisition-i-fall-2020/resources/mit24_949f20_lec8/)
+- [Class 7: Unaccusatives (.pdf)](https://ocw.mit.edu/courses/24-949-language-acquisition-i-fall-2020/resources/mit24_949f20_lec7/)
+- [Class 6: Passives (.pdf)](https://ocw.mit.edu/courses/24-949-language-acquisition-i-fall-2020/resources/mit24_949f20_lec6/)
+- [Class 5: Root Infinitives (.pdf)](https://ocw.mit.edu/courses/24-949-language-acquisition-i-fall-2020/resources/mit24_949f20_lec5/)
+- [Class 4: Early Syntax (.pdf)](https://ocw.mit.edu/courses/24-949-language-acquisition-i-fall-2020/resources/mit24_949f20_lec4/)
+- [Class 3: Syntactic Bootstrapping (.pdf)](https://ocw.mit.edu/courses/24-949-language-acquisition-i-fall-2020/resources/mit24_949f20_lec3/)
+- [Class 2: Words (.pdf)](https://ocw.mit.edu/courses/24-949-language-acquisition-i-fall-2020/resources/mit24_949f20_lec2/)
+- [Class 10: Numerals (.pdf)](https://ocw.mit.edu/courses/24-949-language-acquisition-i-fall-2020/resources/mit24_949f20_lec10/)
+- [Class 1: Foundations (.pdf)](https://ocw.mit.edu/courses/24-949-language-acquisition-i-fall-2020/resources/mit24_949f20_lec1/)
+- [Lecture Slides](https://ocw.mit.edu/courses/24-949-language-acquisition-i-fall-2020/pages/lecture-slides/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/24-949-language-acquisition-i-fall-2020/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/24-949-language-acquisition-i-fall-2020/pages/assignments/)
+
+### Resource
+- [24.949 Course Home Page Image (.jpg)](https://ocw.mit.edu/courses/24-949-language-acquisition-i-fall-2020/resources/24-949f20/)
+- [24.949 Thumbnail Image (.jpg)](https://ocw.mit.edu/courses/24-949-language-acquisition-i-fall-2020/resources/24-949f20-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

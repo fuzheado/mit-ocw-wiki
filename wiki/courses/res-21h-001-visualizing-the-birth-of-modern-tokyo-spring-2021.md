@@ -12,6 +12,9 @@ views: 195
 completeness: 0.0
 last_modified: "2026-05-06T16:53:10Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 5111
 ---
 
 # Visualizing the Birth of Modern Tokyo
@@ -31,8 +34,9 @@ This course is part of the Open Learning Library, which is free to use. You have
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [res-21hs21-001.jpg (.jpg)](https://ocw.mit.edu/courses/res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021/resources/res-21hs21-001/)
+- [res-21hs21-001-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021/resources/res-21hs21-001-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

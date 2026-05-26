@@ -12,6 +12,9 @@ views: 9646
 completeness: 0.12
 last_modified: "2026-05-06T17:00:33Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 6, Reading-List: 7, Resource: 4, Syllabus: 2"
+api_id: 5644
 ---
 
 # What is Capitalism?
@@ -30,8 +33,30 @@ As we live in the aftermath of the Financial Crisis of 2008, there are renewed q
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-461-what-is-capitalism-fall-2013/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-461-what-is-capitalism-fall-2013/pages/syllabus/)
 
+### Reading-List
+- [21A.461 What is Capitalism? Handout on Adam Smith and Karl Marx (.pdf)](https://ocw.mit.edu/courses/21a-461-what-is-capitalism-fall-2013/resources/mit21a_461f13_rd_qs_sm_mr/)
+- [21A.461 What is Capitalism? Study Questions for Marx and Weber (.pdf)](https://ocw.mit.edu/courses/21a-461-what-is-capitalism-fall-2013/resources/mit21a_461f13_rd_qs_mr_wb/)
+- [21A.461 What is Capitalism? Study Questions for Hayek and Polanyi (.pdf)](https://ocw.mit.edu/courses/21a-461-what-is-capitalism-fall-2013/resources/mit21a_461f13_rd_qs_hy_po/)
+- [21A.461 What is Capitalism? Discussion Questions for the Final Class (.pdf)](https://ocw.mit.edu/courses/21a-461-what-is-capitalism-fall-2013/resources/mit21a_461f13_fl_cl_dis_qs/)
+- [21A.461 What is Capitalism? Class Notes About Post-Structuralism (.pdf)](https://ocw.mit.edu/courses/21a-461-what-is-capitalism-fall-2013/resources/mit21a_461f13_cl_pststr_lt/)
+- [21A.461 What is Capitalism? Class Notes About Inequality (.pdf)](https://ocw.mit.edu/courses/21a-461-what-is-capitalism-fall-2013/resources/mit21a_461f13_cl_nt_inequ/)
+- [Readings](https://ocw.mit.edu/courses/21a-461-what-is-capitalism-fall-2013/pages/readings/)
+
+### Problem-Set
+- [21A.461 What is Captitalism? Writing Resource "Revising the Draft" (.pdf)](https://ocw.mit.edu/courses/21a-461-what-is-capitalism-fall-2013/resources/mit21a_461f13_rev_the_drft/)
+- [21A.461 What is Captitalism? Writing Resource "How to Improve Your Writing" (.pdf)](https://ocw.mit.edu/courses/21a-461-what-is-capitalism-fall-2013/resources/mit21a_461f13_hw_to_imp_wr/)
+- [Second Writing Assignment](https://ocw.mit.edu/courses/21a-461-what-is-capitalism-fall-2013/pages/assignments/second-writing-assignment/)
+- [First Writing Assignment](https://ocw.mit.edu/courses/21a-461-what-is-capitalism-fall-2013/pages/assignments/first-writing-assignment/)
+- [Final Writing Assignment](https://ocw.mit.edu/courses/21a-461-what-is-capitalism-fall-2013/pages/assignments/final-writing-assignment/)
+- [Assignments](https://ocw.mit.edu/courses/21a-461-what-is-capitalism-fall-2013/pages/assignments/)
+
+### Resource
+- [21A-461s13.jpg (.jpg)](https://ocw.mit.edu/courses/21a-461-what-is-capitalism-fall-2013/resources/21a-461s13/)
+- [21A-461s13-th.jpg (.jpg)](https://ocw.mit.edu/courses/21a-461-what-is-capitalism-fall-2013/resources/21a-461s13-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

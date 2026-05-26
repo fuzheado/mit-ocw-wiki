@@ -12,6 +12,8 @@ views: 244
 completeness: 0.275
 last_modified: "2026-05-06T14:50:30Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Problem-Set: 1, Reading-List: 1, Syllabus: 1"
 ---
 
 # From Nano to Macro: Introduction to Atomistic Modeling Techniques
@@ -32,11 +34,20 @@ This course was featured in an MIT Tech Talk article.
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
-- [Projects with Examples] Projects with Examples
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/pages/projects/)
 ## Wikipedia Bridge
 
 ### Related Articles

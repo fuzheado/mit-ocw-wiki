@@ -12,6 +12,9 @@ views: 66
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:56:18Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 2, Syllabus: 1, Video-Transcript: 2"
+api_id: 3927
 ---
 
 # Writing About Race
@@ -30,8 +33,15 @@ Does race still matter, as Cornel West proclaimed in his 1994 book of that title
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21w-742-writing-about-race-spring-2013/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21w-742-writing-about-race-spring-2013/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21w-742-writing-about-race-spring-2013/pages/assignments/)
+
+### Resource
+- [Toni Morrison holds up a book while she speaks at a lectern (.jpg)](https://ocw.mit.edu/courses/21w-742-writing-about-race-spring-2013/resources/21w-742s13/)
 ## Wikipedia Bridge
 
 ### Related Articles

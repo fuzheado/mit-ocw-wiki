@@ -12,6 +12,9 @@ views: 192
 completeness: 0.36000000000000004
 last_modified: "2026-05-06T14:43:40Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 26, Problem-Set: 8, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4733
 ---
 
 # Introduction to Syntax
@@ -32,9 +35,54 @@ The goal of the course is to understand why certain problems have been treated i
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [ln9process_unacc.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ln9process_unacc/)
+- [ln8linking_utah.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ln8linking_utah/)
+- [ln7unaccusativit.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ln7unaccusativit/)
+- [ln6a_reconstruct.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ln6a_reconstruct/)
+- [ln5a_movement.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ln5a_movement/)
+- [ln4ho_lasnik_89.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ln4ho_lasnik_89/)
+- [ln3ho_kayne_94.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ln3ho_kayne_94/)
+- [ln2ho_fukui_01.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ln2ho_fukui_01/)
+- [ln1psych_intro.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ln1psych_intro/)
+- [ln18recent_minim.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ln18recent_minim/)
+- [ln17psych_pesets.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ln17psych_pesets/)
+- [ln16psych_b_r.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ln16psych_b_r/)
+- [ln15cont_vs_rais.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ln15cont_vs_rais/)
+- [ln14control.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ln14control/)
+- [ln13case_stackin.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ln13case_stackin/)
+- [ln12ho_marantz91.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ln12ho_marantz91/)
+- [ln11ho_lfg.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ln11ho_lfg/)
+- [ln10rela_grammar.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ln10rela_grammar/)
+- [ho_pro.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ho_pro/)
+- [ho_nonconf.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ho_nonconf/)
+- [ho_mplt2.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ho_mplt2/)
+- [ho_mplt1.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ho_mplt1/)
+- [ho_head_mvt.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ho_head_mvt/)
+- [ho_double_obj.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ho_double_obj/)
+- [ho_bjr_89.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ho_bjr_89/)
+- [Lecture Notes](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/pages/readings/)
+
+### Problem-Set
+- [ps6null_subjects.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ps6null_subjects/)
+- [ps5b_m_1999.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ps5b_m_1999/)
+- [ps3pass_unaccu.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ps3pass_unaccu/)
+- [ps2a_mvt_probset.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ps2a_mvt_probset/)
+- [ps1_kayne.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/ps1_kayne/)
+- [hw_lfg.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/hw_lfg/)
+- [hw_larson.pdf (.pdf)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/hw_larson/)
+- [Assignments](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/pages/assignments/)
+
+### Resource
+- [24-951f03.jpg (.jpg)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/24-951f03/)
+- [24-951f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/24-951-introduction-to-syntax-fall-2003/resources/24-951f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

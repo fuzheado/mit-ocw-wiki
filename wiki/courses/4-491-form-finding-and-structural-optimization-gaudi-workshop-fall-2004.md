@@ -12,6 +12,9 @@ views: 371
 completeness: 0.125
 last_modified: "2026-05-06T15:01:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 3, Lecture-Notes: 3, Problem-Set: 5, Resource: 5, Syllabus: 2"
+api_id: 4308
 ---
 
 # Form-Finding and Structural Optimization: Gaudi Workshop
@@ -30,10 +33,31 @@ Inspired by the work of the architect Antoni Gaudi, this research workshop will 
 
 ## Materials
 
-- [Design Assignments] Design Assignments
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [ln2.pdf (.pdf)](https://ocw.mit.edu/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/resources/ln2/)
+- [ln1.pdf (.pdf)](https://ocw.mit.edu/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/resources/ln1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/pages/lecture-notes/)
+
+### Problem-Set
+- [assn2.pdf (.pdf)](https://ocw.mit.edu/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/resources/assn2/)
+- [assn1b.pdf (.pdf)](https://ocw.mit.edu/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/resources/assn1b/)
+- [assn1.pdf (.pdf)](https://ocw.mit.edu/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/resources/assn1/)
+- [assn0.pdf (.pdf)](https://ocw.mit.edu/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/resources/assn0/)
+- [Assignments](https://ocw.mit.edu/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/pages/assignments/)
+
+### Assignment
+- [gaudisaud.pdf (.pdf)](https://ocw.mit.edu/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/resources/gaudisaud/)
+- [gaudigun.pdf (.pdf)](https://ocw.mit.edu/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/resources/gaudigun/)
+- [Projects](https://ocw.mit.edu/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/pages/projects/)
+
+### Resource
+- [4-491f04.jpg (.jpg)](https://ocw.mit.edu/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/resources/4-491f04/)
+- [4-491f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/resources/4-491f04-th/)
+- [Related Resources](https://ocw.mit.edu/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

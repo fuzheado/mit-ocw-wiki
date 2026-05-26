@@ -12,6 +12,9 @@ views: 546
 completeness: 0.4
 last_modified: "2026-05-06T14:51:01Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 23, Resource: 12, Syllabus: 2"
+api_id: 4982
 ---
 
 # Organic & Biomaterials Chemistry
@@ -33,11 +36,46 @@ Legal Notice
 
 ## Materials
 
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/pages/calendar/)
+- **Labs** — [🔗](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/pages/labs/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/pages/syllabus/)
 
+### Problem-Set
+- [pset3_sol.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/pset3_sol/)
+- [pset3.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/pset3/)
+- [pset2_sol.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/pset2_sol/)
+- [pset2.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/pset2/)
+- [pset1_sol.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/pset1_sol/)
+- [pset1.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/pset1/)
+- [practicec_sol.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/practicec_sol/)
+- [practicec.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/practicec/)
+- [practiceb_sol.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/practiceb_sol/)
+- [practiceb.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/practiceb/)
+- [practicea_sol.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/practicea_sol/)
+- [practicea.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/practicea/)
+- [2005_quiz2_sol.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/2005_quiz2_sol/)
+- [2005_quiz2.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/2005_quiz2/)
+- [2005_quiz1_sol.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/2005_quiz1_sol/)
+- [2005_quiz1.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/2005_quiz1/)
+- [2005_final.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/2005_final/)
+- [2004_quiz2_sol.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/2004_quiz2_sol/)
+- [2004_quiz2.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/2004_quiz2/)
+- [2004_quiz1_sol.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/2004_quiz1_sol/)
+- [2004_quiz1.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/2004_quiz1/)
+- [Exams](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/pages/assignments/)
+
+### Resource
+- [lab4_virus_mtrls.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/lab4_virus_mtrls/)
+- [lab3_enzymes.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/lab3_enzymes/)
+- [lab2_interfacial.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/lab2_interfacial/)
+- [lab1_nanoreactor.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/lab1_nanoreactor/)
+- [intro.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/intro/)
+- [gram_pos_neg_bct.pdf (.pdf)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/gram_pos_neg_bct/)
+- [3-034f05.jpg (.jpg)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/3-034f05/)
+- [3-034f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/resources/3-034f05-th/)
+- [Study Materials](https://ocw.mit.edu/courses/3-034-organic-biomaterials-chemistry-fall-2005/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

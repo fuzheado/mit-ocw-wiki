@@ -12,6 +12,9 @@ views: 207
 completeness: 0.025
 last_modified: "2026-05-06T15:00:46Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Lecture-Notes: 3, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5028
 ---
 
 # Leadership Tools and Teams: A Product Development Lab
@@ -30,9 +33,25 @@ In this class you will be creating a leadership development tool for students li
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-978-leadership-tools-and-teams-a-product-development-lab-spring-2007/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-978-leadership-tools-and-teams-a-product-development-lab-spring-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [The MIT Sloan Leadership Program (.pdf)](https://ocw.mit.edu/courses/15-978-leadership-tools-and-teams-a-product-development-lab-spring-2007/resources/lec2/)
+- [X Teams: The external route to team performance (.pdf)](https://ocw.mit.edu/courses/15-978-leadership-tools-and-teams-a-product-development-lab-spring-2007/resources/lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-978-leadership-tools-and-teams-a-product-development-lab-spring-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-978-leadership-tools-and-teams-a-product-development-lab-spring-2007/pages/readings/)
+
+### Assignment
+- [Sloan Ambassador Program: Building Volunteer Leaders (.pdf)](https://ocw.mit.edu/courses/15-978-leadership-tools-and-teams-a-product-development-lab-spring-2007/resources/ambassador/)
+- [Projects](https://ocw.mit.edu/courses/15-978-leadership-tools-and-teams-a-product-development-lab-spring-2007/pages/projects/)
+
+### Resource
+- [Group problem-solving (.jpg)](https://ocw.mit.edu/courses/15-978-leadership-tools-and-teams-a-product-development-lab-spring-2007/resources/15-978s07/)
+- [Group problem-solving (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-978-leadership-tools-and-teams-a-product-development-lab-spring-2007/resources/15-978s07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

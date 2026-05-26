@@ -12,6 +12,9 @@ views: 59
 completeness: 0.1
 last_modified: "2026-05-06T17:11:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 1"
+api_id: 5335
 ---
 
 # Community-Owned Enterprise and Civic Participation
@@ -30,9 +33,24 @@ This course will examine literature and practice regarding community-owned enter
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/pages/syllabus/)
+- **Workshop Videos** — [🔗](https://ocw.mit.edu/courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/pages/workshop-videos/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Youth Cooperative Toolkit (.pdf)](https://ocw.mit.edu/courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/resources/youthtoolkit/)
+- [Starting a Group-Based Business: Development Plan (.pdf)](https://ocw.mit.edu/courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/resources/appendix4/)
+- [Worksheet #1. Market Analysis: What is my target market? (.pdf)](https://ocw.mit.edu/courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/resources/appendix3/)
+- [Clarifying Roles within Your Business (.pdf)](https://ocw.mit.edu/courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/resources/appendix2/)
+- [Assignments](https://ocw.mit.edu/courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/pages/assignments/)
+
+### Resource
+- [Harvard/MIT Cooperative Society (.jpg)](https://ocw.mit.edu/courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/resources/11-954s05/)
+- [Harvard/MIT Cooperative Society (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/resources/11-954s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 74
 completeness: 0.0
 last_modified: "2026-05-06T17:16:40Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Reading-List: 3, Resource: 4, Syllabus: 2"
+api_id: 3407
 ---
 
 # Perspectives in Biological Engineering
@@ -30,8 +33,21 @@ This seminar-format course provides an in-depth presentation and discussion of h
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/20-400j-perspectives-in-biological-engineering-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/20-400j-perspectives-in-biological-engineering-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Issues of Scientific Misconduct (.pdf)](https://ocw.mit.edu/courses/20-400j-perspectives-in-biological-engineering-spring-2006/resources/questions/)
+- [Basic Statistics and Human Genetics: A Swift 'Perspective" (.pdf)](https://ocw.mit.edu/courses/20-400j-perspectives-in-biological-engineering-spring-2006/resources/20_400_statgen_/)
+- [Readings](https://ocw.mit.edu/courses/20-400j-perspectives-in-biological-engineering-spring-2006/pages/readings/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/20-400j-perspectives-in-biological-engineering-spring-2006/pages/projects/)
+
+### Resource
+- [Wireframe Representation of a Fibroblast (.jpg)](https://ocw.mit.edu/courses/20-400j-perspectives-in-biological-engineering-spring-2006/resources/20-400js06/)
+- [Wireframe Representation of a Fibroblast (thumbnail) (.jpg)](https://ocw.mit.edu/courses/20-400j-perspectives-in-biological-engineering-spring-2006/resources/20-400js06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

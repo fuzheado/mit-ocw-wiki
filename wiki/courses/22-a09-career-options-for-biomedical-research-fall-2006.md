@@ -12,6 +12,9 @@ views: 368
 completeness: 0.21666666666666667
 last_modified: "2026-05-06T17:09:20Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Problem-Set: 19, Resource: 4, Syllabus: 2"
+api_id: 4140
 ---
 
 # Career Options for Biomedical Research
@@ -30,9 +33,38 @@ This course has been designed as a seminar to give students an understanding of 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [advisorsem05.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/advisorsem05/)
+- [Lecture Notes](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/pages/lecture-notes/)
+
+### Problem-Set
+- [xin_he.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/xin_he/)
+- [term_project.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/term_project/)
+- [sidney_yip_bio.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/sidney_yip_bio/)
+- [sara_ruben.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/sara_ruben/)
+- [perspective.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/perspective/)
+- [monica_crespo.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/monica_crespo/)
+- [minwah_leung.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/minwah_leung/)
+- [lec9.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/lec9/)
+- [lec8.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/lec8/)
+- [lec7.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/lec7/)
+- [lec3.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/lec3/)
+- [lec13.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/lec13/)
+- [lec12.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/lec12/)
+- [lec10.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/lec10/)
+- [justin_tan.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/justin_tan/)
+- [daon_ha.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/daon_ha/)
+- [cathy_zhang.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/cathy_zhang/)
+- [bruck_assefa.pdf (.pdf)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/bruck_assefa/)
+- [Assignments](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/pages/assignments/)
+
+### Resource
+- [22-a09s06.jpg (.jpg)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/22-a09s06/)
+- [22-a09s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/22-a09-career-options-for-biomedical-research-fall-2006/resources/22-a09s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

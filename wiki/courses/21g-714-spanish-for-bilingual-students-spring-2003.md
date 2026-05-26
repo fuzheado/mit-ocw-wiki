@@ -12,6 +12,9 @@ views: 172
 completeness: 0.1
 last_modified: "2026-05-06T14:58:38Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Problem-Set: 5, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3665
 ---
 
 # Spanish for Bilingual Students
@@ -30,10 +33,24 @@ Spanish for Bilingual Students is an intermediate course designed principally fo
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Projects with Examples] Projects with Examples
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-714-spanish-for-bilingual-students-spring-2003/pages/calendar/)
+- **Projects** — [🔗](https://ocw.mit.edu/courses/21g-714-spanish-for-bilingual-students-spring-2003/pages/projects/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-714-spanish-for-bilingual-students-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-714-spanish-for-bilingual-students-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Importancia para ser latino/hispano. Poner en orden descendiente. (.pdf)](https://ocw.mit.edu/courses/21g-714-spanish-for-bilingual-students-spring-2003/resources/mit21g_714s03_hispanolatin/)
+- [Encuesta (.pdf)](https://ocw.mit.edu/courses/21g-714-spanish-for-bilingual-students-spring-2003/resources/mit21g_714s03_encuesta/)
+- [Ejercicio auditivo; contestar individualmente y despuúes formar grupos (.pdf)](https://ocw.mit.edu/courses/21g-714-spanish-for-bilingual-students-spring-2003/resources/mit21g_714s03_adoptargemel/)
+- [Actividad para el primer día de clases (.pdf)](https://ocw.mit.edu/courses/21g-714-spanish-for-bilingual-students-spring-2003/resources/mit21g_714s03_actividad_pr/)
+- [Assignments](https://ocw.mit.edu/courses/21g-714-spanish-for-bilingual-students-spring-2003/pages/assignments/)
+
+### Resource
+- [Jorge Noble and Jazlyn Carvajal (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-714-spanish-for-bilingual-students-spring-2003/resources/21g-714s03/)
+- [Jorge Noble and Jazlyn Carvajal (.jpg)](https://ocw.mit.edu/courses/21g-714-spanish-for-bilingual-students-spring-2003/resources/21g-714s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

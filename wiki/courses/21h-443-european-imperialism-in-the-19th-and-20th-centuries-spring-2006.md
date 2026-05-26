@@ -12,6 +12,9 @@ views: 216
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:04:32Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 5654
 ---
 
 # European Imperialism in the 19th and 20th Centuries
@@ -30,8 +33,22 @@ From pineapples grown in Hawaii to English-speaking call centers outsourced to I
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-443-european-imperialism-in-the-19th-and-20th-centuries-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-443-european-imperialism-in-the-19th-and-20th-centuries-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-443-european-imperialism-in-the-19th-and-20th-centuries-spring-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-443-european-imperialism-in-the-19th-and-20th-centuries-spring-2006/pages/assignments/)
+
+### Resource
+- [Spring 2006 Syllabus (.pdf)](https://ocw.mit.edu/courses/21h-443-european-imperialism-in-the-19th-and-20th-centuries-spring-2006/resources/mit21h_443s06_sylls06/)
+- [Spring 2005 Syllabus (.pdf)](https://ocw.mit.edu/courses/21h-443-european-imperialism-in-the-19th-and-20th-centuries-spring-2006/resources/mit21h_443s06_sylls05/)
+- [Fall 2007 Syllabus (.pdf)](https://ocw.mit.edu/courses/21h-443-european-imperialism-in-the-19th-and-20th-centuries-spring-2006/resources/mit21h_443s06_syllf07/)
+- [Restoration and defense of British liberty in South Africa (.jpg)](https://ocw.mit.edu/courses/21h-443-european-imperialism-in-the-19th-and-20th-centuries-spring-2006/resources/21h-443s06/)
+- [Restoration and defense of British liberty in South Africa (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21h-443-european-imperialism-in-the-19th-and-20th-centuries-spring-2006/resources/21h-443s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

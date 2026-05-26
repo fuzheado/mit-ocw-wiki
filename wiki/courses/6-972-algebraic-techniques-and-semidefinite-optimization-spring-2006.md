@@ -12,6 +12,9 @@ views: 202
 completeness: 0.2716666666666667
 last_modified: "2026-05-06T16:55:30Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 23, Problem-Set: 4, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 5374
 ---
 
 # Algebraic Techniques and Semidefinite Optimization
@@ -30,8 +33,47 @@ This research-oriented course will focus on algebraic and computational techniqu
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [lecture_22.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_22/)
+- [lecture_21.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_21/)
+- [lecture_20.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_20/)
+- [lecture_19.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_19/)
+- [lecture_18.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_18/)
+- [lecture_17.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_17/)
+- [lecture_16.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_16/)
+- [lecture_15.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_15/)
+- [lecture_14.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_14/)
+- [lecture_13.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_13/)
+- [lecture_12.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_12/)
+- [lecture_11.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_11/)
+- [lecture_10.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_10/)
+- [lecture_09.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_09/)
+- [lecture_08.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_08/)
+- [lecture_07.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_07/)
+- [lecture_06.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_06/)
+- [lecture_05.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_05/)
+- [lecture_04.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_04/)
+- [lecture_03.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_03/)
+- [lecture_02.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_02/)
+- [lecture_01.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/lecture_01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/pages/readings/)
+
+### Problem-Set
+- [hw3.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/hw3/)
+- [hw2.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/hw2/)
+- [hw1.pdf (.pdf)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/hw1/)
+- [Assignments](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/pages/assignments/)
+
+### Resource
+- [6-972s06.jpg (.jpg)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/6-972s06/)
+- [6-972s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/resources/6-972s06-th/)
+- [Related Resources](https://ocw.mit.edu/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 231
 completeness: 0.008333333333333333
 last_modified: "2026-05-06T14:51:34Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 3, Lecture-Notes: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4589
 ---
 
 # Property Rights in Transition
@@ -30,8 +33,24 @@ This course examines the theories and policy debates over who can own real prope
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-467j-property-rights-in-transition-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-467j-property-rights-in-transition-spring-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/11-467j-property-rights-in-transition-spring-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-467j-property-rights-in-transition-spring-2005/pages/readings/)
+
+### Assignment
+- [Property Rights and Transitional Justice: Restitution in Hungary and East Germany (.pdf)](https://ocw.mit.edu/courses/11-467j-property-rights-in-transition-spring-2005/resources/jtuckermohlfinal/)
+- [The Private Property-Common Property Dichotomy Is There a Middle Ground in the Property Rights Theory? (.pdf)](https://ocw.mit.edu/courses/11-467j-property-rights-in-transition-spring-2005/resources/gv_11467finlpapr/)
+- [Projects](https://ocw.mit.edu/courses/11-467j-property-rights-in-transition-spring-2005/pages/projects/)
+
+### Resource
+- [Boundary Stones (.jpg)](https://ocw.mit.edu/courses/11-467j-property-rights-in-transition-spring-2005/resources/11-467js05/)
+- [Boundary Stones (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-467j-property-rights-in-transition-spring-2005/resources/11-467js05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

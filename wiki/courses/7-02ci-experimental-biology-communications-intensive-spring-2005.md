@@ -12,6 +12,9 @@ views: 110
 completeness: 0.14833333333333334
 last_modified: "2026-05-06T17:07:11Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 13, Problem-Set: 2, Resource: 6, Syllabus: 2"
+api_id: 5059
 ---
 
 # Experimental Biology - Communications Intensive
@@ -30,9 +33,34 @@ This course is the scientific communications portion of course 7.02, Experimenta
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [tblfigs_mpo_sp05.pdf (.pdf)](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/resources/tblfigs_mpo_sp05/)
+- [result_nl_sp05.pdf (.pdf)](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/resources/result_nl_sp05/)
+- [result_mpo_sp05.pdf (.pdf)](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/resources/result_mpo_sp05/)
+- [nl_titleabstract.pdf (.pdf)](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/resources/nl_titleabstract/)
+- [mposp05_ttlabst.pdf (.pdf)](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/resources/mposp05_ttlabst/)
+- [mposp05_discuss.pdf (.pdf)](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/resources/mposp05_discuss/)
+- [methods_nl_sp05.pdf (.pdf)](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/resources/methods_nl_sp05/)
+- [methods_mpo_sp05.pdf (.pdf)](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/resources/methods_mpo_sp05/)
+- [intro_nl_sp05.pdf (.pdf)](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/resources/intro_nl_sp05/)
+- [intro_mpo_sp05.pdf (.pdf)](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/resources/intro_mpo_sp05/)
+- [illus_nl_sp05.pdf (.pdf)](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/resources/illus_nl_sp05/)
+- [discussion_nl.pdf (.pdf)](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/resources/discussion_nl/)
+- [Lecture Notes](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/pages/lecture-notes/)
+
+### Problem-Set
+- [scicommltp_sp05.pdf (.pdf)](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/resources/scicommltp_sp05/)
+- [Assignments](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/pages/assignments/)
+
+### Resource
+- [scicomsyl_s5_fin.pdf (.pdf)](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/resources/scicomsyl_s5_fin/)
+- [7-02cis05.jpg (.jpg)](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/resources/7-02cis05/)
+- [7-02cis05-th.jpg (.jpg)](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/resources/7-02cis05-th/)
+- [Related Resources](https://ocw.mit.edu/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

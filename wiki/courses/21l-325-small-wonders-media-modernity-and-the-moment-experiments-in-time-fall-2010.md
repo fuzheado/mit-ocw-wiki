@@ -12,6 +12,9 @@ views: 310
 completeness: 0.06
 last_modified: "2026-05-06T17:18:23Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 5669
 ---
 
 # Small Wonders: Media, Modernity, and the Moment: Experiments in Time
@@ -30,9 +33,19 @@ The “small wonders” to which our course will attend are moments of present t
 
 ## Materials
 
-- [Presentation Assignments with Examples] Presentation Assignments with Examples
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-325-small-wonders-media-modernity-and-the-moment-experiments-in-time-fall-2010/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-325-small-wonders-media-modernity-and-the-moment-experiments-in-time-fall-2010/pages/readings/)
+
+### Problem-Set
+- [1000 Words is Nothing: The Photographic Present in Relation to Informational Extraction (.pdf)](https://ocw.mit.edu/courses/21l-325-small-wonders-media-modernity-and-the-moment-experiments-in-time-fall-2010/resources/mit21l_325f10_assn02/)
+- [Sketching the Present (.pdf)](https://ocw.mit.edu/courses/21l-325-small-wonders-media-modernity-and-the-moment-experiments-in-time-fall-2010/resources/mit21l_325f10_assn01/)
+- [Assignments](https://ocw.mit.edu/courses/21l-325-small-wonders-media-modernity-and-the-moment-experiments-in-time-fall-2010/pages/assignments/)
+
+### Resource
+- [The Altes Museum (.jpg)](https://ocw.mit.edu/courses/21l-325-small-wonders-media-modernity-and-the-moment-experiments-in-time-fall-2010/resources/21l-325f10/)
 ## Wikipedia Bridge
 
 ### Related Articles

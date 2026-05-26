@@ -12,6 +12,9 @@ views: 531
 completeness: 0.4
 last_modified: "2026-05-06T14:51:32Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 6, Lecture-Notes: 1, Resource: 4, Syllabus: 2, Video-Transcript: 33"
+api_id: 5509
 ---
 
 # Health Information Systems to Improve Quality of Care in Resource-Poor Settings
@@ -31,10 +34,22 @@ This OCW site combines resources from the initial Spring 2011 offering of the co
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/pages/calendar/)
+- **Lecture Videos and Slides** — [🔗](https://ocw.mit.edu/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/pages/lectures-and-videos/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/pages/syllabus/)
 
+### Assignment
+- [Final paper: Impact of US Federal Funding on Global e-Health Initiatives in Developing Countries (.pdf)](https://ocw.mit.edu/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/resources/mithst_s14s12_proj_usfund/)
+- [Spring 2012 Lecture 10.4 (.pdf)](https://ocw.mit.edu/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/resources/mithst_s14s12_proj_s12_2/)
+- [Spring 2012 Lecture 10.1 (.pdf)](https://ocw.mit.edu/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/resources/mithst_s14s12_proj_s12_1/)
+- [Final paper: Designing a Public Health Software Framework: Porting OpenMRS data to i2b2 (.pdf)](https://ocw.mit.edu/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/resources/mithst_s14s12_proj_i2b2/)
+- [Final paper: Vaccine Supply Chain in Ethiopia (.pdf)](https://ocw.mit.edu/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/resources/mithst_s14s11_proj_vaccine/)
+- [Projects](https://ocw.mit.edu/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/pages/projects/)
+
+### Resource
+- [hst-s14s12.jpg (.jpg)](https://ocw.mit.edu/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/resources/hst-s14s12/)
+- [hst-s14s12-th.jpg (.jpg)](https://ocw.mit.edu/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/resources/hst-s14s12-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 227
 completeness: 0.10833333333333334
 last_modified: "2026-05-06T14:53:42Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 13, Reading-List: 1, Resource: 8, Syllabus: 2"
+api_id: 3395
 ---
 
 # Astrophysics II
@@ -30,8 +33,35 @@ This is the second course in a two-semester sequence on astrophysics. Topics inc
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [lec9.pdf (.pdf)](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/resources/lec9/)
+- [lec8.pdf (.pdf)](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/resources/lec8/)
+- [lec7.pdf (.pdf)](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/resources/lec7/)
+- [lec6.pdf (.pdf)](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/resources/lec6/)
+- [lec5.pdf (.pdf)](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/resources/lec5/)
+- [lec4.pdf (.pdf)](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/resources/lec4/)
+- [lec3.pdf (.pdf)](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/resources/lec3/)
+- [lec2.pdf (.pdf)](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/resources/lec2/)
+- [lec12.pdf (.pdf)](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/resources/lec12/)
+- [lec11.pdf (.pdf)](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/resources/lec11/)
+- [lec10.pdf (.pdf)](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/resources/lec10/)
+- [lec1.pdf (.pdf)](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/resources/lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/pages/readings/)
+
+### Resource
+- [rungekutta.pdf (.pdf)](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/resources/rungekutta/)
+- [everything.pdf (.pdf)](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/resources/everything/)
+- [8-902f04.jpg (.jpg)](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/resources/8-902f04/)
+- [8-902f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/resources/8-902f04-th/)
+- [Study Materials](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/8-902-astrophysics-ii-fall-2004/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

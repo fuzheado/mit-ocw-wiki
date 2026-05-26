@@ -12,6 +12,9 @@ views: 490
 completeness: 0.08166666666666668
 last_modified: "2026-05-06T16:56:52Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 5, Problem-Set: 2, Reading-List: 3, Resource: 4, Syllabus: 2"
+api_id: 3691
 ---
 
 # Advanced Strategy
@@ -30,9 +33,29 @@ This course draws on a wide range of perspectives to explore the roots of long t
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-963-advanced-strategy-spring-2008/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-963-advanced-strategy-spring-2008/pages/syllabus/)
 
+### Lecture-Notes
+- [Closing Reflections (.pdf)](https://ocw.mit.edu/courses/15-963-advanced-strategy-spring-2008/resources/lec24/)
+- [Reviewing 15.900: Strategy fundamentals (.pdf)](https://ocw.mit.edu/courses/15-963-advanced-strategy-spring-2008/resources/lec2/)
+- [Reflections on Delta/Song (.pdf)](https://ocw.mit.edu/courses/15-963-advanced-strategy-spring-2008/resources/lec13/)
+- [Does sustained performance exist? (.pdf)](https://ocw.mit.edu/courses/15-963-advanced-strategy-spring-2008/resources/lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-963-advanced-strategy-spring-2008/pages/lecture-notes/)
+
+### Reading-List
+- [Make, Buy, or Cooperate? (.pdf)](https://ocw.mit.edu/courses/15-963-advanced-strategy-spring-2008/resources/gibbons4/)
+- [Control Rights (.pdf)](https://ocw.mit.edu/courses/15-963-advanced-strategy-spring-2008/resources/gibbons3/)
+- [Readings](https://ocw.mit.edu/courses/15-963-advanced-strategy-spring-2008/pages/readings/)
+
+### Problem-Set
+- [Reflections on Relational Contracts (.pdf)](https://ocw.mit.edu/courses/15-963-advanced-strategy-spring-2008/resources/rel_cons/)
+- [Assignments](https://ocw.mit.edu/courses/15-963-advanced-strategy-spring-2008/pages/assignments/)
+
+### Resource
+- [Diagram of increased performance over time, with three examples of relational contracts (.jpg)](https://ocw.mit.edu/courses/15-963-advanced-strategy-spring-2008/resources/15-963s08/)
+- [15-963s08-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-963-advanced-strategy-spring-2008/resources/15-963s08-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

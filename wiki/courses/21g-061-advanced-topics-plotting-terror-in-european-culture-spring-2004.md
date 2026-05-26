@@ -12,6 +12,9 @@ views: 129
 completeness: 0.1366666666666667
 last_modified: "2026-05-06T16:59:21Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 14, Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3873
 ---
 
 # Advanced Topics: Plotting Terror in European Culture
@@ -30,9 +33,35 @@ This interdisciplinary course surveys modern European culture to disclose the al
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [Question: Is Michael Kohlhaas a terrorist? (.pdf)](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/resources/mit21g_061s04_wittkowiski/)
+- [Said, “The Essential Terrorist” (.pdf)](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/resources/mit21g_061s04_said/)
+- [Corrado on IRA  (.pdf)](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/resources/mit21g_061s04_lessing/)
+- [Heinrich von Kleist (1777-1811) (.pdf)](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/resources/mit21g_061s04_kleist/)
+- [Introduction (.pdf)](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/resources/mit21g_061s04_introduction/)
+- [Dario Fo, The Accidental Death of an Anarchist (.pdf)](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/resources/mit21g_061s04_fo/)
+- [Anarchy and anarchism (.pdf)](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/resources/mit21g_061s04_fleming/)
+- [Friedrich Dürrenmatt, The Assignment (1986) (.pdf)](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/resources/mit21g_061s04_durrenmatt/)
+- [Don DeLillo, Mao II (1991) (.pdf)](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/resources/mit21g_061s04_delillo/)
+- [Conrad, The Secret Agent (1907) (.pdf)](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/resources/mit21g_061s04_conrad/)
+- [Heinrich Böll (.pdf)](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/resources/mit21g_061s04_boll/)
+- [Michael Baumann, “How it all began” (.pdf)](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/resources/mit21g_061s04_baumann/)
+- [Heinrich Böll, Lost Honor of Katharina Blum (.pdf)](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/resources/mit21g_061s04_06104notes/)
+- [Lecture Notes](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/pages/assignments/)
+
+### Resource
+- [21g-061s04.jpg (.jpg)](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/resources/21g-061s04/)
+- [21g-061s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/resources/21g-061s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 852
 completeness: 0.0
 last_modified: "2026-05-06T17:07:15Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 3606
 ---
 
 # Underactuated Robotics
@@ -31,9 +34,9 @@ This course introduces nonlinear dynamics and control of underactuated mechanica
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Open Textbooks] Open Textbooks
-
+### Resource
+- [6-832s22.jpeg (.jpeg)](https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2022/resources/6-832s22/)
+- [6-832s22-th.jpeg (.jpeg)](https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2022/resources/6-832s22-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 281
 completeness: 0.2
 last_modified: "2026-05-06T17:24:23Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 13, Reading-List: 2, Resource: 3, Syllabus: 2, Video-Transcript: 5"
+api_id: 4313
 ---
 
 # Social Visualization
@@ -30,8 +33,31 @@ Millions of people are on-line today and the number is rapidly growing - yet thi
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/mas-965-social-visualization-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-965-social-visualization-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings and Resources (.pdf)](https://ocw.mit.edu/courses/mas-965-social-visualization-fall-2004/resources/readings/)
+- [Readings](https://ocw.mit.edu/courses/mas-965-social-visualization-fall-2004/pages/readings/)
+
+### Problem-Set
+- [final project proposal assignment (.pdf)](https://ocw.mit.edu/courses/mas-965-social-visualization-fall-2004/resources/assn9/)
+- [data portraits (.pdf)](https://ocw.mit.edu/courses/mas-965-social-visualization-fall-2004/resources/assn8/)
+- [email: essays and sketches  (.pdf)](https://ocw.mit.edu/courses/mas-965-social-visualization-fall-2004/resources/assn7/)
+- [large-scale persistent conversations: essays and sketches (.pdf)](https://ocw.mit.edu/courses/mas-965-social-visualization-fall-2004/resources/assn6/)
+- [history and change (.pdf)](https://ocw.mit.edu/courses/mas-965-social-visualization-fall-2004/resources/assn5/)
+- [meaning is social networks 2: essays and sketches  (.pdf)](https://ocw.mit.edu/courses/mas-965-social-visualization-fall-2004/resources/assn4/)
+- [meaning is social networks 1: essays and sketches  (.pdf)](https://ocw.mit.edu/courses/mas-965-social-visualization-fall-2004/resources/assn2/)
+- [final paper and project papers and presentations (.pdf)](https://ocw.mit.edu/courses/mas-965-social-visualization-fall-2004/resources/assn13/)
+- [embedded visualizations assignment (.pdf)](https://ocw.mit.edu/courses/mas-965-social-visualization-fall-2004/resources/assn12/)
+- [maps and metaphors: essays and sketches  (.pdf)](https://ocw.mit.edu/courses/mas-965-social-visualization-fall-2004/resources/assn11/)
+- [the face: essays and sketches (.pdf)](https://ocw.mit.edu/courses/mas-965-social-visualization-fall-2004/resources/assn10/)
+- [fundamentals of social network visualizations assignment (.pdf)](https://ocw.mit.edu/courses/mas-965-social-visualization-fall-2004/resources/assn1/)
+- [Assignments](https://ocw.mit.edu/courses/mas-965-social-visualization-fall-2004/pages/assignments/)
+
+### Resource
+- [Seascape and Volcano (thumbnail) (.jpg)](https://ocw.mit.edu/courses/mas-965-social-visualization-fall-2004/resources/mas-965f04/)
 ## Wikipedia Bridge
 
 ### Related Articles

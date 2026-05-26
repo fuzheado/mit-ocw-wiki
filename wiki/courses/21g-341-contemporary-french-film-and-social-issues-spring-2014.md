@@ -12,6 +12,9 @@ views: 151
 completeness: 0.1
 last_modified: "2026-05-06T15:03:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 2, Resource: 10, Syllabus: 1, Video-Transcript: 6"
+api_id: 4225
 ---
 
 # Contemporary French Film and Social Issues
@@ -30,10 +33,23 @@ This course covers issues in contemporary French society as expressed through mo
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Papier de Recherche** — [🔗](https://ocw.mit.edu/courses/21g-341-contemporary-french-film-and-social-issues-spring-2014/pages/assignments/papier-de-recherche/)
+- **Premier papier** — [🔗](https://ocw.mit.edu/courses/21g-341-contemporary-french-film-and-social-issues-spring-2014/pages/assignments/premier-papier/)
+- **Présentation** — [🔗](https://ocw.mit.edu/courses/21g-341-contemporary-french-film-and-social-issues-spring-2014/pages/assignments/presentation/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21g-341-contemporary-french-film-and-social-issues-spring-2014/pages/readings/)
+- **Réponses** — [🔗](https://ocw.mit.edu/courses/21g-341-contemporary-french-film-and-social-issues-spring-2014/pages/assignments/reponses/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-341-contemporary-french-film-and-social-issues-spring-2014/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21g-341-contemporary-french-film-and-social-issues-spring-2014/pages/assignments/)
+
+### Resource
+- [Nana Kleinfrankenheim (.jpg)](https://ocw.mit.edu/courses/21g-341-contemporary-french-film-and-social-issues-spring-2014/resources/21g-341s14/)
+- [Nana Kleinfrankenheim (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-341-contemporary-french-film-and-social-issues-spring-2014/resources/21g-341s14-th/)
+- [21G-341_stat-students (.png)](https://ocw.mit.edu/courses/21g-341-contemporary-french-film-and-social-issues-spring-2014/resources/21g-341_stat-students/)
+- [Study Materials](https://ocw.mit.edu/courses/21g-341-contemporary-french-film-and-social-issues-spring-2014/pages/study-materials/)
+- [Instructor Insights](https://ocw.mit.edu/courses/21g-341-contemporary-french-film-and-social-issues-spring-2014/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

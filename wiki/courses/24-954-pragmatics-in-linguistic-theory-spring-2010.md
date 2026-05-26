@@ -12,6 +12,9 @@ views: 249
 completeness: 0.135
 last_modified: "2026-05-06T16:55:50Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 9, Problem-Set: 3, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 3401
 ---
 
 # Pragmatics in Linguistic Theory
@@ -30,9 +33,31 @@ This course is the third and final part of our graduate introduction to semantic
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-954-pragmatics-in-linguistic-theory-spring-2010/pages/syllabus/)
 
+### Lecture-Notes
+- [Presupposition Projection, Trivalence and Relevance (.pdf)](https://ocw.mit.edu/courses/24-954-pragmatics-in-linguistic-theory-spring-2010/resources/mit24_954s10_lec08/)
+- [Schlenker 2008 (only the basic cases) (.pdf)](https://ocw.mit.edu/courses/24-954-pragmatics-in-linguistic-theory-spring-2010/resources/mit24_954s10_lec07/)
+- [Presuppositions (introductory comments) (.pdf)](https://ocw.mit.edu/courses/24-954-pragmatics-in-linguistic-theory-spring-2010/resources/mit24_954s10_lec06/)
+- [Back to the Theory of Implicatures (.pdf)](https://ocw.mit.edu/courses/24-954-pragmatics-in-linguistic-theory-spring-2010/resources/mit24_954s10_lec05/)
+- [Economy and Embedded Exhaustification  (.pdf)](https://ocw.mit.edu/courses/24-954-pragmatics-in-linguistic-theory-spring-2010/resources/mit24_954s10_lec04/)
+- [Chierchia’s Puzzle and Sauerland’s account (.pdf)](https://ocw.mit.edu/courses/24-954-pragmatics-in-linguistic-theory-spring-2010/resources/mit24_954s10_lec03/)
+- [Hurford Disjunctions (.pdf)](https://ocw.mit.edu/courses/24-954-pragmatics-in-linguistic-theory-spring-2010/resources/mit24_954s10_lec02/)
+- [What is Pragmatics? (.pdf)](https://ocw.mit.edu/courses/24-954-pragmatics-in-linguistic-theory-spring-2010/resources/mit24_954s10_lec01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/24-954-pragmatics-in-linguistic-theory-spring-2010/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/24-954-pragmatics-in-linguistic-theory-spring-2010/pages/readings/)
+
+### Problem-Set
+- [Homework for spring break (.pdf)](https://ocw.mit.edu/courses/24-954-pragmatics-in-linguistic-theory-spring-2010/resources/mit24_954s10_hw3/)
+- [Homework Solution (.pdf)](https://ocw.mit.edu/courses/24-954-pragmatics-in-linguistic-theory-spring-2010/resources/mit24_954s10_hw2_sol/)
+- [Assignments](https://ocw.mit.edu/courses/24-954-pragmatics-in-linguistic-theory-spring-2010/pages/assignments/)
+
+### Resource
+- [A Boy Reading a Book (.jpg)](https://ocw.mit.edu/courses/24-954-pragmatics-in-linguistic-theory-spring-2010/resources/24-954s10/)
+- [A Boy Reading a Book (thumbnail) (.jpg)](https://ocw.mit.edu/courses/24-954-pragmatics-in-linguistic-theory-spring-2010/resources/24-954s10-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

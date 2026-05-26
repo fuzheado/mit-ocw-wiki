@@ -12,6 +12,9 @@ views: 1380
 completeness: 0.0
 last_modified: "2026-05-06T16:49:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 3"
+api_id: 3668
 ---
 
 # Collaborative Data Science for Healthcare
@@ -38,8 +41,10 @@ This course is part of the Open Learning Library, which is free to use. You have
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [HST-953f20.jpg (.jpg)](https://ocw.mit.edu/courses/hst-953-collaborative-data-science-for-healthcare-fall-2020/resources/hst-953f20/)
+- [HST-953f20-th.jpg (.jpg)](https://ocw.mit.edu/courses/hst-953-collaborative-data-science-for-healthcare-fall-2020/resources/hst-953f20-th/)
+- [Syllabus](https://ocw.mit.edu/courses/hst-953-collaborative-data-science-for-healthcare-fall-2020/pages/syllabus/)
 ## Wikipedia Bridge
 
 ### Related Articles

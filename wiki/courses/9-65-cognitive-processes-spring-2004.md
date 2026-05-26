@@ -12,6 +12,9 @@ views: 365
 completeness: 0.13333333333333333
 last_modified: "2026-05-06T14:59:57Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 17, Resource: 5, Syllabus: 2"
+api_id: 4771
 ---
 
 # Cognitive Processes
@@ -30,8 +33,32 @@ This undergraduate course is designed to introduce students to cognitive process
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/pages/calendar/)
+- **Labs** — [🔗](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/pages/labs/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [may5h04.pdf (.pdf)](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/resources/may5h04/)
+- [mar31h04.pdf (.pdf)](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/resources/mar31h04/)
+- [mar29h04.pdf (.pdf)](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/resources/mar29h04/)
+- [mar1h04.pdf (.pdf)](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/resources/mar1h04/)
+- [mar17h04.pdf (.pdf)](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/resources/mar17h04/)
+- [mar15h04.pdf (.pdf)](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/resources/mar15h04/)
+- [mar10h04.pdf (.pdf)](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/resources/mar10h04/)
+- [feb9h04.pdf (.pdf)](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/resources/feb9h04/)
+- [feb4h04.pdf (.pdf)](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/resources/feb4h04/)
+- [feb25h04.pdf (.pdf)](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/resources/feb25h04/)
+- [feb23h04.pdf (.pdf)](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/resources/feb23h04/)
+- [feb17h04.pdf (.pdf)](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/resources/feb17h04/)
+- [feb11h04.pdf (.pdf)](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/resources/feb11h04/)
+- [apr5h04.pdf (.pdf)](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/resources/apr5h04/)
+- [apr12_14h04.pdf (.pdf)](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/resources/apr12_14h04/)
+- [Lecture Notes](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/pages/lecture-notes/)
+
+### Resource
+- [9-65s04.jpg (.jpg)](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/resources/9-65s04/)
+- [9-65s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/resources/9-65s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

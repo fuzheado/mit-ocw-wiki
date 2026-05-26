@@ -12,6 +12,9 @@ views: 346
 completeness: 0.19166666666666668
 last_modified: "2026-05-06T17:24:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 23, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 3438
 ---
 
 # Designing and Leading the Entrepreneurial Organization
@@ -37,8 +40,45 @@ Not a survey of entrepreneurship or leadership; subject addresses the principles
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [zaplet.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/zaplet/)
+- [workingenvironments.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/workingenvironments/)
+- [vermeer.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/vermeer/)
+- [sunmicrosystems.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/sunmicrosystems/)
+- [shouldicehospitalcase.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/shouldicehospitalcase/)
+- [score.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/score/)
+- [megwhitman.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/megwhitman/)
+- [markpitts.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/markpitts/)
+- [keller.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/keller/)
+- [jerrysanders.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/jerrysanders/)
+- [jancarlzon.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/jancarlzon/)
+- [introductionanderikpetersonpartone.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/introductionanderikpetersonpartone/)
+- [iggys.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/iggys/)
+- [hp.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/hp/)
+- [heidiroizen.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/heidiroizen/)
+- [employmentmodels.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/employmentmodels/)
+- [datageneral.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/datageneral/)
+- [cypresssemiconductor.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/cypresssemiconductor/)
+- [courseoverviewanderikpetersonparttwo.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/courseoverviewanderikpetersonparttwo/)
+- [cambridgetechnologypartners.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/cambridgetechnologypartners/)
+- [buildingalearningorganization.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/buildingalearningorganization/)
+- [apple.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/apple/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/pages/readings/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/pages/projects/)
+
+### Resource
+- [summaryofclasssessionsandassignmentdu.pdf (.pdf)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/summaryofclasssessionsandassignmentdu/)
+- [15-394s03.jpg (.jpg)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/15-394s03/)
+- [15-394s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/resources/15-394s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 259
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T16:59:43Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 3, Resource: 3, Syllabus: 1"
+api_id: 4942
 ---
 
 # Workshop II: Qualitative Social Science Methods for Media Studies
@@ -30,8 +33,23 @@ This course focuses on a number of qualitative social science methods that can b
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015/pages/syllabus/)
 
+### Reading-List
+- [CMS.951s15 T. L. Taylor Institutional Review Board Application Dec 2012 (.pdf)](https://ocw.mit.edu/courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015/resources/mitcms_951s15_taylorirbapp/)
+- [CMS.951S15 Ian's Map of Media Studies (.pdf)](https://ocw.mit.edu/courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015/resources/mitcms_951s15_imoms/)
+- [Readings](https://ocw.mit.edu/courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015/pages/readings/)
+
+### Problem-Set
+- [CMS.951s15 Technique Write Up Guidelines (.pdf)](https://ocw.mit.edu/courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015/resources/mitcms_951s15_writeguide/)
+- [CMS.951s15 Final Paper Guidelines (.pdf)](https://ocw.mit.edu/courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015/resources/mitcms_951s15_finalpaper/)
+- [CMS.951s15 Ethics Assignment (.pdf)](https://ocw.mit.edu/courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015/resources/mitcms_951s15_ethicsasgn/)
+- [Assignments](https://ocw.mit.edu/courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015/pages/assignments/)
+
+### Resource
+- [cms-951s15.jpg (.jpg)](https://ocw.mit.edu/courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015/resources/cms-951s15/)
+- [cms-951s15-th.jpg (.jpg)](https://ocw.mit.edu/courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015/resources/cms-951s15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

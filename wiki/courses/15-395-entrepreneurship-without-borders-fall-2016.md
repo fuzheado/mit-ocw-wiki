@@ -12,6 +12,9 @@ views: 606
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:45:58Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5224
 ---
 
 # Entrepreneurship Without Borders
@@ -30,8 +33,17 @@ This course examines opportunities and problems for entrepreneurs globally, incl
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-395-entrepreneurship-without-borders-fall-2016/pages/calendar/)
+- **Readings and Study Questions** — [🔗](https://ocw.mit.edu/courses/15-395-entrepreneurship-without-borders-fall-2016/pages/readings-and-study-questions/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-395-entrepreneurship-without-borders-fall-2016/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-395-entrepreneurship-without-borders-fall-2016/pages/assignments/)
+
+### Resource
+- [15-395f16.jpg (.jpg)](https://ocw.mit.edu/courses/15-395-entrepreneurship-without-borders-fall-2016/resources/15-395f16/)
+- [15-395f16-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-395-entrepreneurship-without-borders-fall-2016/resources/15-395f16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

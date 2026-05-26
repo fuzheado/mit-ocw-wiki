@@ -12,6 +12,9 @@ views: 546
 completeness: 0.26
 last_modified: "2026-05-06T16:51:19Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 7, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 1"
+api_id: 3505
 ---
 
 # Introduction to Latin American Studies
@@ -30,9 +33,26 @@ This course is designed as an introduction to Latin American politics and societ
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-084j-introduction-to-latin-american-studies-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-084j-introduction-to-latin-american-studies-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-084j-introduction-to-latin-american-studies-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Hints for writing papers (.pdf)](https://ocw.mit.edu/courses/21g-084j-introduction-to-latin-american-studies-fall-2005/resources/mit21g_084jf05_sylbs200211/)
+- [Pop quiz (.pdf)](https://ocw.mit.edu/courses/21g-084j-introduction-to-latin-american-studies-fall-2005/resources/mit21g_084jf05_popquiz/)
+- [Items for the Map Test (.pdf)](https://ocw.mit.edu/courses/21g-084j-introduction-to-latin-american-studies-fall-2005/resources/mit21g_084jf05_itemfothema/)
+- [Hints for Class Presentations (.pdf)](https://ocw.mit.edu/courses/21g-084j-introduction-to-latin-american-studies-fall-2005/resources/mit21g_084jf05_hintsforpre/)
+- [Last year’s final exam (.pdf)](https://ocw.mit.edu/courses/21g-084j-introduction-to-latin-american-studies-fall-2005/resources/mit21g_084jf05_finalexam/)
+- [Exams](https://ocw.mit.edu/courses/21g-084j-introduction-to-latin-american-studies-fall-2005/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/21g-084j-introduction-to-latin-american-studies-fall-2005/pages/assignments/)
+
+### Resource
+- [Pan Flute (.jpg)](https://ocw.mit.edu/courses/21g-084j-introduction-to-latin-american-studies-fall-2005/resources/21g-084jf05/)
+- [Pan Flute (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-084j-introduction-to-latin-american-studies-fall-2005/resources/21g-084jf05-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21g-084j-introduction-to-latin-american-studies-fall-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 1262
 completeness: 0.6000000000000001
 last_modified: "2026-05-06T14:47:36Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 6, Lecture-Notes: 42, Problem-Set: 14, Reading-List: 1, Resource: 5, Syllabus: 1"
+api_id: 5557
 ---
 
 # Integrated Microelectronic Devices
@@ -32,11 +35,85 @@ Prof. Jesús del Alamo would like to thank Prof. Harry Tuller for his support of
 
 ## Materials
 
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
-- [Projects] Projects
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [vssver.scc (.scc)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/vssver/)
+- [lecture9.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture9/)
+- [lecture8.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture8/)
+- [lecture7.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture7/)
+- [lecture6.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture6/)
+- [lecture5.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture5/)
+- [lecture4.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture4/)
+- [lecture39.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture39/)
+- [lecture38.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture38/)
+- [lecture37.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture37/)
+- [lecture36.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture36/)
+- [lecture35.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture35/)
+- [lecture34.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture34/)
+- [lecture33.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture33/)
+- [lecture32.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture32/)
+- [lecture31.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture31/)
+- [lecture30.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture30/)
+- [lecture3.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture3/)
+- [lecture29.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture29/)
+- [lecture28.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture28/)
+- [lecture27.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture27/)
+- [lecture26.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture26/)
+- [lecture25.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture25/)
+- [lecture24.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture24/)
+- [lecture23.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture23/)
+- [lecture22.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture22/)
+- [lecture21.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture21/)
+- [lecture20.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture20/)
+- [lecture2.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture2/)
+- [lecture19.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture19/)
+- [lecture18.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture18/)
+- [lecture17.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture17/)
+- [lecture16.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture16/)
+- [lecture15.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture15/)
+- [lecture14.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture14/)
+- [lecture13.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture13/)
+- [lecture12.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture12/)
+- [lecture11.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture11/)
+- [lecture10.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture10/)
+- [lecture1.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/lecture1/)
+- [6720intro.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/6720intro/)
+- [Lecture Notes](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/pages/readings/)
+
+### Problem-Set
+- [quiz2_f02.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/quiz2_f02/)
+- [quiz1_f02.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/quiz1_f02/)
+- [hw9.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/hw9/)
+- [hw8.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/hw8/)
+- [hw7.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/hw7/)
+- [hw6.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/hw6/)
+- [hw5.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/hw5/)
+- [hw4.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/hw4/)
+- [hw3.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/hw3/)
+- [hw2.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/hw2/)
+- [hw1.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/hw1/)
+- [final_f02.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/final_f02/)
+- [Exams](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/pages/assignments/)
+
+### Assignment
+- [project3.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/project3/)
+- [project2.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/project2/)
+- [project1.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/project1/)
+- [matlabguide.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/matlabguide/)
+- [designproject.pdf (.pdf)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/designproject/)
+- [Projects](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/pages/projects/)
+
+### Resource
+- [email.jpg (.jpg)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/email/)
+- [6-720js07.jpg (.jpg)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/6-720js07/)
+- [6-720js07-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/resources/6-720js07-th/)
+- [Tools](https://ocw.mit.edu/courses/6-720j-integrated-microelectronic-devices-spring-2007/pages/tools/)
 ## Wikipedia Bridge
 
 ### Related Articles

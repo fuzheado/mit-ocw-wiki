@@ -12,6 +12,9 @@ views: 179
 completeness: 0.0
 last_modified: "2026-05-06T16:49:34Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 4, Syllabus: 1, Video-Transcript: 2"
+api_id: 4354
 ---
 
 # The Politics of Nuclear Proliferation: Nuclear History, Strategy, and Statecraft
@@ -30,8 +33,14 @@ This course provides an introduction to the politics and theories surrounding th
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **NSAM 335: Preparation of Arms Control ProgramAssignments** — [🔗](https://ocw.mit.edu/courses/17-473-the-politics-of-nuclear-proliferation-nuclear-history-strategy-and-statecraft-fall-2015/pages/assignments/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/17-473-the-politics-of-nuclear-proliferation-nuclear-history-strategy-and-statecraft-fall-2015/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-473-the-politics-of-nuclear-proliferation-nuclear-history-strategy-and-statecraft-fall-2015/pages/syllabus/)
 
+### Resource
+- [Trinity Site Obelisk National Historic Landmark (.jpg)](https://ocw.mit.edu/courses/17-473-the-politics-of-nuclear-proliferation-nuclear-history-strategy-and-statecraft-fall-2015/resources/17-473f15/)
+- [Trinity Site Obelisk National Historic Landmark (thumbnail) (.jpg)](https://ocw.mit.edu/courses/17-473-the-politics-of-nuclear-proliferation-nuclear-history-strategy-and-statecraft-fall-2015/resources/17-473f15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

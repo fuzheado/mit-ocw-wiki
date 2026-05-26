@@ -12,6 +12,9 @@ views: 143
 completeness: 0.10333333333333335
 last_modified: "2026-05-06T14:56:16Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 10, Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 3796
 ---
 
 # Special Topics: Social Animals
@@ -30,8 +33,30 @@ Humans are social animals; social demands, both cooperative and competitive, str
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-916-special-topics-social-animals-fall-2009/pages/syllabus/)
 
+### Lecture-Notes
+- [Mating & Parenting (.pdf)](https://ocw.mit.edu/courses/9-916-special-topics-social-animals-fall-2009/resources/mit9_916f09_lec10/)
+- [Aggression and Dominance (.pdf)](https://ocw.mit.edu/courses/9-916-special-topics-social-animals-fall-2009/resources/mit9_916f09_lec09/)
+- [Ingroups and Outgroups (.pdf)](https://ocw.mit.edu/courses/9-916-special-topics-social-animals-fall-2009/resources/mit9_916f09_lec08/)
+- [Communication and Teaching (.pdf)](https://ocw.mit.edu/courses/9-916-special-topics-social-animals-fall-2009/resources/mit9_916f09_lec07/)
+- [Attribution and Theory of Mind (.pdf)](https://ocw.mit.edu/courses/9-916-special-topics-social-animals-fall-2009/resources/mit9_916f09_lec06/)
+- [Agents & Actions (.pdf)](https://ocw.mit.edu/courses/9-916-special-topics-social-animals-fall-2009/resources/mit9_916f09_lec05/)
+- [Empathy & Helping (.pdf)](https://ocw.mit.edu/courses/9-916-special-topics-social-animals-fall-2009/resources/mit9_916f09_lec04/)
+- [Morality & Norms (.pdf)](https://ocw.mit.edu/courses/9-916-special-topics-social-animals-fall-2009/resources/mit9_916f09_lec03/)
+- [Altruism and Cooperation (.pdf)](https://ocw.mit.edu/courses/9-916-special-topics-social-animals-fall-2009/resources/mit9_916f09_lec02/)
+- [Lecture Notes](https://ocw.mit.edu/courses/9-916-special-topics-social-animals-fall-2009/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-916-special-topics-social-animals-fall-2009/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/9-916-special-topics-social-animals-fall-2009/pages/assignments/)
+
+### Resource
+- [The graphic shows a balance that has two sides - Right and Wrong (.jpg)](https://ocw.mit.edu/courses/9-916-special-topics-social-animals-fall-2009/resources/9-916f09/)
+- [Related Resources](https://ocw.mit.edu/courses/9-916-special-topics-social-animals-fall-2009/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

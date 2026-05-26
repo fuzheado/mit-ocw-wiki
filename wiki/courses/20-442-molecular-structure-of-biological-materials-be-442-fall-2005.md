@@ -12,6 +12,9 @@ views: 137
 completeness: 0.41500000000000004
 last_modified: "2026-05-06T16:51:20Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 21, Problem-Set: 6, Reading-List: 1, Resource: 6, Syllabus: 2, Video-Transcript: 1"
+api_id: 4187
 ---
 
 # Molecular Structure of Biological Materials (BE.442)
@@ -30,10 +33,49 @@ This course, intended for both graduate and upper level undergraduate students, 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments with Examples] Presentation Assignments with Examples
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [120605.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/120605/)
+- [120105.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/120105/)
+- [112905.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/112905/)
+- [112205.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/112205/)
+- [111705.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/111705/)
+- [111505.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/111505/)
+- [111005.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/111005/)
+- [110305.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/110305/)
+- [110105.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/110105/)
+- [102705.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/102705/)
+- [102505.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/102505/)
+- [102005.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/102005/)
+- [101805.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/101805/)
+- [101305.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/101305/)
+- [100605.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/100605/)
+- [100405.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/100405/)
+- [092905.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/092905/)
+- [092705.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/092705/)
+- [091305.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/091305/)
+- [090805.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/090805/)
+- [Lecture Notes](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/pages/readings/)
+
+### Problem-Set
+- [propappleyard.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/propappleyard/)
+- [midterm_lacey.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/midterm_lacey/)
+- [midterm2005.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/midterm2005/)
+- [midterm2004.pdf (.pdf)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/midterm2004/)
+- [Exams](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/pages/assignments/)
+
+### Resource
+- [chp_be_442_sap.jpg (.jpg)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/chp_be_442_sap/)
+- [20-442f05.jpg (.jpg)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/20-442f05/)
+- [20-442f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/resources/20-442f05-th/)
+- [Related Resources](https://ocw.mit.edu/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

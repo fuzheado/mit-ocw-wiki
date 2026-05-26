@@ -12,6 +12,9 @@ views: 506
 completeness: 0.12
 last_modified: "2026-05-06T17:06:03Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 6, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4056
 ---
 
 # The Art Museum: History, Theory, Controversy
@@ -31,8 +34,23 @@ To address these and other questions, we will also go behind the scenes. Visits 
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-609-the-art-museum-history-theory-controversy-spring-2014/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-609-the-art-museum-history-theory-controversy-spring-2014/pages/readings/)
+
+### Problem-Set
+- [Writing Handout 2: Style Sheet (.pdf)](https://ocw.mit.edu/courses/4-609-the-art-museum-history-theory-controversy-spring-2014/resources/mit4_609s14_assignmnts_wh2/)
+- [Writing Handout 1: Title, Thesis Statement and Claim Sentences (.pdf)](https://ocw.mit.edu/courses/4-609-the-art-museum-history-theory-controversy-spring-2014/resources/mit4_609s14_assignmnts_wh1/)
+- [4.609 S14 Final Paper: Art Museums in Maoist China (.pdf)](https://ocw.mit.edu/courses/4-609-the-art-museum-history-theory-controversy-spring-2014/resources/mit4_609s14_assgn_student_work3/)
+- [4.609 S14 The Founding of the MFA: Myths and Realities (.pdf)](https://ocw.mit.edu/courses/4-609-the-art-museum-history-theory-controversy-spring-2014/resources/mit4_609s14_assgn_student_work2/)
+- [4.609 S14 Modern Authentication: An Exhibition (.pdf)](https://ocw.mit.edu/courses/4-609-the-art-museum-history-theory-controversy-spring-2014/resources/mit4_609s14_assgn_student_work1/)
+- [Assignments](https://ocw.mit.edu/courses/4-609-the-art-museum-history-theory-controversy-spring-2014/pages/assignments/)
+
+### Resource
+- [4-609s14.jpg (.jpg)](https://ocw.mit.edu/courses/4-609-the-art-museum-history-theory-controversy-spring-2014/resources/4-609s14/)
+- [4-609s14-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-609-the-art-museum-history-theory-controversy-spring-2014/resources/4-609s14-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

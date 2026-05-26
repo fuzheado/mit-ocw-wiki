@@ -12,6 +12,9 @@ views: 62
 completeness: 0.20833333333333334
 last_modified: "2026-05-06T17:23:48Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 15, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4115
 ---
 
 # Modeling Issues in Speech and Hearing
@@ -30,8 +33,35 @@ This course explores the theory and practice of scientific modeling in the conte
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/pages/readings/)
+
+### Problem-Set
+- [wekly_assignment.pdf (.pdf)](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/resources/wekly_assignment/)
+- [weekly_assign.pdf (.pdf)](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/resources/weekly_assign/)
+- [pset11_wk15.pdf (.pdf)](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/resources/pset11_wk15/)
+- [pset10_wk14.pdf (.pdf)](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/resources/pset10_wk14/)
+- [pset09_wk11.pdf (.pdf)](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/resources/pset09_wk11/)
+- [pset08_wk10.pdf (.pdf)](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/resources/pset08_wk10/)
+- [pset07_wk09.pdf (.pdf)](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/resources/pset07_wk09/)
+- [pset06_wk08.pdf (.pdf)](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/resources/pset06_wk08/)
+- [pset05_wk07.pdf (.pdf)](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/resources/pset05_wk07/)
+- [pset04_wk05.pdf (.pdf)](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/resources/pset04_wk05/)
+- [pset03_wk04.pdf (.pdf)](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/resources/pset03_wk04/)
+- [pset02_wk03.pdf (.pdf)](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/resources/pset02_wk03/)
+- [pset01_wk02.pdf (.pdf)](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/resources/pset01_wk02/)
+- [page_syllabus.pdf (.pdf)](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/resources/page_syllabus/)
+- [Assignments](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/pages/assignments/)
+
+### Resource
+- [hst-750s06.jpg (.jpg)](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/resources/hst-750s06/)
+- [hst-750s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/resources/hst-750s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

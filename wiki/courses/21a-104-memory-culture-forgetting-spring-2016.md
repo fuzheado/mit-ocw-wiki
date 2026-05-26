@@ -12,6 +12,9 @@ views: 448
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T14:44:19Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 7, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5202
 ---
 
 # Memory, Culture, Forgetting
@@ -30,8 +33,25 @@ This course introduces scholarly debates about the sociocultural practices throu
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-104-memory-culture-forgetting-spring-2016/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-104-memory-culture-forgetting-spring-2016/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21a-104-memory-culture-forgetting-spring-2016/pages/readings/)
+
+### Problem-Set
+- [21A.104S16 Memory, Culture, and Forgetting: Assignments - Student Example Reader Response 3 (.pdf)](https://ocw.mit.edu/courses/21a-104-memory-culture-forgetting-spring-2016/resources/mit21a_104s16_response3/)
+- [21A.104S16 Memory, Culture, and Forgetting: Assignments - Student Example Reader Response 2B (.pdf)](https://ocw.mit.edu/courses/21a-104-memory-culture-forgetting-spring-2016/resources/mit21a_104s16_response2b/)
+- [21A.104S16 Memory, Culture, and Forgetting: Assignments - Student Example Reader Response 2A (.pdf)](https://ocw.mit.edu/courses/21a-104-memory-culture-forgetting-spring-2016/resources/mit21a_104s16_response2a/)
+- [21A.104S16 Memory, Culture, and Forgetting: Assignments - Student Example Reader Response 1 (.pdf)](https://ocw.mit.edu/courses/21a-104-memory-culture-forgetting-spring-2016/resources/mit21a_104s16_response1/)
+- [21A.104S16 Memory, Culture, and Forgetting: Assignments - Research Paper Ideas (.pdf)](https://ocw.mit.edu/courses/21a-104-memory-culture-forgetting-spring-2016/resources/mit21a_104s16_reserchideas/)
+- [21A.104S16 Memory, Culture, and Forgetting: Assignments - Research Paper: Radical Empathy (.pdf)](https://ocw.mit.edu/courses/21a-104-memory-culture-forgetting-spring-2016/resources/mit21a_104s16_radiclempthy/)
+- [Assignments](https://ocw.mit.edu/courses/21a-104-memory-culture-forgetting-spring-2016/pages/assignments/)
+
+### Resource
+- [21a-104s16.jpg (.jpg)](https://ocw.mit.edu/courses/21a-104-memory-culture-forgetting-spring-2016/resources/21a-104s16/)
+- [21a-104s16-th.jpg (.jpg)](https://ocw.mit.edu/courses/21a-104-memory-culture-forgetting-spring-2016/resources/21a-104s16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

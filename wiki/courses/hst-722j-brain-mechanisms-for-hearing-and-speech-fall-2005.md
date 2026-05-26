@@ -12,6 +12,9 @@ views: 106
 completeness: 0.18166666666666664
 last_modified: "2026-05-06T14:58:39Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 5, Problem-Set: 7, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 4535
 ---
 
 # Brain Mechanisms for Hearing and Speech
@@ -30,8 +33,35 @@ An advanced course covering anatomical, physiological, behavioral, and computati
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [7_melcher_handot.pdf (.pdf)](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/resources/7_melcher_handot/)
+- [6_mot_con_sp_per.pdf (.pdf)](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/resources/6_mot_con_sp_per/)
+- [4_quantitative.pdf (.pdf)](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/resources/4_quantitative/)
+- [1_dcn.pdf (.pdf)](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/resources/1_dcn/)
+- [Lecture Notes](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/pages/readings/)
+
+### Problem-Set
+- [foxp2.pdf (.pdf)](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/resources/foxp2/)
+- [contextsensitive.pdf (.pdf)](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/resources/contextsensitive/)
+- [cocktailparty.pdf (.pdf)](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/resources/cocktailparty/)
+- [auditory_mem_ppr.pdf (.pdf)](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/resources/auditory_mem_ppr/)
+- [audiovisual.pdf (.pdf)](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/resources/audiovisual/)
+- [absolutepitch.pdf (.pdf)](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/resources/absolutepitch/)
+- [Assignments](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/pages/assignments/)
+
+### Resource
+- [hst-722jf05.jpg (.jpg)](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/resources/hst-722jf05/)
+- [hst-722jf05-th.jpg (.jpg)](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/resources/hst-722jf05-th/)
+- [chp_khancock.gif (.gif)](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/resources/chp_khancock/)
+- [97002_khancock.gif (.gif)](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/resources/97002_khancock/)
+- [Related Resources](https://ocw.mit.edu/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

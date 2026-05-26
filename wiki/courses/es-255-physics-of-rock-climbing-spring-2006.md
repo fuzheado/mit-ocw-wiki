@@ -12,6 +12,9 @@ views: 233
 completeness: 0.05833333333333334
 last_modified: "2026-05-06T15:02:01Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Lecture-Notes: 7, Resource: 4, Syllabus: 1"
+api_id: 3521
 ---
 
 # Physics of Rock Climbing
@@ -30,9 +33,26 @@ SP.255 is a lecture, discussion, and project based seminar about the physics of 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/es-255-physics-of-rock-climbing-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [MITES_255S06_sp255ropbehv.pdf (.pdf)](https://ocw.mit.edu/courses/es-255-physics-of-rock-climbing-spring-2006/resources/mites_255s06_sp255ropbehv/)
+- [Rope Oscillation Model (.pdf)](https://ocw.mit.edu/courses/es-255-physics-of-rock-climbing-spring-2006/resources/mites_255s06_rpe_osillmdel/)
+- [Rope Oscillation Experiment (.pdf)](https://ocw.mit.edu/courses/es-255-physics-of-rock-climbing-spring-2006/resources/mites_255s06_rope_oscil/)
+- [Rope Behavior (.pdf)](https://ocw.mit.edu/courses/es-255-physics-of-rock-climbing-spring-2006/resources/mites_255s06_rope_behav/)
+- [Physics of Rock Climbing Open Questions (.pdf)](https://ocw.mit.edu/courses/es-255-physics-of-rock-climbing-spring-2006/resources/mites_255s06_oqs_pres/)
+- [A Summary of ES.255 Class 3 (.pdf)](https://ocw.mit.edu/courses/es-255-physics-of-rock-climbing-spring-2006/resources/mites_255s06_class_3review/)
+- [Lecture Notes](https://ocw.mit.edu/courses/es-255-physics-of-rock-climbing-spring-2006/pages/lecture-notes/)
+
+### Assignment
+- [Analytical model of a rope and karabiner system (.pdf)](https://ocw.mit.edu/courses/es-255-physics-of-rock-climbing-spring-2006/resources/mites_255s06_analmdropkarys/)
+- [Projects](https://ocw.mit.edu/courses/es-255-physics-of-rock-climbing-spring-2006/pages/projects/)
+
+### Resource
+- [es-255s06.jpg (.jpg)](https://ocw.mit.edu/courses/es-255-physics-of-rock-climbing-spring-2006/resources/es-255s06/)
+- [es-255s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/es-255-physics-of-rock-climbing-spring-2006/resources/es-255s06-th/)
+- [Related Resources](https://ocw.mit.edu/courses/es-255-physics-of-rock-climbing-spring-2006/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,8 @@ views: 332
 completeness: 0.6000000000000001
 last_modified: "2026-05-06T14:46:52Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 2, Reading-List: 1, Syllabus: 1"
 ---
 
 # Statistics for Applications
@@ -31,10 +33,18 @@ OCW offers an earlier version of this course, from Fall 2003. This newer version
 
 ## Materials
 
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/18-443-statistics-for-applications-fall-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/18-443-statistics-for-applications-fall-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/18-443-statistics-for-applications-fall-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/18-443-statistics-for-applications-fall-2006/pages/assignments/)
+- [Exams](https://ocw.mit.edu/courses/18-443-statistics-for-applications-fall-2006/pages/exams/)
 ## Wikipedia Bridge
 
 ### Related Articles

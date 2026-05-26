@@ -12,6 +12,9 @@ views: 155
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:50:44Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4304
 ---
 
 # Topics in Brain and Cognitive Sciences Human Ethology
@@ -30,9 +33,20 @@ Survey and special topics designed for students in Brain and Cognitive Sciences.
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-52-b-topics-in-brain-and-cognitive-sciences-human-ethology-spring-2001/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-52-b-topics-in-brain-and-cognitive-sciences-human-ethology-spring-2001/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-52-b-topics-in-brain-and-cognitive-sciences-human-ethology-spring-2001/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/9-52-b-topics-in-brain-and-cognitive-sciences-human-ethology-spring-2001/pages/assignments/)
+
+### Resource
+- [Monkeys studying humans studying monkeys (.jpg)](https://ocw.mit.edu/courses/9-52-b-topics-in-brain-and-cognitive-sciences-human-ethology-spring-2001/resources/9-52s01/)
+- [Monkeys studying humans studying monkeys (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-52-b-topics-in-brain-and-cognitive-sciences-human-ethology-spring-2001/resources/9-52s01-th/)
+- [Related Resources](https://ocw.mit.edu/courses/9-52-b-topics-in-brain-and-cognitive-sciences-human-ethology-spring-2001/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

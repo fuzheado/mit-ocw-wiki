@@ -12,6 +12,9 @@ views: 249
 completeness: 0.0
 last_modified: "2026-05-06T17:15:51Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 7"
+api_id: 4906
 ---
 
 # Pre-7.01: Getting up to Speed in Biology
@@ -31,8 +34,14 @@ Go to OCW’s Open Learning Library site for Pre-7.01: Getting up to Speed in Bi
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-
+### Resource
+- [zebrafish_600.jpg (.jpg)](https://ocw.mit.edu/courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/resources/zebrafish_600/)
+- [RNA.jpg (.jpg)](https://ocw.mit.edu/courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/resources/rna/)
+- [RES.7-001sum19.jpg (.jpg)](https://ocw.mit.edu/courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/resources/res-7-001sum19/)
+- [RES.7-001sum19-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/resources/res-7-001sum19-th/)
+- [melanistic_600.png (.png)](https://ocw.mit.edu/courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/resources/melanistic_600/)
+- [honeybees_300.jpg (.jpg)](https://ocw.mit.edu/courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/resources/honeybees_300/)
+- [Instructor Insights](https://ocw.mit.edu/courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

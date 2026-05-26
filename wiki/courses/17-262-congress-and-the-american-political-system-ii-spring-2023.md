@@ -12,6 +12,9 @@ views: 165
 completeness: 0.0
 last_modified: "2026-05-06T17:01:00Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 3, Resource: 9, Syllabus: 2"
+api_id: 5865
 ---
 
 # Congress and the American Political System II
@@ -30,9 +33,18 @@ This course analyzes the development of the US Congress by focusing on the compe
 
 ## Materials
 
-- [Readings] Readings
-- [Written Assignments] Written Assignments
+### Lectures
+- **Additional Readings** — [🔗](https://ocw.mit.edu/courses/17-262-congress-and-the-american-political-system-ii-spring-2023/pages/additional-readings/)
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/17-262-congress-and-the-american-political-system-ii-spring-2023/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-262-congress-and-the-american-political-system-ii-spring-2023/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/17-262-congress-and-the-american-political-system-ii-spring-2023/pages/readings2/)
+- **Required Readings** — [🔗](https://ocw.mit.edu/courses/17-262-congress-and-the-american-political-system-ii-spring-2023/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-262-congress-and-the-american-political-system-ii-spring-2023/pages/syllabus/)
 
+### Resource
+- [17-262s23.jpg (.jpg)](https://ocw.mit.edu/courses/17-262-congress-and-the-american-political-system-ii-spring-2023/resources/17-262s23_jpg/)
+- [17-262s23-th.jpg (.jpg)](https://ocw.mit.edu/courses/17-262-congress-and-the-american-political-system-ii-spring-2023/resources/17-262s23-th_jpg/)
+- [The Most Important Congressional Literature](https://ocw.mit.edu/courses/17-262-congress-and-the-american-political-system-ii-spring-2023/pages/some-ways-to-think-about-the-most-important-congressional-literature/)
 ## Wikipedia Bridge
 
 ### Related Articles

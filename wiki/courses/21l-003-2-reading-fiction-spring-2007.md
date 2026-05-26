@@ -12,6 +12,9 @@ views: 461
 completeness: 0.06
 last_modified: "2026-05-06T17:12:15Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4537
 ---
 
 # Reading Fiction
@@ -30,8 +33,20 @@ Reading Fiction is designed to sharpen your skills as a critical reader. As we e
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-003-2-reading-fiction-spring-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-003-2-reading-fiction-spring-2007/pages/readings/)
+
+### Problem-Set
+- [General Paper-Writing Guidelines (.pdf)](https://ocw.mit.edu/courses/21l-003-2-reading-fiction-spring-2007/resources/paper_writing/)
+- [Close Reading (.pdf)](https://ocw.mit.edu/courses/21l-003-2-reading-fiction-spring-2007/resources/close_reading/)
+- [Assignments](https://ocw.mit.edu/courses/21l-003-2-reading-fiction-spring-2007/pages/assignments/)
+
+### Resource
+- [Crime and Punishment (.jpg)](https://ocw.mit.edu/courses/21l-003-2-reading-fiction-spring-2007/resources/21l-003-2s07/)
+- [Crime and Punishment (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-003-2-reading-fiction-spring-2007/resources/21l-003-2s07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

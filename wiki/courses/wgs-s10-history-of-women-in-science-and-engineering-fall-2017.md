@@ -12,6 +12,9 @@ views: 251
 completeness: 0.028333333333333335
 last_modified: "2026-05-06T14:44:15Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Reading-List: 2, Resource: 8, Syllabus: 1, Video-Transcript: 6"
+api_id: 5136
 ---
 
 # History of Women in Science and Engineering
@@ -30,10 +33,21 @@ This course provides a basic overview of the history of women in science, techno
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Lecture Summaries** — [🔗](https://ocw.mit.edu/courses/wgs-s10-history-of-women-in-science-and-engineering-fall-2017/pages/lecture-summaries/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/wgs-s10-history-of-women-in-science-and-engineering-fall-2017/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/wgs-s10-history-of-women-in-science-and-engineering-fall-2017/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/wgs-s10-history-of-women-in-science-and-engineering-fall-2017/pages/assignments/)
+
+### Resource
+- [wgs-s10f17.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-s10-history-of-women-in-science-and-engineering-fall-2017/resources/wgs-s10f17/)
+- [wgs-s10f17-th.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-s10-history-of-women-in-science-and-engineering-fall-2017/resources/wgs-s10f17-th/)
+- [Maia_2.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-s10-history-of-women-in-science-and-engineering-fall-2017/resources/maia_2/)
+- [Maia.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-s10-history-of-women-in-science-and-engineering-fall-2017/resources/maia/)
+- [10.png (.png)](https://ocw.mit.edu/courses/wgs-s10-history-of-women-in-science-and-engineering-fall-2017/resources/10/)
+- [Instructor Insights](https://ocw.mit.edu/courses/wgs-s10-history-of-women-in-science-and-engineering-fall-2017/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

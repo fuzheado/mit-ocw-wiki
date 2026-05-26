@@ -12,6 +12,9 @@ views: 462
 completeness: 0.1
 last_modified: "2026-05-06T14:59:24Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5360
 ---
 
 # Molecular Aspects of Chemical Engineering
@@ -30,8 +33,23 @@ This class covers molecular-level engineering and analysis of chemical processes
 
 ## Materials
 
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/10-520-molecular-aspects-of-chemical-engineering-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/10-520-molecular-aspects-of-chemical-engineering-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/10-520-molecular-aspects-of-chemical-engineering-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Problem Set #4 (.pdf)](https://ocw.mit.edu/courses/10-520-molecular-aspects-of-chemical-engineering-fall-2004/resources/10_520_ps4/)
+- [Problem Set 3 (.pdf)](https://ocw.mit.edu/courses/10-520-molecular-aspects-of-chemical-engineering-fall-2004/resources/10_520_ps3/)
+- [Problem Set 2 (.pdf)](https://ocw.mit.edu/courses/10-520-molecular-aspects-of-chemical-engineering-fall-2004/resources/10_520_ps2/)
+- [Problem Set #1 (.pdf)](https://ocw.mit.edu/courses/10-520-molecular-aspects-of-chemical-engineering-fall-2004/resources/10_520_ps1/)
+- [Assignments](https://ocw.mit.edu/courses/10-520-molecular-aspects-of-chemical-engineering-fall-2004/pages/assignments/)
+
+### Resource
+- [Hydrogen Bond Complex Above a Carbon Nanotube Tip (.jpg)](https://ocw.mit.edu/courses/10-520-molecular-aspects-of-chemical-engineering-fall-2004/resources/10-520f04/)
+- [Hydrogen Bond Complex Above a Carbon Nanotube Tip (thumbnail) (.jpg)](https://ocw.mit.edu/courses/10-520-molecular-aspects-of-chemical-engineering-fall-2004/resources/10-520f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

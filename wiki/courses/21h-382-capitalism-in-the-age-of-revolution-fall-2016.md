@@ -12,6 +12,9 @@ views: 173
 completeness: 0.12
 last_modified: "2026-05-06T16:47:40Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 6, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3468
 ---
 
 # Capitalism in the Age of Revolution
@@ -30,8 +33,24 @@ The decades leading up to the Atlantic revolutions of the late eighteenth centur
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/pages/readings/)
+
+### Problem-Set
+- [21H.382F16 Capitalism in the Age of Revolution - Student Example 1 (.pdf)](https://ocw.mit.edu/courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/resources/mit21h_382f16_tale/)
+- [21H.382F16 Capitalism in the Age of Revolution: Assignments-Paper 2 Guidelines (.pdf)](https://ocw.mit.edu/courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/resources/mit21h_382f16_paper3/)
+- [21H.382F16 Capitalism in the Age of Revolution: Assignments-Paper 3 Guidelines (.pdf)](https://ocw.mit.edu/courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/resources/mit21h_382f16_paper2/)
+- [21H.382F16 Capitalism in the Age of Revolution: Assignments-Paper 1 Guidelines (.pdf)](https://ocw.mit.edu/courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/resources/mit21h_382f16_paper1/)
+- [21H.382F16 Capitalism in the Age of Revolution - Student Example 2 (.pdf)](https://ocw.mit.edu/courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/resources/mit21h_382f16_corporation/)
+- [Assignments](https://ocw.mit.edu/courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/pages/assignments/)
+
+### Resource
+- [21h-382f16.jpg (.jpg)](https://ocw.mit.edu/courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/resources/21h-382f16/)
+- [21h-382f16-th.jpg (.jpg)](https://ocw.mit.edu/courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/resources/21h-382f16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 467
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:11:09Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 2"
+api_id: 5103
 ---
 
 # Anthropology Through Speculative Fiction
@@ -30,8 +33,18 @@ This class examines how anthropology and speculative fiction (SF) each explore i
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-270-anthropology-through-speculative-fiction-fall-2009/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-270-anthropology-through-speculative-fiction-fall-2009/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21a-270-anthropology-through-speculative-fiction-fall-2009/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21a-270-anthropology-through-speculative-fiction-fall-2009/pages/assignments/)
+
+### Resource
+- [Photo of a woman in a baseball cap holding a bright yellow sign reading "THIS is what an illegal alien looks like!", with a sketch of a green bug-eyed alien next to a flying saucer (.jpg)](https://ocw.mit.edu/courses/21a-270-anthropology-through-speculative-fiction-fall-2009/resources/21a-270f09/)
 ## Wikipedia Bridge
 
 ### Related Articles

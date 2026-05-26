@@ -12,6 +12,9 @@ views: 103
 completeness: 0.0
 last_modified: "2026-05-06T14:55:56Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 3394
 ---
 
 # Lean Research Skills for Conducting Interviews
@@ -32,8 +35,9 @@ This course is part of the Open Learning Library, which is free to use. You have
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [RES-EC002.jpg (.jpg)](https://ocw.mit.edu/courses/res-ec-002-lean-research-skills-for-conducting-interviews-spring-2021/resources/res-ec002/)
+- [RES-EC002-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-ec-002-lean-research-skills-for-conducting-interviews-spring-2021/resources/res-ec002-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

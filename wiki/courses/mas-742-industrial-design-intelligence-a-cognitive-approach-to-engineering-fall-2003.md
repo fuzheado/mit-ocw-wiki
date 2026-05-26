@@ -12,6 +12,9 @@ views: 451
 completeness: 0.03333333333333333
 last_modified: "2026-05-06T16:55:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Lecture-Notes: 4, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5427
 ---
 
 # Industrial Design Intelligence: A Cognitive Approach to Engineering
@@ -30,9 +33,26 @@ This class investigates cognitive science and technology as it is applied to the
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [Tools (.pdf)](https://ocw.mit.edu/courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003/resources/tools/)
+- [Sensors (.pdf)](https://ocw.mit.edu/courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003/resources/sensors/)
+- [Materials (.pdf)](https://ocw.mit.edu/courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003/resources/materials/)
+- [Lecture Notes](https://ocw.mit.edu/courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003/pages/readings/)
+
+### Assignment
+- [Compilation of Student Work (.pdf)](https://ocw.mit.edu/courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003/resources/projects/)
+- [Projects](https://ocw.mit.edu/courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003/pages/projects/)
+
+### Resource
+- [Keyboard Prototype (.jpg)](https://ocw.mit.edu/courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003/resources/mas-742f03/)
+- [Keyboard Prototype (thumbnail) (.jpg)](https://ocw.mit.edu/courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003/resources/mas-742f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

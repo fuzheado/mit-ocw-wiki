@@ -12,6 +12,9 @@ views: 502
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T14:58:59Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5770
 ---
 
 # German III
@@ -30,8 +33,22 @@ This course expands skills in speaking, reading, listening, and writing. Student
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-403-german-iii-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-403-german-iii-spring-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-403-german-iii-spring-2004/pages/readings/)
+
+### Problem-Set
+- [21G (.pdf)](https://ocw.mit.edu/courses/21g-403-german-iii-spring-2004/resources/mit21g_403s04_lee_essay/)
+- [Thomas R (.pdf)](https://ocw.mit.edu/courses/21g-403-german-iii-spring-2004/resources/mit21g_403s04_covert_ess/)
+- [Erste Schreibaufgabe (.pdf)](https://ocw.mit.edu/courses/21g-403-german-iii-spring-2004/resources/mit21g_403s04_asn1_4/)
+- [Assignments](https://ocw.mit.edu/courses/21g-403-german-iii-spring-2004/pages/assignments/)
+
+### Resource
+- [21g-403s04.gif (.gif)](https://ocw.mit.edu/courses/21g-403-german-iii-spring-2004/resources/21g-403s04/)
+- [21g-403s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-403-german-iii-spring-2004/resources/21g-403s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

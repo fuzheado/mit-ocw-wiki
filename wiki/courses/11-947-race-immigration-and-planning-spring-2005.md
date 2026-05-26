@@ -12,6 +12,9 @@ views: 74
 completeness: 0.11166666666666668
 last_modified: "2026-05-06T16:56:09Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 4, Lecture-Notes: 11, Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3842
 ---
 
 # Race, Immigration, and Planning
@@ -30,9 +33,38 @@ This course provides an introduction to the issues of immigrants, planning, and 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [lect9.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/resources/lect9/)
+- [lect8_rev.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/resources/lect8_rev/)
+- [lect7.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/resources/lect7/)
+- [lect6.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/resources/lect6/)
+- [lect5.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/resources/lect5/)
+- [lect4.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/resources/lect4/)
+- [lect3.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/resources/lect3/)
+- [lect2.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/resources/lect2/)
+- [lect12.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/resources/lect12/)
+- [lect10.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/resources/lect10/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/pages/assignments/)
+
+### Assignment
+- [Students3_4_5_ArcadeMemo.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/resources/students3_4_5_arcadememo/)
+- [Student2_TrainingMemo.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/resources/student2_trainingmemo/)
+- [Student1_FundingMemo.pdf (.pdf)](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/resources/student1_fundingmemo/)
+- [Projects](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/pages/projects/)
+
+### Resource
+- [11-947s05.jpg (.jpg)](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/resources/11-947s05/)
+- [11-947s05-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/resources/11-947s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

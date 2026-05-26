@@ -12,6 +12,9 @@ views: 177
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:24:59Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 4422
 ---
 
 # The Making of a Roman Emperor
@@ -30,8 +33,22 @@ Focusing on the emperors Augustus and Nero, this course investigates the ways in
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-402-the-making-of-a-roman-emperor-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-402-the-making-of-a-roman-emperor-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-402-the-making-of-a-roman-emperor-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-402-the-making-of-a-roman-emperor-fall-2005/pages/assignments/)
+
+### Resource
+- [Fall 2007 Syllabus (.pdf)](https://ocw.mit.edu/courses/21h-402-the-making-of-a-roman-emperor-fall-2005/resources/mit21h_402f05_syllf07/)
+- [Fall 2005 Syllabus (.pdf)](https://ocw.mit.edu/courses/21h-402-the-making-of-a-roman-emperor-fall-2005/resources/mit21h_402f05_syllf05/)
+- [Fall 2004 Syllabus (.pdf)](https://ocw.mit.edu/courses/21h-402-the-making-of-a-roman-emperor-fall-2005/resources/mit21h_402f05_syllf04/)
+- [Palace of the Caesars (.jpg)](https://ocw.mit.edu/courses/21h-402-the-making-of-a-roman-emperor-fall-2005/resources/21h-402f05/)
+- [Palace of the Caesars (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21h-402-the-making-of-a-roman-emperor-fall-2005/resources/21h-402f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

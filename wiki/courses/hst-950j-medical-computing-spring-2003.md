@@ -12,6 +12,9 @@ views: 240
 completeness: 0.2766666666666667
 last_modified: "2026-05-06T14:59:35Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 14, Problem-Set: 8, Reading-List: 1, Resource: 4, Syllabus: 2, Video-Transcript: 1"
+api_id: 3497
 ---
 
 # Medical Computing
@@ -31,8 +34,45 @@ It ncludes an analysis of the computational needs of clinical medicine, a review
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [lecture9.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/lecture9/)
+- [lecture8.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/lecture8/)
+- [lecture5.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/lecture5/)
+- [lecture4.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/lecture4/)
+- [lecture22.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/lecture22/)
+- [lecture21.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/lecture21/)
+- [lecture2.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/lecture2/)
+- [lecture19.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/lecture19/)
+- [lecture18.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/lecture18/)
+- [lecture14.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/lecture14/)
+- [Lecture11.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/lecture11/)
+- [lecture10.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/lecture10/)
+- [lecture1.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/lecture1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/pages/readings/)
+
+### Problem-Set
+- [sqlaccess_java.txt (.txt)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/sqlaccess_java/)
+- [pt_jsp.txt (.txt)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/pt_jsp/)
+- [index_jsp.txt (.txt)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/index_jsp/)
+- [hw3.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/hw3/)
+- [hw2.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/hw2/)
+- [englishname_java.txt (.txt)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/englishname_java/)
+- [assignment1.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/assignment1/)
+- [Assignments](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/pages/projects/)
+
+### Resource
+- [hst-950js03.jpg (.jpg)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/hst-950js03/)
+- [hst-950js03-th.jpg (.jpg)](https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/resources/hst-950js03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

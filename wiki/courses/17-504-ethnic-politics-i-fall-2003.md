@@ -12,6 +12,9 @@ views: 109
 completeness: 0.06
 last_modified: "2026-05-06T17:15:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3859
 ---
 
 # Ethnic Politics I
@@ -31,8 +34,20 @@ This course is the first semester of a year-long sequence on ethnic politics. Ho
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-504-ethnic-politics-i-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-504-ethnic-politics-i-fall-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-504-ethnic-politics-i-fall-2003/pages/readings/)
+
+### Problem-Set
+- [Political Science 17.504: Requirements and Assignments (.pdf)](https://ocw.mit.edu/courses/17-504-ethnic-politics-i-fall-2003/resources/polscience17_504/)
+- [Assignments](https://ocw.mit.edu/courses/17-504-ethnic-politics-i-fall-2003/pages/assignments/)
+
+### Resource
+- [Nawabad Refugee Camp (.jpg)](https://ocw.mit.edu/courses/17-504-ethnic-politics-i-fall-2003/resources/17-504f03/)
+- [Nawabad Refugee Camp (thumbnail) (.jpg)](https://ocw.mit.edu/courses/17-504-ethnic-politics-i-fall-2003/resources/17-504f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

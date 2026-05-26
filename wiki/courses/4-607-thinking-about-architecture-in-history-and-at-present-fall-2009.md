@@ -12,6 +12,9 @@ views: 247
 completeness: 0.09500000000000001
 last_modified: "2026-05-06T17:24:39Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 9, Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4842
 ---
 
 # Thinking About Architecture: In History and at Present
@@ -31,10 +34,29 @@ The course will portray the history of theory neither as the history of architec
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-607-thinking-about-architecture-in-history-and-at-present-fall-2009/pages/syllabus/)
 
+### Lecture-Notes
+- [Heidegger (.pdf)](https://ocw.mit.edu/courses/4-607-thinking-about-architecture-in-history-and-at-present-fall-2009/resources/mit4_607f09_lec11/)
+- [Husserl (.pdf)](https://ocw.mit.edu/courses/4-607-thinking-about-architecture-in-history-and-at-present-fall-2009/resources/mit4_607f09_lec10/)
+- [Psychology (.pdf)](https://ocw.mit.edu/courses/4-607-thinking-about-architecture-in-history-and-at-present-fall-2009/resources/mit4_607f09_lec09/)
+- [Avant-garde (.pdf)](https://ocw.mit.edu/courses/4-607-thinking-about-architecture-in-history-and-at-present-fall-2009/resources/mit4_607f09_lec07/)
+- [Defining the Architect (.pdf)](https://ocw.mit.edu/courses/4-607-thinking-about-architecture-in-history-and-at-present-fall-2009/resources/mit4_607f09_lec06/)
+- [Social Contract (.pdf)](https://ocw.mit.edu/courses/4-607-thinking-about-architecture-in-history-and-at-present-fall-2009/resources/mit4_607f09_lec05/)
+- [Metaphysics and Anti-metaphysics (.pdf)](https://ocw.mit.edu/courses/4-607-thinking-about-architecture-in-history-and-at-present-fall-2009/resources/mit4_607f09_lec03/)
+- [Modernity (.pdf)](https://ocw.mit.edu/courses/4-607-thinking-about-architecture-in-history-and-at-present-fall-2009/resources/mit4_607f09_lec02/)
+- [Lecture Notes](https://ocw.mit.edu/courses/4-607-thinking-about-architecture-in-history-and-at-present-fall-2009/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-607-thinking-about-architecture-in-history-and-at-present-fall-2009/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/4-607-thinking-about-architecture-in-history-and-at-present-fall-2009/pages/assignments/)
+
+### Resource
+- [MIT_Seal.png (.png)](https://ocw.mit.edu/courses/4-607-thinking-about-architecture-in-history-and-at-present-fall-2009/resources/mit_seal/)
+- [Photograph of a 12-meter-high puppy sculpture covered with flowers (.jpg)](https://ocw.mit.edu/courses/4-607-thinking-about-architecture-in-history-and-at-present-fall-2009/resources/4-607f09/)
 ## Wikipedia Bridge
 
 ### Related Articles

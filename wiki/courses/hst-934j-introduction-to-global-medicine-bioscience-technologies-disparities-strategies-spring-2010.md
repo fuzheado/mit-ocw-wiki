@@ -12,6 +12,9 @@ views: 260
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:08:50Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 11, Resource: 4, Syllabus: 1"
+api_id: 5154
 ---
 
 # Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies
@@ -30,8 +33,29 @@ This class provides a space for medical students and MD/PhD students, as well as
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/pages/syllabus/)
 
+### Reading-List
+- [LAM 101 for Clinicians and Researchers (.pdf)](https://ocw.mit.edu/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/resources/mithst_934js10_ses9_lam/)
+- [Selected Findings from the Project on Human Development in Chicago Neighborhoods (.pdf)](https://ocw.mit.edu/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/resources/mithst_934js10_ses5_phdcn/)
+- [The President's Proposal (.pdf)](https://ocw.mit.edu/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/resources/mithst_934js10_ses4_whthou/)
+- [How Did Social Medicine Evolve, and Where Is It Heading? (.pdf)](https://ocw.mit.edu/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/resources/mithst_934js10_ses2_socilm/)
+- [Worldmapper: The Human Anatomy of a Small Planet (.pdf)](https://ocw.mit.edu/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/resources/mithst_934js10_ses1_wrldmp/)
+- [Projections of Global Mortality and Burden of Disease from 2002 to 2030 (.pdf)](https://ocw.mit.edu/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/resources/mithst_934js10_ses1_proj/)
+- [Is the "3 by 5" Initiative the Best Approach to Tackling the HIV Pandemic? (.pdf)](https://ocw.mit.edu/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/resources/mithst_934js10_ses12_3by5/)
+- [Health Care Reform: The Real Story (.pdf)](https://ocw.mit.edu/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/resources/mithst_934js10_lecture4/)
+- [Decision Making in Cardiac Therapeutics: Ethics, History, and Policy (.pdf)](https://ocw.mit.edu/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/resources/mithst_934js10_lecture2/)
+- [The Burden of Disease (.pdf)](https://ocw.mit.edu/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/resources/mithst_934js10_02_4_burden/)
+- [Readings and Lectures](https://ocw.mit.edu/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/pages/readings-and-lectures/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/pages/assignments/)
+
+### Resource
+- [Refugees and Internally Displaced Persons (.jpg)](https://ocw.mit.edu/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/resources/hst-934js10/)
+- [Refugees and Internally Displaced Persons (thumbnail) (.jpg)](https://ocw.mit.edu/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/resources/hst-934js10-th/)
+- [Related Resources](https://ocw.mit.edu/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

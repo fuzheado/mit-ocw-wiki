@@ -12,6 +12,9 @@ views: 2806
 completeness: 0.2066666666666667
 last_modified: "2026-05-06T14:47:33Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 20, Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 3563
 ---
 
 # Project Management
@@ -35,11 +38,41 @@ This course will cover the basic tools, skills, and knowledge necessary to succe
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Lecture Notes] Lecture Notes
-- [Open Textbooks] Open Textbooks
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/pages/syllabus/)
 
+### Lecture-Notes
+- [MIT1_040s09_lec24.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec24/)
+- [MIT1_040s09_lec23.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec23/)
+- [MIT1_040s09_lec22.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec22/)
+- [MIT1_040s09_lec20.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec20/)
+- [MIT1_040s09_lec19.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec19/)
+- [MIT1_040s09_lec18.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec18/)
+- [MIT1_040s09_lec17.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec17/)
+- [MIT1_040s09_lec15.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec15/)
+- [MIT1_040s09_lec14.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec14/)
+- [MIT1_040s09_lec09.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec09/)
+- [MIT1_040s09_lec08.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec08/)
+- [MIT1_040s09_lec07.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec07/)
+- [MIT1_040s09_lec06.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec06/)
+- [MIT1_040s09_lec05_berger.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec05_berger/)
+- [MIT1_040s09_lec05.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec05/)
+- [MIT1_040s09_lec04.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec04/)
+- [MIT1_040s09_lec03.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec03/)
+- [MIT1_040s09_lec02.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec02/)
+- [MIT1_040s09_lec01.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_lec01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/pages/assignments/)
+
+### Resource
+- [MIT1_040s09_sitevisit.pdf (.pdf)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/mit1_040s09_sitevisit/)
+- [1-040s09.jpg (.jpg)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/1-040s09/)
+- [1-040s09-th.jpg (.jpg)](https://ocw.mit.edu/courses/1-040-project-management-spring-2009/resources/1-040s09-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

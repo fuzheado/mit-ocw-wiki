@@ -12,6 +12,9 @@ views: 208
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:12:31Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 2, Syllabus: 1, Video-Transcript: 1"
+api_id: 4736
 ---
 
 # Making the Modern World: The Industrial Revolution in Global Perspective
@@ -30,8 +33,18 @@ This class is a global survey of the great transformation in history known as th
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-025j-making-the-modern-world-the-industrial-revolution-in-global-perspective-fall-2009/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/sts-025j-making-the-modern-world-the-industrial-revolution-in-global-perspective-fall-2009/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/sts-025j-making-the-modern-world-the-industrial-revolution-in-global-perspective-fall-2009/pages/assignments/)
+- [Some Guidelines for Preparing a Critical Book Review](https://ocw.mit.edu/courses/sts-025j-making-the-modern-world-the-industrial-revolution-in-global-perspective-fall-2009/pages/assignments/book-review-guide/)
+
+### Resource
+- [Photograph of a group of soldiers, rifles slung over their shoulders, marching along a railroad track (.jpg)](https://ocw.mit.edu/courses/sts-025j-making-the-modern-world-the-industrial-revolution-in-global-perspective-fall-2009/resources/sts-025jf09/)
 ## Wikipedia Bridge
 
 ### Related Articles

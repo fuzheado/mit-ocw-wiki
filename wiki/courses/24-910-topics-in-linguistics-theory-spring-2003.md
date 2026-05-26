@@ -12,6 +12,9 @@ views: 247
 completeness: 0.05333333333333334
 last_modified: "2026-05-06T17:03:35Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 4, Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5493
 ---
 
 # Topics in Linguistics Theory
@@ -37,9 +40,25 @@ We will try to understand what is going on here and look at related construction
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/24-910-topics-in-linguistics-theory-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-910-topics-in-linguistics-theory-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [Tibetan Indirect Evidentials as Performative Epistemic Modals (.pdf)](https://ocw.mit.edu/courses/24-910-topics-in-linguistics-theory-spring-2003/resources/3_epistemicperformative/)
+- [Evidential Systems (.pdf)](https://ocw.mit.edu/courses/24-910-topics-in-linguistics-theory-spring-2003/resources/2_evidentials/)
+- [Introduction (.pdf)](https://ocw.mit.edu/courses/24-910-topics-in-linguistics-theory-spring-2003/resources/1_introduction/)
+- [Lecture Notes](https://ocw.mit.edu/courses/24-910-topics-in-linguistics-theory-spring-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/24-910-topics-in-linguistics-theory-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/24-910-topics-in-linguistics-theory-spring-2003/pages/assignments/)
+
+### Resource
+- [Tibetan text on wall (.jpg)](https://ocw.mit.edu/courses/24-910-topics-in-linguistics-theory-spring-2003/resources/24-910s03/)
+- [Tibetan text on wall (thumbnail) (.jpg)](https://ocw.mit.edu/courses/24-910-topics-in-linguistics-theory-spring-2003/resources/24-910s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

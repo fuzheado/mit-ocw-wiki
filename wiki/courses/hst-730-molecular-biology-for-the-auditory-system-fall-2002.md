@@ -12,6 +12,9 @@ views: 140
 completeness: 0.275
 last_modified: "2026-05-06T17:12:17Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 10, Problem-Set: 4, Resource: 8, Syllabus: 2"
+api_id: 4707
 ---
 
 # Molecular Biology for the Auditory System
@@ -30,8 +33,34 @@ An introductory course in the molecular biology of the auditory system. First ha
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/pages/calendar/)
+- **Labs** — [🔗](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/pages/labs/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/pages/syllabus/)
 
+### Lecture-Notes
+- [new_stem_cells_dec9sh.pdf (.pdf)](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/resources/new_stem_cells_dec9sh/)
+- [new_myosinlecture_ag.pdf (.pdf)](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/resources/new_myosinlecture_ag/)
+- [new_lab_introsept25_sh.pdf (.pdf)](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/resources/new_lab_introsept25_sh/)
+- [new_intro_molec_biol_lect_2.pdf (.pdf)](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/resources/new_intro_molec_biol_lect_2/)
+- [new_intro_molec_biol_lect_1.pdf (.pdf)](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/resources/new_intro_molec_biol_lect_1/)
+- [new_genetics_genomics.pdf (.pdf)](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/resources/new_genetics_genomics/)
+- [new_genetic_hearing_loss.pdf (.pdf)](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/resources/new_genetic_hearing_loss/)
+- [new_development_oct_16_sh.pdf (.pdf)](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/resources/new_development_oct_16_sh/)
+- [Lecture Notes](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/pages/lecture-notes/)
+
+### Problem-Set
+- [examQ7.pdf (.pdf)](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/resources/examq7/)
+- [examq3.jpg (.jpg)](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/resources/examq3/)
+- [examq1.jpg (.jpg)](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/resources/examq1/)
+- [Exams](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/pages/exams/)
+
+### Resource
+- [lab_part_II_sh.pdf (.pdf)](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/resources/lab_part_ii_sh/)
+- [lab_part_I_sh.pdf (.pdf)](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/resources/lab_part_i_sh/)
+- [lab_Intro_sept_25SH.pdf (.pdf)](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/resources/lab_intro_sept_25sh/)
+- [hst-730f02.jpg (.jpg)](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/resources/hst-730f02/)
+- [hst-730f02-th.jpg (.jpg)](https://ocw.mit.edu/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/resources/hst-730f02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

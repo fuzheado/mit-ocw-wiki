@@ -12,6 +12,9 @@ views: 308
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:07:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 1"
+api_id: 5624
 ---
 
 # Literary Studies: The Legacy of England
@@ -30,8 +33,20 @@ Topic: The English sense of humor. This course examines English literature acros
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-420-literary-studies-the-legacy-of-england-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-420-literary-studies-the-legacy-of-england-spring-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-420-literary-studies-the-legacy-of-england-spring-2006/pages/assignments/)
+
+### Resource
+- [Oscar Wilde (.jpg)](https://ocw.mit.edu/courses/21l-420-literary-studies-the-legacy-of-england-spring-2006/resources/chp_oscar_wilde/)
+- [Alice Liddell and Sisters (.jpg)](https://ocw.mit.edu/courses/21l-420-literary-studies-the-legacy-of-england-spring-2006/resources/chp_alice07/)
+- [Doctor Syntax, in the middle of a smoking hot political squabble, wishes to whet his whistle (.jpg)](https://ocw.mit.edu/courses/21l-420-literary-studies-the-legacy-of-england-spring-2006/resources/21l-420s06/)
+- [Doctor Syntax, in the middle of a smoking hot political squabble, wishes to whet his whistle (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-420-literary-studies-the-legacy-of-england-spring-2006/resources/21l-420s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 225
 completeness: 0.1
 last_modified: "2026-05-06T14:50:48Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 3"
+api_id: 5527
 ---
 
 # Literary Interpretation: Literature and Urban Experience
@@ -30,9 +33,21 @@ Alienation, overcrowding, sensory overload, homelessness, criminality, violence,
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar and Readings** — [🔗](https://ocw.mit.edu/courses/21l-701-literary-interpretation-literature-and-urban-experience-spring-2009/pages/calendar-and-readings/)
+- **Related Resources** — [🔗](https://ocw.mit.edu/courses/21l-701-literary-interpretation-literature-and-urban-experience-spring-2009/pages/related-resources/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-701-literary-interpretation-literature-and-urban-experience-spring-2009/pages/syllabus/)
 
+### Problem-Set
+- [Notes on essay revision (.pdf)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-literature-and-urban-experience-spring-2009/resources/mit21l_701s09_notes_essay/)
+- [Final essay assignment (.pdf)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-literature-and-urban-experience-spring-2009/resources/mit21l_701s09_final_essay/)
+- [Essay 1 prompts (.pdf)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-literature-and-urban-experience-spring-2009/resources/mit21l_701s09_essay1_edit/)
+- [Discussion Leadership Pointers (.pdf)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-literature-and-urban-experience-spring-2009/resources/mit21l_701s09_disc_lead/)
+- [Assignments](https://ocw.mit.edu/courses/21l-701-literary-interpretation-literature-and-urban-experience-spring-2009/pages/assignments/)
+
+### Resource
+- [A Short Guide to Close Reading (.pdf)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-literature-and-urban-experience-spring-2009/resources/mit21l701s09_guid_close/)
+- [A man in a black coat sits on a subway and reads a book (.jpg)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-literature-and-urban-experience-spring-2009/resources/21l-701s09/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 88
 completeness: 0.12
 last_modified: "2026-05-06T14:44:49Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Problem-Set: 6, Resource: 4, Syllabus: 2"
+api_id: 4806
 ---
 
 # Architectural Design, Level II: Material and Tectonic Transformations: The Herreshoff Museum
@@ -30,9 +33,25 @@ This semester students are asked to transform the Hereshoff Museum in Bristol, R
 
 ## Materials
 
-- [Design Assignments] Design Assignments
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003/pages/syllabus/)
 
+### Problem-Set
+- [museumprogram.pdf (.pdf)](https://ocw.mit.edu/courses/4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003/resources/museumprogram/)
+- [ex4review.pdf (.pdf)](https://ocw.mit.edu/courses/4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003/resources/ex4review/)
+- [ex3program.pdf (.pdf)](https://ocw.mit.edu/courses/4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003/resources/ex3program/)
+- [ex2tectonic.pdf (.pdf)](https://ocw.mit.edu/courses/4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003/resources/ex2tectonic/)
+- [1siteresearch.pdf (.pdf)](https://ocw.mit.edu/courses/4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003/resources/1siteresearch/)
+- [Assignments](https://ocw.mit.edu/courses/4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003/pages/assignments/)
+
+### Assignment
+- [final.pdf (.pdf)](https://ocw.mit.edu/courses/4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003/resources/final/)
+- [Projects](https://ocw.mit.edu/courses/4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003/pages/projects/)
+
+### Resource
+- [4-131bf03.jpg (.jpg)](https://ocw.mit.edu/courses/4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003/resources/4-131bf03/)
+- [4-131bf03-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003/resources/4-131bf03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 390
 completeness: 0.2366666666666667
 last_modified: "2026-05-06T16:56:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Problem-Set: 3, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 1"
+api_id: 4863
 ---
 
 # Neuroscience of Morality
@@ -30,9 +33,25 @@ How do we decide whether an action is morally wrong? How do we choose to do what
 
 ## Materials
 
-- [Exams] Exams
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-46-neuroscience-of-morality-fall-2017/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-46-neuroscience-of-morality-fall-2017/pages/syllabus/)
+- **Weekly Exercises** — [🔗](https://ocw.mit.edu/courses/9-46-neuroscience-of-morality-fall-2017/pages/weekly-exercises/)
 
+### Lecture-Notes
+- [Lecture 1 (.pdf)](https://ocw.mit.edu/courses/9-46-neuroscience-of-morality-fall-2017/resources/mit9_46f17_lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/9-46-neuroscience-of-morality-fall-2017/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-46-neuroscience-of-morality-fall-2017/pages/readings/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/9-46-neuroscience-of-morality-fall-2017/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/9-46-neuroscience-of-morality-fall-2017/pages/assignments/)
+
+### Resource
+- [CHP thumbnail (.png)](https://ocw.mit.edu/courses/9-46-neuroscience-of-morality-fall-2017/resources/mit9_46f17_chp_th/)
+- [CHP (.png)](https://ocw.mit.edu/courses/9-46-neuroscience-of-morality-fall-2017/resources/mit9_46f17_chp/)
 ## Wikipedia Bridge
 
 ### Related Articles

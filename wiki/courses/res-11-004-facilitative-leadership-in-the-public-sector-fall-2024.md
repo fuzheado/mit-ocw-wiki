@@ -12,6 +12,9 @@ views: 550
 completeness: 0.06666666666666667
 last_modified: "2026-05-06T16:51:13Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2, Video-Transcript: 11"
+api_id: 16722
 ---
 
 # Facilitative Leadership in the Public Sector
@@ -31,9 +34,9 @@ The trailer and session videos may be freely viewed, downloaded, and reused unde
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Workshop Videos] Workshop Videos
-
+### Resource
+- [mitres-11-004-f24.jpg (.jpg)](https://ocw.mit.edu/courses/res-11-004-facilitative-leadership-in-the-public-sector-fall-2024/resources/mitres-11-004-f24_jpg/)
+- [Description](https://ocw.mit.edu/courses/res-11-004-facilitative-leadership-in-the-public-sector-fall-2024/pages/description/)
 ## Wikipedia Bridge
 
 ### Related Articles

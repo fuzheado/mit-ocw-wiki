@@ -12,6 +12,9 @@ views: 171
 completeness: 0.05
 last_modified: "2026-05-06T17:19:32Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 6, Reading-List: 1, Resource: 11, Syllabus: 2"
+api_id: 5318
 ---
 
 # MBA Study Tour: Innovation Islands - How New Zealand Became A Global Player in the Race to Innovate
@@ -31,8 +34,31 @@ This course fulfills the Sloan Innovation Period (SIP) elective requirement. SIP
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/pages/syllabus/)
 
+### Lecture-Notes
+- [Class 5 Key Takeaways (.pdf)](https://ocw.mit.edu/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/resources/mit15_228s16_class_5/)
+- [Class 4 Key Takeaways (.pdf)](https://ocw.mit.edu/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/resources/mit15_228s16_class_4/)
+- [Class 3 Key Takeaways (.pdf)](https://ocw.mit.edu/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/resources/mit15_228s16_class_3/)
+- [Class 2 Key Takeaways (.pdf)](https://ocw.mit.edu/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/resources/mit15_228s16_class_2/)
+- [Class 1 Key Takeaways (.pdf)](https://ocw.mit.edu/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/resources/mit15_228s16_class_1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/pages/readings/)
+
+### Resource
+- [~20 students enrolled (.png)](https://ocw.mit.edu/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/resources/20-approx/)
+- [A vineyard in New Zealand's wine region (.jpg)](https://ocw.mit.edu/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/resources/15-228s16/)
+- [A vineyard in New Zealand's wine region (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/resources/15-228s16-th/)
+- [15.228 classroom (.jpg)](https://ocw.mit.edu/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/resources/15-228-classroom/)
+- [What Makes the Course Unique](https://ocw.mit.edu/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/pages/instructor-insights/what-makes-the-course-unique/)
+- [MBA Study Tours and Their Desitinations](https://ocw.mit.edu/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/pages/instructor-insights/mba-study-tours-and-their-desitinations/)
+- [How the Course Is Structured](https://ocw.mit.edu/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/pages/instructor-insights/how-the-course-is-structured/)
+- [Instructor Insights](https://ocw.mit.edu/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/pages/instructor-insights/)
+- [Deliverables](https://ocw.mit.edu/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/pages/deliverables/)
 ## Wikipedia Bridge
 
 ### Related Articles

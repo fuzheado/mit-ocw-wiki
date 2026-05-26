@@ -12,6 +12,9 @@ views: 293
 completeness: 0.06
 last_modified: "2026-05-06T14:54:29Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 3, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 2"
+api_id: 4619
 ---
 
 # Queer Cinema and Visual Culture
@@ -30,8 +33,19 @@ This course analyzes mainstream, popular films produced in the post-World War II
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/wgs-181-queer-cinema-and-visual-culture-fall-2017/pages/calendar/)
+- **Critical Response / Review Essay** — [🔗](https://ocw.mit.edu/courses/wgs-181-queer-cinema-and-visual-culture-fall-2017/pages/assignments/critical-response-review-essay/)
+- **Readings and Films** — [🔗](https://ocw.mit.edu/courses/wgs-181-queer-cinema-and-visual-culture-fall-2017/pages/readingsandfilms/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/wgs-181-queer-cinema-and-visual-culture-fall-2017/pages/syllabus/)
 
+### Problem-Set
+- [Final Essay](https://ocw.mit.edu/courses/wgs-181-queer-cinema-and-visual-culture-fall-2017/pages/assignments/final-essay/)
+- [Assignments](https://ocw.mit.edu/courses/wgs-181-queer-cinema-and-visual-culture-fall-2017/pages/assignments/)
+
+### Resource
+- [WGS-181f17.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-181-queer-cinema-and-visual-culture-fall-2017/resources/wgs-181f17/)
+- [WGS-181f17-th.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-181-queer-cinema-and-visual-culture-fall-2017/resources/wgs-181f17-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

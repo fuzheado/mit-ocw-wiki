@@ -12,6 +12,9 @@ views: 166
 completeness: 0.0
 last_modified: "2026-05-06T15:00:03Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 4, Reading-List: 1, Resource: 3, Syllabus: 2"
+api_id: 4434
 ---
 
 # Chinese Foreign Policy: International Relations and Strategy
@@ -30,8 +33,21 @@ China’s rise as a great power raises important questions about how that power 
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009/pages/readings/)
+
+### Assignment
+- [Explaining China’s Participation in Anti-Piracy Operations in the Gulf of Aden (.pdf)](https://ocw.mit.edu/courses/17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009/resources/mit17_407s09_student2/)
+- [An Analysis of Traditional Chinese Strategic Thought (.pdf)](https://ocw.mit.edu/courses/17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009/resources/mit17_407s09_midterm1/)
+- [Modern Chinese Strategic Thought: Classical and Maoist Influences (.pdf)](https://ocw.mit.edu/courses/17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009/resources/mit17_407s09_final1/)
+- [Projects](https://ocw.mit.edu/courses/17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009/pages/projects/)
+
+### Resource
+- [A guard in Beijing stands in front of the imperial palace where a large photo of Mao Zedong hangs (.jpg)](https://ocw.mit.edu/courses/17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009/resources/17-407s09/)
 ## Wikipedia Bridge
 
 ### Related Articles

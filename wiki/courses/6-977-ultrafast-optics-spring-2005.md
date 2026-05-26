@@ -12,6 +12,9 @@ views: 317
 completeness: 0.3166666666666667
 last_modified: "2026-05-06T14:49:07Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 14, Problem-Set: 12, Reading-List: 2, Resource: 5, Syllabus: 2"
+api_id: 4290
 ---
 
 # Ultrafast Optics
@@ -30,9 +33,45 @@ This course is offered to graduate students and addresses issues regarding ultra
 
 ## Materials
 
-- [Open Textbooks] Open Textbooks
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/pages/syllabus/)
+- **Ultrafast Optics textbook** — [🔗](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/mit6_977s05_textbook/)
 
+### Lecture-Notes
+- [rate_relaxation.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/rate_relaxation/)
+- [chapter9.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/chapter9/)
+- [chapter8.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/chapter8/)
+- [chapter7.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/chapter7/)
+- [chapter6.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/chapter6/)
+- [chapter5.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/chapter5/)
+- [chapter4.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/chapter4/)
+- [chapter3.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/chapter3/)
+- [chapter2.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/chapter2/)
+- [chapter12.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/chapter12/)
+- [chapter11.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/chapter11/)
+- [chapter10.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/chapter10/)
+- [chapter1.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/chapter1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/pages/lecture-notes/)
+
+### Problem-Set
+- [term_paper_prop.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/term_paper_prop/)
+- [ps9.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/ps9/)
+- [ps8.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/ps8/)
+- [ps7.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/ps7/)
+- [ps6.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/ps6/)
+- [ps5.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/ps5/)
+- [ps4.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/ps4/)
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/ps3/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/ps2/)
+- [ps10.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/ps10/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/ps1/)
+- [Assignments](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/pages/assignments/)
+
+### Resource
+- [chp_optical.jpg (.jpg)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/chp_optical/)
+- [6-977s05.jpg (.jpg)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/6-977s05/)
+- [6-977s05-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-977-ultrafast-optics-spring-2005/resources/6-977s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

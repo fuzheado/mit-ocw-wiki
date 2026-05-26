@@ -12,6 +12,9 @@ views: 280
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T17:19:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 4, Syllabus: 2, Video-Transcript: 5"
+api_id: 5007
 ---
 
 # Feeling and Imagination in Art, Science, and Technology
@@ -30,8 +33,22 @@ This course is a seminar on creativity in art, science, and technology. We discu
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004/pages/readings/)
+
+### Problem-Set
+- [Creativity and Machine Design (.pdf)](https://ocw.mit.edu/courses/24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004/resources/creativity_mach/)
+- [Imagination and Creativity in Modern Collegiate A Cappella Arranging, Performing, and Recording (.pdf)](https://ocw.mit.edu/courses/24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004/resources/a_cappella_1/)
+- [Human and Computer Creativity (.pdf)](https://ocw.mit.edu/courses/24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004/resources/24262wed_1145pm1/)
+- [Assignments](https://ocw.mit.edu/courses/24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004/pages/assignments/)
+
+### Resource
+- [Celebrating Scientific Advances by African Americans (.jpg)](https://ocw.mit.edu/courses/24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004/resources/24-262s04/)
+- [Celebrating Scientific Advances by African Americans (thumbnail) (.jpg)](https://ocw.mit.edu/courses/24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004/resources/24-262s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

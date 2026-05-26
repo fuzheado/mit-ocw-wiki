@@ -12,6 +12,9 @@ views: 175
 completeness: 0.06
 last_modified: "2026-05-06T14:59:42Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 13, Syllabus: 2"
+api_id: 4541
 ---
 
 # Gender, Power, Leadership, and the Workplace
@@ -30,9 +33,29 @@ This course will provide students with an analytic framework to understand the r
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/pages/calendar/)
+- **Student Work** — [🔗](https://ocw.mit.edu/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/pages/assignments/student-work/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/pages/readings/)
+
+### Problem-Set
+- [Research/Policy Paper Options (.pdf)](https://ocw.mit.edu/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/resources/mitwgs_s10s14_pap_opt/)
+- [Assignments](https://ocw.mit.edu/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/pages/assignments/)
+
+### Resource
+- [wgs-s10s14.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/resources/wgs-s10s14/)
+- [wgs-s10s14-th.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/resources/wgs-s10s14-th/)
+- [wgs-s10-classroom.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/resources/wgs-s10-classroom/)
+- [Government Policy (.pdf)](https://ocw.mit.edu/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/resources/mitwgs_s10s14_ses15_pap/)
+- [Women in Politics (.pdf)](https://ocw.mit.edu/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/resources/mitwgs_s10s14_pres_women2/)
+- [International Women in Politics (.pdf)](https://ocw.mit.edu/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/resources/mitwgs_s10s14_pres_women/)
+- [Every Woman is a Masterpiece (.pdf)](https://ocw.mit.edu/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/resources/mitwgs_s10s14_masterpiece/)
+- [The Division of Household Labor in Traditional Families (.pdf)](https://ocw.mit.edu/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/resources/mitwgs_s10s14_fin_labor/)
+- [Affirming the Need for Action: A Closer Look at Affirmative Action Policies (.pdf)](https://ocw.mit.edu/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/resources/mitwgs_s10s14_fin_affimat/)
+- [Instructor Insights](https://ocw.mit.edu/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

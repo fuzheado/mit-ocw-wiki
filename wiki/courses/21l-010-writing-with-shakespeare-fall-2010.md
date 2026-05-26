@@ -12,6 +12,9 @@ views: 295
 completeness: 0.2
 last_modified: "2026-05-06T17:11:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 13, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4348
 ---
 
 # Writing with Shakespeare
@@ -33,8 +36,31 @@ Shakespeare used his ears and eyes to learn the craft of telling stories to the 
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-010-writing-with-shakespeare-fall-2010/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-010-writing-with-shakespeare-fall-2010/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-010-writing-with-shakespeare-fall-2010/pages/readings/)
+
+### Problem-Set
+- [Feedback on our "The Winter’s Tale" class (.pdf)](https://ocw.mit.edu/courses/21l-010-writing-with-shakespeare-fall-2010/resources/mit21l_010f10_assn15/)
+- [Feedback on our "Coriolanus" class (.pdf)](https://ocw.mit.edu/courses/21l-010-writing-with-shakespeare-fall-2010/resources/mit21l_010f10_assn14/)
+- [Henry V Teaching and Performance Group Presentation (.pdf)](https://ocw.mit.edu/courses/21l-010-writing-with-shakespeare-fall-2010/resources/mit21l_010f10_assn13/)
+- [Feedback on our “Coriolanus” class (.pdf)](https://ocw.mit.edu/courses/21l-010-writing-with-shakespeare-fall-2010/resources/mit21l_010f10_assn11/)
+- [Final Self-Assessment (.pdf)](https://ocw.mit.edu/courses/21l-010-writing-with-shakespeare-fall-2010/resources/mit21l_010f10_assn09/)
+- [Comparative essay assignment (.pdf)](https://ocw.mit.edu/courses/21l-010-writing-with-shakespeare-fall-2010/resources/mit21l_010f10_assn08/)
+- [Annotated Bibliography: Guidelines (.pdf)](https://ocw.mit.edu/courses/21l-010-writing-with-shakespeare-fall-2010/resources/mit21l_010f10_assn07/)
+- [Essay Assignment for Henry IV, Part One (.pdf)](https://ocw.mit.edu/courses/21l-010-writing-with-shakespeare-fall-2010/resources/mit21l_010f10_assn05/)
+- [Assignment of Historical Readings (for SES #15 and SES #16) from the Bedford edition of "The First Part of King Henry the Fourth: Texts and Contexts" (.pdf)](https://ocw.mit.edu/courses/21l-010-writing-with-shakespeare-fall-2010/resources/mit21l_010f10_assn04/)
+- [Othello essay prompt (.pdf)](https://ocw.mit.edu/courses/21l-010-writing-with-shakespeare-fall-2010/resources/mit21l_010f10_assn03/)
+- [Multimedia essay on Much Ado About Nothing: instructions (.pdf)](https://ocw.mit.edu/courses/21l-010-writing-with-shakespeare-fall-2010/resources/mit21l_010f10_assn02/)
+- [Writing Assignment due SES #4 : Paraphrase and line-by-line analysis (.pdf)](https://ocw.mit.edu/courses/21l-010-writing-with-shakespeare-fall-2010/resources/mit21l_010f10_assn01/)
+- [Assignments](https://ocw.mit.edu/courses/21l-010-writing-with-shakespeare-fall-2010/pages/assignments/)
+
+### Resource
+- [Shakespeare (.jpg)](https://ocw.mit.edu/courses/21l-010-writing-with-shakespeare-fall-2010/resources/21l-010f10/)
+- [Shakespeare (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-010-writing-with-shakespeare-fall-2010/resources/21l-010f10-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

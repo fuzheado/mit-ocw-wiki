@@ -12,6 +12,9 @@ views: 77
 completeness: 0.0
 last_modified: "2026-05-06T14:45:53Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 1"
+api_id: 5931
 ---
 
 # Marguerite de Roberval: A Web-Based Approach to Teaching a Renaissance Heroine
@@ -31,11 +34,8 @@ The Marguerite de Roberval website is published under a Creative Commons Attribu
 
 ## Materials
 
-- [Image Gallery] Image Gallery
-- [Media Assignments] Media Assignments
-- [Multiple Assignment Types] Multiple Assignment Types
-- [Other Video] Other Video
-
+### Resource
+- [mitres_21g_3003_f23.jpeg (.jpeg)](https://ocw.mit.edu/courses/res-21g-3003-marguerite-de-roberval-a-web-based-approach-to-teaching-a-renaissance-heroine-fall-2023/resources/mitres_21g_3003_f23_jpeg/)
 ## Wikipedia Bridge
 
 ### Related Articles

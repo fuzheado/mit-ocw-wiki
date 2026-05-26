@@ -12,6 +12,9 @@ views: 279
 completeness: 0.0
 last_modified: "2026-05-06T17:05:34Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 1, Video-Transcript: 1"
+api_id: 14047
 ---
 
 # North America through French Eyes
@@ -32,9 +35,17 @@ About the instructor: Bruno Perreau is the Cynthia L. Reed Associate Professor o
 
 ## Materials
 
-- [Readings] Readings
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/21g-346-north-america-through-french-eyes-fall-2023/pages/assignments/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-346-north-america-through-french-eyes-fall-2023/pages/syllabus/)
 
+### Reading-List
+- [Topics, Readings, and Media 🎬YouTube](https://ocw.mit.edu/courses/21g-346-north-america-through-french-eyes-fall-2023/pages/topics-and-readingsmedia/)
+
+### Resource
+- [Instructor Insights](https://ocw.mit.edu/courses/21g-346-north-america-through-french-eyes-fall-2023/pages/instructor-insights/)
+- [mit21g_346f23.jpeg (.jpeg)](https://ocw.mit.edu/courses/21g-346-north-america-through-french-eyes-fall-2023/resources/mit21g_346f23_jpeg/)
+- [Topics, Readings, Media](https://ocw.mit.edu/courses/21g-346-north-america-through-french-eyes-fall-2023/pages/topics-and-readingsmedia/)
 ## Wikipedia Bridge
 
 ### Related Articles

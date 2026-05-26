@@ -12,6 +12,9 @@ views: 170
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:16:13Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 1"
+api_id: 4307
 ---
 
 # Gender
@@ -30,8 +33,17 @@ This course examines the definition of gender in scientific, societal, and histo
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-983-gender-spring-2017/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21h-983-gender-spring-2017/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-983-gender-spring-2017/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-983-gender-spring-2017/pages/assignments/)
+
+### Resource
+- [21H-983s17.jpg (.jpg)](https://ocw.mit.edu/courses/21h-983-gender-spring-2017/resources/21h-983s17/)
+- [21H-983s17-th.jpg (.jpg)](https://ocw.mit.edu/courses/21h-983-gender-spring-2017/resources/21h-983s17-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

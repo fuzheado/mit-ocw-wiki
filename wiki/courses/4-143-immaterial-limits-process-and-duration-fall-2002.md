@@ -12,6 +12,9 @@ views: 67
 completeness: 0.0
 last_modified: "2026-05-06T17:07:59Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 5, Resource: 5, Syllabus: 2"
+api_id: 5080
 ---
 
 # Immaterial Limits: Process and Duration
@@ -31,8 +34,21 @@ A more detailed description can be found in the syllabus section.
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-143-immaterial-limits-process-and-duration-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-143-immaterial-limits-process-and-duration-fall-2002/pages/syllabus/)
 
+### Assignment
+- [Student Projects (.pdf)](https://ocw.mit.edu/courses/4-143-immaterial-limits-process-and-duration-fall-2002/resources/projectpage/)
+- [Problem 3: Extreme Geology Center: Program (.pdf)](https://ocw.mit.edu/courses/4-143-immaterial-limits-process-and-duration-fall-2002/resources/project3/)
+- [Problem 2: Duration and Depth: Site Strategies in 3 Dimension/ De-familiarization in Flat (.pdf)](https://ocw.mit.edu/courses/4-143-immaterial-limits-process-and-duration-fall-2002/resources/project2/)
+- [Measures and Scapes (.pdf)](https://ocw.mit.edu/courses/4-143-immaterial-limits-process-and-duration-fall-2002/resources/project1/)
+- [Projects](https://ocw.mit.edu/courses/4-143-immaterial-limits-process-and-duration-fall-2002/pages/projects/)
+
+### Resource
+- [Problem 1: Out-of-Joint (.pdf)](https://ocw.mit.edu/courses/4-143-immaterial-limits-process-and-duration-fall-2002/resources/problem1a/)
+- [Two People Studying Tectonics (.jpg)](https://ocw.mit.edu/courses/4-143-immaterial-limits-process-and-duration-fall-2002/resources/4-143f02/)
+- [Two People Studying Tectonics (thumbnail) (.jpg)](https://ocw.mit.edu/courses/4-143-immaterial-limits-process-and-duration-fall-2002/resources/4-143f02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

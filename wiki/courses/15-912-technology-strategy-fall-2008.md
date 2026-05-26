@@ -12,6 +12,9 @@ views: 617
 completeness: 0.22000000000000003
 last_modified: "2026-05-06T17:08:20Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 23, Problem-Set: 1, Reading-List: 3, Resource: 4, Syllabus: 2"
+api_id: 5447
 ---
 
 # Technology Strategy
@@ -31,10 +34,45 @@ This is not a course in how to manage product or process development. The main f
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/pages/calendar/)
+- **Supplementary Readings** — [🔗](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/pages/supplementary-readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/pages/syllabus/)
 
+### Lecture-Notes
+- [Technology Strategy (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_24/)
+- [Kodak: Managing Through Discontinuities (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_22/)
+- [Events 1979-1981 (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_21_d/)
+- [Alza & Ciba-Geigy (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_20_a/)
+- [Organizational Dynamics (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_19/)
+- [Launching the Toyota Prius (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_18/)
+- [Strategy and Product Development at Medtronic (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_17/)
+- [Strategic Management of Platforms and Ecosystems (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_15/)
+- [Vertical and Horizontal Strategies in Converging Ecosystems (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_14/)
+- [The Story So Far (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_13b/)
+- [Introduction to Google (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_13a/)
+- [Red Hat and The Linux Revolution (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_12/)
+- [Network Effects and Standards‐Based Competition (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_11/)
+- [Ember (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_10/)
+- [Uniqueness and Complementary Assets (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_09/)
+- [Value Capture in Abgenix (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_08/)
+- [Creating Value with Effective Organization (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_07/)
+- [Intel Photolithography and Effective Organization of R&D (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_06/)
+- [Novartis: An Introduction to Organization Structure (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_05/)
+- [Market Evolution (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_04/)
+- [Introduction to Industry Life Cycles and Market Evolution (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_03/)
+- [S‐Curves (.pdf)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/lec_02/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/pages/lecture-notes/)
+
+### Reading-List
+- [Additional Articles](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/pages/readings/lec15/)
+- [Readings](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/pages/assignments/)
+
+### Resource
+- [A Pyramid of Questions (.jpg)](https://ocw.mit.edu/courses/15-912-technology-strategy-fall-2008/resources/15-912f08/)
 ## Wikipedia Bridge
 
 ### Related Articles

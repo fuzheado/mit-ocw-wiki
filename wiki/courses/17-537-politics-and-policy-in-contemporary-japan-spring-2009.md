@@ -12,6 +12,9 @@ views: 170
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T16:49:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4672
 ---
 
 # Politics and Policy in Contemporary Japan
@@ -30,9 +33,22 @@ This subject is designed for upper level undergraduates and graduate students as
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-537-politics-and-policy-in-contemporary-japan-spring-2009/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-537-politics-and-policy-in-contemporary-japan-spring-2009/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-537-politics-and-policy-in-contemporary-japan-spring-2009/pages/readings/)
+
+### Problem-Set
+- [Books for Undergraduate Book Report (.pdf)](https://ocw.mit.edu/courses/17-537-politics-and-policy-in-contemporary-japan-spring-2009/resources/mit17_537s09_undergradbook/)
+- [Economic Concerns and Bureaucratic Politics in Japan’s Interwar Years (.pdf)](https://ocw.mit.edu/courses/17-537-politics-and-policy-in-contemporary-japan-spring-2009/resources/mit17_537s09_paper1/)
+- [Japan Votes: Rational Choices and Social Obligations (.pdf)](https://ocw.mit.edu/courses/17-537-politics-and-policy-in-contemporary-japan-spring-2009/resources/mit17_537s09_japanpaper2/)
+- [Assignments](https://ocw.mit.edu/courses/17-537-politics-and-policy-in-contemporary-japan-spring-2009/pages/assignments/)
+
+### Resource
+- [The Japanese Diet Building (.jpg)](https://ocw.mit.edu/courses/17-537-politics-and-policy-in-contemporary-japan-spring-2009/resources/chp_diet/)
+- [Photograph of the Japanese Diet Building (.jpg)](https://ocw.mit.edu/courses/17-537-politics-and-policy-in-contemporary-japan-spring-2009/resources/17-537s09/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 4049
 completeness: 0.12
 last_modified: "2026-05-06T14:58:19Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 6, Reading-List: 2, Resource: 5, Syllabus: 2"
+api_id: 4981
 ---
 
 # The Meaning of Life
@@ -30,8 +33,26 @@ This course examines how a variety of cultural traditions propose answers to the
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-157-the-meaning-of-life-spring-2019/pages/calendar/)
+- **Investigation Papers** — [🔗](https://ocw.mit.edu/courses/21a-157-the-meaning-of-life-spring-2019/pages/assignments/investigation-papers/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-157-the-meaning-of-life-spring-2019/pages/syllabus/)
 
+### Reading-List
+- [21A.157_S19 The Meaning of Life, Readings: Writing Against MIT Culture (.pdf)](https://ocw.mit.edu/courses/21a-157-the-meaning-of-life-spring-2019/resources/mit21a_157s19_mitculture/)
+- [Readings](https://ocw.mit.edu/courses/21a-157-the-meaning-of-life-spring-2019/pages/readings/)
+
+### Problem-Set
+- [21A.157_S19 Assignments: Student Example_Investigation Papers_Belonging_Option2 (.pdf)](https://ocw.mit.edu/courses/21a-157-the-meaning-of-life-spring-2019/resources/mit21a_157s19_module5_opt2/)
+- [21A.157_S19 Assignments: Student Example_Investigation Papers_Self-Cultivation_Option2 (.pdf)](https://ocw.mit.edu/courses/21a-157-the-meaning-of-life-spring-2019/resources/mit21a_157s19_module4_opt2/)
+- ["Moral Moment" Vignette](https://ocw.mit.edu/courses/21a-157-the-meaning-of-life-spring-2019/pages/assignments/moral-moment-vignette/)
+- [Final Paper](https://ocw.mit.edu/courses/21a-157-the-meaning-of-life-spring-2019/pages/assignments/final-paper/)
+- [Assignments](https://ocw.mit.edu/courses/21a-157-the-meaning-of-life-spring-2019/pages/assignments/)
+
+### Resource
+- [21A-157s19.jpg (.jpg)](https://ocw.mit.edu/courses/21a-157-the-meaning-of-life-spring-2019/resources/21a-157s19/)
+- [21A-157s19-th.jpg (.jpg)](https://ocw.mit.edu/courses/21a-157-the-meaning-of-life-spring-2019/resources/21a-157s19-th/)
+- [&#34;Moral Moment&#34; Vignette](https://ocw.mit.edu/courses/21a-157-the-meaning-of-life-spring-2019/pages/assignments/moral-moment-vignette/)
 ## Wikipedia Bridge
 
 ### Related Articles

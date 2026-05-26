@@ -12,6 +12,9 @@ views: 398
 completeness: 0.0
 last_modified: "2026-05-06T17:21:08Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 4950
 ---
 
 # Algorithm Engineering
@@ -30,9 +33,9 @@ This is a research-oriented course on algorithm engineering, which will cover bo
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Readings] Readings
-
+### Resource
+- [6-5060s23.jpg (.jpg)](https://ocw.mit.edu/courses/6-5060-algorithm-engineering-spring-2023/resources/6-5060s23_jpg/)
+- [How Fast Do Algorithms Improve? [Point of View]](https://ieeexplore.ieee.org/document/9540991)
 ## Wikipedia Bridge
 
 ### Related Articles

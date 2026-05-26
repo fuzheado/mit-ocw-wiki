@@ -12,6 +12,9 @@ views: 455
 completeness: 0.17500000000000002
 last_modified: "2026-05-06T14:59:32Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 21, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5139
 ---
 
 # The Theory of Operations Management
@@ -31,8 +34,39 @@ This MIT OpenCourseWare site is dedicated to the memory of Bhuwan Singh, a membe
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [lec9_xu.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec9_xu/)
+- [lec8_miegeville.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec8_miegeville/)
+- [lec7_xu.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec7_xu/)
+- [lec6_weber.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec6_weber/)
+- [lec5_gupta.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec5_gupta/)
+- [lec4_alimi.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec4_alimi/)
+- [lec3_li.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec3_li/)
+- [lec2_schoenmeyr.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec2_schoenmeyr/)
+- [lec22_mccarthy.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec22_mccarthy/)
+- [lec21_shum.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec21_shum/)
+- [lec20_wang.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec20_wang/)
+- [lec18_chaisemartin.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec18_chaisemartin/)
+- [lec17_caro.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec17_caro/)
+- [lec16_chaisemartin.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec16_chaisemartin/)
+- [lec15_mccarthy.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec15_mccarthy/)
+- [lec14_roels.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec14_roels/)
+- [lec13_li.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec13_li/)
+- [lec12_roels.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec12_roels/)
+- [lec11_miegeville.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec11_miegeville/)
+- [lec10_jiang.pdf (.pdf)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/lec10_jiang/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/pages/readings/)
+
+### Resource
+- [15-764s04.jpg (.jpg)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/15-764s04/)
+- [15-764s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-764-the-theory-of-operations-management-spring-2004/resources/15-764s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

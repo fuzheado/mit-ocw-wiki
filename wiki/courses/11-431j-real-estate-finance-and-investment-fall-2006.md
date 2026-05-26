@@ -12,6 +12,9 @@ views: 4077
 completeness: 0.44000000000000006
 last_modified: "2026-05-06T15:00:04Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 12, Problem-Set: 12, Resource: 4, Syllabus: 2"
+api_id: 4426
 ---
 
 # Real Estate Finance and Investment
@@ -30,10 +33,41 @@ This course is an introduction to the most fundamental concepts, principles, ana
 
 ## Materials
 
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [lec7.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/lec7/)
+- [lec5_7.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/lec5_7/)
+- [lec2_3_4.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/lec2_3_4/)
+- [lec23.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/lec23/)
+- [lec21.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/lec21/)
+- [lec16.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/lec16/)
+- [lec15.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/lec15/)
+- [lec13.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/lec13/)
+- [lec12.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/lec12/)
+- [lec11_12.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/lec11_12/)
+- [lec1.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/pages/lecture-notes/)
+
+### Problem-Set
+- [review.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/review/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/ps2/)
+- [ps1cal.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/ps1cal/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/ps1/)
+- [midtermdiag.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/midtermdiag/)
+- [midterm03prac.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/midterm03prac/)
+- [final06prac.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/final06prac/)
+- [case3.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/case3/)
+- [case2.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/case2/)
+- [case1.pdf (.pdf)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/case1/)
+- [Exams](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/pages/assignments/)
+
+### Resource
+- [11-431jf06.jpg (.jpg)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/11-431jf06/)
+- [11-431jf06-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/resources/11-431jf06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

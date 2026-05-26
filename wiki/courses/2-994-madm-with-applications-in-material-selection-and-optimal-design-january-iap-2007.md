@@ -12,6 +12,8 @@ views: 138
 completeness: 0.2
 last_modified: "2026-05-06T14:43:49Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Problem-Set: 1, Reading-List: 1, Syllabus: 1"
 ---
 
 # MADM with Applications in Material Selection and Optimal Design
@@ -31,8 +33,17 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Projects** — [🔗](https://ocw.mit.edu/courses/2-994-madm-with-applications-in-material-selection-and-optimal-design-january-iap-2007/pages/projects/) · [🔗](https://ocw.mit.edu/courses/2-994-madm-with-applications-in-material-selection-and-optimal-design-january-iap-2007/pages/projects)
 
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/2-994-madm-with-applications-in-material-selection-and-optimal-design-january-iap-2007/pages/syllabus/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/2-994-madm-with-applications-in-material-selection-and-optimal-design-january-iap-2007/pages/readings/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/2-994-madm-with-applications-in-material-selection-and-optimal-design-january-iap-2007/pages/exams/)
 ## Wikipedia Bridge
 
 ### Related Articles

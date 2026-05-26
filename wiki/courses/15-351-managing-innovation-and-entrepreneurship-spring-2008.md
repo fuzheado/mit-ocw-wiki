@@ -12,6 +12,9 @@ views: 1835
 completeness: 0.20500000000000002
 last_modified: "2026-05-06T14:44:38Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 15, Problem-Set: 4, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4823
 ---
 
 # Managing Innovation and Entrepreneurship
@@ -30,9 +33,40 @@ This course discusses the basics every manager needs to organize successful tech
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/pages/syllabus/)
 
+### Lecture-Notes
+- [Wrap Up (.pdf)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/24_wrap_up/)
+- [Class Eighteen – R&D Portfolios (.pdf)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/18_lec/)
+- [Class Seventeen – Commercialization Strategy (.pdf)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/17_lec/)
+- [Class Fifteen – SpudSpy (.pdf)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/15_lec/)
+- [Class Fourteen – D-Wave (.pdf)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/14_lec/)
+- [Class Thirteen (.pdf)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/13_lec/)
+- [GSK, Organization Structure & Design for Innovation (.pdf)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/12_lec/)
+- [Class Eleven (.pdf)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/10_lec/)
+- [Class Five (.pdf)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/05_lec/)
+- [Class Four (.pdf)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/04_lec/)
+- [Competitive Implications of Technology & Market dynamics (.pdf)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/03_lec/)
+- [Market Dynamics & Competitive Implications (.pdf)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/02_lec/)
+- [Class One – Technology Dynamics (.pdf)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/01_lecture/)
+- [Introduction (.pdf)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/01_intro/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/pages/readings/)
+
+### Problem-Set
+- [Group Assignments (.pdf)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/group/)
+- [Final Reflections: Final Individual Papers (.pdf)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/final/)
+- [Assignment Structure and Guidelines (.pdf)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/assign_info/)
+- [Assignments](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/pages/assignments/)
+
+### Resource
+- [Street signs showing the corner of Exploration and Innovation Dr. (.jpg)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/15-351s08/)
+- [15-351s08-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/resources/15-351s08-th/)
+- [MIT Sloan Professional Standards](https://ocw.mit.edu/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/pages/syllabus/prof_standards/)
 ## Wikipedia Bridge
 
 ### Related Articles

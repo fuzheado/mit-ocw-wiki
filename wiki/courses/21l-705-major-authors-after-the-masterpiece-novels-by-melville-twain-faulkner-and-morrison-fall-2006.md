@@ -12,6 +12,9 @@ views: 89
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T15:01:23Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 3900
 ---
 
 # Major Authors: After the Masterpiece: Novels by Melville, Twain, Faulkner, and Morrison
@@ -30,9 +33,19 @@ This seminar provides intensive study of exciting texts by four influential Amer
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-705-major-authors-after-the-masterpiece-novels-by-melville-twain-faulkner-and-morrison-fall-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-705-major-authors-after-the-masterpiece-novels-by-melville-twain-faulkner-and-morrison-fall-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-705-major-authors-after-the-masterpiece-novels-by-melville-twain-faulkner-and-morrison-fall-2006/pages/assignments/)
+
+### Resource
+- [Herman Melville (.jpg)](https://ocw.mit.edu/courses/21l-705-major-authors-after-the-masterpiece-novels-by-melville-twain-faulkner-and-morrison-fall-2006/resources/21l-705f06/)
+- [Herman Melville (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-705-major-authors-after-the-masterpiece-novels-by-melville-twain-faulkner-and-morrison-fall-2006/resources/21l-705f06-th/)
+- [Woman (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-705-major-authors-after-the-masterpiece-novels-by-melville-twain-faulkner-and-morrison-fall-2006/resources/21l-705f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 77
 completeness: 0.24000000000000002
 last_modified: "2026-05-06T17:10:10Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 10, Syllabus: 1"
+api_id: 4536
 ---
 
 # Race, Ethnicity, and American Politics
@@ -30,10 +33,27 @@ This course explores the role of race and ethnicity in modern American politics.
 
 ## Materials
 
-- [Exams] Exams
-- [Instructor Insights] Instructor Insights
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus and Calendar** — [🔗](https://ocw.mit.edu/courses/17-269-race-ethnicity-and-american-politics-spring-2017/pages/syllabus-and-calendar/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-269-race-ethnicity-and-american-politics-spring-2017/pages/readings/)
+
+### Problem-Set
+- [17.269S17 Race, Ethnicity, and American Politics - Assignments: Paper 1: Race and Ethnicity Questions (.pdf)](https://ocw.mit.edu/courses/17-269-race-ethnicity-and-american-politics-spring-2017/resources/mit17_269s17_raceethnicity/)
+- [Exams](https://ocw.mit.edu/courses/17-269-race-ethnicity-and-american-politics-spring-2017/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/17-269-race-ethnicity-and-american-politics-spring-2017/pages/assignments/)
+
+### Resource
+- [_less-than-10.png (.png)](https://ocw.mit.edu/courses/17-269-race-ethnicity-and-american-politics-spring-2017/resources/less-than-10/)
+- [Ariel.jpg (.jpg)](https://ocw.mit.edu/courses/17-269-race-ethnicity-and-american-politics-spring-2017/resources/ariel/)
+- [4-261classroom.jpg (.jpg)](https://ocw.mit.edu/courses/17-269-race-ethnicity-and-american-politics-spring-2017/resources/4-261classroom/)
+- [17-269s17.jpg (.jpg)](https://ocw.mit.edu/courses/17-269-race-ethnicity-and-american-politics-spring-2017/resources/17-269s17/)
+- [17-269s17-th.jpg (.jpg)](https://ocw.mit.edu/courses/17-269-race-ethnicity-and-american-politics-spring-2017/resources/17-269s17-th/)
+- [Inspiration for the Course](https://ocw.mit.edu/courses/17-269-race-ethnicity-and-american-politics-spring-2017/pages/instructor-insights/inspiration-for-the-course/)
+- [Fostering Intuition about Social Science](https://ocw.mit.edu/courses/17-269-race-ethnicity-and-american-politics-spring-2017/pages/instructor-insights/fostering-intuition-about-social-science/)
+- [Facilitating Talk about Race and Ethnicity](https://ocw.mit.edu/courses/17-269-race-ethnicity-and-american-politics-spring-2017/pages/instructor-insights/facilitating-talk-about-race-and-ethnicity/)
+- [Instructor Insights](https://ocw.mit.edu/courses/17-269-race-ethnicity-and-american-politics-spring-2017/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

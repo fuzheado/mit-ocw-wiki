@@ -12,6 +12,9 @@ views: 345
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:47:36Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 4, Syllabus: 2"
+api_id: 5350
 ---
 
 # Social Studies of Bioscience and Biotech
@@ -30,8 +33,20 @@ In this course, social, ethical and clinical issues associated with the developm
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/hst-930j-social-studies-of-bioscience-and-biotech-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-930j-social-studies-of-bioscience-and-biotech-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Four Frameworks for Social and Ethical Questions (.pdf)](https://ocw.mit.edu/courses/hst-930j-social-studies-of-bioscience-and-biotech-fall-2005/resources/4_frames/)
+- [Readings](https://ocw.mit.edu/courses/hst-930j-social-studies-of-bioscience-and-biotech-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/hst-930j-social-studies-of-bioscience-and-biotech-fall-2005/pages/assignments/)
+
+### Resource
+- [Plasticity of Adult Stem Cells (.jpg)](https://ocw.mit.edu/courses/hst-930j-social-studies-of-bioscience-and-biotech-fall-2005/resources/hst-930jf05/)
+- [Plasticity of Adult Stem Cells (thumbnail) (.jpg)](https://ocw.mit.edu/courses/hst-930j-social-studies-of-bioscience-and-biotech-fall-2005/resources/hst-930jf05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

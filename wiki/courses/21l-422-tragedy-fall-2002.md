@@ -12,6 +12,9 @@ views: 148
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T17:23:33Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 6, Resource: 4, Syllabus: 2"
+api_id: 4472
 ---
 
 # Tragedy
@@ -37,8 +40,27 @@ These aspects of the tragic will be pursued in readings that range in the refere
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-422-tragedy-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-422-tragedy-fall-2002/pages/syllabus/)
 
+### Reading-List
+- [lec6.pdf (.pdf)](https://ocw.mit.edu/courses/21l-422-tragedy-fall-2002/resources/lec6/)
+- [lec3.pdf (.pdf)](https://ocw.mit.edu/courses/21l-422-tragedy-fall-2002/resources/lec3/)
+- [lec2aeschylus.pdf (.pdf)](https://ocw.mit.edu/courses/21l-422-tragedy-fall-2002/resources/lec2aeschylus/)
+- [lec23.pdf (.pdf)](https://ocw.mit.edu/courses/21l-422-tragedy-fall-2002/resources/lec23/)
+- [lec1leviticus.pdf (.pdf)](https://ocw.mit.edu/courses/21l-422-tragedy-fall-2002/resources/lec1leviticus/)
+- [Readings](https://ocw.mit.edu/courses/21l-422-tragedy-fall-2002/pages/readings/)
+
+### Problem-Set
+- [paperassignment3.pdf (.pdf)](https://ocw.mit.edu/courses/21l-422-tragedy-fall-2002/resources/paperassignment3/)
+- [paperassignment2.pdf (.pdf)](https://ocw.mit.edu/courses/21l-422-tragedy-fall-2002/resources/paperassignment2/)
+- [paperassignment1.pdf (.pdf)](https://ocw.mit.edu/courses/21l-422-tragedy-fall-2002/resources/paperassignment1/)
+- [Assignments](https://ocw.mit.edu/courses/21l-422-tragedy-fall-2002/pages/assignments/)
+
+### Resource
+- [21l-422f02.jpg (.jpg)](https://ocw.mit.edu/courses/21l-422-tragedy-fall-2002/resources/21l-422f02/)
+- [21l-422f02-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-422-tragedy-fall-2002/resources/21l-422f02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

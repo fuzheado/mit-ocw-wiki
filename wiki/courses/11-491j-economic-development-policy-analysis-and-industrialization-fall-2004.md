@@ -12,6 +12,9 @@ views: 258
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:24:51Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3334
 ---
 
 # Economic Development, Policy Analysis, and Industrialization
@@ -30,8 +33,19 @@ This class analyzes the theoretical and historical reasons why governments in la
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-491j-economic-development-policy-analysis-and-industrialization-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-491j-economic-development-policy-analysis-and-industrialization-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-491j-economic-development-policy-analysis-and-industrialization-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-491j-economic-development-policy-analysis-and-industrialization-fall-2004/pages/assignments/)
+
+### Resource
+- [A hutong (.jpg)](https://ocw.mit.edu/courses/11-491j-economic-development-policy-analysis-and-industrialization-fall-2004/resources/11-491jf04/)
+- [A hutong (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-491j-economic-development-policy-analysis-and-industrialization-fall-2004/resources/11-491jf04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

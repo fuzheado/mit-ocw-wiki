@@ -12,6 +12,9 @@ views: 675
 completeness: 0.0
 last_modified: "2026-05-06T15:01:57Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 61"
+api_id: 16773
 ---
 
 # Biomaterials-Tissue Interactions
@@ -30,11 +33,14 @@ The goal of this course is to teach the principles of materials science, chemica
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Open Textbooks] Open Textbooks
-- [Readings] Readings
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-79j-biomaterials-tissue-interactions-fall-2022/pages/calendar/)
+- **Lecture Notes and Readings** — [🔗](https://ocw.mit.edu/courses/2-79j-biomaterials-tissue-interactions-fall-2022/pages/lecture-notes-and-readings/)
+- **Lecture Videos** — [🔗](https://ocw.mit.edu/courses/2-79j-biomaterials-tissue-interactions-fall-2022/pages/lecture-videos/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-79j-biomaterials-tissue-interactions-fall-2022/pages/syllabus/)
 
+### Resource
+- [mit2_79j_f22.jpg (.jpg)](https://ocw.mit.edu/courses/2-79j-biomaterials-tissue-interactions-fall-2022/resources/mit2_79j_f22_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

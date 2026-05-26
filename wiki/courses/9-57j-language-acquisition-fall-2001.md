@@ -12,6 +12,9 @@ views: 189
 completeness: 0.1
 last_modified: "2026-05-06T17:13:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4154
 ---
 
 # Language Acquisition
@@ -30,9 +33,24 @@ Covers the major results in the study of first language acquisition concentratin
 
 ## Materials
 
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-57j-language-acquisition-fall-2001/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-57j-language-acquisition-fall-2001/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-57j-language-acquisition-fall-2001/pages/readings/)
+
+### Problem-Set
+- [Problem Set 2 Answer Key (.pdf)](https://ocw.mit.edu/courses/9-57j-language-acquisition-fall-2001/resources/problemset2answers/)
+- [Problem Set 2 (.pdf)](https://ocw.mit.edu/courses/9-57j-language-acquisition-fall-2001/resources/problemset2/)
+- [Problem Set 1 Answer Key (.pdf)](https://ocw.mit.edu/courses/9-57j-language-acquisition-fall-2001/resources/problemset1answers/)
+- [Problem Set 1 (.pdf)](https://ocw.mit.edu/courses/9-57j-language-acquisition-fall-2001/resources/problemset1/)
+- [Assignments](https://ocw.mit.edu/courses/9-57j-language-acquisition-fall-2001/pages/assignments/)
+
+### Resource
+- [Goldilocks (.jpg)](https://ocw.mit.edu/courses/9-57j-language-acquisition-fall-2001/resources/chp_9_57_goldilocks_ii/)
+- [Goldilocks (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-57j-language-acquisition-fall-2001/resources/9-57f01-th/)
+- [Study Materials](https://ocw.mit.edu/courses/9-57j-language-acquisition-fall-2001/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

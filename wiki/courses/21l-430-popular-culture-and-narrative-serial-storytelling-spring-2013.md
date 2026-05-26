@@ -12,6 +12,9 @@ views: 269
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:50:02Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Resource: 5, Syllabus: 1"
+api_id: 3932
 ---
 
 # Popular Culture and Narrative: Serial Storytelling
@@ -30,8 +33,17 @@ Serial Storytelling examines the ways the passing and unfolding of time structur
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus and Calendar** — [🔗](https://ocw.mit.edu/courses/21l-430-popular-culture-and-narrative-serial-storytelling-spring-2013/pages/syllabus-and-calendar/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-430-popular-culture-and-narrative-serial-storytelling-spring-2013/pages/assignments/)
+
+### Resource
+- [The Pickwick Papers, Chapters 1 & 2 (.pdf)](https://ocw.mit.edu/courses/21l-430-popular-culture-and-narrative-serial-storytelling-spring-2013/resources/mit21l_430s13_pickwick_1/)
+- [Collected Prefaces to the Pickwick Papers (.pdf)](https://ocw.mit.edu/courses/21l-430-popular-culture-and-narrative-serial-storytelling-spring-2013/resources/mit21l_430s13_dickens_2/)
+- [The Adventure of the Speckled Band (.pdf)](https://ocw.mit.edu/courses/21l-430-popular-culture-and-narrative-serial-storytelling-spring-2013/resources/mit21l_430s13_adventure/)
+- [Series of illustrations of a woman and man dancing the waltz (.jpg)](https://ocw.mit.edu/courses/21l-430-popular-culture-and-narrative-serial-storytelling-spring-2013/resources/21l-430s13/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 426
 completeness: 0.42333333333333334
 last_modified: "2026-05-06T14:49:48Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 10, Problem-Set: 11, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4006
 ---
 
 # Microeconomic Theory I
@@ -30,10 +33,40 @@ This half-semester course provides an introduction to microeconomic theory desig
 
 ## Materials
 
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/pages/syllabus/)
 
+### Lecture-Notes
+- [Dynamic Choice and Time-Inconsistency - Lecture Slides (.pdf)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/mit14_121f15_9s/)
+- [Critiques of Expected Utility - Lecture Slides (.pdf)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/mit14_121f15_8s/)
+- [Comparing Risky Prospects - Lecture Slides (.pdf)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/mit14_121f15_7s/)
+- [Attitudes Towards Risk - Lecture Slides (.pdf)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/mit14_121f15_6s/)
+- [Expected Utility Theory - Lecture Slides (.pdf)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/mit14_121f15_5s/)
+- [Monotone Comparative Statistics, with Applications to Producer Theory - Lecture Slides (.pdf)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/mit14_121f15_4s/)
+- [Applications of Consumer Theory - Lecture Slides (.pdf)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/mit14_121f15_3s/)
+- [Consumer Theory - Lecture Slides (.pdf)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/mit14_121f15_2s/)
+- [Choice, Preference, and Utility - Lecture Slides (.pdf)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/mit14_121f15_1s/)
+- [Lecture Slides](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/pages/lecture-slides/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/pages/readings/)
+
+### Problem-Set
+- [14.121 Microeconomic Theory I: Problem set 6 (.pdf)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/mit14_121f15_ps6f05/)
+- [14.121 Microeconomic Theory I: Problem set 5 (.pdf)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/mit14_121f15_ps5f05/)
+- [14.121 Microeconomic Theory I: Problem set 4 (.pdf)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/mit14_121f15_ps4f05/)
+- [14.121 Microeconomic Theory I: Problem set 3 (.pdf)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/mit14_121f15_ps3f05/)
+- [14.121 Microeconomic Theory I: Problem set 2 (.pdf)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/mit14_121f15_ps2f05/)
+- [14.121 Microeconomic Theory I: Problem set 1 (.pdf)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/mit14_121f15_ps1f05/)
+- [14.121 Microeconomic Theory I: Exam 2009 (.pdf)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/mit14_121f15_pexamf09/)
+- [14.121 Microeconomic Theory I: Exam 2008 (.pdf)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/mit14_121f15_pexamf08/)
+- [14.121 Microeconomic Theory I: Final Exam 2005 (.pdf)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/mit14_121f15_finalf05/)
+- [Exams](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/pages/assignments/)
+
+### Resource
+- [14-121f15.jpg (.jpg)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/14-121f15/)
+- [14-121f15-th.jpg (.jpg)](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/resources/14-121f15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

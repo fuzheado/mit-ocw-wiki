@@ -12,6 +12,9 @@ views: 248
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:12:41Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 4, Syllabus: 1"
+api_id: 4144
 ---
 
 # Understanding Military Operations
@@ -30,8 +33,20 @@ This course examines selected past, current, and future sea, air, space, and lan
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-480-understanding-military-operations-spring-2017/pages/syllabus/)
 
+### Reading-List
+- [Optional Additional Readings](https://ocw.mit.edu/courses/17-480-understanding-military-operations-spring-2017/pages/readings/optional-additional-readings/)
+- [Readings](https://ocw.mit.edu/courses/17-480-understanding-military-operations-spring-2017/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-480-understanding-military-operations-spring-2017/pages/assignments/)
+
+### Resource
+- [17-480s17.jpg (.jpg)](https://ocw.mit.edu/courses/17-480-understanding-military-operations-spring-2017/resources/17-480s17/)
+- [17-480s17-th.jpg (.jpg)](https://ocw.mit.edu/courses/17-480-understanding-military-operations-spring-2017/resources/17-480s17-th/)
+- [17-480s17.jpg.jpg (.jpg)](https://ocw.mit.edu/courses/17-480-understanding-military-operations-spring-2017/resources/17-480s17-jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

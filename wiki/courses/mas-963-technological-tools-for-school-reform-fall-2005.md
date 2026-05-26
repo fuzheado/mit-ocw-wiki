@@ -12,6 +12,9 @@ views: 208
 completeness: 0.008333333333333333
 last_modified: "2026-05-06T17:06:46Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 8, Lecture-Notes: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4193
 ---
 
 # Technological Tools for School Reform
@@ -30,8 +33,29 @@ This course explores the potential impact of modern technologies on the school r
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/mas-963-technological-tools-for-school-reform-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-963-technological-tools-for-school-reform-fall-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/mas-963-technological-tools-for-school-reform-fall-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/mas-963-technological-tools-for-school-reform-fall-2005/pages/readings/)
+
+### Assignment
+- [susiebonsey_desc.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-technological-tools-for-school-reform-fall-2005/resources/susiebonsey_desc/)
+- [sb_lpformat.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-technological-tools-for-school-reform-fall-2005/resources/sb_lpformat/)
+- [sb_guidelines.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-technological-tools-for-school-reform-fall-2005/resources/sb_guidelines/)
+- [rafael.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-technological-tools-for-school-reform-fall-2005/resources/rafael/)
+- [jaysliver.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-technological-tools-for-school-reform-fall-2005/resources/jaysliver/)
+- [hernandez_proj.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-technological-tools-for-school-reform-fall-2005/resources/hernandez_proj/)
+- [andre_sher_proj.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-technological-tools-for-school-reform-fall-2005/resources/andre_sher_proj/)
+- [Projects](https://ocw.mit.edu/courses/mas-963-technological-tools-for-school-reform-fall-2005/pages/projects/)
+
+### Resource
+- [mas-963f05.jpg (.jpg)](https://ocw.mit.edu/courses/mas-963-technological-tools-for-school-reform-fall-2005/resources/mas-963f05/)
+- [mas-963f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/mas-963-technological-tools-for-school-reform-fall-2005/resources/mas-963f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

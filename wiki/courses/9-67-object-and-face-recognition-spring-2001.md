@@ -12,6 +12,9 @@ views: 93
 completeness: 0.04833333333333334
 last_modified: "2026-05-06T14:46:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 2, Resource: 5, Syllabus: 2"
+api_id: 4466
 ---
 
 # Object and Face Recognition
@@ -30,9 +33,21 @@ Provides a comprehensive introduction to key issues and findings in object recog
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-67-object-and-face-recognition-spring-2001/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-67-object-and-face-recognition-spring-2001/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/9-67-object-and-face-recognition-spring-2001/pages/lecture-notes/)
+
+### Problem-Set
+- [Research Questions (.pdf)](https://ocw.mit.edu/courses/9-67-object-and-face-recognition-spring-2001/resources/research_questions/)
+- [Assignments](https://ocw.mit.edu/courses/9-67-object-and-face-recognition-spring-2001/pages/assignments/)
+
+### Resource
+- [Object and Face Recognition (.jpg)](https://ocw.mit.edu/courses/9-67-object-and-face-recognition-spring-2001/resources/9-67s01/)
+- [Object and Face Recognition (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-67-object-and-face-recognition-spring-2001/resources/9-67s01-th/)
+- [Study Materials](https://ocw.mit.edu/courses/9-67-object-and-face-recognition-spring-2001/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

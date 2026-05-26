@@ -12,6 +12,9 @@ views: 3386
 completeness: 0.0
 last_modified: "2026-05-06T14:56:22Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 16593
 ---
 
 # Computer Systems Security
@@ -31,8 +34,9 @@ The course materials, which can be accessed via the external link to the left, a
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-
+### Resource
+- [Instructor Insights](https://ocw.mit.edu/courses/6-5660-computer-systems-security-spring-2024/pages/instructor-insights/)
+- [6-5660s24.jpg (.jpg)](https://ocw.mit.edu/courses/6-5660-computer-systems-security-spring-2024/resources/6-5660s24_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

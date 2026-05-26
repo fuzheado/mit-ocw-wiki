@@ -12,6 +12,9 @@ views: 233
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T17:11:24Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Problem-Set: 4, Reading-List: 1, Resource: 7, Syllabus: 1"
+api_id: 5121
 ---
 
 # Japan and East Asian Security
@@ -30,8 +33,21 @@ This course explores Japan’s role in world orders, past, present, and future. 
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Book Précis** — [🔗](https://ocw.mit.edu/courses/17-486-japan-and-east-asian-security-fall-2016/pages/assignments/book-precis/)
+- **Briefing Paper and Oral Presentation** — [🔗](https://ocw.mit.edu/courses/17-486-japan-and-east-asian-security-fall-2016/pages/assignments/briefing-paper-and-oral-presentation/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/17-486-japan-and-east-asian-security-fall-2016/pages/readings/)
+- **Scenario Paper** — [🔗](https://ocw.mit.edu/courses/17-486-japan-and-east-asian-security-fall-2016/pages/assignments/scenario-paper/)
+- **Syllabus and Calendar** — [🔗](https://ocw.mit.edu/courses/17-486-japan-and-east-asian-security-fall-2016/pages/syllabus-and-calendar/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-486-japan-and-east-asian-security-fall-2016/pages/assignments/)
+
+### Resource
+- [Précis: The Pursuit of Power (.pdf)](https://ocw.mit.edu/courses/17-486-japan-and-east-asian-security-fall-2016/resources/mit17_486f16_pursuitpower/)
+- [East-Asia in 2050 (.pdf)](https://ocw.mit.edu/courses/17-486-japan-and-east-asian-security-fall-2016/resources/mit17_486f16_eastasia2050/)
+- [17-486f16.jpg (.jpg)](https://ocw.mit.edu/courses/17-486-japan-and-east-asian-security-fall-2016/resources/17-486f16/)
+- [17-486f16-th.jpg (.jpg)](https://ocw.mit.edu/courses/17-486-japan-and-east-asian-security-fall-2016/resources/17-486f16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

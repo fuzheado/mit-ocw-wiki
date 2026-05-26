@@ -12,6 +12,8 @@ views: 475
 completeness: 0.008333333333333333
 last_modified: "2026-05-06T16:55:29Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Resource: 1, Syllabus: 2, Video-Transcript: 6"
 ---
 
 # Research Topics in Neuroscience
@@ -38,8 +40,15 @@ How the Brain Wires Itself
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/9-95-a-research-topics-in-neuroscience-january-iap-2003/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/9-95-a-research-topics-in-neuroscience-january-iap-2003/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/9-95-a-research-topics-in-neuroscience-january-iap-2003/pages/lecture-notes/)
+
+### Resource
+- [Related Resources](https://ocw.mit.edu/courses/9-95-a-research-topics-in-neuroscience-january-iap-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

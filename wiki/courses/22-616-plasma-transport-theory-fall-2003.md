@@ -12,6 +12,9 @@ views: 198
 completeness: 0.42500000000000004
 last_modified: "2026-05-06T16:51:41Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 3, Problem-Set: 15, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5173
 ---
 
 # Plasma Transport Theory
@@ -33,11 +36,39 @@ Neoclassical transport in tokamaks, which is sensitive to the details of the mag
 
 ## Materials
 
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [collisionstrans2.pdf (.pdf)](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/resources/collisionstrans2/)
+- [collisionstrans1.pdf (.pdf)](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/resources/collisionstrans1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/pages/readings/)
+
+### Problem-Set
+- [pset6sol.pdf (.pdf)](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/resources/pset6sol/)
+- [pset6.pdf (.pdf)](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/resources/pset6/)
+- [pset5sol.pdf (.pdf)](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/resources/pset5sol/)
+- [pset5.pdf (.pdf)](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/resources/pset5/)
+- [pset4sol.pdf (.pdf)](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/resources/pset4sol/)
+- [pset4.pdf (.pdf)](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/resources/pset4/)
+- [pset3sol.pdf (.pdf)](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/resources/pset3sol/)
+- [pset3.pdf (.pdf)](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/resources/pset3/)
+- [pset2sol.pdf (.pdf)](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/resources/pset2sol/)
+- [pset2.pdf (.pdf)](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/resources/pset2/)
+- [pset1sol.pdf (.pdf)](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/resources/pset1sol/)
+- [pset1.pdf (.pdf)](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/resources/pset1/)
+- [finalexam.pdf (.pdf)](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/resources/finalexam/)
+- [Exams](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/pages/assignments/)
+
+### Resource
+- [22-616f03.jpg (.jpg)](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/resources/22-616f03/)
+- [22-616f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/resources/22-616f03-th/)
+- [Related Resources](https://ocw.mit.edu/courses/22-616-plasma-transport-theory-fall-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

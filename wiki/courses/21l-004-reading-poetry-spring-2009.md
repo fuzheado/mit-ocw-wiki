@@ -12,6 +12,9 @@ views: 191
 completeness: 0.2
 last_modified: "2026-05-06T16:49:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 11, Reading-List: 6, Resource: 2, Syllabus: 1, Video-Transcript: 2"
+api_id: 3786
 ---
 
 # Reading Poetry
@@ -30,8 +33,31 @@ type: "course"
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2009/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2009/pages/syllabus/)
 
+### Reading-List
+- [Wallace Stevens journal note (.pdf)](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2009/resources/mit21l_004s09_read04_stevens/)
+- [Beginning My Studies (.pdf)](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2009/resources/mit21l_004s09_read03_whitman/)
+- [Keats' Negative Capability (.pdf)](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2009/resources/mit21l_004s09_read02_keats/)
+- [Poems by Yeats (.pdf)](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2009/resources/mit21l_004s09_read01_yeats/)
+
+### Problem-Set
+- [A Holy Paradox (.pdf)](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2009/resources/mit21l_004s09_sw03_lilys_paper/)
+- [Murder me so I may Live: Donne’s Paradox of Redemption (.pdf)](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2009/resources/mit21l_004s09_sw02_dannyspaper/)
+- [The house was quiet and the world was calm (.pdf)](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2009/resources/mit21l_004s09_sw01_tonyspaper/)
+- [Notes on the sonnet (.pdf)](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2009/resources/mit21l_004s09_assn07_sonnets/)
+- [Strategies for writing an effective introduction (.pdf)](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2009/resources/mit21l_004s09_assn06_revision/)
+- [Essay Guidelines (.pdf)](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2009/resources/mit21l_004s09_assn05_essay/)
+- [Paper #4 (.pdf)](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2009/resources/mit21l_004s09_assn04_paper4rev/)
+- [Paper #3 (.pdf)](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2009/resources/mit21l_004s09_assn03_paper3/)
+- [Paper #2 (.pdf)](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2009/resources/mit21l_004s09_assn02_paper2/)
+- [Paper #1 (.pdf)](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2009/resources/mit21l_004s09_assn01_paper1/)
+- [Assignments](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2009/pages/assignments/)
+
+### Resource
+- [Plaque showing a Jenny Holzer poem engraving (.jpg)](https://ocw.mit.edu/courses/21l-004-reading-poetry-spring-2009/resources/21l-004s09/)
 ## Wikipedia Bridge
 
 ### Related Articles

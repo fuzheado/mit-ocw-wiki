@@ -12,6 +12,9 @@ views: 58
 completeness: 0.18000000000000002
 last_modified: "2026-05-06T17:16:25Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 9, Resource: 11, Syllabus: 1"
+api_id: 4142
 ---
 
 # Information Exploration: Becoming a Savvy Scholar
@@ -30,9 +33,31 @@ This freshman course explores the scientific publication cycle, primary vs. seco
 
 ## Materials
 
-- [Tutorial Videos] Tutorial Videos
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/pages/syllabus/)
+- **Tutorials** — [🔗](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/pages/tutorials/)
 
+### Problem-Set
+- [log_sample2.pdf (.pdf)](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/resources/log_sample2/)
+- [log_sample1.pdf (.pdf)](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/resources/log_sample1/)
+- [assignment6.pdf (.pdf)](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/resources/assignment6/)
+- [assignment5.pdf (.pdf)](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/resources/assignment5/)
+- [assignment4.pdf (.pdf)](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/resources/assignment4/)
+- [assignment3.pdf (.pdf)](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/resources/assignment3/)
+- [assignment2.pdf (.pdf)](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/resources/assignment2/)
+- [assignment1.pdf (.pdf)](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/resources/assignment1/)
+- [Assignments](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/pages/assignments/)
+
+### Resource
+- [pub-cycle-with-quiz.swf (.swf)](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/resources/pub-cycle-with-quiz_swf/)
+- [intro.swf (.swf)](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/resources/intro_swf/)
+- [getting-started.swf (.swf)](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/resources/getting-started_swf/)
+- [evaluating.swf (.swf)](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/resources/evaluating_swf/)
+- [database.swf (.swf)](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/resources/database_swf/)
+- [citing.swf (.swf)](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/resources/citing_swf/)
+- [chp_library_home.jpg (.jpg)](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/resources/chp_library_home/)
+- [3-093f06.jpg (.jpg)](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/resources/3-093f06/)
+- [3-093f06-th.jpg (.jpg)](https://ocw.mit.edu/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/resources/3-093f06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

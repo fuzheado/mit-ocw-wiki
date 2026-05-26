@@ -12,6 +12,9 @@ views: 243
 completeness: 0.15000000000000002
 last_modified: "2026-05-06T14:42:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 6, Problem-Set: 4, Reading-List: 1, Resource: 9, Syllabus: 1"
+api_id: 5215
 ---
 
 # Contemporary Literature: Literature, Development, and Human Rights
@@ -30,9 +33,35 @@ Central to our era is the gradual movement of all the world’s regions toward a
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/pages/syllabus/)
 
+### Lecture-Notes
+- [thresofdevbronot.pdf (.pdf)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/resources/thresofdevbronot/)
+- [notes_on_realism.pdf (.pdf)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/resources/notes_on_realism/)
+- [intowrldbankimf.pdf (.pdf)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/resources/intowrldbankimf/)
+- [int_to_pstcolnsm.pdf (.pdf)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/resources/int_to_pstcolnsm/)
+- [21l_488_pstlecnt.pdf (.pdf)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/resources/21l_488_pstlecnt/)
+- [Lecture Notes](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/pages/readings/)
+
+### Problem-Set
+- [ntsonessayrevisn.pdf (.pdf)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/resources/ntsonessayrevisn/)
+- [essay_1.pdf (.pdf)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/resources/essay_1/)
+- [21l488_fiesyasmt.pdf (.pdf)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/resources/21l488_fiesyasmt/)
+- [Assignments](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/pages/assignments/)
+
+### Resource
+- [marking_code.pdf (.pdf)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/resources/marking_code/)
+- [gdtoclosereadng.pdf (.pdf)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/resources/gdtoclosereadng/)
+- [agdwrtltreesays.pdf (.pdf)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/resources/agdwrtltreesays/)
+- [21l488_trmconorg.pdf (.pdf)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/resources/21l488_trmconorg/)
+- [21l-488s08.JPG (.JPG)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/resources/21l-488s08/)
+- [21l-488s08-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/resources/21l-488s08-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/pages/related-resources/)
+- [The International Monetary Fund](http://www.imf.org/external/index.htm)
 ## Wikipedia Bridge
 
 ### Related Articles

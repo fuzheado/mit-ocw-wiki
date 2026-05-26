@@ -12,6 +12,9 @@ views: 88
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T15:03:03Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5302
 ---
 
 # Readings in American History Since 1877
@@ -30,8 +33,19 @@ This seminar aims to develop a teaching knowledge of the field through extensive
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-952j-readings-in-american-history-since-1877-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-952j-readings-in-american-history-since-1877-fall-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-952j-readings-in-american-history-since-1877-fall-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-952j-readings-in-american-history-since-1877-fall-2003/pages/assignments/)
+
+### Resource
+- [Irma Lee McElroy (.jpg)](https://ocw.mit.edu/courses/21h-952j-readings-in-american-history-since-1877-fall-2003/resources/21h-952jf03/)
+- [Irma Lee McElroy (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21h-952j-readings-in-american-history-since-1877-fall-2003/resources/21h-952jf03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

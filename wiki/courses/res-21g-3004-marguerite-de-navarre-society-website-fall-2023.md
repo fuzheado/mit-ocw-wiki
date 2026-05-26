@@ -12,6 +12,9 @@ views: 84
 completeness: 0.0
 last_modified: "2026-05-06T14:45:35Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 1"
+api_id: 5932
 ---
 
 # Marguerite de Navarre Society Website
@@ -31,8 +34,8 @@ The Marguerite de Navarre Society website is published under a Creative Commons 
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [mitres_21g_3004_f23.jpeg (.jpeg)](https://ocw.mit.edu/courses/res-21g-3004-marguerite-de-navarre-society-website-fall-2023/resources/mitres_21g_3004_f23_jpeg/)
 ## Wikipedia Bridge
 
 ### Related Articles

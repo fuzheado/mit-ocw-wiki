@@ -12,6 +12,9 @@ views: 152
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:53:11Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4449
 ---
 
 # Major Poets
@@ -30,8 +33,18 @@ This subject is an introduction to poetry as a genre; most of our texts are orig
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-004-major-poets-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-004-major-poets-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-004-major-poets-fall-2005/pages/assignments/)
+
+### Resource
+- [Chewing Tobacco Advertisements (.jpg)](https://ocw.mit.edu/courses/21l-004-major-poets-fall-2005/resources/21l-004f05/)
+- [Chewing Tobacco Advertisements (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-004-major-poets-fall-2005/resources/21l-004f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

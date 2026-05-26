@@ -12,6 +12,9 @@ views: 2032
 completeness: 0.06666666666666667
 last_modified: "2026-05-06T14:47:53Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 18, Syllabus: 2, Video-Transcript: 9"
+api_id: 113659
 ---
 
 # Dynastic China
@@ -30,22 +33,14 @@ This course surveys the history of China from the first dynasty to the year 1800
 
 ## Materials
 
-### Syllabus
-- [Syllabus](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/syllabus/)
-- [Calendar](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/calendar/)
-
-### Video-Transcript
-- [Lecture 21: Early Modern? The Ming in the 16th Century (.mp4) 🎬YouTube 📺Video](https://youtu.be/mzqKSewPmCM)
-- [Lecture 23: The Qing through Qianlong (.mp4) 🎬YouTube 📺Video](https://youtu.be/0pu1DjsDsLU)
-- [Lecture 3: The Western Zhou (.mp4) 🎬YouTube 📺Video](https://youtu.be/QkHh6Y2vrHg)
-- [Lecture 1: Introduction to China's History (.mp4) 🎬YouTube 📺Video](https://youtu.be/3dT8Wm5oI_o)
-- [Lecture Videos 📺Video](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/video_galleries/lecture-videos/)
-
-### Reading-List
-- [Readings](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/readings/)
-
-### Problem-Set
-- [Assignments](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/assignments/)
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/calendar/)
+- **Lecture 21: Early Modern? The Ming in the 16th Century** — [🎬](https://youtu.be/mzqKSewPmCM) · [🔗](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/video_galleries/lecture-videos/)
+- **Lecture 23: The Qing through Qianlong** — [🎬](https://youtu.be/0pu1DjsDsLU) · [🔗](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/video_galleries/lecture-videos/)
+- **Lecture 3: The Western Zhou** — [🎬](https://youtu.be/QkHh6Y2vrHg) · [🔗](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/video_galleries/lecture-videos/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/pages/syllabus/)
 
 ### Resource
 - [mit21h_151_f24.jpg (.jpg)](https://ocw.mit.edu/courses/21h-151-dynastic-china-fall-2024/resources/mit21h_151_f24_jpg/)

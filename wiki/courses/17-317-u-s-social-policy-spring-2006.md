@@ -12,6 +12,9 @@ views: 89
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:47:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 23, Resource: 4, Syllabus: 1"
+api_id: 4221
 ---
 
 # U.S. Social Policy
@@ -30,8 +33,41 @@ This subject examines the historical development and contemporary politics of so
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [all_disc_ques.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/all_disc_ques/)
+- [9_10.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/9_10/)
+- [8.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/8/)
+- [7.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/7/)
+- [6.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/6/)
+- [5.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/5/)
+- [4.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/4/)
+- [2_3.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/2_3/)
+- [24_25.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/24_25/)
+- [23.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/23/)
+- [22.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/22/)
+- [21.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/21/)
+- [20.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/20/)
+- [19.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/19/)
+- [18.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/18/)
+- [17.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/17/)
+- [16.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/16/)
+- [15.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/15/)
+- [14.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/14/)
+- [13.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/13/)
+- [12.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/12/)
+- [11.pdf (.pdf)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/11/)
+- [Readings](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/pages/assignments/)
+
+### Resource
+- [17-317s06.jpg (.jpg)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/17-317s06/)
+- [17-317s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/resources/17-317s06-th/)
+- [Study Materials](https://ocw.mit.edu/courses/17-317-u-s-social-policy-spring-2006/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

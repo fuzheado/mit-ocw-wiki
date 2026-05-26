@@ -12,6 +12,9 @@ views: 345
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T15:03:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 5283
 ---
 
 # European Thought and Culture
@@ -30,8 +33,20 @@ This subject surveys main currents of European cultural and intellectual history
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-059-european-thought-and-culture-spring-2008/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-059-european-thought-and-culture-spring-2008/pages/readings/)
+
+### Problem-Set
+- [Luther’s Place in European Intellectual History (.pdf)](https://ocw.mit.edu/courses/21g-059-european-thought-and-culture-spring-2008/resources/mit21g_059s08_delacruz/)
+- [Assignments](https://ocw.mit.edu/courses/21g-059-european-thought-and-culture-spring-2008/pages/assignments/)
+
+### Resource
+- [On the Babylonian Captivity of the Church (.jpg)](https://ocw.mit.edu/courses/21g-059-european-thought-and-culture-spring-2008/resources/21g-059s08/)
+- [On the Babylonian Captivity of the Church (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-059-european-thought-and-culture-spring-2008/resources/21g-059s08-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21g-059-european-thought-and-culture-spring-2008/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

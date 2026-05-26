@@ -12,6 +12,9 @@ views: 167
 completeness: 0.1
 last_modified: "2026-05-06T15:01:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 12, Reading-List: 2, Resource: 4"
+api_id: 4089
 ---
 
 # Applied Geometric Algebra
@@ -32,10 +35,28 @@ The lecture notes came to MIT OpenCourseWare by way of Samuel Gasster, ‘77 (Co
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Open Textbooks] Open Textbooks
-- [Problem Sets] Problem Sets
+### Lectures
+- **Applied Geometric Algebra Textbook** — [🔗](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/resources/mitres_8_001_lec_complete/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/pages/lecture-notes/)
+- [toc.pdf (.pdf)](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/resources/toc/)
+- [ref.pdf (.pdf)](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/resources/ref/)
+- [preface.pdf (.pdf)](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/resources/preface/)
+- [introduction.pdf (.pdf)](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/resources/introduction/)
+- [chB.pdf (.pdf)](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/resources/chb/)
+- [chA.pdf (.pdf)](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/resources/cha/)
+- [Ch5.pdf (.pdf)](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/resources/ch5/)
+- [Ch4.pdf (.pdf)](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/resources/ch4/)
+- [Ch3.pdf (.pdf)](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/resources/ch3/)
+- [Ch2.pdf (.pdf)](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/resources/ch2/)
+- [aga-main_2009.02.02.pdf (.pdf)](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/resources/aga-main_2009-02-02/)
+
+### Resource
+- [res-8-001s09.jpg (.jpg)](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/resources/res-8-001s09/)
+- [res-8-001s09-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/resources/res-8-001s09-th/)
+- [APS_article.pdf (.pdf)](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/resources/aps_article/)
+- [Other Publications](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/pages/other-publications/)
 ## Wikipedia Bridge
 
 ### Related Articles

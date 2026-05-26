@@ -12,6 +12,9 @@ views: 122
 completeness: 0.19833333333333333
 last_modified: "2026-05-06T16:56:20Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 7, Problem-Set: 7, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5662
 ---
 
 # Combinatorial Theory: Hyperplane Arrangements
@@ -30,9 +33,34 @@ This is a graduate-level course in combinatorial theory.&nbsp;The content varies
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [lec6.pdf (.pdf)](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/resources/lec6/)
+- [lec5.pdf (.pdf)](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/resources/lec5/)
+- [lec4.pdf (.pdf)](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/resources/lec4/)
+- [lec3.pdf (.pdf)](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/resources/lec3/)
+- [lec2.pdf (.pdf)](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/resources/lec2/)
+- [lec1.pdf (.pdf)](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/resources/lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/pages/readings/)
+
+### Problem-Set
+- [prob6.pdf (.pdf)](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/resources/prob6/)
+- [prob5.pdf (.pdf)](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/resources/prob5/)
+- [prob4.pdf (.pdf)](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/resources/prob4/)
+- [prob3.pdf (.pdf)](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/resources/prob3/)
+- [prob2.pdf (.pdf)](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/resources/prob2/)
+- [prob1.pdf (.pdf)](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/resources/prob1/)
+- [Assignments](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/pages/assignments/)
+
+### Resource
+- [18-315f04.jpg (.jpg)](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/resources/18-315f04/)
+- [18-315f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/resources/18-315f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

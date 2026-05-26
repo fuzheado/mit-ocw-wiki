@@ -12,6 +12,9 @@ views: 79
 completeness: 0.0
 last_modified: "2026-05-06T14:51:54Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 4, Resource: 5, Syllabus: 1"
+api_id: 4250
 ---
 
 # Materials Project Laboratory
@@ -30,8 +33,20 @@ As its name implies, the 3.042 Materials Project Laboratory involves working wit
 
 ## Materials
 
-- [Projects] Projects
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/3-042-materials-project-laboratory-spring-2008/pages/syllabus/)
 
+### Assignment
+- [Team Hemony Final Presentation (.pdf)](https://ocw.mit.edu/courses/3-042-materials-project-laboratory-spring-2008/resources/s08_t2_finalpres/)
+- [Microsoft Excel Gantt Chart (.xls)](https://ocw.mit.edu/courses/3-042-materials-project-laboratory-spring-2008/resources/gantt/)
+- [Microsoft Project Gantt Chart (.mpp)](https://ocw.mit.edu/courses/3-042-materials-project-laboratory-spring-2008/resources/gantt-1/)
+- [Projects](https://ocw.mit.edu/courses/3-042-materials-project-laboratory-spring-2008/pages/projects/)
+
+### Resource
+- [Cost Analysis (.pdf)](https://ocw.mit.edu/courses/3-042-materials-project-laboratory-spring-2008/resources/costest/)
+- [3-042s08.jpg (.jpg)](https://ocw.mit.edu/courses/3-042-materials-project-laboratory-spring-2008/resources/3-042s08/)
+- [3-042s08-th.jpg (.jpg)](https://ocw.mit.edu/courses/3-042-materials-project-laboratory-spring-2008/resources/3-042s08-th/)
+- [Tools](https://ocw.mit.edu/courses/3-042-materials-project-laboratory-spring-2008/pages/tools/)
 ## Wikipedia Bridge
 
 ### Related Articles

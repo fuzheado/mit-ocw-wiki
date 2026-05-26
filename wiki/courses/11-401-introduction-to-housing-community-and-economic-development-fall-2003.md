@@ -12,6 +12,9 @@ views: 329
 completeness: 0.16000000000000003
 last_modified: "2026-05-06T14:47:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 8, Reading-List: 2, Resource: 4, Syllabus: 2"
+api_id: 3646
 ---
 
 # Introduction to Housing, Community and Economic Development
@@ -42,8 +45,27 @@ Give students an opportunity to reflect on their personal sense of the “housin
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/pages/syllabus/)
 
+### Reading-List
+- [readings.pdf (.pdf)](https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/resources/readings/)
+- [Readings](https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/pages/readings/)
+
+### Problem-Set
+- [memo_assign3.pdf (.pdf)](https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/resources/memo_assign3/)
+- [memo_assign2.pdf (.pdf)](https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/resources/memo_assign2/)
+- [memo_assign1.pdf (.pdf)](https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/resources/memo_assign1/)
+- [k_a_memo3.pdf (.pdf)](https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/resources/k_a_memo3/)
+- [k_a_memo2.pdf (.pdf)](https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/resources/k_a_memo2/)
+- [k_a_memo1.pdf (.pdf)](https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/resources/k_a_memo1/)
+- [assign_over.pdf (.pdf)](https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/resources/assign_over/)
+- [Assignments](https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/pages/assignments/)
+
+### Resource
+- [11-401f03.jpg (.jpg)](https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/resources/11-401f03/)
+- [11-401f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/resources/11-401f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

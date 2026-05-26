@@ -12,6 +12,9 @@ views: 336
 completeness: 0.0
 last_modified: "2026-05-06T14:43:07Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 4972
 ---
 
 # Communicating in Technical Organizations
@@ -30,9 +33,9 @@ This course focuses on an exploration of the role that communication plays in th
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
-
+### Resource
+- [Keyboard (.jpg)](https://ocw.mit.edu/courses/21w-780-communicating-in-technical-organizations-fall-2001/resources/dd23dcbe3fd73de7e47eed6fbba1f719_21w-780f01/)
+- [Keyboard (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21w-780-communicating-in-technical-organizations-fall-2001/resources/0960466ee0f3a9c0d5e494bd0cb323bb_21w-780f01-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

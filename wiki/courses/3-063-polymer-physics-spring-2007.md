@@ -12,6 +12,9 @@ views: 808
 completeness: 0.3716666666666667
 last_modified: "2026-05-06T14:43:09Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 23, Problem-Set: 9, Resource: 3, Syllabus: 1"
+api_id: 5668
 ---
 
 # Polymer Physics
@@ -30,10 +33,48 @@ This course presents the mechanical, optical, and transport properties of polyme
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [lec9_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec9_07/)
+- [lec8_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec8_07/)
+- [lec7_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec7_07/)
+- [lec6_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec6_07/)
+- [lec5_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec5_07/)
+- [lec4_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec4_07/)
+- [lec3_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec3_07/)
+- [lec2_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec2_07/)
+- [lec22_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec22_07/)
+- [lec21_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec21_07/)
+- [lec20_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec20_07/)
+- [lec1_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec1_07/)
+- [lec19_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec19_07/)
+- [lec18_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec18_07/)
+- [lec17_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec17_07/)
+- [lec16_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec16_07/)
+- [lec15_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec15_07/)
+- [lec14_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec14_07/)
+- [lec13_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec13_07/)
+- [lec12_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec12_07/)
+- [lec11_07.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec11_07/)
+- [lec10.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/lec10/)
+- [Lecture Notes](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/pages/lecture-notes/)
+
+### Problem-Set
+- [report.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/report/)
+- [ps5.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/ps5/)
+- [ps4.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/ps4/)
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/ps3/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/ps2/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/ps1/)
+- [polymer_foams.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/polymer_foams/)
+- [modifiability.pdf (.pdf)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/modifiability/)
+- [Assignments](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/pages/assignments/)
+
+### Resource
+- [3-063s07.jpg (.jpg)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/3-063s07/)
+- [3-063s07-th.jpg (.jpg)](https://ocw.mit.edu/courses/3-063-polymer-physics-spring-2007/resources/3-063s07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 315
 completeness: 0.0
 last_modified: "2026-05-06T17:01:22Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 4964
 ---
 
 # Shakespeare, Film and Media
@@ -34,9 +37,19 @@ The methodological bias of the class is close “reading” of both text and fil
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-435-shakespeare-film-and-media-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-435-shakespeare-film-and-media-fall-2002/resources/f02syllabus/) · [🔗](https://ocw.mit.edu/courses/21l-435-shakespeare-film-and-media-fall-2002/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-435-shakespeare-film-and-media-fall-2002/pages/readings/)
+
+### Resource
+- [Shakespeare on Screen: An Annotated Checklist (.pdf)](https://ocw.mit.edu/courses/21l-435-shakespeare-film-and-media-fall-2002/resources/f02onscreen/)
+- [Films and Readings (.pdf)](https://ocw.mit.edu/courses/21l-435-shakespeare-film-and-media-fall-2002/resources/f02filmreadings/)
+- [Richard III Poster (.jpg)](https://ocw.mit.edu/courses/21l-435-shakespeare-film-and-media-fall-2002/resources/21l-435f02/)
+- [Richard III Poster (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-435-shakespeare-film-and-media-fall-2002/resources/21l-435f02-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21l-435-shakespeare-film-and-media-fall-2002/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

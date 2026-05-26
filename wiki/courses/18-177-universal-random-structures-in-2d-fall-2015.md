@@ -12,6 +12,9 @@ views: 54
 completeness: 0.05666666666666667
 last_modified: "2026-05-06T17:12:48Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Problem-Set: 2, Reading-List: 2, Resource: 3, Syllabus: 1"
+api_id: 3963
 ---
 
 # Universal Random Structures in 2D
@@ -30,10 +33,24 @@ This graduate-level course introduces students to some fundamental 2D random obj
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-177-universal-random-structures-in-2d-fall-2015/pages/syllabus/)
 
+### Lecture-Notes
+- [Universal randomness in 2D (.pdf)](https://ocw.mit.edu/courses/18-177-universal-random-structures-in-2d-fall-2015/resources/mit18_177f15_lecnotes/)
+- [Lecture Notes](https://ocw.mit.edu/courses/18-177-universal-random-structures-in-2d-fall-2015/pages/lecture-notes/)
+
+### Reading-List
+- [Universal random structures in 2D (.pdf)](https://ocw.mit.edu/courses/18-177-universal-random-structures-in-2d-fall-2015/resources/mit18_177f15_intro/)
+- [Readings](https://ocw.mit.edu/courses/18-177-universal-random-structures-in-2d-fall-2015/pages/readings/)
+
+### Problem-Set
+- [Open Problems (.pdf)](https://ocw.mit.edu/courses/18-177-universal-random-structures-in-2d-fall-2015/resources/mit18_177f15_openp/)
+- [Assignments](https://ocw.mit.edu/courses/18-177-universal-random-structures-in-2d-fall-2015/pages/assignments/)
+
+### Resource
+- [Circle packing (.jpg)](https://ocw.mit.edu/courses/18-177-universal-random-structures-in-2d-fall-2015/resources/18-177f15/)
+- [Circle packing (thumbnail) (.jpg)](https://ocw.mit.edu/courses/18-177-universal-random-structures-in-2d-fall-2015/resources/18-177f15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

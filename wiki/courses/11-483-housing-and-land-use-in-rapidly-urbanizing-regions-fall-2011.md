@@ -12,6 +12,9 @@ views: 117
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:45:34Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4531
 ---
 
 # Housing and Land Use in Rapidly Urbanizing Regions
@@ -30,8 +33,19 @@ A truly inter-disciplinary course, Housing and Land Use in Rapidly Urbanizing Re
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-483-housing-and-land-use-in-rapidly-urbanizing-regions-fall-2011/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-483-housing-and-land-use-in-rapidly-urbanizing-regions-fall-2011/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-483-housing-and-land-use-in-rapidly-urbanizing-regions-fall-2011/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-483-housing-and-land-use-in-rapidly-urbanizing-regions-fall-2011/pages/assignments/)
+
+### Resource
+- [An aerial view of the U.S.-Mexico border (.jpg)](https://ocw.mit.edu/courses/11-483-housing-and-land-use-in-rapidly-urbanizing-regions-fall-2011/resources/11-483f11/)
+- [Discussion Questions](https://ocw.mit.edu/courses/11-483-housing-and-land-use-in-rapidly-urbanizing-regions-fall-2011/pages/discussion-questions/)
 ## Wikipedia Bridge
 
 ### Related Articles

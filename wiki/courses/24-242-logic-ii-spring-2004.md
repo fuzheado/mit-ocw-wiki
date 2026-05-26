@@ -12,6 +12,9 @@ views: 550
 completeness: 0.35000000000000003
 last_modified: "2026-05-06T15:03:18Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 18, Problem-Set: 26, Resource: 3, Syllabus: 1"
+api_id: 4779
 ---
 
 # Logic II
@@ -30,10 +33,60 @@ This course begins with an introduction to the theory of computability, then pro
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [why_study_comptt.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/why_study_comptt/)
+- [tarski.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/tarski/)
+- [self_reference.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/self_reference/)
+- [robison_arthmetc.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/robison_arthmetc/)
+- [provablity_logic.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/provablity_logic/)
+- [peano_arithmetic.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/peano_arithmetic/)
+- [nonstandrd_modls.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/nonstandrd_modls/)
+- [modal_logic.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/modal_logic/)
+- [lange_of_arithmt.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/lange_of_arithmt/)
+- [key_coptbty_cons.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/key_coptbty_cons/)
+- [interpretations.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/interpretations/)
+- [goedel_numbering.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/goedel_numbering/)
+- [exponentiation.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/exponentiation/)
+- [coding_proofs.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/coding_proofs/)
+- [chuh_trng_thesis.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/chuh_trng_thesis/)
+- [2nd_incompletens.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/2nd_incompletens/)
+- [1st_incompletens.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/1st_incompletens/)
+- [Lecture Notes](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/pages/lecture-notes/)
+
+### Problem-Set
+- [HW8SampleAnswers.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw8sampleanswers/)
+- [hw8sampleans.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw8sampleans/)
+- [hw8sample.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw8sample/)
+- [HW7SampleAnswers.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw7sampleanswers/)
+- [hw7sampleans.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw7sampleans/)
+- [hw7sample.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw7sample/)
+- [HW6SampleAnswers.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw6sampleanswers/)
+- [hw6sampleans.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw6sampleans/)
+- [hw6sample.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw6sample/)
+- [HW5Sampleanswers.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw5sampleanswers/)
+- [hw5sampleans.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw5sampleans/)
+- [hw5sample.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw5sample/)
+- [HW4SampleAnswers.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw4sampleanswers/)
+- [hw4sampleans.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw4sampleans/)
+- [hw4sample.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw4sample/)
+- [HW3SampleAnswers.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw3sampleanswers/)
+- [hw3sampleans.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw3sampleans/)
+- [hw3sample.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw3sample/)
+- [HW2Sampleanswer.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw2sampleanswer/)
+- [hw2sampleans.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw2sampleans/)
+- [hw2sample.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw2sample/)
+- [hw1sampleans.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw1sampleans/)
+- [hw1sample.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw1sample/)
+- [hw1_solutions.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/hw1_solutions/)
+- [24242HW1samplefixed.pdf (.pdf)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/24242hw1samplefixed/)
+- [Assignments](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/pages/assignments/)
+
+### Resource
+- [24-242s04.jpg (.jpg)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/24-242s04/)
+- [24-242s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/resources/24-242s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

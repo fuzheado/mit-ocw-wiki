@@ -12,6 +12,9 @@ views: 490
 completeness: 0.0
 last_modified: "2026-05-06T14:50:33Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 42"
+api_id: 5500
 ---
 
 # Physics of Microfabrication: Front End Processing
@@ -30,8 +33,20 @@ This course is offered to graduates and focuses on understanding the fundamental
 
 ## Materials
 
-- [Lecture Audio] Lecture Audio
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-774-physics-of-microfabrication-front-end-processing-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-774-physics-of-microfabrication-front-end-processing-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/6-774-physics-of-microfabrication-front-end-processing-fall-2004/pages/readings/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/6-774-physics-of-microfabrication-front-end-processing-fall-2004/pages/projects/)
+
+### Resource
+- [6-774f04.jpg (.jpg)](https://ocw.mit.edu/courses/6-774-physics-of-microfabrication-front-end-processing-fall-2004/resources/6-774f04/)
+- [6-774f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-774-physics-of-microfabrication-front-end-processing-fall-2004/resources/6-774f04-th/)
+- [Audio Lectures 📺Video](https://ocw.mit.edu/courses/6-774-physics-of-microfabrication-front-end-processing-fall-2004/video_galleries/audio-lectures/)
 ## Wikipedia Bridge
 
 ### Related Articles

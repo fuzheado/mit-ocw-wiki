@@ -12,6 +12,9 @@ views: 128
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:56:17Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Problem-Set: 1, Reading-List: 1, Resource: 8, Syllabus: 2"
+api_id: 5454
 ---
 
 # Global Entrepreneurship Lab: Latin America, the Middle East, and Africa
@@ -32,9 +35,26 @@ Special Features
 
 ## Materials
 
-- [Projects] Projects
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-389b-global-entrepreneurship-lab-latin-america-the-middle-east-and-africa-fall-2010/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-389b-global-entrepreneurship-lab-latin-america-the-middle-east-and-africa-fall-2010/pages/syllabus/)
+- **Teamwork and Match Process** — [🔗](https://ocw.mit.edu/courses/15-389b-global-entrepreneurship-lab-latin-america-the-middle-east-and-africa-fall-2010/pages/projects/teamwork-and-match-process/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-389b-global-entrepreneurship-lab-latin-america-the-middle-east-and-africa-fall-2010/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-389b-global-entrepreneurship-lab-latin-america-the-middle-east-and-africa-fall-2010/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/15-389b-global-entrepreneurship-lab-latin-america-the-middle-east-and-africa-fall-2010/pages/projects/)
+
+### Resource
+- [Thoughts on How to Write a G-Lab Case Study (.pdf)](https://ocw.mit.edu/courses/15-389b-global-entrepreneurship-lab-latin-america-the-middle-east-and-africa-fall-2010/resources/mit15_389bf10_rescasestudy/)
+- [Photo of Sao Paulo, Brazil (.jpg)](https://ocw.mit.edu/courses/15-389b-global-entrepreneurship-lab-latin-america-the-middle-east-and-africa-fall-2010/resources/15-389bf10/)
+- [Related Resources](https://ocw.mit.edu/courses/15-389b-global-entrepreneurship-lab-latin-america-the-middle-east-and-africa-fall-2010/pages/related-resources/)
+- [World Economic Outlook Update: Restoring Confidence Without Harming Recovery](http://www.imf.org/external/pubs/ft/weo/2010/update/02/index.htm)
+- [World Economic Outlook: Recovery, Risk, and Rebalancing](http://www.imf.org/external/pubs/ft/weo/2010/02/index.htm)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 117
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:01:07Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 6, Syllabus: 2, Video-Transcript: 2"
+api_id: 3440
 ---
 
 # Food and Power in the Twentieth Century
@@ -30,9 +33,20 @@ In this class, food serves as both the subject and the object of historical anal
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/sts-429-food-and-power-in-the-twentieth-century-spring-2005/pages/calendar/)
+- **Related Resources** — [🔗](https://ocw.mit.edu/courses/sts-429-food-and-power-in-the-twentieth-century-spring-2005/pages/related-resources/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-429-food-and-power-in-the-twentieth-century-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/sts-429-food-and-power-in-the-twentieth-century-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/sts-429-food-and-power-in-the-twentieth-century-spring-2005/pages/assignments/)
+
+### Resource
+- [Be Patriotic (.jpg)](https://ocw.mit.edu/courses/sts-429-food-and-power-in-the-twentieth-century-spring-2005/resources/sts-429s05/)
+- [Be Patriotic (thumbnail) (.jpg)](https://ocw.mit.edu/courses/sts-429-food-and-power-in-the-twentieth-century-spring-2005/resources/sts-429s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

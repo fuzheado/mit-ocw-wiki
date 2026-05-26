@@ -12,6 +12,9 @@ views: 152
 completeness: 0.07500000000000001
 last_modified: "2026-05-06T17:10:35Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 9, Reading-List: 8, Resource: 4, Syllabus: 2"
+api_id: 5736
 ---
 
 # Scene Understanding Symposium
@@ -30,8 +33,34 @@ What are the circuits, mechanisms and representations that permit the recognitio
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [945talkreiman.pdf (.pdf)](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/resources/945talkreiman/)
+- [920talkserre.pdf (.pdf)](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/resources/920talkserre/)
+- [900talkoliva.pdf (.pdf)](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/resources/900talkoliva/)
+- [1445tlkwolfe.pdf (.pdf)](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/resources/1445tlkwolfe/)
+- [1350tlktorralba.pdf (.pdf)](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/resources/1350tlktorralba/)
+- [1300tlkfeifei.pdf (.pdf)](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/resources/1300tlkfeifei/)
+- [1110tlkevnstrsmn.pdf (.pdf)](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/resources/1110tlkevnstrsmn/)
+- [1025tlkdcarl.pdf (.pdf)](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/resources/1025tlkdcarl/)
+- [Lecture Notes](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/pages/lecture-notes/)
+
+### Reading-List
+- [920paper2.pdf (.pdf)](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/resources/920paper2/)
+- [920paper1.pdf (.pdf)](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/resources/920paper1/)
+- [900paper2.pdf (.pdf)](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/resources/900paper2/)
+- [900paper1.pdf (.pdf)](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/resources/900paper1/)
+- [1445paper2.pdf (.pdf)](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/resources/1445paper2/)
+- [1350paper3.pdf (.pdf)](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/resources/1350paper3/)
+- [1350paper2.pdf (.pdf)](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/resources/1350paper2/)
+- [Readings](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/pages/readings/)
+
+### Resource
+- [9-459s06.jpg (.jpg)](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/resources/9-459s06/)
+- [9-459s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/9-459-scene-understanding-symposium-spring-2006/resources/9-459s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

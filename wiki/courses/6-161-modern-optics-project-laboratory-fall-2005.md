@@ -12,6 +12,9 @@ views: 479
 completeness: 0.2
 last_modified: "2026-05-06T14:45:38Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Lecture-Notes: 1, Problem-Set: 10, Reading-List: 1, Resource: 13, Syllabus: 2"
+api_id: 5561
 ---
 
 # Modern Optics Project Laboratory
@@ -30,8 +33,41 @@ type: "course"
 
 ## Materials
 
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/pages/calendar/)
+- **Labs** — [🔗](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/pages/labs/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/pages/readings/)
+
+### Problem-Set
+- [ps9.pdf (.pdf)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/ps9/)
+- [ps8.pdf (.pdf)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/ps8/)
+- [ps7.pdf (.pdf)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/ps7/)
+- [ps6.pdf (.pdf)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/ps6/)
+- [ps5.pdf (.pdf)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/ps5/)
+- [ps4.pdf (.pdf)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/ps4/)
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/ps3/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/ps2/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/ps1/)
+- [Assignments](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/pages/assignments/)
+
+### Assignment
+- [finalproj.pdf (.pdf)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/finalproj/)
+- [Projects](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/pages/projects/)
+
+### Resource
+- [lab7.pdf (.pdf)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/lab7/)
+- [lab6.pdf (.pdf)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/lab6/)
+- [lab5.pdf (.pdf)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/lab5/)
+- [lab4.pdf (.pdf)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/lab4/)
+- [lab3.pdf (.pdf)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/lab3/)
+- [lab2.pdf (.pdf)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/lab2/)
+- [lab1.pdf (.pdf)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/lab1/)
+- [6-161f05.jpg (.jpg)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/6-161f05/)
+- [6-161f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/resources/6-161f05-th/)
+- [Related Resources](https://ocw.mit.edu/courses/6-161-modern-optics-project-laboratory-fall-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

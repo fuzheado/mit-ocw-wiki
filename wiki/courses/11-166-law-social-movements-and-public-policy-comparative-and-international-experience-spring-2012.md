@@ -12,6 +12,9 @@ views: 191
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:14:39Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3403
 ---
 
 # Law, Social Movements, and Public Policy: Comparative and International Experience
@@ -30,8 +33,20 @@ This course studies the interaction between law, courts, and social movements in
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-166-law-social-movements-and-public-policy-comparative-and-international-experience-spring-2012/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-166-law-social-movements-and-public-policy-comparative-and-international-experience-spring-2012/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-166-law-social-movements-and-public-policy-comparative-and-international-experience-spring-2012/pages/readings/)
+
+### Problem-Set
+- [The seed is mine… Only the land is theirs. (.pdf)](https://ocw.mit.edu/courses/11-166-law-social-movements-and-public-policy-comparative-and-international-experience-spring-2012/resources/mit11_166s12_studentpaper/)
+- [Assignments](https://ocw.mit.edu/courses/11-166-law-social-movements-and-public-policy-comparative-and-international-experience-spring-2012/pages/assignments/)
+
+### Resource
+- [An anti-nuclear power sticker on car.  (.jpg)](https://ocw.mit.edu/courses/11-166-law-social-movements-and-public-policy-comparative-and-international-experience-spring-2012/resources/11-166s12/)
+- [A anti-nuclear sticker on a car.  (.jpg)](https://ocw.mit.edu/courses/11-166-law-social-movements-and-public-policy-comparative-and-international-experience-spring-2012/resources/11-166s12-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

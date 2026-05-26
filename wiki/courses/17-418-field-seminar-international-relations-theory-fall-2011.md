@@ -12,6 +12,9 @@ views: 133
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:58:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 2"
+api_id: 4994
 ---
 
 # Field Seminar: International Relations Theory
@@ -30,8 +33,18 @@ This seminar provides an overview of the field of international relations. Each 
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-418-field-seminar-international-relations-theory-fall-2011/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-418-field-seminar-international-relations-theory-fall-2011/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-418-field-seminar-international-relations-theory-fall-2011/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-418-field-seminar-international-relations-theory-fall-2011/pages/assignments/)
+
+### Resource
+- [Hillary Clinton shakes the hand of Thein Sein (.jpg)](https://ocw.mit.edu/courses/17-418-field-seminar-international-relations-theory-fall-2011/resources/17-418f11/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 133
 completeness: 0.2816666666666667
 last_modified: "2026-05-06T16:52:35Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 5, Lecture-Notes: 17, Problem-Set: 7, Reading-List: 4, Resource: 6, Syllabus: 2"
+api_id: 3405
 ---
 
 # Multi-Scale System Design
@@ -30,11 +33,56 @@ Multi-scale systems (MuSS) consist of components from two or more length scales 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
-- [Projects] Projects
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [lecture_9.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/lecture_9/)
+- [lecture_8.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/lecture_8/)
+- [lecture_7prt2.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/lecture_7prt2/)
+- [lecture_7prt1.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/lecture_7prt1/)
+- [lecture_7.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/lecture_7/)
+- [lecture_6.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/lecture_6/)
+- [lecture_5.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/lecture_5/)
+- [lecture_4.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/lecture_4/)
+- [lecture_3.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/lecture_3/)
+- [lecture_2.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/lecture_2/)
+- [lecture_15.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/lecture_15/)
+- [lecture_14.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/lecture_14/)
+- [lecture_13.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/lecture_13/)
+- [lecture_12.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/lecture_12/)
+- [lecture_10.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/lecture_10/)
+- [lecture_1.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/lecture_1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/pages/lecture-notes/)
+
+### Reading-List
+- [stm_explanation.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/stm_explanation/)
+- [reading_l3.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/reading_l3/)
+- [lec12cont_read.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/lec12cont_read/)
+- [Readings](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/pages/readings/)
+
+### Problem-Set
+- [assignment6.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/assignment6/)
+- [assignment5.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/assignment5/)
+- [assignment4.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/assignment4/)
+- [assignment3.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/assignment3/)
+- [assignment2.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/assignment2/)
+- [assignment1.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/assignment1/)
+- [Assignments](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/pages/assignments/)
+
+### Assignment
+- [temp_vari_sm_tab.jpg (.jpg)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/temp_vari_sm_tab/)
+- [preamplifier.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/preamplifier/)
+- [dynchar_floorvib.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/dynchar_floorvib/)
+- [2000dxftutorial.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/2000dxftutorial/)
+- [Projects](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/pages/projects/)
+
+### Resource
+- [tablet_pc_tips.pdf (.pdf)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/tablet_pc_tips/)
+- [2-76f04.jpg (.jpg)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/2-76f04/)
+- [2-76f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/resources/2-76f04-th/)
+- [Tools](https://ocw.mit.edu/courses/2-76-multi-scale-system-design-fall-2004/pages/tools/)
 ## Wikipedia Bridge
 
 ### Related Articles

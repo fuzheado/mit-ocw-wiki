@@ -12,6 +12,9 @@ views: 241
 completeness: 0.18000000000000002
 last_modified: "2026-05-06T17:08:10Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 8, Problem-Set: 9, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4804
 ---
 
 # Techno-identity: Who we are and how we perceive ourselves and others
@@ -31,8 +34,37 @@ The instructor’s course page may be viewed at http://smg.media.mit.edu/classes
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/pages/readings/)
+
+### Problem-Set
+- [visualization.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/resources/visualization/)
+- [portrait.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/resources/portrait/)
+- [language.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/resources/language/)
+- [HICSS2002.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/resources/hicss2002/)
+- [fashion.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/resources/fashion/)
+- [face.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/resources/face/)
+- [databasesAndPrivacy.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/resources/databasesandprivacy/)
+- [categorization.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/resources/categorization/)
+- [Assignments](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/pages/assignments/)
+
+### Assignment
+- [danah8W.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/resources/danah8w/)
+- [danah7.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/resources/danah7/)
+- [danah5.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/resources/danah5/)
+- [danah4.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/resources/danah4/)
+- [danah3.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/resources/danah3/)
+- [danah2.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/resources/danah2/)
+- [danah1.pdf (.pdf)](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/resources/danah1/)
+- [Projects](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/pages/projects/)
+
+### Resource
+- [mas-963s02.jpg (.jpg)](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/resources/mas-963s02/)
+- [mas-963s02-th.jpg (.jpg)](https://ocw.mit.edu/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/resources/mas-963s02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

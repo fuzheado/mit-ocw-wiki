@@ -12,6 +12,9 @@ views: 153
 completeness: 0.2
 last_modified: "2026-05-06T17:18:41Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 6, Reading-List: 2, Resource: 11, Syllabus: 2, Video-Transcript: 2"
+api_id: 5631
 ---
 
 # Technology and the Global Economy, 1000-2000
@@ -30,8 +33,28 @@ This seminar examines the global history of the last millennium, including techn
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/pages/readings/)
+- **Sample Book Review** — [🔗](https://ocw.mit.edu/courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/pages/assignments/moral-economy/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/pages/syllabus/)
 
+### Problem-Set
+- [21H.383F16 Technology and the Global Economy - Sample Book Review: Poverty of Clio (.pdf)](https://ocw.mit.edu/courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/resources/mit21h_383f16_povertyclio/)
+- [21H.383F16 Technology and the Global Economy - Student Example: Essay - Great Divergence (.pdf)](https://ocw.mit.edu/courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/resources/mit21h_383f16_greatdvrgnce/)
+- [21H.383F16 Technology and the Global Economy - Student Example: Essay - Built for Success (.pdf)](https://ocw.mit.edu/courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/resources/mit21h_383f16_builtsuccess/)
+- [Student Book Review](https://ocw.mit.edu/courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/pages/assignments/pomeranz/)
+- [Assignments](https://ocw.mit.edu/courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/pages/assignments/)
+
+### Resource
+- [21h-383f16.jpg (.jpg)](https://ocw.mit.edu/courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/resources/21h-383f16/)
+- [21H-383f16-th.jpg (.jpg)](https://ocw.mit.edu/courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/resources/21h-383f16-th/)
+- [Cities of Commerce](https://ocw.mit.edu/courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/pages/assignments/cities-of-commerce/)
+- [Shaping Medieval Markets](https://ocw.mit.edu/courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/pages/assignments/medieval-markets/)
+- [Energy and the English Industrial Revolution](https://ocw.mit.edu/courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/pages/assignments/energy/)
+- [Medieval Technology and Social Change](https://ocw.mit.edu/courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/pages/assignments/medieval-technology/)
+- [The Great Divergence](https://ocw.mit.edu/courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/pages/assignments/pomeranz/)
+- [Why the West Rules-For Now](https://ocw.mit.edu/courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/pages/assignments/morris/)
 ## Wikipedia Bridge
 
 ### Related Articles

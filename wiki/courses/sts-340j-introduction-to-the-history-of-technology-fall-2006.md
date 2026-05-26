@@ -12,6 +12,9 @@ views: 478
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T14:56:11Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 7, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4864
 ---
 
 # Introduction to the History of Technology
@@ -30,8 +33,24 @@ This course is an introduction to the consideration of technology as the outcome
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/pages/readings/)
+
+### Problem-Set
+- [lmesseri3.pdf (.pdf)](https://ocw.mit.edu/courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/resources/lmesseri3/)
+- [lmesseri2.pdf (.pdf)](https://ocw.mit.edu/courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/resources/lmesseri2/)
+- [lmesseri1.pdf (.pdf)](https://ocw.mit.edu/courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/resources/lmesseri1/)
+- [ginsburg_modrnst.pdf (.pdf)](https://ocw.mit.edu/courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/resources/ginsburg_modrnst/)
+- [ginsburg_computg.pdf (.pdf)](https://ocw.mit.edu/courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/resources/ginsburg_computg/)
+- [fox_crystalfire.pdf (.pdf)](https://ocw.mit.edu/courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/resources/fox_crystalfire/)
+- [Assignments](https://ocw.mit.edu/courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/pages/assignments/)
+
+### Resource
+- [sts-340jf06.jpg (.jpg)](https://ocw.mit.edu/courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/resources/sts-340jf06/)
+- [sts-340jf06-th.jpg (.jpg)](https://ocw.mit.edu/courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/resources/sts-340jf06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

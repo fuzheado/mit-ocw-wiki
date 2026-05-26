@@ -12,6 +12,9 @@ views: 370
 completeness: 0.30000000000000004
 last_modified: "2026-05-06T17:01:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 12, Problem-Set: 14, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4574
 ---
 
 # Global Strategy and Organization
@@ -31,10 +34,45 @@ The goal of this subject is to provide the foundations for taking effective acti
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/pages/syllabus/)
 
+### Lecture-Notes
+- [lec9.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/lec9/)
+- [lec8.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/lec8/)
+- [lec7.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/lec7/)
+- [lec6.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/lec6/)
+- [lec5.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/lec5/)
+- [lec4.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/lec4/)
+- [lec3.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/lec3/)
+- [lec2.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/lec2/)
+- [lec11.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/lec11/)
+- [lec10.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/lec10/)
+- [lec1.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/pages/readings/)
+
+### Problem-Set
+- [write2.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/write2/)
+- [write1.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/write1/)
+- [assn9.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/assn9/)
+- [assn8.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/assn8/)
+- [assn7.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/assn7/)
+- [assn6.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/assn6/)
+- [assn5.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/assn5/)
+- [assn4.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/assn4/)
+- [assn3.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/assn3/)
+- [assn2.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/assn2/)
+- [assn11.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/assn11/)
+- [assn10.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/assn10/)
+- [assn1.pdf (.pdf)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/assn1/)
+- [Assignments](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/pages/assignments/)
+
+### Resource
+- [15-220s08jpg (.jpg)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/15-220s08/)
+- [15-220s08-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-220-global-strategy-and-organization-spring-2008/resources/15-220s08-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

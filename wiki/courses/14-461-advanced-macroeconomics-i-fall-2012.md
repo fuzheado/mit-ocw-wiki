@@ -12,6 +12,9 @@ views: 1532
 completeness: 0.16000000000000003
 last_modified: "2026-05-06T16:59:22Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 8, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5553
 ---
 
 # Advanced Macroeconomics I
@@ -30,8 +33,26 @@ type: "course"
 
 ## Materials
 
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/14-461-advanced-macroeconomics-i-fall-2012/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/14-461-advanced-macroeconomics-i-fall-2012/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/14-461-advanced-macroeconomics-i-fall-2012/pages/readings/)
+
+### Problem-Set
+- [Problem Set 6 (.pdf)](https://ocw.mit.edu/courses/14-461-advanced-macroeconomics-i-fall-2012/resources/mit14_461f12_pset6/)
+- [Problem Set 7 (.pdf)](https://ocw.mit.edu/courses/14-461-advanced-macroeconomics-i-fall-2012/resources/mit14_461f12_pset7/)
+- [Problem Set 5 (.pdf)](https://ocw.mit.edu/courses/14-461-advanced-macroeconomics-i-fall-2012/resources/mit14_461f12_pset5/)
+- [Problem Set 4 (.pdf)](https://ocw.mit.edu/courses/14-461-advanced-macroeconomics-i-fall-2012/resources/mit14_461f12_pset4/)
+- [Problem Set 3 (.pdf)](https://ocw.mit.edu/courses/14-461-advanced-macroeconomics-i-fall-2012/resources/mit14_461f12_pset3/)
+- [Problem Set 2 (.pdf)](https://ocw.mit.edu/courses/14-461-advanced-macroeconomics-i-fall-2012/resources/mit14_461f12_pset2/)
+- [Problem Set 1 (.pdf)](https://ocw.mit.edu/courses/14-461-advanced-macroeconomics-i-fall-2012/resources/mit14_461f12_pset1/)
+- [Assignments](https://ocw.mit.edu/courses/14-461-advanced-macroeconomics-i-fall-2012/pages/assignments/)
+
+### Resource
+- [A green street sign on a pole that reads 2008 Recession (.jpg)](https://ocw.mit.edu/courses/14-461-advanced-macroeconomics-i-fall-2012/resources/14-461f12/)
+- [Managing Credit Booms and Busts: A Pigouvian Taxation Approach.&rdquo; (PDF)](https://www.imf.org/external/np/res/seminars/2010/risk/pdf/durdu.pdf)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 81
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:58:07Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4126
 ---
 
 # Special Graduate Topic in Political Science: Public Opinion
@@ -30,8 +33,19 @@ This course provides an introduction to the vast literature devoted to public op
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-951-special-graduate-topic-in-political-science-public-opinion-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-951-special-graduate-topic-in-political-science-public-opinion-spring-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-951-special-graduate-topic-in-political-science-public-opinion-spring-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-951-special-graduate-topic-in-political-science-public-opinion-spring-2004/pages/assignments/)
+
+### Resource
+- [Picketers Protest A-76 Process (.jpg)](https://ocw.mit.edu/courses/17-951-special-graduate-topic-in-political-science-public-opinion-spring-2004/resources/17-951s04/)
+- [Picketers Protest A-76 Process (thumbnail) (.jpg)](https://ocw.mit.edu/courses/17-951-special-graduate-topic-in-political-science-public-opinion-spring-2004/resources/17-951s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

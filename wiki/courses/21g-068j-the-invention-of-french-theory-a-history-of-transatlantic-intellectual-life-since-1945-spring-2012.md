@@ -12,6 +12,9 @@ views: 88
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:55:29Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4490
 ---
 
 # The Invention of French Theory: A History of Transatlantic Intellectual Life since 1945
@@ -30,10 +33,18 @@ In the decades following the Second World War, a cluster of extraordinary French
 
 ## Materials
 
-- [Media Assignments] Media Assignments
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-068j-the-invention-of-french-theory-a-history-of-transatlantic-intellectual-life-since-1945-spring-2012/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-068j-the-invention-of-french-theory-a-history-of-transatlantic-intellectual-life-since-1945-spring-2012/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21g-068j-the-invention-of-french-theory-a-history-of-transatlantic-intellectual-life-since-1945-spring-2012/pages/assignments/)
+
+### Resource
+- [Les Deux Magots (.jpg)](https://ocw.mit.edu/courses/21g-068j-the-invention-of-french-theory-a-history-of-transatlantic-intellectual-life-since-1945-spring-2012/resources/21g-068js12/)
+- [Les Deux Magots (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-068j-the-invention-of-french-theory-a-history-of-transatlantic-intellectual-life-since-1945-spring-2012/resources/21g-068js12-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

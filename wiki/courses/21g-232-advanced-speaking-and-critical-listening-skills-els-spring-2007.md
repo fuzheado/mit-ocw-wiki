@@ -12,6 +12,9 @@ views: 1124
 completeness: 0.18000000000000002
 last_modified: "2026-05-06T14:59:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 9, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5503
 ---
 
 # Advanced Speaking and Critical Listening Skills (ELS)
@@ -30,9 +33,28 @@ This course is for advanced students who wish to build confidence and skills in 
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/pages/readings/)
+
+### Problem-Set
+- [Worksheet for the Washington Week Assignment (.pdf)](https://ocw.mit.edu/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/resources/mit21g_232s07_washington/)
+- [Guidelines for Successful Q&As (.pdf)](https://ocw.mit.edu/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/resources/mit21g_232s07_qa_sessions/)
+- [Sample Progress Memo (.pdf)](https://ocw.mit.edu/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/resources/mit21g_232s07_progress_mem/)
+- [Worksheet for Strategic Interviews (.pdf)](https://ocw.mit.edu/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/resources/mit21g_232s07_inv_workshee/)
+- [Mock Interviews: Criteria for Grading (.pdf)](https://ocw.mit.edu/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/resources/mit21g_232s07_interview_gr/)
+- [Impromptu Debate Worksheet (.pdf)](https://ocw.mit.edu/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/resources/mit21g_232s07_deb_workshee/)
+- [Procedure for Debate (.pdf)](https://ocw.mit.edu/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/resources/mit21g_232s07_deb_procedur/)
+- [Format for Conventional Memo (.pdf)](https://ocw.mit.edu/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/resources/mit21g_232s07_conv_memo/)
+- [Assignments](https://ocw.mit.edu/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/pages/assignments/)
+
+### Resource
+- [21g-232s07.jpg (.jpg)](https://ocw.mit.edu/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/resources/21g-232s07/)
+- [21g-232s07-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/resources/21g-232s07-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

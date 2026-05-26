@@ -12,6 +12,9 @@ views: 1036
 completeness: 0.0
 last_modified: "2026-05-06T17:14:50Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 6, Video-Transcript: 2"
+api_id: 3830
 ---
 
 # Healthcare Finance (15.482x)
@@ -31,9 +34,14 @@ As part of the Open Learning Library, this course is free to use. You have the o
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
+### Lectures
+- **Instructor Insights** — [📄](https://ocw.mit.edu/courses/res-15-005-healthcare-finance-15-482x-spring-2019/8kFFg5jAoQc_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/res-15-005-healthcare-finance-15-482x-spring-2019/pages/instructor-insights/)
 
+### Resource
+- [MIT Economist on Finance, AI, and Human Behavior transcript (.pdf)](https://ocw.mit.edu/courses/res-15-005-healthcare-finance-15-482x-spring-2019/resources/8kffg5jaoqc_transcript/)
+- [MIT Economist on Finance, AI, and Human Behavior captions (.webvtt)](https://ocw.mit.edu/courses/res-15-005-healthcare-finance-15-482x-spring-2019/resources/8kffg5jaoqc_captions/)
+- [MIT15-005.jpg (.jpg)](https://ocw.mit.edu/courses/res-15-005-healthcare-finance-15-482x-spring-2019/resources/mit15-005/)
+- [MIT15-005-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-15-005-healthcare-finance-15-482x-spring-2019/resources/mit15-005-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

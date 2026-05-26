@@ -12,6 +12,9 @@ views: 435
 completeness: 0.028333333333333335
 last_modified: "2026-05-06T17:23:24Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 31"
+api_id: 5630
 ---
 
 # SCUBA
@@ -30,9 +33,23 @@ This course will thoroughly educate the successful student with the knowledge an
 
 ## Materials
 
-- [Demonstration Videos] Demonstration Videos
-- [Lecture Videos] Lecture Videos
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/pe-210-scuba-spring-2007/pages/calendar/)
+- **Lecture Notes** — [🔗](https://ocw.mit.edu/courses/pe-210-scuba-spring-2007/pages/lecture-notes/)
+- **MP4** — [⬇](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-entry-giant-stride-220k.mp4) · [⬇](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-entry-backroll-220k.mp4) · [⬇](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-surface_dive-head_first-220k.mp4) · [⬇](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-dolphin-kick-220k.mp4) · [⬇](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-don-doff-weight-belt-underwater-220k.mp4) · [⬇](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-sesa-220k.mp4) · [⬇](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-rescue-breathing-220k.mp4) · [⬇](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-tired-swimmer-assist-2rd-ver-220k.mp4) · [⬇](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-tired-swimmer-assist-3rd-ver-220k.mp4)
+- **MP4 - 1.2MB** — [⬇](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-mask-removal-220k.mp4) · [⬇](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-reg-recovery-220k.mp4) · [⬇](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-shared-octopus-breathing-220k.mp4)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/pe-210-scuba-spring-2007/pages/syllabus/)
+- **Video** — [🔗](https://ocw.mit.edu/courses/pe-210-scuba-spring-2007/pages/video/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/pe-210-scuba-spring-2007/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/pe-210-scuba-spring-2007/pages/assignments/)
+
+### Resource
+- [Jim and Barrell Sponge (.jpg)](https://ocw.mit.edu/courses/pe-210-scuba-spring-2007/resources/pe-210s07/)
+- [Jim and Barrell Sponge (thumbnail) (.jpg)](https://ocw.mit.edu/courses/pe-210-scuba-spring-2007/resources/pe-210s07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

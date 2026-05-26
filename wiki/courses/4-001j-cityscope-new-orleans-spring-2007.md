@@ -12,6 +12,9 @@ views: 46
 completeness: 0.11333333333333334
 last_modified: "2026-05-06T14:43:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 4, Problem-Set: 4, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4923
 ---
 
 # CityScope: New Orleans
@@ -30,9 +33,27 @@ Do you want to think about ways to help solve New Orleans’ problems? CityScope
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-001j-cityscope-new-orleans-spring-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [rebuilding.pdf (.pdf)](https://ocw.mit.edu/courses/4-001j-cityscope-new-orleans-spring-2007/resources/rebuilding/)
+- [meffert.pdf (.pdf)](https://ocw.mit.edu/courses/4-001j-cityscope-new-orleans-spring-2007/resources/meffert/)
+- [intro.pdf (.pdf)](https://ocw.mit.edu/courses/4-001j-cityscope-new-orleans-spring-2007/resources/intro/)
+- [Lecture Notes](https://ocw.mit.edu/courses/4-001j-cityscope-new-orleans-spring-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-001j-cityscope-new-orleans-spring-2007/pages/readings/)
+
+### Problem-Set
+- [writing.pdf (.pdf)](https://ocw.mit.edu/courses/4-001j-cityscope-new-orleans-spring-2007/resources/writing/)
+- [assn2a.pdf (.pdf)](https://ocw.mit.edu/courses/4-001j-cityscope-new-orleans-spring-2007/resources/assn2a/)
+- [assn1.pdf (.pdf)](https://ocw.mit.edu/courses/4-001j-cityscope-new-orleans-spring-2007/resources/assn1/)
+- [Assignments](https://ocw.mit.edu/courses/4-001j-cityscope-new-orleans-spring-2007/pages/assignments/)
+
+### Resource
+- [4-001js07.jpg (.jpg)](https://ocw.mit.edu/courses/4-001j-cityscope-new-orleans-spring-2007/resources/4-001js07/)
+- [4-001js07-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-001j-cityscope-new-orleans-spring-2007/resources/4-001js07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

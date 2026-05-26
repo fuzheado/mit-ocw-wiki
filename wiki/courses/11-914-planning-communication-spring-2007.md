@@ -12,6 +12,9 @@ views: 85
 completeness: 0.07
 last_modified: "2026-05-06T14:50:49Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 13, Lecture-Notes: 6, Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3707
 ---
 
 # Planning Communication
@@ -30,10 +33,42 @@ This three-week module, centered on a focal case, represents the second part of 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [xavbriefing.pdf (.pdf)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/xavbriefing/)
+- [sample3.pdf (.pdf)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/sample3/)
+- [sample2.pdf (.pdf)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/sample2/)
+- [sample1.pdf (.pdf)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/sample1/)
+- [qstion_silbrberg.pdf (.pdf)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/qstion_silbrberg/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/pages/assignments/)
+
+### Assignment
+- [group9.pdf (.pdf)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/group9/)
+- [group8.pdf (.pdf)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/group8/)
+- [group7.pdf (.pdf)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/group7/)
+- [group6.pdf (.pdf)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/group6/)
+- [group5.pdf (.pdf)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/group5/)
+- [group4.pdf (.pdf)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/group4/)
+- [group3.pdf (.pdf)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/group3/)
+- [group2.pdf (.pdf)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/group2/)
+- [group12.pdf (.pdf)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/group12/)
+- [group11.pdf (.pdf)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/group11/)
+- [group10.pdf (.pdf)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/group10/)
+- [group1.pdf (.pdf)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/group1/)
+- [Projects](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/pages/projects/)
+
+### Resource
+- [11-914s07.jpg (.jpg)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/11-914s07/)
+- [11-914s07-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/resources/11-914s07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

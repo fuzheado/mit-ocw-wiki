@@ -12,6 +12,9 @@ views: 108
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T17:08:53Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 3317
 ---
 
 # Introduction to European and Latin American Fiction
@@ -30,8 +33,21 @@ This subject serves as a broad introduction to the field of European and Latin A
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-010-introduction-to-european-and-latin-american-fiction-fall-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-010-introduction-to-european-and-latin-american-fiction-fall-2006/pages/readings/)
+
+### Problem-Set
+- [Second Essay Topics (.pdf)](https://ocw.mit.edu/courses/21g-010-introduction-to-european-and-latin-american-fiction-fall-2006/resources/mit21g_010f06_second_essay/)
+- [Last Essay Topics (.pdf)](https://ocw.mit.edu/courses/21g-010-introduction-to-european-and-latin-american-fiction-fall-2006/resources/mit21g_010f06_last_essay/)
+- [First Essay Topics (.pdf)](https://ocw.mit.edu/courses/21g-010-introduction-to-european-and-latin-american-fiction-fall-2006/resources/mit21g_010f06_first_essay/)
+- [Assignments](https://ocw.mit.edu/courses/21g-010-introduction-to-european-and-latin-american-fiction-fall-2006/pages/assignments/)
+
+### Resource
+- [Library of the San Francisco Church (.jpg)](https://ocw.mit.edu/courses/21g-010-introduction-to-european-and-latin-american-fiction-fall-2006/resources/21g-010f06/)
+- [Library of the San Francisco Church (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-010-introduction-to-european-and-latin-american-fiction-fall-2006/resources/21g-010f06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 172
 completeness: 0.061666666666666675
 last_modified: "2026-05-06T15:03:06Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 5, Problem-Set: 1, Resource: 8, Syllabus: 2"
+api_id: 4882
 ---
 
 # Global Markets, National Politics and the Competitive Advantage of Firms
@@ -30,9 +33,27 @@ This course examines the opportunities and risks firms face in today’s global 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [Nike & Corporate Social Responsibility  (.pdf)](https://ocw.mit.edu/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/resources/nikeandcsrcasesnote/)
+- [Gerber Case (.pdf)](https://ocw.mit.edu/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/resources/gerbercasenoteslect/)
+- [Lecture 4: Daewoo Case Notes (.pdf)](https://ocw.mit.edu/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/resources/daewoocasenoteslect/)
+- [Liberal Market Economies – The United States (.pdf)](https://ocw.mit.edu/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/resources/analogdevicecasenot/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/pages/lecture-notes/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/pages/assignments/)
+
+### Resource
+- [The Complete System (.pdf)](https://ocw.mit.edu/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/resources/portersdiamond/)
+- [Note on Analyzing Business Environments  (.pdf)](https://ocw.mit.edu/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/resources/analyzingbusinessen/)
+- [Flags of the European Union and Spain (.jpg)](https://ocw.mit.edu/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/resources/15-224s03/)
+- [Flags of the European Union and Spain (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/resources/15-224s03-th/)
+- [Study Materials](https://ocw.mit.edu/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

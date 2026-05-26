@@ -12,6 +12,9 @@ views: 258
 completeness: 0.07500000000000001
 last_modified: "2026-05-06T17:25:10Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 9, Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 5189
 ---
 
 # Introduction to Design Inquiry
@@ -30,8 +33,29 @@ This subject explores the varied nature and practice of computation in design. W
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [lect06a2.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2004/resources/lect06a2/)
+- [lect06a1.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2004/resources/lect06a1/)
+- [lect06a.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2004/resources/lect06a/)
+- [lect05a.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2004/resources/lect05a/)
+- [lect04.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2004/resources/lect04/)
+- [lect03c.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2004/resources/lect03c/)
+- [lect03a.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2004/resources/lect03a/)
+- [lect01.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2004/resources/lect01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2004/pages/readings/)
+
+### Resource
+- [chp_designinquiry.gif (.gif)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2004/resources/chp_designinquiry/)
+- [4-273f04.jpg (.jpg)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2004/resources/4-273f04/)
+- [4-273f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2004/resources/4-273f04-th/)
+- [Related Resources](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2004/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

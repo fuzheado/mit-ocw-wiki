@@ -12,6 +12,9 @@ views: 371
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:45:57Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 7, Syllabus: 1"
+api_id: 4610
 ---
 
 # Introduction to French Culture
@@ -30,10 +33,23 @@ This course examines major social and political trends, events, debates and pers
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-311-introduction-to-french-culture-spring-2014/pages/syllabus/)
 
+### Reading-List
+- [Extrait de « Le deuxième sexe » de Simone de Beauvoir – 21F.311 Spring 2014 (.pdf)](https://ocw.mit.edu/courses/21g-311-introduction-to-french-culture-spring-2014/resources/mit21g_311s14_extrait_de/)
+- [Readings](https://ocw.mit.edu/courses/21g-311-introduction-to-french-culture-spring-2014/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21g-311-introduction-to-french-culture-spring-2014/pages/assignments/)
+
+### Resource
+- [Safia as a modern Marianne (.jpg)](https://ocw.mit.edu/courses/21g-311-introduction-to-french-culture-spring-2014/resources/21g-311s14/)
+- [Safia as a modern Marianne (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-311-introduction-to-french-culture-spring-2014/resources/21g-311s14-th/)
+- [21G-311_stat-students (.png)](https://ocw.mit.edu/courses/21g-311-introduction-to-french-culture-spring-2014/resources/21g-311_stat-students/)
+- [21G-311_classroom-1 (.jpg)](https://ocw.mit.edu/courses/21g-311-introduction-to-french-culture-spring-2014/resources/21g-311_classroom-1/)
+- [Study Materials](https://ocw.mit.edu/courses/21g-311-introduction-to-french-culture-spring-2014/pages/study-materials/)
+- [Instructor Insights](https://ocw.mit.edu/courses/21g-311-introduction-to-french-culture-spring-2014/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

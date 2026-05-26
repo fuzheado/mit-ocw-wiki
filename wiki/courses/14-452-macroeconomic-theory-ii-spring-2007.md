@@ -12,6 +12,9 @@ views: 349
 completeness: 0.19166666666666668
 last_modified: "2026-05-06T17:10:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 11, Problem-Set: 5, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 5812
 ---
 
 # Macroeconomic Theory II
@@ -30,9 +33,35 @@ This is the second course in the four-quarter graduate sequence in macroeconomic
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [slides10.pdf (.pdf)](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/resources/slides10/)
+- [slides09.pdf (.pdf)](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/resources/slides09/)
+- [slides08.pdf (.pdf)](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/resources/slides08/)
+- [slides07.pdf (.pdf)](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/resources/slides07/)
+- [slides06.pdf (.pdf)](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/resources/slides06/)
+- [slides04.pdf (.pdf)](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/resources/slides04/)
+- [slides03b.pdf (.pdf)](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/resources/slides03b/)
+- [slides03a.pdf (.pdf)](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/resources/slides03a/)
+- [slides02.pdf (.pdf)](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/resources/slides02/)
+- [slides01.pdf (.pdf)](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/resources/slides01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/pages/readings/)
+
+### Problem-Set
+- [ps4_2007.pdf (.pdf)](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/resources/ps4_2007/)
+- [ps3_2007.pdf (.pdf)](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/resources/ps3_2007/)
+- [ps2_2007.pdf (.pdf)](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/resources/ps2_2007/)
+- [ps1_2007.pdf (.pdf)](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/resources/ps1_2007/)
+- [Assignments](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/pages/assignments/)
+
+### Resource
+- [14-452s07.jpg (.jpg)](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/resources/14-452s07/)
+- [14-452s07-th.jpg (.jpg)](https://ocw.mit.edu/courses/14-452-macroeconomic-theory-ii-spring-2007/resources/14-452s07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

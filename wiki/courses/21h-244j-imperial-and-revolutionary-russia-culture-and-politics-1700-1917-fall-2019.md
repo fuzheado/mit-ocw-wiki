@@ -12,6 +12,9 @@ views: 266
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:12:34Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 1, Reading-List: 2, Resource: 20, Syllabus: 2"
+api_id: 5729
 ---
 
 # Imperial and Revolutionary Russia: Culture and Politics, 1700-1917
@@ -30,8 +33,39 @@ This course analyzes Russia’s social, cultural, and political heritage in the 
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/syllabus/)
 
+### Reading-List
+- [21H.244JF19 Imperial and Revolutionary Russia: Readings_Key Terms in Russian History (.pdf)](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/resources/mit21h_244jf19_keytermshistory/)
+- [Readings](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/assignments/)
+
+### Assignment
+- [Women&#39;s Letters and Memoirs (and Other Writings)](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/primary-sources/womens-letters-and-memoirs-and-other-writings/)
+
+### Resource
+- [21H-244Jf19.jpg (.jpg)](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/resources/21h-244jf19/)
+- [21H-244Jf19-th.jpg (.jpg)](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/resources/21h-244jf19-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/related-resources/)
+- [Women's Letters and Memoirs (and Other Writings)](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/primary-sources/womens-letters-and-memoirs-and-other-writings/)
+- [Russia's Imperial Presence](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/primary-sources/russias-imperial-presence/)
+- [Religion](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/primary-sources/religion/)
+- [Political Philosophy](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/primary-sources/political-philosophy/)
+- [Peter the Great](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/primary-sources/peter-the-great/)
+- [Peasants and the Countryside](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/primary-sources/peasants-and-the-countryside/)
+- [Men's Memoirs, Literature, and Letters](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/primary-sources/mens-memoirs-literature-and-letters/)
+- [Medicine](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/primary-sources/medicine/)
+- [Important Fiction with a Political Edge](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/primary-sources/important-fiction-with-a-political-edge/)
+- [Collections of Documents and Sources (18th Century)](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/primary-sources/documents-and-sources/)
+- [Diplomacy](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/primary-sources/diplomacy/)
+- [Primary Sources](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/primary-sources/)
+- [Discussion Questions](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/discussion-questions/)
+- [Russia&#39;s Imperial Presence](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/primary-sources/russias-imperial-presence/)
+- [Men&#39;s Memoirs, Literature, and Letters](https://ocw.mit.edu/courses/21h-244j-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2019/pages/primary-sources/mens-memoirs-literature-and-letters/)
 ## Wikipedia Bridge
 
 ### Related Articles

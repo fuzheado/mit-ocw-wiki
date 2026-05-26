@@ -12,6 +12,8 @@ views: 477
 completeness: 0.25
 last_modified: "2026-05-06T17:05:30Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Reading-List: 1, Resource: 2, Syllabus: 2"
 ---
 
 # Parallel Programming for Multicore Machines Using OpenMP and MPI
@@ -30,9 +32,22 @@ This course introduces fundamentals of shared and distributed memory programming
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/pages/assignments/)
+
+### Resource
+- [Tools](https://ocw.mit.edu/courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/pages/tools/)
+- [Related Resources](https://ocw.mit.edu/courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

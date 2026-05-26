@@ -12,6 +12,9 @@ views: 110
 completeness: 0.12
 last_modified: "2026-05-06T14:55:40Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 6, Reading-List: 1, Resource: 9, Syllabus: 2"
+api_id: 4660
 ---
 
 # Foundations of Western Culture II
@@ -31,8 +34,29 @@ Readings this semester ranging from political theory and oratory to autobiograph
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-ii-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-ii-fall-2002/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-ii-fall-2002/pages/readings/)
+
+### Problem-Set
+- [Giving your Presentation: Suggestions and Guidelines (.pdf)](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-ii-fall-2002/resources/presentations/)
+- [Speaking for the Dead: as a Response to History (.pdf)](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-ii-fall-2002/resources/lastessay/)
+- [ Essay 3 (.pdf)](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-ii-fall-2002/resources/essay3/)
+- [Essay #2: Topics and Dates (.pdf)](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-ii-fall-2002/resources/essay2/)
+- [First Essay (.pdf)](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-ii-fall-2002/resources/essay1/)
+- [Assignments](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-ii-fall-2002/pages/assignments/)
+
+### Resource
+- [Outline for Michael Ondaatje, Anil‘s Ghost  (.pdf)](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-ii-fall-2002/resources/outline3/)
+- [Uncle Tom's Cabin, Volume 2 (.pdf)](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-ii-fall-2002/resources/outline2/)
+- [Uncle Tom's Cabin, Volume 1 (.pdf)](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-ii-fall-2002/resources/outline1/)
+- [Mock on, Mock on, Voltaire, Rousseau (.pdf)](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-ii-fall-2002/resources/blake/)
+- [Beacon Hill (.jpg)](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-ii-fall-2002/resources/21l-002f02/)
+- [Beacon Hill (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-ii-fall-2002/resources/21l-002f02-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-ii-fall-2002/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,8 @@ views: 27
 completeness: 0.09666666666666668
 last_modified: "2026-05-06T17:05:52Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Problem-Set: 1, Syllabus: 2, Video-Transcript: 1"
 ---
 
 # Experimental Methods of Adjustable Tetrode Array Neurophysiology
@@ -30,9 +32,18 @@ Students will be exposed to all aspects of a cutting-edge technique in modern el
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysiology-january-iap-2001/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysiology-january-iap-2001/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysiology-january-iap-2001/pages/lecture-notes/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysiology-january-iap-2001/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysiology-january-iap-2001/pages/projects/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 155
 completeness: 0.0
 last_modified: "2026-05-06T17:07:53Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 4, Syllabus: 1"
+api_id: 4186
 ---
 
 # COVID-19, SARS-CoV-2, and the Pandemic
@@ -31,8 +34,13 @@ Lectures will be given by leading experts on the fundamentals of coronavirus and
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/7-00-covid-19-sars-cov-2-and-the-pandemic-fall-2021/pages/calendar/)
 
+### Resource
+- [7-00f21.jpg (.jpg)](https://ocw.mit.edu/courses/7-00-covid-19-sars-cov-2-and-the-pandemic-fall-2021/resources/7-00f21/)
+- [7-00f21-th.jpg (.jpg)](https://ocw.mit.edu/courses/7-00-covid-19-sars-cov-2-and-the-pandemic-fall-2021/resources/7-00f21-th/)
+- [Syllabus](https://ocw.mit.edu/courses/7-00-covid-19-sars-cov-2-and-the-pandemic-fall-2021/pages/syllabus/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 77
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:25:19Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 2, Resource: 7, Syllabus: 2"
+api_id: 4916
 ---
 
 # Gender, Race, and the Construction of the American West
@@ -32,9 +35,24 @@ This course is part of the Graduate Consortium in Women’s Studies. The GCWS at
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014/pages/syllabus/)
 
+### Reading-List
+- [Recommended Readings](https://ocw.mit.edu/courses/wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014/pages/readings/recommended-readings/)
+- [Readings](https://ocw.mit.edu/courses/wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014/pages/readings/)
+
+### Problem-Set
+- [Passions, Property, and Power: Mexican-Anglo Marriage in the Spanish Borderlands (.pdf)](https://ocw.mit.edu/courses/wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014/resources/mitwgs_640f14_intrmarriage/)
+- [Assignments](https://ocw.mit.edu/courses/wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014/pages/assignments/)
+
+### Resource
+- [A Young Pomo Woman (.jpg)](https://ocw.mit.edu/courses/wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014/resources/wgs-640f14/)
+- [A Young Pomo Woman (thumbnail) (.jpg)](https://ocw.mit.edu/courses/wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014/resources/wgs-640f14-th/)
+- [WGS-640_stat-students (.png)](https://ocw.mit.edu/courses/wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014/resources/wgs-640_stat-students/)
+- [WGS-640_classroom-1 (.jpg)](https://ocw.mit.edu/courses/wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014/resources/wgs-640_classroom-1/)
+- [Instructor Insights](https://ocw.mit.edu/courses/wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

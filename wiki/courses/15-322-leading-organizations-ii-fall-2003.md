@@ -12,6 +12,9 @@ views: 217
 completeness: 0.06666666666666667
 last_modified: "2026-05-06T14:47:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 8, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4993
 ---
 
 # Leading Organizations II
@@ -30,8 +33,26 @@ Through lectures, discussions, and class exercises, 15.322 analyzes the human pr
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-322-leading-organizations-ii-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-322-leading-organizations-ii-fall-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [ses9_mangaging_change.pdf (.pdf)](https://ocw.mit.edu/courses/15-322-leading-organizations-ii-fall-2003/resources/ses9_mangaging_change/)
+- [ses8_cultural_rules.pdf (.pdf)](https://ocw.mit.edu/courses/15-322-leading-organizations-ii-fall-2003/resources/ses8_cultural_rules/)
+- [ses6_power_and_networks.pdf (.pdf)](https://ocw.mit.edu/courses/15-322-leading-organizations-ii-fall-2003/resources/ses6_power_and_networks/)
+- [ses5_lincoln_electric.pdf (.pdf)](https://ocw.mit.edu/courses/15-322-leading-organizations-ii-fall-2003/resources/ses5_lincoln_electric/)
+- [ses4_three_lenses.pdf (.pdf)](https://ocw.mit.edu/courses/15-322-leading-organizations-ii-fall-2003/resources/ses4_three_lenses/)
+- [ses1_new_organization.pdf (.pdf)](https://ocw.mit.edu/courses/15-322-leading-organizations-ii-fall-2003/resources/ses1_new_organization/)
+- [lec5_learning_task.pdf (.pdf)](https://ocw.mit.edu/courses/15-322-leading-organizations-ii-fall-2003/resources/lec5_learning_task/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-322-leading-organizations-ii-fall-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-322-leading-organizations-ii-fall-2003/pages/readings/)
+
+### Resource
+- [15-322f03.jpg (.jpg)](https://ocw.mit.edu/courses/15-322-leading-organizations-ii-fall-2003/resources/15-322f03/)
+- [15-322f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-322-leading-organizations-ii-fall-2003/resources/15-322f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

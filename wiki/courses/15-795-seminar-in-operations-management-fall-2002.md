@@ -12,6 +12,9 @@ views: 429
 completeness: 0.061666666666666675
 last_modified: "2026-05-06T16:48:34Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 5, Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 1"
+api_id: 5742
 ---
 
 # Seminar in Operations Management
@@ -30,8 +33,27 @@ This seminar will explore the purposes and development of Technology Roadmaps fo
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-795-seminar-in-operations-management-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-795-seminar-in-operations-management-fall-2002/pages/syllabus/)
 
+### Lecture-Notes
+- [Technology Roadmapping: Day One (.pdf)](https://ocw.mit.edu/courses/15-795-seminar-in-operations-management-fall-2002/resources/trm15795classoverview/)
+- [Strategic Supply Chain Design (.pdf)](https://ocw.mit.edu/courses/15-795-seminar-in-operations-management-fall-2002/resources/stratsupply_chain_mit_fine_021102_lect_2/)
+- [Architectures and Roadmaps for Communications and Media (.pdf)](https://ocw.mit.edu/courses/15-795-seminar-in-operations-management-fall-2002/resources/lec_4/)
+- [Roadmapping the Communications Value Chain (.pdf)](https://ocw.mit.edu/courses/15-795-seminar-in-operations-management-fall-2002/resources/commroadmapmitfine021102/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-795-seminar-in-operations-management-fall-2002/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-795-seminar-in-operations-management-fall-2002/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-795-seminar-in-operations-management-fall-2002/pages/assignments/)
+
+### Resource
+- [Roadmap (.jpg)](https://ocw.mit.edu/courses/15-795-seminar-in-operations-management-fall-2002/resources/15-795f02/)
+- [Roadmap (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-795-seminar-in-operations-management-fall-2002/resources/15-795f02-th/)
+- [Related Resources](https://ocw.mit.edu/courses/15-795-seminar-in-operations-management-fall-2002/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

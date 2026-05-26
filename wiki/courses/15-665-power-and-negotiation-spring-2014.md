@@ -12,6 +12,9 @@ views: 1136
 completeness: 0.10333333333333335
 last_modified: "2026-05-06T16:55:30Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 10, Problem-Set: 1, Reading-List: 1, Resource: 7, Syllabus: 2, Video-Transcript: 9"
+api_id: 5560
 ---
 
 # Power and Negotiation
@@ -30,11 +33,34 @@ This course provides understanding of the theory and processes of negotiation as
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture 9: Multiparty Negotiations and Coalitions - 15.665 Spring 2014 (.pdf)](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/resources/mit15_665s14_class_9_lect/)
+- [Lecture 8: Autonomy and Status - 15.665 Spring 2014 (.pdf)](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/resources/mit15_665s14_class_8_lect/)
+- [Lecture 7: Cross-Cultural Negotiation - 15.665 Spring 2014 (.pdf)](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/resources/mit15_665s14_class_7_lect/)
+- [Lecture 6: Relationships - 15.665 Spring 2014 (.pdf)](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/resources/mit15_665s14_class_6_lect/)
+- [Lecture 5: Overcoming Obstacles - 15.665 Spring 2014 (.pdf)](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/resources/mit15_665s14_class_5_lect/)
+- [Lecture 4: Negotiator's Dilemma - 15.665 Spring 2014 (.pdf)](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/resources/mit15_665s14_class_4_lect/)
+- [Lecture 3: Expanding the Pie - 15.665 Spring 2014 (.pdf)](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/resources/mit15_665s14_class_3_lect/)
+- [Lecture 2: Slicing the Pie - 15.665 Spring 2014 (.pdf)](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/resources/mit15_665s14_class_2_lect/)
+- [Lecture 10: Fairness and Ethics - 15.665 Spring 2014 (.pdf)](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/resources/mit15_665s14_class_10_lect/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/pages/assignments/)
+
+### Resource
+- [15-665s14.jpg (.jpg)](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/resources/15-665s14/)
+- [15-665s14-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/resources/15-665s14-th/)
+- [15-665_stat-students.png (.png)](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/resources/15-665_stat-students/)
+- [15-665_classroom-1.jpg (.jpg)](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/resources/15-665_classroom-1/)
+- [Instructor Insights](https://ocw.mit.edu/courses/15-665-power-and-negotiation-spring-2014/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

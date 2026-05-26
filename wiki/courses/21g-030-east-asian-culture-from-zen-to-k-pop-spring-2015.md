@@ -12,6 +12,9 @@ views: 424
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:07:57Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 2, Reading-List: 1, Resource: 6, Syllabus: 2, Video-Transcript: 10"
+api_id: 3369
 ---
 
 # East Asian Culture: From Zen to K-Pop
@@ -33,10 +36,21 @@ The course includes field trips to the Museum of Fine Arts and the Peabody Essex
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Projects] Projects
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-030-east-asian-culture-from-zen-to-k-pop-spring-2015/pages/calendar/)
+- **Final Project** — [🔗](https://ocw.mit.edu/courses/21g-030-east-asian-culture-from-zen-to-k-pop-spring-2015/pages/final-project/)
+- **Related Resources** — [🔗](https://ocw.mit.edu/courses/21g-030-east-asian-culture-from-zen-to-k-pop-spring-2015/pages/related-resources/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-030-east-asian-culture-from-zen-to-k-pop-spring-2015/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-030-east-asian-culture-from-zen-to-k-pop-spring-2015/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21g-030-east-asian-culture-from-zen-to-k-pop-spring-2015/pages/assignments/)
+
+### Resource
+- [Chinatown Shop Window (.jpg)](https://ocw.mit.edu/courses/21g-030-east-asian-culture-from-zen-to-k-pop-spring-2015/resources/21g-030s15/)
+- [Chinatown Shop Window (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-030-east-asian-culture-from-zen-to-k-pop-spring-2015/resources/21g-030s15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

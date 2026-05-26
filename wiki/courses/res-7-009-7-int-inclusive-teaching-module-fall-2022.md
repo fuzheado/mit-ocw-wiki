@@ -12,6 +12,9 @@ views: 69
 completeness: 0.0
 last_modified: "2026-05-06T14:57:26Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 6"
+api_id: 4385
 ---
 
 # 7.InT: Inclusive Teaching Module
@@ -31,11 +34,13 @@ As part of the Open Learning Library (OLL), this course is free to use. You have
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Multiple Assignment Types with Solutions] Multiple Assignment Types with Solutions
-- [Readings] Readings
-- [Videos] Videos
-
+### Resource
+- [res7-009f22.jpg (.jpg)](https://ocw.mit.edu/courses/res-7-009-7-int-inclusive-teaching-module-fall-2022/resources/res7-009f22_jpg/)
+- [res7-009f22-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-7-009-7-int-inclusive-teaching-module-fall-2022/resources/res7-009f22-th_jpg/)
+- [Blended Inclusive Teaching Workshop Facilitation Guide (.pdf)](https://ocw.mit.edu/courses/res-7-009-7-int-inclusive-teaching-module-fall-2022/resources/mitres_7_009_f22_facilitation_guide_incl_teach_pdf/)
+- [Appendix file (.zip)](https://ocw.mit.edu/courses/res-7-009-7-int-inclusive-teaching-module-fall-2022/resources/mitres_7_009_f22_appendix_zip/)
+- [Instructor Insights](https://ocw.mit.edu/courses/res-7-009-7-int-inclusive-teaching-module-fall-2022/pages/instructor-insights/)
+- [About the Inclusive Teaching Module](https://ocw.mit.edu/courses/res-7-009-7-int-inclusive-teaching-module-fall-2022/pages/about-the-inclusive-teaching-module/)
 ## Wikipedia Bridge
 
 ### Related Articles

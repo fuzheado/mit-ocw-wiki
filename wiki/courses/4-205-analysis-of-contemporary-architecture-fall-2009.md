@@ -12,6 +12,9 @@ views: 508
 completeness: 0.0
 last_modified: "2026-05-06T17:12:11Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 5, Reading-List: 2, Resource: 2, Syllabus: 1"
+api_id: 3319
 ---
 
 # Analysis of Contemporary Architecture
@@ -30,8 +33,22 @@ The goal of this course is to investigate with students backgrounds on some of t
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-205-analysis-of-contemporary-architecture-fall-2009/pages/syllabus/)
 
+### Reading-List
+- [The Tall Office Building Artistically Considered (.pdf)](https://ocw.mit.edu/courses/4-205-analysis-of-contemporary-architecture-fall-2009/resources/mit4_205f09_sullivan/)
+- [Readings](https://ocw.mit.edu/courses/4-205-analysis-of-contemporary-architecture-fall-2009/pages/readings/)
+
+### Assignment
+- [Victoria McAlmon House (.pdf)](https://ocw.mit.edu/courses/4-205-analysis-of-contemporary-architecture-fall-2009/resources/sw3_pdf/)
+- [Kaufmann Desert House (.pdf)](https://ocw.mit.edu/courses/4-205-analysis-of-contemporary-architecture-fall-2009/resources/sw1_pdf/)
+- [Taliesin West (.pdf)](https://ocw.mit.edu/courses/4-205-analysis-of-contemporary-architecture-fall-2009/resources/mit4_205f09_sw2/)
+- [Building list and bibliography notes (.pdf)](https://ocw.mit.edu/courses/4-205-analysis-of-contemporary-architecture-fall-2009/resources/mit4_205f09_assn/)
+- [Projects](https://ocw.mit.edu/courses/4-205-analysis-of-contemporary-architecture-fall-2009/pages/projects/)
+
+### Resource
+- [Photograph of the Villa Muller in Prague (.jpg)](https://ocw.mit.edu/courses/4-205-analysis-of-contemporary-architecture-fall-2009/resources/4-205f09/)
 ## Wikipedia Bridge
 
 ### Related Articles

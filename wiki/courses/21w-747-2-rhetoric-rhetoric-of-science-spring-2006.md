@@ -12,6 +12,9 @@ views: 294
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:55:32Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 5430
 ---
 
 # Rhetoric: Rhetoric of Science
@@ -30,9 +33,19 @@ This course is an introduction to the history, theory, practice, and implication
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21w-747-2-rhetoric-rhetoric-of-science-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21w-747-2-rhetoric-rhetoric-of-science-spring-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21w-747-2-rhetoric-rhetoric-of-science-spring-2006/pages/assignments/)
+
+### Resource
+- [Galileo (.jpg)](https://ocw.mit.edu/courses/21w-747-2-rhetoric-rhetoric-of-science-spring-2006/resources/21w-747-2s06/)
+- [Galileo (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21w-747-2-rhetoric-rhetoric-of-science-spring-2006/resources/21w-747-2s06-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21w-747-2-rhetoric-rhetoric-of-science-spring-2006/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

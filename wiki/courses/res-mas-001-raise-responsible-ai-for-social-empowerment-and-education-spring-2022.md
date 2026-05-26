@@ -12,6 +12,9 @@ views: 761
 completeness: 0.0
 last_modified: "2026-05-06T17:01:29Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 4601
 ---
 
 # RAISE (Responsible AI for Social Empowerment and Education)
@@ -30,8 +33,9 @@ RAISE&nbsp;(Responsible AI for Social Empowerment and Education) is a new MIT-wi
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [res-mas-001s22.jpg (.jpg)](https://ocw.mit.edu/courses/res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022/resources/res-mas-001s22/)
+- [res-mas-001s22-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022/resources/res-mas-001s22-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

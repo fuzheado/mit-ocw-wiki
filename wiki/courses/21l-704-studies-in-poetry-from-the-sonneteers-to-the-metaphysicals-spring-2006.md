@@ -12,6 +12,9 @@ views: 128
 completeness: 0.2
 last_modified: "2026-05-06T14:50:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 10, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5621
 ---
 
 # Studies in Poetry: From the Sonneteers to the Metaphysicals
@@ -30,9 +33,29 @@ This course introduces students to some of the most important practitioners of p
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/pages/readings/)
+
+### Problem-Set
+- [sonnet_meg.pdf (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/resources/sonnet_meg/)
+- [shakespeare_meg.pdf (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/resources/shakespeare_meg/)
+- [prospet_biblio.pdf (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/resources/prospet_biblio/)
+- [oral_present.pdf (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/resources/oral_present/)
+- [meghan_sonnet.pdf (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/resources/meghan_sonnet/)
+- [jennykim_sonnets.pdf (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/resources/jennykim_sonnets/)
+- [bib_project.pdf (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/resources/bib_project/)
+- [21L704sonnetsjon.pdf (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/resources/21l704sonnetsjon/)
+- [21l704_paper2.pdf (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/resources/21l704_paper2/)
+- [Assignments](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/pages/assignments/)
+
+### Resource
+- [poetry.jpg (.jpg)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/resources/poetry/)
+- [21l-704s06.jpg (.jpg)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/resources/21l-704s06/)
+- [21l-704s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/resources/21l-704s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

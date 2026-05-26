@@ -12,6 +12,9 @@ views: 527
 completeness: 0.0
 last_modified: "2026-05-06T16:58:23Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Reading-List: 1, Resource: 13, Syllabus: 2, Video-Transcript: 1"
+api_id: 5269
 ---
 
 # Intermediate Heat and Mass Transfer
@@ -30,8 +33,25 @@ type: "course"
 
 ## Materials
 
-- [Open Textbooks] Open Textbooks
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/pages/readings/)
+
+### Resource
+- [Guide for the Use of the International System of Units (SI) (.pdf)](https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/resources/sp811/)
+- [MATLAB®/PDEToolHints (.pdf)](https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/resources/matlab/)
+- [Modeling Heat Flow using MATLAB® and PDEToolbox (.pdf)](https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/resources/heatflow/)
+- [Jean Baptiste Joseph Fourier (.jpg)](https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/resources/fourier/)
+- [Selected Conversion Factors (.pdf)](https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/resources/factors/)
+- [Selected Physical Constants (.pdf)](https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/resources/constants/)
+- [2-51f08.jpg (.jpg)](https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/resources/2-51f08/)
+- [2-51f08-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/resources/2-51f08-th/)
+- [Tools](https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/pages/tools/)
+- [Study Materials](https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,8 @@ views: 829
 completeness: 0.20333333333333334
 last_modified: "2026-05-06T17:20:17Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Syllabus: 1"
 ---
 
 # Introduction to C Memory Management and C++ Object-Oriented Programming
@@ -37,9 +39,14 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Programming Assignments] Programming Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/pages/lecture-notes/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/pages/assignments/)
 ## Wikipedia Bridge
 
 ### Related Articles

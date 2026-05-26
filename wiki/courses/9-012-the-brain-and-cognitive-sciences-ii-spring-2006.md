@@ -12,6 +12,9 @@ views: 451
 completeness: 0.0
 last_modified: "2026-05-06T17:01:58Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 5, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5288
 ---
 
 # The Brain and Cognitive Sciences II
@@ -30,8 +33,24 @@ This class is the second half of an intensive survey of cognitive science for fi
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/pages/readings/)
+
+### Assignment
+- [Imagine the Taj Majal (.pdf)](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/resources/tkonkle_presenta/)
+- [Social Cognition (.pdf)](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/resources/ntwarog_presenta/)
+- [Language Acquisition (.pdf)](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/resources/mfrank_presentat/)
+- [Moral judgment (.pdf)](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/resources/ktsourides_prese/)
+- [Projects](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/pages/projects/)
+
+### Resource
+- [Cognition (.jpg)](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/resources/9-012s06/)
+- [Cognition (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/resources/9-012s06-th/)
+- [Related Resources](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

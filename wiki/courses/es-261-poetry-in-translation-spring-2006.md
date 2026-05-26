@@ -12,6 +12,9 @@ views: 163
 completeness: 0.0
 last_modified: "2026-05-06T15:02:22Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 2"
+api_id: 5513
 ---
 
 # Poetry in Translation
@@ -30,8 +33,14 @@ This seminar addresses the inherent challenges of translating poetry from differ
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/es-261-poetry-in-translation-spring-2006/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/es-261-poetry-in-translation-spring-2006/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/es-261-poetry-in-translation-spring-2006/pages/syllabus/)
 
+### Resource
+- [Magnetic Poetry and Pages (.jpg)](https://ocw.mit.edu/courses/es-261-poetry-in-translation-spring-2006/resources/magpoetry/)
+- [Magnetic Poetry and Pages (thumbnail) (.jpg)](https://ocw.mit.edu/courses/es-261-poetry-in-translation-spring-2006/resources/es-261s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

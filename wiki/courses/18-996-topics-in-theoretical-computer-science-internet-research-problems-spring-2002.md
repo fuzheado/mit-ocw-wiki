@@ -12,6 +12,9 @@ views: 78
 completeness: 0.18333333333333335
 last_modified: "2026-05-06T16:54:23Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 22, Resource: 8, Syllabus: 2"
+api_id: 4083
 ---
 
 # Topics in Theoretical Computer Science : Internet Research Problems
@@ -37,8 +40,41 @@ A modest amount of background information will be provided so that the importanc
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/pages/syllabus/)
 
+### Lecture-Notes
+- [load_assignment.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/load_assignment/)
+- [lecture_mit_6.tex (.tex)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lecture_mit_62/)
+- [lecture_mit_6.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lecture_mit_6/)
+- [lecture9.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lecture9/)
+- [lecture2_mit.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lecture2_mit/)
+- [lecture13.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lecture13/)
+- [lect9present.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lect9present/)
+- [lect7.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lect7/)
+- [lect5.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lect5/)
+- [lect3_talk_mit.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lect3_talk_mit/)
+- [lect3_mit.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lect3_mit/)
+- [lect1_mit.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lect1_mit/)
+- [lect15.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lect15/)
+- [lect11b_mit.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lect11b_mit/)
+- [lect11a_mit.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lect11a_mit/)
+- [lec5.tex (.tex)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lec5/)
+- [lec2present.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lec2present/)
+- [lec1present.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lec1present/)
+- [lec14.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lec14/)
+- [lec13present.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/lec13present/)
+- [dns.pdf (.pdf)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/dns/)
+- [Lecture Notes](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/pages/lecture-notes/)
+
+### Resource
+- [scribe12.tex (.tex)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/scribe12/)
+- [scribe.sty (.sty)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/scribe/)
+- [nocc.gif (.gif)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/nocc/)
+- [18-996as04.jpg (.jpg)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/18-996as04/)
+- [18-996as04-th.jpg (.jpg)](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/resources/18-996as04-th/)
+- [Tools](https://ocw.mit.edu/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/pages/tools/)
 ## Wikipedia Bridge
 
 ### Related Articles

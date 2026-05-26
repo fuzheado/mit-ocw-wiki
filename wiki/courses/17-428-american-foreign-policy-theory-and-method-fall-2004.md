@@ -12,6 +12,9 @@ views: 100
 completeness: 0.12
 last_modified: "2026-05-06T17:23:48Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 6, Reading-List: 2, Resource: 7, Syllabus: 2"
+api_id: 4001
 ---
 
 # American Foreign Policy: Theory and Method
@@ -43,8 +46,28 @@ Historical episodes covered in the course are used as raw material for case stud
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [readings_17_428.pdf (.pdf)](https://ocw.mit.edu/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/resources/readings_17_428/)
+- [Readings](https://ocw.mit.edu/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/pages/readings/)
+
+### Problem-Set
+- [17_428assn_ppr2.pdf (.pdf)](https://ocw.mit.edu/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/resources/17_428assn_ppr2/)
+- [17_428assn_ppr1.pdf (.pdf)](https://ocw.mit.edu/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/resources/17_428assn_ppr1/)
+- [17_428_assn_the.pdf (.pdf)](https://ocw.mit.edu/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/resources/17_428_assn_the/)
+- [17_428_assn_arch.pdf (.pdf)](https://ocw.mit.edu/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/resources/17_428_assn_arch/)
+- [17428_assn_arch.pdf (.pdf)](https://ocw.mit.edu/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/resources/17428_assn_arch/)
+- [Assignments](https://ocw.mit.edu/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/pages/assignments/)
+
+### Resource
+- [st_mat_17_428.pdf (.pdf)](https://ocw.mit.edu/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/resources/st_mat_17_428/)
+- [chp_amrcnfrgnpol.jpg (.jpg)](https://ocw.mit.edu/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/resources/chp_amrcnfrgnpol/)
+- [17-428f04.jpg (.jpg)](https://ocw.mit.edu/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/resources/17-428f04/)
+- [17-428f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/resources/17-428f04-th/)
+- [Study Materials](https://ocw.mit.edu/courses/17-428-american-foreign-policy-theory-and-method-fall-2004/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

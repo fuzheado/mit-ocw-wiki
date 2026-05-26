@@ -12,6 +12,9 @@ views: 257
 completeness: 0.4
 last_modified: "2026-05-06T17:11:33Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Problem-Set: 14, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4774
 ---
 
 # Queues: Theory and Applications
@@ -30,10 +33,36 @@ This class deals with the modeling and analysis of queueing systems, with applic
 
 ## Materials
 
-- [Exams] Exams
-- [Problem Sets] Problem Sets
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/pages/readings/)
+
+### Problem-Set
+- [sol5.pdf (.pdf)](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/resources/sol5/)
+- [sol4.pdf (.pdf)](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/resources/sol4/)
+- [sol3.pdf (.pdf)](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/resources/sol3/)
+- [sol2.pdf (.pdf)](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/resources/sol2/)
+- [sol1.pdf (.pdf)](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/resources/sol1/)
+- [ps5.pdf (.pdf)](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/resources/ps5/)
+- [ps4.pdf (.pdf)](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/resources/ps4/)
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/resources/ps3/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/resources/ps2/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/resources/ps1/)
+- [midterm.pdf (.pdf)](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/resources/midterm/)
+- [final.pdf (.pdf)](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/resources/final/)
+- [Exams](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/pages/assignments/)
+
+### Assignment
+- [project.pdf (.pdf)](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/resources/project/)
+- [Projects](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/pages/projects/)
+
+### Resource
+- [15-072js06-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/resources/15-072js06-th/)
+- [15-072js06-.jpg (.jpg)](https://ocw.mit.edu/courses/15-072j-queues-theory-and-applications-spring-2006/resources/15-072js06-/)
 ## Wikipedia Bridge
 
 ### Related Articles

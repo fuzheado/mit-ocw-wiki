@@ -12,6 +12,9 @@ views: 116
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:09:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 4343
 ---
 
 # Media in Transition
@@ -30,8 +33,17 @@ This course centers on historical eras in which the form and function of media t
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/cms-801-media-in-transition-fall-2012/pages/assignments/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/cms-801-media-in-transition-fall-2012/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/cms-801-media-in-transition-fall-2012/pages/syllabus/)
 
+### Problem-Set
+- [First Paper Assignment](https://ocw.mit.edu/courses/cms-801-media-in-transition-fall-2012/pages/assignments/first-paper-assignment/)
+- [Final Paper Assignment](https://ocw.mit.edu/courses/cms-801-media-in-transition-fall-2012/pages/assignments/final-paper-assignment/)
+
+### Resource
+- [An illustrated image of Blanche Walsh, as Juliet from Romeo and Juliet, holding a Nook color (.jpg)](https://ocw.mit.edu/courses/cms-801-media-in-transition-fall-2012/resources/cms-801f12/)
 ## Wikipedia Bridge
 
 ### Related Articles

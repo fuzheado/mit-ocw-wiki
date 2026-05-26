@@ -12,6 +12,9 @@ views: 757
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:00:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 8, Syllabus: 1"
+api_id: 5704
 ---
 
 # Classical Mechanics: A Computational Approach
@@ -32,8 +35,23 @@ Ideas will be illustrated and supported with physical examples. We will make ext
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/pages/assignments/)
+
+### Resource
+- [Poincaré Equations (.pdf)](https://ocw.mit.edu/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/resources/mit12_620jf08_study04/)
+- [SCMUTILS Reference Manual (.pdf)](https://ocw.mit.edu/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/resources/mit12_620jf08_study03/)
+- [Graphics in Scmutils (.pdf)](https://ocw.mit.edu/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/resources/mit12_620jf08_study02/)
+- [Getting Started (.pdf)](https://ocw.mit.edu/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/resources/mit12_620jf08_study01/)
+- [Structure and Interpretation of Classical Mechanics (.jpg)](https://ocw.mit.edu/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/resources/12-620jf08/)
+- [Tools](https://ocw.mit.edu/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/pages/tools/)
+- [Study Materials](https://ocw.mit.edu/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,8 @@ views: 940
 completeness: 0.2
 last_modified: "2026-05-06T17:11:08Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Syllabus: 1"
 ---
 
 # System Dynamics Self Study
@@ -30,9 +32,14 @@ Many books and thousands of papers cover the field of system dynamics. With all 
 
 ## Materials
 
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/pages/assignments/)
 ## Wikipedia Bridge
 
 ### Related Articles

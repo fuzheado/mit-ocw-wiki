@@ -12,6 +12,9 @@ views: 206
 completeness: 0.03333333333333333
 last_modified: "2026-05-06T17:08:40Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 3, Lecture-Notes: 4, Resource: 5, Syllabus: 2"
+api_id: 3872
 ---
 
 # Common Sense Reasoning for Interactive Applications
@@ -31,8 +34,25 @@ Course requirements will consist of critiques of class readings (about 2 papers/
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002/pages/syllabus/)
 
+### Lecture-Notes
+- [thoughts_part1.pdf (.pdf)](https://ocw.mit.edu/courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002/resources/thoughts_part1/)
+- [Common Sense Inference (.pdf)](https://ocw.mit.edu/courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002/resources/lec_noter_henry_2/)
+- [Common Sense Reasoning for Interactive Applications (.pdf)](https://ocw.mit.edu/courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002/resources/lec_noter_henry_1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002/pages/lecture-notes/)
+
+### Assignment
+- [Acquiring Common Sense Through Simulation (.pdf)](https://ocw.mit.edu/courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002/resources/proj_file3/)
+- [The Common Sense DJ (.pdf)](https://ocw.mit.edu/courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002/resources/proj_file1/)
+- [Projects](https://ocw.mit.edu/courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002/pages/projects/)
+
+### Resource
+- [Student Project (.jpg)](https://ocw.mit.edu/courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002/resources/mas-964f02/)
+- [Student Project (thumbnail) (.jpg)](https://ocw.mit.edu/courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002/resources/mas-964f02-th/)
+- [Related Resources](https://ocw.mit.edu/courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

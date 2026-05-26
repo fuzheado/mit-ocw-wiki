@@ -35,16 +35,23 @@
       "pure_function_extracted": true,
       "test_suite": "50 tests, all passing (28 linter + 22 insert)",
       "pages_fixed": 8,
-      "notes": "Three fix types: multi_bullet, bullet_syntax, duplicate_url. Insert: build_refideas_wikitext (pure fn, 22 tests) + refideas_add (orchestrator + dedup) + l1_insert_refideas (OCW wrapper). Generic CLI: refideas-add.py. Editing via bot password in .env."
+      "pages_refideas_added": 7,
+      "notes": "Three fix types: multi_bullet, bullet_syntax, duplicate_url. Insert: build_refideas_wikitext (pure fn, 22 tests) + refideas_add (orchestrator + dedup) + l1_insert_refideas (OCW wrapper). Generic CLI: refideas-add.py. Editing via bot password in .env. 4 refideas posted: Algorithm (6.006), Carbon dioxide (5.111SC), Earth Day (11.165), El Ni\u00f1o (12.800)."
     },
     "l2_external_links": {
       "complete": false,
       "protocol_designed": true,
       "notes": "Designed in docs/CONTRIBUTION-LEVELS.md. Processing not yet validated."
     },
-    "l3_citation_needed": { "complete": false },
-    "l4_missing_information": { "complete": false },
-    "l5_new_content": { "complete": false },
+    "l3_citation_needed": {
+      "complete": false
+    },
+    "l4_missing_information": {
+      "complete": false
+    },
+    "l5_new_content": {
+      "complete": false
+    },
     "lint_report": false
   },
   "stats": {

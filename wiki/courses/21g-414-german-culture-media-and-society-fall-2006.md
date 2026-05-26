@@ -12,6 +12,9 @@ views: 262
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:19:16Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 1, Video-Transcript: 4"
+api_id: 5481
 ---
 
 # German Culture, Media, and Society
@@ -30,8 +33,23 @@ The topic for Fall 2006 is short film and radio plays. This course investigates 
 
 ## Materials
 
-- [Projects] Projects
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-414-german-culture-media-and-society-fall-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-414-german-culture-media-and-society-fall-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21g-414-german-culture-media-and-society-fall-2006/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/21g-414-german-culture-media-and-society-fall-2006/pages/projects/)
+
+### Resource
+- [German Culture, Media, and Society (.jpg)](https://ocw.mit.edu/courses/21g-414-german-culture-media-and-society-fall-2006/resources/21g-414f06/)
+- [German Culture, Media, and Society (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-414-german-culture-media-and-society-fall-2006/resources/21g-414f06-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21g-414-german-culture-media-and-society-fall-2006/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/21g-414-german-culture-media-and-society-fall-2006/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

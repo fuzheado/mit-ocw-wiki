@@ -12,6 +12,9 @@ views: 349
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:04:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 5721
 ---
 
 # Metropolis: History of New York City
@@ -33,8 +36,18 @@ In less tongue-in-cheek style, this course examines the evolution of New York Ci
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-235-metropolis-history-of-new-york-city-fall-2009/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-235-metropolis-history-of-new-york-city-fall-2009/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-235-metropolis-history-of-new-york-city-fall-2009/pages/assignments/)
+- [Bibliography ](https://ocw.mit.edu/courses/21h-235-metropolis-history-of-new-york-city-fall-2009/pages/assignments/bibliography/)
+
+### Resource
+- [Black and white photo of two girls and two boys, standing in front of a shoeshine stand (.jpg)](https://ocw.mit.edu/courses/21h-235-metropolis-history-of-new-york-city-fall-2009/resources/21h-235f09/)
 ## Wikipedia Bridge
 
 ### Related Articles

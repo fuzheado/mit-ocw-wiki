@@ -12,6 +12,9 @@ views: 391
 completeness: 0.2
 last_modified: "2026-05-06T14:50:10Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 3, Problem-Set: 11, Reading-List: 2, Resource: 11, Syllabus: 2, Video-Transcript: 3"
+api_id: 5464
 ---
 
 # Writing About Literature: Writing About Love
@@ -30,8 +33,27 @@ This course is designed around analyzing intimate bonds and the permutations of 
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **A Love Letter** — [🔗](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-writing-about-love-fall-2015/pages/assignments/a-love-letter/)
+- **Beloved** — [🔗](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-writing-about-love-fall-2015/pages/assignments/beloved/)
+- **Benito Cereno** — [🔗](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-writing-about-love-fall-2015/pages/assignments/benito-cereno/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-writing-about-love-fall-2015/pages/calendar/)
+- **Essay 1** — [🔗](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-writing-about-love-fall-2015/pages/assignments/essay-1/)
+- **Essay 2** — [🔗](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-writing-about-love-fall-2015/pages/assignments/essay-2/)
+- **Essay 3** — [🔗](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-writing-about-love-fall-2015/pages/assignments/essay-3/)
+- **Fun Home** — [🔗](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-writing-about-love-fall-2015/pages/assignments/fun-home/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-writing-about-love-fall-2015/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-writing-about-love-fall-2015/pages/syllabus/)
+- **The Great Gatsby** — [🔗](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-writing-about-love-fall-2015/pages/assignments/the-great-gatsby/)
+- **Waitress Pie Recipe** — [🔗](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-writing-about-love-fall-2015/pages/assignments/waitress-pie-recipe/)
+- **Woman Hollering Creek and Other Stories** — [🔗](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-writing-about-love-fall-2015/pages/assignments/woman-hollering-creek-and-other-stories/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-writing-about-love-fall-2015/pages/assignments/)
+
+### Resource
+- [21L-000f16.jpg (.jpg)](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-writing-about-love-fall-2015/resources/21l-000f16/)
+- [21L-000f16-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-000j-writing-about-literature-writing-about-love-fall-2015/resources/21l-000f16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

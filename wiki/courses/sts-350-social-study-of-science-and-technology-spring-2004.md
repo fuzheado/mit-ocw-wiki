@@ -12,6 +12,9 @@ views: 279
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:22:15Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3649
 ---
 
 # Social Study of Science and Technology
@@ -37,8 +40,19 @@ Examining intersections and disruptions of these genres of reproduction, we seek
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/sts-350-social-study-of-science-and-technology-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-350-social-study-of-science-and-technology-spring-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/sts-350-social-study-of-science-and-technology-spring-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/sts-350-social-study-of-science-and-technology-spring-2004/pages/assignments/)
+
+### Resource
+- [Robot (.jpg)](https://ocw.mit.edu/courses/sts-350-social-study-of-science-and-technology-spring-2004/resources/sts-350s04/)
+- [Robot (thumbnail) (.jpg)](https://ocw.mit.edu/courses/sts-350-social-study-of-science-and-technology-spring-2004/resources/sts-350s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

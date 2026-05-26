@@ -12,6 +12,9 @@ views: 499
 completeness: 0.05333333333333334
 last_modified: "2026-05-06T16:48:35Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 4, Problem-Set: 1, Reading-List: 1, Resource: 7, Syllabus: 2, Video-Transcript: 2"
+api_id: 5795
 ---
 
 # Contemporary Literature: British Novels Now
@@ -30,10 +33,27 @@ What is Britain now? Its metropolises are increasingly multicultural. Its hold o
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-488-contemporary-literature-british-novels-now-spring-2007/pages/calendar/)
+- **Related Resources** — [🔗](https://ocw.mit.edu/courses/21l-488-contemporary-literature-british-novels-now-spring-2007/pages/related-resources/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-488-contemporary-literature-british-novels-now-spring-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [postmodernism.pdf (.pdf)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-british-novels-now-spring-2007/resources/postmodernism/)
+- [Postcolonialism 101 (.pdf)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-british-novels-now-spring-2007/resources/postcolonialism/)
+- [Characteristics of Contemporary Literature (.pdf)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-british-novels-now-spring-2007/resources/contemp_lit/)
+- [Lecture Notes](https://ocw.mit.edu/courses/21l-488-contemporary-literature-british-novels-now-spring-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-488-contemporary-literature-british-novels-now-spring-2007/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-488-contemporary-literature-british-novels-now-spring-2007/pages/assignments/)
+
+### Resource
+- [London (.jpg)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-british-novels-now-spring-2007/resources/21l-488s07/)
+- [London (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-british-novels-now-spring-2007/resources/21l-488s07-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21l-488-contemporary-literature-british-novels-now-spring-2007/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

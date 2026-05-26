@@ -12,6 +12,9 @@ views: 139
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:13:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3487
 ---
 
 # Gender, Power, and International Development
@@ -30,8 +33,19 @@ After decades of efforts to promote development, why is there so much poverty in
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-338j-gender-power-and-international-development-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-338j-gender-power-and-international-development-fall-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21a-338j-gender-power-and-international-development-fall-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21a-338j-gender-power-and-international-development-fall-2003/pages/assignments/)
+
+### Resource
+- [Member of the Chole Society for Women's Development (.jpg)](https://ocw.mit.edu/courses/21a-338j-gender-power-and-international-development-fall-2003/resources/21a-338jf03/)
+- [Member of the Chole Society for Women's Development (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21a-338j-gender-power-and-international-development-fall-2003/resources/21a-338jf03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

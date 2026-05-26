@@ -12,6 +12,9 @@ views: 1735
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T17:16:31Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 7, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 5027
 ---
 
 # Mechanics of Fluids
@@ -30,8 +33,25 @@ This course is an advanced subject in fluid and continuum mechanics. The course 
 
 ## Materials
 
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/10-52-mechanics-of-fluids-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/10-52-mechanics-of-fluids-spring-2006/pages/readings/)
+
+### Problem-Set
+- [set6.pdf (.pdf)](https://ocw.mit.edu/courses/10-52-mechanics-of-fluids-spring-2006/resources/set6/)
+- [set5.pdf (.pdf)](https://ocw.mit.edu/courses/10-52-mechanics-of-fluids-spring-2006/resources/set5/)
+- [set4.pdf (.pdf)](https://ocw.mit.edu/courses/10-52-mechanics-of-fluids-spring-2006/resources/set4/)
+- [set3.pdf (.pdf)](https://ocw.mit.edu/courses/10-52-mechanics-of-fluids-spring-2006/resources/set3/)
+- [set2.pdf (.pdf)](https://ocw.mit.edu/courses/10-52-mechanics-of-fluids-spring-2006/resources/set2/)
+- [set1.pdf (.pdf)](https://ocw.mit.edu/courses/10-52-mechanics-of-fluids-spring-2006/resources/set1/)
+- [Assignments](https://ocw.mit.edu/courses/10-52-mechanics-of-fluids-spring-2006/pages/assignments/)
+
+### Resource
+- [10-52s06.jpg (.jpg)](https://ocw.mit.edu/courses/10-52-mechanics-of-fluids-spring-2006/resources/10-52s06/)
+- [10-52s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/10-52-mechanics-of-fluids-spring-2006/resources/10-52s06-th/)
+- [Study Materials](https://ocw.mit.edu/courses/10-52-mechanics-of-fluids-spring-2006/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

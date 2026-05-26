@@ -12,6 +12,9 @@ views: 225
 completeness: 0.08666666666666667
 last_modified: "2026-05-06T16:49:51Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 8, Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 3481
 ---
 
 # Innovation in Military Organizations
@@ -30,9 +33,28 @@ This seminar has three purposes. One, it inquires into the causes of military in
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-462-innovation-in-military-organizations-fall-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [Failed Innovation: Counterinsurgency (.pdf)](https://ocw.mit.edu/courses/17-462-innovation-in-military-organizations-fall-2005/resources/lec8/)
+- [Missiles, Ballistic and Cruise (.pdf)](https://ocw.mit.edu/courses/17-462-innovation-in-military-organizations-fall-2005/resources/lec7/)
+- [Submarine Warfare: Pro and Anti (.pdf)](https://ocw.mit.edu/courses/17-462-innovation-in-military-organizations-fall-2005/resources/lec6/)
+- [Strategic Bombing (.pdf)](https://ocw.mit.edu/courses/17-462-innovation-in-military-organizations-fall-2005/resources/lec3/)
+- [Military Innovation (.pdf)](https://ocw.mit.edu/courses/17-462-innovation-in-military-organizations-fall-2005/resources/lec2/)
+- [US Military Transformation: Its Causes and Consequences (.pdf)](https://ocw.mit.edu/courses/17-462-innovation-in-military-organizations-fall-2005/resources/lec10/)
+- [Introduction: Organization Theory (.pdf)](https://ocw.mit.edu/courses/17-462-innovation-in-military-organizations-fall-2005/resources/lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/17-462-innovation-in-military-organizations-fall-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-462-innovation-in-military-organizations-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-462-innovation-in-military-organizations-fall-2005/pages/assignments/)
+
+### Resource
+- [Image depicts an aircraft and navy personnel on the deck of an aircraft carrier (.jpg)](https://ocw.mit.edu/courses/17-462-innovation-in-military-organizations-fall-2005/resources/17-462f05/)
+- [Related Resources](https://ocw.mit.edu/courses/17-462-innovation-in-military-organizations-fall-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

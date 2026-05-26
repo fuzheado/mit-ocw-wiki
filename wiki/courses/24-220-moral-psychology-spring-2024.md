@@ -12,6 +12,9 @@ views: 2388
 completeness: 0.0
 last_modified: "2026-05-06T16:59:21Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 8, Syllabus: 1"
+api_id: 16670
 ---
 
 # Moral Psychology
@@ -30,9 +33,17 @@ This course is an examination of philosophical theories of action and motivation
 
 ## Materials
 
-- [Readings] Readings
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/24-220-moral-psychology-spring-2024/pages/assignments/)
+- **First Writing Assignment** — [🔗](https://ocw.mit.edu/courses/24-220-moral-psychology-spring-2024/pages/first-writing-assignment/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/24-220-moral-psychology-spring-2024/pages/readings/)
+- **Second Writing Assignment** — [🔗](https://ocw.mit.edu/courses/24-220-moral-psychology-spring-2024/pages/second-writing-assignment/)
+- **Syllabus and Calendar** — [🔗](https://ocw.mit.edu/courses/24-220-moral-psychology-spring-2024/pages/syllabus/)
+- **Third Writing Assignment** — [🔗](https://ocw.mit.edu/courses/24-220-moral-psychology-spring-2024/pages/third-writing-assignment/)
 
+### Resource
+- [Instructor Insights](https://ocw.mit.edu/courses/24-220-moral-psychology-spring-2024/pages/instructor-insights/)
+- [mit24_220_s24.jpg (.jpg)](https://ocw.mit.edu/courses/24-220-moral-psychology-spring-2024/resources/mit24_220_s24_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

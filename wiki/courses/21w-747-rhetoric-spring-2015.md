@@ -12,6 +12,9 @@ views: 1245
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T17:03:15Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Problem-Set: 4, Reading-List: 4, Resource: 21, Syllabus: 2"
+api_id: 5666
 ---
 
 # Rhetoric
@@ -30,10 +33,40 @@ This course is an examination of the theory, the practice, and the implications 
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar and Readings** — [🔗](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/pages/calendar-and-readings/)
+- **Essays** — [🔗](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/pages/assignments/essays/)
+- **Framing** — [🔗](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/pages/assignments/framing/)
+- **Persuasive Speech** — [🔗](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/pages/assignments/persuasive-speech/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/pages/syllabus/)
+- **Workshop Approaches** — [🔗](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/pages/instructor-insights/workshop-approaches/)
 
+### Reading-List
+- [Ethics Tool Chest (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/resources/mit21w_747s15_rr02/)
+- [Rhetoric Tool Chest (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/resources/mit21w_747s15_rhetoric/)
+- [MIT21W_747S15_framingex.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/resources/mit21w_747s15_framingex/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/pages/assignments/)
+
+### Resource
+- [MIT21W_747S15_SMS.Sample.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/resources/mit21w_747s15_sms-sample/)
+- [MIT21W_747S15_Persuasive.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/resources/mit21w_747s15_persuasive/)
+- [MIT21W_747S15_Outline.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/resources/mit21w_747s15_outline/)
+- [MIT21W_747S15_Framing_Tem.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/resources/mit21w_747s15_framing_tem/)
+- [MIT21W_747S15_Explan.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/resources/mit21w_747s15_explan/)
+- [MIT21W_747S15_Essay_3.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/resources/mit21w_747s15_essay_3/)
+- [MIT21W_747S15_Essay_2.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/resources/mit21w_747s15_essay_2/)
+- [MIT21W_747S15_Essay_1.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/resources/mit21w_747s15_essay_1/)
+- [MIT21W_747S15_E._Outline.pdf (.pdf)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/resources/mit21w_747s15_e-_outline/)
+- [workshop key (.png)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/resources/edu_b-work-key/)
+- [workshop in section 1 (.png)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/resources/edu_b-recitation-workshop/)
+- [workshop in section 2 (.png)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/resources/edu_b-lecture-workshop/)
+- [28 students enrolled (.png)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/resources/28/)
+- [21w-747s15.jpg (.jpg)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/resources/21w-747s15/)
+- [21w-747s15-th.jpg (.jpg)](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/resources/21w-747s15-th/)
+- [Instructor Insights](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/pages/instructor-insights/)
+- [Course Iteration](https://ocw.mit.edu/courses/21w-747-rhetoric-spring-2015/pages/instructor-insights/course-iteration/)
 ## Wikipedia Bridge
 
 ### Related Articles

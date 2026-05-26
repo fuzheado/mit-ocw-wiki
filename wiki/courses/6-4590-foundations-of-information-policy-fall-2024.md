@@ -12,6 +12,9 @@ views: 492
 completeness: 0.0
 last_modified: "2026-05-06T17:14:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 1"
+api_id: 16769
 ---
 
 # Foundations of Information Policy
@@ -31,10 +34,8 @@ Topics include history of internet policy, the relationship between technical ar
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Readings] Readings
-- [Written Assignments with Examples] Written Assignments with Examples
-
+### Resource
+- [mit6_4590_f24.jpg (.jpg)](https://ocw.mit.edu/courses/6-4590-foundations-of-information-policy-fall-2024/resources/mit6_4590_f24_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

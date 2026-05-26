@@ -12,6 +12,9 @@ views: 116
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T14:45:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 2, Resource: 5, Syllabus: 2, Video-Transcript: 7"
+api_id: 4355
 ---
 
 # Frenchness in an Era of Globalization
@@ -31,9 +34,18 @@ Taught in French.
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-322j-frenchness-in-an-era-of-globalization-fall-2016/pages/calendar/)
+- **Questions pour les reponses** — [🔗](https://ocw.mit.edu/courses/21g-322j-frenchness-in-an-era-of-globalization-fall-2016/pages/assignments/questions-pour-les-reponses/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21g-322j-frenchness-in-an-era-of-globalization-fall-2016/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-322j-frenchness-in-an-era-of-globalization-fall-2016/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21g-322j-frenchness-in-an-era-of-globalization-fall-2016/pages/assignments/)
+
+### Resource
+- [21g-322f16.jpg (.jpg)](https://ocw.mit.edu/courses/21g-322j-frenchness-in-an-era-of-globalization-fall-2016/resources/21g-322f16jpg/)
+- [21g-322f16-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-322j-frenchness-in-an-era-of-globalization-fall-2016/resources/21g-322f16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

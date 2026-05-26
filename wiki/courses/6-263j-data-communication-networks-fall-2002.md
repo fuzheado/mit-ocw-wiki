@@ -12,6 +12,9 @@ views: 1306
 completeness: 0.29333333333333333
 last_modified: "2026-05-06T17:20:25Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 16, Problem-Set: 8, Resource: 4, Syllabus: 2"
+api_id: 4132
 ---
 
 # Data Communication Networks
@@ -30,8 +33,41 @@ type: "course"
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/pages/syllabus/)
 
+### Lecture-Notes
+- [Lectures8_9.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/lectures8_9/)
+- [Lectures5_6.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/lectures5_6/)
+- [Lectures3_4.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/lectures3_4/)
+- [Lectures24_25.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/lectures24_25/)
+- [Lectures22_23.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/lectures22_23/)
+- [Lectures17_18.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/lectures17_18/)
+- [Lectures15_16.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/lectures15_16/)
+- [Lectures13_14.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/lectures13_14/)
+- [Lectures10_11.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/lectures10_11/)
+- [Lecture7.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/lecture7/)
+- [Lecture21.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/lecture21/)
+- [Lecture20.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/lecture20/)
+- [Lecture2.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/lecture2/)
+- [Lecture19.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/lecture19/)
+- [Lecture1.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/lecture1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/pages/lecture-notes/)
+
+### Problem-Set
+- [PS6.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/ps6/)
+- [PS5.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/ps5/)
+- [PS4_.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/ps4_/)
+- [PS3_.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/ps3_/)
+- [PS2.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/ps2/)
+- [PS1_.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/ps1_/)
+- [HW7.pdf (.pdf)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/hw7/)
+- [Assignments](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/pages/assignments/)
+
+### Resource
+- [6-263jf02.jpg (.jpg)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/6-263jf02/)
+- [6-263jf02-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/resources/6-263jf02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

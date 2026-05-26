@@ -12,6 +12,9 @@ views: 147
 completeness: 0.08333333333333334
 last_modified: "2026-05-06T16:47:32Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 9, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5066
 ---
 
 # Readings in Optimization
@@ -30,9 +33,27 @@ In keeping with the tradition of the last twenty-some years, the Readings in Opt
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments with Examples] Presentation Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-099-readings-in-optimization-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-099-readings-in-optimization-fall-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [Pure Adaptive Search in Global Optimization (.pdf)](https://ocw.mit.edu/courses/15-099-readings-in-optimization-fall-2003/resources/ses6_zabinsky2/)
+- [ses5_solis_wets.pdf (.pdf)](https://ocw.mit.edu/courses/15-099-readings-in-optimization-fall-2003/resources/ses5_solis_wets/)
+- [Polytopes, their diameter, and randomized simplex (.pdf)](https://ocw.mit.edu/courses/15-099-readings-in-optimization-fall-2003/resources/ses4_kalai/)
+- [Las Vegas Algorithms for Linear (and Integer) Programming when the Dimension is Small (.pdf)](https://ocw.mit.edu/courses/15-099-readings-in-optimization-fall-2003/resources/ses3_clarkson/)
+- [I. Integer programming part of Clarkson-paper; II. Incremental Linear Programming, Section 9.10.1 in Randomized Algorithms-book (.pdf)](https://ocw.mit.edu/courses/15-099-readings-in-optimization-fall-2003/resources/ses3_book/)
+- [Differential Evolution: a stochastic nonlinear optimization algorithm by Storn and Price, 1996 (.pdf)](https://ocw.mit.edu/courses/15-099-readings-in-optimization-fall-2003/resources/ses2_storn_price/)
+- [A Randomized Algorithm For LP Feasibility (.pdf)](https://ocw.mit.edu/courses/15-099-readings-in-optimization-fall-2003/resources/ses2_dunagan/)
+- [Semidefinite Programming (SDP) and the Goemans-Williamson MAXCUT Paper (.pdf)](https://ocw.mit.edu/courses/15-099-readings-in-optimization-fall-2003/resources/ses1_goemans1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-099-readings-in-optimization-fall-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-099-readings-in-optimization-fall-2003/pages/readings/)
+
+### Resource
+- [Glasses on a Book (.jpg)](https://ocw.mit.edu/courses/15-099-readings-in-optimization-fall-2003/resources/15-099f03/)
+- [Glasses on a Book (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-099-readings-in-optimization-fall-2003/resources/15-099f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

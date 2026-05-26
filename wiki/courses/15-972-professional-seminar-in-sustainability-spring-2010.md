@@ -12,6 +12,9 @@ views: 482
 completeness: 0.0
 last_modified: "2026-05-06T15:02:15Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 7, Reading-List: 2, Resource: 3, Syllabus: 2, Video-Transcript: 2"
+api_id: 5785
 ---
 
 # Professional Seminar in Sustainability
@@ -30,8 +33,22 @@ Sustainability challenges organizations to address the implications – and resp
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-972-professional-seminar-in-sustainability-spring-2010/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/15-972-professional-seminar-in-sustainability-spring-2010/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-972-professional-seminar-in-sustainability-spring-2010/pages/syllabus/)
 
+### Assignment
+- [Eco-stewardship in Faith Communities  (.pdf)](https://ocw.mit.edu/courses/15-972-professional-seminar-in-sustainability-spring-2010/resources/mit15_972s10_pres06/)
+- [Produce Traceability for Costco (.pdf)](https://ocw.mit.edu/courses/15-972-professional-seminar-in-sustainability-spring-2010/resources/mit15_972s10_pres05/)
+- [Marriott (.pdf)](https://ocw.mit.edu/courses/15-972-professional-seminar-in-sustainability-spring-2010/resources/mit15_972s10_pres04/)
+- [Sustainability Initiative at Trader Joe’s (.pdf)](https://ocw.mit.edu/courses/15-972-professional-seminar-in-sustainability-spring-2010/resources/mit15_972s10_pres03/)
+- [SKS Microfinance (.pdf)](https://ocw.mit.edu/courses/15-972-professional-seminar-in-sustainability-spring-2010/resources/mit15_972s10_pres02/)
+- [Peapod: A Sustainability Proposal (.pdf)](https://ocw.mit.edu/courses/15-972-professional-seminar-in-sustainability-spring-2010/resources/mit15_972s10_pres01/)
+- [Projects](https://ocw.mit.edu/courses/15-972-professional-seminar-in-sustainability-spring-2010/pages/projects/)
+
+### Resource
+- [People with signs supporting a green economy (.jpg)](https://ocw.mit.edu/courses/15-972-professional-seminar-in-sustainability-spring-2010/resources/15-972s10/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 1666
 completeness: 0.4083333333333333
 last_modified: "2026-05-06T14:50:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 3, Lecture-Notes: 1, Problem-Set: 19, Reading-List: 1, Resource: 9, Syllabus: 2"
+api_id: 3847
 ---
 
 # Analysis and Design of Digital Integrated Circuits
@@ -30,11 +33,50 @@ type: "course"
 
 ## Materials
 
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
-- [Problem Sets] Problem Sets
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/pages/readings/)
+
+### Problem-Set
+- [quiz03_2.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/quiz03_2/)
+- [quiz03_1.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/quiz03_1/)
+- [ps5_03_sol.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/ps5_03_sol/)
+- [ps5_03.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/ps5_03/)
+- [ps4_faq.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/ps4_faq/)
+- [ps4_03_sol.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/ps4_03_sol/)
+- [ps4_03.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/ps4_03/)
+- [ps3_faq.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/ps3_faq/)
+- [ps3_03_sol.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/ps3_03_sol/)
+- [ps3_03.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/ps3_03/)
+- [ps2faq.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/ps2faq/)
+- [ps2_03a.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/ps2_03a/)
+- [ps2_03_sola.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/ps2_03_sola/)
+- [ps1_faq.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/ps1_faq/)
+- [ps1_03_sol.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/ps1_03_sol/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/ps1/)
+- [processparam.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/processparam/)
+- [Exams](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/pages/assignments/)
+
+### Assignment
+- [technicalsummary.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/technicalsummary/)
+- [guidelines.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/guidelines/)
+- [Projects](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/pages/projects/)
+
+### Resource
+- [magic_03.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/magic_03/)
+- [inv_tut.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/inv_tut/)
+- [hspice02.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/hspice02/)
+- [cadtutorial_03.pdf (.pdf)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/cadtutorial_03/)
+- [6-374f03.jpg (.jpg)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/6-374f03/)
+- [6-374f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/resources/6-374f03-th/)
+- [Tools](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/pages/tools/)
 ## Wikipedia Bridge
 
 ### Related Articles

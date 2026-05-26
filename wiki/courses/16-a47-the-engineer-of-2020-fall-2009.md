@@ -12,6 +12,9 @@ views: 88
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T14:49:03Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 3, Resource: 3, Syllabus: 2"
+api_id: 5178
 ---
 
 # The Engineer of 2020
@@ -31,8 +34,23 @@ In this readings and discussion-based seminar you will meet weekly with the Dean
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/16-a47-the-engineer-of-2020-fall-2009/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/16-a47-the-engineer-of-2020-fall-2009/pages/syllabus/)
 
+### Reading-List
+- [Curricular Reviews: Harvard, Princeton, and Yale: II (.pdf)](https://ocw.mit.edu/courses/16-a47-the-engineer-of-2020-fall-2009/resources/mit16_a47f09_read2/)
+- [Curricular Reviews: Harvard, Princeton, and Yale: I (.pdf)](https://ocw.mit.edu/courses/16-a47-the-engineer-of-2020-fall-2009/resources/mit16_a47f09_read1/)
+- [Readings](https://ocw.mit.edu/courses/16-a47-the-engineer-of-2020-fall-2009/pages/readings/)
+
+### Problem-Set
+- [Example 3 (.pdf)](https://ocw.mit.edu/courses/16-a47-the-engineer-of-2020-fall-2009/resources/mit16_a47f09_sw3/)
+- [Week 12 & 13 Essay (.pdf)](https://ocw.mit.edu/courses/16-a47-the-engineer-of-2020-fall-2009/resources/mit16_a47f09_sw2/)
+- [MIT and the Engineer of 2020 (.pdf)](https://ocw.mit.edu/courses/16-a47-the-engineer-of-2020-fall-2009/resources/mit16_a47f09_sw1/)
+- [Assignments](https://ocw.mit.edu/courses/16-a47-the-engineer-of-2020-fall-2009/pages/assignments/)
+
+### Resource
+- [Dragster Races (.jpg)](https://ocw.mit.edu/courses/16-a47-the-engineer-of-2020-fall-2009/resources/16-a47f09/)
 ## Wikipedia Bridge
 
 ### Related Articles

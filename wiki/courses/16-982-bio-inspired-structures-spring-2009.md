@@ -12,6 +12,9 @@ views: 196
 completeness: 0.06666666666666667
 last_modified: "2026-05-06T14:50:32Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 8, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 5032
 ---
 
 # Bio-Inspired Structures
@@ -30,9 +33,27 @@ This course is offered for graduate students who are interested in the interdisc
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects] Projects
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/16-982-bio-inspired-structures-spring-2009/pages/syllabus/)
 
+### Lecture-Notes
+- [Nanomanufacturing and Smart Materials (.pdf)](https://ocw.mit.edu/courses/16-982-bio-inspired-structures-spring-2009/resources/mit16_982s09_lec16/)
+- [Ceramics and Glasses (.pdf)](https://ocw.mit.edu/courses/16-982-bio-inspired-structures-spring-2009/resources/mit16_982s09_lec07/)
+- [Bioinspired and Natural Nanomaterials (.pdf)](https://ocw.mit.edu/courses/16-982-bio-inspired-structures-spring-2009/resources/mit16_982s09_lec06/)
+- [Chemical Synthetic Routes for Metal and Semiconductor Nanoparticles and Structures (.pdf)](https://ocw.mit.edu/courses/16-982-bio-inspired-structures-spring-2009/resources/mit16_982s09_lec04/)
+- [Mechanical Properties of Metals (.pdf)](https://ocw.mit.edu/courses/16-982-bio-inspired-structures-spring-2009/resources/mit16_982s09_lec03/)
+- [Composite Materials (.pdf)](https://ocw.mit.edu/courses/16-982-bio-inspired-structures-spring-2009/resources/mit16_982s09_lec02/)
+- [Bio-Inspired Structures (.pdf)](https://ocw.mit.edu/courses/16-982-bio-inspired-structures-spring-2009/resources/mit16_982s09_lec01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/16-982-bio-inspired-structures-spring-2009/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/16-982-bio-inspired-structures-spring-2009/pages/readings/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/16-982-bio-inspired-structures-spring-2009/pages/projects/)
+
+### Resource
+- [Diagram of smart joint design based on a bird's wing (.jpg)](https://ocw.mit.edu/courses/16-982-bio-inspired-structures-spring-2009/resources/chp/)
 ## Wikipedia Bridge
 
 ### Related Articles

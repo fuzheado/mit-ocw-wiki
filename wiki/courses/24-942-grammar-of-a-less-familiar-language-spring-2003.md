@@ -12,6 +12,9 @@ views: 274
 completeness: 0.10833333333333334
 last_modified: "2026-05-06T14:47:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 13, Resource: 7, Syllabus: 2"
+api_id: 4928
 ---
 
 # Grammar of a Less Familiar Language
@@ -31,8 +34,31 @@ The first three to four weeks of the term, our group meetings will explore the b
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [zazakinotes.pdf (.pdf)](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/resources/zazakinotes/)
+- [zazaki_5_mar.pdf (.pdf)](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/resources/zazaki_5_mar/)
+- [zazaki21.pdf (.pdf)](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/resources/zazaki21/)
+- [zazaki2.pdf (.pdf)](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/resources/zazaki2/)
+- [hiatusnotes.pdf (.pdf)](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/resources/hiatusnotes/)
+- [12056_2.pdf (.pdf)](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/resources/12056_2/)
+- [12053_2.pdf (.pdf)](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/resources/12053_2/)
+- [11760_2.pdf (.pdf)](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/resources/11760_2/)
+- [1176021.pdf (.pdf)](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/resources/1176021/)
+- [11262_2.pdf (.pdf)](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/resources/11262_2/)
+- [11182_2.pdf (.pdf)](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/resources/11182_2/)
+- [10869_2.pdf (.pdf)](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/resources/10869_2/)
+- [Lecture Notes](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/pages/lecture-notes/)
+
+### Resource
+- [syllabus.pdf (.pdf)](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/resources/syllabus/)
+- [24-942s03.jpg (.jpg)](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/resources/24-942s03/)
+- [24-942s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/resources/24-942s03-th/)
+- [Related Resources](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/pages/related-resources/)
+- [Methodology](https://ocw.mit.edu/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/pages/methodology/)
 ## Wikipedia Bridge
 
 ### Related Articles

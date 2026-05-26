@@ -12,6 +12,8 @@ views: 1498
 completeness: 0.28833333333333333
 last_modified: "2026-05-06T14:54:30Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Resource: 5, Syllabus: 1, Video-Transcript: 9"
 ---
 
 # Poker Theory and Analytics
@@ -32,12 +34,21 @@ Faculty Advisor: Paul Mende
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/pages/lecture-notes/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/pages/assignments/)
+
+### Resource
+- [Instructor Insights](https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/pages/instructor-insights/)
+- [Instructor Background and Motivation for Teaching the Course](https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/pages/instructor-insights/instructor-background-and-motivation-for-teaching-the-course/)
+- [Gameplay, Connections and Contributors](https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/pages/instructor-insights/gameplay-and-advice-for-educators/)
+- [Challenges and Learning Opportunities](https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/pages/instructor-insights/challenges-and-learning-opportunities/)
+- [Poker Software](https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/pages/poker-software/)
 ## Wikipedia Bridge
 
 ### Related Articles

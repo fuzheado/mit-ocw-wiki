@@ -12,6 +12,9 @@ views: 129
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T14:58:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 7, Reading-List: 1, Resource: 11, Syllabus: 1"
+api_id: 4532
 ---
 
 # The American Novel: Stranger and Stranger
@@ -30,11 +33,32 @@ This course covers works by major American novelists, beginning with the late 18
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Instructor Insights] Instructor Insights
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/pages/readings/)
+
+### Problem-Set
+- [Reflection of history in Absalom, Absalom!  (.pdf)](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/resources/mit21l_501s13_essay3samp2/)
+- [Becoming Wilderness: A Look at Betrayal in A Mercy (.pdf)](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/resources/mit21l_501s13_essay3samp/)
+- [Genealogy in Age of Innocence: What’s in a Name? (.pdf)](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/resources/mit21l_501s13_essay2samp/)
+- [Ahab: The American Tragic Hero (.pdf)](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/resources/mit21l_501s13_essay1sam2/)
+- [Locations as Characters, A Look at Geography in Moby-Dick (.pdf)](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/resources/mit21l_501s13_essay1sam1/)
+- [Resources for Mapping Moby-Dick in Locast  (.pdf)](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/resources/mit21l_501s13_essay1/)
+- [Assignments](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/pages/assignments/)
+
+### Resource
+- [21l-501s13.jpg (.jpg)](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/resources/21l-501s13/)
+- [21l-501s13-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/resources/21l-501s13-th/)
+- [21L-501_stat-students.png (.png)](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/resources/21l-501_stat-students/)
+- [21L-501_classroom-1.jpg (.jpg)](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/resources/21l-501_classroom-1/)
+- [Teaching at MIT](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/pages/instructor-insights/teaching-at-mit/)
+- [Motivation and Organization of the Course](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/pages/instructor-insights/motivation-and-organization-of-the-course/)
+- [Digital Tools](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/pages/instructor-insights/digital-tools/)
+- [Instructor Insights](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/pages/instructor-insights/)
+- [Choice of Novels](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/pages/instructor-insights/choice-of-novels/)
+- [Additional Class Features](https://ocw.mit.edu/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/pages/instructor-insights/additional-class-features/)
 ## Wikipedia Bridge
 
 ### Related Articles

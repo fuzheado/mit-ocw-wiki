@@ -12,6 +12,9 @@ views: 233
 completeness: 0.30000000000000004
 last_modified: "2026-05-06T16:53:03Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 12, Problem-Set: 12, Resource: 4, Syllabus: 2"
+api_id: 4988
 ---
 
 # Topics in Statistics: Nonparametrics and Robustness
@@ -32,9 +35,41 @@ Robustness, which developed mainly from around 1964, provides methods that are r
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [The Spatial Median (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/spatialmedian/)
+- [Combining the Run and Mann-Whitney-Wilcoxon Tests (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/run_mwwtest/)
+- [Quantiles  (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/quantiles/)
+- [Outliers  (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/outliers/)
+- [Non-existence of some Affinely Equivariant Location Functionals in Dimension d ≥ 2 (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/obenchain/)
+- [M-estimators and their Consistency (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/m_estimates/)
+- [Location and Scatter Functionals (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/location_scatter/)
+- [The Delta-Method and Asymptotics of some Estimators (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/delta_asympt/)
+- [Breakdown Points of some 1-Dimensional Location Estimators (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/brkdn_location/)
+- [Bretagnolle and Massart's Proof of the KMT Theorem for the Uniform Empirical Process (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/bretagn_massart/)
+- [Introduction to Robustness: Breakdown Points (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/breakdown/)
+- [Lecture Notes](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/pages/lecture-notes/)
+
+### Problem-Set
+- [Problem Set 8 (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/ps8/)
+- [Problem Set 7 (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/ps7/)
+- [Problem Set 6 (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/ps6/)
+- [Problem Set 5 (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/ps5/)
+- [Problem Set 4 (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/ps4/)
+- [Problem Set 3 (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/ps3/)
+- [Problem Set 2 (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/ps2/)
+- [Problem Set 1 (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/ps1/)
+- [Problem Set 4 Hint (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/hintps4/)
+- [Problem Set 3 Hint (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/hintps3/)
+- [Problem Set 2 Hint (.pdf)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/hintps2/)
+- [Assignments](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/pages/assignments/)
+
+### Resource
+- [Two-sample Data with an Outlier (.JPG)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/18-465s05/)
+- [Two-sample Data with an Outlier (thumbnail) (.jpg)](https://ocw.mit.edu/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/resources/18-465s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

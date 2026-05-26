@@ -12,6 +12,9 @@ views: 98
 completeness: 0.0
 last_modified: "2026-05-06T17:02:07Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Reading-List: 1, Resource: 4, Syllabus: 2, Video-Transcript: 1"
+api_id: 5249
 ---
 
 # Engineering Health: Towards the Tricorder
@@ -30,8 +33,18 @@ Students will learn to fabricate, remix, and design detection and monitoring dev
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar and Readings** — [🔗](https://ocw.mit.edu/courses/mas-s63-engineering-health-towards-the-tricorder-fall-2013/pages/calendar-and-readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-s63-engineering-health-towards-the-tricorder-fall-2013/pages/syllabus/)
 
+### Assignment
+- [Making Health: From Clinic to Tricorder (.png)](https://ocw.mit.edu/courses/mas-s63-engineering-health-towards-the-tricorder-fall-2013/resources/syllabusfigure1/)
+- [Projects](https://ocw.mit.edu/courses/mas-s63-engineering-health-towards-the-tricorder-fall-2013/pages/projects/)
+
+### Resource
+- [Related Resources](https://ocw.mit.edu/courses/mas-s63-engineering-health-towards-the-tricorder-fall-2013/pages/related-resources/)
+- [Tricorder (.jpg)](https://ocw.mit.edu/courses/mas-s63-engineering-health-towards-the-tricorder-fall-2013/resources/mas-s63f13/)
+- [Tricorder (thumbnail) (.jpg)](https://ocw.mit.edu/courses/mas-s63-engineering-health-towards-the-tricorder-fall-2013/resources/mas-s63f13-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

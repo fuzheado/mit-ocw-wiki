@@ -12,6 +12,9 @@ views: 388
 completeness: 0.2
 last_modified: "2026-05-06T17:24:22Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 18, Reading-List: 1, Resource: 10, Syllabus: 2"
+api_id: 4911
 ---
 
 # Integral Equations
@@ -30,9 +33,42 @@ This course emphasizes concepts and techniques for solving integral equations fr
 
 ## Materials
 
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/pages/readings/)
+
+### Problem-Set
+- [sol8_prob_24.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/sol8_prob_24/)
+- [sol7_erratum.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/sol7_erratum/)
+- [sol7.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/sol7/)
+- [sol6.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/sol6/)
+- [sol5.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/sol5/)
+- [sol4.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/sol4/)
+- [sol3.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/sol3/)
+- [sol2.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/sol2/)
+- [sol1.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/sol1/)
+- [ps_8.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/ps_8/)
+- [ps_7.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/ps_7/)
+- [ps_6.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/ps_6/)
+- [ps_5.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/ps_5/)
+- [ps_4.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/ps_4/)
+- [ps_3.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/ps_3/)
+- [ps_2.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/ps_2/)
+- [ps_1.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/ps_1/)
+- [Assignments](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/pages/assignments/)
+
+### Resource
+- [quiz1_2003_sol.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/quiz1_2003_sol/)
+- [quiz1_2003.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/quiz1_2003/)
+- [pracset_2.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/pracset_2/)
+- [pracset_1.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/pracset_1/)
+- [fourier.pdf (.pdf)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/fourier/)
+- [18-307s06.jpg (.jpg)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/18-307s06/)
+- [18-307s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/resources/18-307s06-th/)
+- [Study Materials](https://ocw.mit.edu/courses/18-307-integral-equations-spring-2006/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 78
 completeness: 0.0
 last_modified: "2026-05-06T14:42:04Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 14, Syllabus: 1"
+api_id: 4347
 ---
 
 # Theories and Methods in the Study of History
@@ -30,8 +33,23 @@ We will doggedly ask two questions in this class: “What is history?” and “
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2010/pages/syllabus/)
 
+### Resource
+- [Photo of a large reading room at the Library of Congress (.jpg)](https://ocw.mit.edu/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2010/resources/21h-991f10/)
+- [Women's History and Gender](https://ocw.mit.edu/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2010/pages/womens-history-and-gender/)
+- [Visual Culture: Definitions, Issues](https://ocw.mit.edu/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2010/pages/visual-culture-definitions-issues/)
+- [National History: United States](https://ocw.mit.edu/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2010/pages/national-history-united-states/)
+- [Microhistory](https://ocw.mit.edu/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2010/pages/microhistory/)
+- [Media Studies: 1450, 1890, 2010](https://ocw.mit.edu/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2010/pages/media-studies-1450-1890-2010/)
+- [Industrial Revolution: Why Britain?](https://ocw.mit.edu/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2010/pages/industrial-revolution-why-britain/)
+- [Global Perspectives](https://ocw.mit.edu/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2010/pages/global-perspectives/)
+- [Environmental History](https://ocw.mit.edu/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2010/pages/environmental-history/)
+- [Digital Humanities](https://ocw.mit.edu/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2010/pages/digital-humanities/)
+- [De/Constructing Western History](https://ocw.mit.edu/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2010/pages/de-constructing-western-history/)
+- [Borderlands](https://ocw.mit.edu/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2010/pages/borderlands/)
+- [Women&#39;s History and Gender](https://ocw.mit.edu/courses/21h-991-theories-and-methods-in-the-study-of-history-fall-2010/pages/womens-history-and-gender/)
 ## Wikipedia Bridge
 
 ### Related Articles

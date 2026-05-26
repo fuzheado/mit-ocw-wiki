@@ -12,6 +12,9 @@ views: 491
 completeness: 0.0
 last_modified: "2026-05-06T16:52:31Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 18392
 ---
 
 # Weather and Climate Laboratory
@@ -30,9 +33,9 @@ This course engages students in projects involving rotating tank laboratory expe
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Projects] Projects
-
+### Resource
+- [mit12_307_s25_bigger.jpg (.jpg)](https://ocw.mit.edu/courses/12-307-weather-and-climate-laboratory-spring-2025/resources/mit12_307_s25_bigger_jpg/)
+- [mit12_307_s25.jpg (.jpg)](https://ocw.mit.edu/courses/12-307-weather-and-climate-laboratory-spring-2025/resources/mit12_307_s25_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

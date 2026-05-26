@@ -12,6 +12,9 @@ views: 1511
 completeness: 0.33999999999999997
 last_modified: "2026-05-06T17:19:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 9, Resource: 5, Syllabus: 2"
+api_id: 4135
 ---
 
 # Advanced Geotechnical Engineering
@@ -30,10 +33,25 @@ type: "course"
 
 ## Materials
 
-- [Design Assignments] Design Assignments
-- [Exams] Exams
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/1-364-advanced-geotechnical-engineering-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/1-364-advanced-geotechnical-engineering-fall-2003/pages/syllabus/)
 
+### Problem-Set
+- [papers_2003.pdf (.pdf)](https://ocw.mit.edu/courses/1-364-advanced-geotechnical-engineering-fall-2003/resources/papers_2003/)
+- [hw3_2003.pdf (.pdf)](https://ocw.mit.edu/courses/1-364-advanced-geotechnical-engineering-fall-2003/resources/hw3_2003/)
+- [hw2_2003.pdf (.pdf)](https://ocw.mit.edu/courses/1-364-advanced-geotechnical-engineering-fall-2003/resources/hw2_2003/)
+- [hw1_2003.pdf (.pdf)](https://ocw.mit.edu/courses/1-364-advanced-geotechnical-engineering-fall-2003/resources/hw1_2003/)
+- [1_364_hw5_2003.pdf (.pdf)](https://ocw.mit.edu/courses/1-364-advanced-geotechnical-engineering-fall-2003/resources/1_364_hw5_2003/)
+- [1_364_hw4_2003.pdf (.pdf)](https://ocw.mit.edu/courses/1-364-advanced-geotechnical-engineering-fall-2003/resources/1_364_hw4_2003/)
+- [1364final2003.pdf (.pdf)](https://ocw.mit.edu/courses/1-364-advanced-geotechnical-engineering-fall-2003/resources/1364final2003/)
+- [Exams](https://ocw.mit.edu/courses/1-364-advanced-geotechnical-engineering-fall-2003/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/1-364-advanced-geotechnical-engineering-fall-2003/pages/assignments/)
+
+### Resource
+- [1-364f03.jpg (.jpg)](https://ocw.mit.edu/courses/1-364-advanced-geotechnical-engineering-fall-2003/resources/1-364f03/)
+- [1-364f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/1-364-advanced-geotechnical-engineering-fall-2003/resources/1-364f03-th/)
+- [Lecture Notes](https://ocw.mit.edu/courses/1-364-advanced-geotechnical-engineering-fall-2003/pages/lecture-notes/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 179
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T15:01:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Resource: 20, Syllabus: 2"
+api_id: 5124
 ---
 
 # MArch Portfolio Seminar
@@ -37,9 +40,32 @@ How is your work best communicated?
 
 ## Materials
 
-- [Design Assignments with Examples] Design Assignments with Examples
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/pages/assignments/)
+
+### Resource
+- [virginia_nolan.pdf (.pdf)](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/resources/virginia_nolan/)
+- [sawako_kaijima.pdf (.pdf)](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/resources/sawako_kaijima/)
+- [sarah_roszler.pdf (.pdf)](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/resources/sarah_roszler/)
+- [renata_filipovic.pdf (.pdf)](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/resources/renata_filipovic/)
+- [naomi_horowitz.pdf (.pdf)](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/resources/naomi_horowitz/)
+- [kwan_chan.pdf (.pdf)](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/resources/kwan_chan/)
+- [jeremy_gates.pdf (.pdf)](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/resources/jeremy_gates/)
+- [jane_wu.pdf (.pdf)](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/resources/jane_wu/)
+- [eric_orozco.pdf (.pdf)](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/resources/eric_orozco/)
+- [emily_gillmar.pdf (.pdf)](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/resources/emily_gillmar/)
+- [chris_muskopf.pdf (.pdf)](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/resources/chris_muskopf/)
+- [chris_maccarroll.pdf (.pdf)](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/resources/chris_maccarroll/)
+- [chris_becker.pdf (.pdf)](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/resources/chris_becker/)
+- [carl_solander.pdf (.pdf)](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/resources/carl_solander/)
+- [aaron_wittkamper.pdf (.pdf)](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/resources/aaron_wittkamper/)
+- [4-107f03.jpg (.jpg)](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/resources/4-107f03/)
+- [4-107f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/resources/4-107f03-th/)
+- [Portfolios](https://ocw.mit.edu/courses/4-107-march-portfolio-seminar-fall-2003/pages/portfolios/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 1006
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:44:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 2, Reading-List: 1, Resource: 25, Syllabus: 2"
+api_id: 3612
 ---
 
 # Computer Games and Simulations for Education and Exploration
@@ -30,9 +33,40 @@ This course immerses students in the process of building and testing their own d
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/pages/calendar/)
+- **Gamer Profile Assignment** — [🔗](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/pages/instructor-insights/reflecting-on-the-gamer-profile-assignment/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/pages/syllabus/)
+- **Tips for Facilitating Project-Based Learning** — [🔗](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/pages/instructor-insights/tips-for-facilitating-project-based-learning/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/pages/assignments/)
+
+### Resource
+- [11.127J Klopfer's Krazy Katering Final Paper (.pdf)](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/resources/mit11_127js15_katering_final/)
+- [11.127J S15 Escápe Game Pieces (.pdf)](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/resources/mit11_127js15_esc_pieces/)
+- [11.127J Escape Instructions (.pdf)](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/resources/mit11_127js15_esc_instruct/)
+- [11.127J EconSim Final Paper (.pdf)](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/resources/mit11_127js15_econsim_final/)
+- [11.127J S15 Divde and Conquer Multiplier Cards (.pdf)](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/resources/mit11_127js15_dc_multiply/)
+- [11.127J S15 Divide and Conquer Game Instructions (.pdf)](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/resources/mit11_127js15_dc_instruct/)
+- [11.127J Divide and Conquer Background Info (.pdf)](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/resources/mit11_127js15_dc_info/)
+- [11.127J Divide and Conquer: Game Evolution (.pdf)](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/resources/mit11_127js15_dc_history/)
+- [11.127J S15 Divide and Conquer Event Cards (.pdf)](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/resources/mit11_127js15_dc_event/)
+- [11.127J S15 Divide and Conquer Enzyme Cards (.pdf)](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/resources/mit11_127js15_dc_enzyme/)
+- [11.127J Cellular Metabolism Game: Cell Board (.pdf)](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/resources/mit11_127js15_dc_board/)
+- [11.127J S15 Take the Cake Game Pieces (.pdf)](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/resources/mit11_127js15_cake_pieces/)
+- [11.127J Take the Cake Pieces (.pdf)](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/resources/mit11_127js15_cake_instrct/)
+- [instructor (.JPG)](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/resources/instructor/)
+- [enrollment (.png)](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/resources/19/)
+- [11-127js15.jpg (.jpg)](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/resources/11-127js15/)
+- [11-127js15-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/resources/11-127js15-th/)
+- [Student Games](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/pages/student-games/)
+- [Form and Function of Teamwork in the Course](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/pages/instructor-insights/form-and-function-of-teamwork-in-the-course/)
+- [Instructor Insights](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/pages/instructor-insights/)
+- [Aligning Teaching and Research](https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/pages/instructor-insights/aligning-teaching-and-research/)
 ## Wikipedia Bridge
 
 ### Related Articles

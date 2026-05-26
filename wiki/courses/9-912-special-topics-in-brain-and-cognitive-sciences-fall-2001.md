@@ -12,6 +12,9 @@ views: 111
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T15:03:04Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 1"
+api_id: 5376
 ---
 
 # Special Topics in Brain and Cognitive Sciences
@@ -30,8 +33,20 @@ Memory is not a unitary faculty, but rather consists of multiple forms of learni
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-912-special-topics-in-brain-and-cognitive-sciences-fall-2001/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-912-special-topics-in-brain-and-cognitive-sciences-fall-2001/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-912-special-topics-in-brain-and-cognitive-sciences-fall-2001/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/9-912-special-topics-in-brain-and-cognitive-sciences-fall-2001/pages/assignments/)
+
+### Resource
+- [The Hippocampus (.jpg)](https://ocw.mit.edu/courses/9-912-special-topics-in-brain-and-cognitive-sciences-fall-2001/resources/9-912f01/)
+- [The Hippocampus (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-912-special-topics-in-brain-and-cognitive-sciences-fall-2001/resources/9-912f01-th/)
+- [Related Resources](https://ocw.mit.edu/courses/9-912-special-topics-in-brain-and-cognitive-sciences-fall-2001/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

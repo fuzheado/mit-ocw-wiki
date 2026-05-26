@@ -12,6 +12,9 @@ views: 204
 completeness: 0.2
 last_modified: "2026-05-06T17:13:53Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3826
 ---
 
 # Economic Institutions and Growth Policy Analysis
@@ -30,8 +33,19 @@ This course is designed for students particularly concerned with the practical p
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-486j-economic-institutions-and-growth-policy-analysis-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-486j-economic-institutions-and-growth-policy-analysis-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-486j-economic-institutions-and-growth-policy-analysis-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/11-486j-economic-institutions-and-growth-policy-analysis-fall-2005/pages/exams/)
+
+### Resource
+- [Sun Life Clarica building (.jpg)](https://ocw.mit.edu/courses/11-486j-economic-institutions-and-growth-policy-analysis-fall-2005/resources/11-486jf05/)
+- [Sun Life Clarica building (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-486j-economic-institutions-and-growth-policy-analysis-fall-2005/resources/11-486jf05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

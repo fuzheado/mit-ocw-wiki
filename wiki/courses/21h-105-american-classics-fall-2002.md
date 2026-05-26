@@ -12,6 +12,9 @@ views: 183
 completeness: 0.1
 last_modified: "2026-05-06T16:59:22Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 2, Resource: 5, Syllabus: 2"
+api_id: 4146
 ---
 
 # American Classics
@@ -30,8 +33,25 @@ type: "course"
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-105-american-classics-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-105-american-classics-fall-2002/pages/syllabus/)
 
+### Reading-List
+- [Selections for Readings by Abraham Lincoln (.pdf)](https://ocw.mit.edu/courses/21h-105-american-classics-fall-2002/resources/am_classics_linadings_10_02/)
+- [Readings](https://ocw.mit.edu/courses/21h-105-american-classics-fall-2002/pages/readings/)
+
+### Problem-Set
+- [Third Writing Assignment (.pdf)](https://ocw.mit.edu/courses/21h-105-american-classics-fall-2002/resources/am_classics_thianment_10_02/)
+- [Second Writing Assignment (.pdf)](https://ocw.mit.edu/courses/21h-105-american-classics-fall-2002/resources/am_classics_secanment_10_02/)
+- [First Writing Assignment (.pdf)](https://ocw.mit.edu/courses/21h-105-american-classics-fall-2002/resources/am_classics_firanment_9_02/)
+- [Final Paper Assignment: American Freedom in the Twentieth Century  (.pdf)](https://ocw.mit.edu/courses/21h-105-american-classics-fall-2002/resources/am_classics_finatopic_11_02/)
+- [Assignments](https://ocw.mit.edu/courses/21h-105-american-classics-fall-2002/pages/assignments/)
+
+### Resource
+- [Martin Luther King, Jr. (.jpg)](https://ocw.mit.edu/courses/21h-105-american-classics-fall-2002/resources/21h-105f02/)
+- [Martin Luther King, Jr. (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21h-105-american-classics-fall-2002/resources/21h-105f02-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21h-105-american-classics-fall-2002/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

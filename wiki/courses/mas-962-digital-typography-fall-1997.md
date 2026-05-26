@@ -12,6 +12,9 @@ views: 299
 completeness: 0.2
 last_modified: "2026-05-06T14:44:22Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 11, Resource: 4, Syllabus: 2"
+api_id: 4207
 ---
 
 # Digital Typography
@@ -30,8 +33,26 @@ This class introduces studies in the algorithmic manipulation of type as word, s
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/mas-962-digital-typography-fall-1997/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-962-digital-typography-fall-1997/pages/syllabus/)
 
+### Problem-Set
+- [ps9.pdf (.pdf)](https://ocw.mit.edu/courses/mas-962-digital-typography-fall-1997/resources/ps9/)
+- [ps8.pdf (.pdf)](https://ocw.mit.edu/courses/mas-962-digital-typography-fall-1997/resources/ps8/)
+- [ps7.pdf (.pdf)](https://ocw.mit.edu/courses/mas-962-digital-typography-fall-1997/resources/ps7/)
+- [ps6.pdf (.pdf)](https://ocw.mit.edu/courses/mas-962-digital-typography-fall-1997/resources/ps6/)
+- [ps5.pdf (.pdf)](https://ocw.mit.edu/courses/mas-962-digital-typography-fall-1997/resources/ps5/)
+- [ps4.pdf (.pdf)](https://ocw.mit.edu/courses/mas-962-digital-typography-fall-1997/resources/ps4/)
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/mas-962-digital-typography-fall-1997/resources/ps3/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/mas-962-digital-typography-fall-1997/resources/ps2/)
+- [ps10.pdf (.pdf)](https://ocw.mit.edu/courses/mas-962-digital-typography-fall-1997/resources/ps10/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/mas-962-digital-typography-fall-1997/resources/ps1/)
+- [Assignments](https://ocw.mit.edu/courses/mas-962-digital-typography-fall-1997/pages/assignments/)
+
+### Resource
+- [mas-962f97.jpg (.jpg)](https://ocw.mit.edu/courses/mas-962-digital-typography-fall-1997/resources/mas-962f97/)
+- [mas-962f97-th.jpg (.jpg)](https://ocw.mit.edu/courses/mas-962-digital-typography-fall-1997/resources/mas-962f97-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

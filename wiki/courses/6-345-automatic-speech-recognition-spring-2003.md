@@ -12,6 +12,9 @@ views: 261
 completeness: 0.38333333333333336
 last_modified: "2026-05-06T14:59:35Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 22, Problem-Set: 15, Resource: 4, Syllabus: 2"
+api_id: 4673
 ---
 
 # Automatic Speech Recognition
@@ -30,9 +33,54 @@ type: "course"
 
 ## Materials
 
-- [Demonstration Audio] Demonstration Audio
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [lecture9.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture9/)
+- [lecture8.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture8/)
+- [lecture7.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture7/)
+- [lecture6new.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture6new/)
+- [lecture5.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture5/)
+- [lecture34new.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture34new/)
+- [lecture23.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture23/)
+- [lecture22.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture22/)
+- [lecture21.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture21/)
+- [lecture20.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture20/)
+- [lecture2.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture2/)
+- [lecture19.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture19/)
+- [lecture18.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture18/)
+- [lecture17.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture17/)
+- [lecture16.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture16/)
+- [lecture15.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture15/)
+- [lecture14.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture14/)
+- [lecture13.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture13/)
+- [lecture1112.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture1112/)
+- [lecture10.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture10/)
+- [lecture1.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/lecture1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/pages/lecture-notes/)
+
+### Problem-Set
+- [AssignmentsErrata.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/assignmentserrata/)
+- [assignment9.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/assignment9/)
+- [assignment8.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/assignment8/)
+- [assignment7_suggestedreadings.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/assignment7_suggestedreadings/)
+- [assignment7.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/assignment7/)
+- [assignment6.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/assignment6/)
+- [assignment5_Supplement.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/assignment5_supplement/)
+- [assignment5.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/assignment5/)
+- [assignment4.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/assignment4/)
+- [assignment3.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/assignment3/)
+- [assignment2.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/assignment2/)
+- [assignment1_WAVES.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/assignment1_waves/)
+- [assignment1_LAMINAR.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/assignment1_laminar/)
+- [assignment1.pdf (.pdf)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/assignment1/)
+- [Assignments](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/pages/assignments/)
+
+### Resource
+- [6-345s03.jpg (.jpg)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/6-345s03/)
+- [6-345s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-345-automatic-speech-recognition-spring-2003/resources/6-345s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

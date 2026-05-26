@@ -12,6 +12,8 @@ views: 512
 completeness: 0.23166666666666666
 last_modified: "2026-05-06T14:43:44Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Resource: 2, Syllabus: 2, Video-Transcript: 2"
 ---
 
 # Autonomous Robot Design Competition
@@ -31,11 +33,19 @@ The goal of 6.270 is to teach students about robotic design by giving them the h
 
 ## Materials
 
-- [Competition Videos] Competition Videos
-- [Design Assignments with Examples] Design Assignments with Examples
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/6-270-autonomous-robot-design-competition-january-iap-2005/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/6-270-autonomous-robot-design-competition-january-iap-2005/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/6-270-autonomous-robot-design-competition-january-iap-2005/pages/lecture-notes/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/6-270-autonomous-robot-design-competition-january-iap-2005/pages/assignments/)
+
+### Resource
+- [Study Materials](https://ocw.mit.edu/courses/6-270-autonomous-robot-design-competition-january-iap-2005/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/6-270-autonomous-robot-design-competition-january-iap-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 70
 completeness: 0.008333333333333333
 last_modified: "2026-05-06T17:10:40Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4251
 ---
 
 # Citizen Participation, Community Development, and Urban Governance in the Developing World
@@ -30,8 +33,20 @@ Citizen participation is everywhere. Invoking it has become de rigueur when disc
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-950-citizen-participation-community-development-and-urban-governance-in-the-developing-world-spring-2007/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-950-citizen-participation-community-development-and-urban-governance-in-the-developing-world-spring-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/11-950-citizen-participation-community-development-and-urban-governance-in-the-developing-world-spring-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-950-citizen-participation-community-development-and-urban-governance-in-the-developing-world-spring-2007/pages/readings/)
+
+### Resource
+- [Photograph of an anti-war protest (.jpg)](https://ocw.mit.edu/courses/11-950-citizen-participation-community-development-and-urban-governance-in-the-developing-world-spring-2007/resources/11-950s07/)
+- [Photograph of an anti-war protest (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-950-citizen-participation-community-development-and-urban-governance-in-the-developing-world-spring-2007/resources/11-950s07-th/)
+- [Social Capital and Civil Society](http://www.imf.org/external/pubs/ft/seminar/1999/reforms/fukuyama.htm)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 920
 completeness: 0.0
 last_modified: "2026-05-06T17:15:09Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Reading-List: 38, Resource: 3, Syllabus: 1"
+api_id: 4809
 ---
 
 # Mathematics for Computer Science
@@ -37,12 +40,51 @@ This course is part of the Open Learning Library, which is free to use.&nbsp;You
 
 ## Materials
 
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Open Textbooks] Open Textbooks
-- [Problem Sets] Problem Sets
+### Lectures
+- **Mathematics for Computer Science textbook** — [🔗](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_textbook/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/syllabus/)
 
+### Reading-List
+- [MIT6_042JS15_Session9.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session9/)
+- [MIT6_042JS15_Session8.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session8/)
+- [MIT6_042JS15_Session7.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session7/)
+- [MIT6_042JS15_Session6.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session6/)
+- [MIT6_042JS15_Session5.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session5/)
+- [MIT6_042JS15_Session4.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session4/)
+- [MIT6_042JS15_Session35.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session35/)
+- [MIT6_042JS15_Session34.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session34/)
+- [MIT6_042JS15_Session33.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session33/)
+- [MIT6_042JS15_Session32.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session32/)
+- [MIT6_042JS15_Session31.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session31/)
+- [MIT6_042JS15_Session30.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session30/)
+- [MIT6_042JS15_Session3.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session3/)
+- [MIT6_042JS15_Session29.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session29/)
+- [MIT6_042JS15_Session28.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session28/)
+- [MIT6_042JS15_Session27.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session27/)
+- [MIT6_042JS15_Session26.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session26/)
+- [MIT6_042JS15_Session25.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session25/)
+- [MIT6_042JS15_Session24.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session24/)
+- [MIT6_042JS15_Session23.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session23/)
+- [MIT6_042JS15_Session22.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session22/)
+- [MIT6_042JS15_Session21.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session21/)
+- [MIT6_042JS15_Session20.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session20/)
+- [MIT6_042JS15_Session2.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session2/)
+- [MIT6_042JS15_Session19.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session19/)
+- [MIT6_042JS15_Session18.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session18/)
+- [MIT6_042JS15_Session17.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session17/)
+- [MIT6_042JS15_Session16.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session16/)
+- [MIT6_042JS15_Session15.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session15/)
+- [MIT6_042JS15_Session14.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session14/)
+- [MIT6_042JS15_Session13.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session13/)
+- [MIT6_042JS15_Session12.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session12/)
+- [MIT6_042JS15_Session11.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session11/)
+- [MIT6_042JS15_Session10.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session10/)
+- [MIT6_042JS15_Session1.pdf (.pdf)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/mit6_042js15_session1/)
+- [Readings](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/)
+
+### Resource
+- [6-042js15.jpeg (.jpeg)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/6-042js15/)
+- [6-042jf05-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/resources/6-042jf05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

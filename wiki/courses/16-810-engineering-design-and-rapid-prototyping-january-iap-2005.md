@@ -12,6 +12,8 @@ views: 1091
 completeness: 0.08333333333333334
 last_modified: "2026-05-06T17:16:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Resource: 1, Syllabus: 2, Video-Transcript: 2"
 ---
 
 # Engineering Design and Rapid Prototyping
@@ -33,10 +35,18 @@ The course was approved by the Undergraduate Committee of the MIT Department of 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Projects with Examples] Projects with Examples
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/pages/lecture-notes/)
+
+### Assignment
+- [Projects 📺Video](https://ocw.mit.edu/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/pages/projects/)
+
+### Resource
+- [Related Resources](https://ocw.mit.edu/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

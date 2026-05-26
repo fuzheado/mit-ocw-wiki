@@ -12,6 +12,9 @@ views: 1316
 completeness: 0.0
 last_modified: "2026-05-06T14:58:08Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 4361
 ---
 
 # Gödel, Escher, Bach
@@ -30,8 +33,19 @@ How are math, art, music, and language intertwined? How does intelligent behavio
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/es-258-goedel-escher-bach-spring-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/es-258-goedel-escher-bach-spring-2007/pages/readings/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/es-258-goedel-escher-bach-spring-2007/pages/projects/)
+
+### Resource
+- [Penrose triangle (.jpg)](https://ocw.mit.edu/courses/es-258-goedel-escher-bach-spring-2007/resources/es-258s07/)
+- [Penrose triangle (thumbnail) (.jpg)](https://ocw.mit.edu/courses/es-258-goedel-escher-bach-spring-2007/resources/es-258s07-th/)
+- [Related Resources](https://ocw.mit.edu/courses/es-258-goedel-escher-bach-spring-2007/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

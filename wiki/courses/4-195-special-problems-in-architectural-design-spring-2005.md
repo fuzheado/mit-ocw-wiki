@@ -12,6 +12,9 @@ views: 452
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T17:01:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 12, Problem-Set: 4, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5525
 ---
 
 # Special Problems in Architectural Design
@@ -30,8 +33,36 @@ This class focuses on representation tools used by architects during the design 
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Exercise III: Material Deployment Investigation (.pdf)](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/resources/ex3/)
+- [Exercise II : House Analysis (.pdf)](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/resources/ex2/)
+- [Exercise II: Diagramming (.pdf)](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/resources/ex1/)
+- [Assignments](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/pages/assignments/)
+
+### Assignment
+- [alexpresentation.swf (.swf)](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/resources/alexpresentation_swf/)
+- [Stone House, Tavole Italy (.pdf)](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/resources/perduestone/)
+- [Mobius House (.pdf)](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/resources/mobius/)
+- [d u t c h h o u s e (.pdf)](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/resources/hwangdutch/)
+- [Casey Renner (.pdf)](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/resources/3rener/)
+- [Stephen Perdue (.pdf)](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/resources/3perdue/)
+- [Material Filters (.pdf)](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/resources/3michaud/)
+- [Margaret Hwang (.pdf)](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/resources/3hwang/)
+- [diagramming times square (.pdf)](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/resources/1pruitt/)
+- [Mapping Detroit  (.pdf)](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/resources/1law/)
+- [Genera House 1: constructing the subject (.pdf)](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/resources/1austin/)
+- [Projects](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/pages/projects/)
+
+### Resource
+- [Stone House (.jpg)](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/resources/4-195s05/)
+- [Stone House (thumbnail) (.jpg)](https://ocw.mit.edu/courses/4-195-special-problems-in-architectural-design-spring-2005/resources/4-195s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

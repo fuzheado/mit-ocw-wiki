@@ -12,6 +12,9 @@ views: 4000
 completeness: 0.06
 last_modified: "2026-05-06T14:58:24Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 3, Reading-List: 1, Resource: 13, Syllabus: 2"
+api_id: 4479
 ---
 
 # Introduction to Art History
@@ -30,8 +33,23 @@ This course investigates the power of art in historical perspective, focusing on
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-601-introduction-to-art-history-fall-2018/pages/calendar/)
+- **Lists of Works** — [🔗](https://ocw.mit.edu/courses/4-601-introduction-to-art-history-fall-2018/pages/lecture-slides/)
+- **Part I (Weeks 2–5)** — [🔗](https://ocw.mit.edu/courses/4-601-introduction-to-art-history-fall-2018/pages/lecture-slides/part-i-weeks-220135/)
+- **Part II (Weeks 6–10)** — [🔗](https://ocw.mit.edu/courses/4-601-introduction-to-art-history-fall-2018/pages/lecture-slides/part-ii-weeks-6201310/)
+- **Part III (Weeks 11–15)** — [🔗](https://ocw.mit.edu/courses/4-601-introduction-to-art-history-fall-2018/pages/lecture-slides/part-iii-weeks-11201315/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/4-601-introduction-to-art-history-fall-2018/pages/readings/)
+- **Second Paper Assignment** — [🔗](https://ocw.mit.edu/courses/4-601-introduction-to-art-history-fall-2018/pages/assignments/4-601-second-paper/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-601-introduction-to-art-history-fall-2018/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/4-601-introduction-to-art-history-fall-2018/pages/assignments/)
+- [Final Paper Assignment](https://ocw.mit.edu/courses/4-601-introduction-to-art-history-fall-2018/pages/assignments/4-601-third-paper/)
+
+### Resource
+- [4-601f18.jpg (.jpg)](https://ocw.mit.edu/courses/4-601-introduction-to-art-history-fall-2018/resources/4-601f18/)
+- [4-601f18-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-601-introduction-to-art-history-fall-2018/resources/4-601f18-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

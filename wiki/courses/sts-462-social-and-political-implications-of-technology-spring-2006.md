@@ -12,6 +12,9 @@ views: 271
 completeness: 0.16000000000000003
 last_modified: "2026-05-06T17:20:18Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 8, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 5470
 ---
 
 # Social and Political Implications of Technology
@@ -30,8 +33,25 @@ This course is a graduate reading seminar, in which historical and contemporary 
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-462-social-and-political-implications-of-technology-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/sts-462-social-and-political-implications-of-technology-spring-2006/pages/readings/)
+
+### Problem-Set
+- [taylorism_kd.pdf (.pdf)](https://ocw.mit.edu/courses/sts-462-social-and-political-implications-of-technology-spring-2006/resources/taylorism_kd/)
+- [taylorism_du.pdf (.pdf)](https://ocw.mit.edu/courses/sts-462-social-and-political-implications-of-technology-spring-2006/resources/taylorism_du/)
+- [metropolis_rw.pdf (.pdf)](https://ocw.mit.edu/courses/sts-462-social-and-political-implications-of-technology-spring-2006/resources/metropolis_rw/)
+- [metropolis_mr.pdf (.pdf)](https://ocw.mit.edu/courses/sts-462-social-and-political-implications-of-technology-spring-2006/resources/metropolis_mr/)
+- [metropolis_kd.pdf (.pdf)](https://ocw.mit.edu/courses/sts-462-social-and-political-implications-of-technology-spring-2006/resources/metropolis_kd/)
+- [accuracy_yl.pdf (.pdf)](https://ocw.mit.edu/courses/sts-462-social-and-political-implications-of-technology-spring-2006/resources/accuracy_yl/)
+- [accuracy_kd.pdf (.pdf)](https://ocw.mit.edu/courses/sts-462-social-and-political-implications-of-technology-spring-2006/resources/accuracy_kd/)
+- [Assignments](https://ocw.mit.edu/courses/sts-462-social-and-political-implications-of-technology-spring-2006/pages/assignments/)
+
+### Resource
+- [sts-462s06.jpg (.jpg)](https://ocw.mit.edu/courses/sts-462-social-and-political-implications-of-technology-spring-2006/resources/sts-462s06/)
+- [sts-462s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/sts-462-social-and-political-implications-of-technology-spring-2006/resources/sts-462s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

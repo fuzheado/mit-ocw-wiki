@@ -12,6 +12,9 @@ views: 221
 completeness: 0.30000000000000004
 last_modified: "2026-05-06T17:18:24Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 12, Problem-Set: 2, Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 5104
 ---
 
 # From the Silk Road to the Great Game: China, Russia, and Central Eurasia
@@ -30,8 +33,36 @@ This subject examines interactions across the Eurasian continent between Russian
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [lec8.pdf (.pdf)](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/resources/lec8/)
+- [lec7.pdf (.pdf)](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/resources/lec7/)
+- [lec6.pdf (.pdf)](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/resources/lec6/)
+- [lec5.pdf (.pdf)](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/resources/lec5/)
+- [lec4.pdf (.pdf)](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/resources/lec4/)
+- [lec2.pdf (.pdf)](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/resources/lec2/)
+- [lec15.pdf (.pdf)](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/resources/lec15/)
+- [lec14.pdf (.pdf)](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/resources/lec14/)
+- [lec13.pdf (.pdf)](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/resources/lec13/)
+- [lec12.pdf (.pdf)](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/resources/lec12/)
+- [lec11.pdf (.pdf)](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/resources/lec11/)
+- [Lecture Notes](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/pages/readings/)
+
+### Problem-Set
+- [geographyquiz.pdf (.pdf)](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/resources/geographyquiz/)
+- [Exams](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/pages/exams/)
+
+### Resource
+- [MIT21H_580f03_syllf08.pdf (.pdf)](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/resources/mit21h_580f03_syllf08/)
+- [MIT21H_580f03_syllf03.pdf (.pdf)](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/resources/mit21h_580f03_syllf03/)
+- [21h-580f03.jpg (.jpg)](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/resources/21h-580f03/)
+- [21h-580f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/resources/21h-580f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

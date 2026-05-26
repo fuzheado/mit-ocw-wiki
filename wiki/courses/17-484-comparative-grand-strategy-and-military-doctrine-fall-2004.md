@@ -12,6 +12,9 @@ views: 374
 completeness: 0.2616666666666667
 last_modified: "2026-05-06T16:51:44Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 5, Problem-Set: 2, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 4"
+api_id: 3396
 ---
 
 # Comparative Grand Strategy and Military Doctrine
@@ -30,9 +33,25 @@ This course will conduct a comparative study of the grand strategies of the grea
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/resources/readings/) · [🔗](https://ocw.mit.edu/courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/resources/17_484_2004_syl/) · [🔗](https://ocw.mit.edu/courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [The Nature of Military Organizations and Their Impact on National Strategy (.pdf)](https://ocw.mit.edu/courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/resources/nature_of_mi_org/)
+- [Nationalism and Military Power / Nationalism and Expansionism (.pdf)](https://ocw.mit.edu/courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/resources/nationalismandmilitarypower_9_29v2/)
+- [Military Organizations, the Business of War, and what it means for Innovation (.pdf)](https://ocw.mit.edu/courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/resources/milorg_and_war/)
+- [Comparative Grand Strategy and Military Doctrine (.pdf)](https://ocw.mit.edu/courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/resources/com_grd_strgy_04/)
+- [Lecture Notes](https://ocw.mit.edu/courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/pages/lecture-notes/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/pages/assignments/)
+
+### Resource
+- [Inspection of Russian Navy, 1893 (.jpg)](https://ocw.mit.edu/courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/resources/17-484f04/)
+- [Inspection of Russian Navy, 1893 (thumbnail) (.jpg)](https://ocw.mit.edu/courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/resources/17-484f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

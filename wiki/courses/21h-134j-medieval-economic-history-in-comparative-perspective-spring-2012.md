@@ -12,6 +12,9 @@ views: 85
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:24:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 2, Reading-List: 1, Resource: 17, Syllabus: 1"
+api_id: 4670
 ---
 
 # Medieval Economic History in Comparative Perspective
@@ -30,10 +33,33 @@ This course will survey the conditions of material life and changing social and 
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Beyond the Course: Related Workshops** — [🔗](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/pages/instructor-insights/beyond-the-course-related-workshops/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/pages/readings/)
+
+### Problem-Set
+- [Assignment 2 Resources (.pdf)](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/resources/mit21h_134js12_assignment2/)
+- [Assignments](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/pages/assignments/)
+
+### Resource
+- [21h-134js12.jpg (.jpg)](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/resources/21h-134js12/)
+- [21h-134js12-th.jpg (.jpg)](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/resources/21h-134js12-th/)
+- [21H-134J_stat-students.png (.png)](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/resources/21h-134j_stat-students/)
+- [21H-134J_classroom-2.png (.png)](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/resources/21h-134j_classroom-2/)
+- [21H-134J_classroom-1.png (.png)](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/resources/21h-134j_classroom-1/)
+- [Related Resources](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/pages/related-resources/)
+- [The Intersection of Research and Teaching](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/pages/instructor-insights/the-intersection-of-research-and-teaching/)
+- [Teaching Students to Think, Problem Solve, and Make Connections](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/pages/instructor-insights/teaching-students-to-think-problem-solve-and-make-connections/)
+- [Teaching Communication](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/pages/instructor-insights/teaching-communication/)
+- [Starting the Course with a Survey](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/pages/instructor-insights/starting-the-course-with-a-survey/)
+- [Infusing the Course with Current Events and Articles](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/pages/instructor-insights/infusing-the-course-with-current-events-and-articles/)
+- [Instructor Insights](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/pages/instructor-insights/)
+- [Adapting the Course from Year to Year](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/pages/instructor-insights/adapting-the-course-from-year-to-year/)
+- [Exploring the Roots of Development](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/pages/additional-materials/exploring-the-roots-of-development/)
+- [Additional Materials](https://ocw.mit.edu/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/pages/additional-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

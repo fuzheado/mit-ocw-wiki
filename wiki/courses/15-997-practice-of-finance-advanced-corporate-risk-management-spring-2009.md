@@ -12,6 +12,9 @@ views: 1144
 completeness: 0.275
 last_modified: "2026-05-06T17:25:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 9, Problem-Set: 14, Reading-List: 6, Resource: 2, Syllabus: 1"
+api_id: 4872
 ---
 
 # Practice of Finance: Advanced Corporate Risk Management
@@ -30,9 +33,46 @@ This is a course in how corporations make use of the insights and tools of risk 
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/pages/syllabus/)
 
+### Lecture-Notes
+- [Strategic Hedging (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_lec04_3/)
+- [Financial Policy (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_lec04_1/)
+- [Trading Operations (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_lec03_3/)
+- [Valuation (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_lec03_1/)
+- [Pricing Risk (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_lec02_3/)
+- [Measuring Risk – Dynamic Models (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_lec02_1/)
+- [Measuring Risk – Part A: Exposure (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_lec01_3/)
+- [The Role of Risk Management (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_lec01_1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/pages/lecture-notes/)
+
+### Reading-List
+- [Chapter 9: Pricing Risk (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_read09_ch09/)
+- [Chapter 6: Measuring Risk—Dynamic Models  (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_read06_ch06/)
+- [Chapter 3: Why Companies Manage Risk (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_read03_ch03/)
+- [Chapter 2: How Companies Manage Risk (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_read02_ch02/)
+- [Chapter 1: Introduction  (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_read01_ch01/)
+- [Readings](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/pages/readings/)
+
+### Problem-Set
+- [Problem Set #4 Solutions (.xls)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/sol_pset4/)
+- [Problem Set #3 Solutions (.xls)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/sol_pset3/)
+- [Problem Set #2 Solutions (.xls)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/sol_pset2/)
+- [Problem Set #1 Solutions (.xls)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/sol_pset1/)
+- [Problem Set #4 (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_pset04/)
+- [Problem Set #3 (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_pset03/)
+- [Problem Set #2 (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_pset02/)
+- [Problem Set #1 (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_pset01/)
+- [Case Assignment #5: Cephalon (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_assn05_case05/)
+- [Case Assignment #4: Risk Management at Apache (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_assn04_case04/)
+- [Case Assignment #3: Antamina (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_assn03_case03/)
+- [Case Assignment #2: Aspen Technology (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_assn02_case02/)
+- [Case Assignment 1: Grosvenor Group Limited (.pdf)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/mit15_997s09_assn01_case01/)
+- [Assignments](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/pages/assignments/)
+
+### Resource
+- [Photograph of a busy trading floor (.jpg)](https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/resources/15-997s09/)
 ## Wikipedia Bridge
 
 ### Related Articles

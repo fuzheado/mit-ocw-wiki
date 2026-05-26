@@ -12,6 +12,9 @@ views: 148
 completeness: 0.195
 last_modified: "2026-05-06T17:20:18Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 9, Problem-Set: 6, Reading-List: 12, Resource: 4, Syllabus: 2"
+api_id: 4469
 ---
 
 # Doctoral Research Seminar: Knowledge in the Public Arena
@@ -31,9 +34,46 @@ The course addresses the politics of the policymaking process, the power of fram
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [lec9.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/lec9/)
+- [lec7.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/lec7/)
+- [lec6.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/lec6/)
+- [lec5.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/lec5/)
+- [lec4.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/lec4/)
+- [lec11.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/lec11/)
+- [lec10.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/lec10/)
+- [lec1.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/pages/lecture-notes/)
+
+### Reading-List
+- [read9.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/read9/)
+- [read8.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/read8/)
+- [read7.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/read7/)
+- [read6.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/read6/)
+- [read5.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/read5/)
+- [read4.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/read4/)
+- [read3.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/read3/)
+- [read2.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/read2/)
+- [read12_13.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/read12_13/)
+- [read11.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/read11/)
+- [read10.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/read10/)
+- [Readings](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/pages/readings/)
+
+### Problem-Set
+- [proposal.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/proposal/)
+- [paper2.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/paper2/)
+- [paper1.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/paper1/)
+- [feedback1.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/feedback1/)
+- [casepaper.pdf (.pdf)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/casepaper/)
+- [Assignments](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/pages/assignments/)
+
+### Resource
+- [11-800s07.jpg (.jpg)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/11-800s07/)
+- [11-800s07-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/resources/11-800s07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

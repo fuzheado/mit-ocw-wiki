@@ -12,6 +12,9 @@ views: 504
 completeness: 0.08666666666666667
 last_modified: "2026-05-06T14:55:57Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 8, Problem-Set: 1, Reading-List: 1, Resource: 8, Syllabus: 1, Video-Transcript: 7"
+api_id: 4786
 ---
 
 # Neural Basis of Learning and Memory
@@ -30,10 +33,33 @@ This course highlights the interplay between cellular and molecular storage mech
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [lecture23.pdf (.pdf)](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/resources/lecture23/)
+- [lecture21.pdf (.pdf)](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/resources/lecture21/)
+- [lecture06.pdf (.pdf)](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/resources/lecture06/)
+- [lecture04.pdf (.pdf)](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/resources/lecture04/)
+- [lecture03.pdf (.pdf)](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/resources/lecture03/)
+- [lecture02.pdf (.pdf)](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/resources/lecture02/)
+- [lecture01.pdf (.pdf)](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/resources/lecture01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/pages/assignments/)
+
+### Resource
+- [fmri_measure.pdf (.pdf)](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/resources/fmri_measure/)
+- [903q1.pdf (.pdf)](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/resources/903q1/)
+- [903lec2.pdf (.pdf)](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/resources/903lec2/)
+- [9-03f07.jpg (.jpg)](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/resources/9-03f07/)
+- [9-03f07-th.jpg (.jpg)](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/resources/9-03f07-th/)
+- [Study Materials](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

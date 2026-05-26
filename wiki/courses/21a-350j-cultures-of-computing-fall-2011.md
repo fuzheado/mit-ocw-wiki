@@ -12,6 +12,9 @@ views: 383
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:10:46Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 3915
 ---
 
 # Cultures of Computing
@@ -30,8 +33,17 @@ This course examines computers anthropologically, as artifacts revealing the soc
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-350j-cultures-of-computing-fall-2011/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21a-350j-cultures-of-computing-fall-2011/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21a-350j-cultures-of-computing-fall-2011/pages/assignments/)
+
+### Resource
+- [Cultures of Computing (.jpg)](https://ocw.mit.edu/courses/21a-350j-cultures-of-computing-fall-2011/resources/21a-350jf11/)
 ## Wikipedia Bridge
 
 ### Related Articles

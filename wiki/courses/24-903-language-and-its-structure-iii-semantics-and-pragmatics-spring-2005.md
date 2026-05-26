@@ -12,6 +12,9 @@ views: 428
 completeness: 0.2
 last_modified: "2026-05-06T17:00:45Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 10, Reading-List: 3, Resource: 6, Syllabus: 2"
+api_id: 3623
 ---
 
 # Language and its Structure III: Semantics and Pragmatics
@@ -30,8 +33,32 @@ This course gives an introduction to the science of linguistic meaning. There ar
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [grice_maxims.pdf (.pdf)](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/resources/grice_maxims/)
+- [grice_cheatsheet.pdf (.pdf)](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/resources/grice_cheatsheet/)
+- [Readings](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/pages/readings/)
+
+### Problem-Set
+- [ps8.pdf (.pdf)](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/resources/ps8/)
+- [ps7.pdf (.pdf)](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/resources/ps7/)
+- [ps6_system.pdf (.pdf)](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/resources/ps6_system/)
+- [ps6.pdf (.pdf)](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/resources/ps6/)
+- [ps5.pdf (.pdf)](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/resources/ps5/)
+- [ps4.pdf (.pdf)](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/resources/ps4/)
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/resources/ps3/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/resources/ps2/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/resources/ps1/)
+- [Assignments](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/pages/assignments/)
+
+### Resource
+- [sherlock2.jpg (.jpg)](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/resources/sherlock2/)
+- [sherlock.jpg (.jpg)](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/resources/sherlock/)
+- [24-903s05.jpg (.jpg)](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/resources/24-903s05/)
+- [24-903s05-th.jpg (.jpg)](https://ocw.mit.edu/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/resources/24-903s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

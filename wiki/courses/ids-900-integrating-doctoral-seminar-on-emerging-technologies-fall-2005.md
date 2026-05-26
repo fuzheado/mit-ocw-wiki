@@ -12,6 +12,9 @@ views: 112
 completeness: 0.275
 last_modified: "2026-05-06T16:55:33Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 9, Problem-Set: 19, Reading-List: 5, Resource: 4, Syllabus: 2"
+api_id: 3967
 ---
 
 # Integrating Doctoral Seminar on Emerging Technologies
@@ -30,8 +33,52 @@ This team-taught subject is for doctoral students working on emerging technologi
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [lec9_sst.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/lec9_sst/)
+- [lec7_packets.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/lec7_packets/)
+- [lec6_gps.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/lec6_gps/)
+- [lec5_forecast.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/lec5_forecast/)
+- [lec5_assess.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/lec5_assess/)
+- [lec2.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/lec2/)
+- [lec11_uav.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/lec11_uav/)
+- [lec1.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/pages/lecture-notes/)
+
+### Reading-List
+- [ota_nuclear.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/ota_nuclear/)
+- [uncertainty.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/uncertainty/)
+- [ota_nis.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/ota_nis/)
+- [ota_missile.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/ota_missile/)
+- [Readings](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/pages/readings/)
+
+### Problem-Set
+- [techassess_sl.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/techassess_sl/)
+- [techassess.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/techassess/)
+- [prometheus_sl.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/prometheus_sl/)
+- [prometheus_sh.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/prometheus_sh/)
+- [prometheus_kd.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/prometheus_kd/)
+- [prometheus_df.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/prometheus_df/)
+- [prometheus_cn.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/prometheus_cn/)
+- [prometheus_am.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/prometheus_am/)
+- [final_kd.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/final_kd/)
+- [final_df.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/final_df/)
+- [final_cn.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/final_cn/)
+- [final_am.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/final_am/)
+- [columbia_sl.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/columbia_sl/)
+- [columbia_kd.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/columbia_kd/)
+- [columbia_df.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/columbia_df/)
+- [columbia_cn.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/columbia_cn/)
+- [columbia_am.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/columbia_am/)
+- [allison.pdf (.pdf)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/allison/)
+- [Assignments](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/pages/assignments/)
+
+### Resource
+- [ids-900jf05.jpg (.jpg)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/ids-900jf05/)
+- [ids-900jf05-th.jpg (.jpg)](https://ocw.mit.edu/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/resources/ids-900jf05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

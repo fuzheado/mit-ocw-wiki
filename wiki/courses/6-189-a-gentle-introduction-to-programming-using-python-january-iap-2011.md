@@ -12,6 +12,8 @@ views: 4750
 completeness: 0.44000000000000006
 last_modified: "2026-05-06T14:59:59Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 2, Syllabus: 2"
 ---
 
 # A Gentle Introduction to Programming Using Python
@@ -32,9 +34,20 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Programming Assignments] Programming Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/pages/calendar/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/pages/assignments/)
+- [Exams](https://ocw.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/pages/exams/)
+
+### Resource
+- [Lectures](https://ocw.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/pages/lectures/)
+- [Related Resources](https://ocw.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

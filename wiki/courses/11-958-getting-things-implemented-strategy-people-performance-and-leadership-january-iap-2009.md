@@ -12,6 +12,8 @@ views: 790
 completeness: 0.30833333333333335
 last_modified: "2026-05-06T17:06:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Reading-List: 1, Resource: 1, Syllabus: 2"
 ---
 
 # Getting Things Implemented: Strategy, People, Performance, and Leadership
@@ -31,8 +33,21 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/pages/readings/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/pages/exams/)
+
+### Resource
+- [Related Resources](https://ocw.mit.edu/courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

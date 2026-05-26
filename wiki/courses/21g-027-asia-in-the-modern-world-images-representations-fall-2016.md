@@ -12,6 +12,9 @@ views: 334
 completeness: 0.06
 last_modified: "2026-05-06T14:51:22Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Resource: 14, Syllabus: 2, Video-Transcript: 11"
+api_id: 5705
 ---
 
 # Asia in the Modern World: Images & Representations
@@ -31,10 +34,27 @@ A unique feature of this offering is that we will run it concurrently with the e
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/pages/calendar/)
+- **Related Resources** — [🔗](https://ocw.mit.edu/courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/pages/related-resources/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/pages/syllabus/)
 
+### Problem-Set
+- [Asia in the Modern World: Tips for Oral Presentations (.pdf)](https://ocw.mit.edu/courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/resources/mit21g_027f16_tips_oral/)
+- [Asia in the Modern World: Tips for Effective Writing (.pdf)](https://ocw.mit.edu/courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/resources/mit21g_027f16_tip_effctive/)
+- [Assignments](https://ocw.mit.edu/courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/pages/assignments/)
+
+### Resource
+- [MIT Visualizing Cultures (.jpg)](https://ocw.mit.edu/courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/resources/vis_cul/)
+- [video_still.jpg (.jpg)](https://ocw.mit.edu/courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/resources/video_still/)
+- [21g-027f16.jpg (.jpg)](https://ocw.mit.edu/courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/resources/21g-027f16/)
+- [21g-027f16-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/resources/21g-027f16-th/)
+- [14E-310-compressor.jpg (.jpg)](https://ocw.mit.edu/courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/resources/14e-310-compressor/)
+- [14.png (.png)](https://ocw.mit.edu/courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/resources/14/)
+- [Unit](https://ocw.mit.edu/courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/pages/unit/)
+- [Study Materials](https://ocw.mit.edu/courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/pages/study-materials/)
+- [Instructor Insights](https://ocw.mit.edu/courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/pages/instructor-insights/)
+- [In-class Group Activities](https://ocw.mit.edu/courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/pages/in-class-group-activities/)
 ## Wikipedia Bridge
 
 ### Related Articles

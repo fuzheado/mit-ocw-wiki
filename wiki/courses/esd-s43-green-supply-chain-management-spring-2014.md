@@ -12,6 +12,9 @@ views: 691
 completeness: 0.06
 last_modified: "2026-05-06T17:24:17Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Problem-Set: 3, Reading-List: 2, Resource: 7, Syllabus: 1, Video-Transcript: 19"
+api_id: 5730
 ---
 
 # Green Supply Chain Management
@@ -31,12 +34,37 @@ Class sessions will combine presentations, case discussions and guest speakers. 
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Problem Sets] Problem Sets
-- [Projects] Projects
+### Lectures
+- **Lecture 10: Green Supply Chain Strategy** — [🎬](https://youtu.be/A0owfH3UERI) · [🔗](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/video_galleries/lecture-notes-and-videos/)
+- **Lecture 3: Reverse Logistics and Closing the Loop** — [🎬](https://youtu.be/e_Hpp8cgeRs) · [🔗](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/video_galleries/lecture-notes-and-videos/)
+- **Lecture 4: Carbon Footprinting** — [🎬](https://youtu.be/OgpNXj2cEzA) · [🔗](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/video_galleries/lecture-notes-and-videos/)
+- **Lecture 5: Life Cycle Analysis** — [🎬](https://youtu.be/gpuvUU0Nl4k) · [🔗](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/video_galleries/lecture-notes-and-videos/)
+- **Lecture 7: Multi-stakeholder Engagements** — [🎬](https://youtu.be/UBfckR8Ne5c) · [🔗](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/video_galleries/lecture-notes-and-videos/)
+- **Lecture 9: International Regulations and Supply Chains: The Case of Mercury** — [🎬](https://youtu.be/HMM2PKQ-VDQ) · [🔗](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/video_galleries/lecture-notes-and-videos/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes and Videos 📺Video](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/video_galleries/lecture-notes-and-videos/)
+
+### Reading-List
+- [WidgetCo - Carbon Footprint Case Study (.pdf)](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/resources/mitesd_s43s14_case_study/)
+- [Readings](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/pages/readings/)
+
+### Problem-Set
+- [Homework 6 (.pdf)](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/resources/mitesd_s43s14_6_hw/)
+- [MITESD_S43S14_4_SC_Carbon.xlsx (.xlsx)](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/resources/mitesd_s43s14_4_sc_carbon/)
+- [Assignments](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/pages/assignments/)
+
+### Assignment
+- [Team Projects](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/pages/team-projects/)
+
+### Resource
+- [Lecture 1: Introduction to Green Supply Chain Management (.pdf)](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/resources/mitesd_s43s14_lecture1/)
+- [esd-s43s14.jpg (.jpg)](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/resources/esd-s43s14/)
+- [esd-s43s14-th.jpg (.jpg)](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/resources/esd-s43s14-th/)
+- [ESD-S43_stat-students.png (.png)](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/resources/esd-s43_stat-students/)
+- [ESD-S43_classroom-1.jpg (.jpg)](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/resources/esd-s43_classroom-1/)
+- [Instructor Insights](https://ocw.mit.edu/courses/esd-s43-green-supply-chain-management-spring-2014/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

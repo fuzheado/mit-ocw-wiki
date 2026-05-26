@@ -12,6 +12,9 @@ views: 1974
 completeness: 0.0
 last_modified: "2026-05-06T14:54:48Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2, Syllabus: 1"
+api_id: 16265
 ---
 
 # Operating System Engineering
@@ -30,10 +33,11 @@ This is a course on the design and implementation of operating systems and their
 
 ## Materials
 
-- [Laboratory Assignments] Laboratory Assignments
-- [Lecture Notes] Lecture Notes
-- [Open Textbooks] Open Textbooks
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/pages/syllabus/)
 
+### Resource
+- [mit6-1810-f23.jpg (.jpg)](https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/resources/mit6-1810-f23_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

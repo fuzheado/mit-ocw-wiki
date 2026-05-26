@@ -12,6 +12,9 @@ views: 161
 completeness: 0.2
 last_modified: "2026-05-06T17:00:33Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 12, Reading-List: 5, Resource: 5, Syllabus: 2"
+api_id: 4243
 ---
 
 # Cell-Matrix Mechanics
@@ -30,9 +33,35 @@ Mechanical forces play a decisive role during development of tissues and organs,
 
 ## Materials
 
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/pages/syllabus/)
+- **Term Report** — [🔗](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/pages/term-report/)
 
+### Reading-List
+- [Effects of Exogenous Mechanical Forces (.pdf)](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/resources/mit2_785jf14_chapter_6/)
+- [Cell-Matrix Interaction: Integrins and Fibronexus (.pdf)](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/resources/mit2_785jf14_chapter_3/)
+- [Tissue Structures and Unit Cell Processes (.pdf)](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/resources/mit2_785jf14_chapter_2/)
+- [Introduction (.pdf)](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/resources/mit2_785jf14_chapter_1/)
+- [Readings](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/pages/readings/)
+
+### Problem-Set
+- [Cell-Matrix Mechanics: Homework 8 (.pdf)](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/resources/mit2_785jf14_homework_8/)
+- [Cell-Matrix Mechanics: Solutions to Homework 6 (.pdf)](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/resources/mit2_785jf14_homework_6_sol/)
+- [Cell-Matrix Mechanics: Homework 6 (.pdf)](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/resources/mit2_785jf14_homework_6/)
+- [Cell-Matrix Mechanics: Homework 5 (.pdf)](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/resources/mit2_785jf14_homework_5/)
+- [Cell-Matrix Mechanics: Homework 4 (.pdf)](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/resources/mit2_785jf14_homework_4/)
+- [Cell-Matrix Mechanics: Solutions to Homework 3 (.pdf)](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/resources/mit2_785jf14_homework_3_sol/)
+- [Cell-Matrix Mechanics: Homework 3 (.pdf)](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/resources/mit2_785jf14_homework_3/)
+- [Cell-Matrix Mechanics: Solutions to Homework 2 (.pdf)](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/resources/mit2_785jf14_homework_2_sol/)
+- [Cell-Matrix Mechanics: Homework 2 (.pdf)](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/resources/mit2_785jf14_homework_2/)
+- [Cell-Matrix Mechanics: Solutions to Homework 1 (.pdf)](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/resources/mit2_785jf14_homework_1_sol/)
+- [Cell-Matrix Mechanics: Homework 1 (.pdf)](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/resources/mit2_785jf14_homework_1/)
+- [Assignments](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/pages/assignments/)
+
+### Resource
+- [2-785jf14.jpg (.jpg)](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/resources/2-785jf14/)
+- [2-785jf14-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-785j-cell-matrix-mechanics-fall-2014/resources/2-785jf14-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

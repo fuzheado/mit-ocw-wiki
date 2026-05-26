@@ -12,6 +12,9 @@ views: 404
 completeness: 0.18000000000000002
 last_modified: "2026-05-06T14:44:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 9, Reading-List: 11, Resource: 14, Syllabus: 2"
+api_id: 3682
 ---
 
 # Genre Fiction Workshop
@@ -30,9 +33,47 @@ Some argue that genre fiction is only a marketing category, but other critics sa
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar and Readings** — [🔗](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/pages/calendar-and-readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/pages/syllabus/)
 
+### Reading-List
+- [Workshopping: The Rules of Engagement & The Mechanics (.pdf)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/mit21w_758s13_workshopping/)
+- [Instructor’s Notes (.pdf)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/mit21w_758s13_notes-org/)
+- [Class 7 (.pdf)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/mit21w_758s13_class_7/)
+- [Class 6 (.pdf)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/mit21w_758s13_class_6/)
+- [Class 5 (.pdf)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/mit21w_758s13_class_5/)
+- [Class 4 (.pdf)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/mit21w_758s13_class_4/)
+- [Class 3 (.pdf)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/mit21w_758s13_class_3/)
+- [Class 2 (.pdf)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/mit21w_758s13_class_2/)
+- [Class 1 (.pdf)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/mit21w_758s13_class_1/)
+- [Additional Notes (.pdf)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/mit21w_758s13_add_notes/)
+
+### Problem-Set
+- [How to Start a Zombie Apocalypse – revised (.pdf)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/mit21w_758s13_htsza-rev/)
+- [How to Start a Zombie Apocalypse – first draft (.pdf)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/mit21w_758s13_htsa-fr_drft/)
+- [High Caliber Men – revised (.pdf)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/mit21w_758s13_hcm-rev/)
+- [High Caliber Men – first draft (.pdf)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/mit21w_758s13_hcm-fr_drft/)
+- [Deliberately – first draft (.pdf)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/mit21w_758s13_del-fr_drft/)
+- [Deliberately – revised (.pdf)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/mit21w_758s13_del-fn_drft/)
+- [The Haunting of Belfer – first draft (.pdf)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/mit21w_758s13_aka-fr_drft/)
+- [The Haunting of Belfer – revised (.pdf)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/mit21w_758s13_aka-fn_drft/)
+- [Assignments and Student Work](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/pages/assignments-and-student-work/)
+
+### Resource
+- [Image_2.jpg (.jpg)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/image_2/)
+- [Image_1.jpg (.jpg)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/image_1/)
+- [21W-758s13.jpg (.jpg)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/21w-758s13/)
+- [21W-758s13-th.jpg (.jpg)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/21w-758s13-th/)
+- [21W-758_stat-students.png (.png)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/21w-758_stat-students/)
+- [21W-758_classroom-1.jpg (.jpg)](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/resources/21w-758_classroom-1/)
+- [Teaching Students to Challenge Texts: "What is Fantasy?"](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/pages/instructor-insights/teaching-students-to-challenge-texts-what-is-fantasy/)
+- [Teaching MIT Students](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/pages/instructor-insights/teaching-mit-students/)
+- [Selecting and Approaching Books](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/pages/instructor-insights/selecting-and-approaching-books/)
+- [Genre and Fiction](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/pages/instructor-insights/genre-and-fiction/)
+- [Instructor Insights](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/pages/instructor-insights/)
+- [Course Components](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/pages/instructor-insights/course-components/)
+- [Teaching Students to Challenge Texts: &#34;What is Fantasy?&#34;](https://ocw.mit.edu/courses/21w-758-genre-fiction-workshop-spring-2013/pages/instructor-insights/teaching-students-to-challenge-texts-what-is-fantasy/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 407
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T14:45:36Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 4, Resource: 4, Syllabus: 2, Video-Transcript: 1"
+api_id: 4032
 ---
 
 # Practice of Participatory Action Research (PAR)
@@ -31,8 +34,24 @@ Learn more about Participatory Action Research at MIT.
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-237-practice-of-participatory-action-research-par-spring-2016/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/11-237-practice-of-participatory-action-research-par-spring-2016/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-237-practice-of-participatory-action-research-par-spring-2016/pages/syllabus/)
 
+### Reading-List
+- [Notes on Case Study Method from Yin, Chapter 1 (.pdf)](https://ocw.mit.edu/courses/11-237-practice-of-participatory-action-research-par-spring-2016/resources/mit11_237s16_yinnotes/)
+- [Notes on Greenwood and Levin (.pdf)](https://ocw.mit.edu/courses/11-237-practice-of-participatory-action-research-par-spring-2016/resources/mit11_237s16_greenwood/)
+
+### Problem-Set
+- [Narrative Analysis Student Example (.pdf)](https://ocw.mit.edu/courses/11-237-practice-of-participatory-action-research-par-spring-2016/resources/mit11_237s16_student_eg/)
+- [PAR Case Study (.pdf)](https://ocw.mit.edu/courses/11-237-practice-of-participatory-action-research-par-spring-2016/resources/mit11_237s16_parassignment/)
+- [Narrative Analysis Handout (.pdf)](https://ocw.mit.edu/courses/11-237-practice-of-participatory-action-research-par-spring-2016/resources/mit11_237s16_narrative/)
+- [Assignments](https://ocw.mit.edu/courses/11-237-practice-of-participatory-action-research-par-spring-2016/pages/assignments/)
+
+### Resource
+- [Participatory Action Research (PAR) (.jpg)](https://ocw.mit.edu/courses/11-237-practice-of-participatory-action-research-par-spring-2016/resources/11-237s162/)
+- [Participatory Action Research (PAR) (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-237-practice-of-participatory-action-research-par-spring-2016/resources/11-237s162-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

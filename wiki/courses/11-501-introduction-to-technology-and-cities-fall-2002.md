@@ -12,6 +12,9 @@ views: 154
 completeness: 0.016666666666666666
 last_modified: "2026-05-06T14:48:09Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4526
 ---
 
 # Introduction to Technology and Cities
@@ -32,8 +35,20 @@ During the past two decades, ICTs have become so pervasive and disruptive that t
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-501-introduction-to-technology-and-cities-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-501-introduction-to-technology-and-cities-fall-2002/pages/syllabus/)
 
+### Lecture-Notes
+- [E-government and GIS: The British Experience (.pdf)](https://ocw.mit.edu/courses/11-501-introduction-to-technology-and-cities-fall-2002/resources/barrlec02dec06/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-501-introduction-to-technology-and-cities-fall-2002/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-501-introduction-to-technology-and-cities-fall-2002/pages/readings/)
+
+### Resource
+- [Downtown Boston (.jpg)](https://ocw.mit.edu/courses/11-501-introduction-to-technology-and-cities-fall-2002/resources/11-501f02/)
+- [Downtown Boston (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-501-introduction-to-technology-and-cities-fall-2002/resources/11-501f02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

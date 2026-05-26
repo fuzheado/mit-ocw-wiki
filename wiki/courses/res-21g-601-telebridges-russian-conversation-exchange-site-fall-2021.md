@@ -12,6 +12,9 @@ views: 123
 completeness: 0.0
 last_modified: "2026-05-06T14:54:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 1"
+api_id: 5886
 ---
 
 # Телемосты (Telebridges) Russian Conversation Exchange Site
@@ -33,8 +36,8 @@ The Телемосты website is published under a Creative Commons Attribution
 
 ## Materials
 
-- [Other Video] Other Video
-
+### Resource
+- [mitres21g_601f_21.jpg (.jpg)](https://ocw.mit.edu/courses/res-21g-601-telebridges-russian-conversation-exchange-site-fall-2021/resources/mitres21g_601f_21_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

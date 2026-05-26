@@ -12,6 +12,9 @@ views: 446
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:12:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 9, Problem-Set: 2, Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 4776
 ---
 
 # Program Analysis
@@ -30,8 +33,33 @@ type: "course"
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/pages/readings/)
+
+### Problem-Set
+- [assign1.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/resources/assign1/)
+- [Assignments](https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/pages/assignments/)
+
+### Assignment
+- [unit_type_infere.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/resources/unit_type_infere/)
+- [unit_regression.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/resources/unit_regression/)
+- [test_generation.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/resources/test_generation/)
+- [test_case_reduct.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/resources/test_case_reduct/)
+- [test_case_anon.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/resources/test_case_anon/)
+- [object_control_i.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/resources/object_control_i/)
+- [javarifier.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/resources/javarifier/)
+- [elaboration_hard.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/resources/elaboration_hard/)
+- [Projects](https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/pages/projects/)
+
+### Resource
+- [points_to.pdf (.pdf)](https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/resources/points_to/)
+- [6-883f05.jpg (.jpg)](https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/resources/6-883f05/)
+- [6-883f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/resources/6-883f05-th/)
+- [Study Materials](https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

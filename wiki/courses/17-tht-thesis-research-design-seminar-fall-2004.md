@@ -12,6 +12,9 @@ views: 158
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:50:11Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5378
 ---
 
 # Thesis Research Design Seminar
@@ -30,8 +33,19 @@ This seminar is for students who plan to write a senior thesis in Political Scie
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-tht-thesis-research-design-seminar-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-tht-thesis-research-design-seminar-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-tht-thesis-research-design-seminar-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-tht-thesis-research-design-seminar-fall-2004/pages/assignments/)
+
+### Resource
+- [Wives of Political Prisoners (.jpg)](https://ocw.mit.edu/courses/17-tht-thesis-research-design-seminar-fall-2004/resources/17-thtf04/)
+- [Wives of Political Prisoners (thumbnail) (.jpg)](https://ocw.mit.edu/courses/17-tht-thesis-research-design-seminar-fall-2004/resources/17-thtf04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

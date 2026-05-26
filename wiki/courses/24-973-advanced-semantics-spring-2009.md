@@ -12,6 +12,9 @@ views: 431
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:11:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Reading-List: 2, Resource: 11, Syllabus: 1"
+api_id: 3864
 ---
 
 # Advanced Semantics
@@ -31,9 +34,27 @@ This year, we will focus on topics having to do with modality, conditionals, ten
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Recitations** — [🔗](https://ocw.mit.edu/courses/24-973-advanced-semantics-spring-2009/pages/recitations/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-973-advanced-semantics-spring-2009/pages/syllabus/)
 
+### Reading-List
+- [Speaking of Qualities (.pdf)](https://ocw.mit.edu/courses/24-973-advanced-semantics-spring-2009/resources/mit24_973s09_slide01/)
+- [Readings](https://ocw.mit.edu/courses/24-973-advanced-semantics-spring-2009/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/24-973-advanced-semantics-spring-2009/pages/assignments/)
+
+### Resource
+- [Recitation 12 (.pdf)](https://ocw.mit.edu/courses/24-973-advanced-semantics-spring-2009/resources/mit24_973s09_rec12/)
+- [Recitation 10 (.pdf)](https://ocw.mit.edu/courses/24-973-advanced-semantics-spring-2009/resources/mit24_973s09_rec10/)
+- [Recitation 9 (.pdf)](https://ocw.mit.edu/courses/24-973-advanced-semantics-spring-2009/resources/mit24_973s09_rec09/)
+- [Recitation 8 (.pdf)](https://ocw.mit.edu/courses/24-973-advanced-semantics-spring-2009/resources/mit24_973s09_rec08/)
+- [Recitation 6 (.pdf)](https://ocw.mit.edu/courses/24-973-advanced-semantics-spring-2009/resources/mit24_973s09_rec06/)
+- [Recitation 5 (.pdf)](https://ocw.mit.edu/courses/24-973-advanced-semantics-spring-2009/resources/mit24_973s09_rec05/)
+- [Recitation 2 (.pdf)](https://ocw.mit.edu/courses/24-973-advanced-semantics-spring-2009/resources/mit24_973s09_rec02/)
+- [Recitation 1 (.pdf)](https://ocw.mit.edu/courses/24-973-advanced-semantics-spring-2009/resources/mit24_973s09_rec01/)
+- [Photograph of a dictionary definition of the word ''semantics.'' (.jpg)](https://ocw.mit.edu/courses/24-973-advanced-semantics-spring-2009/resources/24-973s09/)
 ## Wikipedia Bridge
 
 ### Related Articles

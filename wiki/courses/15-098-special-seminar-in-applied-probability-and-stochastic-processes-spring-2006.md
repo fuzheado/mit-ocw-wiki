@@ -12,6 +12,9 @@ views: 210
 completeness: 0.008333333333333333
 last_modified: "2026-05-06T17:17:23Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 5370
 ---
 
 # Special Seminar in Applied Probability and Stochastic Processes
@@ -30,8 +33,18 @@ This seminar is intended for doctoral students and discusses topics in applied p
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-098-special-seminar-in-applied-probability-and-stochastic-processes-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/15-098-special-seminar-in-applied-probability-and-stochastic-processes-spring-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-098-special-seminar-in-applied-probability-and-stochastic-processes-spring-2006/pages/readings/)
+
+### Resource
+- [Erasure Decoding (.jpg)](https://ocw.mit.edu/courses/15-098-special-seminar-in-applied-probability-and-stochastic-processes-spring-2006/resources/15-098s06/)
+- [Erasure Decoding (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-098-special-seminar-in-applied-probability-and-stochastic-processes-spring-2006/resources/15-098s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

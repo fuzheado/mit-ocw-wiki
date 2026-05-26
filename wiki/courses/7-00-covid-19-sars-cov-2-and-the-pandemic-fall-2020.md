@@ -12,6 +12,9 @@ views: 117
 completeness: 0.0
 last_modified: "2026-05-06T17:10:43Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 4, Syllabus: 1"
+api_id: 4282
 ---
 
 # COVID-19, SARS-CoV-2 and the Pandemic
@@ -32,8 +35,13 @@ NOTE: This class ran from September 1, 2020 through December 8, 2020.
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/7-00-covid-19-sars-cov-2-and-the-pandemic-fall-2020/pages/calendar/)
 
+### Resource
+- [7-00F20.gif (.gif)](https://ocw.mit.edu/courses/7-00-covid-19-sars-cov-2-and-the-pandemic-fall-2020/resources/7-00f20/)
+- [7-00F20-th.gif (.gif)](https://ocw.mit.edu/courses/7-00-covid-19-sars-cov-2-and-the-pandemic-fall-2020/resources/7-00f20-th/)
+- [Syllabus](https://ocw.mit.edu/courses/7-00-covid-19-sars-cov-2-and-the-pandemic-fall-2020/pages/onlinecourse/)
 ## Wikipedia Bridge
 
 ### Related Articles

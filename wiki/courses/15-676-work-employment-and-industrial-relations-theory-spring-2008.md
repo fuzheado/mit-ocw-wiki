@@ -12,6 +12,9 @@ views: 146
 completeness: 0.07833333333333334
 last_modified: "2026-05-06T15:00:46Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 7, Problem-Set: 1, Reading-List: 2, Resource: 3, Syllabus: 1"
+api_id: 5319
 ---
 
 # Work, Employment, and Industrial Relations Theory
@@ -30,9 +33,28 @@ This seminar will cover the multi-disciplinary theoretical and empirical foundat
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/pages/syllabus/)
 
+### Lecture-Notes
+- [ses7_psych.pdf (.pdf)](https://ocw.mit.edu/courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/resources/ses7_psych/)
+- [ses5_institutins.pdf (.pdf)](https://ocw.mit.edu/courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/resources/ses5_institutins/)
+- [ses3_theory.pdf (.pdf)](https://ocw.mit.edu/courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/resources/ses3_theory/)
+- [ses2_history.pdf (.pdf)](https://ocw.mit.edu/courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/resources/ses2_history/)
+- [ses1_intro.pdf (.pdf)](https://ocw.mit.edu/courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/resources/ses1_intro/)
+- [ses10_puzzles.pdf (.pdf)](https://ocw.mit.edu/courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/resources/ses10_puzzles/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/pages/readings/)
+- [Appendix](https://ocw.mit.edu/courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/pages/readings/appendix/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/pages/assignments/)
+
+### Resource
+- [15-676s08.jpg (.jpg)](https://ocw.mit.edu/courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/resources/15-676s08/)
+- [15-676s08-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/resources/15-676s08-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

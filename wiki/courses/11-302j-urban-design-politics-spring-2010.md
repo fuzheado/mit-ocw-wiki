@@ -12,6 +12,9 @@ views: 203
 completeness: 0.0
 last_modified: "2026-05-06T17:13:58Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 9, Syllabus: 2"
+api_id: 4381
 ---
 
 # Urban Design Politics
@@ -30,8 +33,21 @@ This is a seminar about the ways that urban design contributes to the distributi
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- ** Assignments** — [🔗](https://ocw.mit.edu/courses/11-302j-urban-design-politics-spring-2010/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-302j-urban-design-politics-spring-2010/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-302j-urban-design-politics-spring-2010/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-302j-urban-design-politics-spring-2010/pages/readings/)
+
+### Resource
+- [Stealing the Show: Ed Rendell and the Urban Design Politics of Philadelphia's Mummers Parade (.pdf)](https://ocw.mit.edu/courses/11-302j-urban-design-politics-spring-2010/resources/mit11_302js10_whitlow1/)
+- [La Grande Arche de la Défense, Paris (.pdf)](https://ocw.mit.edu/courses/11-302j-urban-design-politics-spring-2010/resources/mit11_302js10_simpson1/)
+- [Olympiastadion Berlin: Embodying Nazi Politics through Architecture (.pdf)](https://ocw.mit.edu/courses/11-302j-urban-design-politics-spring-2010/resources/mit11_302js10_kohr1/)
+- [Designed for Glory: Huey P. Long's building program in Louisiana (.pdf)](https://ocw.mit.edu/courses/11-302j-urban-design-politics-spring-2010/resources/mit11_302js10_hebert1/)
+- [Monuments and the Construction of Political Power - Case Study: Humayun's Tomb, New Delhi (.pdf)](https://ocw.mit.edu/courses/11-302j-urban-design-politics-spring-2010/resources/mit11_302js10_ansari1/)
+- [ Photograph of protesters in Argentina (.jpg)](https://ocw.mit.edu/courses/11-302j-urban-design-politics-spring-2010/resources/11-302js10/)
 ## Wikipedia Bridge
 
 ### Related Articles

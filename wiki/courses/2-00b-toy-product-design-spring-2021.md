@@ -12,6 +12,9 @@ views: 3951
 completeness: 0.0
 last_modified: "2026-05-06T15:03:01Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 3"
+api_id: 3610
 ---
 
 # Toy Product Design
@@ -30,10 +33,10 @@ Toy Product Design is an introduction to the product design process with a focus
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
-- [Videos] Videos
-
+### Resource
+- [2-00bs21.jpg (.jpg)](https://ocw.mit.edu/courses/2-00b-toy-product-design-spring-2021/resources/2-00bs21/)
+- [2-00bs21-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-00b-toy-product-design-spring-2021/resources/2-00bs21-th/)
+- [Syllabus](https://ocw.mit.edu/courses/2-00b-toy-product-design-spring-2021/pages/syllabus/)
 ## Wikipedia Bridge
 
 ### Related Articles

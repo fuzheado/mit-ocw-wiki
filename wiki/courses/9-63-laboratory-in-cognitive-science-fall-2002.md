@@ -12,6 +12,9 @@ views: 90
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T14:48:02Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3393
 ---
 
 # Laboratory in Cognitive Science
@@ -30,9 +33,22 @@ Teaches principles of experimental methods in human perception and cognition, in
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-63-laboratory-in-cognitive-science-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-63-laboratory-in-cognitive-science-fall-2002/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-63-laboratory-in-cognitive-science-fall-2002/pages/readings/)
+
+### Problem-Set
+- [Team Experiments Set 3 (.pdf)](https://ocw.mit.edu/courses/9-63-laboratory-in-cognitive-science-fall-2002/resources/experiment_3/)
+- [Experiments Set 2 (.pdf)](https://ocw.mit.edu/courses/9-63-laboratory-in-cognitive-science-fall-2002/resources/experiment_2/)
+- [Experiment Set 1 (.pdf)](https://ocw.mit.edu/courses/9-63-laboratory-in-cognitive-science-fall-2002/resources/experiment_1/)
+- [Assignments](https://ocw.mit.edu/courses/9-63-laboratory-in-cognitive-science-fall-2002/pages/assignments/)
+
+### Resource
+- [Tools for Studying the Structure and Function of the Brain (.gif)](https://ocw.mit.edu/courses/9-63-laboratory-in-cognitive-science-fall-2002/resources/9-63f02/)
+- [Tools for Studying the Structure and Function of the Brain (thumbnail) (.gif)](https://ocw.mit.edu/courses/9-63-laboratory-in-cognitive-science-fall-2002/resources/9-63f02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

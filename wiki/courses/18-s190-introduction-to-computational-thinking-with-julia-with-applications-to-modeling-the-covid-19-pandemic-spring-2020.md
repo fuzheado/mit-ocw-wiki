@@ -12,6 +12,9 @@ views: 974
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:04:09Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Resource: 5, Syllabus: 1, Video-Transcript: 14"
+api_id: 4196
 ---
 
 # Introduction to Computational Thinking with Julia, with Applications to Modeling the COVID-19 Pandemic
@@ -31,9 +34,16 @@ See the MIT News article Computational Thinking Class Enables Students to Engage
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Problem Sets] Problem Sets
+### Lectures
+- **Course Materials** — [🔗](https://ocw.mit.edu/courses/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/pages/course-materials/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/pages/assignments/)
+
+### Resource
+- [18-S190s20.gif (.gif)](https://ocw.mit.edu/courses/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/resources/18-s190s20/)
+- [18-S190s20-th.gif (.gif)](https://ocw.mit.edu/courses/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/resources/18-s190s20-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 994
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:47:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 2"
+api_id: 5530
 ---
 
 # The Brain and Cognitive Sciences I
@@ -30,8 +33,20 @@ Survey of principles underlying the structure and function of the nervous system
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-011-the-brain-and-cognitive-sciences-i-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-011-the-brain-and-cognitive-sciences-i-fall-2002/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-011-the-brain-and-cognitive-sciences-i-fall-2002/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/9-011-the-brain-and-cognitive-sciences-i-fall-2002/pages/assignments/)
+
+### Resource
+- [Neural Networks (.jpg)](https://ocw.mit.edu/courses/9-011-the-brain-and-cognitive-sciences-i-fall-2002/resources/9-011f02/)
+- [Doogie Mouse (.jpg)](https://ocw.mit.edu/courses/9-011-the-brain-and-cognitive-sciences-i-fall-2002/resources/9-011f02-th/)
+- [Study Materials](https://ocw.mit.edu/courses/9-011-the-brain-and-cognitive-sciences-i-fall-2002/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

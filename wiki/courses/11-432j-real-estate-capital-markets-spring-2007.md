@@ -12,6 +12,9 @@ views: 975
 completeness: 0.15000000000000002
 last_modified: "2026-05-06T14:47:33Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 6, Problem-Set: 5, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4567
 ---
 
 # Real Estate Capital Markets
@@ -30,10 +33,32 @@ This half-semester course introduces and surveys the major public capital market
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-432j-real-estate-capital-markets-spring-2007/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-432j-real-estate-capital-markets-spring-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [derivs.pdf (.pdf)](https://ocw.mit.edu/courses/11-432j-real-estate-capital-markets-spring-2007/resources/derivs/)
+- [ch26.pdf (.pdf)](https://ocw.mit.edu/courses/11-432j-real-estate-capital-markets-spring-2007/resources/ch26/)
+- [ch23.pdf (.pdf)](https://ocw.mit.edu/courses/11-432j-real-estate-capital-markets-spring-2007/resources/ch23/)
+- [ch21_22.pdf (.pdf)](https://ocw.mit.edu/courses/11-432j-real-estate-capital-markets-spring-2007/resources/ch21_22/)
+- [ch20.pdf (.pdf)](https://ocw.mit.edu/courses/11-432j-real-estate-capital-markets-spring-2007/resources/ch20/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-432j-real-estate-capital-markets-spring-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-432j-real-estate-capital-markets-spring-2007/pages/readings/)
+
+### Problem-Set
+- [lincoln.pdf (.pdf)](https://ocw.mit.edu/courses/11-432j-real-estate-capital-markets-spring-2007/resources/lincoln/)
+- [fairweather.pdf (.pdf)](https://ocw.mit.edu/courses/11-432j-real-estate-capital-markets-spring-2007/resources/fairweather/)
+- [cmbs.pdf (.pdf)](https://ocw.mit.edu/courses/11-432j-real-estate-capital-markets-spring-2007/resources/cmbs/)
+- [2007data.xls (.xls)](https://ocw.mit.edu/courses/11-432j-real-estate-capital-markets-spring-2007/resources/2007data/)
+- [Assignments](https://ocw.mit.edu/courses/11-432j-real-estate-capital-markets-spring-2007/pages/assignments/)
+
+### Resource
+- [11-432js07.jpg (.jpg)](https://ocw.mit.edu/courses/11-432j-real-estate-capital-markets-spring-2007/resources/11-432js07/)
+- [11-432js07-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-432j-real-estate-capital-markets-spring-2007/resources/11-432js07-th/)
+- [Related Resources](https://ocw.mit.edu/courses/11-432j-real-estate-capital-markets-spring-2007/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

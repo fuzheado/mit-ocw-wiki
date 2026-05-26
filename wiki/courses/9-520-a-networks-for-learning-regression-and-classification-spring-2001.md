@@ -12,6 +12,9 @@ views: 450
 completeness: 0.028333333333333335
 last_modified: "2026-05-06T17:22:30Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5587
 ---
 
 # Networks for Learning: Regression and Classification
@@ -30,9 +33,22 @@ The course focuses on the problem of supervised learning within the framework of
 
 ## Materials
 
-- [Problem Sets] Problem Sets
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-520-a-networks-for-learning-regression-and-classification-spring-2001/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-520-a-networks-for-learning-regression-and-classification-spring-2001/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/9-520-a-networks-for-learning-regression-and-classification-spring-2001/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-520-a-networks-for-learning-regression-and-classification-spring-2001/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/9-520-a-networks-for-learning-regression-and-classification-spring-2001/pages/assignments/)
+
+### Resource
+- [Predicting the type of cancer from DNA chips (.jpg)](https://ocw.mit.edu/courses/9-520-a-networks-for-learning-regression-and-classification-spring-2001/resources/9-520as01/)
+- [Predicting the type of cancer from DNA chips (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-520-a-networks-for-learning-regression-and-classification-spring-2001/resources/9-520as01-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

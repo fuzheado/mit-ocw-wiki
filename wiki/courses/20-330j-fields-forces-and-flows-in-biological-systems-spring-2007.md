@@ -12,6 +12,9 @@ views: 270
 completeness: 0.1966666666666667
 last_modified: "2026-05-06T17:04:51Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 14, Problem-Set: 4, Reading-List: 1, Resource: 8, Syllabus: 1"
+api_id: 3420
 ---
 
 # Fields, Forces and Flows in Biological Systems
@@ -30,9 +33,42 @@ This course introduces the basic driving forces for electric current, fluid flow
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [lec1.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/lec1/)
+- [fields_lec9.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/fields_lec9/)
+- [fields_lec8.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/fields_lec8/)
+- [fields_lec7.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/fields_lec7/)
+- [fields_lec6.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/fields_lec6/)
+- [fields_lec5.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/fields_lec5/)
+- [fields_lec3_4.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/fields_lec3_4/)
+- [fields_lec1_2.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/fields_lec1_2/)
+- [electrokin_lec7.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/electrokin_lec7/)
+- [electrokin_lec6.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/electrokin_lec6/)
+- [electrokin_lec5.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/electrokin_lec5/)
+- [electrokin_lec3.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/electrokin_lec3/)
+- [electrokin_lec2.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/electrokin_lec2/)
+- [Lecture Notes](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/pages/readings/)
+
+### Problem-Set
+- [ps4.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/ps4/)
+- [ps10.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/ps10/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/ps1/)
+- [Assignments](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/pages/assignments/)
+
+### Resource
+- [tutorial_femlab.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/tutorial_femlab/)
+- [tutorial_curl_divergence.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/tutorial_curl_divergence/)
+- [tutor_curl_diver.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/tutor_curl_diver/)
+- [final_eqn_sheet.pdf (.pdf)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/final_eqn_sheet/)
+- [20-330js07.jpg (.jpg)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/20-330js07/)
+- [20-330js07-th.jpg (.jpg)](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/resources/20-330js07-th/)
+- [Study Materials](https://ocw.mit.edu/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

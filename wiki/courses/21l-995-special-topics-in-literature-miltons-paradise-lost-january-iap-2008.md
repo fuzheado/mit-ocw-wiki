@@ -12,6 +12,8 @@ views: 311
 completeness: 0.07833333333333334
 last_modified: "2026-05-06T17:01:33Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Reading-List: 1, Resource: 1, Syllabus: 1, Video-Transcript: 1"
 ---
 
 # Special Topics in Literature: Milton's "Paradise Lost"
@@ -30,9 +32,20 @@ In this 3-unit class, we will read Milton’s epic poem Paradise Lost. The goal 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008/pages/assignments/)
+
+### Resource
+- [Related Resources](https://ocw.mit.edu/courses/21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

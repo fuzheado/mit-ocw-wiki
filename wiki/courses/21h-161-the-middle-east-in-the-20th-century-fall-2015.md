@@ -12,6 +12,9 @@ views: 609
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:18:49Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 16"
+api_id: 5554
 ---
 
 # The Middle East in the 20th Century
@@ -30,8 +33,18 @@ This course surveys the history of the Middle East, from the end of the 19th cen
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-161-the-middle-east-in-the-20th-century-fall-2015/pages/calendar/)
+- **Inside Story Fatah and Hamas 04 Aug 08** — [🎬 1](https://www.youtube.com/watch?v=rB116pAorpc) · [🎬 2](https://www.youtube.com/watch?v=Piz3B686OMQ)
+- **Readings and Videos** — [🔗](https://ocw.mit.edu/courses/21h-161-the-middle-east-in-the-20th-century-fall-2015/pages/readings-and-videos/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-161-the-middle-east-in-the-20th-century-fall-2015/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-161-the-middle-east-in-the-20th-century-fall-2015/pages/assignments/)
+
+### Resource
+- [The Hagia Sophia (.jpg)](https://ocw.mit.edu/courses/21h-161-the-middle-east-in-the-20th-century-fall-2015/resources/21h-161f15/)
+- [The Hagia Sophia (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21h-161-the-middle-east-in-the-20th-century-fall-2015/resources/21h-161f15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

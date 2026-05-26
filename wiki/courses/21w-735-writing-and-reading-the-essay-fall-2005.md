@@ -12,6 +12,9 @@ views: 517
 completeness: 0.2
 last_modified: "2026-05-06T15:02:54Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 12, Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 4061
 ---
 
 # Writing and Reading the Essay
@@ -30,8 +33,28 @@ This is a course focused on the literary genre of the essay, that wide-ranging, 
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2005/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2005/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2005/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2005/pages/syllabus/)
 
+### Problem-Set
+- [writ_profile_asg.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2005/resources/writ_profile_asg/)
+- [silent_read_ses.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2005/resources/silent_read_ses/)
+- [reader_nb_hndout.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2005/resources/reader_nb_hndout/)
+- [prts_irene_rahmn.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2005/resources/prts_irene_rahmn/)
+- [pf_guidelines.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2005/resources/pf_guidelines/)
+- [oral_pres_gdlns.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2005/resources/oral_pres_gdlns/)
+- [essay4_mur_marr.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2005/resources/essay4_mur_marr/)
+- [essay3_jamie_sh.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2005/resources/essay3_jamie_sh/)
+- [campbell_samatha.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2005/resources/campbell_samatha/)
+- [bring_armageddon.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2005/resources/bring_armageddon/)
+- [antler_essay.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2005/resources/antler_essay/)
+
+### Resource
+- [21w-735f05.jpg (.jpg)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2005/resources/21w-735f05/)
+- [21w-735f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2005/resources/21w-735f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

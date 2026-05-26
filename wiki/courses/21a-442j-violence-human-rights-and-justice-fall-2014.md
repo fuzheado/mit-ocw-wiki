@@ -12,6 +12,9 @@ views: 155
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:12:21Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3970
 ---
 
 # Violence, Human Rights, and Justice
@@ -30,8 +33,19 @@ This course examines the problem of mass violence and oppression in the contempo
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-442j-violence-human-rights-and-justice-fall-2014/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-442j-violence-human-rights-and-justice-fall-2014/pages/syllabus/)
 
+### Reading-List
+- [Readings and Films](https://ocw.mit.edu/courses/21a-442j-violence-human-rights-and-justice-fall-2014/pages/readings-and-films/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21a-442j-violence-human-rights-and-justice-fall-2014/pages/assignments/)
+
+### Resource
+- [Timeless Memories Of Las Madres de la Plaza de Mayo (.jpg)](https://ocw.mit.edu/courses/21a-442j-violence-human-rights-and-justice-fall-2014/resources/21a-442jf14/)
+- [Timeless Memories Of Las Madres de la Plaza de Mayo (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21a-442j-violence-human-rights-and-justice-fall-2014/resources/21a-442jf14-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 231
 completeness: 0.1
 last_modified: "2026-05-06T17:15:07Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3754
 ---
 
 # Introduction to Drama
@@ -30,8 +33,23 @@ This course is a study of the history of theater art and practice from its origi
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2016/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2016/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2016/pages/readings/)
+
+### Problem-Set
+- [A Dynamic Womanhood: How Henrik Ibsen’s A Doll House Depicts Feminism through Changing Characterization (.pdf)](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2016/resources/mit21l_005f16_womanhood/)
+- [Play Review: The Wild Party by Andrew Lippa (.pdf)](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2016/resources/mit21l_005f16_wildparty/)
+- [Sample Essay Review (.pdf)](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2016/resources/mit21l_005f16_voyeurs/)
+- [Euripides' Medea (.pdf)](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2016/resources/mit21l_005f16_medea/)
+- [Assignments](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2016/pages/assignments/)
+
+### Resource
+- [Ibsen's A Doll's House (.jpg)](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2016/resources/21l-005f16/)
+- [Ibsen's A Doll's House (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-005-introduction-to-drama-fall-2016/resources/21l-005f16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

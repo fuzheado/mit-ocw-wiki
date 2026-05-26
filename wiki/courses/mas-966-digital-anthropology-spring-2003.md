@@ -12,6 +12,9 @@ views: 1211
 completeness: 0.04166666666666667
 last_modified: "2026-05-06T14:43:24Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 3, Lecture-Notes: 5, Resource: 5, Syllabus: 2"
+api_id: 5307
 ---
 
 # Digital Anthropology
@@ -30,9 +33,26 @@ Digital Anthropology is a Spring 2003 applied social science and media arts semi
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/mas-966-digital-anthropology-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-966-digital-anthropology-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [Technology Testbeds at MIT (.pdf)](https://ocw.mit.edu/courses/mas-966-digital-anthropology-spring-2003/resources/examplesatmit/)
+- [Reality Mining (.pdf)](https://ocw.mit.edu/courses/mas-966-digital-anthropology-spring-2003/resources/eagle1/)
+- [Session One: Intro & Overview (.pdf)](https://ocw.mit.edu/courses/mas-966-digital-anthropology-spring-2003/resources/daintro/)
+- [The Sociometer: A Wearable Device for Understanding Human Networks (.pdf)](https://ocw.mit.edu/courses/mas-966-digital-anthropology-spring-2003/resources/choudhury/)
+- [Lecture Notes](https://ocw.mit.edu/courses/mas-966-digital-anthropology-spring-2003/pages/lecture-notes/)
+
+### Assignment
+- [Digital Anthropology  (.pdf)](https://ocw.mit.edu/courses/mas-966-digital-anthropology-spring-2003/resources/project/)
+- [experiment.pdf (.pdf)](https://ocw.mit.edu/courses/mas-966-digital-anthropology-spring-2003/resources/experiment/)
+- [Projects](https://ocw.mit.edu/courses/mas-966-digital-anthropology-spring-2003/pages/projects/)
+
+### Resource
+- [Hall of Heroes (.jpg)](https://ocw.mit.edu/courses/mas-966-digital-anthropology-spring-2003/resources/mas-966s03/)
+- [Hall of Heroes (thumbnail) (.jpg)](https://ocw.mit.edu/courses/mas-966-digital-anthropology-spring-2003/resources/mas-966s03-th/)
+- [Related Resources](https://ocw.mit.edu/courses/mas-966-digital-anthropology-spring-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

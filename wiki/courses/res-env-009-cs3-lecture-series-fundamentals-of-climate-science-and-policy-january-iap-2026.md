@@ -12,6 +12,8 @@ views: 281
 completeness: 0.0
 last_modified: "2026-05-06T15:04:18Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Syllabus: 1, Video-Transcript: 10"
 ---
 
 # CS3 Lecture Series: Fundamentals of Climate Science and Policy
@@ -30,8 +32,8 @@ IAP 2026 provides members of the MIT community with a unique opportunity to part
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Syllabus
+- [Calendar](https://ocw.mit.edu/courses/res-env-009-cs3-lecture-series-fundamentals-of-climate-science-and-policy-january-iap-2026/pages/calendar/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 393
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:49:51Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 5596
 ---
 
 # Topics in Game Theory
@@ -30,8 +33,17 @@ This course is an advanced topics course on market and mechanism design. We will
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/14-147-topics-in-game-theory-fall-2009/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/14-147-topics-in-game-theory-fall-2009/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/14-147-topics-in-game-theory-fall-2009/pages/assignments/)
+
+### Resource
+- [Red and yellow tulips planted in curving rows in a garden (.jpg)](https://ocw.mit.edu/courses/14-147-topics-in-game-theory-fall-2009/resources/14-147f09/)
 ## Wikipedia Bridge
 
 ### Related Articles

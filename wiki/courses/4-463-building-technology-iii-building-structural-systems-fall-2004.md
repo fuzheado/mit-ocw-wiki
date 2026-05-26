@@ -12,6 +12,9 @@ views: 307
 completeness: 0.065
 last_modified: "2026-05-06T17:12:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 3, Problem-Set: 2, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4724
 ---
 
 # Building Technology III: Building Structural Systems
@@ -30,9 +33,26 @@ This course addresses advanced structures, exterior envelopes and contemporary p
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-463-building-technology-iii-building-structural-systems-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-463-building-technology-iii-building-structural-systems-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [Integration: Structure and Envelope (.pdf)](https://ocw.mit.edu/courses/4-463-building-technology-iii-building-structural-systems-fall-2004/resources/lect6/)
+- [Connections (.pdf)](https://ocw.mit.edu/courses/4-463-building-technology-iii-building-structural-systems-fall-2004/resources/lect2/)
+- [Lecture Notes](https://ocw.mit.edu/courses/4-463-building-technology-iii-building-structural-systems-fall-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-463-building-technology-iii-building-structural-systems-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Assignment 3 (.pdf)](https://ocw.mit.edu/courses/4-463-building-technology-iii-building-structural-systems-fall-2004/resources/assignment03/)
+- [Assignments](https://ocw.mit.edu/courses/4-463-building-technology-iii-building-structural-systems-fall-2004/pages/assignments/)
+
+### Resource
+- [Stata Center (.jpg)](https://ocw.mit.edu/courses/4-463-building-technology-iii-building-structural-systems-fall-2004/resources/4-463f04/)
+- [Stata Center (thumbnail) (.jpg)](https://ocw.mit.edu/courses/4-463-building-technology-iii-building-structural-systems-fall-2004/resources/4-463f04-th/)
+- [Tools](https://ocw.mit.edu/courses/4-463-building-technology-iii-building-structural-systems-fall-2004/pages/tools/)
 ## Wikipedia Bridge
 
 ### Related Articles

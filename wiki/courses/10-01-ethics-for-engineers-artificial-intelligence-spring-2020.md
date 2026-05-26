@@ -12,6 +12,9 @@ views: 1587
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:04:22Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 6"
+api_id: 3423
 ---
 
 # Ethics for Engineers: Artificial Intelligence
@@ -30,9 +33,17 @@ Artificial Intelligence (AI), and the algorithmic judgment at its core, is devel
 
 ## Materials
 
-- [Projects] Projects
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/pages/calendar/)
+- **Readings and Viewings** — [🔗](https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/pages/readings-and-viewings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/pages/assignments/)
+
+### Resource
+- [10-01s20.jpg (.jpg)](https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/resources/10-01s20/)
+- [10-01s20-th.jpg (.jpg)](https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/resources/10-01s20-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

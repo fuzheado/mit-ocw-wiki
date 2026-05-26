@@ -12,6 +12,8 @@ views: 1910
 completeness: 0.09500000000000001
 last_modified: "2026-05-06T17:18:32Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Problem-Set: 1, Resource: 1, Syllabus: 2, Video-Transcript: 5"
 ---
 
 # Engineering Design and Rapid Prototyping
@@ -32,12 +34,21 @@ This course is made possible thanks to a grant by the alumni sponsored Teaching 
 
 ## Materials
 
-- [Demonstration Videos] Demonstration Videos
-- [Design Assignments with Examples] Design Assignments with Examples
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Projects with Examples] Projects with Examples
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/pages/lecture-notes/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/pages/assignments/)
+
+### Assignment
+- [Projects 📺Video](https://ocw.mit.edu/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/video_galleries/projects/)
+
+### Resource
+- [Related Resources](https://ocw.mit.edu/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

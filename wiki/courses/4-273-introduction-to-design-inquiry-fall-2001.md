@@ -12,6 +12,9 @@ views: 243
 completeness: 0.10666666666666667
 last_modified: "2026-05-06T14:43:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 10, Image-Gallery: 1, Lecture-Notes: 8, Problem-Set: 2, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 4669
 ---
 
 # Introduction to Design Inquiry
@@ -31,8 +34,45 @@ We see design as processes located in individuals and groups, shaped by the form
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/pages/calendar/)
+- **Silent Game Images** — [🔗](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/pages/silent-game-images/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/pages/syllabus/)
 
+### Lecture-Notes
+- [stinyresoningvisual.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/stinyresoningvisual/)
+- [stinycalculatewithshapes.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/stinycalculatewithshapes/)
+- [rereading1a.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/rereading1a/)
+- [nagakura7.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/nagakura7/)
+- [loomis.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/loomis/)
+- [johngerolecture.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/johngerolecture/)
+- [johnalexpres.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/johnalexpres/)
+- [Lecture Notes](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/pages/readings/)
+
+### Problem-Set
+- [Assignments.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/assignments/)
+- [Assignments](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/pages/assignments/)
+
+### Assignment
+- [Assignment8.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/assignment8/)
+- [assignment7.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/assignment7/)
+- [Assignment6.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/assignment6/)
+- [assignment5.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/assignment5/)
+- [assignment4.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/assignment4/)
+- [assignment3.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/assignment3/)
+- [Assignment2.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/assignment2/)
+- [Assignment10.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/assignment10/)
+- [assignment1.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/assignment1/)
+- [Projects](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/pages/projects/)
+
+### Resource
+- [silentgameimageso.pdf (.pdf)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/silentgameimageso/)
+- [4-273f01.jpg (.jpg)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/4-273f01/)
+- [4-273f01-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/resources/4-273f01-th/)
+- [Class Log](https://ocw.mit.edu/courses/4-273-introduction-to-design-inquiry-fall-2001/pages/class-log/)
 ## Wikipedia Bridge
 
 ### Related Articles

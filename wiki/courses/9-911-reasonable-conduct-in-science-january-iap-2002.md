@@ -12,6 +12,8 @@ views: 27
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:03:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 1, Syllabus: 2"
 ---
 
 # Reasonable Conduct in Science
@@ -30,9 +32,18 @@ To provide instruction and dialog on practical ethical issues relating to the re
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/9-911-reasonable-conduct-in-science-january-iap-2002/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/9-911-reasonable-conduct-in-science-january-iap-2002/pages/calendar/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-911-reasonable-conduct-in-science-january-iap-2002/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/9-911-reasonable-conduct-in-science-january-iap-2002/pages/assignments/)
+
+### Resource
+- [Related Resources](https://ocw.mit.edu/courses/9-911-reasonable-conduct-in-science-january-iap-2002/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 134
 completeness: 0.03333333333333333
 last_modified: "2026-05-06T16:55:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 5, Reading-List: 5, Resource: 27, Syllabus: 1, Video-Transcript: 4"
+api_id: 4031
 ---
 
 # Global Health Innovation: Delivering Targeted Advice to an Organization in the Field
@@ -31,11 +34,43 @@ Fulfills the Sloan Innovation Period (SIP) elective requirement. SIP&nbsp;occurs
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Materials About Sangath** — [🔗](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/readings-and-materials/materials-about-sangath/)
+- **Materials from Sangath** — [🔗](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/readings-and-materials/materials-from-sangath/)
+- **Providing Students with Feedback** — [🔗](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/instructor-insights/providing-students-with-feedback/)
+- **Student Materials** — [🔗](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/readings-and-materials/student-materials/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/syllabus/)
+- **Teaching in Real-World Contexts** — [🔗](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/instructor-insights/teaching-in-real-world-contexts/)
+- **Wide-ranging Extra Resources** — [🔗](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/readings-and-materials/wide-ranging-extra-resources/)
+- **Workshop Logistics and Challenges** — [🔗](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/instructor-insights/workshop-logistics-and-challenges/)
 
+### Lecture-Notes
+- [Day  Three: Discussion and Wrap Up - 15.ES718 Spring 2015 (SIP) (.pdf)](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/resources/mit15_es718s15_day3/)
+- [Background on Healthcare in India - 15.ES718 Spring 2015 (SIP) (.pdf)](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/resources/mit15_es718s15_day2/)
+- [Day One: Global Health Briefing - 15.ES718 Spring 2015 (SIP) (.pdf)](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/resources/mit15_es718s15_day1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/lecture-notes/)
+
+### Reading-List
+- [Readings and Materials](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/readings-and-materials/)
+
+### Resource
+- [sangath-sign.jpg (.jpg)](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/resources/sangath-sign/)
+- [MITclassroom_E62-223.jpg (.jpg)](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/resources/mitclassroom_e62-223/)
+- [SIP Course Response – Mapping the Innovation Landscape for Global Health to Deliver Targeted Advice to an Organization (.pdf)](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/resources/mit15_es718s15_sangthsip/)
+- [20-approx.png (.png)](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/resources/20-approx/)
+- [17.png (.png)](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/resources/17/)
+- [15-es718s15.jpg (.jpg)](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/resources/15-es718s15/)
+- [15-es718s15-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/resources/15-es718s15-th/)
+- [12-approx.png (.png)](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/resources/12-approx/)
+- [Goals for Student Learning](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/instructor-insights/goals-for-student-learning/)
+- [Instructor Insights](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/instructor-insights/)
+- [Course Iteration](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/instructor-insights/course-iteration/)
+- [Deliverables](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/deliverables/)
+- [Brief Reviews](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/deliverables/brief-reviews/)
+- [Day Two](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/activities/day-two/)
+- [Day Three](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/activities/day-three/)
+- [Day One](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/activities/day-one/)
+- [Activities](https://ocw.mit.edu/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/pages/activities/)
 ## Wikipedia Bridge
 
 ### Related Articles

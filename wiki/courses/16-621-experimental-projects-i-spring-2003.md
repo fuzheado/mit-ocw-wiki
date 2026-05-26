@@ -12,6 +12,9 @@ views: 493
 completeness: 0.15000000000000002
 last_modified: "2026-05-06T15:04:19Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 8, Lecture-Notes: 18, Resource: 15, Syllabus: 2"
+api_id: 5758
 ---
 
 # Experimental Projects I
@@ -31,9 +34,54 @@ This OCW site presents the building block materials of the course, which can pro
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [HOS21004_2.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/hos21004_2/)
+- [15_progressreportppt.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/15_progressreportppt/)
+- [14_graphicsIIversionIIs03.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/14_graphicsiiversioniis03/)
+- [13_graphicsiversionIIs03_to_CMS.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/13_graphicsiversioniis03_to_cms/)
+- [12_lecturedatareduction1.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/12_lecturedatareduction1/)
+- [121_hiawatha.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/121_hiawatha/)
+- [11_dataanalysis.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/11_dataanalysis/)
+- [10_errors03.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/10_errors03/)
+- [09_measurement03.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/09_measurement03/)
+- [08_testmatrices.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/08_testmatrices/)
+- [07_literaturesearchescitation.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/07_literaturesearchescitation/)
+- [06_621s03expdesign.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/06_621s03expdesign/)
+- [05_621S03grading.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/05_621s03grading/)
+- [04_audienceanalysisact.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/04_audienceanalysisact/)
+- [03_62Xf02ethicslecture.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/03_62xf02ethicslecture/)
+- [02_16.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/02_16/)
+- [01_introemm.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/01_introemm/)
+- [Lecture Notes](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/pages/lecture-notes/)
+
+### Assignment
+- [wongbria1.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/wongbria1/)
+- [wongbri1.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/wongbri1/)
+- [demierry1.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/demierry1/)
+- [demierry.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/demierry/)
+- [davisvic1.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/davisvic1/)
+- [davisvic.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/davisvic/)
+- [bennettw.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/bennettw/)
+- [Projects](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/pages/projects/)
+
+### Resource
+- [what_is_exec_summary.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/what_is_exec_summary/)
+- [style_guide_DC_version3.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/style_guide_dc_version3/)
+- [student_wt_guide.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/student_wt_guide/)
+- [preparing_for_breifings.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/preparing_for_breifings/)
+- [OralPresentationSurvey.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/oralpresentationsurvey/)
+- [Here_are_questions_that_621_stu.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/here_are_questions_that_621_stu/)
+- [62x_syll.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/62x_syll/)
+- [621_Oral_Proposal_Rubric.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/621_oral_proposal_rubric/)
+- [16-621s03.jpg (.jpg)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/16-621s03/)
+- [16-621s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/16-621s03-th/)
+- [101__621ReactionsTo622ProgressReports.pdf (.pdf)](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/resources/101__621reactionsto622progressreports/)
+- [Study Materials](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/pages/study-materials/)
+- [student work](https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/pages/projects)
 ## Wikipedia Bridge
 
 ### Related Articles

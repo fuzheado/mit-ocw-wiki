@@ -12,6 +12,9 @@ views: 108
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:11:32Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 1"
+api_id: 5653
 ---
 
 # Investigating the Neural Substrates of Remote Memory using fMRI
@@ -30,8 +33,20 @@ This course is an investigation to distinguish episodic memory, which is memory 
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-52-a-investigating-the-neural-substrates-of-remote-memory-using-fmri-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-52-a-investigating-the-neural-substrates-of-remote-memory-using-fmri-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-52-a-investigating-the-neural-substrates-of-remote-memory-using-fmri-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/9-52-a-investigating-the-neural-substrates-of-remote-memory-using-fmri-spring-2003/pages/assignments/)
+
+### Resource
+- [Neural Substrates of Remote Memory: An fMRI Study (.jpg)](https://ocw.mit.edu/courses/9-52-a-investigating-the-neural-substrates-of-remote-memory-using-fmri-spring-2003/resources/9-52as03/)
+- [Neural Substrates of Remote Memory: An fMRI Study (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-52-a-investigating-the-neural-substrates-of-remote-memory-using-fmri-spring-2003/resources/9-52as03-th/)
+- [Related Resources](https://ocw.mit.edu/courses/9-52-a-investigating-the-neural-substrates-of-remote-memory-using-fmri-spring-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

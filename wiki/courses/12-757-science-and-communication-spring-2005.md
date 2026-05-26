@@ -12,6 +12,9 @@ views: 131
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:55:25Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 3550
 ---
 
 # Science and Communication
@@ -31,8 +34,20 @@ This course is offered through The MIT/WHOI Joint Program. The MIT/WHOI Joint Pr
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/12-757-science-and-communication-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-757-science-and-communication-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-757-science-and-communication-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/12-757-science-and-communication-spring-2005/pages/assignments/)
+
+### Resource
+- [Collecting Marine Samples (.jpg)](https://ocw.mit.edu/courses/12-757-science-and-communication-spring-2005/resources/12-757s05/)
+- [Collecting Marine Samples (thumbnail) (.jpg)](https://ocw.mit.edu/courses/12-757-science-and-communication-spring-2005/resources/12-757s05-th/)
+- [Teaching This Course](https://ocw.mit.edu/courses/12-757-science-and-communication-spring-2005/pages/teaching-this-course/)
 ## Wikipedia Bridge
 
 ### Related Articles

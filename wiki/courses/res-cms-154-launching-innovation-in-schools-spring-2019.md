@@ -12,6 +12,9 @@ views: 240
 completeness: 0.0
 last_modified: "2026-05-06T16:51:18Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 3417
 ---
 
 # Launching Innovation in Schools
@@ -33,8 +36,9 @@ This course is part of the&nbsp;Open Learning Library, which is free to use. You
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [RES-CMS-154S19_th.jpg (.jpg)](https://ocw.mit.edu/courses/res-cms-154-launching-innovation-in-schools-spring-2019/resources/res-cms-154s19_th/)
+- [RES-CMS-154S19.jpg (.jpg)](https://ocw.mit.edu/courses/res-cms-154-launching-innovation-in-schools-spring-2019/resources/res-cms-154s19/)
 ## Wikipedia Bridge
 
 ### Related Articles

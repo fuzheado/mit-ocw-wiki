@@ -12,6 +12,9 @@ views: 291
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:44:39Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4959
 ---
 
 # Computational Cognitive Science
@@ -30,8 +33,20 @@ An introduction to computational theories of human cognition.&nbsp;Emphasizes qu
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-52-c-computational-cognitive-science-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-52-c-computational-cognitive-science-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-52-c-computational-cognitive-science-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/9-52-c-computational-cognitive-science-spring-2003/pages/assignments/)
+
+### Resource
+- [Hypothesis Spaces (.jpg)](https://ocw.mit.edu/courses/9-52-c-computational-cognitive-science-spring-2003/resources/9-52s03/)
+- [Hypothesis Spaces (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-52-c-computational-cognitive-science-spring-2003/resources/9-52s03-th/)
+- [Related Resources](https://ocw.mit.edu/courses/9-52-c-computational-cognitive-science-spring-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

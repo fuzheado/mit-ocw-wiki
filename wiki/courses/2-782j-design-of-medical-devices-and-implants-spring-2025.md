@@ -12,6 +12,9 @@ views: 1974
 completeness: 0.0
 last_modified: "2026-05-06T16:52:37Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Reading-List: 1, Resource: 7, Syllabus: 2, Video-Transcript: 45"
+api_id: 16834
 ---
 
 # Design of Medical Devices and Implants
@@ -30,18 +33,12 @@ This design course teaches a systematic approach for development of an implantab
 
 ## Materials
 
-### Syllabus
-- [Syllabus](https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/pages/syllabus/)
-- [Calendar](https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/pages/calendar/)
-
-### Video-Transcript
-- [Lecture Videos 📺Video](https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/pages/lecture-videos/)
-
-### Reading-List
-- [Lecture Notes and Readings](https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/pages/lecture-notes-and-readings/)
-
-### Assignment
-- [Design Projects](https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/pages/design-projects/)
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/pages/calendar/)
+- **Design Projects** — [🔗](https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/pages/design-projects/)
+- **Lecture Notes and Readings** — [🔗](https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/pages/lecture-notes-and-readings/)
+- **Lecture Videos** — [🔗](https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/pages/lecture-videos/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/pages/syllabus/)
 
 ### Resource
 - [Instructor Insights](https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/pages/instructor-insights/)

@@ -12,6 +12,8 @@ views: 593
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:24:54Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Resource: 1, Syllabus: 2"
 ---
 
 # Physical Intelligence
@@ -30,8 +32,15 @@ For all of the bodies attached to the many great minds that walk the Instituteâ€
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/pe-910-physical-intelligence-january-iap-2002/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/pe-910-physical-intelligence-january-iap-2002/pages/calendar/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/pe-910-physical-intelligence-january-iap-2002/pages/assignments/)
+
+### Resource
+- [Lecture Summaries](https://ocw.mit.edu/courses/pe-910-physical-intelligence-january-iap-2002/pages/lecture-summaries/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 233
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:18:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5083
 ---
 
 # Doctoral Seminar in Research Methods II
@@ -30,8 +33,19 @@ A large proportion of contemporary research on organizations, strategy and manag
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-348-doctoral-seminar-in-research-methods-ii-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-348-doctoral-seminar-in-research-methods-ii-spring-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-348-doctoral-seminar-in-research-methods-ii-spring-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-348-doctoral-seminar-in-research-methods-ii-spring-2004/pages/assignments/)
+
+### Resource
+- [Research Materials (.jpg)](https://ocw.mit.edu/courses/15-348-doctoral-seminar-in-research-methods-ii-spring-2004/resources/15-348s04/)
+- [Research Materials (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-348-doctoral-seminar-in-research-methods-ii-spring-2004/resources/15-348s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

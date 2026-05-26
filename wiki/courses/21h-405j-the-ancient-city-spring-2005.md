@@ -12,6 +12,9 @@ views: 531
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:49:40Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 9, Syllabus: 2"
+api_id: 5623
 ---
 
 # The Ancient City
@@ -30,8 +33,24 @@ This course focuses on the archaeology of the Greek and Roman city. It investiga
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-405j-the-ancient-city-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-405j-the-ancient-city-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-405j-the-ancient-city-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-405j-the-ancient-city-spring-2005/pages/assignments/)
+
+### Resource
+- [Spring 2008 Syllabus (.pdf)](https://ocw.mit.edu/courses/21h-405j-the-ancient-city-spring-2005/resources/mit21h_405js05_sylls08/)
+- [Spring 2006 Syllabus (.pdf)](https://ocw.mit.edu/courses/21h-405j-the-ancient-city-spring-2005/resources/mit21h_405js05_sylls06/)
+- [Spring 2005 Syllabus (.pdf)](https://ocw.mit.edu/courses/21h-405j-the-ancient-city-spring-2005/resources/mit21h_405js05_sylls05/)
+- [Fall 2010 Syllabus (.pdf)](https://ocw.mit.edu/courses/21h-405j-the-ancient-city-spring-2005/resources/mit21h_405js05_syllf10/)
+- [Peristyle of the House of Vetti (.jpg)](https://ocw.mit.edu/courses/21h-405j-the-ancient-city-spring-2005/resources/21h-405js05/)
+- [Peristyle of the House of Vetti (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21h-405j-the-ancient-city-spring-2005/resources/21h-405js05-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21h-405j-the-ancient-city-spring-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

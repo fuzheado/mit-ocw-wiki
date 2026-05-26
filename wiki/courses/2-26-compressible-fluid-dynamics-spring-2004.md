@@ -12,6 +12,9 @@ views: 294
 completeness: 0.21166666666666667
 last_modified: "2026-05-06T17:19:53Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 11, Problem-Set: 6, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 3441
 ---
 
 # Compressible Fluid Dynamics
@@ -31,10 +34,38 @@ The goal of this course is to lay out the fundamental concepts and results for t
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [lec9.pdf (.pdf)](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/resources/lec9/)
+- [lec8.pdf (.pdf)](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/resources/lec8/)
+- [lec7.pdf (.pdf)](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/resources/lec7/)
+- [lec6.pdf (.pdf)](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/resources/lec6/)
+- [lec5.pdf (.pdf)](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/resources/lec5/)
+- [lec4.pdf (.pdf)](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/resources/lec4/)
+- [lec3.pdf (.pdf)](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/resources/lec3/)
+- [lec2.pdf (.pdf)](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/resources/lec2/)
+- [lec10.pdf (.pdf)](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/resources/lec10/)
+- [lec1.pdf (.pdf)](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/resources/lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/pages/readings/)
+
+### Problem-Set
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/resources/ps3/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/resources/ps2/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/resources/ps1/)
+- [pap_cho_aessopos.pdf (.pdf)](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/resources/pap_cho_aessopos/)
+- [final_project.pdf (.pdf)](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/resources/final_project/)
+- [Assignments](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/pages/assignments/)
+
+### Resource
+- [2-26s04.jpg (.jpg)](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/resources/2-26s04/)
+- [2-26s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/resources/2-26s04-th/)
+- [Related Resources](https://ocw.mit.edu/courses/2-26-compressible-fluid-dynamics-spring-2004/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

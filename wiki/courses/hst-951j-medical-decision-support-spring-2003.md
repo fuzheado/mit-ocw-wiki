@@ -12,6 +12,9 @@ views: 371
 completeness: 0.41000000000000003
 last_modified: "2026-05-06T17:23:10Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 18, Problem-Set: 6, Resource: 4, Syllabus: 2"
+api_id: 4682
 ---
 
 # Medical Decision Support
@@ -37,12 +40,41 @@ Prof. David Wypij
 
 ## Materials
 
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
-- [Programming Assignments] Programming Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [lecture7_8.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/lecture7_8/)
+- [lecture6.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/lecture6/)
+- [lecture5.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/lecture5/)
+- [lecture4.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/lecture4/)
+- [lecture3.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/lecture3/)
+- [lecture20.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/lecture20/)
+- [lecture2.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/lecture2/)
+- [lecture19.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/lecture19/)
+- [lecture17.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/lecture17/)
+- [lecture16.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/lecture16/)
+- [lecture15.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/lecture15/)
+- [lecture14.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/lecture14/)
+- [lecture13.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/lecture13/)
+- [lecture12.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/lecture12/)
+- [lecture11.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/lecture11/)
+- [lecture10.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/lecture10/)
+- [lecture1.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/lecture1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/pages/lecture-notes/)
+
+### Problem-Set
+- [hst951MidtermSolutions02.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/hst951midtermsolutions02/)
+- [hst951Midterm02.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/hst951midterm02/)
+- [hst951.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/hst951/)
+- [homework2.pdf (.pdf)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/homework2/)
+- [Exams](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/pages/assignments/)
+
+### Resource
+- [hst-951js03.jpg (.jpg)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/hst-951js03/)
+- [hst-951js03-th.jpg (.jpg)](https://ocw.mit.edu/courses/hst-951j-medical-decision-support-spring-2003/resources/hst-951js03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

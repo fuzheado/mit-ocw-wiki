@@ -12,6 +12,9 @@ views: 374
 completeness: 0.0
 last_modified: "2026-05-06T14:54:28Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 1"
+api_id: 5238
 ---
 
 # Science of Race, Sex, and Gender
@@ -30,8 +33,14 @@ This course examines the role of science and medicine in the origins and evoluti
 
 ## Materials
 
-- [Readings] Readings
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/wgs-225-science-and-race-sex-and-gender-spring-2023/pages/assignments/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/wgs-225-science-and-race-sex-and-gender-spring-2023/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/wgs-225-science-and-race-sex-and-gender-spring-2023/pages/syllabus/)
 
+### Resource
+- [mitwgs_225_s23_chp_th.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-225-science-and-race-sex-and-gender-spring-2023/resources/mitwgs_225_s23_chp_th_jpg/)
+- [mitwgs_225_s23_chp.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-225-science-and-race-sex-and-gender-spring-2023/resources/mitwgs_225_s23_chp_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

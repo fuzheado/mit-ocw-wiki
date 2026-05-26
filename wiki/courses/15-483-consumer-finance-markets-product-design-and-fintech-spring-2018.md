@@ -12,6 +12,9 @@ views: 1036
 completeness: 0.275
 last_modified: "2026-05-06T14:47:08Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 9, Problem-Set: 10, Reading-List: 1, Resource: 4, Syllabus: 2, Video-Transcript: 8"
+api_id: 5110
 ---
 
 # Consumer Finance: Markets, Product Design, and FinTech
@@ -30,10 +33,39 @@ This course provides a solid understanding of consumer decision-making and how n
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/pages/syllabus/)
 
+### Lecture-Notes
+- [15.483 Lecture 11 Bitcoin and Payments (.pdf)](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/resources/mit15_483s18_l11/)
+- [15.483 Lecture 8 Lending Club (.pdf)](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/resources/mit15_483s18_l08/)
+- [15.483 Lecture 7 BASIX (.pdf)](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/resources/mit15_483s18_l07/)
+- [15.483 Lecture 6 Credit card market (.pdf)](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/resources/mit15_483s18_l06/)
+- [15.483 Lecture 5 Hello Wallet (.pdf)](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/resources/mit15_483s18_l05/)
+- [15.483 Lecture 3 Behavioral Models (.pdf)](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/resources/mit15_483s18_l03/)
+- [15.483 Lecture 2 Rational Model (.pdf)](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/resources/mit15_483s18_l02/)
+- [15.483 Lecture 1 Introduction (.pdf)](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/resources/mit15_483s18_l01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/pages/readings/)
+
+### Problem-Set
+- [CLO_Assignment_Sheet.xlsx (.xlsx)](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/resources/clo_assignment_sheet/)
+- [Assignments](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/pages/assignments/)
+- [Assignment 8](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/pages/assignments/assignment-8/)
+- [Assignment 7](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/pages/assignments/assignment-7/)
+- [Assignment 6](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/pages/assignments/assignment-6/)
+- [Assignment 5](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/pages/assignments/assignment-5/)
+- [Assignment 4](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/pages/assignments/assignment-4/)
+- [Assignment 3](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/pages/assignments/assignment-3/)
+- [Assignment 2](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/pages/assignments/assignment-2/)
+- [Assignment 1](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/pages/assignments/assignment-1/)
+
+### Resource
+- [15-483S18.jpg (.jpg)](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/resources/15-483s18/)
+- [15-483S18-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/resources/15-483s18-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,8 @@ views: 697
 completeness: 0.4116666666666667
 last_modified: "2026-05-06T17:25:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 4, Syllabus: 1, Video-Transcript: 53"
 ---
 
 # Introduction to Special Relativity
@@ -30,13 +32,21 @@ The theory of special relativity, originally proposed by Albert Einstein in his 
 
 ## Materials
 
-- [Editable Files] Editable Files
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
-- [Lecture Videos] Lecture Videos
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2021/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2021/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2021/pages/assignments/)
+- [Exams](https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2021/pages/exams/)
+
+### Resource
+- [Week 1: Foundations of Special Relativity 📺Video](https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2021/pages/video-lectures/week-1-foundations-of-special-relativity/)
+- [Week 2: Spacetime in Special Relativity 📺Video](https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2021/pages/video-lectures/week-2-spacetime-in-special-relativity/)
+- [Week 3: Kinematics in Special Relativity 📺Video](https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2021/pages/video-lectures/week-3-kinematics-in-special-relativity/)
+- [Week 4: Beyond Special Relativity 📺Video](https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2021/pages/video-lectures/week-4-beyond-special-relativity/)
 ## Wikipedia Bridge
 
 ### Related Articles

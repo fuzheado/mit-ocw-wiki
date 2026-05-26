@@ -12,6 +12,9 @@ views: 87
 completeness: 0.06
 last_modified: "2026-05-06T14:49:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5279
 ---
 
 # Forms of Political Participation: Old and New
@@ -30,8 +33,21 @@ How and why do we participate in public life? How do we get drawn into community
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-905-forms-of-political-participation-old-and-new-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-905-forms-of-political-participation-old-and-new-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-905-forms-of-political-participation-old-and-new-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Clientelism in Urban America: Building Trust for Democratic Governance (.pdf)](https://ocw.mit.edu/courses/17-905-forms-of-political-participation-old-and-new-spring-2005/resources/paper3/)
+- [Civil Society and the Dangers of Social Capita (.pdf)](https://ocw.mit.edu/courses/17-905-forms-of-political-participation-old-and-new-spring-2005/resources/paper1_rewrite/)
+- [Assignments](https://ocw.mit.edu/courses/17-905-forms-of-political-participation-old-and-new-spring-2005/pages/assignments/)
+
+### Resource
+- [Campaign to End AIDS (.jpg)](https://ocw.mit.edu/courses/17-905-forms-of-political-participation-old-and-new-spring-2005/resources/17-905s05/)
+- [Campaign to End AIDS (thumbnail) (.jpg)](https://ocw.mit.edu/courses/17-905-forms-of-political-participation-old-and-new-spring-2005/resources/17-905s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

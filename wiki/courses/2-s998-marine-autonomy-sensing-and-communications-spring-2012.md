@@ -12,6 +12,9 @@ views: 286
 completeness: 0.0
 last_modified: "2026-05-06T14:59:54Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Resource: 35, Syllabus: 2, Video-Transcript: 11"
+api_id: 4242
 ---
 
 # Marine Autonomy, Sensing and Communications
@@ -30,8 +33,43 @@ This course covers basic topics in autonomous marine vehicles, focusing mainly o
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **A Simple Example with pXRelay** — [🔗](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/moos-basics/a-simple-example-with-pxrelay/)
+- **Autonomous Collaborative Search** — [🔗](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/resources/mit2_s998s12_lab14/) · [🔗](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/resources/mit2_s998s12_lab09/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/calendar/)
+- **Labs** — [🔗](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/labs/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/syllabus/)
 
+### Resource
+- [In-Water Autonomous Front Estimation (.pdf)](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/resources/mit2_s998s12_lab16/)
+- [Autonomous Front Detection (.pdf)](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/resources/mit2_s998s12_lab15/)
+- [Acoustic Communications and Networking (.pdf)](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/resources/mit2_s998s12_lab12/)
+- [Multi-Machine Simulation of Multi-Vehicle Operations (.pdf)](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/resources/mit2_s998s12_lab08/)
+- [Simulation of Multi-Vehicle Operations (.pdf)](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/resources/mit2_s998s12_lab07/)
+- [Intro to Helm Autonomy (.pdf)](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/resources/mit2_s998s12_lab06/)
+- [Ocean Acoustic Environment (.pdf)](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/resources/mit2_s998s12_lab05/)
+- [Introduction to MOOS Programming (.pdf)](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/resources/mit2_s998s12_lab04/)
+- [Introduction to MOOS (.pdf)](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/resources/mit2_s998s12_lab03/)
+- [Introduction to C++ (.pdf)](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/resources/mit2_s998s12_lab02/)
+- [lab07miss_files.tgz (.tgz)](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/resources/lab07miss_files/)
+- [lab07-mid-sln.tgz (.tgz)](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/resources/lab07-mid-sln/)
+- [2-s998s12.jpg (.jpg)](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/resources/2-s998s12/)
+- [2-s998s12-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/resources/2-s998s12-th/)
+- [Related Resources](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/related-resources/)
+- [Scripted Pokes to the MOOSDB](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/moos-basics/scripted-pokes-to-the-moosdb/)
+- [Scoping the MOOSDB](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/moos-basics/scoping-the-moosdb/)
+- [Poking the MOOSDB](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/moos-basics/poking-the-moosdb/)
+- [Launching the MOOSDB](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/moos-basics/launching-the-moosdb/)
+- [Launching a Mission with pAntler](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/moos-basics/launching-a-mission-with-pantler/)
+- [MOOS Basics](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/moos-basics/)
+- [Lab 9 Updates](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/labs/lab-9-updates/)
+- [Lab 7 Updates](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/labs/lab-7-updates/)
+- [Lab 6 Updates](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/labs/lab-6-updates/)
+- [Lab 5 Updates](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/labs/lab-5-updates/)
+- [Lab 4 Updates](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/labs/lab-4-updates/)
+- [Lab 3 Updates](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/labs/lab-3-updates/)
+- [Lab 15 Updates](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/labs/lab-15-updates/)
+- [Lab 12 Updates](https://ocw.mit.edu/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/pages/labs/lab-12-updates/)
 ## Wikipedia Bridge
 
 ### Related Articles

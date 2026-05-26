@@ -12,6 +12,8 @@ views: 305
 completeness: 0.4
 last_modified: "2026-05-06T17:06:53Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 2, Problem-Set: 1, Syllabus: 1, Video-Transcript: 31"
 ---
 
 # Multicore Programming Primer
@@ -37,12 +39,18 @@ The course instructors are extremely grateful to Sony, IBM, and Toshiba for thei
 
 ## Materials
 
-- [Competition Videos] Competition Videos
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Other Video] Other Video
-- [Projects] Projects
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/6-189-multicore-programming-primer-january-iap-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes and Video 📺Video](https://ocw.mit.edu/courses/6-189-multicore-programming-primer-january-iap-2007/video_galleries/lecture-notes-and-video/)
+- [Recitations 📺Video](https://ocw.mit.edu/courses/6-189-multicore-programming-primer-january-iap-2007/video_galleries/recitations/)
+
+### Problem-Set
+- [Quizzes](https://ocw.mit.edu/courses/6-189-multicore-programming-primer-january-iap-2007/pages/quizzes/)
+
+### Assignment
+- [Projects 📺Video](https://ocw.mit.edu/courses/6-189-multicore-programming-primer-january-iap-2007/video_galleries/projects/)
 ## Wikipedia Bridge
 
 ### Related Articles

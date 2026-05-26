@@ -12,6 +12,9 @@ views: 363
 completeness: 0.12
 last_modified: "2026-05-06T16:48:52Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 6, Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 5595
 ---
 
 # Literary Interpretation: Virginia Woolf's Shakespeare
@@ -30,8 +33,26 @@ How does one writer use another writer’s work?&nbsp;Does it matter if one auth
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001/pages/readings/)
+
+### Problem-Set
+- [Discussion Questions for "A Room of One's Own," (.pdf)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001/resources/mit21l_701s01_quest/)
+- [Orlando (.pdf)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001/resources/mit21l_701s01_orlando/)
+- [Mrs. Dalloway Discussion Questions (.pdf)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001/resources/mit21l_701s01_mrsd/)
+- [Checklist for Editing your Partner's Paper  (.pdf)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001/resources/mit21l_701s01_editing/)
+- [A and C Questions (.pdf)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001/resources/mit21l_701s01_aandcques/)
+- [Assignments](https://ocw.mit.edu/courses/21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001/pages/assignments/)
+
+### Resource
+- [Literary Interpretation: Virginia Woolf’s Shakespeare (.pdf)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001/resources/mit21l_701s01_vwsh2001/)
+- [William Shakespeare and Virginia Woolf (.jpg)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001/resources/21l-701s01/)
+- [Virginia Woolf (.jpg)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001/resources/21l-701s01-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

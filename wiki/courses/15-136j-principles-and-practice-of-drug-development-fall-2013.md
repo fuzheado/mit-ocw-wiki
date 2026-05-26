@@ -12,6 +12,9 @@ views: 1193
 completeness: 0.05
 last_modified: "2026-05-06T16:49:29Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 5, Lecture-Notes: 6, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4829
 ---
 
 # Principles and Practice of Drug Development
@@ -30,10 +33,32 @@ This course serves as a description and critical assessment of the major issues 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/pages/syllabus/)
 
+### Lecture-Notes
+- [Drug Regulation and Reimbursement (.pdf)](https://ocw.mit.edu/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/resources/mit15_136jf13_lec8_drug/)
+- [Comparative Effectiveness, Lecture 8 (.pdf)](https://ocw.mit.edu/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/resources/mit15_136jf13_lec8_comp/)
+- [History and Overview of the Pharmaceutical/Biotechnology Industry, Lecture 3 (.pdf)](https://ocw.mit.edu/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/resources/mit15_136jf13_lec3_hist/)
+- [The Evolving Economics of Pharmaceuticals, Lecture 2 (.pdf)](https://ocw.mit.edu/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/resources/mit15_136jf13_lec2_dr/)
+- [Manufacturing in the Pharmaceutical Value Chain (.pdf)](https://ocw.mit.edu/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/resources/mit15_136jf13_lec12_manu/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/pages/readings/)
+
+### Assignment
+- [Opportunities in Neurological Diseases (.pdf)](https://ocw.mit.edu/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/resources/mit15_136jf13_opp_neuro_dis/)
+- [Opportunities in Diabetes (.pdf)](https://ocw.mit.edu/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/resources/mit15_136jf13_opp_diab/)
+- [Opportunities in Cancer (.pdf)](https://ocw.mit.edu/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/resources/mit15_136jf13_opp_cancer/)
+- [Opportunities in Neglected/Tropical Diseases (.pdf)](https://ocw.mit.edu/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/resources/mit15_136jf13_neglect_trop/)
+- [Projects](https://ocw.mit.edu/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/pages/projects/)
+
+### Resource
+- [15-136jf13 (.jpg)](https://ocw.mit.edu/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/resources/15-136f13/)
+- [15-136Jf13-th (.jpg)](https://ocw.mit.edu/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/resources/15-136f13-th/)
+- [News of the Week](https://ocw.mit.edu/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/pages/news-of-the-week/)
 ## Wikipedia Bridge
 
 ### Related Articles

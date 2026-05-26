@@ -12,6 +12,9 @@ views: 639
 completeness: 0.28
 last_modified: "2026-05-06T15:04:17Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 12, Problem-Set: 9, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4815
 ---
 
 # Topics in the Avant-Garde in Literature and Cinema
@@ -31,9 +34,41 @@ Surveying key interventions in the fields of poetry, painting, sculpture, photog
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [Document9 (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_lecture9/)
+- [Document8 (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_lecture8/)
+- [Document7 (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_lecture7/)
+- [Document6 (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_lecture6/)
+- [Document5 (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_lecture5/)
+- [Document4 (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_lecture4/)
+- [Document3 (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_lecture3/)
+- [Document2 (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_lecture2/)
+- [Document11 (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_lecture11/)
+- [Document10 (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_lecture10/)
+- [Document1 (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_lecture1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/pages/readings/)
+
+### Problem-Set
+- [The Story of The Eyeball (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_thestoryey/)
+- [Avant Garde vs. Moderism (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_avantvsmod/)
+- [08 Kitcsch (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_8kitcsch/)
+- [06 Manifestos (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_6manifesto/)
+- [04 Paul Wood (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_4paulwood/)
+- [03 Eisenstein (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_3eisenstein/)
+- [02 Futurists (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_2futurists/)
+- [01 Modernity and Modernization (.pdf)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/mit21g_031js03_1modernity/)
+- [Assignments](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/pages/assignments/)
+
+### Resource
+- [21g-031js03.jpg (.jpg)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/21g-031js03/)
+- [21g-031js03-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/resources/21g-031js03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

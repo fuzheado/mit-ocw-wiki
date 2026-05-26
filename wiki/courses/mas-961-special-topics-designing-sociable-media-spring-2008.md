@@ -12,6 +12,9 @@ views: 216
 completeness: 0.2
 last_modified: "2026-05-06T14:59:48Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 12, Reading-List: 1, Resource: 2, Syllabus: 1, Video-Transcript: 3"
+api_id: 3346
 ---
 
 # Special Topics: Designing Sociable Media
@@ -39,10 +42,28 @@ The course emphasizes developing visual and interactive literacy.
 
 ## Materials
 
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-961-special-topics-designing-sociable-media-spring-2008/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/mas-961-special-topics-designing-sociable-media-spring-2008/pages/readings/)
+
+### Problem-Set
+- [Assignment 5: Varieties of Portraiture](https://ocw.mit.edu/courses/mas-961-special-topics-designing-sociable-media-spring-2008/pages/assignments/assignment-5-varieties-of-portraiture/)
+- [Assignments](https://ocw.mit.edu/courses/mas-961-special-topics-designing-sociable-media-spring-2008/pages/assignments/)
+- [Assignment 9: Supertraces](https://ocw.mit.edu/courses/mas-961-special-topics-designing-sociable-media-spring-2008/pages/assignments/assignment9/)
+- [Assignment 8: Proposals for Final Project](https://ocw.mit.edu/courses/mas-961-special-topics-designing-sociable-media-spring-2008/pages/assignments/assignment8/)
+- [Assignment 7: Augmented Publics - Communicating Spaces](https://ocw.mit.edu/courses/mas-961-special-topics-designing-sociable-media-spring-2008/pages/assignments/assignment7/)
+- [Assignment 6: Design Project 3 - Concrete and Abstract Portraits](https://ocw.mit.edu/courses/mas-961-special-topics-designing-sociable-media-spring-2008/pages/assignments/assignment6/)
+- [Assignment 4: Design Problem 2 - Personal Time-line](https://ocw.mit.edu/courses/mas-961-special-topics-designing-sociable-media-spring-2008/pages/assignments/assignment4/)
+- [Assignment 3: Mapping Conversation](https://ocw.mit.edu/courses/mas-961-special-topics-designing-sociable-media-spring-2008/pages/assignments/assignment3/)
+- [Assignment 2: Design Problem 1 - Interaction Space Design](https://ocw.mit.edu/courses/mas-961-special-topics-designing-sociable-media-spring-2008/pages/assignments/assignment2/)
+- [Assignment 10: Complete Final Projects](https://ocw.mit.edu/courses/mas-961-special-topics-designing-sociable-media-spring-2008/pages/assignments/assignment10/)
+- [Assignment 1: Metaphor and Design](https://ocw.mit.edu/courses/mas-961-special-topics-designing-sociable-media-spring-2008/pages/assignments/assignment1/)
+- [Assignment 4](https://ocw.mit.edu/courses/mas-961-special-topics-designing-sociable-media-spring-2008/pages/assignments)
+
+### Resource
+- [Two rows of photos, some stretched in size to suggest varying qualities of experience (.jpg)](https://ocw.mit.edu/courses/mas-961-special-topics-designing-sociable-media-spring-2008/resources/mas-961s08/)
 ## Wikipedia Bridge
 
 ### Related Articles

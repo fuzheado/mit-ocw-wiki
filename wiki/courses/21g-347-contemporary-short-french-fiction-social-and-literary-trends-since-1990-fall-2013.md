@@ -12,6 +12,9 @@ views: 136
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:05:44Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4940
 ---
 
 # Contemporary Short French Fiction: Social and Literary Trends since 1990
@@ -30,8 +33,18 @@ Students in this course will examine short stories and short novels published in
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-347-contemporary-short-french-fiction-social-and-literary-trends-since-1990-fall-2013/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-347-contemporary-short-french-fiction-social-and-literary-trends-since-1990-fall-2013/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21g-347-contemporary-short-french-fiction-social-and-literary-trends-since-1990-fall-2013/pages/assignments/)
+
+### Resource
+- [Book Market on the Seine (.jpg)](https://ocw.mit.edu/courses/21g-347-contemporary-short-french-fiction-social-and-literary-trends-since-1990-fall-2013/resources/21g-347f13/)
+- [Book Market on the Seine (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-347-contemporary-short-french-fiction-social-and-literary-trends-since-1990-fall-2013/resources/21g-347f13-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

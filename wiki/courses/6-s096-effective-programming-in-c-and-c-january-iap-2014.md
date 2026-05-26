@@ -12,6 +12,8 @@ views: 7639
 completeness: 0.55
 last_modified: "2026-05-06T16:49:10Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Resource: 2, Syllabus: 2"
 ---
 
 # Effective Programming in C and C++
@@ -31,11 +33,19 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
-- [Programming Assignments with Examples] Programming Assignments with Examples
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/pages/lecture-notes/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/pages/assignments/)
+
+### Resource
+- [Getting Started](https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/pages/getting-started/)
+- [Related Resources](https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

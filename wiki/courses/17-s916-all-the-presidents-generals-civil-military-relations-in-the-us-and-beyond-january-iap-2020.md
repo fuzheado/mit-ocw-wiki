@@ -12,6 +12,8 @@ views: 51
 completeness: 0.06
 last_modified: "2026-05-06T14:56:28Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Syllabus: 1"
 ---
 
 # All the President's Generals: Civil-Military Relations in the US and Beyond
@@ -30,8 +32,14 @@ This course introduces the unique characteristics of militaries and explores the
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Syllabus
+- [Syllabus and Calendar](https://ocw.mit.edu/courses/17-s916-all-the-presidents-generals-civil-military-relations-in-the-us-and-beyond-january-iap-2020/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-s916-all-the-presidents-generals-civil-military-relations-in-the-us-and-beyond-january-iap-2020/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-s916-all-the-presidents-generals-civil-military-relations-in-the-us-and-beyond-january-iap-2020/pages/assignments/)
 ## Wikipedia Bridge
 
 ### Related Articles

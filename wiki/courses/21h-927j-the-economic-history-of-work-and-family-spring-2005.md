@@ -12,6 +12,9 @@ views: 136
 completeness: 0.1
 last_modified: "2026-05-06T17:19:03Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3565
 ---
 
 # The Economic History of Work and Family
@@ -30,8 +33,22 @@ This course will explore the relation of women and men in both pre-industrial an
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-927j-the-economic-history-of-work-and-family-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-927j-the-economic-history-of-work-and-family-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-927j-the-economic-history-of-work-and-family-spring-2005/pages/readings/)
+
+### Problem-Set
+- [On Household Bargaining: Theoretical Models and Empirical Evidence  (.pdf)](https://ocw.mit.edu/courses/21h-927j-the-economic-history-of-work-and-family-spring-2005/resources/mit21h_927js05_secd_anony/)
+- [Final Results - On Household Bargaining: Theoretical Models and Empirical Evidence (.pdf)](https://ocw.mit.edu/courses/21h-927j-the-economic-history-of-work-and-family-spring-2005/resources/mit21h_927js05_fnl_rsltanony/)
+- [Changes in Non-Food Household Expenditure between Sexes  by Marital and Work Status  (.pdf)](https://ocw.mit.edu/courses/21h-927j-the-economic-history-of-work-and-family-spring-2005/resources/mit21h_927js05_first_anony/)
+- [Assignments](https://ocw.mit.edu/courses/21h-927j-the-economic-history-of-work-and-family-spring-2005/pages/assignments/)
+
+### Resource
+- [Faust Family at Work (.jpg)](https://ocw.mit.edu/courses/21h-927j-the-economic-history-of-work-and-family-spring-2005/resources/21h-927js05/)
+- [Faust Family at Work (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21h-927j-the-economic-history-of-work-and-family-spring-2005/resources/21h-927js05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

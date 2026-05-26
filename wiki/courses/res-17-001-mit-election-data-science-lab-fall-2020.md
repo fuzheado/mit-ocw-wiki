@@ -12,6 +12,9 @@ views: 159
 completeness: 0.0
 last_modified: "2026-05-06T14:42:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 4997
 ---
 
 # MIT Election Data + Science Lab
@@ -32,8 +35,9 @@ The MIT Election Lab is a founding partner in the Stanford-MIT Healthy Elections
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [res-17-001f20.jpg (.jpg)](https://ocw.mit.edu/courses/res-17-001-mit-election-data-science-lab-fall-2020/resources/res-17-001f20/)
+- [res-17-001f20-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-17-001-mit-election-data-science-lab-fall-2020/resources/res-17-001f20-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

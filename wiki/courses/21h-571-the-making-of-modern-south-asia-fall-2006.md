@@ -12,6 +12,9 @@ views: 205
 completeness: 0.22000000000000003
 last_modified: "2026-05-06T16:57:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 7, Resource: 4, Syllabus: 1"
+api_id: 4853
 ---
 
 # The Making of Modern South Asia
@@ -30,8 +33,26 @@ Survey of Indian civilization from 2500 BC to present-day. Traces major politica
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-571-the-making-of-modern-south-asia-fall-2006/pages/syllabus/)
 
+### Reading-List
+- [reform.pdf (.pdf)](https://ocw.mit.edu/courses/21h-571-the-making-of-modern-south-asia-fall-2006/resources/reform/)
+- [partition.pdf (.pdf)](https://ocw.mit.edu/courses/21h-571-the-making-of-modern-south-asia-fall-2006/resources/partition/)
+- [indo_gangetic.pdf (.pdf)](https://ocw.mit.edu/courses/21h-571-the-making-of-modern-south-asia-fall-2006/resources/indo_gangetic/)
+- [hindu_classical.pdf (.pdf)](https://ocw.mit.edu/courses/21h-571-the-making-of-modern-south-asia-fall-2006/resources/hindu_classical/)
+- [est_euro_comp.pdf (.pdf)](https://ocw.mit.edu/courses/21h-571-the-making-of-modern-south-asia-fall-2006/resources/est_euro_comp/)
+- [akbar.pdf (.pdf)](https://ocw.mit.edu/courses/21h-571-the-making-of-modern-south-asia-fall-2006/resources/akbar/)
+- [Readings](https://ocw.mit.edu/courses/21h-571-the-making-of-modern-south-asia-fall-2006/pages/readings/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/21h-571-the-making-of-modern-south-asia-fall-2006/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/21h-571-the-making-of-modern-south-asia-fall-2006/pages/assignments/)
+
+### Resource
+- [21h-571f06.jpg (.jpg)](https://ocw.mit.edu/courses/21h-571-the-making-of-modern-south-asia-fall-2006/resources/21h-571f06/)
+- [21h-571f06-th.jpg (.jpg)](https://ocw.mit.edu/courses/21h-571-the-making-of-modern-south-asia-fall-2006/resources/21h-571f06-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21h-571-the-making-of-modern-south-asia-fall-2006/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

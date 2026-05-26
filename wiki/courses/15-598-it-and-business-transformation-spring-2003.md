@@ -12,6 +12,9 @@ views: 257
 completeness: 0.2
 last_modified: "2026-05-06T17:03:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 13, Reading-List: 2, Resource: 4, Syllabus: 2"
+api_id: 3849
 ---
 
 # IT and Business Transformation
@@ -30,8 +33,32 @@ The purpose of this Proseminar in Information Technology and Business Transforma
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [IT and Our Careers (.pdf)](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/resources/itandourcareers/)
+- [Readings](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Assignment 2 (.pdf)](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/resources/asssignment2/)
+- [Assignment 10  (.pdf)](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/resources/assignment9/)
+- [Assignment 9 (.pdf)](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/resources/assignment8/)
+- [Assignment 8 (.pdf)](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/resources/assignment7/)
+- [Assignment 7 (.pdf)](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/resources/assignment6/)
+- [Assignment 6 (.pdf)](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/resources/assignment5/)
+- [Assignment 4 (.pdf)](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/resources/assignment4/)
+- [Assignment 3  (.pdf)](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/resources/assignment3/)
+- [Assignment 13 (.pdf)](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/resources/assignment12/)
+- [Assignment 12 (.pdf)](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/resources/assignment11/)
+- [Assignment 11 (.pdf)](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/resources/assignment10/)
+- [Assignment 1 (.pdf)](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/resources/assignment1/)
+- [Assignments](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/pages/assignments/)
+
+### Resource
+- [Ethernet Connections (.jpg)](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/resources/15-598s03/)
+- [Ethernet Connections (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-598-it-and-business-transformation-spring-2003/resources/15-598s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

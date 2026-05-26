@@ -12,6 +12,9 @@ views: 467
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:58:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 7, Syllabus: 2, Video-Transcript: 2"
+api_id: 5386
 ---
 
 # Classical Literature: The Golden Age of Augustan Rome
@@ -30,9 +33,22 @@ Roman Literature of the Golden Age of Augustus Caesar, produced during the trans
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-455-classical-literature-the-golden-age-of-augustan-rome-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-455-classical-literature-the-golden-age-of-augustan-rome-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-455-classical-literature-the-golden-age-of-augustan-rome-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-455-classical-literature-the-golden-age-of-augustan-rome-fall-2004/pages/assignments/)
+
+### Resource
+- [Some Pointers for Writing Papers in Literature Course (.pdf)](https://ocw.mit.edu/courses/21l-455-classical-literature-the-golden-age-of-augustan-rome-fall-2004/resources/som_point_f_writ/)
+- [Bust of Caesar Augustus (.jpg)](https://ocw.mit.edu/courses/21l-455-classical-literature-the-golden-age-of-augustan-rome-fall-2004/resources/21l-455f04/)
+- [Bust of Caesar Augustus (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-455-classical-literature-the-golden-age-of-augustan-rome-fall-2004/resources/21l-455f04-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21l-455-classical-literature-the-golden-age-of-augustan-rome-fall-2004/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/21l-455-classical-literature-the-golden-age-of-augustan-rome-fall-2004/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

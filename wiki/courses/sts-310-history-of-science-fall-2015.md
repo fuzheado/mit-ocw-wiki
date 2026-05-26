@@ -12,6 +12,9 @@ views: 520
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:01:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 2"
+api_id: 4725
 ---
 
 # History of Science
@@ -30,8 +33,16 @@ This course offers an introduction to the history and historiography of science 
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar and Readings** — [🔗](https://ocw.mit.edu/courses/sts-310-history-of-science-fall-2015/pages/calendar-and-readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-310-history-of-science-fall-2015/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/sts-310-history-of-science-fall-2015/pages/assignments/)
+
+### Resource
+- [STS-310f15.jpg (.jpg)](https://ocw.mit.edu/courses/sts-310-history-of-science-fall-2015/resources/sts-310f15/)
+- [STS-310f15-th.jpg (.jpg)](https://ocw.mit.edu/courses/sts-310-history-of-science-fall-2015/resources/sts-310f15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

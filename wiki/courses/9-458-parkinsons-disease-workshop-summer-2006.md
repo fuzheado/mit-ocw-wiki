@@ -12,6 +12,9 @@ views: 179
 completeness: 0.07500000000000001
 last_modified: "2026-05-06T17:15:53Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 9, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 4596
 ---
 
 # Parkinson's Disease Workshop
@@ -31,8 +34,27 @@ This six-week summer workshop explored different aspects of PD, including clinic
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-458-parkinsons-disease-workshop-summer-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [pd_workshop.pdf (.pdf)](https://ocw.mit.edu/courses/9-458-parkinsons-disease-workshop-summer-2006/resources/pd_workshop/)
+- [pd_memory_intro.pdf (.pdf)](https://ocw.mit.edu/courses/9-458-parkinsons-disease-workshop-summer-2006/resources/pd_memory_intro/)
+- [intro_genetics.pdf (.pdf)](https://ocw.mit.edu/courses/9-458-parkinsons-disease-workshop-summer-2006/resources/intro_genetics/)
+- [functnl_anatomy2.pdf (.pdf)](https://ocw.mit.edu/courses/9-458-parkinsons-disease-workshop-summer-2006/resources/functnl_anatomy2/)
+- [frontallobe_pd.pdf (.pdf)](https://ocw.mit.edu/courses/9-458-parkinsons-disease-workshop-summer-2006/resources/frontallobe_pd/)
+- [cognition.pdf (.pdf)](https://ocw.mit.edu/courses/9-458-parkinsons-disease-workshop-summer-2006/resources/cognition/)
+- [cogcontrol.pdf (.pdf)](https://ocw.mit.edu/courses/9-458-parkinsons-disease-workshop-summer-2006/resources/cogcontrol/)
+- [antmy_parkinson.pdf (.pdf)](https://ocw.mit.edu/courses/9-458-parkinsons-disease-workshop-summer-2006/resources/antmy_parkinson/)
+- [Lecture Notes](https://ocw.mit.edu/courses/9-458-parkinsons-disease-workshop-summer-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-458-parkinsons-disease-workshop-summer-2006/pages/readings/)
+
+### Resource
+- [9-458su06.jpg (.jpg)](https://ocw.mit.edu/courses/9-458-parkinsons-disease-workshop-summer-2006/resources/9-458su06/)
+- [9-458su06-th.jpg (.jpg)](https://ocw.mit.edu/courses/9-458-parkinsons-disease-workshop-summer-2006/resources/9-458su06-th/)
+- [Related Resources](https://ocw.mit.edu/courses/9-458-parkinsons-disease-workshop-summer-2006/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

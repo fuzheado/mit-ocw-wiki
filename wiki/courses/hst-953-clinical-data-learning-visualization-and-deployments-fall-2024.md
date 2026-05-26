@@ -12,6 +12,9 @@ views: 1373
 completeness: 0.11666666666666667
 last_modified: "2026-05-06T14:54:31Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 3, Problem-Set: 7, Reading-List: 1, Resource: 7, Syllabus: 2, Video-Transcript: 2"
+api_id: 85861
 ---
 
 # Clinical Data Learning, Visualization, and Deployments
@@ -32,10 +35,27 @@ Rodrigo Gameiro assisted with organization of course materials for publication o
 
 ## Materials
 
-- [Problem Sets] Problem Sets
-- [Programming Assignments] Programming Assignments
-- [Readings] Readings
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/hst-953-clinical-data-learning-visualization-and-deployments-fall-2024/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/hst-953-clinical-data-learning-visualization-and-deployments-fall-2024/pages/calendar/)
+- **Final Project** — [🔗](https://ocw.mit.edu/courses/hst-953-clinical-data-learning-visualization-and-deployments-fall-2024/pages/final-project/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/hst-953-clinical-data-learning-visualization-and-deployments-fall-2024/pages/readings/)
+- **Selected Lecture Slides** — [🔗](https://ocw.mit.edu/courses/hst-953-clinical-data-learning-visualization-and-deployments-fall-2024/pages/selected-lecture-slides/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-953-clinical-data-learning-visualization-and-deployments-fall-2024/pages/syllabus/)
 
+### Lecture-Notes
+- [HST.953 F24 Clinical Data Learning Lec. 10: Data Infrastrucutre (.pdf)](https://ocw.mit.edu/courses/hst-953-clinical-data-learning-visualization-and-deployments-fall-2024/resources/mithst_953_f24_lec10_slides_mccague_pdf/)
+- [HST.953 F24 Clinical Data Learning Lec. 3: LLMs in Healthcare (.pdf)](https://ocw.mit.edu/courses/hst-953-clinical-data-learning-visualization-and-deployments-fall-2024/resources/mithst_953_f24__lec03_slides_rodman_pdf/)
+
+### Problem-Set
+- [HST.953 F24 Clinical Data Learning Pset 3 (.pdf)](https://ocw.mit.edu/courses/hst-953-clinical-data-learning-visualization-and-deployments-fall-2024/resources/mithst_953_f24_pset3_pdf/)
+- [Clinical Data Learning, Problem Set 2 Student Notebook (.ipynb)](https://ocw.mit.edu/courses/hst-953-clinical-data-learning-visualization-and-deployments-fall-2024/resources/mithst_953_f24_pset2_student_ver_ipynb/)
+- [HST.953 F24 Clinical Data Learning Pset 2 (.pdf)](https://ocw.mit.edu/courses/hst-953-clinical-data-learning-visualization-and-deployments-fall-2024/resources/mithst_953_f24_pset2_pdf/)
+- [Clinical Data Learning, Problem Set 1 Student Notebook (.ipynb)](https://ocw.mit.edu/courses/hst-953-clinical-data-learning-visualization-and-deployments-fall-2024/resources/mithst_953_f24_pset1_student_ver_ipynb/)
+- [HST.953 F24 Clinical Data Learning Pset 1 (.pdf)](https://ocw.mit.edu/courses/hst-953-clinical-data-learning-visualization-and-deployments-fall-2024/resources/mithst_953_f24_pset1_pdf/)
+
+### Resource
+- [mithst_953_f24.jpg (.jpg)](https://ocw.mit.edu/courses/hst-953-clinical-data-learning-visualization-and-deployments-fall-2024/resources/mithst_953_f24_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

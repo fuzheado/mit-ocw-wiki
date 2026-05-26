@@ -12,6 +12,9 @@ views: 241
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:12:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 8, Syllabus: 2"
+api_id: 5762
 ---
 
 # American Urban History II
@@ -30,8 +33,24 @@ This is a seminar course that explores the history of selected features of the p
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-014j-american-urban-history-ii-fall-2011/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-014j-american-urban-history-ii-fall-2011/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-014j-american-urban-history-ii-fall-2011/pages/readings/)
+
+### Problem-Set
+- [How The Sound Was “Saved” The Battle of the Oyster Bay-Rye Bridge (.pdf)](https://ocw.mit.edu/courses/11-014j-american-urban-history-ii-fall-2011/resources/mit11_014jf11_student/)
+- [Assignments](https://ocw.mit.edu/courses/11-014j-american-urban-history-ii-fall-2011/pages/assignments/)
+
+### Resource
+- [Fall 2011, Robert Fogelson (.pdf)](https://ocw.mit.edu/courses/11-014j-american-urban-history-ii-fall-2011/resources/mit11_014jf11_syllf11/)
+- [Fall 2010, Robert Fogelson (.pdf)](https://ocw.mit.edu/courses/11-014j-american-urban-history-ii-fall-2011/resources/mit11_014jf11_syllf10/)
+- [Fall 2009, Robert Fogelson (.pdf)](https://ocw.mit.edu/courses/11-014j-american-urban-history-ii-fall-2011/resources/mit11_014jf11_syllf09/)
+- [Fall 2008, Robert Fogelson (.pdf)](https://ocw.mit.edu/courses/11-014j-american-urban-history-ii-fall-2011/resources/mit11_014jf11_syllf08/)
+- [Fall 2004, Robert Fogelson (.pdf)](https://ocw.mit.edu/courses/11-014j-american-urban-history-ii-fall-2011/resources/mit11_014jf11_syllf04/)
+- [Two images of a building, one taken in 1907 in black and white, and the other in color of the building today (.jpg)](https://ocw.mit.edu/courses/11-014j-american-urban-history-ii-fall-2011/resources/11-014jf11/)
 ## Wikipedia Bridge
 
 ### Related Articles

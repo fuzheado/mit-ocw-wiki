@@ -12,6 +12,9 @@ views: 86
 completeness: 0.0
 last_modified: "2026-05-06T17:20:52Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 3594
 ---
 
 # Nancy's Brain Talks
@@ -38,8 +41,9 @@ The site also includes lecture videos from Prof. Kanwisher’s undergraduate MIT
 
 ## Materials
 
-- [Videos] Videos
-
+### Resource
+- [MITRES_9_004F22.jpg (.jpg)](https://ocw.mit.edu/courses/res-9-004-nancys-brain-talks-fall-2022/resources/mitres_9_004f22/)
+- [MITRES_9_004F22-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-9-004-nancys-brain-talks-fall-2022/resources/mitres_9_004f22-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

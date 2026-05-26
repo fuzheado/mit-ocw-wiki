@@ -12,6 +12,9 @@ views: 280
 completeness: 0.0
 last_modified: "2026-05-06T16:47:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 3"
+api_id: 6009
 ---
 
 # Angles
@@ -32,8 +35,10 @@ You can find Angles Online.
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [res-21w-01f15.jpg (.jpg)](https://ocw.mit.edu/courses/res-21w-01-angles-fall-2015/resources/res-21w-01f15/)
+- [res-21w-01f15-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-21w-01-angles-fall-2015/resources/res-21w-01f15-th/)
+- [Angles Archives](https://ocw.mit.edu/courses/res-21w-01-angles-fall-2015/pages/angles-archives/)
 ## Wikipedia Bridge
 
 ### Related Articles

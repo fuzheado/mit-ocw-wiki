@@ -12,6 +12,9 @@ views: 712
 completeness: 0.12
 last_modified: "2026-05-06T14:44:38Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 6, Reading-List: 1, Resource: 10, Syllabus: 2"
+api_id: 5116
 ---
 
 # Writing and Reading the Essay
@@ -30,8 +33,30 @@ As the course title suggests, this class is meant to acquaint you with the liter
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2004/pages/readings/)
+
+### Problem-Set
+- [essay_5.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2004/resources/essay_5/)
+- [essay_4.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2004/resources/essay_4/)
+- [assignment_2.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2004/resources/assignment_2/)
+- [assignment_1_rwe.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2004/resources/assignment_1_rwe/)
+- [assign_3_blame.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2004/resources/assign_3_blame/)
+- [Assignments](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2004/pages/assignments/)
+
+### Resource
+- [logicoftheessay.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2004/resources/logicoftheessay/)
+- [grading_crtr_735.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2004/resources/grading_crtr_735/)
+- [direct_free_writ.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2004/resources/direct_free_writ/)
+- [bas_plot_of_esay.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2004/resources/bas_plot_of_esay/)
+- [bas_elem_of_esay.pdf (.pdf)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2004/resources/bas_elem_of_esay/)
+- [21w-735f04.jpg (.jpg)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2004/resources/21w-735f04/)
+- [21w-735f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2004/resources/21w-735f04-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21w-735-writing-and-reading-the-essay-fall-2004/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

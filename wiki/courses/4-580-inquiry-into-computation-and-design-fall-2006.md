@@ -12,6 +12,9 @@ views: 229
 completeness: 0.09166666666666667
 last_modified: "2026-05-06T17:09:02Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Reading-List: 1, Resource: 11, Syllabus: 2"
+api_id: 3533
 ---
 
 # Inquiry into Computation and Design
@@ -30,8 +33,27 @@ This subject explores the varied nature and practice of computation in design. W
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-580-inquiry-into-computation-and-design-fall-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-580-inquiry-into-computation-and-design-fall-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [visual_calculating.pdf (.pdf)](https://ocw.mit.edu/courses/4-580-inquiry-into-computation-and-design-fall-2006/resources/visual_calculating/)
+- [Lecture Notes](https://ocw.mit.edu/courses/4-580-inquiry-into-computation-and-design-fall-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-580-inquiry-into-computation-and-design-fall-2006/pages/readings/)
+
+### Resource
+- [lect7c.pdf (.pdf)](https://ocw.mit.edu/courses/4-580-inquiry-into-computation-and-design-fall-2006/resources/lect7c/)
+- [lect4remarks.pdf (.pdf)](https://ocw.mit.edu/courses/4-580-inquiry-into-computation-and-design-fall-2006/resources/lect4remarks/)
+- [lect10.pdf (.pdf)](https://ocw.mit.edu/courses/4-580-inquiry-into-computation-and-design-fall-2006/resources/lect10/)
+- [lect1.pdf (.pdf)](https://ocw.mit.edu/courses/4-580-inquiry-into-computation-and-design-fall-2006/resources/lect1/)
+- [L7B_reasoningvis.pdf (.pdf)](https://ocw.mit.edu/courses/4-580-inquiry-into-computation-and-design-fall-2006/resources/l7b_reasoningvis/)
+- [L7Acal_shapes.pdf (.pdf)](https://ocw.mit.edu/courses/4-580-inquiry-into-computation-and-design-fall-2006/resources/l7acal_shapes/)
+- [L2silentgamerule.pdf (.pdf)](https://ocw.mit.edu/courses/4-580-inquiry-into-computation-and-design-fall-2006/resources/l2silentgamerule/)
+- [4-580f06.jpg (.jpg)](https://ocw.mit.edu/courses/4-580-inquiry-into-computation-and-design-fall-2006/resources/4-580f06/)
+- [4-580f06-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-580-inquiry-into-computation-and-design-fall-2006/resources/4-580f06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

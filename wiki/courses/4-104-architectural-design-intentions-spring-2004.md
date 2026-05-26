@@ -12,6 +12,9 @@ views: 382
 completeness: 0.2
 last_modified: "2026-05-06T14:51:03Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Problem-Set: 11, Resource: 4, Syllabus: 2"
+api_id: 4991
 ---
 
 # Architectural Design: Intentions
@@ -30,10 +33,30 @@ This is the second undergraduate design studio. It introduces a full range of ar
 
 ## Materials
 
-- [Design Assignments] Design Assignments
-- [Projects with Examples] Projects with Examples
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-104-architectural-design-intentions-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-104-architectural-design-intentions-spring-2004/pages/syllabus/)
 
+### Problem-Set
+- [proj2final.pdf (.pdf)](https://ocw.mit.edu/courses/4-104-architectural-design-intentions-spring-2004/resources/proj2final/)
+- [proj2concept.pdf (.pdf)](https://ocw.mit.edu/courses/4-104-architectural-design-intentions-spring-2004/resources/proj2concept/)
+- [proj2analysis.pdf (.pdf)](https://ocw.mit.edu/courses/4-104-architectural-design-intentions-spring-2004/resources/proj2analysis/)
+- [proj1synthesis.pdf (.pdf)](https://ocw.mit.edu/courses/4-104-architectural-design-intentions-spring-2004/resources/proj1synthesis/)
+- [proj1section.pdf (.pdf)](https://ocw.mit.edu/courses/4-104-architectural-design-intentions-spring-2004/resources/proj1section/)
+- [proj1concept.pdf (.pdf)](https://ocw.mit.edu/courses/4-104-architectural-design-intentions-spring-2004/resources/proj1concept/)
+- [proj1axon.pdf (.pdf)](https://ocw.mit.edu/courses/4-104-architectural-design-intentions-spring-2004/resources/proj1axon/)
+- [proj1analysis.pdf (.pdf)](https://ocw.mit.edu/courses/4-104-architectural-design-intentions-spring-2004/resources/proj1analysis/)
+- [assn2persp.pdf (.pdf)](https://ocw.mit.edu/courses/4-104-architectural-design-intentions-spring-2004/resources/assn2persp/)
+- [assn1body.pdf (.pdf)](https://ocw.mit.edu/courses/4-104-architectural-design-intentions-spring-2004/resources/assn1body/)
+- [Assignments](https://ocw.mit.edu/courses/4-104-architectural-design-intentions-spring-2004/pages/assignments/)
+
+### Assignment
+- [final.pdf (.pdf)](https://ocw.mit.edu/courses/4-104-architectural-design-intentions-spring-2004/resources/final/)
+- [Projects](https://ocw.mit.edu/courses/4-104-architectural-design-intentions-spring-2004/pages/projects/)
+
+### Resource
+- [4-104s04.jpg (.jpg)](https://ocw.mit.edu/courses/4-104-architectural-design-intentions-spring-2004/resources/4-104s04/)
+- [4-104s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-104-architectural-design-intentions-spring-2004/resources/4-104s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

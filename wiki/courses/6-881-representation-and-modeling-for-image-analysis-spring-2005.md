@@ -12,6 +12,9 @@ views: 186
 completeness: 0.04166666666666667
 last_modified: "2026-05-06T17:16:45Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 5, Lecture-Notes: 5, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4595
 ---
 
 # Representation and Modeling for Image Analysis
@@ -31,9 +34,30 @@ For each concept – a new representation or an estimation algorithm – a lectu
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [Shape Influence in Geodesic Active Contours (.pdf)](https://ocw.mit.edu/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/resources/shapecurves/)
+- [Face Recognition Using Eigenfaces (.pdf)](https://ocw.mit.edu/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/resources/l02/)
+- [Representation and Modeling for Image Analysis (.pdf)](https://ocw.mit.edu/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/resources/l01/)
+- [Variational Methods, Belief  Propagation, & Graphical Models (.pdf)](https://ocw.mit.edu/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/resources/bptutorial/)
+- [Lecture Notes](https://ocw.mit.edu/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/pages/readings/)
+
+### Assignment
+- [Application of Locally Linear Embedding to the Spaces of Social Interactions and Signed Distance Functions (.pdf)](https://ocw.mit.edu/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/resources/6881_varshney/)
+- [fMRI Detection via Variational EM Approach (.pdf)](https://ocw.mit.edu/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/resources/6881_ou/)
+- [Interaction Detection in Far-Field Visual Surveillance (.pdf)](https://ocw.mit.edu/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/resources/6881_niu/)
+- [Massively Multi-target Tracking for Objects in Clutter (.pdf)](https://ocw.mit.edu/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/resources/6881_hirsh/)
+- [Projects](https://ocw.mit.edu/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/pages/projects/)
+
+### Resource
+- [Object Representations (.jpg)](https://ocw.mit.edu/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/resources/6-881s05/)
+- [Object Representations (thumbnail) (.jpg)](https://ocw.mit.edu/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/resources/6-881s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

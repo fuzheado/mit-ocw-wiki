@@ -12,6 +12,9 @@ views: 233
 completeness: 0.14666666666666667
 last_modified: "2026-05-06T16:52:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 8, Problem-Set: 4, Reading-List: 4, Resource: 5, Syllabus: 2"
+api_id: 5008
 ---
 
 # Introduction to Lie Groups
@@ -31,10 +34,36 @@ Much of the course material is based on Chapter&nbsp;I (first half) and Chapter&
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [soln_exercises.pdf (.pdf)](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/resources/soln_exercises/)
+- [preface.pdf (.pdf)](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/resources/preface/)
+- [chapter1.pdf (.pdf)](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/resources/chapter1/)
+- [chap2_topic8to14.pdf (.pdf)](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/resources/chap2_topic8to14/)
+- [chap2_topic1to7.pdf (.pdf)](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/resources/chap2_topic1to7/)
+- [chap2_ex_result.pdf (.pdf)](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/resources/chap2_ex_result/)
+- [chap1_ex_result.pdf (.pdf)](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/resources/chap1_ex_result/)
+- [Lecture Notes](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/pages/lecture-notes/)
+
+### Reading-List
+- [helgacentSTD.pdf (.pdf)](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/resources/helgacentstd/)
+- [helga_sopmath3_2.pdf (.pdf)](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/resources/helga_sopmath3_2/)
+- [helga_sophusl1_1.pdf (.pdf)](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/resources/helga_sophusl1_1/)
+- [Readings](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/pages/readings/)
+
+### Problem-Set
+- [differ_geo_3.pdf (.pdf)](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/resources/differ_geo_3/)
+- [differ_geo_2.pdf (.pdf)](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/resources/differ_geo_2/)
+- [differ_geo_1.pdf (.pdf)](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/resources/differ_geo_1/)
+- [Assignments](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/pages/assignments/)
+
+### Resource
+- [aa.jpg (.jpg)](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/resources/aa/)
+- [18-755f04.jpg (.jpg)](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/resources/18-755f04/)
+- [18-755f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/18-755-introduction-to-lie-groups-fall-2004/resources/18-755f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

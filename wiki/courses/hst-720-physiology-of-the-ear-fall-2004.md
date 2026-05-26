@@ -12,6 +12,9 @@ views: 107
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:45:54Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3645
 ---
 
 # Physiology of the Ear
@@ -30,8 +33,22 @@ Topics for this course are based primarily on reading and discussions of origina
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/hst-720-physiology-of-the-ear-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-720-physiology-of-the-ear-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/hst-720-physiology-of-the-ear-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/hst-720-physiology-of-the-ear-fall-2004/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/hst-720-physiology-of-the-ear-fall-2004/pages/projects/)
+
+### Resource
+- [Human Inner Ear (.jpg)](https://ocw.mit.edu/courses/hst-720-physiology-of-the-ear-fall-2004/resources/hst-720f04/)
+- [Human Inner Ear (thumbnail) (.jpg)](https://ocw.mit.edu/courses/hst-720-physiology-of-the-ear-fall-2004/resources/hst-720f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 768
 completeness: 0.18000000000000002
 last_modified: "2026-05-06T16:59:20Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 9, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4630
 ---
 
 # Theory of Knowledge
@@ -30,8 +33,27 @@ This course is an introduction to epistemology: the theory of knowledge. We will
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/24-211-theory-of-knowledge-spring-2014/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-211-theory-of-knowledge-spring-2014/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/24-211-theory-of-knowledge-spring-2014/pages/readings/)
+
+### Problem-Set
+- [24.211S14 Theory of Knowledge: Midterm Paper -Student Example (.pdf)](https://ocw.mit.edu/courses/24-211-theory-of-knowledge-spring-2014/resources/mit24_211s11_wright/)
+- [24.211S14 Theory of Knowledge: Short Writing Assignment 4 (.pdf)](https://ocw.mit.edu/courses/24-211-theory-of-knowledge-spring-2014/resources/mit24_211s11_sensitivity/)
+- [24.211S14 Theory of Knowledge: Short Writing Assignment 1 (.pdf)](https://ocw.mit.edu/courses/24-211-theory-of-knowledge-spring-2014/resources/mit24_211s11_necessary/)
+- [24.211S14 Theory of Knowledge: Midterm Paper (.pdf)](https://ocw.mit.edu/courses/24-211-theory-of-knowledge-spring-2014/resources/mit24_211s11_midterm/)
+- [24.211S14 Theory of Knowledge: Final Paper (.pdf)](https://ocw.mit.edu/courses/24-211-theory-of-knowledge-spring-2014/resources/mit24_211s11_finalpaper/)
+- [24.211S14 Theory of Knowledge: Final Paper - Student Example (.pdf)](https://ocw.mit.edu/courses/24-211-theory-of-knowledge-spring-2014/resources/mit24_211s11_contextualsol/)
+- [24.211S14 Theory of Knowledge: Short Writing Assignment 3 (.pdf)](https://ocw.mit.edu/courses/24-211-theory-of-knowledge-spring-2014/resources/mit24_211s11_closure/)
+- [24.211S14 Theory of Knowledge: Short Writing Assignment 2 (.pdf)](https://ocw.mit.edu/courses/24-211-theory-of-knowledge-spring-2014/resources/mit24_211s11_arguments/)
+- [Assignments](https://ocw.mit.edu/courses/24-211-theory-of-knowledge-spring-2014/pages/assignments/)
+
+### Resource
+- [24-211s14.jpg (.jpg)](https://ocw.mit.edu/courses/24-211-theory-of-knowledge-spring-2014/resources/24-211s14/)
+- [24-211s14-th.jpg (.jpg)](https://ocw.mit.edu/courses/24-211-theory-of-knowledge-spring-2014/resources/24-211s14-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

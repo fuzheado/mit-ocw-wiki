@@ -12,6 +12,9 @@ views: 214
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T16:52:01Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 2, Resource: 5, Syllabus: 2"
+api_id: 3997
 ---
 
 # Special Topics in Multimedia Production: Experiences in Interactive Art
@@ -30,8 +33,24 @@ This class deals with interactive art. Visiting artists will discuss their work 
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/pages/syllabus/)
 
+### Reading-List
+- [Tangible Interfaces for Interactive Point-of-View Narratives (.pdf)](https://ocw.mit.edu/courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/resources/mazalek/)
+- [Readings](https://ocw.mit.edu/courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/pages/readings/)
+
+### Problem-Set
+- [Midterm Assignment (.pdf)](https://ocw.mit.edu/courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/resources/mid_assign/)
+- [First Assignment (.pdf)](https://ocw.mit.edu/courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/resources/first_assign/)
+- [Final Assignment (.pdf)](https://ocw.mit.edu/courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/resources/final_assign/)
+- [Assignments](https://ocw.mit.edu/courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/pages/assignments/)
+
+### Resource
+- [Interactive Cinema (.jpg)](https://ocw.mit.edu/courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/resources/mas-878f03/)
+- [Interactive Cinema (thumbnail) (.jpg)](https://ocw.mit.edu/courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/resources/mas-878f03-th/)
+- [Related Resources](https://ocw.mit.edu/courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 264
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T14:45:54Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 2, Resource: 8, Syllabus: 2"
+api_id: 3882
 ---
 
 # Biomimetic Principles and Design
@@ -30,9 +33,25 @@ Biomimetics is based on the belief that nature, at least at times, is a good eng
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar and Readings** — [🔗](https://ocw.mit.edu/courses/2-a35-biomimetic-principles-and-design-fall-2013/pages/calendar-and-readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-a35-biomimetic-principles-and-design-fall-2013/pages/syllabus/)
 
+### Reading-List
+- [Genetic Algorithms (.pdf)](https://ocw.mit.edu/courses/2-a35-biomimetic-principles-and-design-fall-2013/resources/mit2_a35f13_genetic_algo/)
+
+### Problem-Set
+- [Assignment: Democracy and Genetic Algorithms (.pdf)](https://ocw.mit.edu/courses/2-a35-biomimetic-principles-and-design-fall-2013/resources/mit2_a35f13_assignment_8/)
+- [Assignments](https://ocw.mit.edu/courses/2-a35-biomimetic-principles-and-design-fall-2013/pages/assignments/)
+
+### Resource
+- [less than 10 students enrolled (.9923539885)](https://ocw.mit.edu/courses/2-a35-biomimetic-principles-and-design-fall-2013/resources/ocwimage-2016-03-24/)
+- [RoboTuna (.jpg)](https://ocw.mit.edu/courses/2-a35-biomimetic-principles-and-design-fall-2013/resources/2-a35f13/)
+- [RoboTuna (thumbnail) (.jpg)](https://ocw.mit.edu/courses/2-a35-biomimetic-principles-and-design-fall-2013/resources/2-a35f13-th/)
+- [2.A35 classroom (.jpg)](https://ocw.mit.edu/courses/2-a35-biomimetic-principles-and-design-fall-2013/resources/2-a35_classroom/)
+- [Instructor Insights](https://ocw.mit.edu/courses/2-a35-biomimetic-principles-and-design-fall-2013/pages/instructor-insights/)
+- [Steps in the Biomimetic Method](https://ocw.mit.edu/courses/2-a35-biomimetic-principles-and-design-fall-2013/pages/biomimetic-principles/steps-in-the-biomimetic-method/)
+- [Biomimetic Principles](https://ocw.mit.edu/courses/2-a35-biomimetic-principles-and-design-fall-2013/pages/biomimetic-principles/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 63
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:53:42Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 1"
+api_id: 4492
 ---
 
 # Women and War in the 20th Century
@@ -30,8 +33,17 @@ This seminar examines women’s experiences during and after war, revolution, an
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-381j-women-and-war-in-the-20th-century-fall-2015/pages/calendar/)
+- **Readings and Films** — [🔗](https://ocw.mit.edu/courses/21h-381j-women-and-war-in-the-20th-century-fall-2015/pages/readings-and-films/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-381j-women-and-war-in-the-20th-century-fall-2015/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-381j-women-and-war-in-the-20th-century-fall-2015/pages/assignments/)
+
+### Resource
+- [Vietnam Women's Memorial (.jpg)](https://ocw.mit.edu/courses/21h-381j-women-and-war-in-the-20th-century-fall-2015/resources/21h-381jf15/)
+- [Vietnam Women's Memorial (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21h-381j-women-and-war-in-the-20th-century-fall-2015/resources/21h-381jf15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

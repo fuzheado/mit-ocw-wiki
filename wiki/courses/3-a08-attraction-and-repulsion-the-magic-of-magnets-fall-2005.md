@@ -12,6 +12,9 @@ views: 361
 completeness: 0.06
 last_modified: "2026-05-06T17:12:08Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 2, Resource: 3, Syllabus: 1"
+api_id: 5809
 ---
 
 # Attraction and Repulsion: The Magic of Magnets
@@ -30,9 +33,21 @@ This Freshman Advising Seminar surveys the many applications of magnets and magn
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/3-a08-attraction-and-repulsion-the-magic-of-magnets-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Magnetic Materials Overview (.pdf)](https://ocw.mit.edu/courses/3-a08-attraction-and-repulsion-the-magic-of-magnets-fall-2005/resources/magnet_basics/)
+- [Readings](https://ocw.mit.edu/courses/3-a08-attraction-and-repulsion-the-magic-of-magnets-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Magnetism and Relativity (.pdf)](https://ocw.mit.edu/courses/3-a08-attraction-and-repulsion-the-magic-of-magnets-fall-2005/resources/mag_relativity/)
+- [The "Gauss Rifle" (.pdf)](https://ocw.mit.edu/courses/3-a08-attraction-and-repulsion-the-magic-of-magnets-fall-2005/resources/gauss_rifle/)
+- [Assignments](https://ocw.mit.edu/courses/3-a08-attraction-and-repulsion-the-magic-of-magnets-fall-2005/pages/assignments/)
+
+### Resource
+- [Meissner Effect (.jpg)](https://ocw.mit.edu/courses/3-a08-attraction-and-repulsion-the-magic-of-magnets-fall-2005/resources/3-a08f05/)
+- [Meissner Effect (thumbnail) (.jpg)](https://ocw.mit.edu/courses/3-a08-attraction-and-repulsion-the-magic-of-magnets-fall-2005/resources/3-a08f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

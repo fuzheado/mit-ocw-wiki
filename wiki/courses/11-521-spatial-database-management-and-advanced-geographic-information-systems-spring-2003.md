@@ -12,6 +12,9 @@ views: 506
 completeness: 0.48000000000000004
 last_modified: "2026-05-06T17:20:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 14, Lecture-Notes: 29, Problem-Set: 7, Reading-List: 1, Resource: 32, Syllabus: 2"
+api_id: 3457
 ---
 
 # Spatial Database Management and Advanced Geographic Information Systems
@@ -46,12 +49,98 @@ working with such tools as the WWW, Access, ArcView, ArcIMS, SDE, etc.
 
 ## Materials
 
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
-- [Programming Assignments with Examples] Programming Assignments with Examples
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/pages/calendar/)
+- **Labs** — [🔗](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/pages/labs/)
+- **Projects** — [🔗](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/pages/projects/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [lect9s41.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect9s41/)
+- [lect9s33.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect9s33/)
+- [lect9s32.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect9s32/)
+- [lect9s31.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect9s31/)
+- [lect9s21.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect9s21/)
+- [lect9s11.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect9s11/)
+- [lect9insertsql.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect9insertsql/)
+- [lect9createsql.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect9createsql/)
+- [lect9.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect9/)
+- [lect8.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect8/)
+- [lect7b.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect7b/)
+- [lect7a.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect7a/)
+- [lect7.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect7/)
+- [lect6.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect6/)
+- [lect5queries.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect5queries/)
+- [lect5ppt.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect5ppt/)
+- [lect5.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect5/)
+- [lect4.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect4/)
+- [lect3.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect3/)
+- [lect2.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect2/)
+- [lect1LH.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect1lh/)
+- [lect13c.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect13c/)
+- [lect13b.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect13b/)
+- [lect13a.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect13a/)
+- [lect13.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect13/)
+- [lect10.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect10/)
+- [lect1.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lect1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/pages/readings/)
+
+### Problem-Set
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/ps3/)
+- [practiceexam.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/practiceexam/)
+- [lab3.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lab3/)
+- [lab2.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lab2/)
+- [exam.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/exam/)
+- [Exams](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/pages/assignments/)
+
+### Assignment
+- [zoningmap.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/zoningmap/)
+- [zoning_QA.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/zoning_qa/)
+- [zoning_process_timel.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/zoning_process_timel/)
+- [zoning_extract.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/zoning_extract/)
+- [zonin_overl_dis_over.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/zonin_overl_dis_over/)
+- [Webtest_Providence.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/webtest_providence/)
+- [Webtest_Philadelph_2.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/webtest_philadelph_2/)
+- [Webtest_Oakland.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/webtest_oakland/)
+- [Webtest_Los_Angeles.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/webtest_los_angeles/)
+- [Webtest_Baltimore.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/webtest_baltimore/)
+- [Submitt_Zoning_31803.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/submitt_zoning_31803/)
+- [Lawrence.jpg (.jpg)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lawrence/)
+- [data_list_v2.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/data_list_v2/)
+
+### Resource
+- [zoningvariance.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/zoningvariance/)
+- [zoningnotes.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/zoningnotes/)
+- [zoningchart.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/zoningchart/)
+- [urisa.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/urisa/)
+- [sqlnotes.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/sqlnotes/)
+- [sqlhelp.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/sqlhelp/)
+- [referential_integrity.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/referential_integrity/)
+- [parcelszoning.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/parcelszoning/)
+- [parcelstax.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/parcelstax/)
+- [parcelsschema.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/parcelsschema/)
+- [parcelssales.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/parcelssales/)
+- [parcelspermits.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/parcelspermits/)
+- [parcelsparcels.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/parcelsparcels/)
+- [parcelsowners.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/parcelsowners/)
+- [parcelsfires.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/parcelsfires/)
+- [parcels.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/parcels/)
+- [outerjoin.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/outerjoin/)
+- [lookup.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lookup/)
+- [lab6.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lab6/)
+- [lab5.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lab5/)
+- [lab4.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lab4/)
+- [lab1.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/lab1/)
+- [index.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/index-1/)
+- [correlated_updates.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/correlated_updates/)
+- [1980census.pdf (.pdf)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/1980census/)
+- [11-521s03.jpg (.jpg)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/11-521s03/)
+- [11-521s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/resources/11-521s03-th/)
+- [Tools](https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/pages/tools/)
 ## Wikipedia Bridge
 
 ### Related Articles

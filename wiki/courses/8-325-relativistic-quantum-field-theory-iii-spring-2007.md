@@ -12,6 +12,9 @@ views: 450
 completeness: 0.16000000000000003
 last_modified: "2026-05-06T15:02:03Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 8, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4834
 ---
 
 # Relativistic Quantum Field Theory III
@@ -30,8 +33,25 @@ This course is the third and last term of the quantum field theory sequence. Its
 
 ## Materials
 
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/pages/readings/)
+
+### Problem-Set
+- [homework7.pdf (.pdf)](https://ocw.mit.edu/courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/resources/homework7/)
+- [homework6.pdf (.pdf)](https://ocw.mit.edu/courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/resources/homework6/)
+- [homework5.pdf (.pdf)](https://ocw.mit.edu/courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/resources/homework5/)
+- [homework4.pdf (.pdf)](https://ocw.mit.edu/courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/resources/homework4/)
+- [homework3.pdf (.pdf)](https://ocw.mit.edu/courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/resources/homework3/)
+- [homework2.pdf (.pdf)](https://ocw.mit.edu/courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/resources/homework2/)
+- [homework1.pdf (.pdf)](https://ocw.mit.edu/courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/resources/homework1/)
+- [Assignments](https://ocw.mit.edu/courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/pages/assignments/)
+
+### Resource
+- [8-325s03.jpg (.jpg)](https://ocw.mit.edu/courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/resources/8-325s03/)
+- [8-325s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/resources/8-325s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

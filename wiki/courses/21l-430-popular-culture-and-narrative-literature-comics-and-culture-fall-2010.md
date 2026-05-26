@@ -12,6 +12,9 @@ views: 281
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:55:50Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 4805
 ---
 
 # Popular Culture and Narrative: Literature, Comics, and Culture
@@ -30,8 +33,17 @@ In this course, we will investigate popular culture and narrative by focusing on
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-430-popular-culture-and-narrative-literature-comics-and-culture-fall-2010/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-430-popular-culture-and-narrative-literature-comics-and-culture-fall-2010/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-430-popular-culture-and-narrative-literature-comics-and-culture-fall-2010/pages/assignments/)
+
+### Resource
+- [Photo of a grid-paper notebook with comic strip on the cover. The notebook is reinforced with thin cardstock (.jpg)](https://ocw.mit.edu/courses/21l-430-popular-culture-and-narrative-literature-comics-and-culture-fall-2010/resources/21l-430f10/)
 ## Wikipedia Bridge
 
 ### Related Articles

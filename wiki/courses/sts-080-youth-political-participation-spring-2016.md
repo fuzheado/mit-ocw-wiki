@@ -12,6 +12,9 @@ views: 25
 completeness: 0.22000000000000003
 last_modified: "2026-05-06T16:52:41Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 8, Syllabus: 2"
+api_id: 3580
 ---
 
 # Youth Political Participation
@@ -30,10 +33,24 @@ This course places contemporary youth activities in perspective by surveying you
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Instructor Insights] Instructor Insights
-- [Presentation Assignments] Presentation Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/sts-080-youth-political-participation-spring-2016/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-080-youth-political-participation-spring-2016/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/sts-080-youth-political-participation-spring-2016/pages/readings/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/sts-080-youth-political-participation-spring-2016/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/sts-080-youth-political-participation-spring-2016/pages/assignments/)
+
+### Resource
+- [1909 May Day parade (.jpg)](https://ocw.mit.edu/courses/sts-080-youth-political-participation-spring-2016/resources/sts-080s16/)
+- [1909 May Day parade (thumbnail) (.jpg)](https://ocw.mit.edu/courses/sts-080-youth-political-participation-spring-2016/resources/sts-080s16-th/)
+- [STS.080 Classroom (.jpg)](https://ocw.mit.edu/courses/sts-080-youth-political-participation-spring-2016/resources/sts-080-classroom/)
+- [<10 students enrolled (.png)](https://ocw.mit.edu/courses/sts-080-youth-political-participation-spring-2016/resources/less-than-10/)
+- [lecture, presentation, and exam (.png)](https://ocw.mit.edu/courses/sts-080-youth-political-participation-spring-2016/resources/edu_b-lecpres-exam/)
+- [Instructor Insights](https://ocw.mit.edu/courses/sts-080-youth-political-participation-spring-2016/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

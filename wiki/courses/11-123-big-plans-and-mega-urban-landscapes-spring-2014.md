@@ -12,6 +12,9 @@ views: 236
 completeness: 0.2
 last_modified: "2026-05-06T17:19:36Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 14, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 1"
+api_id: 5687
 ---
 
 # Big Plans and Mega-Urban Landscapes
@@ -30,9 +33,30 @@ This course explores the physical, ecological, technological, political, economi
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/pages/syllabus/)
 
+### Problem-Set
+- [Photoshop_Workshop_Materials.zip (.zip)](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/resources/photoshop_workshop_materials/)
+- [PEOPL235.psd (.psd)](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/resources/peopl235/)
+- [PEOPL234.psd (.psd)](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/resources/peopl234/)
+- [PEOPL230.psd (.psd)](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/resources/peopl233/)
+- [PEOPL206.psd (.psd)](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/resources/peopl206/)
+- [MIT_Base_Map.jpg (.jpg)](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/resources/mit_base_map/)
+- [Big Plans and Mega-Urban Landscapes, Illustrator Workshop (.pdf)](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/resources/mit11_123s14_illustor_work/)
+- [Big Plans and Mega-Urban Landscapes, Assignment 3 (.pdf)](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/resources/mit11_123s14_assignment3/)
+- [Big Plans and Mega-Urban Landscapes, Assignment 2 (.pdf)](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/resources/mit11_123s14_assignment2/)
+- [11.123 big plans S14 assignment1 (.pdf)](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/resources/mit11_123s14_assignment1/)
+- [Big Plans and Mega-Urban Landscapes, Assignment 3 Reminder (.pdf)](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/resources/mit11_123s14_assign3_remi/)
+- [InDesign_Tutorial.zip (.zip)](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/resources/indesign_tutorial/)
+- [ACERSAC7.psd (.psd)](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/resources/acersac7/)
+- [Assignments](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/pages/assignments/)
+
+### Resource
+- [11-123s14.jpg (.jpg)](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/resources/11-123s14/)
+- [11-123s14-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/resources/11-123s14-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 284
 completeness: 0.28
 last_modified: "2026-05-06T17:01:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 13, Problem-Set: 9, Reading-List: 1, Resource: 13, Syllabus: 2"
+api_id: 5462
 ---
 
 # Neural Coding and Perception of Sound
@@ -30,8 +33,50 @@ This course focuses on neural structures and mechanisms mediating the detection,
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/pages/calendar/)
+- **Labs** — [🔗](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/pages/labs/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [t6_asa.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/t6_asa/)
+- [t4_pitchcoding.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/t4_pitchcoding/)
+- [t4_pitch.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/t4_pitch/)
+- [t3_binaurlintrct.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/t3_binaurlintrct/)
+- [t3_binaural.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/t3_binaural/)
+- [t2_neuronssynaps.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/t2_neuronssynaps/)
+- [t1_masking.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/t1_masking/)
+- [t1_loudness.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/t1_loudness/)
+- [t1_cochlearmechs.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/t1_cochlearmechs/)
+- [t1_anstimcoding.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/t1_anstimcoding/)
+- [auditorysysovr.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/auditorysysovr/)
+- [Lecture Notes](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/pages/readings/)
+
+### Problem-Set
+- [themeguidelines.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/themeguidelines/)
+- [theme_6_pointers.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/theme_6_pointers/)
+- [theme_5_pointers.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/theme_5_pointers/)
+- [theme_4_pointers.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/theme_4_pointers/)
+- [theme_3_pointers.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/theme_3_pointers/)
+- [theme_2_pointers.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/theme_2_pointers/)
+- [theme_1_pointers.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/theme_1_pointers/)
+- [prsnt_guidelines.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/prsnt_guidelines/)
+- [Assignments](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/pages/assignments/)
+
+### Resource
+- [t3a_neuroanatomy.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/t3a_neuroanatomy/)
+- [maskinglabhndout.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/maskinglabhndout/)
+- [lab_project_4.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/lab_project_4/)
+- [lab_project_3.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/lab_project_3/)
+- [lab_project_1.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/lab_project_1/)
+- [lab_2.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/lab_2/)
+- [hst-723js05.jpg (.jpg)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/hst-723js05/)
+- [hst-723js05-th.jpg (.jpg)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/hst-723js05-th/)
+- [fmntlprcptlaudio.pdf (.pdf)](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/resources/fmntlprcptlaudio/)
+- [Related Resources](https://ocw.mit.edu/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

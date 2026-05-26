@@ -12,6 +12,9 @@ views: 346
 completeness: 0.0
 last_modified: "2026-05-06T16:47:57Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2, Video-Transcript: 18"
+api_id: 5192
 ---
 
 # Adaptive Antennas and Phased Arrays
@@ -31,8 +34,9 @@ Online Publication
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [res-ll-002s10.gif (.gif)](https://ocw.mit.edu/courses/res-ll-002-adaptive-antennas-and-phased-arrays-spring-2010/resources/res-ll-002s10/)
+- [res-ll-002s10-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-ll-002-adaptive-antennas-and-phased-arrays-spring-2010/resources/res-ll-002s10-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

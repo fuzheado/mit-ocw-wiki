@@ -12,6 +12,9 @@ views: 133
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:08:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 13"
+api_id: 3844
 ---
 
 # European Politics
@@ -30,8 +33,17 @@ This course examines similarities and differences in politics and political econ
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-561-european-politics-fall-2020/pages/calendar/)
+- **Readings and Videos** — [🔗](https://ocw.mit.edu/courses/17-561-european-politics-fall-2020/pages/readings-and-videos/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-561-european-politics-fall-2020/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-561-european-politics-fall-2020/pages/assignments/)
+
+### Resource
+- [17-561f20.jpg (.jpg)](https://ocw.mit.edu/courses/17-561-european-politics-fall-2020/resources/17-561f20/)
+- [17-561f20-th.jpg (.jpg)](https://ocw.mit.edu/courses/17-561-european-politics-fall-2020/resources/17-561f20-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

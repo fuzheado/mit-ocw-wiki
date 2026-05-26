@@ -12,6 +12,9 @@ views: 144
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T15:00:09Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Image-Gallery: 1, Problem-Set: 1, Resource: 15, Syllabus: 1"
+api_id: 5109
 ---
 
 # Nature, Environment, and Empire
@@ -30,9 +33,27 @@ This class examines the relationship between the study of natural history, both 
 
 ## Materials
 
-- [Image Gallery] Image Gallery
-- [Written Assignments] Written Assignments
+### Lectures
+- **Image Gallery** — [🔗](https://ocw.mit.edu/courses/21h-968j-nature-environment-and-empire-spring-2010/pages/image-gallery/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-968j-nature-environment-and-empire-spring-2010/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-968j-nature-environment-and-empire-spring-2010/pages/assignments/)
+
+### Resource
+- [vegetation.jpg (.jpg)](https://ocw.mit.edu/courses/21h-968j-nature-environment-and-empire-spring-2010/resources/vegetation/)
+- [tametortoise.jpg (.jpg)](https://ocw.mit.edu/courses/21h-968j-nature-environment-and-empire-spring-2010/resources/tametortoise/)
+- [seals.jpg (.jpg)](https://ocw.mit.edu/courses/21h-968j-nature-environment-and-empire-spring-2010/resources/seals/)
+- [ropylava.jpg (.jpg)](https://ocw.mit.edu/courses/21h-968j-nature-environment-and-empire-spring-2010/resources/ropylava/)
+- [rockyshore.jpg (.jpg)](https://ocw.mit.edu/courses/21h-968j-nature-environment-and-empire-spring-2010/resources/rockyshore/)
+- [MIT21H_968S10_syllS08.pdf (.pdf)](https://ocw.mit.edu/courses/21h-968j-nature-environment-and-empire-spring-2010/resources/mit21h_968s10_sylls08/)
+- [MIT21H_968S10_syllS05.pdf (.pdf)](https://ocw.mit.edu/courses/21h-968j-nature-environment-and-empire-spring-2010/resources/mit21h_968s10_sylls05/)
+- [MIT21H_968JS10_syllS10.pdf (.pdf)](https://ocw.mit.edu/courses/21h-968j-nature-environment-and-empire-spring-2010/resources/mit21h_968js10_sylls10/)
+- [iguanas.jpg (.jpg)](https://ocw.mit.edu/courses/21h-968j-nature-environment-and-empire-spring-2010/resources/iguanas/)
+- [frigatebirds.jpg (.jpg)](https://ocw.mit.edu/courses/21h-968j-nature-environment-and-empire-spring-2010/resources/frigatebirds/)
+- [21h-968js10.jpg (.jpg)](https://ocw.mit.edu/courses/21h-968j-nature-environment-and-empire-spring-2010/resources/21h-968js10/)
+- [21h-968js10-th.jpg (.jpg)](https://ocw.mit.edu/courses/21h-968j-nature-environment-and-empire-spring-2010/resources/21h-968js10-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21h-968j-nature-environment-and-empire-spring-2010/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 108
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:42:49Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 3965
 ---
 
 # American Authors: Autobiography and Memoir
@@ -30,9 +33,22 @@ What is a “life” when it’s written down? How does memory inform the presen
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-512-american-authors-autobiography-and-memoir-fall-2013/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-512-american-authors-autobiography-and-memoir-fall-2013/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-512-american-authors-autobiography-and-memoir-fall-2013/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-512-american-authors-autobiography-and-memoir-fall-2013/pages/assignments/)
+
+### Resource
+- [Harriet Jacobs, Alison Bechdel, Sherman Alexie and Frederick Douglass (.jpg)](https://ocw.mit.edu/courses/21l-512-american-authors-autobiography-and-memoir-fall-2013/resources/21l-512f13/)
+- [21L-512_stat-students (.png)](https://ocw.mit.edu/courses/21l-512-american-authors-autobiography-and-memoir-fall-2013/resources/21l-512_stat-students/)
+- [21L-512_classroom-1 (.jpg)](https://ocw.mit.edu/courses/21l-512-american-authors-autobiography-and-memoir-fall-2013/resources/21l-512_classroom-1/)
+- [Related Resources](https://ocw.mit.edu/courses/21l-512-american-authors-autobiography-and-memoir-fall-2013/pages/related-resources/)
+- [Instructor Insights](https://ocw.mit.edu/courses/21l-512-american-authors-autobiography-and-memoir-fall-2013/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

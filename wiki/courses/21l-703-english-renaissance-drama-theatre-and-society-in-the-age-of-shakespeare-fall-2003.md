@@ -12,6 +12,9 @@ views: 390
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T14:51:43Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 10, Resource: 4, Syllabus: 2"
+api_id: 5314
 ---
 
 # English Renaissance Drama: Theatre and Society in the Age of Shakespeare
@@ -30,8 +33,31 @@ Shakespeare “doth bestride the narrow world” of the English Renaissance “l
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/pages/syllabus/)
 
+### Reading-List
+- [wheeler_commerce.pdf (.pdf)](https://ocw.mit.edu/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/resources/wheeler_commerce/)
+- [stubbes_anatomy.pdf (.pdf)](https://ocw.mit.edu/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/resources/stubbes_anatomy/)
+- [machiavelli.pdf (.pdf)](https://ocw.mit.edu/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/resources/machiavelli/)
+- [homily_matrimony.pdf (.pdf)](https://ocw.mit.edu/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/resources/homily_matrimony/)
+- [heywood_apolog.pdf (.pdf)](https://ocw.mit.edu/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/resources/heywood_apolog/)
+- [hak_prinav.pdf (.pdf)](https://ocw.mit.edu/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/resources/hak_prinav/)
+- [hak_div1_15.pdf (.pdf)](https://ocw.mit.edu/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/resources/hak_div1_15/)
+- [epistle_jonson.pdf (.pdf)](https://ocw.mit.edu/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/resources/epistle_jonson/)
+- [arden_ballad.pdf (.pdf)](https://ocw.mit.edu/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/resources/arden_ballad/)
+- [Readings](https://ocw.mit.edu/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/pages/readings/)
+
+### Problem-Set
+- [essay3.pdf (.pdf)](https://ocw.mit.edu/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/resources/essay3/)
+- [essay2.pdf (.pdf)](https://ocw.mit.edu/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/resources/essay2/)
+- [essay1.pdf (.pdf)](https://ocw.mit.edu/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/resources/essay1/)
+- [Assignments](https://ocw.mit.edu/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/pages/assignments/)
+
+### Resource
+- [21l-703f03.jpg (.jpg)](https://ocw.mit.edu/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/resources/21l-703f03/)
+- [21l-703f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/resources/21l-703f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

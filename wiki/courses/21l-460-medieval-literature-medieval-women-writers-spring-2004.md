@@ -12,6 +12,9 @@ views: 220
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:55:29Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 7, Resource: 6, Syllabus: 2, Video-Transcript: 1"
+api_id: 3600
 ---
 
 # Medieval Literature: Medieval Women Writers
@@ -30,9 +33,27 @@ This survey provides a general introduction to medieval European literature (fro
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/pages/syllabus/)
 
+### Reading-List
+- [Medieval Women Mystics (.pdf)](https://ocw.mit.edu/courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/resources/hand_out6_mediev/)
+- [Function and Purpose of Virginity Among Early Christians (.pdf)](https://ocw.mit.edu/courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/resources/hand_out5_hagiog/)
+- [Jerome, Against Jovinian (.pdf)](https://ocw.mit.edu/courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/resources/hand_out4_jerome/)
+- [Augustine, On the Literal Meaning of Genesis (.pdf)](https://ocw.mit.edu/courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/resources/hand_out3_augus/)
+- [Chronology of Principle Medieval Women Writers (.pdf)](https://ocw.mit.edu/courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/resources/hand_out2_listof/)
+- [Chaucer, The Canterbury Tales, "The Wife of Bath's Prologue," vv.669-96 (.pdf)](https://ocw.mit.edu/courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/resources/hand_out1_chauce/)
+- [Readings](https://ocw.mit.edu/courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/pages/assignments/)
+
+### Resource
+- [Joan of Arc (.jpg)](https://ocw.mit.edu/courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/resources/21l-460s04/)
+- [Joan of Arc (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/resources/21l-460s04-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

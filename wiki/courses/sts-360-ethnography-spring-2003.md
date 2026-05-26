@@ -12,6 +12,9 @@ views: 1187
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:08:42Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 3613
 ---
 
 # Ethnography
@@ -30,9 +33,20 @@ This course is a practicum-style seminar in anthropological methods of ethnograp
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/sts-360-ethnography-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-360-ethnography-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/sts-360-ethnography-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/sts-360-ethnography-spring-2003/pages/assignments/)
+
+### Resource
+- [Gandhi's Spinning Wheel (.jpg)](https://ocw.mit.edu/courses/sts-360-ethnography-spring-2003/resources/sts-360s03/)
+- [Gandhi's Spinning Wheel (thumbnail) (.jpg)](https://ocw.mit.edu/courses/sts-360-ethnography-spring-2003/resources/sts-360s03-th/)
+- [Study Materials](https://ocw.mit.edu/courses/sts-360-ethnography-spring-2003/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

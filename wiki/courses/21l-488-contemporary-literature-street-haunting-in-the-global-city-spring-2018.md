@@ -12,6 +12,9 @@ views: 104
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T14:55:42Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Problem-Set: 7, Reading-List: 4, Resource: 5, Syllabus: 2, Video-Transcript: 1"
+api_id: 4267
 ---
 
 # Contemporary Literature: Street Haunting in the Global City
@@ -30,8 +33,23 @@ In this class we will focus on the connections between urban exploration and rea
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-488-contemporary-literature-street-haunting-in-the-global-city-spring-2018/pages/calendar/)
+- **Creative Street Haunting Assignment** — [🔗](https://ocw.mit.edu/courses/21l-488-contemporary-literature-street-haunting-in-the-global-city-spring-2018/pages/assignments/creative-street-haunting-assignment/)
+- **Paper 1** — [🔗](https://ocw.mit.edu/courses/21l-488-contemporary-literature-street-haunting-in-the-global-city-spring-2018/pages/assignments/paper-1/)
+- **Paper 2** — [🔗](https://ocw.mit.edu/courses/21l-488-contemporary-literature-street-haunting-in-the-global-city-spring-2018/pages/assignments/paper-2/)
+- **Re-Reading Assignment 1** — [🔗](https://ocw.mit.edu/courses/21l-488-contemporary-literature-street-haunting-in-the-global-city-spring-2018/pages/assignments/re-reading-assignment-1/)
+- **Re-Reading Assignment 2** — [🔗](https://ocw.mit.edu/courses/21l-488-contemporary-literature-street-haunting-in-the-global-city-spring-2018/pages/assignments/re-reading-assignment-2/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21l-488-contemporary-literature-street-haunting-in-the-global-city-spring-2018/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-488-contemporary-literature-street-haunting-in-the-global-city-spring-2018/pages/syllabus/)
 
+### Problem-Set
+- [MIT21L_488S18_tejucole.png (.png)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-street-haunting-in-the-global-city-spring-2018/resources/mit21l_488s18_tejucole/)
+- [Assignments](https://ocw.mit.edu/courses/21l-488-contemporary-literature-street-haunting-in-the-global-city-spring-2018/pages/assignments/)
+
+### Resource
+- [21l-488s18.jpg (.jpg)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-street-haunting-in-the-global-city-spring-2018/resources/21l-488s18/)
+- [21l-488s18-th.jpeg (.jpeg)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-street-haunting-in-the-global-city-spring-2018/resources/21l-488s18-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,8 @@ views: 188
 completeness: 0.0
 last_modified: "2026-05-06T14:49:53Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Syllabus: 2"
 ---
 
 # Robocraft Programming Competition
@@ -30,8 +32,12 @@ The 6.370 Robocraft programming competition is a unique challenge that combines 
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/6-370-robocraft-programming-competition-january-iap-2005/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/6-370-robocraft-programming-competition-january-iap-2005/pages/calendar/)
 
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/6-370-robocraft-programming-competition-january-iap-2005/pages/projects/)
 ## Wikipedia Bridge
 
 ### Related Articles

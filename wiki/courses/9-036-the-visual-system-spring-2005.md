@@ -12,6 +12,9 @@ views: 91
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:55:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3583
 ---
 
 # The Visual System
@@ -30,9 +33,19 @@ This comprehensive course on the visual system is designed to ground future rese
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-036-the-visual-system-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-036-the-visual-system-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-036-the-visual-system-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/9-036-the-visual-system-spring-2005/pages/assignments/)
+
+### Resource
+- [Visual System in Primates (.jpg)](https://ocw.mit.edu/courses/9-036-the-visual-system-spring-2005/resources/chp_9_036_visual2/)
+- [Visual System in Primates (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-036-the-visual-system-spring-2005/resources/9-036s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

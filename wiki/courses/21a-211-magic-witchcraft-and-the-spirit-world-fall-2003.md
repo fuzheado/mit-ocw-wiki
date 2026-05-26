@@ -12,6 +12,9 @@ views: 2201
 completeness: 0.12
 last_modified: "2026-05-06T16:55:34Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 6, Reading-List: 1, Resource: 13, Syllabus: 2"
+api_id: 5675
 ---
 
 # Magic, Witchcraft, and the Spirit World
@@ -30,8 +33,30 @@ Spiritual, magical, and “occult” aspects of human behavior in anthropologica
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/pages/syllabus/)
 
+### Problem-Set
+- [918.pdf (.pdf)](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/resources/918/)
+- [1209.pdf (.pdf)](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/resources/1209/)
+- [1125.pdf (.pdf)](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/resources/1125/)
+- [1104.pdf (.pdf)](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/resources/1104/)
+- [1021.pdf (.pdf)](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/resources/1021/)
+- [Assignments](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/pages/assignments/)
+
+### Resource
+- [spacealien.pdf (.pdf)](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/resources/spacealien/)
+- [salempossesed.pdf (.pdf)](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/resources/salempossesed/)
+- [denniscovington.pdf (.pdf)](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/resources/denniscovington/)
+- [christianvisionaries.pdf (.pdf)](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/resources/christianvisionaries/)
+- [briggswillis.pdf (.pdf)](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/resources/briggswillis/)
+- [braudetelegram.pdf (.pdf)](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/resources/braudetelegram/)
+- [21a-211f03.jpg (.jpg)](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/resources/21a-211f03/)
+- [21a-211f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/resources/21a-211f03-th/)
+- [21211chp.jpg (.jpg)](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/resources/21211chp/)
+- [Study Materials](https://ocw.mit.edu/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

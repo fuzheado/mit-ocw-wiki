@@ -12,6 +12,9 @@ views: 118
 completeness: 0.1
 last_modified: "2026-05-06T14:43:11Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3562
 ---
 
 # Civil Society, Social Capital, and the State in Comparative Perspective
@@ -30,8 +33,23 @@ In recent years both scholars and policymakers have expressed a remarkable amoun
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-955-civil-society-social-capital-and-the-state-in-comparative-perspective-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-955-civil-society-social-capital-and-the-state-in-comparative-perspective-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-955-civil-society-social-capital-and-the-state-in-comparative-perspective-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Civil Society as a Response to Categorical Failures of the State (.pdf)](https://ocw.mit.edu/courses/17-955-civil-society-social-capital-and-the-state-in-comparative-perspective-fall-2004/resources/regime_change/)
+- [Trust and Cooperation: Analysis and Critique of the Rational Actor Model (.pdf)](https://ocw.mit.edu/courses/17-955-civil-society-social-capital-and-the-state-in-comparative-perspective-fall-2004/resources/matsuzaki_res_4/)
+- [Reaction Paper 3 (.pdf)](https://ocw.mit.edu/courses/17-955-civil-society-social-capital-and-the-state-in-comparative-perspective-fall-2004/resources/canales_react_3/)
+- [Civil Society – Paper for Week of International Politics and Globalization (.pdf)](https://ocw.mit.edu/courses/17-955-civil-society-social-capital-and-the-state-in-comparative-perspective-fall-2004/resources/anat_binur/)
+- [Assignments](https://ocw.mit.edu/courses/17-955-civil-society-social-capital-and-the-state-in-comparative-perspective-fall-2004/pages/assignments/)
+
+### Resource
+- [Afghan Constitutional Loya Jirga (.jpg)](https://ocw.mit.edu/courses/17-955-civil-society-social-capital-and-the-state-in-comparative-perspective-fall-2004/resources/17-955f04/)
+- [Afghan Constitutional Loya Jirga (thumbnail) (.jpg)](https://ocw.mit.edu/courses/17-955-civil-society-social-capital-and-the-state-in-comparative-perspective-fall-2004/resources/17-955f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

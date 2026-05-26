@@ -12,6 +12,9 @@ views: 1857
 completeness: 0.0
 last_modified: "2026-05-06T14:44:18Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 6, Syllabus: 1"
+api_id: 19476
 ---
 
 # The Science Fiction of Freedom
@@ -34,10 +37,15 @@ science fiction—to consider speculative techniques for imagining freedom.
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Readings] Readings
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/21l-434-the-science-fiction-of-freedom-fall-2024/pages/assignments/)
+- **Close Reading Essays** — [🔗](https://ocw.mit.edu/courses/21l-434-the-science-fiction-of-freedom-fall-2024/pages/close-reading-essays/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21l-434-the-science-fiction-of-freedom-fall-2024/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-434-the-science-fiction-of-freedom-fall-2024/pages/syllabus/)
 
+### Resource
+- [Instructor Insights](https://ocw.mit.edu/courses/21l-434-the-science-fiction-of-freedom-fall-2024/pages/instructor-insights/)
+- [mit21L_434_f24.jpg (.jpg)](https://ocw.mit.edu/courses/21l-434-the-science-fiction-of-freedom-fall-2024/resources/mit21l_434_f24_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

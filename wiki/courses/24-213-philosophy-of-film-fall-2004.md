@@ -12,6 +12,9 @@ views: 296
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T17:07:20Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 3, Syllabus: 2, Video-Transcript: 5"
+api_id: 3522
 ---
 
 # Philosophy of Film
@@ -30,9 +33,21 @@ This course is a seminar on the philosophical analysis of film art, with an emph
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/24-213-philosophy-of-film-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-213-philosophy-of-film-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/24-213-philosophy-of-film-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Human Barriers in Renoir and Coppola (.pdf)](https://ocw.mit.edu/courses/24-213-philosophy-of-film-fall-2004/resources/renoir_cop_ppr/)
+- [Exploring Time in Citizen Kane (.pdf)](https://ocw.mit.edu/courses/24-213-philosophy-of-film-fall-2004/resources/citizen_kane_ppr/)
+- [Filming for a burlesque on the burning of Rome (.jpg)](https://ocw.mit.edu/courses/24-213-philosophy-of-film-fall-2004/resources/chp_phil_film/)
+- [Assignments](https://ocw.mit.edu/courses/24-213-philosophy-of-film-fall-2004/pages/assignments/)
+
+### Resource
+- [Filming for a burlesque on the burning of Rome (thumbnail) (.jpg)](https://ocw.mit.edu/courses/24-213-philosophy-of-film-fall-2004/resources/24-213f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

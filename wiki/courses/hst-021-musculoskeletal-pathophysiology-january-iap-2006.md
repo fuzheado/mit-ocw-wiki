@@ -12,6 +12,8 @@ views: 574
 completeness: 0.28500000000000003
 last_modified: "2026-05-06T17:23:07Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 2, Resource: 1, Syllabus: 2"
 ---
 
 # Musculoskeletal Pathophysiology
@@ -30,12 +32,19 @@ This course covers the growth, development and structure of normal bone and join
 
 ## Materials
 
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006/pages/lecture-notes/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006/pages/assignments/)
+- [Exams](https://ocw.mit.edu/courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006/pages/exams/)
+
+### Resource
+- [Related Resources](https://ocw.mit.edu/courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

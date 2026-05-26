@@ -12,6 +12,9 @@ views: 65
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:52:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 3751
 ---
 
 # The American Novel
@@ -30,8 +33,18 @@ This course explores the metaphorical, historical, social, and psychological val
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-501-the-american-novel-fall-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-501-the-american-novel-fall-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-501-the-american-novel-fall-2006/pages/assignments/)
+
+### Resource
+- [Topsy and Eva (.jpg)](https://ocw.mit.edu/courses/21l-501-the-american-novel-fall-2006/resources/21l-501f06/)
+- [Topsy and Eva (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-501-the-american-novel-fall-2006/resources/21l-501f06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

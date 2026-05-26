@@ -12,6 +12,8 @@ views: 296
 completeness: 0.0
 last_modified: "2026-05-06T14:44:08Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Resource: 8, Syllabus: 2, Video-Transcript: 1"
 ---
 
 # Chemistry Laboratory Techniques
@@ -35,9 +37,26 @@ Legal Notice
 
 ## Materials
 
-- [Demonstration Videos] Demonstration Videos
-- [Instructor Insights] Instructor Insights
+### Lectures
+- **Transfer and Extraction Techniques** — [🔗](https://ocw.mit.edu/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/pages/labs/transfer-and-manipulation/) · [🔗](https://ocw.mit.edu/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/pages/labs/acids-bases-in-between/)
 
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/pages/calendar/)
+
+### Lecture-Notes
+- [Labs](https://ocw.mit.edu/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/pages/labs/)
+
+### Assignment
+- [Introduction to Original Research](https://ocw.mit.edu/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/pages/labs/original-research-project/)
+
+### Resource
+- [Instructor Insights](https://ocw.mit.edu/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/pages/instructor-insights/)
+- [Purification of Solids by Recrystallization](https://ocw.mit.edu/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/pages/labs/recrystallization-and-single-crystal/)
+- [Purification of Liquids by Distillation](https://ocw.mit.edu/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/pages/labs/distillation/)
+- [Purification by Flash Column Chromatography](https://ocw.mit.edu/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/pages/labs/column-chromatography/)
+- [Protein Assays and Error Analysis](https://ocw.mit.edu/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/pages/labs/biochemistry/)
+- [Study Materials](https://ocw.mit.edu/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

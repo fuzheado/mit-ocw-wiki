@@ -12,6 +12,9 @@ views: 122
 completeness: 0.07833333333333334
 last_modified: "2026-05-06T17:06:44Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 7, Problem-Set: 1, Reading-List: 6, Resource: 3, Syllabus: 1, Video-Transcript: 4"
+api_id: 4540
 ---
 
 # American Science: Ethical Conflicts and Political Choices
@@ -30,10 +33,31 @@ We will explore the changing political choices and ethical dilemmas of American 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Other Video] Other Video
-- [Written Assignments] Written Assignments
+### Lectures
+- **Readings** — [🔗](https://ocw.mit.edu/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [Engineering Ethics: The Challenger Accident (.pdf)](https://ocw.mit.edu/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/resources/lec8_hoffman/)
+- [Cold War Science and Technology:Military-Industrial-University Complex (.pdf)](https://ocw.mit.edu/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/resources/lec5/)
+- ["Atomic Secrets," Physicists, and the Cold War (.pdf)](https://ocw.mit.edu/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/resources/lec4_kaiser/)
+- [Cape Wind: Energy for Life (.pdf)](https://ocw.mit.edu/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/resources/lec20_capewind/)
+- [World War II: A Technological and Psychological Turning Point? (.pdf)](https://ocw.mit.edu/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/resources/lec2/)
+- [Media Contacts – Good, Bad, and Some Really Bad (.pdf)](https://ocw.mit.edu/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/resources/lec19_curry/)
+- [Lecture Notes](https://ocw.mit.edu/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/pages/lecture-notes/)
+
+### Reading-List
+- [The Nuremberg Code (.pdf)](https://ocw.mit.edu/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/resources/21_nurembrg_code/)
+- [Statement on the Cape Wind Project (.pdf)](https://ocw.mit.edu/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/resources/20_kennedy/)
+- [Natural Gas in the New England Region: Implications for Offshore Wind Generation and Fuel Diversity (.pdf)](https://ocw.mit.edu/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/resources/20_doe_wind/)
+- [Beyond Therapy: Biotechnology and the Pursuit of Happiness (.pdf)](https://ocw.mit.edu/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/resources/16_beyond_thrapy/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/pages/assignments/)
+
+### Resource
+- [Sequence of four maps showing diminishing area of arctic ice coverage (.jpg)](https://ocw.mit.edu/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/resources/sts-011f07/)
+- [sts-011f07-th.jpg (.jpg)](https://ocw.mit.edu/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/resources/sts-011f07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

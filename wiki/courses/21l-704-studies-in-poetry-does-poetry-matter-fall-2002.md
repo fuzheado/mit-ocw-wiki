@@ -12,6 +12,9 @@ views: 74
 completeness: 0.0
 last_modified: "2026-05-06T16:53:53Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Reading-List: 1, Resource: 9, Syllabus: 2"
+api_id: 3424
 ---
 
 # Studies in Poetry: "Does Poetry Matter"
@@ -30,8 +33,21 @@ The landscape we will explore is the troublesome one of the relevance, impact, a
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-does-poetry-matter-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-does-poetry-matter-fall-2002/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-does-poetry-matter-fall-2002/pages/readings/)
+
+### Resource
+- [Some Guidelines for Writing Papers (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-does-poetry-matter-fall-2002/resources/poetryessays/)
+- [Paraphrase — The Deadly Sin (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-does-poetry-matter-fall-2002/resources/paraphpoems/)
+- [After the First Draft (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-does-poetry-matter-fall-2002/resources/afterthedraftpoems/)
+- [Developing a Thesis (.pdf)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-does-poetry-matter-fall-2002/resources/21l_704thesis/)
+- [Hildebidle (.jpg)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-does-poetry-matter-fall-2002/resources/21l-704f02/)
+- [Hildebidle (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-does-poetry-matter-fall-2002/resources/21l-704f02-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-does-poetry-matter-fall-2002/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

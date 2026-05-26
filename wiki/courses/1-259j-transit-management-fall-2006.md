@@ -12,6 +12,9 @@ views: 158
 completeness: 0.23500000000000001
 last_modified: "2026-05-06T14:55:35Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 21, Problem-Set: 3, Reading-List: 18, Resource: 5, Syllabus: 2"
+api_id: 3887
 ---
 
 # Transit Management
@@ -30,9 +33,62 @@ This course discusses management methods of relevance to public transportation s
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [lect24ja.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect24ja/)
+- [lect22.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect22/)
+- [lect21.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect21/)
+- [lect1920.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect1920/)
+- [lect18.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect18/)
+- [lect17.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect17/)
+- [lect16fs.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect16fs/)
+- [lect13.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect13/)
+- [lect12rd.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect12rd/)
+- [lect11b.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect11b/)
+- [lect11a.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect11a/)
+- [lect10fs.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect10fs/)
+- [lect09.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect09/)
+- [lect08.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect08/)
+- [lect07ja.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect07ja/)
+- [lect0506ja.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect0506ja/)
+- [lect04fs.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect04fs/)
+- [lect03.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect03/)
+- [lect02.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect02/)
+- [lect01.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/lect01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/pages/lecture-notes/)
+
+### Reading-List
+- [tsyn45_intro.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/tsyn45_intro/)
+- [tsyn40.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/tsyn40/)
+- [tsyn35.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/tsyn35/)
+- [tsyn33.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/tsyn33/)
+- [tsyn22.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/tsyn22/)
+- [tsyn06.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/tsyn06/)
+- [tcrprept88.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/tcrprept88/)
+- [tcrp_rrd_55.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/tcrp_rrd_55/)
+- [tcrp_rrd_34.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/tcrp_rrd_34/)
+- [tcrp_rrd_13.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/tcrp_rrd_13/)
+- [tcrp_rrd_03.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/tcrp_rrd_03/)
+- [tcrp_rpt_50_a.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/tcrp_rpt_50_a/)
+- [tcrp_rpt_37_a.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/tcrp_rpt_37_a/)
+- [tcrp_rpt_113.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/tcrp_rpt_113/)
+- [tcrp_rpt_10_b.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/tcrp_rpt_10_b/)
+- [tcrp_rpt_08_a.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/tcrp_rpt_08_a/)
+- [tcrp_ird_13.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/tcrp_ird_13/)
+- [Readings](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/pages/readings/)
+
+### Problem-Set
+- [assn2.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/assn2/)
+- [assn1.pdf (.pdf)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/assn1/)
+- [Assignments](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/pages/assignments/)
+
+### Resource
+- [1-259jf06.jpg (.jpg)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/1-259jf06/)
+- [1-259jf06-th.jpg (.jpg)](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/resources/1-259jf06-th/)
+- [Related Resources](https://ocw.mit.edu/courses/1-259j-transit-management-fall-2006/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

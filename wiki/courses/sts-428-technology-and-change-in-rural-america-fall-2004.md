@@ -12,6 +12,9 @@ views: 111
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:23:26Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4264
 ---
 
 # Technology and Change in Rural America
@@ -30,8 +33,19 @@ This course considers the historical dimensions of rural production from subsist
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/sts-428-technology-and-change-in-rural-america-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-428-technology-and-change-in-rural-america-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/sts-428-technology-and-change-in-rural-america-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/sts-428-technology-and-change-in-rural-america-fall-2004/pages/assignments/)
+
+### Resource
+- [Tractor and Plow (.jpg)](https://ocw.mit.edu/courses/sts-428-technology-and-change-in-rural-america-fall-2004/resources/sts-428f04/)
+- [Tractor and Plow (thumbnail) (.jpg)](https://ocw.mit.edu/courses/sts-428-technology-and-change-in-rural-america-fall-2004/resources/sts-428f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

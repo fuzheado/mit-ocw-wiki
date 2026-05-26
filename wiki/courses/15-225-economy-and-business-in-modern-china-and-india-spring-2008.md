@@ -12,6 +12,9 @@ views: 104
 completeness: 0.05666666666666667
 last_modified: "2026-05-06T17:20:30Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Problem-Set: 2, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 3579
 ---
 
 # Economy and Business in Modern China and India
@@ -31,9 +34,23 @@ The purpose of this course is to analyze these two countries within a coherent a
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-225-economy-and-business-in-modern-china-and-india-spring-2008/pages/syllabus/)
 
+### Lecture-Notes
+- [Introduction to the Course (.pdf)](https://ocw.mit.edu/courses/15-225-economy-and-business-in-modern-china-and-india-spring-2008/resources/lecture1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-225-economy-and-business-in-modern-china-and-india-spring-2008/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-225-economy-and-business-in-modern-china-and-india-spring-2008/pages/readings/)
+
+### Problem-Set
+- [Final Paper Projects (.pdf)](https://ocw.mit.edu/courses/15-225-economy-and-business-in-modern-china-and-india-spring-2008/resources/final_assn/)
+- [Assignments](https://ocw.mit.edu/courses/15-225-economy-and-business-in-modern-china-and-india-spring-2008/pages/assignments/)
+
+### Resource
+- [Pedestrians, bicyclists, and buses during rush hour traffic (.jpg)](https://ocw.mit.edu/courses/15-225-economy-and-business-in-modern-china-and-india-spring-2008/resources/15-225s08/)
+- [15-225s08-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-225-economy-and-business-in-modern-china-and-india-spring-2008/resources/15-225s08-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

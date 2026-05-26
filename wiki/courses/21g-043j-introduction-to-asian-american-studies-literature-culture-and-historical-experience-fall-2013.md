@@ -12,6 +12,9 @@ views: 269
 completeness: 0.1
 last_modified: "2026-05-06T16:56:58Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 5, Syllabus: 1, Video-Transcript: 1"
+api_id: 5223
 ---
 
 # Introduction to Asian American Studies: Literature, Culture, and Historical Experience
@@ -30,9 +33,22 @@ This course provides an overview of Asian American history and its relevance for
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Chinatown Scavenger Hunt** — [🔗](https://ocw.mit.edu/courses/21g-043j-introduction-to-asian-american-studies-literature-culture-and-historical-experience-fall-2013/pages/assignments/chinatown/) · [🔗](https://ocw.mit.edu/courses/21g-043j-introduction-to-asian-american-studies-literature-culture-and-historical-experience-fall-2013/pages/assignments)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-043j-introduction-to-asian-american-studies-literature-culture-and-historical-experience-fall-2013/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-043j-introduction-to-asian-american-studies-literature-culture-and-historical-experience-fall-2013/pages/readings/)
+
+### Problem-Set
+- [Paper Assignment 3](https://ocw.mit.edu/courses/21g-043j-introduction-to-asian-american-studies-literature-culture-and-historical-experience-fall-2013/pages/assignments/essay-assignment-3/)
+- [Paper Assignment 2](https://ocw.mit.edu/courses/21g-043j-introduction-to-asian-american-studies-literature-culture-and-historical-experience-fall-2013/pages/assignments/essay-assignment-2/)
+- [Paper Assignment 1](https://ocw.mit.edu/courses/21g-043j-introduction-to-asian-american-studies-literature-culture-and-historical-experience-fall-2013/pages/assignments/essay-assignment-1/)
+- [Assignments](https://ocw.mit.edu/courses/21g-043j-introduction-to-asian-american-studies-literature-culture-and-historical-experience-fall-2013/pages/assignments/)
+
+### Resource
+- [Chinese New Year celebration in Boston (.jpg)](https://ocw.mit.edu/courses/21g-043j-introduction-to-asian-american-studies-literature-culture-and-historical-experience-fall-2013/resources/21g-043jf13/)
+- [Chinese New Year celebration in Boston (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-043j-introduction-to-asian-american-studies-literature-culture-and-historical-experience-fall-2013/resources/21g-043jf13-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

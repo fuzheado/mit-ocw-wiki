@@ -12,6 +12,9 @@ views: 678
 completeness: 0.18000000000000002
 last_modified: "2026-05-06T14:44:19Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 9, Reading-List: 2, Resource: 9, Syllabus: 1"
+api_id: 5484
 ---
 
 # Wanderings in Psychogeography: Exploring Landscapes of History, Biography, Memory, Culture, Nature, Poetry, Surreality, Fantasy, and Madness
@@ -30,10 +33,32 @@ In this seminar we explore the history, present, and future of psychogeography, 
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Projects with Examples] Projects with Examples
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Bibliography** — [🔗](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/pages/schedule-of-readings/bibliography/)
+- **Schedule of Readings** — [🔗](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/pages/schedule-of-readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/pages/syllabus/)
 
+### Problem-Set
+- [Week 8 Reflection (.pdf)](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/resources/mit11_s942f20_shao8/)
+- [Week 7 Reflection (.pdf)](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/resources/mit11_s942f20_shao7/)
+- [Week 6 Reflection (.pdf)](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/resources/mit11_s942f20_shao6/)
+- [Week 5 Reflection (.pdf)](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/resources/mit11_s942f20_shao5/)
+- [Week 4 Reflection (.pdf)](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/resources/mit11_s942f20_shao4/)
+- [Week 3 Reflection (.pdf)](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/resources/mit11_s942f20_shao3/)
+- [Week 2 Reflection (.pdf)](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/resources/mit11_s942f20_shao2/)
+- [Week 1 Reflection (.pdf)](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/resources/mit11_s942f20_shao1/)
+- [Assignments](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/pages/assignments/)
+
+### Assignment
+- [MIT11_s942f20_shao_slides.pptx (.pptx)](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/resources/mit11_s942f20_shao_slides_pptx/)
+
+### Resource
+- [On the Sounds of Cities DELETE (.pptx)](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/resources/mit11_s942f20_shao_slides/)
+- [Kendall_Sq.jpg (.jpg)](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/resources/kendall_sq/)
+- [6.png (.png)](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/resources/6/)
+- [Course Home Page Image (.jpg)](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/resources/11-s942f20/)
+- [Course image thumbnail (.jpg)](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/resources/11-s942f20-th/)
+- [Instructor Insights](https://ocw.mit.edu/courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

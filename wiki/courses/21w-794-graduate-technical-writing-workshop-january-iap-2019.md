@@ -12,6 +12,8 @@ views: 613
 completeness: 0.07
 last_modified: "2026-05-06T14:54:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Reading-List: 1, Syllabus: 1, Video-Transcript: 1"
 ---
 
 # Graduate Technical Writing Workshop
@@ -31,9 +33,17 @@ This course is limited to MIT graduate engineering students based on results of 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Syllabus
+- [Syllabus and Calendar](https://ocw.mit.edu/courses/21w-794-graduate-technical-writing-workshop-january-iap-2019/pages/syllabus-and-calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/21w-794-graduate-technical-writing-workshop-january-iap-2019/pages/lecture-notes/)
+
+### Reading-List
+- [Readings 🎬YouTube](https://ocw.mit.edu/courses/21w-794-graduate-technical-writing-workshop-january-iap-2019/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21w-794-graduate-technical-writing-workshop-january-iap-2019/pages/assignments/)
 ## Wikipedia Bridge
 
 ### Related Articles

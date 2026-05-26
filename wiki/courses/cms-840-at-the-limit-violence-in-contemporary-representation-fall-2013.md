@@ -12,6 +12,9 @@ views: 156
 completeness: 0.08833333333333335
 last_modified: "2026-05-06T14:59:29Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 4, Reading-List: 17, Resource: 5, Syllabus: 2"
+api_id: 4383
 ---
 
 # At the Limit: Violence in Contemporary Representation
@@ -31,9 +34,42 @@ We will explore the politics and aesthetics of the extreme; affective questions 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar and Readings** — [🔗](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/pages/calendar-and-readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/pages/lecture-notes/)
+
+### Reading-List
+- [Violence - Terms, Concepts, and Etymology (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_violence/)
+- [Session 9 - Sex, Desire, & Fragmentation (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_session_9/)
+- [Session 8 - Girls, Women, & Psychic Assault (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_session_8/)
+- [Session 7 - The Underclass and the Marginalized (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_session_7/)
+- [Session 6 - White Masculinity at the End of the Century (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_session_6/)
+- [Session 5 - Serial Killers III - Portraits & Signs (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_session_5/)
+- [Session 4 - Serial Killers II - Boredom & Blankness (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_session_4/)
+- [Session 3 - Serial Killers I - Repetition & Commodities (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_session_3/)
+- [Session 2 - America the Violent (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_session_2/)
+- [Session 13 - Is it the Case that We Are What We Watch (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_session_13/)
+- [Session 12 - Regarding the Pain of Others (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_session_12/)
+- [Session 11 - Postmodern Graphic - Gore, Humor, Cartoons (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_session_11/)
+- [Session 10 - Television, Reality, Culpability (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_session_10/)
+- [Session 1 - A Brief History of Violence (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_session_1/)
+- [How to Watch a Film (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_hwtowtchaflm/)
+- [Guide to Scholarly Writing (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_gdetosclywtg/)
+
+### Problem-Set
+- [Paper Two Topics (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_prtwotopics/)
+- [Paper One Topics (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_pronetopics/)
+- [Final Paper Topics (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_finalprtopis/)
+- [Assignments](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/pages/assignments/)
+
+### Resource
+- [Further Viewing (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_furthervwng/)
+- [Further Reading (.pdf)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/mitcms_840f13_furtherrdng/)
+- [cms-840f13.jpg (.jpg)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/cms-840f13/)
+- [cms-840f13-th.jpg (.jpg)](https://ocw.mit.edu/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/resources/cms-840f13-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

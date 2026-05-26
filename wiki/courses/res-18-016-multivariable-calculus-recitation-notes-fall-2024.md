@@ -12,6 +12,9 @@ views: 673
 completeness: 0.0
 last_modified: "2026-05-06T17:07:34Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 3"
+api_id: 16689
 ---
 
 # Multivariable Calculus Recitation Notes
@@ -32,12 +35,10 @@ These notes were created by Evan Chen, a recitation instructor in the Fall 2024 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Open Textbooks] Open Textbooks
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
-- [Problem-solving Notes] Problem-solving Notes
-
+### Resource
+- [mitres_18_016_f24_v2.jpg (.jpg)](https://ocw.mit.edu/courses/res-18-016-multivariable-calculus-recitation-notes-fall-2024/resources/mitres_18_016_f24_v2_jpg/)
+- [mitres_18_016_f24.jpg (.jpg)](https://ocw.mit.edu/courses/res-18-016-multivariable-calculus-recitation-notes-fall-2024/resources/mitres_18_016_f24_jpg/)
+- [18.02 Recitation Notes](https://web.evanchen.cc/textbooks/lamv.pdf)
 ## Wikipedia Bridge
 
 ### Related Articles

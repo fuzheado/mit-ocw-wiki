@@ -12,6 +12,9 @@ views: 991
 completeness: 0.0
 last_modified: "2026-05-06T14:46:00Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Reading-List: 1, Resource: 16, Syllabus: 2"
+api_id: 4651
 ---
 
 # The Brain and Cognitive Sciences II
@@ -31,8 +34,28 @@ Topics include: perception, attention, working memory, recognition and recall, l
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/pages/readings/)
+
+### Resource
+- [Working Memory & Attention (.pdf)](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/resources/workingmemoryandattention/)
+- [Midlevel Vision (.pdf)](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/resources/midlevelvision/)
+- [Language Acquisition (.pdf)](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/resources/languageacquisition/)
+- [Foundations of Cognitive Science  (.pdf)](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/resources/foundationsofcognitivescience/)
+- [Computational Cognitive Scienc (.pdf)](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/resources/computationalcognitivescience/)
+- [Cognitive Neuroscience of Object Recognition (.pdf)](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/resources/cognitiveneuroscienceofobjectrecognition/)
+- [Cognitive Neuroscience of Memory (.pdf)](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/resources/cognitiveneuroscienceandmemory/)
+- [Face recognition (.gif)](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/resources/chp_9_012/)
+- [Categorization (.pdf)](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/resources/catagorization/)
+- [Attention (.pdf)](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/resources/attention/)
+- [Brain and Cognitive Sciences (.jpg)](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/resources/9-012s02/)
+- [Brain and Cognitive Sciences (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/resources/9-012s02-th/)
+- [Study Materials](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

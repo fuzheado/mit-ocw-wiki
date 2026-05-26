@@ -12,6 +12,9 @@ views: 220
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:09:01Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 3, Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4813
 ---
 
 # The Nature of Constructionist Learning
@@ -30,8 +33,24 @@ This course examines the philosophical and theoretical foundations of constructi
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/mas-962-the-nature-of-constructionist-learning-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-962-the-nature-of-constructionist-learning-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/mas-962-the-nature-of-constructionist-learning-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/mas-962-the-nature-of-constructionist-learning-spring-2003/pages/assignments/)
+
+### Assignment
+- [Home Design Web Sites: An Educative Perspective (.pdf)](https://ocw.mit.edu/courses/mas-962-the-nature-of-constructionist-learning-spring-2003/resources/short/)
+- [The Homeowner as Constructor (.pdf)](https://ocw.mit.edu/courses/mas-962-the-nature-of-constructionist-learning-spring-2003/resources/final/)
+- [Projects](https://ocw.mit.edu/courses/mas-962-the-nature-of-constructionist-learning-spring-2003/pages/projects/)
+
+### Resource
+- [Workshop Participants (.jpg)](https://ocw.mit.edu/courses/mas-962-the-nature-of-constructionist-learning-spring-2003/resources/mas-962s03/)
+- [Workshop Participants (thumbnail) (.jpg)](https://ocw.mit.edu/courses/mas-962-the-nature-of-constructionist-learning-spring-2003/resources/mas-962s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 359
 completeness: 0.22000000000000003
 last_modified: "2026-05-06T17:17:26Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 3, Syllabus: 2"
+api_id: 5349
 ---
 
 # Riots, Rebellions, Revolutions
@@ -30,9 +33,21 @@ This course examines different types of violent political conflict. It compares 
 
 ## Materials
 
-- [Exams] Exams
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-581-riots-rebellions-revolutions-spring-2013/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-581-riots-rebellions-revolutions-spring-2013/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-581-riots-rebellions-revolutions-spring-2013/pages/readings/)
+
+### Problem-Set
+- [17.581S13 Riots, Rebellions, Revolutions: Quiz (.pdf)](https://ocw.mit.edu/courses/17-581-riots-rebellions-revolutions-spring-2013/resources/mit17_581s13_quiz/)
+- [17.581S13 Riots, Rebellions, Revolutions: Final Exam (.pdf)](https://ocw.mit.edu/courses/17-581-riots-rebellions-revolutions-spring-2013/resources/mit17_581s13_finalexam/)
+- [Exams](https://ocw.mit.edu/courses/17-581-riots-rebellions-revolutions-spring-2013/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/17-581-riots-rebellions-revolutions-spring-2013/pages/assignments/)
+
+### Resource
+- [A bearded young man gestures wildly in the middle of a massive crowd (.jpg)](https://ocw.mit.edu/courses/17-581-riots-rebellions-revolutions-spring-2013/resources/17-581s13/)
 ## Wikipedia Bridge
 
 ### Related Articles

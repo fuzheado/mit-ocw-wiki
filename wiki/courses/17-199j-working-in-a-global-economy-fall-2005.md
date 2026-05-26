@@ -12,6 +12,9 @@ views: 92
 completeness: 0.1
 last_modified: "2026-05-06T15:03:00Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5156
 ---
 
 # Working in a Global Economy
@@ -30,8 +33,22 @@ The course introduces the main debates about the “new” global economy and th
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-199j-working-in-a-global-economy-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-199j-working-in-a-global-economy-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-199j-working-in-a-global-economy-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Globalization — Country Disclaimer: Handle with Care! (.pdf)](https://ocw.mit.edu/courses/17-199j-working-in-a-global-economy-fall-2005/resources/globalizationpaper/)
+- [Globalization (.pdf)](https://ocw.mit.edu/courses/17-199j-working-in-a-global-economy-fall-2005/resources/globalization2/)
+- [Economy and Globalization in Zambia (.pdf)](https://ocw.mit.edu/courses/17-199j-working-in-a-global-economy-fall-2005/resources/economyandglobalizationinzambiapresentation/)
+- [Assignments](https://ocw.mit.edu/courses/17-199j-working-in-a-global-economy-fall-2005/pages/assignments/)
+
+### Resource
+- [GDP by Major Countries and the EU (.jpg)](https://ocw.mit.edu/courses/17-199j-working-in-a-global-economy-fall-2005/resources/17-199jf05/)
+- [GDP by Major Countries and the EU (thumbnail) (.jpg)](https://ocw.mit.edu/courses/17-199j-working-in-a-global-economy-fall-2005/resources/17-199jf05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

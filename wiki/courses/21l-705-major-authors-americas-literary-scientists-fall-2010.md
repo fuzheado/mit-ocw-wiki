@@ -12,6 +12,9 @@ views: 118
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:56:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1, Video-Transcript: 1"
+api_id: 4470
 ---
 
 # Major Authors: America's Literary Scientists
@@ -30,9 +33,18 @@ Global exploration in the eighteenth and nineteenth centuries radically changed 
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-705-major-authors-americas-literary-scientists-fall-2010/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-705-major-authors-americas-literary-scientists-fall-2010/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-705-major-authors-americas-literary-scientists-fall-2010/pages/assignments/)
+
+### Resource
+- [The Artist in His Museum (.jpg)](https://ocw.mit.edu/courses/21l-705-major-authors-americas-literary-scientists-fall-2010/resources/21l-705f10/)
+- [Related Resources](https://ocw.mit.edu/courses/21l-705-major-authors-americas-literary-scientists-fall-2010/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

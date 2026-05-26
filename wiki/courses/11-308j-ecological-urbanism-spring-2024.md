@@ -12,6 +12,9 @@ views: 478
 completeness: 0.0
 last_modified: "2026-05-06T17:03:10Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 1"
+api_id: 14015
 ---
 
 # Ecological Urbanism
@@ -30,8 +33,8 @@ Ecological urbanism weds the theory and practice of city design and planning, as
 
 ## Materials
 
-- [Media Assignments with Examples] Media Assignments with Examples
-
+### Resource
+- [mit11_308j_s24.jpg (.jpg)](https://ocw.mit.edu/courses/11-308j-ecological-urbanism-spring-2024/resources/mit11_308j_s24_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

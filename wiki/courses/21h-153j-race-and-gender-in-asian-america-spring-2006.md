@@ -12,6 +12,9 @@ views: 74
 completeness: 0.0
 last_modified: "2026-05-06T16:47:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Reading-List: 1, Resource: 5, Syllabus: 1"
+api_id: 4575
 ---
 
 # Race and Gender in Asian America
@@ -30,8 +33,20 @@ In this seminar we will examine various issues related to the intersection of ra
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-153j-race-and-gender-in-asian-america-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-153j-race-and-gender-in-asian-america-spring-2006/pages/readings/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/21h-153j-race-and-gender-in-asian-america-spring-2006/pages/projects/)
+
+### Resource
+- [Young Asian Americans (.jpg)](https://ocw.mit.edu/courses/21h-153j-race-and-gender-in-asian-america-spring-2006/resources/21h-153js06/)
+- [Young Asian Americans (thumbnails) (.jpg)](https://ocw.mit.edu/courses/21h-153j-race-and-gender-in-asian-america-spring-2006/resources/21h-153js06-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21h-153j-race-and-gender-in-asian-america-spring-2006/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/21h-153j-race-and-gender-in-asian-america-spring-2006/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

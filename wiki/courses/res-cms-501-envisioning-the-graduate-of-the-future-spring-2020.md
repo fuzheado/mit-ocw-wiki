@@ -12,6 +12,9 @@ views: 132
 completeness: 0.0
 last_modified: "2026-05-06T14:56:06Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 4, Video-Transcript: 2"
+api_id: 4280
 ---
 
 # Envisioning the Graduate of the Future
@@ -32,8 +35,12 @@ This course is part of the Open Learning Library, which is free to use. You have
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
+### Lectures
+- **Instructor Insights** — [📄](https://ocw.mit.edu/courses/res-cms-501-envisioning-the-graduate-of-the-future-spring-2020/bb9f383fc91fdfd24c602447f482bc26_nEXylN7sRmI.pdf) · [🔗](https://ocw.mit.edu/courses/res-cms-501-envisioning-the-graduate-of-the-future-spring-2020/pages/instructor-insights/)
 
+### Resource
+- [res-cms-501s20.jpg (.jpg)](https://ocw.mit.edu/courses/res-cms-501-envisioning-the-graduate-of-the-future-spring-2020/resources/res-cms-501s20/)
+- [res-cms-501s20-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-cms-501-envisioning-the-graduate-of-the-future-spring-2020/resources/res-cms-501s20-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

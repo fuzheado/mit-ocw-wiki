@@ -12,6 +12,9 @@ views: 127
 completeness: 0.28
 last_modified: "2026-05-06T17:00:49Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 7, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4075
 ---
 
 # Statistical Thermodynamics of Complex Liquids
@@ -30,9 +33,25 @@ This course explores the theory of self-assembly in surfactant-water (micellar) 
 
 ## Materials
 
-- [Exams] Exams
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/pages/readings/)
+
+### Problem-Set
+- [Quiz 2 (.pdf)](https://ocw.mit.edu/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/resources/52_quiz_2_chen_4/)
+- [Quiz 1 (.pdf)](https://ocw.mit.edu/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/resources/52_quiz1_chen_4/)
+- [Problem Set 3 (.pdf)](https://ocw.mit.edu/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/resources/52_hwiii_chen_04/)
+- [Problem Set 2 (.pdf)](https://ocw.mit.edu/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/resources/52_hwiichen04/)
+- [Problem Set 1 (.pdf)](https://ocw.mit.edu/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/resources/52_hwi_chen_04/)
+- [Exams](https://ocw.mit.edu/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/pages/assignments/)
+
+### Resource
+- [Laser Scanning Data (.jpg)](https://ocw.mit.edu/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/resources/22-52js04/)
+- [Laser Scanning Data (thumbnail) (.jpg)](https://ocw.mit.edu/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/resources/22-52js04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

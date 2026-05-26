@@ -12,6 +12,9 @@ views: 213
 completeness: 0.06
 last_modified: "2026-05-06T14:58:35Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5096
 ---
 
 # Studies in Fiction: Stowe, Twain, and the Transformation of 19th-Century America
@@ -30,8 +33,22 @@ This seminar looks at two bestselling nineteenth-century American authors whose 
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-702-studies-in-fiction-stowe-twain-and-the-transformation-of-19th-century-america-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-702-studies-in-fiction-stowe-twain-and-the-transformation-of-19th-century-america-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-702-studies-in-fiction-stowe-twain-and-the-transformation-of-19th-century-america-fall-2004/pages/readings/)
+
+### Problem-Set
+- [William Wells Brown and the Jefferson and Hemings Scandal (.pdf)](https://ocw.mit.edu/courses/21l-702-studies-in-fiction-stowe-twain-and-the-transformation-of-19th-century-america-fall-2004/resources/william_w_brown/)
+- [Law and Slave Identity in Dred and Pudd’nhead Wilson (.pdf)](https://ocw.mit.edu/courses/21l-702-studies-in-fiction-stowe-twain-and-the-transformation-of-19th-century-america-fall-2004/resources/revi_pudd_dred/)
+- [Assignments](https://ocw.mit.edu/courses/21l-702-studies-in-fiction-stowe-twain-and-the-transformation-of-19th-century-america-fall-2004/pages/assignments/)
+
+### Resource
+- [Harriet Beecher Stowe and Mark Twain (.gif)](https://ocw.mit.edu/courses/21l-702-studies-in-fiction-stowe-twain-and-the-transformation-of-19th-century-america-fall-2004/resources/chp_stud_fiction/)
+- [Mark Twain (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-702-studies-in-fiction-stowe-twain-and-the-transformation-of-19th-century-america-fall-2004/resources/21l-702f04-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21l-702-studies-in-fiction-stowe-twain-and-the-transformation-of-19th-century-america-fall-2004/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 420
 completeness: 0.2
 last_modified: "2026-05-06T14:55:41Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 12, Reading-List: 1, Resource: 6, Syllabus: 1"
+api_id: 3679
 ---
 
 # Writing and Reading Poems
@@ -30,8 +33,28 @@ This course is an examination of the formal structural and textual variety in po
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/21w-756-writing-and-reading-poems-fall-2006/pages/assignments/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21w-756-writing-and-reading-poems-fall-2006/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21w-756-writing-and-reading-poems-fall-2006/pages/syllabus/)
 
+### Problem-Set
+- [whalen_response.pdf (.pdf)](https://ocw.mit.edu/courses/21w-756-writing-and-reading-poems-fall-2006/resources/whalen_response/)
+- [whalen_imitate2.pdf (.pdf)](https://ocw.mit.edu/courses/21w-756-writing-and-reading-poems-fall-2006/resources/whalen_imitate2/)
+- [whalen_imitate.pdf (.pdf)](https://ocw.mit.edu/courses/21w-756-writing-and-reading-poems-fall-2006/resources/whalen_imitate/)
+- [ohara_response.pdf (.pdf)](https://ocw.mit.edu/courses/21w-756-writing-and-reading-poems-fall-2006/resources/ohara_response/)
+- [ohara_imitate2.pdf (.pdf)](https://ocw.mit.edu/courses/21w-756-writing-and-reading-poems-fall-2006/resources/ohara_imitate2/)
+- [ohara_imitate.pdf (.pdf)](https://ocw.mit.edu/courses/21w-756-writing-and-reading-poems-fall-2006/resources/ohara_imitate/)
+- [guest_imitate.pdf (.pdf)](https://ocw.mit.edu/courses/21w-756-writing-and-reading-poems-fall-2006/resources/guest_imitate/)
+- [creeley_imitate.pdf (.pdf)](https://ocw.mit.edu/courses/21w-756-writing-and-reading-poems-fall-2006/resources/creeley_imitate/)
+- [c_imitate.pdf (.pdf)](https://ocw.mit.edu/courses/21w-756-writing-and-reading-poems-fall-2006/resources/c_imitate/)
+- [b_imitate.pdf (.pdf)](https://ocw.mit.edu/courses/21w-756-writing-and-reading-poems-fall-2006/resources/b_imitate/)
+- [a_imitate.pdf (.pdf)](https://ocw.mit.edu/courses/21w-756-writing-and-reading-poems-fall-2006/resources/a_imitate/)
+
+### Resource
+- [21w-756f06.jpg (.jpg)](https://ocw.mit.edu/courses/21w-756-writing-and-reading-poems-fall-2006/resources/21w-756f06/)
+- [21w-756f06-th.jpg (.jpg)](https://ocw.mit.edu/courses/21w-756-writing-and-reading-poems-fall-2006/resources/21w-756f06-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21w-756-writing-and-reading-poems-fall-2006/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

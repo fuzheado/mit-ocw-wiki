@@ -12,6 +12,9 @@ views: 1086
 completeness: 0.0
 last_modified: "2026-05-06T16:48:10Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 3332
 ---
 
 # Design Thinking for Leading and Learning
@@ -33,8 +36,9 @@ This course is part of the Open Learning Library, which is free to use. You have
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [res-cms-155s19.jpg (.jpg)](https://ocw.mit.edu/courses/res-cms-155-design-thinking-for-leading-and-learning-spring-2019/resources/res-cms-155s19/)
+- [res-cms-155s19-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-cms-155-design-thinking-for-leading-and-learning-spring-2019/resources/res-cms-155s19-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

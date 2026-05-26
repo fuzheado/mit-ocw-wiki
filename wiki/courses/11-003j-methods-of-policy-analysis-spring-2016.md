@@ -12,6 +12,9 @@ views: 2803
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T17:15:59Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 7, Reading-List: 5, Resource: 4, Syllabus: 2"
+api_id: 4926
 ---
 
 # Methods of Policy Analysis
@@ -30,8 +33,29 @@ This course provides an introduction to public policy analysis. It is designed f
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-003j-methods-of-policy-analysis-spring-2016/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-003j-methods-of-policy-analysis-spring-2016/pages/syllabus/)
 
+### Reading-List
+- [11.003S16 What is Policy Analysis? Slides (.pdf)](https://ocw.mit.edu/courses/11-003j-methods-of-policy-analysis-spring-2016/resources/mit11_003js16_policy/)
+- [11.003S16 Immunization Policy Slides (.pdf)](https://ocw.mit.edu/courses/11-003j-methods-of-policy-analysis-spring-2016/resources/mit11_003js16_immunization/)
+- [11.003S16 Timeline of Air Quality Policy (.pdf)](https://ocw.mit.edu/courses/11-003j-methods-of-policy-analysis-spring-2016/resources/mit11_003js16_air_quality/)
+- [Supplemental Readings](https://ocw.mit.edu/courses/11-003j-methods-of-policy-analysis-spring-2016/pages/readings/supplemental-readings/)
+- [Readings](https://ocw.mit.edu/courses/11-003j-methods-of-policy-analysis-spring-2016/pages/readings/)
+
+### Problem-Set
+- [11.003JS16 Effective memo writing examples (.pdf)](https://ocw.mit.edu/courses/11-003j-methods-of-policy-analysis-spring-2016/resources/mit11_003js16_memo_writing/)
+- [Final Assignment](https://ocw.mit.edu/courses/11-003j-methods-of-policy-analysis-spring-2016/pages/assignments/final-assignment/)
+- [Assignments](https://ocw.mit.edu/courses/11-003j-methods-of-policy-analysis-spring-2016/pages/assignments/)
+- [Assignment 4 – Open-ended](https://ocw.mit.edu/courses/11-003j-methods-of-policy-analysis-spring-2016/pages/assignments/assignment-4-2013-open-ended/)
+- [Assignment 3 – Observe a Public Meeting](https://ocw.mit.edu/courses/11-003j-methods-of-policy-analysis-spring-2016/pages/assignments/assignment-3-2013-observe-a-public-meeting/)
+- [Assignment 2 – EPA Open Docket on Pesticides](https://ocw.mit.edu/courses/11-003j-methods-of-policy-analysis-spring-2016/pages/assignments/assignment-2-2013-epa-open-docket-on-pesticides/)
+- [Assignment 1 – Hometown Analysis](https://ocw.mit.edu/courses/11-003j-methods-of-policy-analysis-spring-2016/pages/assignments/assignment-1-2013-hometown-analysis/)
+
+### Resource
+- [11-003js16.jpg (.jpg)](https://ocw.mit.edu/courses/11-003j-methods-of-policy-analysis-spring-2016/resources/11-003js16/)
+- [11-003js16-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-003j-methods-of-policy-analysis-spring-2016/resources/11-003js16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

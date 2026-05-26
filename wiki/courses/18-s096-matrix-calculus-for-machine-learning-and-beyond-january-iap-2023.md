@@ -12,6 +12,8 @@ views: 5500
 completeness: 0.5133333333333334
 last_modified: "2026-05-06T16:59:51Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 1, Syllabus: 1, Video-Transcript: 22"
 ---
 
 # Matrix Calculus for Machine Learning and Beyond
@@ -31,14 +33,17 @@ This class covers a coherent approach to matrix calculus showing techniques that
 
 ## Materials
 
-- [Editable Files] Editable Files
-- [Instructor Insights] Instructor Insights
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
-- [Readings] Readings
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/pages/syllabus/)
 
+### Reading-List
+- [Lecture Notes and Readings 🎬YouTube](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/pages/lecture-notes/)
+
+### Problem-Set
+- [Problem Sets](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/pages/problem-sets/)
+
+### Resource
+- [Instructor Insights 🎬YouTube](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

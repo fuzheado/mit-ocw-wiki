@@ -12,6 +12,9 @@ views: 174
 completeness: 0.11666666666666668
 last_modified: "2026-05-06T14:59:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 28, Lecture-Notes: 10, Reading-List: 1, Resource: 17, Syllabus: 2, Video-Transcript: 4"
+api_id: 4120
 ---
 
 # Media Education and the Marketplace
@@ -36,10 +39,70 @@ This course has a very unique pedagogy, which is discussed in more detail in the
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Other Video] Other Video
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/pages/calendar/)
+- **ESL Training** — [🔗](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/pages/esl-training/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [SOME TIPS FOR EFFECTIVE WRITING: Visualizing Cultures 2 (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_tipsforwriti/)
+- [Tips for Oral Presentations Monday (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_tipsfororalp/)
+- [Grading Rubric for Oral Presentations (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_rubricorlpr/)
+- [Revising the Draft (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_revisingdraf/)
+- [Peer Editing Questionnaire (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_peereditnque/)
+- [Case studies (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_itcspastpro/)
+- [ICTs and Democracy (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_ictanddemocr/)
+- [Bridging the Digital Divide – Is it worth? (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_bridginworth/)
+- [Is there a digital divide? (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_bridginanyth/)
+- [Lecture Notes](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/pages/readings/)
+
+### Assignment
+- [Abstract (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_zambiancs/)
+- [21G (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_wsisrajabobb/)
+- [Marta Luczynska (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_wsismartaluc/)
+- [With the advent of the Information Society, information itself has become a prized commodity on the market (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_wsisjonthnha/)
+- [Bryant Harrison (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_wsisbryantha/)
+- [WSIS Background (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_wsisbackgrou/)
+- [WSIS Assignment Due in class on September 20 (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_wsis_assign/)
+- [Poverty Eradication and the Role of ICTs (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_povertyicts/)
+- [INTRODUCTION (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_outsourcwhat/)
+- [Why is India such a big player in this sector (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_outsourciwhy/)
+- [Outsource Africa (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_outsourcing/)
+- [Project Proposal Outline (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_outsourceafr/)
+- [DH-Fieldwork_Proposal marta_graded (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_openzambiama/)
+- [Project description (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_openkenya/)
+- [INTERNATIONAL  TELECOMMUNICATION  UNION (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_ocwprepcom3f/)
+- [Section 1: Middle East Education through Technology (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_meetcs/)
+- [The Impact of MEET:  A Case Study (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_meet/)
+- [The dot com boom of the mid 1990s ushered in a new wave of technological optimism (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_itglobal/)
+- [IT and the Global Labor Market (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_itandglobalm/)
+- [Program Introduction (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_ireact/)
+- [ICTs and Poverty Eradication - Mohamed Haji (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_ictspovertye/)
+- [Information and Communication Technology Policy in Rwanda (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_ictrwanda/)
+- [The Radio Farm Forum (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_ictandzambia/)
+- [Political chapeau / Tunis Commitment (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_gfc_report/)
+- [Level 1 (Beg) (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_esl_classes/)
+- [CAP - Theresa Eugenio (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_captheresaeu/)
+- [FLiTEAppendix.xls (.xls)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/fliteappendix/)
+- [Projects](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/pages/projects/)
+
+### Resource
+- [Studying Science, Technology and Engineering (See www.transworldeducation.com/engineering.htm) (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_studysciengi/)
+- [SAT Reasoning Test & SAT II: Subject Tests (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_satintro/)
+- [Intro-jamira (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_ireactmat/)
+- [Introduction to TOEFL  (see http://educationusa.state.gov/undergrad/testing/english.htm) (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_intrototoefl/)
+- [Class One- Beginner Intermediate Level (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_int/)
+- [Financing an Education abroad (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_financingedu/)
+- [Learning More About the College Application Essay (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_essayinfo/)
+- [Slide 1 (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_blogs/)
+- [Being an Int’l Student in America (Courtesy of the Embassy of the United States in Yaounde, Cameroon http://yaounde.usembassy.gov/) (.pdf)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_beingintlstu/)
+- [ireact_pic.jpg (.jpg)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/ireact_pic/)
+- [21g-034f05.jpg (.jpg)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/21g-034f05/)
+- [21g-034f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/21g-034f05-th/)
+- [iREACT](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/pages/ireact/)
 ## Wikipedia Bridge
 
 ### Related Articles

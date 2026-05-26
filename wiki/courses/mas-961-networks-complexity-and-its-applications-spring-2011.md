@@ -12,6 +12,9 @@ views: 666
 completeness: 0.16000000000000003
 last_modified: "2026-05-06T17:06:48Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 8, Reading-List: 1, Resource: 5, Syllabus: 1, Video-Transcript: 1"
+api_id: 5519
 ---
 
 # Networks, Complexity and Its Applications
@@ -30,9 +33,26 @@ Networks are a ubiquitous way to represent complex systems, including those in t
 
 ## Materials
 
-- [Problem Sets] Problem Sets
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Related Resources** — [🔗](https://ocw.mit.edu/courses/mas-961-networks-complexity-and-its-applications-spring-2011/pages/related-resources/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-961-networks-complexity-and-its-applications-spring-2011/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/mas-961-networks-complexity-and-its-applications-spring-2011/pages/readings/)
+
+### Problem-Set
+- [MITMAS_961S11_VisualFinal.pdf (.pdf)](https://ocw.mit.edu/courses/mas-961-networks-complexity-and-its-applications-spring-2011/resources/mitmas_961s11_visualfinal/)
+- [MITMAS_961S11_Networkpaper.pdf (.pdf)](https://ocw.mit.edu/courses/mas-961-networks-complexity-and-its-applications-spring-2011/resources/mitmas_961s11_networkpaper/)
+- [MITMAS_961S11_HW3_API309.pdf (.pdf)](https://ocw.mit.edu/courses/mas-961-networks-complexity-and-its-applications-spring-2011/resources/mitmas_961s11_hw3_api309/)
+- [MITMAS_961S11_HW2_API309.pdf (.pdf)](https://ocw.mit.edu/courses/mas-961-networks-complexity-and-its-applications-spring-2011/resources/mitmas_961s11_hw2_api309/)
+- [Homework/Problem Set I (.pdf)](https://ocw.mit.edu/courses/mas-961-networks-complexity-and-its-applications-spring-2011/resources/mitmas_961s11_hw1_api3091/)
+- [MITMAS_961S11_ChicagoFINAL.pdf (.pdf)](https://ocw.mit.edu/courses/mas-961-networks-complexity-and-its-applications-spring-2011/resources/mitmas_961s11_chicagofinal/)
+- [ManhattanData.xlsx (.xlsx)](https://ocw.mit.edu/courses/mas-961-networks-complexity-and-its-applications-spring-2011/resources/manhattandata/)
+- [Assignments](https://ocw.mit.edu/courses/mas-961-networks-complexity-and-its-applications-spring-2011/pages/assignments/)
+
+### Resource
+- [mas-961s11.jpg (.jpg)](https://ocw.mit.edu/courses/mas-961-networks-complexity-and-its-applications-spring-2011/resources/mas-961s11/)
+- [mas-961s11-th.jpg (.jpg)](https://ocw.mit.edu/courses/mas-961-networks-complexity-and-its-applications-spring-2011/resources/mas-961s11-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

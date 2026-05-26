@@ -12,6 +12,8 @@ views: 1304
 completeness: 0.025
 last_modified: "2026-05-06T17:12:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Video-Transcript: 2"
 ---
 
 # Seven Questions About Tariffs That Everyone Should Know the Answer To
@@ -30,9 +32,8 @@ It is hard to predict what US tariffs will look like in a few months, or even in
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-
+### Lectures
+- **Lecture Video and Slides** — [⬇](https://ocw.mit.edu/courses/res-14-004-seven-questions-about-tariffs-that-everyone-should-know-the-answer-to-january-iap-2026/ocw_res14-004-tariffs_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/res-14-004-seven-questions-about-tariffs-that-everyone-should-know-the-answer-to-january-iap-2026/1YV1nVql4ACR6yAiDqRHytWZ0N6LlDiKK_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/res-14-004-seven-questions-about-tariffs-that-everyone-should-know-the-answer-to-january-iap-2026/pages/lecture-video-and-slides/)
 ## Wikipedia Bridge
 
 ### Related Articles

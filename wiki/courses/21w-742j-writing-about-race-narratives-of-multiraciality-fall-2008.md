@@ -12,6 +12,9 @@ views: 89
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T16:49:08Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 3519
 ---
 
 # Writing About Race: Narratives of Multiraciality
@@ -30,8 +33,20 @@ In this course we will read essays, novels, memoirs, and graphic texts, and view
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008/resources/mit21w_742jf08_syllabus/) · [🔗](https://ocw.mit.edu/courses/21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008/pages/readings/)
+
+### Problem-Set
+- [“Uno, Dos, Tres…” I began (.pdf)](https://ocw.mit.edu/courses/21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008/resources/mit21w_742jf08_a_qntfd/)
+- [Assignments](https://ocw.mit.edu/courses/21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008/pages/assignments/)
+
+### Resource
+- [W. E. B. DuBois (.jpg)](https://ocw.mit.edu/courses/21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008/resources/chp_dubois/)
+- [An abstract image depicting people of different races (.jpg)](https://ocw.mit.edu/courses/21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008/resources/21w-742jf08/)
+- [Study Materials](https://ocw.mit.edu/courses/21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

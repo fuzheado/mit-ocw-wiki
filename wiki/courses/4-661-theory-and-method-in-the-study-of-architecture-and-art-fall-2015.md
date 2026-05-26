@@ -12,6 +12,9 @@ views: 461
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T16:55:51Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 6"
+api_id: 3802
 ---
 
 # Theory and Method in the Study of Architecture and Art
@@ -30,8 +33,20 @@ This seminar is open to graduate students, and is intended to offer a synoptic v
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-661-theory-and-method-in-the-study-of-architecture-and-art-fall-2015/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/4-661-theory-and-method-in-the-study-of-architecture-and-art-fall-2015/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-661-theory-and-method-in-the-study-of-architecture-and-art-fall-2015/pages/syllabus/)
 
+### Problem-Set
+- [Final Research Paper (.pdf)](https://ocw.mit.edu/courses/4-661-theory-and-method-in-the-study-of-architecture-and-art-fall-2015/resources/mit4_661f15_final/)
+- [Laura Letinsky Untitled #49 Formal Analysis (.pdf)](https://ocw.mit.edu/courses/4-661-theory-and-method-in-the-study-of-architecture-and-art-fall-2015/resources/mit4_661f15_esbrowne/)
+- [Class Distinctions: Dutch Painting in the Age of Rembrandt and Vermeer (.pdf)](https://ocw.mit.edu/courses/4-661-theory-and-method-in-the-study-of-architecture-and-art-fall-2015/resources/mit4_661f15_distinction/)
+- [Assignments](https://ocw.mit.edu/courses/4-661-theory-and-method-in-the-study-of-architecture-and-art-fall-2015/pages/assignments/)
+
+### Resource
+- [Institute of Contemporary Art (.jpg)](https://ocw.mit.edu/courses/4-661-theory-and-method-in-the-study-of-architecture-and-art-fall-2015/resources/4-661f15/)
+- [Institute of Contemporary Art (thumbnail) (.jpg)](https://ocw.mit.edu/courses/4-661-theory-and-method-in-the-study-of-architecture-and-art-fall-2015/resources/4-661f15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

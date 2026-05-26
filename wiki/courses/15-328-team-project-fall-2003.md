@@ -12,6 +12,9 @@ views: 458
 completeness: 0.0
 last_modified: "2026-05-06T16:49:57Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Resource: 14, Syllabus: 2"
+api_id: 4564
 ---
 
 # Team Project
@@ -31,8 +34,23 @@ This course is closely integrated with other MBA core classes: readings are assi
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-328-team-project-fall-2003/pages/calendar/)
+- **Project** — [🔗](https://ocw.mit.edu/courses/15-328-team-project-fall-2003/pages/project/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-328-team-project-fall-2003/pages/syllabus/)
 
+### Resource
+- [projecthandbook.pdf (.pdf)](https://ocw.mit.edu/courses/15-328-team-project-fall-2003/resources/projecthandbook/)
+- [orientation.pdf (.pdf)](https://ocw.mit.edu/courses/15-328-team-project-fall-2003/resources/orientation/)
+- [letter3.pdf (.pdf)](https://ocw.mit.edu/courses/15-328-team-project-fall-2003/resources/letter3/)
+- [letter2.pdf (.pdf)](https://ocw.mit.edu/courses/15-328-team-project-fall-2003/resources/letter2/)
+- [letter1.pdf (.pdf)](https://ocw.mit.edu/courses/15-328-team-project-fall-2003/resources/letter1/)
+- [identificationform.pdf (.pdf)](https://ocw.mit.edu/courses/15-328-team-project-fall-2003/resources/identificationform/)
+- [feedbackform.pdf (.pdf)](https://ocw.mit.edu/courses/15-328-team-project-fall-2003/resources/feedbackform/)
+- [cohortsandteams.pdf (.pdf)](https://ocw.mit.edu/courses/15-328-team-project-fall-2003/resources/cohortsandteams/)
+- [15-328f03.jpg (.jpg)](https://ocw.mit.edu/courses/15-328-team-project-fall-2003/resources/15-328f03/)
+- [15-328f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-328-team-project-fall-2003/resources/15-328f03-th/)
+- [Course Pedagogy](https://ocw.mit.edu/courses/15-328-team-project-fall-2003/pages/course-pedagogy/)
 ## Wikipedia Bridge
 
 ### Related Articles

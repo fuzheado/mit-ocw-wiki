@@ -12,6 +12,9 @@ views: 29
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:59:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 3, Syllabus: 2, Video-Transcript: 1"
+api_id: 4467
 ---
 
 # Reproductive Politics in the United States
@@ -30,9 +33,16 @@ In this seminar, we will explore the significance of struggles over reproductive
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/wgs-s10-reproductive-politics-in-the-united-states-spring-2013/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/wgs-s10-reproductive-politics-in-the-united-states-spring-2013/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/wgs-s10-reproductive-politics-in-the-united-states-spring-2013/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/wgs-s10-reproductive-politics-in-the-united-states-spring-2013/pages/assignments/)
+
+### Resource
+- [Mural designed by women imprisoned at Riker's Island (.jpg)](https://ocw.mit.edu/courses/wgs-s10-reproductive-politics-in-the-united-states-spring-2013/resources/wgs-s10s13/)
 ## Wikipedia Bridge
 
 ### Related Articles

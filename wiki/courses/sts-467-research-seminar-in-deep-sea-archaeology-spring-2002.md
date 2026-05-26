@@ -12,6 +12,9 @@ views: 126
 completeness: 0.0
 last_modified: "2026-05-06T16:48:46Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4963
 ---
 
 # Research Seminar in Deep Sea Archaeology
@@ -30,8 +33,17 @@ STS.467 examines the intellectual foundations of archaeology in the deep sea. Th
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/sts-467-research-seminar-in-deep-sea-archaeology-spring-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-467-research-seminar-in-deep-sea-archaeology-spring-2002/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/sts-467-research-seminar-in-deep-sea-archaeology-spring-2002/pages/readings/)
+
+### Resource
+- [Deployment of a AUV (.jpg)](https://ocw.mit.edu/courses/sts-467-research-seminar-in-deep-sea-archaeology-spring-2002/resources/sts-467s02/)
+- [Deployment of a AUV (thumbnail) (.jpg)](https://ocw.mit.edu/courses/sts-467-research-seminar-in-deep-sea-archaeology-spring-2002/resources/sts-467s02-th/)
+- [Related Resources](https://ocw.mit.edu/courses/sts-467-research-seminar-in-deep-sea-archaeology-spring-2002/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

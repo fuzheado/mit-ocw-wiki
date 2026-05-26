@@ -12,6 +12,9 @@ views: 303
 completeness: 0.07500000000000001
 last_modified: "2026-05-06T14:43:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 9, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 3964
 ---
 
 # Technology-based Business Transformation
@@ -30,9 +33,29 @@ This course covers how to leverage major technology advances to significantly tr
 
 ## Materials
 
-- [Lecture Audio] Lecture Audio
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/esd-57-technology-based-business-transformation-fall-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [esd_seminar_6.pdf (.pdf)](https://ocw.mit.edu/courses/esd-57-technology-based-business-transformation-fall-2007/resources/esd_seminar_6/)
+- [esd_seminar_5.pdf (.pdf)](https://ocw.mit.edu/courses/esd-57-technology-based-business-transformation-fall-2007/resources/esd_seminar_5/)
+- [esd_seminar_4.pdf (.pdf)](https://ocw.mit.edu/courses/esd-57-technology-based-business-transformation-fall-2007/resources/esd_seminar_4/)
+- [esd_seminar_3.pdf (.pdf)](https://ocw.mit.edu/courses/esd-57-technology-based-business-transformation-fall-2007/resources/esd_seminar_3/)
+- [esd_seminar_2.pdf (.pdf)](https://ocw.mit.edu/courses/esd-57-technology-based-business-transformation-fall-2007/resources/esd_seminar_2/)
+- [esd_seminar_11.pdf (.pdf)](https://ocw.mit.edu/courses/esd-57-technology-based-business-transformation-fall-2007/resources/esd_seminar_11/)
+- [esd_seminar_10.pdf (.pdf)](https://ocw.mit.edu/courses/esd-57-technology-based-business-transformation-fall-2007/resources/esd_seminar_10/)
+- [esd_seminar_1.pdf (.pdf)](https://ocw.mit.edu/courses/esd-57-technology-based-business-transformation-fall-2007/resources/esd_seminar_1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/esd-57-technology-based-business-transformation-fall-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/esd-57-technology-based-business-transformation-fall-2007/pages/readings/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/esd-57-technology-based-business-transformation-fall-2007/pages/projects/)
+
+### Resource
+- [esd-57f07.JPG (.jpg)](https://ocw.mit.edu/courses/esd-57-technology-based-business-transformation-fall-2007/resources/esd-57f07/)
+- [esd-57f07-th.jpg (.jpg)](https://ocw.mit.edu/courses/esd-57-technology-based-business-transformation-fall-2007/resources/esd-57f07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

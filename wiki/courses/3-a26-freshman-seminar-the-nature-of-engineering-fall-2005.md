@@ -12,6 +12,9 @@ views: 156
 completeness: 0.0
 last_modified: "2026-05-06T17:10:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 16, Reading-List: 4, Resource: 4, Syllabus: 2, Video-Transcript: 4"
+api_id: 6012
 ---
 
 # Freshman Seminar: The Nature of Engineering
@@ -30,8 +33,36 @@ Are you interested in investigating how nature engineers itself? How engineers c
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/pages/calendar/)
+- **Projects** — [🔗](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/pages/projects/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [handout3.pdf (.pdf)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/handout3/)
+- [handout2.pdf (.pdf)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/handout2/)
+- [handout1.pdf (.pdf)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/handout1/)
+- [Readings](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/pages/readings/)
+
+### Assignment
+- [wp_tail_feathev1.pdf (.pdf)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/wp_tail_feathev1/)
+- [wood_vs_al.pdf (.pdf)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/wood_vs_al/)
+- [tube.pdf (.pdf)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/tube/)
+- [treeheight.pdf (.pdf)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/treeheight/)
+- [poster3big.pdf (.pdf)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/poster3big/)
+- [poster1b_big.pdf (.pdf)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/poster1b_big/)
+- [poster1_big.pdf (.pdf)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/poster1_big/)
+- [peckingv2edit.pdf (.pdf)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/peckingv2edit/)
+- [palm_trunks.pdf (.pdf)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/palm_trunks/)
+- [glulam.pdf (.pdf)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/glulam/)
+- [flght_of_brdv2ed.pdf (.pdf)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/flght_of_brdv2ed/)
+- [brainstorming.pdf (.pdf)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/brainstorming/)
+- [bird_stcknstv2ed.pdf (.pdf)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/bird_stcknstv2ed/)
+- [bird_mgrtnv2edt.pdf (.pdf)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/bird_mgrtnv2edt/)
+
+### Resource
+- [3-a26f05.jpg (.jpg)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/3-a26f05/)
+- [3-a26f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/resources/3-a26f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

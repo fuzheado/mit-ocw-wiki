@@ -12,6 +12,9 @@ views: 120
 completeness: 0.22000000000000003
 last_modified: "2026-05-06T17:19:01Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 4, Syllabus: 2, Video-Transcript: 7"
+api_id: 4167
 ---
 
 # Understanding Television
@@ -30,9 +33,20 @@ The subtitle of this course for the spring 2003 term is “American Television: 
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-432-understanding-television-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-432-understanding-television-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-432-understanding-television-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/21l-432-understanding-television-spring-2003/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/21l-432-understanding-television-spring-2003/pages/assignments/)
+
+### Resource
+- [21l-432s03.jpg (.jpg)](https://ocw.mit.edu/courses/21l-432-understanding-television-spring-2003/resources/21l-432s03/)
+- [21l-432s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-432-understanding-television-spring-2003/resources/21l-432s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

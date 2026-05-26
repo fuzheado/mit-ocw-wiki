@@ -12,6 +12,9 @@ views: 268
 completeness: 0.1866666666666667
 last_modified: "2026-05-06T17:08:42Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 20, Problem-Set: 1, Reading-List: 11, Resource: 4, Syllabus: 1"
+api_id: 5752
 ---
 
 # Technology in History
@@ -31,8 +34,51 @@ Because MIT is celebrating its 150th anniversary in 2011, this version of the cl
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/pages/syllabus/)
 
+### Lecture-Notes
+- [MITSTS_007F10_lec25_review.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec25_review/)
+- [MITSTS_007F10_lec21_notes.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec21_notes/)
+- [MITSTS_007F10_lec20_slides.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec20_slides/)
+- [MITSTS_007F10_lec20_notes.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec20_notes/)
+- [MITSTS_007F10_lec16_slides.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec16_slides/)
+- [MITSTS_007F10_lec16_notes.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec16_notes/)
+- [MITSTS_007F10_lec14_slides.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec14_slides/)
+- [MITSTS_007F10_lec14_notes.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec14_notes/)
+- [MITSTS_007F10_lec12_notes.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec12_notes/)
+- [MITSTS_007F10_lec09_slides.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec09_slides/)
+- [MITSTS_007F10_lec08_notes.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec08_notes/)
+- [MITSTS_007F10_lec06_nt_jrc.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec06_nt_jrc/)
+- [MITSTS_007F10_lec06_notes.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec06_notes/)
+- [MITSTS_007F10_lec04_slides.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec04_slides/)
+- [MITSTS_007F10_lec04_notes.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec04_notes/)
+- [MITSTS_007F10_lec03_slides.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec03_slides/)
+- [MITSTS_007F10_lec03_notes.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec03_notes/)
+- [MITSTS_007F10_lec02_slides.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec02_slides/)
+- [MITSTS_007F10_lec02_notes.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_lec02_notes/)
+- [Lecture Notes](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/pages/lecture-notes/)
+
+### Reading-List
+- [MITSTS_007F10_read20.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_read20/)
+- [MITSTS_007F10_read17.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_read17/)
+- [MITSTS_007F10_read15.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_read15/)
+- [MITSTS_007F10_read14.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_read14/)
+- [MITSTS_007F10_read11.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_read11/)
+- [MITSTS_007F10_read10.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_read10/)
+- [MITSTS_007F10_read09.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_read09/)
+- [MITSTS_007F10_read06.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_read06/)
+- [MITSTS_007F10_read02.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_read02/)
+- [MITSTS_007F10_read01.pdf (.pdf)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/mitsts_007f10_read01/)
+- [Readings](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/pages/assignments/)
+
+### Resource
+- [sts-007f10.jpg (.jpg)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/sts-007f10/)
+- [sts-007f10-th.jpg (.jpg)](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/resources/sts-007f10-th/)
+- [Related Resources](https://ocw.mit.edu/courses/sts-007-technology-in-history-fall-2010/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

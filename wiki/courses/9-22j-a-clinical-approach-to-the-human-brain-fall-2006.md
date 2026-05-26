@@ -12,6 +12,9 @@ views: 680
 completeness: 0.008333333333333333
 last_modified: "2026-05-06T14:49:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4631
 ---
 
 # A Clinical Approach to the Human Brain
@@ -32,8 +35,19 @@ Throughout the seminar we will discuss clinical cases from Dr. Byrne’s experie
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-22j-a-clinical-approach-to-the-human-brain-fall-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-22j-a-clinical-approach-to-the-human-brain-fall-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/9-22j-a-clinical-approach-to-the-human-brain-fall-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-22j-a-clinical-approach-to-the-human-brain-fall-2006/pages/readings/)
+
+### Resource
+- [Human Brain (.jpg)](https://ocw.mit.edu/courses/9-22j-a-clinical-approach-to-the-human-brain-fall-2006/resources/9-22jf06/)
+- [Human Brain (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-22j-a-clinical-approach-to-the-human-brain-fall-2006/resources/9-22jf06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

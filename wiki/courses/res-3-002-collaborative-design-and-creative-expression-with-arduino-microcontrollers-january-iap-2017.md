@@ -12,6 +12,8 @@ views: 522
 completeness: 0.0
 last_modified: "2026-05-06T17:00:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 3, Lecture-Notes: 5, Resource: 5, Syllabus: 1"
 ---
 
 # Collaborative Design and Creative Expression with Arduino Microcontrollers
@@ -31,9 +33,27 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Projects with Examples] Projects with Examples
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/pages/syllabus/)
 
+### Lecture-Notes
+- [Cultivating a Culture of Collaboration](https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/pages/instructor-insights/cultivating-a-culture-of-collaboration/)
+- [Guided Tutorial](https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/pages/class-activities/guided-tutorial/)
+- [Collaboration](https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/pages/class-activities/collaboration/)
+- [Expanding on Tutorials](https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/pages/class-activities/expanding-on-tutorials/)
+- [Host Your Own Workshop](https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/pages/host-your-own-workshop/)
+
+### Assignment
+- [Student Projects](https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/pages/student-projects/)
+- [Short Project](https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/pages/student-projects/short-project/)
+- [Long Project](https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/pages/student-projects/long-project/)
+
+### Resource
+- [Instructor Insights](https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/pages/instructor-insights/)
+- [Practical Tips for Facilitating Hands-On Learning](https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/pages/instructor-insights/practical-tips-for-facilitating-hands-on-learning/)
+- [Impressions and Advice](https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/pages/instructor-insights/impressions-and-advice/)
+- [Class Activities](https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/pages/class-activities/)
+- [Getting Started](https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/pages/class-activities/getting-started/)
 ## Wikipedia Bridge
 
 ### Related Articles

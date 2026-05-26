@@ -12,6 +12,9 @@ views: 234
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:12:08Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 3721
 ---
 
 # Bestsellers: Detective Fiction
@@ -30,8 +33,19 @@ This course focuses on works that caught the popular imagination in the past or 
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-310-bestsellers-detective-fiction-fall-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-310-bestsellers-detective-fiction-fall-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-310-bestsellers-detective-fiction-fall-2006/pages/assignments/)
+
+### Resource
+- [Sir Arthur Conan Doyle (.jpg)](https://ocw.mit.edu/courses/21l-310-bestsellers-detective-fiction-fall-2006/resources/chp_arthurconand/)
+- [Sherlock Holmes (.jpg)](https://ocw.mit.edu/courses/21l-310-bestsellers-detective-fiction-fall-2006/resources/21l-310f06/)
+- [Sherlock Holmes (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-310-bestsellers-detective-fiction-fall-2006/resources/21l-310f06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

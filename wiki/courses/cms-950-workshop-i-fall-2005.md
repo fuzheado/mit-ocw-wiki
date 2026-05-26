@@ -12,6 +12,9 @@ views: 208
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:14:53Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5477
 ---
 
 # Workshop I
@@ -30,8 +33,19 @@ This course fulfills the first half of the Comparative Media Studies workshop se
 
 ## Materials
 
-- [Media Assignments] Media Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/cms-950-workshop-i-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/cms-950-workshop-i-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/cms-950-workshop-i-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/cms-950-workshop-i-fall-2005/pages/assignments/)
+
+### Resource
+- [Digital Video Authenticator (.jpg)](https://ocw.mit.edu/courses/cms-950-workshop-i-fall-2005/resources/cms-950f05/)
+- [Digital Video Authenticator (thumbnail) (.jpg)](https://ocw.mit.edu/courses/cms-950-workshop-i-fall-2005/resources/cms-950f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 103
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:53:26Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4685
 ---
 
 # Reading Fiction: Dysfunctional Families
@@ -30,8 +33,18 @@ This course explores the form, content, and historical context of various works 
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-003-1-reading-fiction-dysfunctional-families-spring-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-003-1-reading-fiction-dysfunctional-families-spring-2007/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-003-1-reading-fiction-dysfunctional-families-spring-2007/pages/assignments/)
+
+### Resource
+- [Reading a book in the sun (.jpg)](https://ocw.mit.edu/courses/21l-003-1-reading-fiction-dysfunctional-families-spring-2007/resources/21l-003-1s07/)
+- [Reading a book in the sun (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-003-1-reading-fiction-dysfunctional-families-spring-2007/resources/21l-003-1s07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 60418
 completeness: 0.0
 last_modified: "2026-05-06T17:09:26Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 1"
+api_id: 16720
 ---
 
 # How to AI (Almost) Anything
@@ -31,10 +34,8 @@ Through lectures, readings, discussions, and a significant research component, t
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Readings] Readings
-- [Written Assignments] Written Assignments
-
+### Resource
+- [mitmas_s60_s25.jpg (.jpg)](https://ocw.mit.edu/courses/mas-s60-how-to-ai-almost-anything-spring-2025/resources/mitmas_s60_s25_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

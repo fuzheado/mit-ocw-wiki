@@ -12,6 +12,9 @@ views: 293
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T14:43:15Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 7, Lecture-Notes: 1, Problem-Set: 4, Resource: 6, Syllabus: 2"
+api_id: 4738
 ---
 
 # Digital Mock-Up Workshop
@@ -30,9 +33,30 @@ This is an advanced subject in computer modeling and CAD CAM fabrication, with a
 
 ## Materials
 
-- [Design Assignments] Design Assignments
-- [Presentation Assignments] Presentation Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-511-digital-mock-up-workshop-spring-2006/pages/calendar/)
+- **Recitations** — [🔗](https://ocw.mit.edu/courses/4-511-digital-mock-up-workshop-spring-2006/pages/recitations/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-511-digital-mock-up-workshop-spring-2006/pages/syllabus/)
 
+### Problem-Set
+- [asg_3_materials.pdf (.pdf)](https://ocw.mit.edu/courses/4-511-digital-mock-up-workshop-spring-2006/resources/asg_3_materials/)
+- [asg_2_mockup.pdf (.pdf)](https://ocw.mit.edu/courses/4-511-digital-mock-up-workshop-spring-2006/resources/asg_2_mockup/)
+- [asg_1_analysis.pdf (.pdf)](https://ocw.mit.edu/courses/4-511-digital-mock-up-workshop-spring-2006/resources/asg_1_analysis/)
+- [Assignments](https://ocw.mit.edu/courses/4-511-digital-mock-up-workshop-spring-2006/pages/assignments/)
+
+### Assignment
+- [paper_nar_gri.pdf (.pdf)](https://ocw.mit.edu/courses/4-511-digital-mock-up-workshop-spring-2006/resources/paper_nar_gri/)
+- [paper_joo_kov.pdf (.pdf)](https://ocw.mit.edu/courses/4-511-digital-mock-up-workshop-spring-2006/resources/paper_joo_kov/)
+- [pap_car_mic.pdf (.pdf)](https://ocw.mit.edu/courses/4-511-digital-mock-up-workshop-spring-2006/resources/pap_car_mic/)
+- [midterm_nar_gri.pdf (.pdf)](https://ocw.mit.edu/courses/4-511-digital-mock-up-workshop-spring-2006/resources/midterm_nar_gri/)
+- [midterm_joo_kov.pdf (.pdf)](https://ocw.mit.edu/courses/4-511-digital-mock-up-workshop-spring-2006/resources/midterm_joo_kov/)
+- [midterm_car_mic.pdf (.pdf)](https://ocw.mit.edu/courses/4-511-digital-mock-up-workshop-spring-2006/resources/midterm_car_mic/)
+- [Projects](https://ocw.mit.edu/courses/4-511-digital-mock-up-workshop-spring-2006/pages/projects/)
+
+### Resource
+- [etfe_class.pdf (.pdf)](https://ocw.mit.edu/courses/4-511-digital-mock-up-workshop-spring-2006/resources/etfe_class/)
+- [4-511s06.jpg (.jpg)](https://ocw.mit.edu/courses/4-511-digital-mock-up-workshop-spring-2006/resources/4-511s06/)
+- [4-511s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-511-digital-mock-up-workshop-spring-2006/resources/4-511s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

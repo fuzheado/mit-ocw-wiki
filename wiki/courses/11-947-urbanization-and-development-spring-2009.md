@@ -12,6 +12,9 @@ views: 99
 completeness: 0.2
 last_modified: "2026-05-06T15:03:34Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 6, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4441
 ---
 
 # Urbanization and Development
@@ -30,10 +33,23 @@ The course examines the causes and effects of rapid urbanization in developing c
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-947-urbanization-and-development-spring-2009/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-947-urbanization-and-development-spring-2009/pages/readings/)
+
+### Problem-Set
+- [Dislocating the Urban Subject (.pdf)](https://ocw.mit.edu/courses/11-947-urbanization-and-development-spring-2009/resources/mit11_947s09_sw05/)
+- [Is a Normative Description of the Form of African Cities Possible?  (.pdf)](https://ocw.mit.edu/courses/11-947-urbanization-and-development-spring-2009/resources/mit11_947s09_sw04/)
+- [Untitled student example (.pdf)](https://ocw.mit.edu/courses/11-947-urbanization-and-development-spring-2009/resources/mit11_947s09_sw03/)
+- [Intractable to Transformed: How National Level Peace Processes Shape Urban Level Violence (.pdf)](https://ocw.mit.edu/courses/11-947-urbanization-and-development-spring-2009/resources/mit11_947s09_sw02/)
+- [Mid-term paper (.pdf)](https://ocw.mit.edu/courses/11-947-urbanization-and-development-spring-2009/resources/mit11_947s09_exam01/)
+- [Exams](https://ocw.mit.edu/courses/11-947-urbanization-and-development-spring-2009/pages/exams/)
+
+### Resource
+- [Rooftops in Kano, Nigeria (.jpg)](https://ocw.mit.edu/courses/11-947-urbanization-and-development-spring-2009/resources/11-947s09/)
+- [Discussion Questions](https://ocw.mit.edu/courses/11-947-urbanization-and-development-spring-2009/pages/discussion-questions/)
 ## Wikipedia Bridge
 
 ### Related Articles

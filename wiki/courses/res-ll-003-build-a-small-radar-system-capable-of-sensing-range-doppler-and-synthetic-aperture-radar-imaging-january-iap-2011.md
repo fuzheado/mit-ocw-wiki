@@ -12,6 +12,8 @@ views: 656
 completeness: 0.03333333333333333
 last_modified: "2026-05-06T17:23:31Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Resource: 1, Syllabus: 1, Video-Transcript: 5"
 ---
 
 # Build a Small Radar System Capable of Sensing Range, Doppler, and Synthetic Aperture Radar Imaging
@@ -33,9 +35,17 @@ This work is sponsored by the Department of the Air Force under Air Force Contra
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/pages/lecture-notes/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/pages/projects/)
+
+### Resource
+- [Related Resources 🎬YouTube 📺Video](https://ocw.mit.edu/courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

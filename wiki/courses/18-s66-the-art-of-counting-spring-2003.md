@@ -12,6 +12,9 @@ views: 254
 completeness: 0.18000000000000002
 last_modified: "2026-05-06T17:09:28Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 9, Resource: 5, Syllabus: 2"
+api_id: 4484
 ---
 
 # The Art of Counting
@@ -30,8 +33,24 @@ The subject of enumerative combinatorics deals with counting the number of eleme
 
 ## Materials
 
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/18-s66-the-art-of-counting-spring-2003/pages/calendar/)
+- **Hw7.pdf** — [🔗](https://ocw.mit.edu/courses/18-s66-the-art-of-counting-spring-2003/resources/hw7/) · [🔗](https://ocw.mit.edu/courses/18-s66-the-art-of-counting-spring-2003/resources/hw7)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-s66-the-art-of-counting-spring-2003/pages/syllabus/)
 
+### Problem-Set
+- [hw6.pdf (.pdf)](https://ocw.mit.edu/courses/18-s66-the-art-of-counting-spring-2003/resources/hw6/)
+- [hw5.pdf (.pdf)](https://ocw.mit.edu/courses/18-s66-the-art-of-counting-spring-2003/resources/hw5/)
+- [hw4.pdf (.pdf)](https://ocw.mit.edu/courses/18-s66-the-art-of-counting-spring-2003/resources/hw4/)
+- [hw3a.pdf (.pdf)](https://ocw.mit.edu/courses/18-s66-the-art-of-counting-spring-2003/resources/hw3a/)
+- [hw3.pdf (.pdf)](https://ocw.mit.edu/courses/18-s66-the-art-of-counting-spring-2003/resources/hw3/)
+- [hw2.pdf (.pdf)](https://ocw.mit.edu/courses/18-s66-the-art-of-counting-spring-2003/resources/hw2/)
+- [hw1.pdf (.pdf)](https://ocw.mit.edu/courses/18-s66-the-art-of-counting-spring-2003/resources/hw1/)
+- [Assignments](https://ocw.mit.edu/courses/18-s66-the-art-of-counting-spring-2003/pages/assignments/)
+
+### Resource
+- [18-s66s03.jpg (.jpg)](https://ocw.mit.edu/courses/18-s66-the-art-of-counting-spring-2003/resources/18-s66s03/)
+- [18-s66s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/18-s66-the-art-of-counting-spring-2003/resources/18-s66s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

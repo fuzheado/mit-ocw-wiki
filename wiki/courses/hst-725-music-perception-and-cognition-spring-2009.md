@@ -12,6 +12,9 @@ views: 944
 completeness: 0.18000000000000002
 last_modified: "2026-05-06T16:51:50Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 12, Problem-Set: 4, Reading-List: 1, Resource: 3, Syllabus: 1, Video-Transcript: 1"
+api_id: 5735
 ---
 
 # Music Perception and Cognition
@@ -30,11 +33,38 @@ This course is a survey of perceptual and cognitive aspects of the psychology of
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
-- [Projects] Projects
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/pages/syllabus/)
 
+### Lecture-Notes
+- [Topic Summaries for HST.725 2009 (.pdf)](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/resources/mithst_725s09_lec_sumaries/)
+- [Rhythm: patterns of events in time (.pdf)](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/resources/mithst_725s09_lec16_rhy/)
+- [Melody & Harmony: combinations and sequences of pitches unfolding in time (.pdf)](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/resources/mithst_725s09_lec10_mel/)
+- [Systems of pitch relations: Scales, tunings and notations (.pdf)](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/resources/mithst_725s09_lec09_scales/)
+- [Interactions between tones: Consonance & dissonance (.pdf)](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/resources/mithst_725s09_lec08_conson/)
+- [Timbre perception (.pdf)](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/resources/mithst_725s09_lec07_timbre/)
+- [Neural mechanisms of musical pitch (.pdf)](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/resources/mithst_725s09_lec05_pitchmech/)
+- [Neural representation of musical pitch (.pdf)](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/resources/mithst_725s09_lec04_pitch/)
+- [What we hear: Basic dimensions of auditory experience (.pdf)](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/resources/mithst_725s09_lec03_what/)
+- [Why we listen: The psychological functions of music (.pdf)](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/resources/mithst_725s09_lec02_why/)
+- [Course Introduction (.pdf)](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/resources/mithst_725s09_lec01_intro/)
+- [Lecture Notes](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/pages/readings/)
+
+### Problem-Set
+- [Assignment #1 Solutions (.pdf)](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/resources/mithst_725s09_sol_pset_01/)
+- [Assignment #1 (.pdf)](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/resources/mithst_725s09_pset_01/)
+- [Some fundamental problems in the psychology of music  (.pdf)](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/resources/mithst_725s09_assn01_fdqst/)
+- [Assignments](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/pages/projects/)
+
+### Resource
+- [Figure illustrating areas of the brain that may be involved in different aspects of music perception and performance (.jpg)](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/resources/hst-725s09/)
+- [Related Resources](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

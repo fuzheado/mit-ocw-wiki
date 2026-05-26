@@ -12,6 +12,8 @@ views: 916
 completeness: 0.08166666666666668
 last_modified: "2026-05-06T14:58:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 9, Video-Transcript: 8"
 ---
 
 # Social and Ethical Responsibilities of Computing (SERC)
@@ -33,12 +35,20 @@ The aim of SERC is to facilitate the development of responsible “habits of min
 
 ## Materials
 
-- [Editable Files] Editable Files
-- [Instructor Insights] Instructor Insights
-- [Lecture Notes] Lecture Notes
-- [Multiple Assignment Types] Multiple Assignment Types
-- [Podcasts] Podcasts
+### Lectures
+- **Download the video** — [⬇](https://archive.org/download/chalk-radio/S03E05_Dignazio_Andreas_Suresh_360p.mp4) · [⬇](https://archive.org/download/chalk-radio/S03E06_Daniel_and_Serena_360p.mp4)
+- **Download video** — [⬇](https://archive.org/download/chalk-radio/S03E05_Dignazio_Andreas_Suresh_360p.mp4) · [⬇](https://archive.org/download/chalk-radio/S03E06_Daniel_and_Serena_360p.mp4)
+- **Instructor Insights** — [⬇](https://archive.org/download/chalk-radio/S03E05_Dignazio_Andreas_Suresh_360p.mp4) · [⬇](https://archive.org/download/chalk-radio/S03E06_Daniel_and_Serena_360p.mp4) · [📄](https://ocw.mit.edu/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/MbzbbvTlL1Y_transcript.pdf) · [📄](https://ocw.mit.edu/courses/restll-008-social-and-ethical-responsibilities-of-computing-serc/8IOr7KejV_I_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/pages/instructor-insights/)
 
+### Resource
+- [Update Log](https://ocw.mit.edu/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/pages/update-log/)
+- [Privacy and Surveillance](https://ocw.mit.edu/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/pages/privacy-surveillance/)
+- [Inequality, Justice, &amp; Human Rights](https://ocw.mit.edu/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/pages/inequality-justice-human-rights/)
+- [AI and Algorithms](https://ocw.mit.edu/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/pages/ai-algorithms/)
+- [Social and Environmental Impacts](https://ocw.mit.edu/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/pages/social-environmental-impact/)
+- [Autonomous Systems and Robotics](https://ocw.mit.edu/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/pages/autonomous-systems-and-robotics/)
+- [Ethical Computing and Practice](https://ocw.mit.edu/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/pages/ethical-computing-and-practice/)
+- [Law and Policy](https://ocw.mit.edu/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/pages/law-policy/)
 ## Wikipedia Bridge
 
 ### Related Articles

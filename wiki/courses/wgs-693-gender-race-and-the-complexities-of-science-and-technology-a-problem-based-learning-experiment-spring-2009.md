@@ -12,6 +12,9 @@ views: 122
 completeness: 0.2
 last_modified: "2026-05-06T14:42:03Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 10, Reading-List: 1, Resource: 21, Syllabus: 2"
+api_id: 3920
 ---
 
 # Gender, Race, and the Complexities of Science and Technology: A Problem-Based Learning Experiment
@@ -31,10 +34,45 @@ The course takes these questions as entry points into an ever-growing body of wo
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/pages/readings/)
+
+### Problem-Set
+- [Syllabus Treasure Hunt (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_cal02/)
+- [Session 1 Introduction (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_cal01/)
+- [Assignment 8 (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_assn08/)
+- [Final Project (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_assn07/)
+- [Assignment 6 (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_assn06/)
+- [Warm up for Case 2.docx (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_assn03_warmup/)
+- [KAQF Case 2.docx (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_assn03_kaqf/)
+- [Assignment 2 (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_assn03/)
+- [Assignment 1 (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_assn01/)
+- [Assignments](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/pages/assignments/)
+
+### Resource
+- [wgs-693s09.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/wgs-693s09/)
+- [wgs-693s09-th.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/wgs-693s09-th/)
+- [PBL embryo example (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_tutor03/)
+- [KAQF for Action Research (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_tutor02/)
+- [Framework for Exchanges and Inquiry (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_tutor01/)
+- [Class 5 curriculum car.doc (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_sw03_curricul/)
+- [MITWGS_693S09_sw02_Sexual.pdf (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_sw02_sexual/)
+- [MITWGS_693S09_sw02_Learning.pdf (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_sw02_learning/)
+- [FFWcase3.doc (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_sw02_genetic/)
+- [MITWGS_693S09_sw01New_Imag.pdf (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_sw01new_imag/)
+- [MITWGS_693S09_sw01_Repro.pdf (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_sw01_repro/)
+- [PAD Guidebook (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_sw01_inst/)
+- [MITWGS_693S09_sw01_Genome.pdf (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_sw01_genome/)
+- [MITWGS_693S09_sw01_Dibona.pdf (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_sw01_dibona/)
+- [Capitalist Science and the Medicalization(2).rtf (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_sw01/)
+- [Race case (.pdf)](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/resources/mitwgs_693s09_res01/)
+- [Student Work](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/pages/student-work/)
+- [Related Resources](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/pages/related-resources/)
+- [Problem-Based Learning](https://ocw.mit.edu/courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009/pages/problem-based-learning/)
 ## Wikipedia Bridge
 
 ### Related Articles

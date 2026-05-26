@@ -12,6 +12,9 @@ views: 3165
 completeness: 0.2833333333333334
 last_modified: "2026-05-06T16:53:01Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 15, Problem-Set: 2, Reading-List: 2, Resource: 12, Syllabus: 1, Video-Transcript: 25"
+api_id: 17501
 ---
 
 # Learning, Media, and Technology
@@ -30,8 +33,11 @@ New digital technologies are transforming learning for all ages—reading apps f
 
 ## Materials
 
-### Syllabus
-- [Syllabus](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/pages/syllabus/)
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/pages/assignments/)
+- **Final Project** — [🔗](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/pages/final-project/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/pages/syllabus/)
 
 ### Lecture-Notes
 - [Session 9: Massive Online Open Courses Slides (PPTX) (.pptx)](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/resources/mitcms_595_s24_ses9_pptx/)
@@ -50,38 +56,18 @@ New digital technologies are transforming learning for all ages—reading apps f
 - [Session 12: Innovation and Access in Online Learning (.pdf)](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/resources/mitcms_595_s24_ses12_pdf/)
 - [Lecture Slides](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/lists/lecture-slides/)
 
-### Video-Transcript
-- [09. Massive Open Online Courses (MOOCs) (.mp4) 🎬YouTube 📺Video](https://youtu.be/pPbJGG1JtVw)
-- [07. EdTech Before the Internet (.mp4) 🎬YouTube 📺Video](https://youtu.be/68XZ_P9MKM8)
-- [03. How People Learn: Situated Learning (.mp4) 🎬YouTube 📺Video](https://youtu.be/MXTA8HlhnuM)
-- [02. How People Learn: Cognitive Load Theory (.mp4) 🎬YouTube 📺Video](https://youtu.be/P4RVO9aIIVA)
-- [20. The Toxic Power of Data and Experiment (.mp4) 🎬YouTube 📺Video](https://youtu.be/tnnuIwgXAt8)
-- [18. Trap of Routine Assessment (.mp4) 🎬YouTube 📺Video](https://youtu.be/8hvDT6zKp98)
-- [16. Start-Up and the Curse of the Familiar (.mp4) 🎬YouTube 📺Video](https://youtu.be/LQ-WcLwrU6c)
-- [14. Learning Games (.mp4) 🎬YouTube 📺Video](https://youtu.be/x0RamxvyDe0)
-- [12. Interest-Driven Learning (.mp4) 🎬YouTube 📺Video](https://youtu.be/QC8q4oYKwBI)
-- [10. Intelligent Tutors (.mp4) 🎬YouTube 📺Video](https://youtu.be/jY-kLDI8nBU)
-- [Seminar Videos 📺Video](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/video_galleries/session-videos/)
-- [&ldquo;Learning Engineering: What We Know, What We Can Do.&quot;](https://www.youtube.com/watch?v=VSrsOzzjV8I&amp;list=PLI5g5RWpdCgdfwFpqpY9sQpnxKtatHoX4&amp;index=4)
-- [&ldquo;Practical Learning at Scale.&quot;](https://www.youtube.com/watch?v=JOPpgKsxUC0&amp;feature=youtu.be&amp;list=PLn0nrSd4xjjbBVXrdjJNjZLVkZTMHkgPg)
-- [&ldquo;A Domain of One’s Own.&quot;](https://www.youtube.com/watch?t=34m37s&amp;v=6m90BzVVPG4&amp;feature=youtu.be)
-- [Ignite Talk on Epic Creative Writing Courses](https://www.youtube.com/watch?v=p1tl7E6LX8M)
-
 ### Reading-List
 - [&#34;Rabbit Hole&#34; Readings](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/pages/rabbit-hole-readings/)
-- [Readings 🎬YouTube](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/pages/readings/)
-
-### Problem-Set
-- [Final Project](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/pages/final-project/)
-- [Assignments](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/pages/assignments/)
 
 ### Resource
 - [Instructor Insights](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/pages/instructor-insights/)
 - [Generative AI on Generative AI](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/pages/generative-ai-on-generative-ai/)
+- ["Rabbit Hole" Readings](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/pages/rabbit-hole-readings/)
 - [Eliciting Productive Discussion](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/pages/eliciting-productive-discussion/)
 - [Don't Use AI—Or Else Use It a Lot!](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/pages/dont-use-aior-else-use-it-a-lot/)
 - [mitcms_595_s24.jpg (.jpg)](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/resources/mitcms_595_s24_jpg/)
 - [Learning Journals](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/pages/learning-journals/)
+- [Don&#39;t Use AI—Or Else Use It a Lot!](https://ocw.mit.edu/courses/cms-595-learning-media-and-technology-spring-2024/pages/dont-use-aior-else-use-it-a-lot/)
 ## Wikipedia Bridge
 
 ### Related Articles

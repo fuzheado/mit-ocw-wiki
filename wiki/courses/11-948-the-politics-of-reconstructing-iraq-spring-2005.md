@@ -12,6 +12,9 @@ views: 130
 completeness: 0.05
 last_modified: "2026-05-06T17:01:35Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 4, Lecture-Notes: 7, Reading-List: 1, Resource: 4, Syllabus: 2, Video-Transcript: 7"
+api_id: 5803
 ---
 
 # The Politics of Reconstructing Iraq
@@ -30,10 +33,31 @@ This course is being offered in conjunction with the colloquium The Politics of 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/pages/calendar/)
+- **Lecture Notes** — [🔗](https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/pages/lecture-notes/)
+- **MP4 - 173 MB** — [⬇](http://www.archive.org/download/MIT11.948S05/ocw-11.948-01mar2005-220k.mp4) · [⬇](http://www.archive.org/download/MIT11.948S05/ocw-11.948-rebuilding-iraq-25apr2005-220k.mp4)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [The U.S. Reconstruction Agenda and Projects in Iraq (.pdf)](https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/resources/lect7/)
+- [ Social and Political Background for Reconstruction: Politics and Society in Iraq in the 20-21st Century (.pdf)](https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/resources/lect5/)
+- [The U.S. Post-September 11 Reconstruction Agenda (.pdf)](https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/resources/lect4/)
+- [Stakeholders of Post-Conflict Reconstruction (.pdf)](https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/resources/lect3/)
+- [Planning, Politics and the Idea of Post-Conflict Reconstruction (.pdf)](https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/resources/lect2/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/pages/readings/)
+
+### Assignment
+- [Living in Iraq: The American Media (.pdf)](https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/resources/marraccini_final/)
+- [U.S. Occupation in Iraq and Japan: A Brief Comparison (.pdf)](https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/resources/kwack_final/)
+- [Education in Iraq: A Cultural Battlefield (.pdf)](https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/resources/ikert_final/)
+- [Projects](https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/pages/projects/)
+
+### Resource
+- [Construction in Samawah, Iraq (.jpg)](https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/resources/11-948s05/)
+- [Construction in Samawah, Iraq (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/resources/11-948s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

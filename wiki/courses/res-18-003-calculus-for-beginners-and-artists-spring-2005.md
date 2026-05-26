@@ -12,6 +12,9 @@ views: 217
 completeness: 0.0
 last_modified: "2026-05-06T14:57:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 3683
 ---
 
 # Calculus for Beginners and Artists
@@ -31,8 +34,9 @@ Online Publication
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [res-18-003s05.jpg (.jpg)](https://ocw.mit.edu/courses/res-18-003-calculus-for-beginners-and-artists-spring-2005/resources/res-18-003s05/)
+- [res-18-003s05-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-18-003-calculus-for-beginners-and-artists-spring-2005/resources/res-18-003s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

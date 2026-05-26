@@ -12,6 +12,9 @@ views: 79
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:58:51Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 1"
+api_id: 4013
 ---
 
 # Women in South Asia from 1800 to Present
@@ -30,8 +33,20 @@ This course is designed to introduce and help students understand the changes an
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-575j-women-in-south-asia-from-1800-to-present-fall-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-575j-women-in-south-asia-from-1800-to-present-fall-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-575j-women-in-south-asia-from-1800-to-present-fall-2006/pages/assignments/)
+
+### Resource
+- [A Woman Watches Her Herd of Buffalo (.jpg)](https://ocw.mit.edu/courses/21h-575j-women-in-south-asia-from-1800-to-present-fall-2006/resources/21h-575jf06/)
+- [A Woman Watches Her Herd of Buffalo (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21h-575j-women-in-south-asia-from-1800-to-present-fall-2006/resources/21h-575jf06-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21h-575j-women-in-south-asia-from-1800-to-present-fall-2006/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/21h-575j-women-in-south-asia-from-1800-to-present-fall-2006/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 748
 completeness: 0.0
 last_modified: "2026-05-06T14:47:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 7, Syllabus: 2, Video-Transcript: 1"
+api_id: 5884
 ---
 
 # Theories and Methods in the Study of History
@@ -30,10 +33,20 @@ This course examines the distinctive ways in which historians in different parts
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Readings] Readings
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/21h-390-theories-and-methods-in-the-study-of-history-fall-2022/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-390-theories-and-methods-in-the-study-of-history-fall-2022/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21h-390-theories-and-methods-in-the-study-of-history-fall-2022/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-390-theories-and-methods-in-the-study-of-history-fall-2022/pages/syllabus/)
 
+### Problem-Set
+- [21H.390F22 Assignments:  Final Paper, Student Example 2 (.pdf)](https://ocw.mit.edu/courses/21h-390-theories-and-methods-in-the-study-of-history-fall-2022/resources/mit21h_390_finalpaper_studentexample02_pdf/)
+- [21H.390F22 Assignments:  Final Paper, Student Example 1 (.pdf)](https://ocw.mit.edu/courses/21h-390-theories-and-methods-in-the-study-of-history-fall-2022/resources/mit21h_390_finalpaper_studentexample01_pdf/)
+
+### Resource
+- [21h-390f22.jpg (.jpg)](https://ocw.mit.edu/courses/21h-390-theories-and-methods-in-the-study-of-history-fall-2022/resources/21h-390f22_jpg/)
+- [21h-390f22-th.jpg (.jpg)](https://ocw.mit.edu/courses/21h-390-theories-and-methods-in-the-study-of-history-fall-2022/resources/21h-390f22-th_jpg/)
+- [Instructor Insights](https://ocw.mit.edu/courses/21h-390-theories-and-methods-in-the-study-of-history-fall-2022/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

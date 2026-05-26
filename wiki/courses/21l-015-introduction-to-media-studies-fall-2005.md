@@ -12,6 +12,9 @@ views: 825
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T16:55:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5507
 ---
 
 # Introduction to Media Studies
@@ -30,10 +33,20 @@ Introduction to Media Studies is designed for students who have grown up in a ra
 
 ## Materials
 
-- [Media Assignments] Media Assignments
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Guidelines for Papers (.pdf)](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2005/resources/guide_papers/)
+- [Assignments](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2005/pages/assignments/)
+
+### Resource
+- [Video Game Biofeedback System (.jpg)](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2005/resources/21l-015f05/)
+- [Video Game Biofeedback System (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2005/resources/21l-015f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

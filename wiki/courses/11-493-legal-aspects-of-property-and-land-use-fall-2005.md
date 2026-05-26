@@ -12,6 +12,9 @@ views: 390
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:49:53Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3435
 ---
 
 # Legal Aspects of Property and Land Use
@@ -30,8 +33,19 @@ This course is designed to offer an advanced introduction to key legal issues th
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-493-legal-aspects-of-property-and-land-use-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-493-legal-aspects-of-property-and-land-use-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-493-legal-aspects-of-property-and-land-use-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-493-legal-aspects-of-property-and-land-use-fall-2005/pages/assignments/)
+
+### Resource
+- [Slum Area in Mumbai, India (.jpg)](https://ocw.mit.edu/courses/11-493-legal-aspects-of-property-and-land-use-fall-2005/resources/11-493f05/)
+- [Slum Area in Mumbai, India (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-493-legal-aspects-of-property-and-land-use-fall-2005/resources/11-493f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

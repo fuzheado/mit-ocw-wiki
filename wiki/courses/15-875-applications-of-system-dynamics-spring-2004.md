@@ -12,6 +12,9 @@ views: 351
 completeness: 0.016666666666666666
 last_modified: "2026-05-06T17:15:28Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 18, Lecture-Notes: 2, Reading-List: 1, Resource: 8, Syllabus: 2"
+api_id: 5339
 ---
 
 # Applications of System Dynamics
@@ -30,9 +33,44 @@ type: "course"
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [ses1.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/ses1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/pages/readings/)
+
+### Assignment
+- [teradyne.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/teradyne/)
+- [stnd_method.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/stnd_method/)
+- [quinn.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/quinn/)
+- [nigeria.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/nigeria/)
+- [nemc.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/nemc/)
+- [nasa.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/nasa/)
+- [insights.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/insights/)
+- [handout6.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/handout6/)
+- [handout5.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/handout5/)
+- [handout4.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/handout4/)
+- [handout3.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/handout3/)
+- [handout2.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/handout2/)
+- [handout1.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/handout1/)
+- [forecast.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/forecast/)
+- [fiber_optic.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/fiber_optic/)
+- [countdown.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/countdown/)
+- [burlington.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/burlington/)
+- [Projects](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/pages/projects/)
+
+### Resource
+- [molecules.zip (.zip)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/molecules/)
+- [molecules.pdf (.pdf)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/molecules-1/)
+- [15-875s04.jpg (.jpg)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/15-875s04/)
+- [15-875s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/resources/15-875s04-th/)
+- [Study Materials](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/15-875-applications-of-system-dynamics-spring-2004/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

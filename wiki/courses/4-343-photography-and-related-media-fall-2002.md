@@ -12,6 +12,9 @@ views: 393
 completeness: 0.0
 last_modified: "2026-05-06T14:58:38Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 5, Resource: 4, Syllabus: 1"
+api_id: 5089
 ---
 
 # Photography and Related Media
@@ -30,8 +33,20 @@ Subject combines practical instruction, readings, lectures, field trips, visitin
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-343-photography-and-related-media-fall-2002/pages/syllabus/)
 
+### Assignment
+- [Works by Peter Jamieson (.pdf)](https://ocw.mit.edu/courses/4-343-photography-and-related-media-fall-2002/resources/peter/)
+- [Works by Christine Gaspar (.pdf)](https://ocw.mit.edu/courses/4-343-photography-and-related-media-fall-2002/resources/gaspar/)
+- [In Green Pastures (.pdf)](https://ocw.mit.edu/courses/4-343-photography-and-related-media-fall-2002/resources/burow/)
+- [Works by Anthony Todd Marcus (.pdf)](https://ocw.mit.edu/courses/4-343-photography-and-related-media-fall-2002/resources/atm/)
+- [Projects](https://ocw.mit.edu/courses/4-343-photography-and-related-media-fall-2002/pages/projects/)
+
+### Resource
+- [4-341.swf (.swf)](https://ocw.mit.edu/courses/4-343-photography-and-related-media-fall-2002/resources/4-341_swf/)
+- [Crossing a Street (.jpg)](https://ocw.mit.edu/courses/4-343-photography-and-related-media-fall-2002/resources/4-343f02/)
+- [Crossing a Street (thumbnail) (.jpg)](https://ocw.mit.edu/courses/4-343-photography-and-related-media-fall-2002/resources/4-343f02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

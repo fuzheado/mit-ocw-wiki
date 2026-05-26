@@ -12,6 +12,9 @@ views: 1001
 completeness: 0.09166666666666667
 last_modified: "2026-05-06T14:54:54Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Lecture-Notes: 12, Resource: 6, Video-Transcript: 7"
+api_id: 5811
 ---
 
 # Introduction to MATLAB
@@ -32,10 +35,31 @@ The course mostly follows the official MATLAB Manual, available from The MathWor
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Programming Assignments] Programming Assignments
-- [Projects] Projects
+### Lectures
+- **Introduction to MATLAB® Project Ideas** — [🔗](https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/pages/introduction-to-matlab-project-ideas/)
+- **Other MATLAB® Resources at MIT** — [🔗](https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/pages/other-matlab-resources-at-mit/)
 
+### Lecture-Notes
+- [tutorial08.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/resources/tutorial08/)
+- [tutorial07.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/resources/tutorial07/)
+- [tutorial06.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/resources/tutorial06/)
+- [tutorial05.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/resources/tutorial05/)
+- [tutorial04.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/resources/tutorial04/)
+- [tutorial03.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/resources/tutorial03/)
+- [tutorial02.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/resources/tutorial02/)
+- [tutorial01.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/resources/tutorial01/)
+- [tutorial00.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/resources/tutorial00/)
+- [MATLAB tutorial.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/resources/matlab_t/)
+- [Lecture Notes](https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/pages/lecture-notes/)
+
+### Assignment
+- [Project.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/resources/project/)
+
+### Resource
+- [res-18-002s08.jpg (.jpg)](https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/resources/res-18-002s08/)
+- [res-18-002s08-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/resources/res-18-002s08-th/)
+- [Questions and Answers](https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/pages/questions-and-answers/)
+- [MATLAB Manual](http://www.mathworks.com/access/helpdesk/help/pdf_doc/matlab/getstart.pdf)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 185
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:49:45Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 2"
+api_id: 5660
 ---
 
 # South Asian Migrations
@@ -30,8 +33,17 @@ This course provides a global history of South Asians and introduces students to
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-357-south-asian-migrations-spring-2018/pages/calendar/)
+- **Readings and Videos** — [🔗](https://ocw.mit.edu/courses/21h-357-south-asian-migrations-spring-2018/pages/readings-and-videos/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-357-south-asian-migrations-spring-2018/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-357-south-asian-migrations-spring-2018/pages/assignments/)
+
+### Resource
+- [21H-357s18.jpg (.jpg)](https://ocw.mit.edu/courses/21h-357-south-asian-migrations-spring-2018/resources/21h-357s18/)
+- [21H-357s18-th.jpg (.jpg)](https://ocw.mit.edu/courses/21h-357-south-asian-migrations-spring-2018/resources/21h-357s18-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

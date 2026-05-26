@@ -12,6 +12,9 @@ views: 328
 completeness: 0.4
 last_modified: "2026-05-06T17:10:16Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 25, Problem-Set: 9, Reading-List: 2, Resource: 4, Syllabus: 2"
+api_id: 3806
 ---
 
 # Law for the Entrepreneur and Manager
@@ -32,8 +35,55 @@ The goal of the course is not to impart technical legal skills, but to enhance t
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [xmullintbmp.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/xmullintbmp/)
+- [goldberglecturev1.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/goldberglecturev1/)
+- [doc9covenants.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc9covenants/)
+- [doc8loyalty.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc8loyalty/)
+- [doc7227notes.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc7227notes/)
+- [doc6extra.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc6extra/)
+- [doc50220notes.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc50220notes/)
+- [doc40213.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc40213/)
+- [doc3026.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc3026/)
+- [doc22058notes.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc22058notes/)
+- [doc21fidelity.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc21fidelity/)
+- [doc2024.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc2024/)
+- [doc200424notes.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc200424notes/)
+- [doc190415notes.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc190415notes/)
+- [doc180411notes.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc180411notes/)
+- [doc17extra3.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc17extra3/)
+- [doc16043notes.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc16043notes/)
+- [doc15041notes.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc15041notes/)
+- [doc14_extra.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc14_extra/)
+- [doc130313notes.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc130313notes/)
+- [doc120311notes.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc120311notes/)
+- [doc110306notes.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc110306notes/)
+- [doc10034notes.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/doc10034notes/)
+- [bankruptcyoutline.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/bankruptcyoutline/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/pages/lecture-notes/)
+
+### Reading-List
+- [tortlawinapeanut.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/tortlawinapeanut/)
+- [Readings](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/pages/readings/)
+
+### Problem-Set
+- [spring02final.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/spring02final/)
+- [midtermspr02.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/midtermspr02/)
+- [615f02midterm.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/615f02midterm/)
+- [615f02finalfnl.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/615f02finalfnl/)
+- [2001midterm.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/2001midterm/)
+- [2001final.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/2001final/)
+- [2000midterm.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/2000midterm/)
+- [2000final.pdf (.pdf)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/2000final/)
+- [Exams](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/pages/exams/)
+
+### Resource
+- [15-615s03.jpg (.jpg)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/15-615s03/)
+- [15-615s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/resources/15-615s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

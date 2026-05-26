@@ -12,6 +12,9 @@ views: 174
 completeness: 0.0
 last_modified: "2026-05-06T14:46:43Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 3728
 ---
 
 # BioNook Online Biology Resources
@@ -31,8 +34,9 @@ Explore free materials on biology and research—from deep explorations of how s
 
 ## Materials
 
-- [Other Video] Other Video
-
+### Resource
+- [res-7-004-s22.jpg (.jpg)](https://ocw.mit.edu/courses/res-7-004-bionook-online-biology-resources-spring-2021/resources/res-7-004-s22/)
+- [res-7-004-s22-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-7-004-bionook-online-biology-resources-spring-2021/resources/res-7-004-s22-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

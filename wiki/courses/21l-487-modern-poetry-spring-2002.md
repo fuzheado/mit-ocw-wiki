@@ -12,6 +12,9 @@ views: 356
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:05:42Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 5641
 ---
 
 # Modern Poetry
@@ -32,10 +35,21 @@ We’ll read poems that pay attention both to this disillusionment and to the co
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-487-modern-poetry-spring-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-487-modern-poetry-spring-2002/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-487-modern-poetry-spring-2002/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-487-modern-poetry-spring-2002/pages/assignments/)
+
+### Resource
+- [In Praise of Bad Translations: Ezra Pound and the Cultural Work of Translation (.pdf)](https://ocw.mit.edu/courses/21l-487-modern-poetry-spring-2002/resources/bad_trans1/)
+- [William Butler Yeats (.jpg)](https://ocw.mit.edu/courses/21l-487-modern-poetry-spring-2002/resources/21l-487s02/)
+- [William Butler Yeats (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-487-modern-poetry-spring-2002/resources/21l-487s02-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21l-487-modern-poetry-spring-2002/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

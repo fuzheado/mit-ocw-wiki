@@ -12,6 +12,9 @@ views: 919
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T14:55:00Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 7, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 1"
+api_id: 3644
 ---
 
 # Introduction to Media Studies
@@ -31,9 +34,26 @@ Over the course of the semester we explore different theoretical perspectives on
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2003/pages/readings/)
+
+### Problem-Set
+- [Oral and Written Assignment #1: Section: Media "Show and Tell" (.pdf)](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2003/resources/show_and_tell/)
+- [Section Writing Assignment (.pdf)](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2003/resources/section_assign/)
+- [Final Research Project Sequence (.pdf)](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2003/resources/final_project/)
+- [Essay #3 (.pdf)](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2003/resources/essay3media/)
+- [Essay 2: Thinking About Print Culture (.pdf)](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2003/resources/essay2/)
+- [Essay #1 (.pdf)](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2003/resources/essay1media/)
+- [Assignments](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2003/pages/assignments/)
+
+### Resource
+- [Media Artifacts (.gif)](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2003/resources/21l-015f03/)
+- [Media Artifacts (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2003/resources/21l-015f03-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21l-015-introduction-to-media-studies-fall-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

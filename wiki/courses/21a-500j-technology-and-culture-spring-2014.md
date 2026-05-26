@@ -12,6 +12,9 @@ views: 325
 completeness: 0.06
 last_modified: "2026-05-06T17:22:17Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4835
 ---
 
 # Technology and Culture
@@ -30,8 +33,21 @@ This subject examines relationships among technology, culture, and politics in a
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-500j-technology-and-culture-spring-2014/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-500j-technology-and-culture-spring-2014/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21a-500j-technology-and-culture-spring-2014/pages/readings/)
+
+### Problem-Set
+- [The Grid (.pdf)](https://ocw.mit.edu/courses/21a-500j-technology-and-culture-spring-2014/resources/mit21a_500js14_the_grid/)
+- [“Glyph” – A Step Towards Isolation (.pdf)](https://ocw.mit.edu/courses/21a-500j-technology-and-culture-spring-2014/resources/mit21a_500js14_the_glyph/)
+- [Assignments](https://ocw.mit.edu/courses/21a-500j-technology-and-culture-spring-2014/pages/assignments/)
+
+### Resource
+- [Wearable Technology (.jpg)](https://ocw.mit.edu/courses/21a-500j-technology-and-culture-spring-2014/resources/21a-500js14/)
+- [Wearable Technology (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21a-500j-technology-and-culture-spring-2014/resources/21a-500js14-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

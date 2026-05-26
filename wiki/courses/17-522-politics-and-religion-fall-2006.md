@@ -12,6 +12,9 @@ views: 216
 completeness: 0.12
 last_modified: "2026-05-06T17:24:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 6, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 3689
 ---
 
 # Politics and Religion
@@ -30,8 +33,23 @@ This graduate reading seminar explores the role of religious groups, institution
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-522-politics-and-religion-fall-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-522-politics-and-religion-fall-2006/pages/readings/)
+
+### Problem-Set
+- [paper5.pdf (.pdf)](https://ocw.mit.edu/courses/17-522-politics-and-religion-fall-2006/resources/paper5/)
+- [paper4.pdf (.pdf)](https://ocw.mit.edu/courses/17-522-politics-and-religion-fall-2006/resources/paper4/)
+- [paper3.pdf (.pdf)](https://ocw.mit.edu/courses/17-522-politics-and-religion-fall-2006/resources/paper3/)
+- [paper2.pdf (.pdf)](https://ocw.mit.edu/courses/17-522-politics-and-religion-fall-2006/resources/paper2/)
+- [paper1.pdf (.pdf)](https://ocw.mit.edu/courses/17-522-politics-and-religion-fall-2006/resources/paper1/)
+- [Assignments](https://ocw.mit.edu/courses/17-522-politics-and-religion-fall-2006/pages/assignments/)
+
+### Resource
+- [17-522f06.jpg (.jpg)](https://ocw.mit.edu/courses/17-522-politics-and-religion-fall-2006/resources/17-522f06/)
+- [17-522f06-th.jpg (.jpg)](https://ocw.mit.edu/courses/17-522-politics-and-religion-fall-2006/resources/17-522f06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

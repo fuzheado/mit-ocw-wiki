@@ -12,6 +12,9 @@ views: 757
 completeness: 0.0
 last_modified: "2026-05-06T16:58:08Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 3"
+api_id: 5701
 ---
 
 # Just Money: Banking as if Society Mattered
@@ -33,8 +36,10 @@ Go to OCW’s Open Learning Library site for 11.405x: Just Money: Banking as if 
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [11.405 Course Home Page Image (.png)](https://ocw.mit.edu/courses/11-405-just-money-banking-as-if-society-mattered-spring-2021/resources/11-405s21/)
+- [11.405 Thumbnail Image (.png)](https://ocw.mit.edu/courses/11-405-just-money-banking-as-if-society-mattered-spring-2021/resources/11-405s21-th/)
+- [Syllabus](https://ocw.mit.edu/courses/11-405-just-money-banking-as-if-society-mattered-spring-2021/pages/syllabus/)
 ## Wikipedia Bridge
 
 ### Related Articles

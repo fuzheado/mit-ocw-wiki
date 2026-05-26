@@ -12,6 +12,9 @@ views: 87
 completeness: 0.09500000000000001
 last_modified: "2026-05-06T17:03:58Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 3, Problem-Set: 1, Reading-List: 2, Resource: 4, Syllabus: 2"
+api_id: 4048
 ---
 
 # Topics in Culture and Globalization
@@ -30,10 +33,25 @@ The concept of globalization fosters the understanding of the interconnectedness
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-035-topics-in-culture-and-globalization-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-035-topics-in-culture-and-globalization-fall-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [Anthropology and Culture Theory (.pdf)](https://ocw.mit.edu/courses/21g-035-topics-in-culture-and-globalization-fall-2003/resources/mit21g_035f03_l14/)
+- [Performance and Power in Japanese Hip-Hop (.pdf)](https://ocw.mit.edu/courses/21g-035-topics-in-culture-and-globalization-fall-2003/resources/mit21g_035f03_l08/)
+- [Lecture Notes](https://ocw.mit.edu/courses/21g-035-topics-in-culture-and-globalization-fall-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Introduction (.pdf)](https://ocw.mit.edu/courses/21g-035-topics-in-culture-and-globalization-fall-2003/resources/mit21g_035f03_condry_jhh2/)
+- [Readings](https://ocw.mit.edu/courses/21g-035-topics-in-culture-and-globalization-fall-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21g-035-topics-in-culture-and-globalization-fall-2003/pages/assignments/)
+
+### Resource
+- [21g-035f03.jpg (.jpg)](https://ocw.mit.edu/courses/21g-035-topics-in-culture-and-globalization-fall-2003/resources/21g-035f03/)
+- [21g-035f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-035-topics-in-culture-and-globalization-fall-2003/resources/21g-035f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

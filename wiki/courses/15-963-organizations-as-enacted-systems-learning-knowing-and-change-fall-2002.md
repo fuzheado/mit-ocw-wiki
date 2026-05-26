@@ -12,6 +12,9 @@ views: 298
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:03:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5794
 ---
 
 # Organizations as Enacted Systems: Learning, Knowing and Change
@@ -30,8 +33,19 @@ The course is structured around a core of fundamental concepts concerning how we
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-963-organizations-as-enacted-systems-learning-knowing-and-change-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-963-organizations-as-enacted-systems-learning-knowing-and-change-fall-2002/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-963-organizations-as-enacted-systems-learning-knowing-and-change-fall-2002/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-963-organizations-as-enacted-systems-learning-knowing-and-change-fall-2002/pages/assignments/)
+
+### Resource
+- [Two Arrows in a Circle (.jpg)](https://ocw.mit.edu/courses/15-963-organizations-as-enacted-systems-learning-knowing-and-change-fall-2002/resources/15-963f02/)
+- [Two Arrows in a Circle (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-963-organizations-as-enacted-systems-learning-knowing-and-change-fall-2002/resources/15-963f02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

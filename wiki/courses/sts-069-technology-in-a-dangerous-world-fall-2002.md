@@ -12,6 +12,9 @@ views: 250
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:57:39Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 4, Resource: 12, Syllabus: 2, Video-Transcript: 8"
+api_id: 5645
 ---
 
 # Technology in a  Dangerous World
@@ -30,10 +33,30 @@ Aim is to analyze important current events for what they reveal about the nature
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
-- [Workshop Videos] Workshop Videos
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/sts-069-technology-in-a-dangerous-world-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-069-technology-in-a-dangerous-world-fall-2002/pages/syllabus/)
 
+### Reading-List
+- [vestspeech.pdf (.pdf)](https://ocw.mit.edu/courses/sts-069-technology-in-a-dangerous-world-fall-2002/resources/vestspeech/)
+- [readingquestion2.pdf (.pdf)](https://ocw.mit.edu/courses/sts-069-technology-in-a-dangerous-world-fall-2002/resources/readingquestion2/)
+- [readingquestion1.pdf (.pdf)](https://ocw.mit.edu/courses/sts-069-technology-in-a-dangerous-world-fall-2002/resources/readingquestion1/)
+- [Readings](https://ocw.mit.edu/courses/sts-069-technology-in-a-dangerous-world-fall-2002/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/sts-069-technology-in-a-dangerous-world-fall-2002/pages/assignments/)
+
+### Resource
+- [syllabus.pdf (.pdf)](https://ocw.mit.edu/courses/sts-069-technology-in-a-dangerous-world-fall-2002/resources/syllabus/)
+- [stssummary.pdf (.pdf)](https://ocw.mit.edu/courses/sts-069-technology-in-a-dangerous-world-fall-2002/resources/stssummary/)
+- [STS092syllabus.pdf (.pdf)](https://ocw.mit.edu/courses/sts-069-technology-in-a-dangerous-world-fall-2002/resources/sts092syllabus/)
+- [sts069davidmpresentation.pdf (.pdf)](https://ocw.mit.edu/courses/sts-069-technology-in-a-dangerous-world-fall-2002/resources/sts069davidmpresentation/)
+- [sts-069f02.gif (.gif)](https://ocw.mit.edu/courses/sts-069-technology-in-a-dangerous-world-fall-2002/resources/sts-069f02/)
+- [sts-069f02-th.jpg (.jpg)](https://ocw.mit.edu/courses/sts-069-technology-in-a-dangerous-world-fall-2002/resources/sts-069f02-th/)
+- [commentary.pdf (.pdf)](https://ocw.mit.edu/courses/sts-069-technology-in-a-dangerous-world-fall-2002/resources/commentary/)
+- [Study Materials](https://ocw.mit.edu/courses/sts-069-technology-in-a-dangerous-world-fall-2002/pages/study-materials/)
+- [Student Anthology](https://ocw.mit.edu/courses/sts-069-technology-in-a-dangerous-world-fall-2002/pages/student-anthology/)
+- [Related Resources 📺Video](https://ocw.mit.edu/courses/sts-069-technology-in-a-dangerous-world-fall-2002/video_galleries/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

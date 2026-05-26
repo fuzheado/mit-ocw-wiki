@@ -12,6 +12,9 @@ views: 207
 completeness: 0.2
 last_modified: "2026-05-06T15:04:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 14, Reading-List: 1, Resource: 4, Syllabus: 1, Video-Transcript: 4"
+api_id: 5552
 ---
 
 # Cross-Cultural Perspectives on Contemporary French Society
@@ -30,8 +33,32 @@ This course is an intermediate subject designed to help students gradually build
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/pages/readings/)
+
+### Problem-Set
+- [Week 9 Homework (.pdf)](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/resources/mit21g_315f11_hmkwk9/)
+- [Week 8 Homework (.pdf)](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/resources/mit21g_315f11_hmkwk8/)
+- [Week 7 Homework  (.pdf)](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/resources/mit21g_315f11_hmkwk7/)
+- [Week 6 Homework (.pdf)](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/resources/mit21g_315f11_hmkwk6/)
+- [Week 5 Homework  (.pdf)](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/resources/mit21g_315f11_hmkwk5/)
+- [Week 4 Homework (.pdf)](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/resources/mit21g_315f11_hmkwk4/)
+- [Week 3 Homework (.pdf)](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/resources/mit21g_315f11_hmkwk3/)
+- [Week 2 Homework (.pdf)](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/resources/mit21g_315f11_hmkwk2/)
+- [Weeks 14-15 Homework (.pdf)](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/resources/mit21g_315f11_hmkwk14_15/)
+- [Week 13 Homework (.pdf)](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/resources/mit21g_315f11_hmkwk13/)
+- [Week 12 Homework (.pdf)](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/resources/mit21g_315f11_hmkwk12/)
+- [Week 11 Homework (.pdf)](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/resources/mit21g_315f11_hmkwk11/)
+- [Week 10 Homework (.pdf)](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/resources/mit21g_315f11_hmkwk10/)
+- [Assignments](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/pages/assignments/)
+
+### Resource
+- [21g-315f11.jpg (.jpg)](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/resources/21g-315f11/)
+- [21g-315f11-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/resources/21g-315f11-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

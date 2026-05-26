@@ -12,6 +12,9 @@ views: 227
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T14:54:13Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 4, Syllabus: 1, Video-Transcript: 4"
+api_id: 4170
 ---
 
 # Non-violence as a Way of Life
@@ -31,8 +34,17 @@ This course is part of the Experimental Study Group at MIT.
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Readings and Videos** — [🔗](https://ocw.mit.edu/courses/es-114-non-violence-as-a-way-of-life-fall-2018/pages/readingsandvideos/)
+- **Syllabus and Calendar** — [🔗](https://ocw.mit.edu/courses/es-114-non-violence-as-a-way-of-life-fall-2018/pages/syllabusandcalendar/)
 
+### Problem-Set
+- [ES.114_F18 Assignments: Writing a Paper For Me (.pdf)](https://ocw.mit.edu/courses/es-114-non-violence-as-a-way-of-life-fall-2018/resources/mites_114f18_writing_a_paper/)
+- [Assignments](https://ocw.mit.edu/courses/es-114-non-violence-as-a-way-of-life-fall-2018/pages/assignments/)
+
+### Resource
+- [ES-114f18.jpg (.jpg)](https://ocw.mit.edu/courses/es-114-non-violence-as-a-way-of-life-fall-2018/resources/es-114f18/)
+- [ES-114f18-th.jpg (.jpg)](https://ocw.mit.edu/courses/es-114-non-violence-as-a-way-of-life-fall-2018/resources/es-114f18-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 141
 completeness: 0.008333333333333333
 last_modified: "2026-05-06T17:14:45Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3735
 ---
 
 # Transportation Policy, Strategy, and Management
@@ -30,8 +33,19 @@ This class surveys the current concepts, theories, and issues in strategic manag
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/1-223j-transportation-policy-strategy-and-management-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/1-223j-transportation-policy-strategy-and-management-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/1-223j-transportation-policy-strategy-and-management-fall-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/1-223j-transportation-policy-strategy-and-management-fall-2004/pages/readings/)
+
+### Resource
+- [Brooklyn Bridge (.jpg)](https://ocw.mit.edu/courses/1-223j-transportation-policy-strategy-and-management-fall-2004/resources/1-223jf04/)
+- [Brooklyn Bridge (thumbnail) (.jpg)](https://ocw.mit.edu/courses/1-223j-transportation-policy-strategy-and-management-fall-2004/resources/1-223jf04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

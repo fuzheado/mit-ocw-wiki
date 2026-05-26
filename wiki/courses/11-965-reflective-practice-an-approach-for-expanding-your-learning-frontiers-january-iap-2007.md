@@ -12,6 +12,8 @@ views: 330
 completeness: 0.3400000000000001
 last_modified: "2026-05-06T14:50:13Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Syllabus: 2, Video-Transcript: 21"
 ---
 
 # Reflective Practice: An Approach for Expanding Your Learning Frontiers
@@ -31,10 +33,27 @@ The objective of the course is to introduce students to the approach and methods
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Written Assignments] Written Assignments
+### Lectures
+- **Lecture 10: Frontiers of Schön&#39;s Approach and Its Relevance in the 21st Century** — [🎬](https://youtu.be/WbQYpeXWKHI) · [🔗](https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/video_galleries/lecture-videos-notes/)
+- **Lecture 1: Introduction to Reflective Practice** — [🎬](https://youtu.be/QfuVAKCO61M) · [🔗](https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/video_galleries/lecture-videos-notes/)
+- **Lecture 2: The Practice of Reflection** — [🎬](https://youtu.be/IxaTNJh9rXA) · [🔗](https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/video_galleries/lecture-videos-notes/)
+- **Lecture 3: Ways of Knowledge Generation** — [🎬](https://youtu.be/AZVum94i7R0) · [🔗](https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/video_galleries/lecture-videos-notes/)
+- **Lecture 4: Theories, Knowledge and Practice** — [🎬](https://youtu.be/9QVLu0n_bzg) · [🔗](https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/video_galleries/lecture-videos-notes/)
+- **Lecture 5: Virtual Worlds and Their Role in Creative Work** — [🎬](https://youtu.be/SsHQjxYJI94) · [🔗](https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/video_galleries/lecture-videos-notes/)
+- **Lecture 6: Frames, Perceptions and Interpretations** — [🎬](https://youtu.be/MqJW8ABqDpA) · [🔗](https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/video_galleries/lecture-videos-notes/)
+- **Lecture 7: Reframing for Resolving Intractable Controversies** — [🎬](https://youtu.be/AivFineIBqA) · [🔗](https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/video_galleries/lecture-videos-notes/)
+- **Lecture 8: Reframing for Strategic Creativity** — [🎬](https://youtu.be/yffHXdEQO08) · [🔗](https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/video_galleries/lecture-videos-notes/)
+- **Lecture 9: Conceptual Learning** — [🎬](https://youtu.be/VE-QUqS7ohs) · [🔗](https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/video_galleries/lecture-videos-notes/)
 
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/pages/calendar/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/pages/assignments/)
 ## Wikipedia Bridge
 
 ### Related Articles

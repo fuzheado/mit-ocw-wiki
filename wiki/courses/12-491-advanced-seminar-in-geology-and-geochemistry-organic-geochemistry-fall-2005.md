@@ -12,6 +12,9 @@ views: 267
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:51:13Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5767
 ---
 
 # Advanced Seminar in Geology and Geochemistry: Organic Geochemistry
@@ -30,8 +33,19 @@ type: "course"
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/12-491-advanced-seminar-in-geology-and-geochemistry-organic-geochemistry-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-491-advanced-seminar-in-geology-and-geochemistry-organic-geochemistry-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-491-advanced-seminar-in-geology-and-geochemistry-organic-geochemistry-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/12-491-advanced-seminar-in-geology-and-geochemistry-organic-geochemistry-fall-2005/pages/assignments/)
+
+### Resource
+- [Structure of a Sterane Molecule (.jpg)](https://ocw.mit.edu/courses/12-491-advanced-seminar-in-geology-and-geochemistry-organic-geochemistry-fall-2005/resources/12-491f05/)
+- [Structure of a Sterane Molecule (thumbnail) (.jpg)](https://ocw.mit.edu/courses/12-491-advanced-seminar-in-geology-and-geochemistry-organic-geochemistry-fall-2005/resources/12-491f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

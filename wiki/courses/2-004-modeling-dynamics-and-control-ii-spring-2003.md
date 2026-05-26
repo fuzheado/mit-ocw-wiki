@@ -12,6 +12,9 @@ views: 272
 completeness: 0.2
 last_modified: "2026-05-06T14:47:28Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 16, Reading-List: 1, Resource: 30, Syllabus: 2"
+api_id: 4681
 ---
 
 # Modeling Dynamics and Control II
@@ -42,9 +45,60 @@ applications to case-studies of multi-domain systems
 
 ## Materials
 
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/pages/calendar/)
+- **Labs** — [🔗](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/pages/labs/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/pages/readings/)
+
+### Problem-Set
+- [ps8_spring03.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/ps8_spring03/)
+- [ps7_spring03_sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/ps7_spring03_sol/)
+- [ps7_spring03.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/ps7_spring03/)
+- [ps6_spring03_sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/ps6_spring03_sol/)
+- [ps6_spring03.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/ps6_spring03/)
+- [ps5_spring03_sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/ps5_spring03_sol/)
+- [ps5_spring03.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/ps5_spring03/)
+- [ps4_spring03_sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/ps4_spring03_sol/)
+- [ps4_spring03.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/ps4_spring03/)
+- [ps3_spring03_sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/ps3_spring03_sol/)
+- [ps3_spring03.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/ps3_spring03/)
+- [ps2_spring03_sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/ps2_spring03_sol/)
+- [ps2_spring03.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/ps2_spring03/)
+- [ps1_spring03_sol.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/ps1_spring03_sol/)
+- [ps1_spring03.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/ps1_spring03/)
+- [Assignments](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/pages/assignments/)
+
+### Resource
+- [setupsmd.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/setupsmd/)
+- [setupfourth.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/setupfourth/)
+- [setupcoupled.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/setupcoupled/)
+- [setup.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/setup/)
+- [primer35.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/primer35/)
+- [Prelab6.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/prelab6/)
+- [PreLab5Soln.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/prelab5soln/)
+- [Prelab5.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/prelab5/)
+- [PreLab4Soln.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/prelab4soln/)
+- [Prelab4.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/prelab4/)
+- [PreLab3Soln.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/prelab3soln/)
+- [Prelab3.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/prelab3/)
+- [PreLab2Soln.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/prelab2soln/)
+- [Prelab2.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/prelab2/)
+- [Prelab1.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/prelab1/)
+- [Lab_Syllabus.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/lab_syllabus/)
+- [Lab6.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/lab6/)
+- [Lab5Soln.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/lab5soln/)
+- [Lab5.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/lab5/)
+- [Lab4.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/lab4/)
+- [Lab3Soln.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/lab3soln/)
+- [Lab3.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/lab3/)
+- [Lab2.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/lab2/)
+- [Lab1Soln.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/lab1soln/)
+- [Lab1.pdf (.pdf)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/lab1/)
+- [2-004s03.jpg (.jpg)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/2-004s03/)
+- [2-004s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/resources/2-004s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

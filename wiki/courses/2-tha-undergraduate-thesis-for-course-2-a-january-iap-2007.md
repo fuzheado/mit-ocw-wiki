@@ -12,6 +12,8 @@ views: 183
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T15:03:23Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Resource: 1, Syllabus: 1"
 ---
 
 # Undergraduate Thesis for Course 2-A
@@ -31,8 +33,14 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/pages/assignments/)
+
+### Resource
+- [Related Resources](https://ocw.mit.edu/courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

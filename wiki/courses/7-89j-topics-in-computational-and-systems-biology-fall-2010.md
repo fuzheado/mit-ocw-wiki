@@ -12,6 +12,9 @@ views: 366
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:55:22Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 3, Resource: 2, Syllabus: 1"
+api_id: 4405
 ---
 
 # Topics in Computational and Systems Biology
@@ -31,8 +34,19 @@ The MIT Initiative in Computational and Systems Biology (CSBi) is a campus-wide 
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/7-89j-topics-in-computational-and-systems-biology-fall-2010/pages/syllabus/)
 
+### Reading-List
+- [Statistics and Probability Primer for Computational Biologists (.pdf)](https://ocw.mit.edu/courses/7-89j-topics-in-computational-and-systems-biology-fall-2010/resources/mit7_89jf10_statsprimer/)
+- [Notes on Reading Papers and Leading a Discussion about a Paper  (.pdf)](https://ocw.mit.edu/courses/7-89j-topics-in-computational-and-systems-biology-fall-2010/resources/mit7_89jf10_notes_on_read/)
+- [Readings](https://ocw.mit.edu/courses/7-89j-topics-in-computational-and-systems-biology-fall-2010/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/7-89j-topics-in-computational-and-systems-biology-fall-2010/pages/assignments/)
+
+### Resource
+- [A diagram composed of purple lines, boxes, arrows, and green text, slightly resembling a circuit (.jpg)](https://ocw.mit.edu/courses/7-89j-topics-in-computational-and-systems-biology-fall-2010/resources/7-89jf10/)
 ## Wikipedia Bridge
 
 ### Related Articles

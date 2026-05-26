@@ -12,6 +12,9 @@ views: 134
 completeness: 0.18000000000000002
 last_modified: "2026-05-06T17:23:30Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 9, Reading-List: 6, Resource: 4, Syllabus: 2"
+api_id: 4024
 ---
 
 # Introduction to Planning & Institutional Processes in Developing Countries
@@ -30,8 +33,32 @@ This introductory course helps students learn to pose questions and analyze prob
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/pages/syllabus/)
 
+### Reading-List
+- [tendlerwrldbank2b.pdf (.pdf)](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/resources/tendlerwrldbank2b/)
+- [tendlerwrldbank2a.pdf (.pdf)](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/resources/tendlerwrldbank2a/)
+- [tendlerchapter1.pdf (.pdf)](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/resources/tendlerchapter1/)
+- [tendler_worldbank2.pdf (.pdf)](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/resources/tendler_worldbank2/)
+- [tendler_worldbank.pdf (.pdf)](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/resources/tendler_worldbank/)
+- [Readings](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/pages/readings/)
+
+### Problem-Set
+- [assign5.pdf (.pdf)](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/resources/assign5/)
+- [assign4.pdf (.pdf)](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/resources/assign4/)
+- [assign3example.pdf (.pdf)](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/resources/assign3example/)
+- [assign3ex2.pdf (.pdf)](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/resources/assign3ex2/)
+- [assign3.pdf (.pdf)](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/resources/assign3/)
+- [assign2.pdf (.pdf)](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/resources/assign2/)
+- [assign1ex1.pdf (.pdf)](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/resources/assign1ex1/)
+- [assign1.pdf (.pdf)](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/resources/assign1/)
+- [Assignments](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/pages/assignments/)
+
+### Resource
+- [11-701f03.jpg (.jpg)](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/resources/11-701f03/)
+- [11-701f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/resources/11-701f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

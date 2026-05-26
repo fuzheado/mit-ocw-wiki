@@ -12,6 +12,9 @@ views: 196
 completeness: 0.0
 last_modified: "2026-05-06T17:10:11Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5741
 ---
 
 # Out of Ground Zero: Catastrophe and Memory
@@ -30,8 +33,17 @@ Within twenty-four hours of the attack on the World Trade Center on September 11
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-013-out-of-ground-zero-catastrophe-and-memory-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-013-out-of-ground-zero-catastrophe-and-memory-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-013-out-of-ground-zero-catastrophe-and-memory-fall-2005/pages/readings/)
+
+### Resource
+- [Beam from the World Trade Center (.jpg)](https://ocw.mit.edu/courses/21g-013-out-of-ground-zero-catastrophe-and-memory-fall-2005/resources/21g-013f05/)
+- [Beam from the World Trade Center (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-013-out-of-ground-zero-catastrophe-and-memory-fall-2005/resources/21g-013f05-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21g-013-out-of-ground-zero-catastrophe-and-memory-fall-2005/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

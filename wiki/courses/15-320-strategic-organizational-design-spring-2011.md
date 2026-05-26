@@ -12,6 +12,9 @@ views: 537
 completeness: 0.09166666666666667
 last_modified: "2026-05-06T14:42:04Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 11, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 3350
 ---
 
 # Strategic Organizational Design
@@ -30,9 +33,33 @@ type: course
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-320-strategic-organizational-design-spring-2011/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-320-strategic-organizational-design-spring-2011/pages/syllabus/)
 
+### Lecture-Notes
+- [MIT15_320S11_lec24.pdf (.pdf)](https://ocw.mit.edu/courses/15-320-strategic-organizational-design-spring-2011/resources/mit15_320s11_lec24/)
+- [MIT15_320S11_lec18.pdf (.pdf)](https://ocw.mit.edu/courses/15-320-strategic-organizational-design-spring-2011/resources/mit15_320s11_lec18/)
+- [MIT15_320S11_lec16.pdf (.pdf)](https://ocw.mit.edu/courses/15-320-strategic-organizational-design-spring-2011/resources/mit15_320s11_lec16/)
+- [MIT15_320S11_lec14.pdf (.pdf)](https://ocw.mit.edu/courses/15-320-strategic-organizational-design-spring-2011/resources/mit15_320s11_lec14/)
+- [MIT15_320S11_lec12.pdf (.pdf)](https://ocw.mit.edu/courses/15-320-strategic-organizational-design-spring-2011/resources/mit15_320s11_lec12/)
+- [MIT15_320S11_lec10.pdf (.pdf)](https://ocw.mit.edu/courses/15-320-strategic-organizational-design-spring-2011/resources/mit15_320s11_lec10/)
+- [MIT15_320S11_lec05.pdf (.pdf)](https://ocw.mit.edu/courses/15-320-strategic-organizational-design-spring-2011/resources/mit15_320s11_lec05/)
+- [MIT15_320S11_lec03.pdf (.pdf)](https://ocw.mit.edu/courses/15-320-strategic-organizational-design-spring-2011/resources/mit15_320s11_lec03/)
+- [MIT15_320S11_lec02.pdf (.pdf)](https://ocw.mit.edu/courses/15-320-strategic-organizational-design-spring-2011/resources/mit15_320s11_lec02/)
+- [MIT15_320S11_lec01.pdf (.pdf)](https://ocw.mit.edu/courses/15-320-strategic-organizational-design-spring-2011/resources/mit15_320s11_lec01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-320-strategic-organizational-design-spring-2011/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-320-strategic-organizational-design-spring-2011/pages/readings/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/15-320-strategic-organizational-design-spring-2011/pages/projects/)
+
+### Resource
+- [15-320s11.jpg (.jpg)](https://ocw.mit.edu/courses/15-320-strategic-organizational-design-spring-2011/resources/15-320s11/)
+- [15-320s11-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-320-strategic-organizational-design-spring-2011/resources/15-320s11-th/)
+- [Study Questions](https://ocw.mit.edu/courses/15-320-strategic-organizational-design-spring-2011/pages/study-questions/)
 ## Wikipedia Bridge
 
 ### Related Articles

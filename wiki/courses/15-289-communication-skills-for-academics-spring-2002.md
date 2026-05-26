@@ -12,6 +12,9 @@ views: 1031
 completeness: 0.10500000000000001
 last_modified: "2026-05-06T15:03:20Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 3, Problem-Set: 4, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5798
 ---
 
 # Communication Skills for Academics
@@ -31,10 +34,28 @@ The purpose of this course, then, is threefold. First, the course will acquaint 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-289-communication-skills-for-academics-spring-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-289-communication-skills-for-academics-spring-2002/pages/syllabus/)
 
+### Lecture-Notes
+- [Writing Peer Reviews of Manuscripts  (.pdf)](https://ocw.mit.edu/courses/15-289-communication-skills-for-academics-spring-2002/resources/teach_note_pee_rev/)
+- [Giving Oral Presentations (.pdf)](https://ocw.mit.edu/courses/15-289-communication-skills-for-academics-spring-2002/resources/289presentation/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-289-communication-skills-for-academics-spring-2002/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-289-communication-skills-for-academics-spring-2002/pages/readings/)
+
+### Problem-Set
+- [Written Assignment (.pdf)](https://ocw.mit.edu/courses/15-289-communication-skills-for-academics-spring-2002/resources/writtenassn_2002/)
+- [Journal or Conference Paper Review Assignment (.pdf)](https://ocw.mit.edu/courses/15-289-communication-skills-for-academics-spring-2002/resources/peer_rev_assn_2002/)
+- [Oral Presentation Assignment (.pdf)](https://ocw.mit.edu/courses/15-289-communication-skills-for-academics-spring-2002/resources/oralassn2002/)
+- [Assignments](https://ocw.mit.edu/courses/15-289-communication-skills-for-academics-spring-2002/pages/assignments/)
+
+### Resource
+- [Pen and Paper (.jpg)](https://ocw.mit.edu/courses/15-289-communication-skills-for-academics-spring-2002/resources/15-289s02/)
+- [Pen and Paper (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-289-communication-skills-for-academics-spring-2002/resources/15-289s02-th/)
+- [Study Materials](https://ocw.mit.edu/courses/15-289-communication-skills-for-academics-spring-2002/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

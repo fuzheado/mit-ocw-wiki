@@ -12,6 +12,9 @@ views: 190
 completeness: 0.14333333333333334
 last_modified: "2026-05-06T17:17:26Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 10, Problem-Set: 3, Reading-List: 1, Resource: 10, Syllabus: 2, Video-Transcript: 4"
+api_id: 4189
 ---
 
 # Current Debates in Media
@@ -30,12 +33,39 @@ This class addresses important, current debates in media with in-depth discussio
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Lecture Audio] Lecture Audio
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/pages/syllabus/)
 
+### Lecture-Notes
+- [CMS.701s15 Stereotypes and Agency Lecture Notes (.pdf)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/resources/mitcms_701s15_stereotype/)
+- [CMS.701s15 Propaganda Survival Guide (.pdf)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/resources/mitcms_701s15_srvivalguid/)
+- [CMS.701s15 Socialization and Intimacy in Digital Environments Lecture Notes (.pdf)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/resources/mitcms_701s15_socializtion/)
+- [CMS.701s15 Propaganda and Censorship Lecture Notes (.pdf)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/resources/mitcms_701s15_propaganda/)
+- [CMS.701s15 Participatory Culture Lecture Notes (.pdf)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/resources/mitcms_701s15_partculture/)
+- [CMS.701 Media Violence Lecture Notes (.pdf)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/resources/mitcms_701s15_mediavoil/)
+- [CMS.701s15 Course Ideologies and Conceptual Maps Lecture Notes (.pdf)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/resources/mitcms_701s15_ideologies/)
+- [CMS.701s15 Collective Intelligence vs. the Expert Paradigm Lecture Notes (.pdf)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/resources/mitcms_701s15_colleintelli/)
+- [CMS.701s15 Big Data Lecture Notes (.pdf)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/resources/mitcms_701s15_bigdata/)
+- [Lecture Notes](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/pages/readings/)
+
+### Problem-Set
+- [CMS.701s15 Final Paper Student Examples (.pdf)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/resources/mitcms_701s15_finalpaper/)
+- [CMS.701s15 Dissertation Guidelines (.pdf)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/resources/mitcms_701s15_dissrtation/)
+- [Assignments](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/pages/assignments/)
+
+### Resource
+- [CMS.701s15 List of References (.pdf)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/resources/mitcms_701s15_references/)
+- [CMS-701s15.jpg (.jpg)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/resources/cms-701s15/)
+- [CMS-701s15-th.jpg (.jpg)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/resources/cms-701s15-th/)
+- [290x180-Classroom-photo.jpg (.jpg)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/resources/290x180-classroom-photo/)
+- [15.png (.png)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/resources/15/)
+- [Related Resources](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/pages/related-resources/)
+- [Instructor Insights](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/pages/instructor-insights/)
+- [Audio Lectures 📺Video](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/video_galleries/audio-lectures/)
 ## Wikipedia Bridge
 
 ### Related Articles

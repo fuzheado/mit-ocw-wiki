@@ -12,6 +12,9 @@ views: 175
 completeness: 0.0
 last_modified: "2026-05-06T16:48:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 20, Resource: 6, Syllabus: 2"
+api_id: 5085
 ---
 
 # Experimental Projects II
@@ -30,8 +33,36 @@ The Experimental Project Lab in the Department of Aeronautics and Astronautics i
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/pages/calendar/)
+- **Projects** — [🔗](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/pages/projects/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/pages/syllabus/)
 
+### Assignment
+- [utter.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/utter/)
+- [qu_shen.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/qu_shen/)
+- [progress_rep.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/progress_rep/)
+- [nyenke_chinwe.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/nyenke_chinwe/)
+- [nyenke_and_qu.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/nyenke_and_qu/)
+- [Multisectiondocuments04.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/multisectiondocuments04/)
+- [mccoy_utter.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/mccoy_utter/)
+- [mccoy_and_utter.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/mccoy_and_utter/)
+- [echeverri_arnold.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/echeverri_arnold/)
+- [echeverri.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/echeverri/)
+- [demierry_bounova.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/demierry_bounova/)
+- [demierry.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/demierry/)
+- [bounova_demierry.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/bounova_demierry/)
+- [bennettw.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/bennettw/)
+- [Bennett_and_Alzieti_LS.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/bennett_and_alzieti_ls/)
+- [arnold_echeverri.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/arnold_echeverri/)
+- [arnold.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/arnold/)
+- [alziati_bennett.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/alziati_bennett/)
+
+### Resource
+- [syllabus_f03.pdf (.pdf)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/syllabus_f03/)
+- [16-622f03.jpg (.jpg)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/16-622f03/)
+- [16-622f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/resources/16-622f03-th/)
+- [Course Pedagogy](https://ocw.mit.edu/courses/16-622-experimental-projects-ii-fall-2003/pages/course-pedagogy/)
 ## Wikipedia Bridge
 
 ### Related Articles

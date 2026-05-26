@@ -12,6 +12,8 @@ views: 114
 completeness: 0.1
 last_modified: "2026-05-06T17:07:35Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 1, Syllabus: 2"
 ---
 
 # Identity and Difference
@@ -30,9 +32,18 @@ This course explores how identities, whether of individuals or groups, are produ
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/21a-218j-identity-and-difference-spring-2010/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/21a-218j-identity-and-difference-spring-2010/pages/calendar/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21a-218j-identity-and-difference-spring-2010/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21a-218j-identity-and-difference-spring-2010/pages/assignments/)
+
+### Resource
+- [Study Materials](https://ocw.mit.edu/courses/21a-218j-identity-and-difference-spring-2010/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

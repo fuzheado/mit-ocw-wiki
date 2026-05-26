@@ -12,6 +12,9 @@ views: 650
 completeness: 0.18000000000000002
 last_modified: "2026-05-06T17:14:43Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 9, Resource: 4, Syllabus: 2"
+api_id: 3866
 ---
 
 # Semiconductor Optoelectronics: Theory and Design
@@ -30,8 +33,24 @@ type: "course"
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/pages/syllabus/)
 
+### Problem-Set
+- [Problem Set 8 – Complex Optical Resonators (.pdf)](https://ocw.mit.edu/courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/resources/ps8b/)
+- [Problem Set 7 – Material Properties (.pdf)](https://ocw.mit.edu/courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/resources/ps7/)
+- [Problem Set 6 – Semiconductor Lasers (.pdf)](https://ocw.mit.edu/courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/resources/ps6/)
+- [Problem Set 5 – Recombination in Semiconductors (.pdf)](https://ocw.mit.edu/courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/resources/ps5/)
+- [Problem Set 4 – Semiconductor Optical Amplifiers (.pdf)](https://ocw.mit.edu/courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/resources/ps4b/)
+- [Problem Set 3 – Electroabsorption Modulators (.pdf)](https://ocw.mit.edu/courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/resources/ps3b/)
+- [Problem Set 2 – Introduction to Photodetection (.pdf)](https://ocw.mit.edu/courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/resources/ps2/)
+- [Problem Set 1 – Semiconductor electronics (.pdf)](https://ocw.mit.edu/courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/resources/ps1b/)
+- [Assignments](https://ocw.mit.edu/courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/pages/assignments/)
+
+### Resource
+- [Single Frequency Semiconductor (.jpg)](https://ocw.mit.edu/courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/resources/6-977f02/)
+- [Single Frequency Semiconductor (thumbnail) (.jpg)](https://ocw.mit.edu/courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/resources/6-977f02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

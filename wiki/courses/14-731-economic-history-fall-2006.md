@@ -12,6 +12,9 @@ views: 525
 completeness: 0.22000000000000003
 last_modified: "2026-05-06T17:19:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 5207
 ---
 
 # Economic History
@@ -30,8 +33,20 @@ This course offers a comprehensive survey of world economic history, designed to
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/14-731-economic-history-fall-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/14-731-economic-history-fall-2006/pages/readings/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/14-731-economic-history-fall-2006/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/14-731-economic-history-fall-2006/pages/assignments/)
+
+### Resource
+- [State of the Nation, February 1778 (.jpg)](https://ocw.mit.edu/courses/14-731-economic-history-fall-2006/resources/14-731f06/)
+- [State of the Nation, February 1778 (thumbnail) (.jpg)](https://ocw.mit.edu/courses/14-731-economic-history-fall-2006/resources/14-731f06-th/)
+- [Study Materials](https://ocw.mit.edu/courses/14-731-economic-history-fall-2006/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

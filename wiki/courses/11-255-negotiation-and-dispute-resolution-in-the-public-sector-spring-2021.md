@@ -12,6 +12,9 @@ views: 224
 completeness: 0.15833333333333333
 last_modified: "2026-05-06T16:54:11Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 20, Problem-Set: 3, Reading-List: 1, Resource: 14, Syllabus: 2"
+api_id: 4114
 ---
 
 # Negotiation and Dispute Resolution in the Public Sector
@@ -31,10 +34,48 @@ This seminar is designed for graduate students with no prior background or exper
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/pages/calendar/)
+- **Final Exam** — [🔗](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/pages/final-exam/)
+- **Lecture Slides** — [🔗](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/pages/lecture-slides/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/pages/syllabus/)
 
+### Lecture-Notes
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 9 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec9/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 8 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec8/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 7 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec7/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 6 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec6/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 5 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec5/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 4 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec4/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 3 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec3/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 22 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec22/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 20 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec20/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 2 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec2/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 19 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec19/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 18 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec18/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 16 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec16/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 15 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec15/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 14 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec14/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 12 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec12/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 11 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec11/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 10 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec10/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Lecture 1 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_lec1/)
+
+### Problem-Set
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Student Reflection (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_reflect1_pdf/)
+- [11.255 Negotiation and Dispute Resolution in the Public Sector - Framing Memo 1 (.pdf)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_frame1_pdf/)
+
+### Resource
+- [11-255s21.jpg (.jpg)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/11-255s21/)
+- [11-255s21-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/11-255s21-th/)
+- [Scenarios](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/pages/scenarios/)
+- [Scenario #5: Roles and Responsibilities of Public Sector Mediators](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/pages/scenario-5-roles-and-responsibilities-of-public-sector-mediators/)
+- [Scenario #4: Gender and Negotiation](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/pages/scenario-4-gender-and-negotiation/)
+- [Scenario #3: Facilitation](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/pages/scenario-3-facilitation/)
+- [Scenario #2: The Consensus Building Approach](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/pages/scenario-2-the-consensus-building-approach/)
+- [Scenario #1: The Traditional Negotiation Game](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/pages/scenario-1-the-traditional-negotiation-game/)
+- [Instructor Insights](https://ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

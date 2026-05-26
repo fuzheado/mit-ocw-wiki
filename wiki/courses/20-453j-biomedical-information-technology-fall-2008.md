@@ -12,6 +12,9 @@ views: 645
 completeness: 0.2416666666666667
 last_modified: "2026-05-06T14:43:50Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 5, Problem-Set: 10, Reading-List: 10, Resource: 2, Syllabus: 1"
+api_id: 4735
 ---
 
 # Biomedical Information Technology
@@ -31,11 +34,42 @@ This course was offered as part of the Singapore-MIT Alliance (SMA) program as c
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments with Examples] Presentation Assignments with Examples
-- [Programming Assignments] Programming Assignments
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/pages/syllabus/)
 
+### Lecture-Notes
+- [Introduction (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/intro/)
+- [Molecular Network Comparisons (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/1104_molec_nw/)
+- [Creating Databases from Ontologies (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/1021_db_ontology/)
+- [Gaps in Bio-Medical Data and Applications (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/0909_hyu/)
+- [Lecture Notes](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/pages/lecture-notes/)
+
+### Reading-List
+- [An XML Standard for the Dissemination of Annotated 2D Gel Electrophoresis Data Complemented with Mass Spectrometry Results (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/stanislaus_bmc/)
+- [LinkHub: a Semantic Web system that facilitates cross-database queries and information retrieval in proteomics (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/smith_bmc/)
+- [QPath: A Method for Querying Pathways in a Protein-protein Interaction Network (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/shlomi_bmc/)
+- [OWL Web Ontology Language Overview (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/owl_w3c/)
+- [AlzPharm: Integration of Neurodegeneration Data using RDF (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/lam_bmc/)
+- [Relational Databases for Querying XML Documents: Limitations and Opportunities (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/inlining_vldb/)
+- [A Practical Guide To Building OWL Ontologies Using The Protégé-OWL Plugin and CO-ODE Tools (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/hrige_ontlgy_tut/)
+- [cPath: Open Source Software for Collecting, Storing, and Querying Biological Pathways (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/cerami_bmc/)
+- [Understanding and Using the Meaning of Statements in a Bio-ontology: Recasting the Gene Ontology in OWL (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/aranguren_bmc/)
+- [Readings](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/pages/readings/)
+
+### Problem-Set
+- [Unifying Electronic Medical Records (EMR) Systems in Singapore (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/termpaper_sample/)
+- [Instructions for the Term Paper (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/termpaper_instr/)
+- [PostgreSQL Mini Installation User Guide (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/postgresql_user_/)
+- [PID: The Pathway Interaction Database (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/pid_schaefer/)
+- [Data adapted from PID (.xls)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/pid_data/)
+- [Nux Tutorial (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/nux_tutorial/)
+- [Constructing a Conformational Space of Pro-Ser-Thr Rich Non-Globular Domains (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/lc_project/)
+- [Parsing and querying XML documents (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/assignment2/)
+- [Design and Implement a Biological Pathway Interaction Database (PID) System (.pdf)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/assignment1/)
+- [Assignments](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/pages/assignments/)
+
+### Resource
+- [Map of protein-protein interaction pathways in yeast and fruit fly (.jpg)](https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/resources/20-453jf08/)
 ## Wikipedia Bridge
 
 ### Related Articles

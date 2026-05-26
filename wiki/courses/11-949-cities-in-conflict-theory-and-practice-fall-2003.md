@@ -12,6 +12,9 @@ views: 175
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:19:25Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5161
 ---
 
 # Cities in Conflict: Theory and Practice
@@ -35,8 +38,23 @@ As preparation, students will be required to become familiar with social and pol
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-949-cities-in-conflict-theory-and-practice-fall-2003/pages/calendar/)
 
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/11-949-cities-in-conflict-theory-and-practice-fall-2003/pages/syllabus/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-949-cities-in-conflict-theory-and-practice-fall-2003/pages/readings/)
+
+### Problem-Set
+- [Achieving Peace in Crisis Cities – Reflections on Urban Conflict Transformation and the Nation State Project  (.pdf)](https://ocw.mit.edu/courses/11-949-cities-in-conflict-theory-and-practice-fall-2003/resources/esser_paper/)
+- [Assignments](https://ocw.mit.edu/courses/11-949-cities-in-conflict-theory-and-practice-fall-2003/pages/assignments/)
+
+### Resource
+- [A City Skyline (.jpg)](https://ocw.mit.edu/courses/11-949-cities-in-conflict-theory-and-practice-fall-2003/resources/11-949f03/)
+- [A City Skyline (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-949-cities-in-conflict-theory-and-practice-fall-2003/resources/11-949f03-th/)
+- [French royal ordinance from 1666 (thumbnail)](https://ocw.mit.edu/courses/11-949-cities-in-conflict-theory-and-practice-fall-2003/pages/syllabus/)
 ## Wikipedia Bridge
 
 ### Related Articles

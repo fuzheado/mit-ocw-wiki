@@ -12,6 +12,9 @@ views: 144
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:59:54Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3814
 ---
 
 # Eighteenth-Century Literature: Versions of the Self in 18th-C Britain
@@ -30,8 +33,19 @@ When John Locke declared (in the 1690 Essay Concerning Human Understanding) that
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-470-eighteenth-century-literature-versions-of-the-self-in-18th-c-britain-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-470-eighteenth-century-literature-versions-of-the-self-in-18th-c-britain-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-470-eighteenth-century-literature-versions-of-the-self-in-18th-c-britain-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-470-eighteenth-century-literature-versions-of-the-self-in-18th-c-britain-spring-2003/pages/assignments/)
+
+### Resource
+- [Characters Caricaturas (.jpg)](https://ocw.mit.edu/courses/21l-470-eighteenth-century-literature-versions-of-the-self-in-18th-c-britain-spring-2003/resources/21l-470s03/)
+- [Characters Caricaturas (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-470-eighteenth-century-literature-versions-of-the-self-in-18th-c-britain-spring-2003/resources/21l-470s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

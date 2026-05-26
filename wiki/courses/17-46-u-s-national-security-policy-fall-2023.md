@@ -12,6 +12,9 @@ views: 306
 completeness: 0.0
 last_modified: "2026-05-06T16:49:15Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 1, Reading-List: 2, Resource: 6, Syllabus: 2, Video-Transcript: 4"
+api_id: 16066
 ---
 
 # U.S. National Security Policy
@@ -30,9 +33,18 @@ This course provides a comprehensive introduction to the making of US foreign an
 
 ## Materials
 
-- [Readings] Readings
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/17-46-u-s-national-security-policy-fall-2023/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-46-u-s-national-security-policy-fall-2023/pages/calendar/)
+- **Policy Memorandum Project** — [🔗](https://ocw.mit.edu/courses/17-46-u-s-national-security-policy-fall-2023/pages/policy-memorandum-project/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/17-46-u-s-national-security-policy-fall-2023/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-46-u-s-national-security-policy-fall-2023/pages/syllabus/)
 
+### Reading-List
+- [17.46 Readings: The Road to Crisis (.pdf)](https://ocw.mit.edu/courses/17-46-u-s-national-security-policy-fall-2023/resources/mit17_46_f23_crisis_pdf/)
+
+### Resource
+- [mit17_46_f23.jpg (.jpg)](https://ocw.mit.edu/courses/17-46-u-s-national-security-policy-fall-2023/resources/mit17_46_f23_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

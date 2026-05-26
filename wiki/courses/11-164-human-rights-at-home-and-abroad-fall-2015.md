@@ -12,6 +12,9 @@ views: 98
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T14:59:35Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4376
 ---
 
 # Human Rights: At Home and Abroad
@@ -30,8 +33,20 @@ This course provides a rigorous and critical introduction to the foundation, str
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-164-human-rights-at-home-and-abroad-fall-2015/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-164-human-rights-at-home-and-abroad-fall-2015/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-164-human-rights-at-home-and-abroad-fall-2015/pages/readings/)
+
+### Problem-Set
+- [Human Rights and Undocumented Immigrants in the United States (.pdf)](https://ocw.mit.edu/courses/11-164-human-rights-at-home-and-abroad-fall-2015/resources/mit11_164f15_humanrights/)
+- [Assignments](https://ocw.mit.edu/courses/11-164-human-rights-at-home-and-abroad-fall-2015/pages/assignments/)
+
+### Resource
+- [Anti-torture vigil (.jpg)](https://ocw.mit.edu/courses/11-164-human-rights-at-home-and-abroad-fall-2015/resources/11-164f15/)
+- [Anti-torture vigil (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-164-human-rights-at-home-and-abroad-fall-2015/resources/11-164f15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

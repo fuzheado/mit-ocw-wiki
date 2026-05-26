@@ -12,6 +12,9 @@ views: 158
 completeness: 0.1
 last_modified: "2026-05-06T14:53:45Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5084
 ---
 
 # Regional Socioeconomic Impact Analyses and Modeling
@@ -30,9 +33,23 @@ The seminar is designed to provide advanced graduate students with a thorough un
 
 ## Materials
 
-- [Problem Sets] Problem Sets
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/pages/readings/)
+
+### Problem-Set
+- [Problem Set 3 (.pdf)](https://ocw.mit.edu/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/resources/pset3/)
+- [Problem Set 2 (.pdf)](https://ocw.mit.edu/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/resources/pset2/)
+- [Problem Set #1: Introduction to Simulation in Regional and Urban Economics: Economic-Base Analysis (.pdf)](https://ocw.mit.edu/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/resources/pset1/)
+- [Proposed Projects List (.pdf)](https://ocw.mit.edu/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/resources/projects/)
+- [Assignments](https://ocw.mit.edu/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/pages/assignments/)
+
+### Resource
+- [Analysis Tools to Assess Economic Impacts and Opportunities (.pdf)](https://ocw.mit.edu/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/resources/lec/)
+- [Aerial view of Boston and its surroundings (.jpg)](https://ocw.mit.edu/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/resources/11-482jf07/)
 ## Wikipedia Bridge
 
 ### Related Articles

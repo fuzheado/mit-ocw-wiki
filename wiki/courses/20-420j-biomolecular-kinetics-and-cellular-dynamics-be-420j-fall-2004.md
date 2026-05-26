@@ -12,6 +12,9 @@ views: 147
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:12:59Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 8, Syllabus: 2"
+api_id: 5251
 ---
 
 # Biomolecular Kinetics and Cellular Dynamics (BE.420J)
@@ -30,9 +33,24 @@ This subject deals primarily with kinetic and equilibrium mathematical models of
 
 ## Materials
 
-- [Problem Sets] Problem Sets
-- [Programming Assignments] Programming Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Guidelines for Model Implementation Assignments (.pdf)](https://ocw.mit.edu/courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/resources/model_imp_assig/)
+- [Assignments](https://ocw.mit.edu/courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/pages/assignments/)
+
+### Resource
+- [MATLAB Tutorial (.pdf)](https://ocw.mit.edu/courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/resources/tutorial_04/)
+- [Matlab familiarization exercises (.pdf)](https://ocw.mit.edu/courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/resources/matlab_exer/)
+- [Grading Scale for Model Implementations (.pdf)](https://ocw.mit.edu/courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/resources/grad_sc_model/)
+- [Memory landscapes of single enzymes (.jpg)](https://ocw.mit.edu/courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/resources/20-420jf04/)
+- [Memory landscapes of single enzymes (thumbnail) (.jpg)](https://ocw.mit.edu/courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/resources/20-420jf04-th/)
+- [Tools](https://ocw.mit.edu/courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/pages/tools/)
 ## Wikipedia Bridge
 
 ### Related Articles

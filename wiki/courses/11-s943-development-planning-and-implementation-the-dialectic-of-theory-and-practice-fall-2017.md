@@ -12,6 +12,9 @@ views: 100
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:43:57Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3783
 ---
 
 # Development, Planning, and Implementation: The Dialectic of Theory and Practice
@@ -30,8 +33,19 @@ This is an advanced graduate-level seminar that will analyze the effectiveness o
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-s943-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2017/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-s943-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2017/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-s943-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2017/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-s943-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2017/pages/assignments/)
+
+### Resource
+- [11-s943f17.jpg (.jpg)](https://ocw.mit.edu/courses/11-s943-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2017/resources/11-s943f17/)
+- [11-s943f17-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-s943-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2017/resources/11-s943f17-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

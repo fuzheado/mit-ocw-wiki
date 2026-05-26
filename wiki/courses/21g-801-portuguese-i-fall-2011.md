@@ -12,6 +12,9 @@ views: 424
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:15:25Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Resource: 8, Syllabus: 1"
+api_id: 4008
 ---
 
 # Portuguese I
@@ -30,8 +33,20 @@ This course provides an introduction to the language and culture of the Portugue
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-801-portuguese-i-fall-2011/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21g-801-portuguese-i-fall-2011/pages/assignments/)
+
+### Resource
+- [O tempo (.pdf)](https://ocw.mit.edu/courses/21g-801-portuguese-i-fall-2011/resources/mit21g_801f11_o_tempo/)
+- [Imperfeito (.pdf)](https://ocw.mit.edu/courses/21g-801-portuguese-i-fall-2011/resources/mit21g_801f11_imperfeito/)
+- [A comida (.pdf)](https://ocw.mit.edu/courses/21g-801-portuguese-i-fall-2011/resources/mit21g_801f11_a_comida/)
+- [Flags of the Portuguese-speaking countries of the world (.jpg)](https://ocw.mit.edu/courses/21g-801-portuguese-i-fall-2011/resources/21g-801f11/)
+- [Flags of the Portuguese-speaking countries of the world (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-801-portuguese-i-fall-2011/resources/21g-801f11-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21g-801-portuguese-i-fall-2011/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/21g-801-portuguese-i-fall-2011/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

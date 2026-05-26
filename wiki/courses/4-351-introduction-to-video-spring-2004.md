@@ -12,6 +12,9 @@ views: 492
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:24:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4491
 ---
 
 # Introduction to Video
@@ -30,9 +33,18 @@ This class serves as an introduction to video recording and editing, presenting 
 
 ## Materials
 
-- [Media Assignments] Media Assignments
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-351-introduction-to-video-spring-2004/pages/calendar/)
+- **Projects** — [🔗](https://ocw.mit.edu/courses/4-351-introduction-to-video-spring-2004/pages/projects/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/4-351-introduction-to-video-spring-2004/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-351-introduction-to-video-spring-2004/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/4-351-introduction-to-video-spring-2004/pages/assignments/)
+
+### Resource
+- [Live Concert Performance (.jpg)](https://ocw.mit.edu/courses/4-351-introduction-to-video-spring-2004/resources/4-351s04/)
+- [Live Concert Performance (thumbnail) (.jpg)](https://ocw.mit.edu/courses/4-351-introduction-to-video-spring-2004/resources/4-351s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

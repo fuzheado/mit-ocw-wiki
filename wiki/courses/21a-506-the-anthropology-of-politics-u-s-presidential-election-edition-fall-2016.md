@@ -12,6 +12,9 @@ views: 70
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T14:54:44Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 4788
 ---
 
 # The Anthropology of Politics: U.S. Presidential Election Edition
@@ -30,9 +33,23 @@ This course examines the birth and international expansion of an American indust
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-506-the-anthropology-of-politics-u-s-presidential-election-edition-fall-2016/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-506-the-anthropology-of-politics-u-s-presidential-election-edition-fall-2016/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21a-506-the-anthropology-of-politics-u-s-presidential-election-edition-fall-2016/pages/readings/)
+
+### Problem-Set
+- [21A.506F16 The Anthropology of Politics - Assignments: Final Paper On Political Satire (.pdf)](https://ocw.mit.edu/courses/21a-506-the-anthropology-of-politics-u-s-presidential-election-edition-fall-2016/resources/mit21a_506f16_satire/)
+- [Assignments](https://ocw.mit.edu/courses/21a-506-the-anthropology-of-politics-u-s-presidential-election-edition-fall-2016/pages/assignments/)
+
+### Resource
+- [less than 10 students (.2017180814)](https://ocw.mit.edu/courses/21a-506-the-anthropology-of-politics-u-s-presidential-election-edition-fall-2016/resources/ocwimage-2017-03-20/)
+- [66-160.jpg (.jpg)](https://ocw.mit.edu/courses/21a-506-the-anthropology-of-politics-u-s-presidential-election-edition-fall-2016/resources/66-160/)
+- [21a-506f16.jpg (.jpg)](https://ocw.mit.edu/courses/21a-506-the-anthropology-of-politics-u-s-presidential-election-edition-fall-2016/resources/21a-506f16/)
+- [21a-506f16-th.jpg (.jpg)](https://ocw.mit.edu/courses/21a-506-the-anthropology-of-politics-u-s-presidential-election-edition-fall-2016/resources/21a-506f16-th/)
+- [Instructor Insights](https://ocw.mit.edu/courses/21a-506-the-anthropology-of-politics-u-s-presidential-election-edition-fall-2016/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 329
 completeness: 0.0
 last_modified: "2026-05-06T14:44:23Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 13952
 ---
 
 # Women and Global Activism in Art, Media and Politics
@@ -31,10 +34,14 @@ In this semester the course will devote a section of the course to the Black Liv
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Readings] Readings
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/wgs-109-women-and-global-activism-in-art-media-and-politics-fall-2023/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/wgs-109-women-and-global-activism-in-art-media-and-politics-fall-2023/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/wgs-109-women-and-global-activism-in-art-media-and-politics-fall-2023/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/wgs-109-women-and-global-activism-in-art-media-and-politics-fall-2023/pages/syllabus/)
 
+### Resource
+- [mitwgs_109_f23.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-109-women-and-global-activism-in-art-media-and-politics-fall-2023/resources/mitwgs_109_f23_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

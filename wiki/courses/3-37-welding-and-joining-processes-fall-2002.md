@@ -12,6 +12,9 @@ views: 466
 completeness: 0.17833333333333334
 last_modified: "2026-05-06T17:24:13Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 19, Problem-Set: 1, Resource: 4, Syllabus: 2"
+api_id: 3410
 ---
 
 # Welding and Joining Processes
@@ -31,10 +34,37 @@ This course meets with the first half of 3.371J in the Fall Term.
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/pages/syllabus/)
 
+### Lecture-Notes
+- [33720.pdf (.pdf)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/33720/)
+- [33719.pdf (.pdf)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/33719/)
+- [33718.pdf (.pdf)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/33718/)
+- [33717.pdf (.pdf)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/33717/)
+- [33716.pdf (.pdf)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/33716/)
+- [33715.pdf (.pdf)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/33715/)
+- [33714.pdf (.pdf)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/33714/)
+- [33713.pdf (.pdf)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/33713/)
+- [33712.pdf (.pdf)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/33712/)
+- [33711.pdf (.pdf)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/33711/)
+- [33710.pdf (.pdf)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/33710/)
+- [33709.pdf (.pdf)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/33709/)
+- [33708.pdf (.pdf)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/33708/)
+- [33707.pdf (.pdf)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/33707/)
+- [33706.pdf (.pdf)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/33706/)
+- [33705.pdf (.pdf)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/33705/)
+- [33704.pdf (.pdf)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/33704/)
+- [33703.pdf (.pdf)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/33703/)
+- [Lecture Notes](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/pages/lecture-notes/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/pages/assignments/)
+
+### Resource
+- [3-37f02.jpg (.jpg)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/3-37f02/)
+- [3-37f02-th.jpg (.jpg)](https://ocw.mit.edu/courses/3-37-welding-and-joining-processes-fall-2002/resources/3-37f02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

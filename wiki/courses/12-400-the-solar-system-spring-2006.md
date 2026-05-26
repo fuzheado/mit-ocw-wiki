@@ -12,6 +12,9 @@ views: 300
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T16:49:54Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 17, Syllabus: 1"
+api_id: 4925
 ---
 
 # The Solar System
@@ -30,8 +33,35 @@ This is an introduction to the study of the solar system with emphasis on the la
 
 ## Materials
 
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/pages/readings/)
+
+### Problem-Set
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/resources/ps3/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/resources/ps2/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/resources/ps1/)
+- [Assignments](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/pages/assignments/)
+
+### Resource
+- [survey_of_planet.pdf (.pdf)](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/resources/survey_of_planet/)
+- [sun_onepage.pdf (.pdf)](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/resources/sun_onepage/)
+- [ss_formation.pdf (.pdf)](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/resources/ss_formation/)
+- [orbitalelements.pdf (.pdf)](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/resources/orbitalelements/)
+- [moonphasesseason.pdf (.pdf)](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/resources/moonphasesseason/)
+- [mete_definitions.pdf (.pdf)](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/resources/mete_definitions/)
+- [mete_classificat.pdf (.pdf)](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/resources/mete_classificat/)
+- [life_notes.pdf (.pdf)](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/resources/life_notes/)
+- [icy_satellites.pdf (.pdf)](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/resources/icy_satellites/)
+- [formation_notes2.pdf (.pdf)](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/resources/formation_notes2/)
+- [basic_facts.pdf (.pdf)](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/resources/basic_facts/)
+- [atmo_structure.pdf (.pdf)](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/resources/atmo_structure/)
+- [atmo_basic_pro.pdf (.pdf)](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/resources/atmo_basic_pro/)
+- [12-400s06.jpg (.jpg)](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/resources/12-400s06/)
+- [12-400s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/resources/12-400s06-th/)
+- [Study Materials](https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 3736
 completeness: 0.0
 last_modified: "2026-05-06T17:24:26Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 3, Video-Transcript: 2"
+api_id: 3909
 ---
 
 # Generative Artificial Intelligence in K–12 Education
@@ -30,10 +33,11 @@ The emergence of transformer architectures in 2017 triggered a breakthrough in m
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Multiple Assignment Types] Multiple Assignment Types
-- [Podcasts] Podcasts
+### Lectures
+- **Instructor Insights** — [📄](https://ocw.mit.edu/courses/6-s062-generative-artificial-intelligence-in-k12-education-fall-2023/gW7BnC3jsVk_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/6-s062-generative-artificial-intelligence-in-k12-education-fall-2023/pages/instructor-insights/)
 
+### Resource
+- [mit6_s062_f23.jpeg (.jpeg)](https://ocw.mit.edu/courses/6-s062-generative-artificial-intelligence-in-k12-education-fall-2023/resources/mit6_s062_f23_jpeg/)
 ## Wikipedia Bridge
 
 ### Related Articles

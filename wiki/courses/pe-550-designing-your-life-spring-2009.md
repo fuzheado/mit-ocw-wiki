@@ -12,6 +12,9 @@ views: 1774
 completeness: 0.30000000000000004
 last_modified: "2026-05-06T14:58:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 12, Problem-Set: 12, Resource: 4, Syllabus: 2"
+api_id: 4969
 ---
 
 # Designing Your Life
@@ -33,9 +36,41 @@ The instructors would like to thank Prof. David Mindell for his sponsorship of t
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture/Discussion 8: Connecting Hauntings, Traits, and Theories (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_lec08/)
+- [Lecture/Discussion 7: Cleaning Up Hauntings (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_lec07/)
+- [Lecture/Discussion 6: Haunting Incidents (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_lec06/)
+- [Lecture/Discussion 5: Parent Traits (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_lec05/)
+- [Lecture/Discussion 4: Excuses (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_lec04/)
+- [Lecture/Discussion 3: Acting on Your Plan and What's Next (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_lec03_iap07/)
+- [Lecture/Discussion 3: Theories, Purges, and Thought Logs  (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_lec03/)
+- [Lecture/Discussion 2: How Your History Relates to Your Issues and Excuses (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_lec02_iap07/)
+- [Lecture/Discussion 2: Theories (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_lec02/)
+- [Lecture/Discussion 1: Elements of Living an Extraordinary Life (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_lec01_iap07/)
+- [Lecture/Discussion 1: Promises and Consequences, Areas of Life (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_lec01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/pages/lecture-notes/)
+
+### Problem-Set
+- [Homework 8: Connecting Hauntings, Traits, and Theories  (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_assn08/)
+- [Homework 7: Cleaning Up Hauntings (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_assn07/)
+- [Homework 6: Haunting Incidents (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_assn06/)
+- [Homework 5: Parent Traits (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_assn05/)
+- [Homework 4: Excuses (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_assn04/)
+- [Assignment 3 (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_assn03_iap07/)
+- [Homework 3: Theories, Purges, and Thought Logs  (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_assn03/)
+- [Assignment 2 (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_assn02_iap07/)
+- [Homework 2: Theories (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_assn02/)
+- [Assignment 1 (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_assn01_iap07/)
+- [Homework 1: Promises and Consequences and Areas of Life  (.pdf)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/mitpe_550iap09_s09_assn01/)
+- [Assignments](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/pages/assignments/)
+
+### Resource
+- [Designing Your Life (.jpg)](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/resources/pe-550s09/)
+- [Related Resources](https://ocw.mit.edu/courses/pe-550-designing-your-life-spring-2009/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

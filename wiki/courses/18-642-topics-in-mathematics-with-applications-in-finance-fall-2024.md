@@ -12,6 +12,9 @@ views: 10312
 completeness: 0.7100000000000001
 last_modified: "2026-05-06T16:49:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 35, Problem-Set: 11, Resource: 45, Syllabus: 2, Video-Transcript: 68"
+api_id: 20969
 ---
 
 # Topics in Mathematics with Applications in Finance
@@ -31,9 +34,26 @@ The purpose of the class is to expose undergraduate and graduate students to the
 
 ## Materials
 
-### Syllabus
-- [Syllabus](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/syllabus/)
-- [Calendar](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/calendar/)
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/calendar/)
+- **Final Paper** — [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/final-paper/)
+- **Group Project** — [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/group-project/)
+- **Problem Sets** — [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/problem-sets/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/syllabus/)
+- **Week 1** — [⬇ 1](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-1-part-1_360p_16_9.mp4) · [⬇ 2](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-1-part-2-version-2_360p_16_9.mp4) · [⬇ 3](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-1-part-3_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/1VC7-xQiN1AbxqnNnrWE8F4dSO44Baiyd_transcript.pdf) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/1dSSgPfNjnJiYpzrZbWv3cAB43Ro6KLLl_transcript.pdf) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/1GIxB75tCxThFu_KysMDemDijwFPdEN14_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-1/)
+- **Week 10** — [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-18-version-5_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-18-version-5_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-10/)
+- **Week 11** — [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-19-version-2_360p_16_9.mp4) · [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-20-version-2_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/1M4kbTRRqekKhDctRz40f6vyYXc-X6GX1_transcript.pdf) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/13AaI2uSrRerVN1lBm8bDHaIn0CLv4MQJ_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-11/)
+- **Week 12** — [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-21-version-2_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/1wiogzQilWILDNJYQwfy2Ml8pdxfxNymL_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-12/)
+- **Week 13** — [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-23-version-2_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/1QdGwDGAkoiNcR-DkfUjFkVmrZj55tk7W_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-13/)
+- **Week 14** — [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-24-version-2_360p_16_9.mp4) · [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-25-version-2_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/1xmVMGOmcN7NiMoq9yCB0QPkqweFdShXl_transcript.pdf) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/1F3gFXVDnW4Sh7pHv8HVKEOfZActHigx4_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-14/)
+- **Week 2** — [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-2-version-2_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/1Yd_o_Hqv69_hNw3uz8mJsyJDea5o7NKW_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-2/)
+- **Week 3** — [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-4-version-2_360p_16_9.mp4) · [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-5-version-2_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/1pmUz4dfe-5pDyJdupZq0Q0Zv0a42VOBk_transcript.pdf) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/113vg49MgMqOvRLbS8aZwp5TCX6CF5-z1_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-3/)
+- **Week 4** — [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-6-version-3_360p_16_9.mp4) · [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-7-version-2_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/1DW-7jLSmD-k7r0Wduiw_Rx-dpE318ZLF_transcript.pdf) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/1KTK56NCy28KS0Ts53h1gOS6KO51jDctE_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-4/)
+- **Week 5** — [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-8-version-2_360p_16_9.mp4) · [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-9-version-2_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/1d7HgmpFIQ47uwKAX5dWVPSzpIvjhV6Mh_transcript.pdf) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/1W7E-UsRG0zyYe1J1vHunh3QNejR5wd7v_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-5/)
+- **Week 6** — [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-10-version-2_360p_16_9.mp4) · [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-11-version-2_1_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/1rm8xUlTWmccHqW78KKWLHS1juUgVSw4L_transcript.pdf) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/14S_E88WE3WkoIxxEUDt7A1ifKOugzJPE_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-6/)
+- **Week 7** — [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-12-version-2_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/16pa7Obkan28QRjHYdhIdvBZOcgNUUhwJ_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-7/)
+- **Week 8** — [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-13-version-4_360p_16_9.mp4) · [⬇](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-14-version-2_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/1yOmm7LuMUTZASn5bUrNlGJO4EiCHCQ3k_transcript.pdf) · [📄](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/19qdv7XVecKmApvOcaJpvIacsVQJxwSrO_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-8/)
 
 ### Lecture-Notes
 - [18.642 (F24): Lecture 24: Stochastic Differential Equations (.pdf)](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/resources/mit18_642_f24_lec24_pdf/)
@@ -72,54 +92,6 @@ The purpose of the class is to expose undergraduate and graduate students to the
 - [18.642 (F24): Lecture 01_1: Introduction. Financial Terms and Concepts. Bond Math  (.pdf)](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/resources/mit18_642_f24_lec01_1_pdf/)
 - [18.642 (F24): Federal Data Analysis (.ipynb)](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/resources/feddataanalysis_ipynb/)
 
-### Video-Transcript
-- [Lecture 9: Principal Component Analysis in Finance (.mp4) 🎬YouTube 📺Video](https://youtu.be/CechARGinR4)
-- [Lecture 8: Regression Analysis (cont.) (.mp4) 🎬YouTube 📺Video](https://youtu.be/cMF_c2WNPyU)
-- [Lecture 7: Linear Rates, Products, and Models (.mp4) 🎬YouTube 📺Video](https://youtu.be/RvXwSoGDYvg)
-- [Lecture 6: Stochastic Processes I (cont.); Regression Analysis (.mp4) 🎬YouTube 📺Video](https://youtu.be/yIn8Y_CSwPk)
-- [Lecture 5: Probability Theory (cont.); Stochastic Processes I (.mp4) 🎬YouTube 📺Video](https://youtu.be/wMGEKMHsOKE)
-- [Lecture 4: Linear Algebra (cont.); Probability Theory (.mp4) 🎬YouTube 📺Video](https://youtu.be/mtXTs2U1uMA)
-- [Lecture 25: Stochastic Calculus (cont.); Stochastic Differential Equations (.mp4) 🎬YouTube 📺Video](https://youtu.be/H4V29wkHYb4)
-- [Lecture 24: Stochastic Calculus (.mp4) 🎬YouTube 📺Video](https://youtu.be/5cruqmIF6l0)
-- [Lecture 23: Introduction to Machine Learning (.mp4) 🎬YouTube 📺Video](https://youtu.be/kTsieIl_YBA)
-- [Lecture 21: Black-Scholes Formula, Risk Neutral Valuation (.mp4) 🎬YouTube 📺Video](https://youtu.be/2UCHztlWuZg)
-- [Lecture 20: Building the First Federally (CFTC) Regulated Exchange Dedicated to Trading on Events (.mp4) 🎬YouTube 📺Video](https://youtu.be/8XrYjnDHmE4)
-- [Lecture 2: Linear Algebra (.mp4) 🎬YouTube 📺Video](https://youtu.be/0uimNNIuUyY)
-- [Lecture 19: Volatility Modeling (.mp4) 🎬YouTube 📺Video](https://youtu.be/zapp8smQKhg)
-- [Lecture 18: Applying Data Science and Artificial Intelligence to Managing Biomedical Portfolios (.mp4) 🎬YouTube 📺Video](https://youtu.be/_e2nDnV7FQs)
-- [Lecture 14: Stochastic Processes II (.mp4) 🎬YouTube 📺Video](https://youtu.be/VM29JyI1sio)
-- [Lecture 13: Portfolio Management (.mp4) 🎬YouTube 📺Video](https://youtu.be/o7OnkMdmjLg)
-- [Lecture 12: Time Series Analysis (.mp4) 🎬YouTube 📺Video](https://youtu.be/qlytPllimpQ)
-- [Lecture 11: Regression Analysis (cont.) (.mp4) 🎬YouTube 📺Video](https://youtu.be/RruxdEjIvv0)
-- [Lecture 10: Counterparty Risk Optimization (.mp4) 🎬YouTube 📺Video](https://youtu.be/VbtXo62ROC4)
-- [Lecture 1, Part III: Bond “Mathematics” (.mp4) 🎬YouTube 📺Video](https://youtu.be/NZ3Mva95UsQ)
-- [Lecture 1, Part II: Introduction of Financial Markets, Financial Terms and Concepts (.mp4) 🎬YouTube 📺Video](https://youtu.be/z4p87TPCnQc)
-- [Lecture 1, Part I: Introduction of the Class (.mp4) 🎬YouTube 📺Video](https://youtu.be/b8u2CQLQBVU)
-- [Lecture 26: Final Paper Student Presentations.](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-15/)
-- [Lecture 22: The Spectrum of Systematic Trading Strategies in Liquid Instruments](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-12/)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-1-part-1_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-1-part-2-version-2_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-1-part-3_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-2-version-2_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-4-version-2_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-5-version-2_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-6-version-3_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-7-version-2_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-8-version-2_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-9-version-2_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-10-version-2_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-11-version-2_1_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-12-version-2_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-13-version-4_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-14-version-2_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-18-version-5_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-19-version-2_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-20-version-2_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-21-version-2_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-23-version-2_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-24-version-2_360p_16_9.mp4)
-- [download the video](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/18642-lecture-25-version-2_360p_16_9.mp4)
-
 ### Problem-Set
 - [18.642 (F24): Volatility Case Study R Markdown (.zip)](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/resources/mit18_642_f24_rstudio_pset5_zip/)
 - [18.642 (F24): Sample R Code (.pdf)](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/resources/mit18_642_f24_pset_rcode_pdf/)
@@ -129,12 +101,6 @@ The purpose of the class is to expose undergraduate and graduate students to the
 - [18.642 (F24): Problem Set 3 (.pdf)](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/resources/mit18_642_f24_pset3_pdf/)
 - [18.642 (F24): Problem Set 2 (.pdf)](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/resources/mit18_642_f24_pset2_pdf/)
 - [18.642 (F24): Problem Set 1 (.pdf)](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/resources/mit18_642_f24_pset1_pdf/)
-- [Problem Sets](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/problem-sets/)
-- [Final Paper](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/final-paper/)
-- [Assignments](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/assignments/)
-
-### Assignment
-- [Group Project](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/group-project/)
 
 ### Resource
 - [rstudio.zip (.zip)](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/resources/rstudio_zip/)
@@ -148,18 +114,7 @@ The purpose of the class is to expose undergraduate and graduate students to the
 - [18.642 Lecture 18 Version 5_transcript.pdf (.pdf)](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/resources/18642-lecture-18-version-5_transcript_pdf/)
 - [18.642 Lecture 18 Version 5_captions.vtt (.vtt)](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/resources/18642-lecture-18-version-5_captions_vtt/)
 - [Week 9](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-9/)
-- [Week 8](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-8/)
-- [Week 7](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-7/)
-- [Week 6](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-6/)
-- [Week 5](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-5/)
-- [Week 4](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-4/)
-- [Week 3](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-3/)
-- [Week 2](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-2/)
-- [Week 14](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-14/)
-- [Week 13](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-13/)
-- [Week 11](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-11/)
-- [Week 10](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-10/)
-- [Week 1](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-1/)
+- [Week 15](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/week-15/)
 - [Investment Game](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/investment-game/)
 ## Wikipedia Bridge
 

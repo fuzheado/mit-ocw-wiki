@@ -12,6 +12,8 @@ views: 73
 completeness: 0.37
 last_modified: "2026-05-06T17:07:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 2, Reading-List: 1, Syllabus: 2"
 ---
 
 # Electron Microprobe Analysis
@@ -30,10 +32,19 @@ The electron microprobe provides a complete micrometer-scale quantitative chemic
 
 ## Materials
 
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/12-141-electron-microprobe-analysis-january-iap-2012/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/12-141-electron-microprobe-analysis-january-iap-2012/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/12-141-electron-microprobe-analysis-january-iap-2012/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-141-electron-microprobe-analysis-january-iap-2012/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/12-141-electron-microprobe-analysis-january-iap-2012/pages/assignments/)
+- [Exams](https://ocw.mit.edu/courses/12-141-electron-microprobe-analysis-january-iap-2012/pages/exams/)
 ## Wikipedia Bridge
 
 ### Related Articles

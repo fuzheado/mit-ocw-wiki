@@ -12,6 +12,9 @@ views: 125
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T16:48:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 8, Resource: 4, Syllabus: 2"
+api_id: 3508
 ---
 
 # End of Nature
@@ -30,8 +33,29 @@ This subject offers a broad survey of texts (both literary and philosophical) dr
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-449-end-of-nature-spring-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-449-end-of-nature-spring-2002/pages/syllabus/)
 
+### Reading-List
+- [Excerpts from "Dialogues Concerning Natural Religion" (.pdf)](https://ocw.mit.edu/courses/21l-449-end-of-nature-spring-2002/resources/lecture8/)
+- [Bermudas (.pdf)](https://ocw.mit.edu/courses/21l-449-end-of-nature-spring-2002/resources/lecture4c/)
+- [Ode to the Virginian Voyage (.pdf)](https://ocw.mit.edu/courses/21l-449-end-of-nature-spring-2002/resources/lecture4b/)
+- [The Essays of Montaigne: On Cannibals (.pdf)](https://ocw.mit.edu/courses/21l-449-end-of-nature-spring-2002/resources/lecture4/)
+- [Aristotle's Physics, Book II (.pdf)](https://ocw.mit.edu/courses/21l-449-end-of-nature-spring-2002/resources/lecture3/)
+- [Excerpts from The Prelude; or The Growth of a Poet's Mind (.pdf)](https://ocw.mit.edu/courses/21l-449-end-of-nature-spring-2002/resources/lecture11/)
+- [On the Inequality among Mankind (.pdf)](https://ocw.mit.edu/courses/21l-449-end-of-nature-spring-2002/resources/lecture10/)
+- [Readings](https://ocw.mit.edu/courses/21l-449-end-of-nature-spring-2002/pages/readings/)
+
+### Problem-Set
+- [Third Paper: Suggested Topics (.pdf)](https://ocw.mit.edu/courses/21l-449-end-of-nature-spring-2002/resources/paperassignment3/)
+- [Second Paper: Suggested Topics (.pdf)](https://ocw.mit.edu/courses/21l-449-end-of-nature-spring-2002/resources/paperassignment2/)
+- [First Paper: Suggested Topics (.pdf)](https://ocw.mit.edu/courses/21l-449-end-of-nature-spring-2002/resources/paperassignment1/)
+- [Assignments](https://ocw.mit.edu/courses/21l-449-end-of-nature-spring-2002/pages/assignments/)
+
+### Resource
+- [Paul Cezanne, Montagnes en Provence (.jpg)](https://ocw.mit.edu/courses/21l-449-end-of-nature-spring-2002/resources/21l-449s02/)
+- [Paul Cezanne, Montagnes en Provence (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-449-end-of-nature-spring-2002/resources/21l-449s02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

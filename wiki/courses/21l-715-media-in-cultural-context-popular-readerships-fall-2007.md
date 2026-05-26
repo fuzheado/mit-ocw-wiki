@@ -12,6 +12,9 @@ views: 268
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:00:49Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 5039
 ---
 
 # Media in Cultural Context: Popular Readerships
@@ -30,9 +33,18 @@ What is the history of popular reading in the Western world? How does widespread
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-715-media-in-cultural-context-popular-readerships-fall-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-715-media-in-cultural-context-popular-readerships-fall-2007/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-715-media-in-cultural-context-popular-readerships-fall-2007/pages/assignments/)
+
+### Resource
+- [Comic Display Shelves (.jpg)](https://ocw.mit.edu/courses/21l-715-media-in-cultural-context-popular-readerships-fall-2007/resources/21l-715f07/)
+- [Comic Display Shelves (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-715-media-in-cultural-context-popular-readerships-fall-2007/resources/21l-715f07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

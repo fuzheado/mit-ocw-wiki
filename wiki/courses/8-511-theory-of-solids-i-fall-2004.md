@@ -12,6 +12,9 @@ views: 335
 completeness: 0.4
 last_modified: "2026-05-06T17:07:39Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 25, Problem-Set: 12, Resource: 4, Syllabus: 2"
+api_id: 4325
 ---
 
 # Theory of Solids I
@@ -30,9 +33,54 @@ This is the first term of a theoretical treatment of the physics of solids. Topi
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [lec9.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec9/)
+- [lec8.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec8/)
+- [lec7.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec7/)
+- [lec6.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec6/)
+- [lec5.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec5/)
+- [lec4.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec4/)
+- [lec3.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec3/)
+- [lec24.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec24/)
+- [lec23.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec23/)
+- [lec22.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec22/)
+- [lec21.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec21/)
+- [lec20.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec20/)
+- [lec2.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec2/)
+- [lec19.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec19/)
+- [lec18.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec18/)
+- [lec17.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec17/)
+- [lec16.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec16/)
+- [lec15.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec15/)
+- [lec14.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec14/)
+- [lec13.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec13/)
+- [lec12.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec12/)
+- [lec11.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec11/)
+- [lec10.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec10/)
+- [lec1.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/pages/lecture-notes/)
+
+### Problem-Set
+- [pset_9.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/pset_9/)
+- [pset_8.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/pset_8/)
+- [pset_7.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/pset_7/)
+- [pset_6_corrected.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/pset_6_corrected/)
+- [pset_5a.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/pset_5a/)
+- [pset_4.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/pset_4/)
+- [pset_2.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/pset_2/)
+- [pset_11.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/pset_11/)
+- [pset_10.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/pset_10/)
+- [pset_1.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/pset_1/)
+- [proble_set_3.pdf (.pdf)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/proble_set_3/)
+- [Assignments](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/pages/assignments/)
+
+### Resource
+- [8-511f04.jpg (.jpg)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/8-511f04/)
+- [8-511f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/resources/8-511f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

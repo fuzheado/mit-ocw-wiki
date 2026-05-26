@@ -12,6 +12,9 @@ views: 210
 completeness: 0.0
 last_modified: "2026-05-06T14:56:16Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Resource: 12"
+api_id: 4871
 ---
 
 # MIT-Haiti Initiative / Inisyativ MIT-Ayiti
@@ -32,8 +35,21 @@ The Initiative’s original&nbsp;website, launched in 2010,&nbsp;includes softwa
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
+### Lectures
+- **Opòtinite pou kolaborasyon ki dirab** — [🔗](https://ocw.mit.edu/courses/res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023/pages/opotinite-pou-kolaborasyon-ki-dirab/)
+- **Potential for Ongoing Collaboration** — [🔗](https://ocw.mit.edu/courses/res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023/pages/potential-for-ongoing-collaboration/)
 
+### Resource
+- [RES-24-002s23.jpg (.jpg)](https://ocw.mit.edu/courses/res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023/resources/res-24-002s23/)
+- [Why the MIT-Haiti Initiative Was Founded](https://ocw.mit.edu/courses/res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023/pages/why-the-mit-initiatve-was-founded/)
+- [What Is Platfòm MIT-Ayiti?](https://ocw.mit.edu/courses/res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023/pages/what-is-platfom-mit-ayiti/)
+- [How the Initiative Has Developed](https://ocw.mit.edu/courses/res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023/pages/the-development-of-the-initiative/)
+- [Mother Tongue as a Necessary Tool for Active-Learning Pedagogy](https://ocw.mit.edu/courses/res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023/pages/mother-tongue-pedagogy-as-active-learning-pedagogy/)
+- [Lang manman kòm zouti ki nesesè pou aprantisaj aktif](https://ocw.mit.edu/courses/res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023/pages/lang-manman-kom-zouti-ki-nesese-pou-aprantisaj-aktif/)
+- [Ki sa ki Platfòm MIT-Ayiti?](https://ocw.mit.edu/courses/res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023/pages/ki-sa-ki-platfom-mit-ayiti/)
+- [Ki rezon ki lakòz lansman Inisyativ MIT-Ayiti?](https://ocw.mit.edu/courses/res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023/pages/ki-rezon-ki-lakoz-lansman-inisyativ-mit-ayiti/)
+- [Ki jan Inisyativ la devlope?](https://ocw.mit.edu/courses/res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023/pages/ki-jan-inisyativ-la-devlope/)
+- [Instructor Insights](https://ocw.mit.edu/courses/res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,8 @@ views: 304
 completeness: 0.2
 last_modified: "2026-05-06T14:46:22Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Resource: 5, Syllabus: 2, Video-Transcript: 10"
 ---
 
 # Germany Today: Intensive Study of German Language and Culture
@@ -30,9 +32,19 @@ Prepares students for working and living in German-speaking countries. Focus on 
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Written Assignments] Written Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/pages/calendar/)
 
+### Problem-Set
+- [Assignments 🎬YouTube](https://ocw.mit.edu/courses/21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/pages/assignments/)
+
+### Resource
+- [Related Resources 🎬YouTube](https://ocw.mit.edu/courses/21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/pages/related-resources/)
+- [Radio / Fernsehen](https://ocw.mit.edu/courses/21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/pages/related-resources/radio-fernsehen/)
+- [Podcasts](https://ocw.mit.edu/courses/21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/pages/related-resources/podcasts/)
+- [Zeitungen / Zeitschriften](https://ocw.mit.edu/courses/21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/pages/related-resources/zeitungen-zeitschriften/)
+- [Themen](https://ocw.mit.edu/courses/21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/pages/related-resources/themen/)
 ## Wikipedia Bridge
 
 ### Related Articles

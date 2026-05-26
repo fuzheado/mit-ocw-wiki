@@ -12,6 +12,8 @@ views: 666
 completeness: 0.05
 last_modified: "2026-05-06T14:51:03Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Resource: 2, Syllabus: 2"
 ---
 
 # Language and Mind
@@ -30,8 +32,16 @@ This course will address some fundamental questions regarding human language: (1
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/9-98-language-and-mind-january-iap-2003/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/9-98-language-and-mind-january-iap-2003/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/9-98-language-and-mind-january-iap-2003/pages/lecture-notes/)
+
+### Resource
+- [Study Materials](https://ocw.mit.edu/courses/9-98-language-and-mind-january-iap-2003/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/9-98-language-and-mind-january-iap-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

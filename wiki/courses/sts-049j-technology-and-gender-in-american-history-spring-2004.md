@@ -12,6 +12,9 @@ views: 157
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:16:10Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 2"
+api_id: 4253
 ---
 
 # Technology and Gender in American History
@@ -30,8 +33,18 @@ This course centers on the changing relationships between men, women, and techno
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/sts-049j-technology-and-gender-in-american-history-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-049j-technology-and-gender-in-american-history-spring-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/sts-049j-technology-and-gender-in-american-history-spring-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/sts-049j-technology-and-gender-in-american-history-spring-2004/pages/assignments/)
+
+### Resource
+- [National Youth Administration Trainees (.jpg)](https://ocw.mit.edu/courses/sts-049j-technology-and-gender-in-american-history-spring-2004/resources/sts-049js04/)
 ## Wikipedia Bridge
 
 ### Related Articles

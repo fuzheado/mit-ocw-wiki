@@ -12,6 +12,9 @@ views: 66
 completeness: 0.06666666666666667
 last_modified: "2026-05-06T16:55:49Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 8, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3385
 ---
 
 # Urban Labor Markets and Employment Policy
@@ -30,8 +33,26 @@ This subject discusses the broader trends in the labor market, how urban labor m
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [notes9.pdf (.pdf)](https://ocw.mit.edu/courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/resources/notes9/)
+- [notes8.pdf (.pdf)](https://ocw.mit.edu/courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/resources/notes8/)
+- [notes7.pdf (.pdf)](https://ocw.mit.edu/courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/resources/notes7/)
+- [notes5.pdf (.pdf)](https://ocw.mit.edu/courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/resources/notes5/)
+- [notes4.pdf (.pdf)](https://ocw.mit.edu/courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/resources/notes4/)
+- [notes3.pdf (.pdf)](https://ocw.mit.edu/courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/resources/notes3/)
+- [notes2.pdf (.pdf)](https://ocw.mit.edu/courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/resources/notes2/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/pages/readings/)
+
+### Resource
+- [15-677js05.jpg (.jpg)](https://ocw.mit.edu/courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/resources/15-677js05/)
+- [15-677js05-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/resources/15-677js05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

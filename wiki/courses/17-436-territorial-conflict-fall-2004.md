@@ -12,6 +12,9 @@ views: 298
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:49:19Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5713
 ---
 
 # Territorial Conflict
@@ -30,8 +33,20 @@ This graduate seminar introduces an emerging research program within Internation
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-436-territorial-conflict-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-436-territorial-conflict-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-436-territorial-conflict-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-436-territorial-conflict-fall-2004/pages/assignments/)
+
+### Resource
+- [Last Checkpoint Before Salang Crossing (.jpg)](https://ocw.mit.edu/courses/17-436-territorial-conflict-fall-2004/resources/17-436f04/)
+- [Last Checkpoint Before Salang Crossing (thumbnail) (.jpg)](https://ocw.mit.edu/courses/17-436-territorial-conflict-fall-2004/resources/17-436f04-th/)
+- [Related Resources](https://ocw.mit.edu/courses/17-436-territorial-conflict-fall-2004/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

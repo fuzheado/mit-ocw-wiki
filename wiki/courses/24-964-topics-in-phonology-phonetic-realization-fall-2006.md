@@ -12,6 +12,9 @@ views: 96
 completeness: 0.15333333333333332
 last_modified: "2026-05-06T14:56:01Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 13, Problem-Set: 1, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 5439
 ---
 
 # Topics in Phonology: Phonetic Realization
@@ -34,9 +37,32 @@ What is its relationship to phonology?
 
 ## Materials
 
-- [Demonstration Audio] Demonstration Audio
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [lec10_audio.zip (.zip)](https://ocw.mit.edu/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/resources/lec10_audio_zip/)
+- [lec08_audio.zip (.zip)](https://ocw.mit.edu/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/resources/lec08_audio_zip/)
+- [lec05_audio.zip (.zip)](https://ocw.mit.edu/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/resources/lec05_audio_zip/)
+- [lec01_audio.zip (.zip)](https://ocw.mit.edu/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/resources/lec01_audio_zip/)
+- [Phonetic Detail and the 'Too Many Solutions' Problem (.pdf)](https://ocw.mit.edu/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/resources/mit24_964f06_lec11_solutions/)
+- [Releases and transitions (.pdf)](https://ocw.mit.edu/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/resources/mit24_964f06_lec10_bursts/)
+- [Tone (.pdf)](https://ocw.mit.edu/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/resources/mit24_964f06_lec09_tone/)
+- [Articulatory Phonology (.pdf)](https://ocw.mit.edu/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/resources/mit24_964f06_lec07_artic_phon/)
+- [Implications of Phonetic Detail for Phonological Analyses (.pdf)](https://ocw.mit.edu/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/resources/mit24_964f06_lec06_detail/)
+- [Models of phonetic realization (.pdf)](https://ocw.mit.edu/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/resources/mit24_964f06_lec05_models/)
+- [Does Language-Specific Detail Affect Phonological Distribution? (.pdf)](https://ocw.mit.edu/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/resources/mit24_964f06_lec04/)
+- [Phonetic Realization (.pdf)](https://ocw.mit.edu/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/resources/mit24_964f06_lec01_intro/)
+- [Lecture Notes](https://ocw.mit.edu/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/pages/assignments/)
+
+### Resource
+- [Top of trapezoid, divided into onset, target, center, release (.jpg)](https://ocw.mit.edu/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/resources/24-964f06/)
 ## Wikipedia Bridge
 
 ### Related Articles

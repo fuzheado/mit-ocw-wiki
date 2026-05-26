@@ -12,6 +12,9 @@ views: 891
 completeness: 0.245
 last_modified: "2026-05-06T17:25:02Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 15, Problem-Set: 6, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4103
 ---
 
 # Computational Geometry
@@ -31,9 +34,42 @@ This course was originally offered in Course 13 (Department of Ocean Engineering
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Open Textbooks] Open Textbooks
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [lecnotes9_fixed.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/lecnotes9_fixed/)
+- [lecnotes8_fixed.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/lecnotes8_fixed/)
+- [lecnotes6.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/lecnotes6/)
+- [lecnotes45.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/lecnotes45/)
+- [lecnotes3.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/lecnotes3/)
+- [lecnotes23.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/lecnotes23/)
+- [lecnotes21.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/lecnotes21/)
+- [lecnotes20_fixed.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/lecnotes20_fixed/)
+- [lecnotes2.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/lecnotes2/)
+- [lecnotes1_fixed.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/lecnotes1_fixed/)
+- [lecnotes19.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/lecnotes19/)
+- [lecnotes14_fixed.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/lecnotes14_fixed/)
+- [lecnotes13.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/lecnotes13/)
+- [lecnotes10.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/lecnotes10/)
+- [Lecture Notes](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/pages/readings/)
+
+### Problem-Set
+- [ps5.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/ps5/)
+- [ps4.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/ps4/)
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/ps3/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/ps2/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/ps1/)
+- [Assignments](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/pages/assignments/)
+
+### Resource
+- [2-158js03.jpg (.jpg)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/2-158js03/)
+- [2-158js03-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/resources/2-158js03-th/)
+- [Related Resources](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

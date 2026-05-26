@@ -12,6 +12,9 @@ views: 865
 completeness: 0.0
 last_modified: "2026-05-06T17:08:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 4380
 ---
 
 # Introduction to Computer Science and Programming
@@ -30,8 +33,9 @@ type: "course"
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [mit6_00_f08.jpg (.jpg)](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/mit6_00_f08_jpg/)
+- [MIT Press button (.gif)](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/mp_logo/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,8 @@ views: 537
 completeness: 0.11666666666666668
 last_modified: "2026-05-06T17:06:45Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2, Video-Transcript: 17"
 ---
 
 # Chemistry Behind the Magic: Chemical Demonstrations for the Classroom
@@ -34,10 +36,11 @@ The experiments described in these materials are potentially hazardous. Among ot
 
 ## Materials
 
-- [Demonstration Videos] Demonstration Videos
-- [Instructor Insights] Instructor Insights
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Related Resources** — [⬇](https://ia801608.us.archive.org/5/items/ChemistryBehindTheMagic/Dow_Demo_300k.mp4) · [📄](https://ocw.mit.edu/courses/res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/YrgrcBxcBiw_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/pages/related-resources/)
 
+### Resource
+- [Instructor Bios](https://ocw.mit.edu/courses/res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/pages/instructor-bios/)
 ## Wikipedia Bridge
 
 ### Related Articles

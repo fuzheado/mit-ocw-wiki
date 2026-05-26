@@ -12,6 +12,9 @@ views: 152
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:03:38Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 1, Video-Transcript: 2"
+api_id: 4276
 ---
 
 # Literary Interpretation: Literature and Photography: The Image
@@ -30,9 +33,19 @@ This course introduces the practice and theory of literary criticism. The semina
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-701-literary-interpretation-literature-and-photography-the-image-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-701-literary-interpretation-literature-and-photography-the-image-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-701-literary-interpretation-literature-and-photography-the-image-fall-2005/pages/assignments/)
+
+### Resource
+- [Walt Whitman Holding Butterfly (.jpg)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-literature-and-photography-the-image-fall-2005/resources/21l-701f05/)
+- [Walt Whitman Holding Butterfly (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-701-literary-interpretation-literature-and-photography-the-image-fall-2005/resources/21l-701f05-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21l-701-literary-interpretation-literature-and-photography-the-image-fall-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

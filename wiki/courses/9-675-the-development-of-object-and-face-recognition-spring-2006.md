@@ -12,6 +12,9 @@ views: 68
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:57:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4854
 ---
 
 # The Development of Object and Face Recognition
@@ -30,8 +33,19 @@ This course takes a ‘back to the beginning’ view that aims to better underst
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-675-the-development-of-object-and-face-recognition-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-675-the-development-of-object-and-face-recognition-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-675-the-development-of-object-and-face-recognition-spring-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/9-675-the-development-of-object-and-face-recognition-spring-2006/pages/assignments/)
+
+### Resource
+- [Infant Peering at Father (.jpg)](https://ocw.mit.edu/courses/9-675-the-development-of-object-and-face-recognition-spring-2006/resources/9-675s06/)
+- [Infant Peering at Father (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-675-the-development-of-object-and-face-recognition-spring-2006/resources/9-675s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

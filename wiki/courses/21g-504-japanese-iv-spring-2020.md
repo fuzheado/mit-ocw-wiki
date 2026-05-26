@@ -12,6 +12,9 @@ views: 136
 completeness: 0.0
 last_modified: "2026-05-06T17:12:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Resource: 8, Syllabus: 1"
+api_id: 3655
 ---
 
 # Japanese IV
@@ -30,10 +33,17 @@ The main objective of this course is to build up basic skills of communication i
 
 ## Materials
 
-- [Exams] Exams
-- [Instructor Insights] Instructor Insights
-- [Written Assignments] Written Assignments
+### Lectures
+- **In-class Activities, Assignments, and Quizzes** — [🔗](https://ocw.mit.edu/courses/21g-504-japanese-iv-spring-2020/pages/in-class-activities-assignments-and-quizzes/)
+- **Interview Tests** — [🔗](https://ocw.mit.edu/courses/21g-504-japanese-iv-spring-2020/pages/interview-tests/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-504-japanese-iv-spring-2020/pages/syllabus/)
 
+### Resource
+- [52.png (.png)](https://ocw.mit.edu/courses/21g-504-japanese-iv-spring-2020/resources/52/)
+- [21g504s20.jpg (.jpg)](https://ocw.mit.edu/courses/21g-504-japanese-iv-spring-2020/resources/21g504s20/)
+- [21g504s20-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-504-japanese-iv-spring-2020/resources/21g504s20-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21g-504-japanese-iv-spring-2020/pages/related-resources/)
+- [Instructor Insights](https://ocw.mit.edu/courses/21g-504-japanese-iv-spring-2020/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

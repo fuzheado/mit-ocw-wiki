@@ -12,6 +12,9 @@ views: 114
 completeness: 0.15833333333333333
 last_modified: "2026-05-06T17:03:39Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 17, Reading-List: 1, Resource: 3, Syllabus: 2, Video-Transcript: 1"
+api_id: 5689
 ---
 
 # The Impact of Globalization on the Built Environment
@@ -32,8 +35,32 @@ We will explore the “international built environment” in detail, examining h
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/pages/calendar/)
+- **Navigating the Increasingly Treacherous Global Market** — [🔗](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/resources/mit1_463jf09_notes08/) · [🔗](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/resources/mit1_463jf09_lec08/)
+- **Risk Management Opportunities and Parochialism and Other Barriers to Overseas Involvement** — [🔗](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/resources/mit1_463jf09_notes09/) · [🔗](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/resources/mit1_463jf09_lec09/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/pages/syllabus/)
 
+### Lecture-Notes
+- [Global Planning and Project Delivery (.pdf)](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/resources/mit1_463jf09_notes11/)
+- [The International Markets, Networking/Marketing and Selecting the Appropriate Project Delivery System (.pdf)](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/resources/mit1_463jf09_notes06/)
+- [20/20: Vision for the Future of the AEC Field (.pdf)](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/resources/mit1_463jf09_notes04/)
+- [Session Three Reading (.pdf)](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/resources/mit1_463jf09_notes03/)
+- [Mega-Cities and Environment (.pdf)](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/resources/mit1_463jf09_lec12/)
+- [Technological Innovation and Assessment for Construction Industry (.pdf)](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/resources/mit1_463jf09_lec10/)
+- [Infrastructure Markets (.pdf)](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/resources/mit1_463jf09_lec07/)
+- [The International Markets, Networking/Marketing and Selecting the Appropriate Delivery System (.pdf)](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/resources/mit1_463jf09_lec06/)
+- [Marketing in the E&C Industry (.pdf)](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/resources/mit1_463jf09_lec05/)
+- [Construction Finance and Global Financial Market (.pdf)](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/resources/mit1_463jf09_lec03/)
+- [Globalization and the E&C Industry (.pdf)](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/resources/mit1_463jf09_lec02/)
+- [Course Introduction (.pdf)](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/resources/mit1_463jf09_lec01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/pages/readings/)
+
+### Resource
+- [Image of a group of people layered on a world map (.jpg)](https://ocw.mit.edu/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/resources/1-463jf09/)
 ## Wikipedia Bridge
 
 ### Related Articles

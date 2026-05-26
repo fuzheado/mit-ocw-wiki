@@ -12,6 +12,9 @@ views: 142
 completeness: 0.016666666666666666
 last_modified: "2026-05-06T14:43:16Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Lecture-Notes: 2, Resource: 7, Syllabus: 2"
+api_id: 3546
 ---
 
 # Designing Paths to Peace
@@ -31,9 +34,24 @@ Presentations, lectures, demonstrations, discussions and various artistic works 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-993-designing-paths-to-peace-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-993-designing-paths-to-peace-fall-2002/pages/syllabus/)
 
+### Lecture-Notes
+- [Pathways To Peace (.pdf)](https://ocw.mit.edu/courses/2-993-designing-paths-to-peace-fall-2002/resources/pathways_course_outline/)
+- [Lecture Notes](https://ocw.mit.edu/courses/2-993-designing-paths-to-peace-fall-2002/pages/lecture-notes/)
+
+### Assignment
+- [Pathways to Peace: From Heart to Art to Part (.pdf)](https://ocw.mit.edu/courses/2-993-designing-paths-to-peace-fall-2002/resources/pathways_course_outline1/)
+- [Projects](https://ocw.mit.edu/courses/2-993-designing-paths-to-peace-fall-2002/pages/projects/)
+
+### Resource
+- [Name Plate Design Exercise (.pdf)](https://ocw.mit.edu/courses/2-993-designing-paths-to-peace-fall-2002/resources/waterjettutorial/)
+- [Design Process Trade-off (.jpg)](https://ocw.mit.edu/courses/2-993-designing-paths-to-peace-fall-2002/resources/2-993f02/)
+- [Design Process Trade-off (thumbnail) (.jpg)](https://ocw.mit.edu/courses/2-993-designing-paths-to-peace-fall-2002/resources/2-993f02-th/)
+- [Tools](https://ocw.mit.edu/courses/2-993-designing-paths-to-peace-fall-2002/pages/tools/)
+- [Related Resources](https://ocw.mit.edu/courses/2-993-designing-paths-to-peace-fall-2002/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

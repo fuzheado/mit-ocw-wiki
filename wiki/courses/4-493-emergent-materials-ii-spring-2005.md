@@ -12,6 +12,9 @@ views: 174
 completeness: 0.016666666666666666
 last_modified: "2026-05-06T17:03:11Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3699
 ---
 
 # Emergent Materials II
@@ -30,8 +33,20 @@ This course will focus on providing students with the tools needed to practice r
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-493-emergent-materials-ii-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-493-emergent-materials-ii-spring-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture I: Performance, Properties and Selection (.pdf)](https://ocw.mit.edu/courses/4-493-emergent-materials-ii-spring-2005/resources/4493lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/4-493-emergent-materials-ii-spring-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-493-emergent-materials-ii-spring-2005/pages/readings/)
+
+### Resource
+- [Binding Properties (.jpg)](https://ocw.mit.edu/courses/4-493-emergent-materials-ii-spring-2005/resources/4-493s05/)
+- [Binding Properties (thumbnail) (.jpg)](https://ocw.mit.edu/courses/4-493-emergent-materials-ii-spring-2005/resources/4-493s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

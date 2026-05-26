@@ -12,6 +12,9 @@ views: 313
 completeness: 0.0
 last_modified: "2026-05-06T14:58:57Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 3"
+api_id: 4927
 ---
 
 # MIT Governance Lab
@@ -32,8 +35,10 @@ To learn more about our work, check out our latest updates, tools, guides, and o
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [res-17-002s23.jpg (.jpg)](https://ocw.mit.edu/courses/res-17-002-mit-governance-lab-spring-2023/resources/res-17-002s23/)
+- [res-17-002s23-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-17-002-mit-governance-lab-spring-2023/resources/res-17-002s23-th/)
+- [MIT Governance Lab](https://ocw.mit.edu/courses/res-17-002-mit-governance-lab-spring-2023/pages/mit-governance-lab/)
 ## Wikipedia Bridge
 
 ### Related Articles

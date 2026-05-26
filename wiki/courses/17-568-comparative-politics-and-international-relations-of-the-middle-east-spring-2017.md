@@ -12,6 +12,9 @@ views: 309
 completeness: 0.06
 last_modified: "2026-05-06T17:12:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 3968
 ---
 
 # Comparative Politics and International Relations of the Middle East
@@ -30,8 +33,20 @@ This course surveys both classic and cutting-edge work on the politics of the Mi
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus and Calendar** — [🔗](https://ocw.mit.edu/courses/17-568-comparative-politics-and-international-relations-of-the-middle-east-spring-2017/pages/syllabus-and-calendar/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-568-comparative-politics-and-international-relations-of-the-middle-east-spring-2017/pages/readings/)
+
+### Problem-Set
+- [17.568S17 Comparative Politics and International Relations of the Middle East - Assignments: Student Example 2 (.pdf)](https://ocw.mit.edu/courses/17-568-comparative-politics-and-international-relations-of-the-middle-east-spring-2017/resources/mit17_568s17_political_violence/)
+- [17.568S17 Comparative Politics and International Relations of the Middle East - Assignments: Student Example 1 (.pdf)](https://ocw.mit.edu/courses/17-568-comparative-politics-and-international-relations-of-the-middle-east-spring-2017/resources/mit17_568s17_authoritarianism/)
+- [Assignments](https://ocw.mit.edu/courses/17-568-comparative-politics-and-international-relations-of-the-middle-east-spring-2017/pages/assignments/)
+
+### Resource
+- [17-568s17.jpg (.jpg)](https://ocw.mit.edu/courses/17-568-comparative-politics-and-international-relations-of-the-middle-east-spring-2017/resources/17-568s17/)
+- [17-568s17-th.jpg (.jpg)](https://ocw.mit.edu/courses/17-568-comparative-politics-and-international-relations-of-the-middle-east-spring-2017/resources/17-568s17-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

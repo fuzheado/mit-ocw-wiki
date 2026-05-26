@@ -12,6 +12,9 @@ views: 329
 completeness: 0.13833333333333336
 last_modified: "2026-05-06T14:57:30Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 7, Problem-Set: 4, Reading-List: 1, Resource: 4, Syllabus: 2, Video-Transcript: 6"
+api_id: 3713
 ---
 
 # Listening to the Customer
@@ -33,8 +36,31 @@ The methods covered in 15.821 are often used in the “front-end” of market re
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-821-listening-to-the-customer-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-821-listening-to-the-customer-fall-2002/pages/syllabus/)
 
+### Lecture-Notes
+- [Scrubbing (.pdf)](https://ocw.mit.edu/courses/15-821-listening-to-the-customer-fall-2002/resources/scrubbing20class20slides/)
+- [The pains and pleasures of pricing (.pdf)](https://ocw.mit.edu/courses/15-821-listening-to-the-customer-fall-2002/resources/redblack20copy/)
+- [Interviewing (.pdf)](https://ocw.mit.edu/courses/15-821-listening-to-the-customer-fall-2002/resources/prep20for20scrubbing20class/)
+- [Ethnographic observation (.pdf)](https://ocw.mit.edu/courses/15-821-listening-to-the-customer-fall-2002/resources/observation/)
+- [The ZMET Interview (.pdf)](https://ocw.mit.edu/courses/15-821-listening-to-the-customer-fall-2002/resources/bostonbeer/)
+- [First Class (.pdf)](https://ocw.mit.edu/courses/15-821-listening-to-the-customer-fall-2002/resources/15_821_02_20first_20class/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-821-listening-to-the-customer-fall-2002/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-821-listening-to-the-customer-fall-2002/pages/readings/)
+
+### Problem-Set
+- [Problem Set (.pdf)](https://ocw.mit.edu/courses/15-821-listening-to-the-customer-fall-2002/resources/problem20set2002/)
+- [Overview of the Voice of the Customer Project (.pdf)](https://ocw.mit.edu/courses/15-821-listening-to-the-customer-fall-2002/resources/assignment_12/)
+- [Assignment 2 (.pdf)](https://ocw.mit.edu/courses/15-821-listening-to-the-customer-fall-2002/resources/assignment2/)
+- [Assignments](https://ocw.mit.edu/courses/15-821-listening-to-the-customer-fall-2002/pages/assignments/)
+
+### Resource
+- [Rialto Fishmonger (.jpg)](https://ocw.mit.edu/courses/15-821-listening-to-the-customer-fall-2002/resources/15-821f02/)
+- [Rialto Fishmonger (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-821-listening-to-the-customer-fall-2002/resources/15-821f02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

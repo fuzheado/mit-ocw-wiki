@@ -12,6 +12,9 @@ views: 2265
 completeness: 0.0
 last_modified: "2026-05-06T14:51:46Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Resource: 9, Syllabus: 2, Video-Transcript: 6"
+api_id: 19342
 ---
 
 # Chinese Calligraphy
@@ -32,10 +35,18 @@ No prior knowledge of the Chinese language is required.
 
 ## Materials
 
-- [Activity Assignments with Examples] Activity Assignments with Examples
-- [Instructor Insights] Instructor Insights
-- [Videos] Videos
+### Lectures
+- **Projects for Chinese Calligraphy: A Project-Based Approach** — [⬇](https://ocw.mit.edu/courses/21g-111-chinese-calligraphy-spring-2024/mit21g_111s24_video1_360p_16_9.mp4) · [⬇](https://ocw.mit.edu/courses/21g-111-chinese-calligraphy-spring-2024/mit21g_111s24_video2_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/21g-111-chinese-calligraphy-spring-2024/mit21g_111s24_video1_transcript.pdf) · [📄](https://ocw.mit.edu/courses/21g-111-chinese-calligraphy-spring-2024/mit21g_111s24_video2_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/21g-111-chinese-calligraphy-spring-2024/pages/projects-for-chinese-calligraphy-a-project-based-approach/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-111-chinese-calligraphy-spring-2024/pages/syllabus/)
+- **Weekly Teaching Schedule** — [🔗](https://ocw.mit.edu/courses/21g-111-chinese-calligraphy-spring-2024/pages/weekly-teaching-schedule/)
 
+### Resource
+- [Instructor Insights](https://ocw.mit.edu/courses/21g-111-chinese-calligraphy-spring-2024/pages/instructor-insights/)
+- [m21g_111s24_video1.txt (.pdf)](https://ocw.mit.edu/courses/21g-111-chinese-calligraphy-spring-2024/resources/mit21g_111s24_video2_transcript_pdf/)
+- [mit21g_111s24_video2_captions.vtt (.vtt)](https://ocw.mit.edu/courses/21g-111-chinese-calligraphy-spring-2024/resources/mit21g_111s24_video2_captions_vtt/)
+- [mit21g_111s24_video1_captions.vtt (.vtt)](https://ocw.mit.edu/courses/21g-111-chinese-calligraphy-spring-2024/resources/mit21g_111s24_video1_captions_vtt/)
+- [mit21g_111_s24_StudentCalligraphyWork.png (.png)](https://ocw.mit.edu/courses/21g-111-chinese-calligraphy-spring-2024/resources/mit21g_111_s24_studentcalligraphywork_png/)
+- [mit21g_111_s24.jpeg (.jpeg)](https://ocw.mit.edu/courses/21g-111-chinese-calligraphy-spring-2024/resources/mit21g_111_s24_jpeg/)
 ## Wikipedia Bridge
 
 ### Related Articles

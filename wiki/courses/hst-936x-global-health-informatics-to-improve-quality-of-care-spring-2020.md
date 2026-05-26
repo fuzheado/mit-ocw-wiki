@@ -12,6 +12,8 @@ views: 894
 completeness: 0.0
 last_modified: "2026-05-06T14:54:45Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 1"
 ---
 
 # Global Health Informatics to Improve Quality of Care
@@ -40,8 +42,8 @@ This course is part of the Open Learning Library, which is free to use. You have
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-
+### Resource
+- [Health Care Mhealth Mobile App Development Communication Health Care, Electronics, Network, Computer HD PNG Download - FlyClipart](https://flyclipart.com/health-care-mhealth-mobile-app-development-communication-health-care-electronics-network-computer-hd-png-download-1264294)
 ## Wikipedia Bridge
 
 ### Related Articles

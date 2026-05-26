@@ -12,6 +12,9 @@ views: 216
 completeness: 0.19
 last_modified: "2026-05-06T17:20:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 7, Problem-Set: 7, Reading-List: 4, Resource: 5, Syllabus: 2, Video-Transcript: 2"
+api_id: 3977
 ---
 
 # Israel: History, Politics, Culture, Identity
@@ -31,9 +34,35 @@ Preference is given to students in the MISTI MIT-Israel program.
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/pages/calendar/)
+- **Classroom Presentation** — [🔗](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/pages/assignments/classroom-presentation/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/pages/readings/)
+- **Staged Israeli-Arab-Palestinian Peace Conference** — [🔗](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/pages/assignments/staged-israeli-arab-palestinian-peace-conference/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/pages/syllabus/)
 
+### Lecture-Notes
+- [17.565_S19 Lecture Slide 5: The Palestinian-Arab Minority in Israel (.pdf)](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/resources/mit17_565s19_lecslide5/)
+- [17.565_S19 Lecture Slide 4: Expansion and Contraction (.pdf)](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/resources/mit17_565s19_lecslide4/)
+- [17.565_S19 Lecture Slide 3: Introduction, Part III (.pdf)](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/resources/mit17_565s19_lecslide3/)
+- [17.565_S19 Lecture Slide 2: Introduction, Part II (.pdf)](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/resources/mit17_565s19_lecslide2/)
+- [17.565_S19 Lecture Slide 1: Introduction, Part I (.pdf)](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/resources/mit17_565s19_lecslide1/)
+- [Lecture Slides](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/pages/lecture-slides/)
+
+### Reading-List
+- [Additional Recommended Bibliography](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/pages/readings/additional-recommended-bibliography/)
+- [Readings&#39; Assignments](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/pages/assignments/readings-assignments/)
+
+### Problem-Set
+- [17.565_S19 Assignments_Final Paper: The Establishment, Perpetuation, and Rejection of Normativity in Israeli Cinema (.pdf)](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/resources/mit17_565s19_finalpaper2/)
+- [17.565_S19 Assignments_Final Paper: The Shift in Israeli Identity Towards Nationalism and a More Religious State (.pdf)](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/resources/mit17_565s19_finalpaper1/)
+- [Readings' Assignments](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/pages/assignments/readings-assignments/)
+- [Final Paper](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/pages/assignments/final-paper/)
+- [Assignments](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/pages/assignments/)
+
+### Resource
+- [17-565s19.jpg (.jpg)](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/resources/17-565s19/)
+- [17-565s19-th.jpg (.jpg)](https://ocw.mit.edu/courses/17-565-israel-history-politics-culture-identity-spring-2019/resources/17-565s19-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

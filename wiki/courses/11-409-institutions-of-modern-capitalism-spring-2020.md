@@ -12,6 +12,9 @@ views: 679
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:15:38Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 2"
+api_id: 4483
 ---
 
 # Institutions of Modern Capitalism
@@ -30,8 +33,17 @@ This course introduces students to a set of analytic tools and conceptual framew
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Bibliography** — [🔗](https://ocw.mit.edu/courses/11-409-institutions-of-modern-capitalism-spring-2020/pages/bibliography/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-409-institutions-of-modern-capitalism-spring-2020/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-409-institutions-of-modern-capitalism-spring-2020/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-409-institutions-of-modern-capitalism-spring-2020/pages/assignments/)
+
+### Resource
+- [11.409 Home page image (.jpg)](https://ocw.mit.edu/courses/11-409-institutions-of-modern-capitalism-spring-2020/resources/11-409s20/)
+- [Course image thumbnail (.jpg)](https://ocw.mit.edu/courses/11-409-institutions-of-modern-capitalism-spring-2020/resources/11-409s20-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

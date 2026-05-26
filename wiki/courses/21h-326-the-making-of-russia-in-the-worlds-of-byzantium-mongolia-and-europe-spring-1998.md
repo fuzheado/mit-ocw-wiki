@@ -12,6 +12,9 @@ views: 185
 completeness: 0.30000000000000004
 last_modified: "2026-05-06T17:12:18Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 6, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5175
 ---
 
 # The Making of Russia in the Worlds of Byzantium, Mongolia, and Europe
@@ -30,8 +33,24 @@ Medieval and early modern Russia stood at the crossroads of Europe and Asia. In 
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998/pages/readings/)
+
+### Problem-Set
+- [First Essay: Analysis of Kievan Sources (.pdf)](https://ocw.mit.edu/courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998/resources/asgmt4/)
+- [Proposed Paper Topics on Kievan Rus (.pdf)](https://ocw.mit.edu/courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998/resources/asgmt3/)
+- [Weekly response papers (.pdf)](https://ocw.mit.edu/courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998/resources/asgmt2/)
+- [Research Paper in Muscovite History (.pdf)](https://ocw.mit.edu/courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998/resources/asgmt1/)
+- [Exams](https://ocw.mit.edu/courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998/pages/assignments/)
+
+### Resource
+- [Church of the Holy Virgin (.jpg)](https://ocw.mit.edu/courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998/resources/21h-326s98/)
+- [Church of the Holy Virgin (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998/resources/21h-326s98-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 83
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T17:23:54Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 4, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3674
 ---
 
 # American Dream: Using Storytelling to Explore Social Class in the United States
@@ -30,8 +33,22 @@ This course explores the experiences and understandings of class among Americans
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-120-american-dream-using-storytelling-to-explore-social-class-in-the-united-states-spring-2018/pages/calendar/)
+- **Museum Exhibit Design Project** — [🔗](https://ocw.mit.edu/courses/21a-120-american-dream-using-storytelling-to-explore-social-class-in-the-united-states-spring-2018/pages/assignments/museum-exhibit-design-project/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-120-american-dream-using-storytelling-to-explore-social-class-in-the-united-states-spring-2018/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21a-120-american-dream-using-storytelling-to-explore-social-class-in-the-united-states-spring-2018/pages/readings/)
+
+### Problem-Set
+- [21A.120_S18 Assignments: Student Example 1 Museum Design Project Write-Up (.pdf)](https://ocw.mit.edu/courses/21a-120-american-dream-using-storytelling-to-explore-social-class-in-the-united-states-spring-2018/resources/mit21a_120s18_exhibit_writeup1/)
+- [Oral History Assignment](https://ocw.mit.edu/courses/21a-120-american-dream-using-storytelling-to-explore-social-class-in-the-united-states-spring-2018/pages/assignments/oral-history-assignment/)
+- [Assignments](https://ocw.mit.edu/courses/21a-120-american-dream-using-storytelling-to-explore-social-class-in-the-united-states-spring-2018/pages/assignments/)
+
+### Resource
+- [21A-120s18.jpg (.jpg)](https://ocw.mit.edu/courses/21a-120-american-dream-using-storytelling-to-explore-social-class-in-the-united-states-spring-2018/resources/21a-120s18/)
+- [21A-120s18-th.jpg (.jpg)](https://ocw.mit.edu/courses/21a-120-american-dream-using-storytelling-to-explore-social-class-in-the-united-states-spring-2018/resources/21a-120s18-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

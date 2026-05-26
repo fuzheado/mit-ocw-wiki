@@ -12,6 +12,9 @@ views: 74
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:05:51Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 4109
 ---
 
 # Advanced Urban Public Finance: Collective Action and Provisions of Local Public Goods
@@ -31,9 +34,17 @@ The objective of the seminar is to broaden the discussion of local public financ
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-902-advanced-urban-public-finance-collective-action-and-provisions-of-local-public-goods-spring-2009/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-902-advanced-urban-public-finance-collective-action-and-provisions-of-local-public-goods-spring-2009/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-902-advanced-urban-public-finance-collective-action-and-provisions-of-local-public-goods-spring-2009/pages/assignments/)
+
+### Resource
+- [Photo of a large group of motorcyclists riding down a city street, some wearing vests with protest message 'No to bike parking charges!' (.jpg)](https://ocw.mit.edu/courses/11-902-advanced-urban-public-finance-collective-action-and-provisions-of-local-public-goods-spring-2009/resources/11-902s09/)
 ## Wikipedia Bridge
 
 ### Related Articles

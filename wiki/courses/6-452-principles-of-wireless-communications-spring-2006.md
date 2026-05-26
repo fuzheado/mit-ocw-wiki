@@ -12,6 +12,9 @@ views: 1057
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:21:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 4283
 ---
 
 # Principles of Wireless Communications
@@ -30,9 +33,22 @@ This course is an introduction to the design, analysis, and fundamental limits o
 
 ## Materials
 
-- [Problem Sets] Problem Sets
-- [Projects] Projects
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-452-principles-of-wireless-communications-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/6-452-principles-of-wireless-communications-spring-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/6-452-principles-of-wireless-communications-spring-2006/pages/assignments/)
+
+### Assignment
+- [Project (.pdf)](https://ocw.mit.edu/courses/6-452-principles-of-wireless-communications-spring-2006/resources/proj_info/)
+- [Projects](https://ocw.mit.edu/courses/6-452-principles-of-wireless-communications-spring-2006/pages/projects/)
+
+### Resource
+- [Wireless Access Point (.jpg)](https://ocw.mit.edu/courses/6-452-principles-of-wireless-communications-spring-2006/resources/6-452s06/)
+- [Wireless Access Point (thumbnail) (.jpg)](https://ocw.mit.edu/courses/6-452-principles-of-wireless-communications-spring-2006/resources/6-452s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 255
 completeness: 0.11666666666666668
 last_modified: "2026-05-06T17:03:59Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 14, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3711
 ---
 
 # Science, Politics, and Environmental Policy
@@ -30,8 +33,32 @@ This class examines the role of science in the US environmental policy-making pr
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [11_373_day_9_age.pdf (.pdf)](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/resources/11_373_day_9_age/)
+- [11_373_day_8_con.pdf (.pdf)](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/resources/11_373_day_8_con/)
+- [11_373_day_7_pub.pdf (.pdf)](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/resources/11_373_day_7_pub/)
+- [11_373_day_6_med.pdf (.pdf)](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/resources/11_373_day_6_med/)
+- [11_373_day_5_adv.pdf (.pdf)](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/resources/11_373_day_5_adv/)
+- [11_373_day_4_exp.pdf (.pdf)](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/resources/11_373_day_4_exp/)
+- [11_373_day_3_sci.pdf (.pdf)](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/resources/11_373_day_3_sci/)
+- [11_373_day_2_pol.pdf (.pdf)](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/resources/11_373_day_2_pol/)
+- [11_373_day_1_cou.pdf (.pdf)](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/resources/11_373_day_1_cou/)
+- [11_373_day_13_ad.pdf (.pdf)](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/resources/11_373_day_13_ad/)
+- [11_373_day_12_lo.pdf (.pdf)](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/resources/11_373_day_12_lo/)
+- [11_373_day_11_co.pdf (.pdf)](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/resources/11_373_day_11_co/)
+- [11_373_day_10_in.pdf (.pdf)](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/resources/11_373_day_10_in/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/pages/readings/)
+
+### Resource
+- [11-373f04.jpg (.jpg)](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/resources/11-373f04/)
+- [11-373f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/resources/11-373f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

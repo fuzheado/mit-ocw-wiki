@@ -12,6 +12,9 @@ views: 551
 completeness: 0.4166666666666667
 last_modified: "2026-05-06T17:00:58Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Problem-Set: 17, Resource: 9, Syllabus: 1"
+api_id: 5632
 ---
 
 # Hydrofoils and Propellers
@@ -30,11 +33,40 @@ This course develops the theory and design of hydrofoil sections, including lift
 
 ## Materials
 
-- [Exams] Exams
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
-- [Programming Assignments] Programming Assignments
+### Lectures
+- **Course Notes** — [🔗](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/pages/course-notes/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [kerwin_notes.pdf (.pdf)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/kerwin_notes/)
+
+### Problem-Set
+- [tidal_turbine.pdf (.pdf)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/tidal_turbine/)
+- [sol5.zip (.zip)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/sol5/)
+- [sol4.pdf (.pdf)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/sol4/)
+- [sol3.zip (.zip)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/sol3/)
+- [sol2.zip (.zip)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/sol2/)
+- [sol1.zip (.zip)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/sol1/)
+- [sdv.pdf (.pdf)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/sdv/)
+- [ps6.pdf (.pdf)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/ps6/)
+- [ps5.pdf (.pdf)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/ps5/)
+- [ps4.pdf (.pdf)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/ps4/)
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/ps3/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/ps2/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/ps1/)
+- [exam2.pdf (.pdf)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/exam2/)
+- [exam1.pdf (.pdf)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/exam1/)
+- [Exams](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/pages/assignments/)
+
+### Resource
+- [mpvl.zip (.zip)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/mpvl/)
+- [matlab_help.m (.m)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/matlab_help/)
+- [fourier_series.m (.m)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/fourier_series/)
+- [bisection.m (.m)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/bisection/)
+- [2-23s07.jpg (.jpg)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/2-23s07/)
+- [2-23s07-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/resources/2-23s07-th/)
+- [Tools](https://ocw.mit.edu/courses/2-23-hydrofoils-and-propellers-spring-2007/pages/tools/)
 ## Wikipedia Bridge
 
 ### Related Articles

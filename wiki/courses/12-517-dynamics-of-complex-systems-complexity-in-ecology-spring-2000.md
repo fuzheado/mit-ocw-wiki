@@ -12,6 +12,9 @@ views: 165
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:47:52Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5063
 ---
 
 # Dynamics of Complex Systems: Complexity in Ecology
@@ -30,8 +33,20 @@ In this class we will critically review both classical works and recent literatu
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-complexity-in-ecology-spring-2000/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-complexity-in-ecology-spring-2000/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-complexity-in-ecology-spring-2000/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-complexity-in-ecology-spring-2000/pages/assignments/)
+
+### Resource
+- [Upper Mississippi River Valley (.jpg)](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-complexity-in-ecology-spring-2000/resources/dsoballe_5001293/)
+- [Food Web Diagram (.jpg)](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-complexity-in-ecology-spring-2000/resources/12-517s00/)
+- [Food Web Diagram (thumbnail) (.jpg)](https://ocw.mit.edu/courses/12-517-dynamics-of-complex-systems-complexity-in-ecology-spring-2000/resources/12-517s00-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

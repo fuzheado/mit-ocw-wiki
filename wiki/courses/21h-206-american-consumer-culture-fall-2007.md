@@ -12,6 +12,9 @@ views: 157
 completeness: 0.16000000000000003
 last_modified: "2026-05-06T16:49:17Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 8, Reading-List: 1, Resource: 11, Syllabus: 2"
+api_id: 3828
 ---
 
 # American Consumer Culture
@@ -30,8 +33,33 @@ This class examines how and why twentieth-century Americans came to define the �
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/pages/readings/)
+
+### Problem-Set
+- [topics.pdf (.pdf)](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/resources/topics/)
+- [status.pdf (.pdf)](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/resources/status/)
+- [psj.pdf (.pdf)](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/resources/psj/)
+- [carrie.pdf (.pdf)](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/resources/carrie/)
+- [bibliography.pdf (.pdf)](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/resources/bibliography/)
+- [best.pdf (.pdf)](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/resources/best/)
+- [babbitt.pdf (.pdf)](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/resources/babbitt/)
+- [Assignments](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/pages/assignments/)
+
+### Resource
+- [writing_guide.pdf (.pdf)](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/resources/writing_guide/)
+- [MIT21H_206f07_sylls07.pdf (.pdf)](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/resources/mit21h_206f07_sylls07/)
+- [MIT21H_206f07_syllf07.pdf (.pdf)](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/resources/mit21h_206f07_syllf07/)
+- [MIT21H_206f07_syllf05.pdf (.pdf)](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/resources/mit21h_206f07_syllf05/)
+- [MIT21H_206f07_syllf04.pdf (.pdf)](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/resources/mit21h_206f07_syllf04/)
+- [MIT21H_206f07_syllf01.pdf (.pdf)](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/resources/mit21h_206f07_syllf01/)
+- [21h-206f07.jpg (.jpg)](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/resources/21h-206f07/)
+- [21h-206f07-th.jpg (.jpg)](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/resources/21h-206f07-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21h-206-american-consumer-culture-fall-2007/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

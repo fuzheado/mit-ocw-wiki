@@ -12,6 +12,9 @@ views: 502
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:00:22Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5280
 ---
 
 # Organizational Processes
@@ -30,8 +33,23 @@ Organizational Processes enhances students’ ability to take effective action i
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-311-organizational-processes-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-311-organizational-processes-fall-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-311-organizational-processes-fall-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-311-organizational-processes-fall-2003/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/15-311-organizational-processes-fall-2003/pages/projects/)
+
+### Resource
+- [Organizational Chart (.jpg)](https://ocw.mit.edu/courses/15-311-organizational-processes-fall-2003/resources/15-311f03/)
+- [Organizational Chart (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-311-organizational-processes-fall-2003/resources/15-311f03-th/)
+- [Calendar Overview](https://ocw.mit.edu/courses/15-311-organizational-processes-fall-2003/pages/calendar/overview/)
 ## Wikipedia Bridge
 
 ### Related Articles

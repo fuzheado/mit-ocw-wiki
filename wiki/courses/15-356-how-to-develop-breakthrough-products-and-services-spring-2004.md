@@ -12,6 +12,9 @@ views: 1160
 completeness: 0.09500000000000001
 last_modified: "2026-05-06T16:51:46Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 7, Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2, Video-Transcript: 3"
+api_id: 3943
 ---
 
 # How to Develop "Breakthrough" Products and Services
@@ -30,10 +33,29 @@ To prosper, firms must develop major product and service innovations. Often, tho
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/pages/syllabus/)
+- **Video Lectures** — [🔗](https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/pages/video-lectures/)
 
+### Lecture-Notes
+- [Shifting Innovation to Your Customers via Toolkits for User Innovation (.pdf)](https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/resources/lec9_toolkits/)
+- [Trading and revealing Trading and revealing information (.pdf)](https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/resources/lec8_infotrading/)
+- [Quantitative Market Research for Incremental Improvement Innovations (.pdf)](https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/resources/lec4_mkt_res/)
+- [Finding out what users need: "trial and error trial and error" and "sticky information" (.pdf)](https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/resources/lec3_trial_error/)
+- [The Lead User idea generation method (.pdf)](https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/resources/lec2_idea_gen/)
+- [Creating "breakthrough" products and services (.pdf)](https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/resources/lec1_intro/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/pages/assignments/)
+
+### Resource
+- [New Product Users (.jpg)](https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/resources/15-356s04/)
+- [New Product Users (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/resources/15-356s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

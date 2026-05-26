@@ -12,6 +12,9 @@ views: 283
 completeness: 0.2
 last_modified: "2026-05-06T14:42:49Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Problem-Set: 10, Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 3525
 ---
 
 # Introduction to Contemporary Hispanic Literature
@@ -30,8 +33,31 @@ This course studies important twentieth century texts from Spain and Latin Ameri
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/pages/calendar/)
+- **Projects** — [🔗](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/pages/projects/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/pages/readings/)
+
+### Problem-Set
+- [La plaza del diamante de Mercé Rodoreda (.pdf)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/resources/mit21g_716s05_thir_essay/)
+- [Introduction to Contemporary Hispanic Literature:  Second essay:  Please hand- in hard copy  on my door by 5 PM,  Friday, April (.pdf)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/resources/mit21g_716s05_sec_essay/)
+- [La plaza del diamante (.pdf)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/resources/mit21g_716s05_rodo_quest/)
+- [“La Lengua de las mariposas”  tarea para el martes: (.pdf)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/resources/mit21g_716s05_rivas_quest/)
+- [“La Rebelión de las masas” (.pdf)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/resources/mit21g_716s05_orte_quest/)
+- [Intro to Contemporary Hispanic Lit. (.pdf)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/resources/mit21g_716s05_mar_gai_que/)
+- [Bodas de sangre (.pdf)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/resources/mit21g_716s05_gar_lor_ques/)
+- [Contemporary Hispanic Literature (.pdf)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/resources/mit21g_716s05_first_essay/)
+- [Homework Assignment on Bombal (.pdf)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/resources/mit21g_716s05_bomb_quest/)
+- [Assignments](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/pages/assignments/)
+
+### Resource
+- [chp_goyapainting.jpg (.jpg)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/resources/chp_goyapainting/)
+- [chp_creative_spark.jpg (.jpg)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/resources/chp_creative_spark/)
+- [21g-716s05.jpg (.jpg)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/resources/21g-716s05/)
+- [21g-716s05-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/resources/21g-716s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

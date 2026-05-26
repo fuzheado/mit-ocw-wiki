@@ -12,6 +12,9 @@ views: 370
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:24:20Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Reading-List: 8, Resource: 10, Syllabus: 2"
+api_id: 3409
 ---
 
 # Urban Sociology in Theory and Practice
@@ -31,9 +34,31 @@ This seminar took place at the Massachusetts Correctional Institution in Norfolk
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Presentation Assignments] Presentation Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/pages/calendar/)
+- **Creating a Collaborative Learning Environment** — [🔗](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/pages/instructor-insights/creating-a-collaborative-learning-environment/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/pages/syllabus/)
+- **Teaching Without Information Communication Technologies** — [🔗](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/pages/instructor-insights/teaching-without-information-communication-technologies/)
 
+### Reading-List
+- [MIT11_469S16_Class9Guide.pdf (.pdf)](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/resources/mit11_469s16_class9guide/)
+- [MIT11_469S16_Class6Guide.pdf (.pdf)](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/resources/mit11_469s16_class6guide/)
+- [MIT11_469S16_Class4Guide.pdf (.pdf)](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/resources/mit11_469s16_class4guide/)
+- [MIT11_469S16_Class13Guide.pdf (.pdf)](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/resources/mit11_469s16_class13guide/)
+- [MIT11_469S16_Class12Guide.pdf (.pdf)](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/resources/mit11_469s16_class12guide/)
+- [MIT11_469S16_Class11Guide.pdf (.pdf)](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/resources/mit11_469s16_class11guide/)
+- [MIT11_469S16_Class10Guide.pdf (.pdf)](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/resources/mit11_469s16_class10guide/)
+- [Readings](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/pages/assignments/)
+
+### Resource
+- [23 students enrolled (.png)](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/resources/23/)
+- [11-469s16.jpg (.jpg)](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/resources/11-469s16/)
+- [11-469s16-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/resources/11-469s16-th/)
+- [Unique Learning Environment, Unique Discussions](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/pages/instructor-insights/unique-learning-environment-unique-discussions/)
+- [Instructor Insights](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

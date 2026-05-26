@@ -12,6 +12,9 @@ views: 136
 completeness: 0.22000000000000003
 last_modified: "2026-05-06T16:59:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 3, Resource: 4, Syllabus: 1"
+api_id: 3805
 ---
 
 # Globalization, Migration, and International Relations
@@ -30,8 +33,22 @@ Tracing the evolution of international interactions, this course examines the di
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-410-globalization-migration-and-international-relations-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Globalization - Dimensions & Domains (.pdf)](https://ocw.mit.edu/courses/17-410-globalization-migration-and-international-relations-spring-2006/resources/wk2_highlights/)
+- [Collapse (.pdf)](https://ocw.mit.edu/courses/17-410-globalization-migration-and-international-relations-spring-2006/resources/collapse/)
+- [Readings](https://ocw.mit.edu/courses/17-410-globalization-migration-and-international-relations-spring-2006/pages/readings/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/17-410-globalization-migration-and-international-relations-spring-2006/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/17-410-globalization-migration-and-international-relations-spring-2006/pages/assignments/)
+
+### Resource
+- [Afghan Refugees (.jpg)](https://ocw.mit.edu/courses/17-410-globalization-migration-and-international-relations-spring-2006/resources/chp_afghanrefuge/)
+- [Roadside Sign at the U.S.-Mexico Border (.jpg)](https://ocw.mit.edu/courses/17-410-globalization-migration-and-international-relations-spring-2006/resources/17-410s06/)
+- [Roadside Sign at the U.S.-Mexico Border (thumbnail) (.jpg)](https://ocw.mit.edu/courses/17-410-globalization-migration-and-international-relations-spring-2006/resources/17-410s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

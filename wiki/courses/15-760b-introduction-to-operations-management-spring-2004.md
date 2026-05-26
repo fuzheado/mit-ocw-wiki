@@ -12,6 +12,9 @@ views: 894
 completeness: 0.14833333333333334
 last_modified: "2026-05-06T17:20:44Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 4, Lecture-Notes: 13, Problem-Set: 2, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4423
 ---
 
 # Introduction to Operations Management
@@ -30,8 +33,41 @@ This half-term course introduces students to problems and analysis related to th
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [lec9ex_prod.pdf (.pdf)](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/resources/lec9ex_prod/)
+- [lec9_prod_cntl.pdf (.pdf)](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/resources/lec9_prod_cntl/)
+- [lec6ex_inventory.pdf (.pdf)](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/resources/lec6ex_inventory/)
+- [lec6_invntry.pdf (.pdf)](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/resources/lec6_invntry/)
+- [lec6_inv_ex.pdf (.pdf)](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/resources/lec6_inv_ex/)
+- [lec3ex_capacity.pdf (.pdf)](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/resources/lec3ex_capacity/)
+- [lec3_capacity.pdf (.pdf)](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/resources/lec3_capacity/)
+- [lec1_intro.pdf (.pdf)](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/resources/lec1_intro/)
+- [lec19_wrap_up.pdf (.pdf)](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/resources/lec19_wrap_up/)
+- [lec16_fine.pdf (.pdf)](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/resources/lec16_fine/)
+- [lec12ex_quality.pdf (.pdf)](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/resources/lec12ex_quality/)
+- [lec12_quality.pdf (.pdf)](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/resources/lec12_quality/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/pages/readings/)
+
+### Problem-Set
+- [case_writeup.pdf (.pdf)](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/resources/case_writeup/)
+- [Assignments](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/pages/assignments/)
+
+### Assignment
+- [littlefield_sim.pdf (.pdf)](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/resources/littlefield_sim/)
+- [litlefild_prject.pdf (.pdf)](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/resources/litlefild_prject/)
+- [litlefield_slide.pdf (.pdf)](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/resources/litlefield_slide/)
+- [Projects](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/pages/projects/)
+
+### Resource
+- [15-760bs04.jpg (.jpg)](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/resources/15-760bs04/)
+- [15-760bs04-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-760b-introduction-to-operations-management-spring-2004/resources/15-760bs04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

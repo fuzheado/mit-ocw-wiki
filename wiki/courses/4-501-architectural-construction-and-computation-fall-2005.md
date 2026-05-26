@@ -12,6 +12,9 @@ views: 431
 completeness: 0.12
 last_modified: "2026-05-06T17:23:49Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Problem-Set: 6, Resource: 13, Syllabus: 2"
+api_id: 3386
 ---
 
 # Architectural Construction and Computation
@@ -30,9 +33,30 @@ This class investigates the use of computers in architectural design and constru
 
 ## Materials
 
-- [Design Assignments] Design Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/pages/calendar/)
+- **Labs** — [🔗](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/pages/labs/)
+- **Recitations** — [🔗](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/pages/recitations/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/pages/syllabus/)
 
+### Problem-Set
+- [finalproj.pdf (.pdf)](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/resources/finalproj/)
+- [assn2b.pdf (.pdf)](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/resources/assn2b/)
+- [assn2a.pdf (.pdf)](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/resources/assn2a/)
+- [assn1b.pdf (.pdf)](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/resources/assn1b/)
+- [assn1a.pdf (.pdf)](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/resources/assn1a/)
+- [Assignments](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/pages/assignments/)
+
+### Resource
+- [recit4.pdf (.pdf)](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/resources/recit4/)
+- [recit3.pdf (.pdf)](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/resources/recit3/)
+- [recit2.pdf (.pdf)](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/resources/recit2/)
+- [recit1.pdf (.pdf)](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/resources/recit1/)
+- [chp_digdesign.jpg (.jpg)](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/resources/chp_digdesign/)
+- [catialab2solids.pdf (.pdf)](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/resources/catialab2solids/)
+- [catialab1surface.pdf (.pdf)](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/resources/catialab1surface/)
+- [4-501f05.jpg (.jpg)](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/resources/4-501f05/)
+- [4-501f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-501-architectural-construction-and-computation-fall-2005/resources/4-501f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

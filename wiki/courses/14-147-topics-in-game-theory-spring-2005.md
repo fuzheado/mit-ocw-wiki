@@ -12,6 +12,9 @@ views: 165
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:49:57Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5179
 ---
 
 # Topics in Game Theory
@@ -30,8 +33,19 @@ This course/workshop aims to provide an invigorating intellectual environment fo
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/14-147-topics-in-game-theory-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/14-147-topics-in-game-theory-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/14-147-topics-in-game-theory-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/14-147-topics-in-game-theory-spring-2005/pages/assignments/)
+
+### Resource
+- [Dice Cups and Dice (.jpg)](https://ocw.mit.edu/courses/14-147-topics-in-game-theory-spring-2005/resources/14-147s05/)
+- [Dice (thumbnail) (.jpg)](https://ocw.mit.edu/courses/14-147-topics-in-game-theory-spring-2005/resources/14-147s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

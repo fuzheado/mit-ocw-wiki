@@ -12,6 +12,9 @@ views: 553
 completeness: 0.26
 last_modified: "2026-05-06T14:58:36Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 28, Problem-Set: 3, Resource: 4, Syllabus: 2"
+api_id: 5772
 ---
 
 # Essential Coding Theory
@@ -35,8 +38,48 @@ Applications in computer science.
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [lect23.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect23/)
+- [lect22.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect22/)
+- [lect21.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect21/)
+- [lect19.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect19/)
+- [lect18.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect18/)
+- [lect17.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect17/)
+- [lect16.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect16/)
+- [lect15.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect15/)
+- [lect14.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect14/)
+- [lect13.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect13/)
+- [lect12.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect12/)
+- [lect11.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect11/)
+- [lect10.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect10/)
+- [lect09.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect09/)
+- [lect08.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect08/)
+- [lect07.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect07/)
+- [lect06.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect06/)
+- [lect05slx4.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect05slx4/)
+- [lect05.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect05/)
+- [lect04slx4.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect04slx4/)
+- [lect04.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect04/)
+- [lect03slx4pdf.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect03slx4pdf/)
+- [lect03.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect03/)
+- [lect02slx4.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect02slx4/)
+- [lect02.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect02/)
+- [lect01slx4.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect01slx4/)
+- [lect01.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/lect01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/pages/lecture-notes/)
+
+### Problem-Set
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/ps2/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/ps1/)
+- [Assignments](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/pages/assignments/)
+
+### Resource
+- [6-895f04.jpg (.jpg)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/6-895f04/)
+- [6-895f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/resources/6-895f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 40
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:17:24Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 1"
+api_id: 3839
 ---
 
 # Modularity, Domain-specificity, and the Organization of Knowledge
@@ -30,8 +33,20 @@ This course will consider the degree and nature of the modular organization of t
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-916-modularity-domain-specificity-and-the-organization-of-knowledge-fall-2001/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-916-modularity-domain-specificity-and-the-organization-of-knowledge-fall-2001/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-916-modularity-domain-specificity-and-the-organization-of-knowledge-fall-2001/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/9-916-modularity-domain-specificity-and-the-organization-of-knowledge-fall-2001/pages/assignments/)
+
+### Resource
+- [Visual Cognition (.jpg)](https://ocw.mit.edu/courses/9-916-modularity-domain-specificity-and-the-organization-of-knowledge-fall-2001/resources/9-916f01/)
+- [Visual Cognition (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-916-modularity-domain-specificity-and-the-organization-of-knowledge-fall-2001/resources/9-916f01-th/)
+- [Related Resources](https://ocw.mit.edu/courses/9-916-modularity-domain-specificity-and-the-organization-of-knowledge-fall-2001/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

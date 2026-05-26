@@ -12,6 +12,9 @@ views: 432
 completeness: 0.30833333333333335
 last_modified: "2026-05-06T14:59:57Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 13, Problem-Set: 3, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4913
 ---
 
 # Special Seminar in Marketing: Marketing Management
@@ -34,8 +37,39 @@ Provide a forum (both written and oral) for presenting and defending recommendat
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [15840_ses9.pdf (.pdf)](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/resources/15840_ses9/)
+- [15840_ses6.pdf (.pdf)](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/resources/15840_ses6/)
+- [15840_ses5_2.pdf (.pdf)](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/resources/15840_ses5_2/)
+- [15840_ses5_1.pdf (.pdf)](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/resources/15840_ses5_1/)
+- [15840_ses4.pdf (.pdf)](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/resources/15840_ses4/)
+- [15840_ses3.pdf (.pdf)](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/resources/15840_ses3/)
+- [15840_ses2.pdf (.pdf)](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/resources/15840_ses2/)
+- [15840_ses13.pdf (.pdf)](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/resources/15840_ses13/)
+- [15840_ses12.pdf (.pdf)](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/resources/15840_ses12/)
+- [15840_ses11.pdf (.pdf)](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/resources/15840_ses11/)
+- [15840_ses10.pdf (.pdf)](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/resources/15840_ses10/)
+- [15840_ses1.pdf (.pdf)](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/resources/15840_ses1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/pages/readings/)
+
+### Problem-Set
+- [15840_midterm.pdf (.pdf)](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/resources/15840_midterm/)
+- [15840_final.pdf (.pdf)](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/resources/15840_final/)
+- [Exams](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/pages/exams/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/pages/projects/)
+
+### Resource
+- [15-840s04.jpg (.jpg)](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/resources/15-840s04/)
+- [15-840s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/resources/15-840s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

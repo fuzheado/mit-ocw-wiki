@@ -12,6 +12,9 @@ views: 330
 completeness: 0.0
 last_modified: "2026-05-06T17:12:30Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 1"
+api_id: 16375
 ---
 
 # MIT Project on Embodied Education
@@ -30,8 +33,8 @@ The MIT Project on Embodied Education aims to close the gap between the growing 
 
 ## Materials
 
-- [Activity Assignments with Examples] Activity Assignments with Examples
-
+### Resource
+- [mitres_sts_001_f24.jpg (.jpg)](https://ocw.mit.edu/courses/res-sts-001-mit-project-on-embodied-education-fall-2024/resources/mitres_sts_001_f24_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

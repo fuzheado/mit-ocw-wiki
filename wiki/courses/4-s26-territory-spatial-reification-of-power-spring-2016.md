@@ -12,6 +12,9 @@ views: 131
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:48:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 1, Video-Transcript: 1"
+api_id: 5069
 ---
 
 # Territory: Spatial Reification of Power
@@ -30,10 +33,19 @@ This course proposes that investigating the ways in which territory is produced,
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-s26-territory-spatial-reification-of-power-spring-2016/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-s26-territory-spatial-reification-of-power-spring-2016/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/4-s26-territory-spatial-reification-of-power-spring-2016/pages/assignments/)
+
+### Resource
+- [Herodotus and Kirchner’s plan for the city of Babylon (.jpg)](https://ocw.mit.edu/courses/4-s26-territory-spatial-reification-of-power-spring-2016/resources/4-s26s16/)
+- [Herodotus and Kirchner’s plan for the city of Babylon (thumbnail) (.jpg)](https://ocw.mit.edu/courses/4-s26-territory-spatial-reification-of-power-spring-2016/resources/4-s26s16-th/)
+- [Related Resources](https://ocw.mit.edu/courses/4-s26-territory-spatial-reification-of-power-spring-2016/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

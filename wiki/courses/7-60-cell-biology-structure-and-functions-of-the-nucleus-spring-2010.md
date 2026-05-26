@@ -12,6 +12,9 @@ views: 381
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:58:36Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 4966
 ---
 
 # Cell Biology: Structure and Functions of the Nucleus
@@ -30,8 +33,17 @@ The goal of this course is to teach both the fundamentals of nuclear cell biolog
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/7-60-cell-biology-structure-and-functions-of-the-nucleus-spring-2010/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/7-60-cell-biology-structure-and-functions-of-the-nucleus-spring-2010/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/7-60-cell-biology-structure-and-functions-of-the-nucleus-spring-2010/pages/assignments/)
+
+### Resource
+- [Illustration of a cell, showing the nucleus, and the DNA within the nucleus (.jpg)](https://ocw.mit.edu/courses/7-60-cell-biology-structure-and-functions-of-the-nucleus-spring-2010/resources/7-60s10/)
 ## Wikipedia Bridge
 
 ### Related Articles

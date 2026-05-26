@@ -12,6 +12,9 @@ views: 2069
 completeness: 0.0
 last_modified: "2026-05-06T17:22:16Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 1"
+api_id: 19759
 ---
 
 # Interactive Data Visualization and Society
@@ -31,12 +34,8 @@ This course covers the design, ethical, and technical skills for creating effect
 
 ## Materials
 
-- [Laboratory Assignments] Laboratory Assignments
-- [Lecture Notes] Lecture Notes
-- [Multiple Assignment Types] Multiple Assignment Types
-- [Projects] Projects
-- [Readings] Readings
-
+### Resource
+- [mit6_c35_s25.jpg (.jpg)](https://ocw.mit.edu/courses/6-c35-interactive-data-visualization-and-society-spring-2025/resources/mit6_c35_s25_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

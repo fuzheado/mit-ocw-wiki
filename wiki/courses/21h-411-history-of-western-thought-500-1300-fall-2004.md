@@ -12,6 +12,9 @@ views: 402
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T14:45:36Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 7, Reading-List: 4, Resource: 4, Syllabus: 2"
+api_id: 5332
 ---
 
 # History of Western Thought, 500-1300
@@ -30,8 +33,28 @@ This course examines the development of the western intellectual tradition from 
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-411-history-of-western-thought-500-1300-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-411-history-of-western-thought-500-1300-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [gregory.pdf (.pdf)](https://ocw.mit.edu/courses/21h-411-history-of-western-thought-500-1300-fall-2004/resources/gregory/)
+- [boniface.pdf (.pdf)](https://ocw.mit.edu/courses/21h-411-history-of-western-thought-500-1300-fall-2004/resources/boniface/)
+- [augustine.pdf (.pdf)](https://ocw.mit.edu/courses/21h-411-history-of-western-thought-500-1300-fall-2004/resources/augustine/)
+- [Readings](https://ocw.mit.edu/courses/21h-411-history-of-western-thought-500-1300-fall-2004/pages/readings/)
+
+### Problem-Set
+- [prelmbiblography.pdf (.pdf)](https://ocw.mit.edu/courses/21h-411-history-of-western-thought-500-1300-fall-2004/resources/prelmbiblography/)
+- [medreview.pdf (.pdf)](https://ocw.mit.edu/courses/21h-411-history-of-western-thought-500-1300-fall-2004/resources/medreview/)
+- [medievalpaper.pdf (.pdf)](https://ocw.mit.edu/courses/21h-411-history-of-western-thought-500-1300-fall-2004/resources/medievalpaper/)
+- [litreview.pdf (.pdf)](https://ocw.mit.edu/courses/21h-411-history-of-western-thought-500-1300-fall-2004/resources/litreview/)
+- [literaturereview.pdf (.pdf)](https://ocw.mit.edu/courses/21h-411-history-of-western-thought-500-1300-fall-2004/resources/literaturereview/)
+- [finalbiblography.pdf (.pdf)](https://ocw.mit.edu/courses/21h-411-history-of-western-thought-500-1300-fall-2004/resources/finalbiblography/)
+- [Assignments](https://ocw.mit.edu/courses/21h-411-history-of-western-thought-500-1300-fall-2004/pages/assignments/)
+
+### Resource
+- [21h-411f04.jpg (.jpg)](https://ocw.mit.edu/courses/21h-411-history-of-western-thought-500-1300-fall-2004/resources/21h-411f04/)
+- [21h-411f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/21h-411-history-of-western-thought-500-1300-fall-2004/resources/21h-411f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

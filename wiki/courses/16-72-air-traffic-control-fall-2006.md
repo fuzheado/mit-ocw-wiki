@@ -12,6 +12,9 @@ views: 284
 completeness: 0.11666666666666668
 last_modified: "2026-05-06T17:07:10Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 14, Reading-List: 1, Resource: 4, Syllabus: 2, Video-Transcript: 1"
+api_id: 5201
 ---
 
 # Air Traffic Control
@@ -30,8 +33,32 @@ This course introduces the various aspects of present and future Air Traffic Con
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [lec9.pdf (.pdf)](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/resources/lec9/)
+- [lec8.pdf (.pdf)](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/resources/lec8/)
+- [lec7.pdf (.pdf)](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/resources/lec7/)
+- [lec6.pdf (.pdf)](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/resources/lec6/)
+- [lec5.pdf (.pdf)](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/resources/lec5/)
+- [lec4.pdf (.pdf)](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/resources/lec4/)
+- [lec3.pdf (.pdf)](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/resources/lec3/)
+- [lec2.pdf (.pdf)](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/resources/lec2/)
+- [lec13.pdf (.pdf)](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/resources/lec13/)
+- [lec12.pdf (.pdf)](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/resources/lec12/)
+- [lec11.pdf (.pdf)](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/resources/lec11/)
+- [lec10.pdf (.pdf)](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/resources/lec10/)
+- [lec1.pdf (.pdf)](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/resources/lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/pages/readings/)
+
+### Resource
+- [16-72f06.jpg (.jpg)](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/resources/16-72f06/)
+- [16-72f06-th.jpg (.jpg)](https://ocw.mit.edu/courses/16-72-air-traffic-control-fall-2006/resources/16-72f06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

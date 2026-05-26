@@ -12,6 +12,9 @@ views: 193
 completeness: 0.06
 last_modified: "2026-05-06T17:05:36Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 6, Resource: 15, Syllabus: 1, Video-Transcript: 2"
+api_id: 5576
 ---
 
 # Major Authors: John Milton
@@ -31,8 +34,37 @@ Students should come to the seminar having read Paradise Lost straight through a
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/pages/syllabus/)
 
+### Reading-List
+- [Ramus (.pdf)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/mit21l_705s08_ramus/)
+- [Outline Nyquist (.pdf)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/mit21l_705s08_nyquist/)
+- [Genesis 1-5 (.pdf)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/mit21l_705s08_genesis/)
+- [Selected Bibliography (.pdf)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/mit21l_705s08_bibliogr/)
+- [Areopagitica (.pdf)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/mit21l_705s08_aropgtica/)
+- [Readings](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/pages/readings/)
+
+### Problem-Set
+- [How to Format your Paper (.pdf)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/mit21l_705s08_paper/)
+- [Guidelines for the Short Essay (.pdf)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/mit21l_705s08_essay/)
+- [Assignments](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/pages/assignments/)
+
+### Resource
+- [Paradise Lost V Fish (.pdf)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/mit21l_705s08_pl_v_s08/)
+- [What Happens in Paradise Lost (.pdf)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/mit21l_705s08_paradise/)
+- [Genesis 32 (.pdf)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/mit21l_705s08_genesis32/)
+- [Dryden (.pdf)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/mit21l_705s08_dryden/)
+- [Donne's Sonnet on the Death of Death (.pdf)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/mit21l_705s08_donnes/)
+- [The Golden Compass: Sources for Pullman's Title (.pdf)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/mit21l_705s08_compass/)
+- [Essential Backgrounds for Reading Milton (.pdf)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/mit21l_705s08_backgrnd/)
+- [Early Editions: 1674 (.pdf)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/mit21l_705s08_1674/)
+- [Early Editions: 1668b (.pdf)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/mit21l_705s08_1668b/)
+- [Early editions: 1668a (.pdf)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/mit21l_705s08_1668a/)
+- [Early Editions: 1667a (.pdf)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/mit21l_705s08_1667a/)
+- [21l-705s08.JPG (.JPG)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/21l-705s08/)
+- [21l-705s08-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/resources/21l-705s08-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21l-705-major-authors-john-milton-spring-2008/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

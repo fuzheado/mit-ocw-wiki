@@ -12,6 +12,9 @@ views: 125
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:20:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 5455
 ---
 
 # Sensory-Neural Systems: Spatial Orientation from End Organs to Behavior and Adaptation
@@ -30,8 +33,19 @@ This course introduces sensory systems and multi-sensory fusion using the vestib
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/16-430j-sensory-neural-systems-spatial-orientation-from-end-organs-to-behavior-and-adaptation-spring-2012/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/16-430j-sensory-neural-systems-spatial-orientation-from-end-organs-to-behavior-and-adaptation-spring-2012/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/16-430j-sensory-neural-systems-spatial-orientation-from-end-organs-to-behavior-and-adaptation-spring-2012/pages/assignments/)
+
+### Resource
+- [MIT_Seal.png (.png)](https://ocw.mit.edu/courses/16-430j-sensory-neural-systems-spatial-orientation-from-end-organs-to-behavior-and-adaptation-spring-2012/resources/mit_seal/)
+- [Larry Young spins Charles Oman during a test under weightless conditions (.jpg)](https://ocw.mit.edu/courses/16-430j-sensory-neural-systems-spatial-orientation-from-end-organs-to-behavior-and-adaptation-spring-2012/resources/16-430js12/)
+- [Teaching Note](https://ocw.mit.edu/courses/16-430j-sensory-neural-systems-spatial-orientation-from-end-organs-to-behavior-and-adaptation-spring-2012/pages/syllabus/teaching-note/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 355
 completeness: 0.2
 last_modified: "2026-05-06T16:49:03Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 11, Reading-List: 1, Resource: 24, Syllabus: 2"
+api_id: 3924
 ---
 
 # Biomedical Computing
@@ -30,10 +33,43 @@ Analyzes computational needs of clinical medicine reviews systems and approaches
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Problem Sets] Problem Sets
+### Lectures
+- **Assignment 1: Clinical Databases** — [🔗](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/pages/assignments/assn1/)
+- **Assignment 2: Extracting Meaning from Text** — [🔗](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/pages/assignments/assn2/)
+- **Assignment 3: Gene Expression and Mathematical Foundations** — [🔗](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/pages/assignments/assn3/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/pages/calendar/)
+- **Lectures and Readings** — [🔗](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/pages/lectures-and-readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/pages/syllabus/)
 
+### Problem-Set
+- [two.png (.png)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/two/)
+- [three.png (.png)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/three/)
+- [six.png (.png)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/six/)
+- [seven.png (.png)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/seven/)
+- [one.png (.png)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/one/)
+- [four.png (.png)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/four/)
+- [five.png (.png)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/five/)
+- [Assignments](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/pages/assignments/)
+
+### Resource
+- [MITHST_950JF10_sana.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/mithst_950jf10_sana/)
+- [MITHST_950JF10_lec7.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/mithst_950jf10_lec7/)
+- [MITHST_950JF10_lec4.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/mithst_950jf10_lec4/)
+- [MITHST_950JF10_lec3_2.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/mithst_950jf10_lec3_2/)
+- [MITHST_950JF10_lec3_1.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/mithst_950jf10_lec3_1/)
+- [MITHST_950JF10_lec22.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/mithst_950jf10_lec22/)
+- [MITHST_950JF10_lec20_2.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/mithst_950jf10_lec20_2/)
+- [MITHST_950JF10_lec2.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/mithst_950jf10_lec2/)
+- [MITHST_950JF10_lec17.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/mithst_950jf10_lec17/)
+- [MITHST_950JF10_lec16.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/mithst_950jf10_lec16/)
+- [MITHST_950JF10_lec15_2.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/mithst_950jf10_lec15_2/)
+- [MITHST_950JF10_lec15_1.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/mithst_950jf10_lec15_1/)
+- [MITHST_950JF10_lec14.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/mithst_950jf10_lec14/)
+- [MITHST_950JF10_lec11.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/mithst_950jf10_lec11/)
+- [MITHST_950JF10_lec10.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/mithst_950jf10_lec10/)
+- [MITHST_950JF10_lec1.pdf (.pdf)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/mithst_950jf10_lec1/)
+- [hst-950jf10.jpg (.jpg)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/hst-950jf10/)
+- [hst-950jf10-th.jpg (.jpg)](https://ocw.mit.edu/courses/hst-950j-biomedical-computing-fall-2010/resources/hst-950jf10-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

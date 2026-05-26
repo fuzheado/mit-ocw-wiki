@@ -12,6 +12,9 @@ views: 197
 completeness: 0.22000000000000003
 last_modified: "2026-05-06T16:54:24Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 5222
 ---
 
 # Nazi Germany and the Holocaust
@@ -30,8 +33,23 @@ The rise and fall of National Socialism is one of the most intensively-studied t
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-447-nazi-germany-and-the-holocaust-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-447-nazi-germany-and-the-holocaust-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-447-nazi-germany-and-the-holocaust-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/21h-447-nazi-germany-and-the-holocaust-fall-2004/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/21h-447-nazi-germany-and-the-holocaust-fall-2004/pages/assignments/)
+
+### Resource
+- [Spring 2007, David Ciarlo (.pdf)](https://ocw.mit.edu/courses/21h-447-nazi-germany-and-the-holocaust-fall-2004/resources/mit21h_447f04_sylls07/)
+- [Fall 2007, David Ciarlo (.pdf)](https://ocw.mit.edu/courses/21h-447-nazi-germany-and-the-holocaust-fall-2004/resources/mit21h_447f04_syllf07/)
+- [Fall 2004, David Ciarlo (.pdf)](https://ocw.mit.edu/courses/21h-447-nazi-germany-and-the-holocaust-fall-2004/resources/mit21h_447f04_syllf04/)
+- [Jewish Civilians (.jpg)](https://ocw.mit.edu/courses/21h-447-nazi-germany-and-the-holocaust-fall-2004/resources/21h-447f04/)
+- [Jewish Civilians (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21h-447-nazi-germany-and-the-holocaust-fall-2004/resources/21h-447f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

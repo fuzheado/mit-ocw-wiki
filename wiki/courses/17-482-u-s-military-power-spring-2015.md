@@ -12,6 +12,9 @@ views: 157
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:59:49Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 5, Syllabus: 2"
+api_id: 3715
 ---
 
 # U.S. Military Power
@@ -30,8 +33,20 @@ The purpose of this course is to acquaint the student with the missions, capabil
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-482-u-s-military-power-spring-2015/pages/calendar/)
+- **References and Resources** — [🔗](https://ocw.mit.edu/courses/17-482-u-s-military-power-spring-2015/pages/references-and-resources/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-482-u-s-military-power-spring-2015/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-482-u-s-military-power-spring-2015/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-482-u-s-military-power-spring-2015/pages/assignments/)
+
+### Resource
+- [Cover Down (.jpg)](https://ocw.mit.edu/courses/17-482-u-s-military-power-spring-2015/resources/17-482s15/)
+- [Cover Down (thumbnail) (.jpg)](https://ocw.mit.edu/courses/17-482-u-s-military-power-spring-2015/resources/17-482s15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

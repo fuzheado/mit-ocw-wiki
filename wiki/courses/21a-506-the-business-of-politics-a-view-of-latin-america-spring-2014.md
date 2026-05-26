@@ -12,6 +12,9 @@ views: 61
 completeness: 0.16000000000000003
 last_modified: "2026-05-06T16:57:45Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 8, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 4260
 ---
 
 # The Business of Politics: A View of Latin America
@@ -30,9 +33,29 @@ This class looks at the birth and international expansion of an American industr
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/pages/readings/)
+
+### Problem-Set
+- [21A.506S14 The Business of Politics - Assignments: Task 5 Student Example (.pdf)](https://ocw.mit.edu/courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/resources/mit21a_506s14_task5studnt/)
+- [MIT21A_506S14_Task5.pdf (.pdf)](https://ocw.mit.edu/courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/resources/mit21a_506s14_task5/)
+- [21A.506S14 The Business of Politics - Assignments: Task 4 Student Example (.pdf)](https://ocw.mit.edu/courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/resources/mit21a_506s14_task4studnt/)
+- [MIT21A_506S14_Task4.pdf (.pdf)](https://ocw.mit.edu/courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/resources/mit21a_506s14_task4/)
+- [MIT21A_506S14_Task3.pdf (.pdf)](https://ocw.mit.edu/courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/resources/mit21a_506s14_task3/)
+- [MIT21A_506S14_Task2.pdf (.pdf)](https://ocw.mit.edu/courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/resources/mit21a_506s14_task2/)
+- [MIT21A_506S14_Task1.pdf (.pdf)](https://ocw.mit.edu/courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/resources/mit21a_506s14_task1/)
+- [Assignments](https://ocw.mit.edu/courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/pages/assignments/)
+
+### Resource
+- [21A-506s14.jpg (.jpg)](https://ocw.mit.edu/courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/resources/21a-506s14/)
+- [21A-506s14-th.jpg (.jpg)](https://ocw.mit.edu/courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/resources/21a-506s14-th/)
+- [21A-506_stat-students.png (.png)](https://ocw.mit.edu/courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/resources/21a-506_stat-students/)
+- [21A-506_classroom-1.jpg (.jpg)](https://ocw.mit.edu/courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/resources/21a-506_classroom-1/)
+- [Instructor Insights](https://ocw.mit.edu/courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 511
 completeness: 0.05833333333333334
 last_modified: "2026-05-06T17:16:26Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 6, Lecture-Notes: 7, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3507
 ---
 
 # Advanced Topics in Real Estate Finance
@@ -30,9 +33,33 @@ This half-semester course introduces and surveys a selection of cutting-edge top
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [using_excel.pdf (.pdf)](https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/resources/using_excel/)
+- [transactionindex.pdf (.pdf)](https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/resources/transactionindex/)
+- [research_indices.pdf (.pdf)](https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/resources/research_indices/)
+- [flexibility2.pdf (.pdf)](https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/resources/flexibility2/)
+- [flexibility.pdf (.pdf)](https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/resources/flexibility/)
+- [conference.pdf (.pdf)](https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/resources/conference/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/pages/readings/)
+
+### Assignment
+- [venter.pdf (.pdf)](https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/resources/venter/)
+- [rowe.pdf (.pdf)](https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/resources/rowe/)
+- [masunaga.pdf (.pdf)](https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/resources/masunaga/)
+- [diao.pdf (.pdf)](https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/resources/diao/)
+- [chirathivat.pdf (.pdf)](https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/resources/chirathivat/)
+- [Projects](https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/pages/projects/)
+
+### Resource
+- [11-434js07.jpg (.jpg)](https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/resources/11-434js07/)
+- [11-434js07-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/resources/11-434js07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

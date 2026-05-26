@@ -12,6 +12,9 @@ views: 281
 completeness: 0.1416666666666667
 last_modified: "2026-05-06T16:48:22Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 17, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5330
 ---
 
 # System Design and Analysis based on AD and Complexity Theories
@@ -30,8 +33,36 @@ This course studies what makes a good design and how one develops a good design.
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [lec502.pdf (.pdf)](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/resources/lec502/)
+- [lec429.pdf (.pdf)](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/resources/lec429/)
+- [lec427.pdf (.pdf)](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/resources/lec427/)
+- [lec425.pdf (.pdf)](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/resources/lec425/)
+- [lec420.pdf (.pdf)](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/resources/lec420/)
+- [lec406.pdf (.pdf)](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/resources/lec406/)
+- [lec404.pdf (.pdf)](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/resources/lec404/)
+- [lec330_pt2.pdf (.pdf)](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/resources/lec330_pt2/)
+- [lec330_pt1.pdf (.pdf)](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/resources/lec330_pt1/)
+- [lec328.pdf (.pdf)](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/resources/lec328/)
+- [lec309.pdf (.pdf)](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/resources/lec309/)
+- [lec228_supplemnt.pdf (.pdf)](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/resources/lec228_supplemnt/)
+- [lec228.pdf (.pdf)](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/resources/lec228/)
+- [lec216.pdf (.pdf)](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/resources/lec216/)
+- [lec214.pdf (.pdf)](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/resources/lec214/)
+- [lec202.pdf (.pdf)](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/resources/lec202/)
+- [Lecture Notes](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/pages/readings/)
+
+### Resource
+- [2-882s05.jpg (.jpg)](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/resources/2-882s05/)
+- [2-882s05-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/resources/2-882s05-th/)
+- [Study Materials](https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

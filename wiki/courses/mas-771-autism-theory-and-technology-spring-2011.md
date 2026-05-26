@@ -12,6 +12,9 @@ views: 1233
 completeness: 0.0
 last_modified: "2026-05-06T17:05:52Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 3949
 ---
 
 # Autism Theory and Technology
@@ -30,9 +33,18 @@ This course illuminates current theories about autism together with challenges f
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Projects] Projects
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-771-autism-theory-and-technology-spring-2011/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/mas-771-autism-theory-and-technology-spring-2011/pages/readings/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/mas-771-autism-theory-and-technology-spring-2011/pages/projects/)
+
+### Resource
+- [A photo of an autistic boy using an iPad with his teacher (.jpg)](https://ocw.mit.edu/courses/mas-771-autism-theory-and-technology-spring-2011/resources/mas-771s11/)
+- [Related Resources](https://ocw.mit.edu/courses/mas-771-autism-theory-and-technology-spring-2011/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

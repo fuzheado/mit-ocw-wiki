@@ -12,6 +12,9 @@ views: 150
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:58:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5778
 ---
 
 # Affective Priming at Short and Extremely Short Exposures
@@ -30,10 +33,20 @@ This course is an investigation of affective priming and creation of rigorously 
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Media Assignments] Media Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-51-affective-priming-at-short-and-extremely-short-exposures-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-51-affective-priming-at-short-and-extremely-short-exposures-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-51-affective-priming-at-short-and-extremely-short-exposures-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/9-51-affective-priming-at-short-and-extremely-short-exposures-spring-2003/pages/assignments/)
+
+### Resource
+- [Stimuli (.gif)](https://ocw.mit.edu/courses/9-51-affective-priming-at-short-and-extremely-short-exposures-spring-2003/resources/9-51s03/)
+- [Stimuli (thumbnail) (.gif)](https://ocw.mit.edu/courses/9-51-affective-priming-at-short-and-extremely-short-exposures-spring-2003/resources/9-51s03-th/)
+- [Related Resources](https://ocw.mit.edu/courses/9-51-affective-priming-at-short-and-extremely-short-exposures-spring-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

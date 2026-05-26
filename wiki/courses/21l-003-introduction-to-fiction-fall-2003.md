@@ -12,6 +12,9 @@ views: 270
 completeness: 0.06
 last_modified: "2026-05-06T15:03:24Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 2, Resource: 4, Syllabus: 2"
+api_id: 3799
 ---
 
 # Introduction to Fiction
@@ -30,8 +33,21 @@ This course investigates the uses and boundaries of fiction in a range of novels
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-003-introduction-to-fiction-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-003-introduction-to-fiction-fall-2003/pages/syllabus/)
 
+### Reading-List
+- [Notes on Close Reading (.pdf)](https://ocw.mit.edu/courses/21l-003-introduction-to-fiction-fall-2003/resources/notes_on_close_reading/)
+- [Readings](https://ocw.mit.edu/courses/21l-003-introduction-to-fiction-fall-2003/pages/readings/)
+
+### Problem-Set
+- [First Essay Checklist (.pdf)](https://ocw.mit.edu/courses/21l-003-introduction-to-fiction-fall-2003/resources/first_essay_workshop/)
+- [Assignments](https://ocw.mit.edu/courses/21l-003-introduction-to-fiction-fall-2003/pages/assignments/)
+
+### Resource
+- [Whale Being Harpooned (.jpg)](https://ocw.mit.edu/courses/21l-003-introduction-to-fiction-fall-2003/resources/21l-003f03/)
+- [Whale Being Harpooned (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-003-introduction-to-fiction-fall-2003/resources/21l-003f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

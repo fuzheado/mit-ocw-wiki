@@ -12,6 +12,9 @@ views: 317
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T14:56:29Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 5309
 ---
 
 # Topics in South Asian Literature and Culture
@@ -30,8 +33,21 @@ This subject aims to provide an overview of contemporary texts in regional langu
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-041-topics-in-south-asian-literature-and-culture-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-041-topics-in-south-asian-literature-and-culture-fall-2004/pages/readings/)
+
+### Problem-Set
+- [The Art of Invisibility in Kiran Desai’s Hullabaloo in the Guava Orchard (.pdf)](https://ocw.mit.edu/courses/21g-041-topics-in-south-asian-literature-and-culture-fall-2004/resources/mit21g_041f04_ramya/)
+- [Memoir on Cooking (.pdf)](https://ocw.mit.edu/courses/21g-041-topics-in-south-asian-literature-and-culture-fall-2004/resources/mit21g_041f04_paper/)
+- [Mozail (.pdf)](https://ocw.mit.edu/courses/21g-041-topics-in-south-asian-literature-and-culture-fall-2004/resources/mit21g_041f04_biswal/)
+- [Assignments](https://ocw.mit.edu/courses/21g-041-topics-in-south-asian-literature-and-culture-fall-2004/pages/assignments/)
+
+### Resource
+- [Women walking in Jodhpur, Rajasthan, India (.jpg)](https://ocw.mit.edu/courses/21g-041-topics-in-south-asian-literature-and-culture-fall-2004/resources/21g-041f04/)
+- [Women walking in Jodhpur, Rajasthan, India (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-041-topics-in-south-asian-literature-and-culture-fall-2004/resources/21g-041f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 460
 completeness: 0.2
 last_modified: "2026-05-06T16:54:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 14, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3474
 ---
 
 # Engineering Systems Analysis for Design
@@ -32,8 +35,31 @@ This MIT OpenCourseWare site is based on the materials from Professor de Neufvil
 
 ## Materials
 
-- [Problem Sets] Problem Sets
+### Lectures
+- **Application Portfolio Assignment –** — [🔗](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/resources/ap_assn6/) · [🔗](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/resources/ap_assn5/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/pages/readings/)
+
+### Problem-Set
+- [Uncertainty Assignment (.pdf)](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/resources/uncertainty/)
+- [Optimum Capacity Expansion (.pdf)](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/resources/opt_capacity/)
+- [NPV Assignment (.pdf)](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/resources/npv/)
+- [Option Valuation by Lattice Assignment (.pdf)](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/resources/lattice_value/)
+- [Lattice Development (.pdf)](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/resources/lattice_develop/)
+- [Complete Portfolio Slide Set (.pdf)](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/resources/ap_slides/)
+- [Application Portfolios: Grading Criteria (.pdf)](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/resources/ap_grading/)
+- [Complete Revised Portfolio (.pdf)](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/resources/ap_complete/)
+- [Application Portfolio Assignment – Part 3 + 4 Combined (.pdf)](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/resources/ap_assn3_4/)
+- [Application Portfolio Assignment 2 (.pdf)](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/resources/ap_assn2/)
+- [Application Portfolio (.pdf)](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/resources/ap_assn1/)
+- [Assignments](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/pages/assignments/)
+
+### Resource
+- [esd-71f08.jpg (.jpg)](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/resources/esd-71f08/)
+- [esd-71f08-th.jpg (.jpg)](https://ocw.mit.edu/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/resources/esd-71f08-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

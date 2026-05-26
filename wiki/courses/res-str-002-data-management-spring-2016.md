@@ -12,6 +12,9 @@ views: 1194
 completeness: 0.0
 last_modified: "2026-05-06T15:02:26Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Resource: 11"
+api_id: 3616
 ---
 
 # Data Management
@@ -30,8 +33,20 @@ The MIT Libraries Data Management Group hosts a set of workshops during IAP  and
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Workshop Materials** — [🔗](https://ocw.mit.edu/courses/res-str-002-data-management-spring-2016/pages/workshop-materials/)
 
+### Resource
+- [res-str-002s16.jpg (.jpg)](https://ocw.mit.edu/courses/res-str-002-data-management-spring-2016/resources/res-str-002s16/)
+- [res-str-002s16-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-str-002-data-management-spring-2016/resources/res-str-002s16-th/)
+- [MIT Libraries Data Management Workshops: Research Data Management:  Using Metadata to Find, Interpret & Share Your Data (.pdf)](https://ocw.mit.edu/courses/res-str-002-data-management-spring-2016/resources/mitres_str_002s16_usngmeta/)
+- [MIT Libraries Data Management Workshops: File Structure and Naming (.pdf)](https://ocw.mit.edu/courses/res-str-002-data-management-spring-2016/resources/mitres_str_002s16_filestrc/)
+- [MIT Libraries Data Management Workshops: File Organization (.pdf)](https://ocw.mit.edu/courses/res-str-002-data-management-spring-2016/resources/mitres_str_002s16_file/)
+- [MIT Libraries Data Management Workshops: Version Control (.pdf)](https://ocw.mit.edu/courses/res-str-002-data-management-spring-2016/resources/mitres_str002s16_vrsncntrl/)
+- [MIT Libraries Data Management Workshops: Introduction to Research Data Management (.pdf)](https://ocw.mit.edu/courses/res-str-002-data-management-spring-2016/resources/mitres_str002s16_introdm/)
+- [MIT Libraries Data Management Workshops: Research Data Management: Sharing and Storage (.pdf)](https://ocw.mit.edu/courses/res-str-002-data-management-spring-2016/resources/mitres_str002s16_dsstorage/)
+- [MIT Libraries Data Management Workshops: Data Management Plans and the DMPTool (.pdf)](https://ocw.mit.edu/courses/res-str-002-data-management-spring-2016/resources/mitres_str002s16_dmp/)
+- [MIT Libraries Data Management Workshops: Resources for Data Sharing and Storage (.pdf)](https://ocw.mit.edu/courses/res-str-002-data-management-spring-2016/resources/mitres_str002s16_datashrng/)
 ## Wikipedia Bridge
 
 ### Related Articles

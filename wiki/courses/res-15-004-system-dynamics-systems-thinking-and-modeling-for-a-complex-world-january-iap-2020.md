@@ -12,6 +12,8 @@ views: 753
 completeness: 0.0
 last_modified: "2026-05-06T17:03:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Resource: 1, Video-Transcript: 4"
 ---
 
 # System Dynamics: Systems Thinking and Modeling for a Complex World
@@ -30,9 +32,11 @@ This one-day workshop provides a brief overview of system dynamics and a hands-o
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
+### Lectures
+- **Session Video and Slides** — [⬇](https://archive.org/download/mitres-15-004-iap-20/MITRES15-004IAP20_System_Dynamics_300k.mp4) · [📄](https://ocw.mit.edu/courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/0c69abc4986594e01df51c597cadc689_o-Yp8A7BPE8.pdf) · [🔗](https://ocw.mit.edu/courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/pages/session-video-and-slides/)
 
+### Resource
+- [Session Information and Resources](https://ocw.mit.edu/courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/pages/session-info-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

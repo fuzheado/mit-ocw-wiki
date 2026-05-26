@@ -12,6 +12,9 @@ views: 2449
 completeness: 0.0
 last_modified: "2026-05-06T15:01:18Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 3, Resource: 14, Syllabus: 1, Video-Transcript: 5"
+api_id: 3370
 ---
 
 # Japanese I
@@ -30,10 +33,27 @@ This course is designed for students with no previous knowledge of the language,
 
 ## Materials
 
-- [Exams] Exams
-- [Instructor Insights] Instructor Insights
-- [Multiple Assignment Types] Multiple Assignment Types
+### Lectures
+- **In-class Activities, Assignments, and Quizzes** — [🔗](https://ocw.mit.edu/courses/21g-501-japanese-i-fall-2019/pages/in-class-activities-assignments-and-quizzes/)
+- **Interview Tests** — [🔗](https://ocw.mit.edu/courses/21g-501-japanese-i-fall-2019/pages/interview-tests/)
+- **Related Resources** — [🔗](https://ocw.mit.edu/courses/21g-501-japanese-i-fall-2019/pages/related-resources/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-501-japanese-i-fall-2019/pages/syllabus/)
 
+### Reading-List
+- [MIT21G_501f19_Ses07 (.pdf)](https://ocw.mit.edu/courses/21g-501-japanese-i-fall-2019/resources/mit21g_501f19_ses07/)
+- [MIT21G_501f19_Ses02.pdf (.pdf)](https://ocw.mit.edu/courses/21g-501-japanese-i-fall-2019/resources/mit21g_501f19_ses02/)
+- [MajorsAtMIT (.pdf)](https://ocw.mit.edu/courses/21g-501-japanese-i-fall-2019/resources/mit21g_501f19_majorsatmit/)
+
+### Resource
+- [29.png (.png)](https://ocw.mit.edu/courses/21g-501-japanese-i-fall-2019/resources/29/)
+- [21g501f19.jpg (.jpg)](https://ocw.mit.edu/courses/21g-501-japanese-i-fall-2019/resources/21g501f19/)
+- [21g501f19-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-501-japanese-i-fall-2019/resources/21g501f19-th/)
+- [Trying Something New](https://ocw.mit.edu/courses/21g-501-japanese-i-fall-2019/pages/instructor-insights/trying-something-new/)
+- [Instructor Background](https://ocw.mit.edu/courses/21g-501-japanese-i-fall-2019/pages/instructor-insights/instructor-background/)
+- [Hiragana, Katakana, and Kanji](https://ocw.mit.edu/courses/21g-501-japanese-i-fall-2019/pages/instructor-insights/hiragana-katakana-and-kanji/)
+- [Instructor Insights](https://ocw.mit.edu/courses/21g-501-japanese-i-fall-2019/pages/instructor-insights/)
+- [Creating a Supportive Classroom Environment](https://ocw.mit.edu/courses/21g-501-japanese-i-fall-2019/pages/instructor-insights/creating-a-supportive-classroom-environment/)
+- [A Focus on Communication](https://ocw.mit.edu/courses/21g-501-japanese-i-fall-2019/pages/instructor-insights/a-focus-on-communication/)
 ## Wikipedia Bridge
 
 ### Related Articles

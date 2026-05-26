@@ -12,6 +12,9 @@ views: 311
 completeness: 0.0
 last_modified: "2026-05-06T17:06:45Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 9, Syllabus: 2, Video-Transcript: 7"
+api_id: 4568
 ---
 
 # Linguistics and Social Justice: Language, Education, and Human Rights
@@ -30,8 +33,18 @@ Linguists take it for granted that all languages, including languages in the Glo
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
+### Lectures
+- **Assigned Readings and Viewings** — [🔗](https://ocw.mit.edu/courses/24-s96-linguistics-and-social-justice-language-education-and-human-rights-fall-2021/pages/readings/)
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/24-s96-linguistics-and-social-justice-language-education-and-human-rights-fall-2021/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/24-s96-linguistics-and-social-justice-language-education-and-human-rights-fall-2021/pages/calendar/)
+- **General Bibliography** — [🔗](https://ocw.mit.edu/courses/24-s96-linguistics-and-social-justice-language-education-and-human-rights-fall-2021/pages/general-bibliography/)
+- **Lecture Videos** — [🔗](https://ocw.mit.edu/courses/24-s96-linguistics-and-social-justice-language-education-and-human-rights-fall-2021/pages/lecture-videos/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-s96-linguistics-and-social-justice-language-education-and-human-rights-fall-2021/pages/syllabus/)
 
+### Resource
+- [24-S96f21.jpg (.jpg)](https://ocw.mit.edu/courses/24-s96-linguistics-and-social-justice-language-education-and-human-rights-fall-2021/resources/24-s96f21/)
+- [24-S96f21-th.jpg (.jpg)](https://ocw.mit.edu/courses/24-s96-linguistics-and-social-justice-language-education-and-human-rights-fall-2021/resources/24-s96f21-th/)
+- [Additional Resources](https://ocw.mit.edu/courses/24-s96-linguistics-and-social-justice-language-education-and-human-rights-fall-2021/pages/additional-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

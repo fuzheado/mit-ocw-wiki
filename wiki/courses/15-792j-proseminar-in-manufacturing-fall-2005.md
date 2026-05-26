@@ -12,6 +12,9 @@ views: 264
 completeness: 0.0
 last_modified: "2026-05-06T17:03:17Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Resource: 4, Syllabus: 2"
+api_id: 5774
 ---
 
 # Proseminar in Manufacturing
@@ -30,8 +33,16 @@ This course provides an integrative forum for operations and manufacturing stude
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-792j-proseminar-in-manufacturing-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-792j-proseminar-in-manufacturing-fall-2005/pages/syllabus/)
 
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/15-792j-proseminar-in-manufacturing-fall-2005/pages/projects/)
+
+### Resource
+- [Rapid Prototyping (.jpg)](https://ocw.mit.edu/courses/15-792j-proseminar-in-manufacturing-fall-2005/resources/15-792jf05/)
+- [Rapid Prototyping (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-792j-proseminar-in-manufacturing-fall-2005/resources/15-792jf05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

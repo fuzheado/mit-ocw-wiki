@@ -12,6 +12,9 @@ views: 706
 completeness: 0.12333333333333335
 last_modified: "2026-05-06T15:04:16Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 10, Problem-Set: 2, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3935
 ---
 
 # Argumentation and Communication
@@ -30,9 +33,32 @@ This Communication and Argumentation seminar is an intensive writing workshop th
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-225-argumentation-and-communication-fall-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-225-argumentation-and-communication-fall-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [writing_eff_esay.pdf (.pdf)](https://ocw.mit.edu/courses/11-225-argumentation-and-communication-fall-2006/resources/writing_eff_esay/)
+- [paragraph_flow.pdf (.pdf)](https://ocw.mit.edu/courses/11-225-argumentation-and-communication-fall-2006/resources/paragraph_flow/)
+- [oralpresentation.pdf (.pdf)](https://ocw.mit.edu/courses/11-225-argumentation-and-communication-fall-2006/resources/oralpresentation/)
+- [lect_6.pdf (.pdf)](https://ocw.mit.edu/courses/11-225-argumentation-and-communication-fall-2006/resources/lect_6/)
+- [lect_3.pdf (.pdf)](https://ocw.mit.edu/courses/11-225-argumentation-and-communication-fall-2006/resources/lect_3/)
+- [guide_pres.pdf (.pdf)](https://ocw.mit.edu/courses/11-225-argumentation-and-communication-fall-2006/resources/guide_pres/)
+- [guide_info_memos.pdf (.pdf)](https://ocw.mit.edu/courses/11-225-argumentation-and-communication-fall-2006/resources/guide_info_memos/)
+- [guide_dec_memos.pdf (.pdf)](https://ocw.mit.edu/courses/11-225-argumentation-and-communication-fall-2006/resources/guide_dec_memos/)
+- [analyze_argument.pdf (.pdf)](https://ocw.mit.edu/courses/11-225-argumentation-and-communication-fall-2006/resources/analyze_argument/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-225-argumentation-and-communication-fall-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-225-argumentation-and-communication-fall-2006/pages/readings/)
+
+### Problem-Set
+- [ps2attach.pdf (.pdf)](https://ocw.mit.edu/courses/11-225-argumentation-and-communication-fall-2006/resources/ps2attach/)
+- [Assignments](https://ocw.mit.edu/courses/11-225-argumentation-and-communication-fall-2006/pages/assignments/)
+
+### Resource
+- [11-225f06.jpg (.jpg)](https://ocw.mit.edu/courses/11-225-argumentation-and-communication-fall-2006/resources/11-225f06/)
+- [11-225f06-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-225-argumentation-and-communication-fall-2006/resources/11-225f06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

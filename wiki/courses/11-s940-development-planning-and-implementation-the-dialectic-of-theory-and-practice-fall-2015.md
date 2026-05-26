@@ -12,6 +12,9 @@ views: 69
 completeness: 0.06
 last_modified: "2026-05-06T16:54:15Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4091
 ---
 
 # Development, Planning, and Implementation: The Dialectic of Theory and Practice
@@ -30,8 +33,21 @@ This is an advanced seminar that will analyze the effectiveness of development a
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-s940-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2015/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-s940-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2015/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-s940-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2015/pages/readings/)
+
+### Problem-Set
+- [Urban Villages: Lessons for Village-Centric Urban Growth (.pdf)](https://ocw.mit.edu/courses/11-s940-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2015/resources/mit11_s940f15_urbanvill/)
+- [The Case of Forest City and Singapore (.pdf)](https://ocw.mit.edu/courses/11-s940-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2015/resources/mit11_s940f15_finalpaper/)
+- [Assignments](https://ocw.mit.edu/courses/11-s940-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2015/pages/assignments/)
+
+### Resource
+- [Tillamook Cheese Factory (.jpg)](https://ocw.mit.edu/courses/11-s940-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2015/resources/11-s940f15/)
+- [Tillamook Cheese Factory (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-s940-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2015/resources/11-s940f15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

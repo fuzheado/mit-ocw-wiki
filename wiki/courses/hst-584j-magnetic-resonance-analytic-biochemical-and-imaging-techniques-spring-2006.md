@@ -12,6 +12,9 @@ views: 200
 completeness: 0.4
 last_modified: "2026-05-06T17:09:07Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 6, Problem-Set: 14, Reading-List: 3, Resource: 4, Syllabus: 2"
+api_id: 3642
 ---
 
 # Magnetic Resonance Analytic, Biochemical, and Imaging Techniques
@@ -30,12 +33,42 @@ This course is an introduction to basic NMR theory. Examples of biochemical data
 
 ## Materials
 
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [imageencoding.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/imageencoding/)
+- [coursenotes.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/coursenotes/)
+- [Readings](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/pages/readings/)
+
+### Problem-Set
+- [solutions5.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/solutions5/)
+- [solutions4.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/solutions4/)
+- [solutions3.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/solutions3/)
+- [solutions2.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/solutions2/)
+- [solutions1.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/solutions1/)
+- [quiz_solutions.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/quiz_solutions/)
+- [quiz.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/quiz/)
+- [assignment5.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/assignment5/)
+- [assignment4.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/assignment4/)
+- [assignment3.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/assignment3/)
+- [assignment2.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/assignment2/)
+- [assignment1.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/assignment1/)
+- [Exams](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/pages/assignments/)
+
+### Assignment
+- [ryan_lannsumary.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/ryan_lannsumary/)
+- [ryan_lan_present.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/ryan_lan_present/)
+- [proj_description.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/proj_description/)
+- [jinzhousummary.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/jinzhousummary/)
+- [jinzhoupresent.pdf (.pdf)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/jinzhoupresent/)
+- [Projects](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/pages/projects/)
+
+### Resource
+- [hst-584js06.jpg (.jpg)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/hst-584js06/)
+- [hst-584js06-th.jpg (.jpg)](https://ocw.mit.edu/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/resources/hst-584js06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

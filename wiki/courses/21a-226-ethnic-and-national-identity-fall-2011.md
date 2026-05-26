@@ -12,6 +12,8 @@ views: 88
 completeness: 0.32
 last_modified: "2026-05-06T14:42:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 4, Reading-List: 1, Resource: 1, Syllabus: 1"
 ---
 
 # Ethnic and National Identity
@@ -30,9 +32,23 @@ An introduction to the cross-cultural study of ethnic and national identity. We 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/21a-226-ethnic-and-national-identity-fall-2011/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/21a-226-ethnic-and-national-identity-fall-2011/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21a-226-ethnic-and-national-identity-fall-2011/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21a-226-ethnic-and-national-identity-fall-2011/pages/assignments/)
+- [First Written Assignment](https://ocw.mit.edu/courses/21a-226-ethnic-and-national-identity-fall-2011/pages/assignments/first_assn/)
+- [Second Written Assignment](https://ocw.mit.edu/courses/21a-226-ethnic-and-national-identity-fall-2011/pages/assignments/second_assn/)
+- [Third Written Assignment](https://ocw.mit.edu/courses/21a-226-ethnic-and-national-identity-fall-2011/pages/assignments/third_assn/)
+
+### Resource
+- [Related Resources](https://ocw.mit.edu/courses/21a-226-ethnic-and-national-identity-fall-2011/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

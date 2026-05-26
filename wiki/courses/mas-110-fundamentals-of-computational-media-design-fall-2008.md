@@ -12,6 +12,9 @@ views: 383
 completeness: 0.2
 last_modified: "2026-05-06T15:01:29Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 12, Reading-List: 1, Resource: 3, Syllabus: 1, Video-Transcript: 1"
+api_id: 4314
 ---
 
 # Fundamentals of Computational Media Design
@@ -30,11 +33,28 @@ This class covers the history of 20th century art and design from the perspectiv
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Problem Sets] Problem Sets
-- [Programming Assignments] Programming Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/pages/assignments/) · [🔗](https://ocw.mit.edu/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/pages/assignments)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/pages/readings/)
+
+### Problem-Set
+- [Pygame Examples (.tar)](https://ocw.mit.edu/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/resources/pygame_examples/)
+- [MusicPainter for XO software package (.tar)](https://ocw.mit.edu/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/resources/musicpainter/)
+- [GTK Exercise (.py)](https://ocw.mit.edu/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/resources/gtkexercise/)
+- [CsoundXO Python manual (.pdf)](https://ocw.mit.edu/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/resources/csoundxo_python/)
+- [CsoundXO manual (Chapter 2 "The Csound Engine") (.pdf)](https://ocw.mit.edu/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/resources/csoundxo_manual/)
+- [CsoundXO software package (.tar)](https://ocw.mit.edu/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/resources/csoundxo/)
+- [MusicPainter for XO: download and instructions](https://ocw.mit.edu/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/pages/assignments/musicpainter_dow/)
+- [Exercise 5: gtk + csoundxo](https://ocw.mit.edu/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/pages/assignments/gtkexercise/)
+- [Exercise 3: playing with csoundxo](https://ocw.mit.edu/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/pages/assignments/csoundxo_exercis/)
+- [CsoundXO: Download and Instructions](https://ocw.mit.edu/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/pages/assignments/csoundxo_downlo/)
+
+### Resource
+- [MusicPainter screenshot (.jpg)](https://ocw.mit.edu/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/resources/mas-110f08/)
+- [Related Resources](https://ocw.mit.edu/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

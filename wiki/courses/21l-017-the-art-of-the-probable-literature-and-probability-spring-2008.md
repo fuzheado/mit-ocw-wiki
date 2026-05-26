@@ -12,6 +12,9 @@ views: 232
 completeness: 0.2
 last_modified: "2026-05-06T16:53:43Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 14, Reading-List: 17, Resource: 3, Syllabus: 1, Video-Transcript: 2"
+api_id: 5369
 ---
 
 # The Art of the Probable: Literature and Probability
@@ -31,9 +34,48 @@ Our course therefore aims to broaden students’ appreciation for and understand
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Download** — [🔗](http://www.archive.org/details/artofthinking00arnauoft) · [🔗](http://www.archive.org/details/voltairesphiloso18569gut)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/pages/syllabus/)
 
+### Reading-List
+- [Notes From Underground (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/notes_under/)
+- [Lines, Composed a Few Miles above Tintern Abbey on Revisiting the Wye During a Tour (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/wordworth_tinte/)
+- [A Treatise on Man and the Development of His Faculties (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/quetelet_exce/)
+- [Excerpts from An Essay on Man (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/pope_man/)
+- [Penseés and The Provincial Letters (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/pascal_letters/)
+- [Sir Isaac Newton (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/newton/)
+- [Abridgement of the Argument (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/leibniz_theodicy/)
+- [Hume: Basic Outline (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/hume_outline/)
+- [A Calculation of the Credibility of Human Testimony (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/hooper_1699/)
+- [Excerpt from The Doctrine of Chancesde_Excerpt from The Doctrine of Chances (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/de_moivre/)
+- [Excerpts from The Origin of Species (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/darwin_origin/)
+- [Excerpts from Descent of Man (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/darwin_descent/)
+- [Excerpts from Jeremy Bentham and John Stuart Mill (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/bentham_mill/)
+- [An Essay towards solving a Problem in the Doctrine of Chances (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/bayes_notes/)
+- [Aristotle's Physics (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/aristotles_phy/)
+- [An Argument for Divine Providence, taken from the constant Regularity observ'd in the Births of both Sexes (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/arbuthnot_repri/)
+- [Readings](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/pages/readings/)
+
+### Problem-Set
+- [Oral Presentation Guidelines (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/raman_orals/)
+- [Style Sheet (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/kibel_stylesheet/)
+- [General Guidelines for Essay Assignments (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/essay_guide/)
+- [On the Erroneous Consideration of Wells’ Dr. Moreau as an Allegory for Darwin’s Theory of Natural Selection (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/essay3_zomnir/)
+- [Links between Human Rationality and Animal Savagery in The Island of Dr. Moreau (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/essay3_ouyang/)
+- [Essay 3 Assignment (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/essay3_compiled/)
+- [Inconsistency and Chance in Rosencrantz and Guildenstern are Dead (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/essay3_brumbaugh/)
+- [An Examination of the Role of Evil in the World as it is Considered in the Works of Leibniz and Darwin (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/essay2_zomnir/)
+- [Exploring the Philosophy of Purpose in Voltaire’s Candide (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/essay2_ouyang/)
+- [Essay 2 Assignment (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/essay2_compiled/)
+- [Candide, Beyond the Satire on Leibniz (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/essay2_brumbaugh/)
+- [Essay 1 Assignment (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/essay1_compiled/)
+- [Action and Uncertainty in Pascal’s Wager and Shakespeare’s Hamlet (.pdf)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/essay1_brumbaugh/)
+- [Assignments](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/pages/assignments/)
+
+### Resource
+- [21l-017s08.jpg (.jpg)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/21l-017s08/)
+- [21l-017s08-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/resources/21l-017s08-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

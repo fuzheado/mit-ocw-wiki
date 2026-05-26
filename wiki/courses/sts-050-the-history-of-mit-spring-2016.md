@@ -12,6 +12,9 @@ views: 113
 completeness: 0.12
 last_modified: "2026-05-06T14:47:42Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Problem-Set: 6, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 2"
+api_id: 3629
 ---
 
 # The History of MIT
@@ -31,9 +34,22 @@ The most important prerequisite for this class is curiosity, a desire to think d
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Artifact/Plan Report** — [🔗](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2016/pages/assignments/artifact-plan-report/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2016/pages/calendar/)
+- **Document Report** — [🔗](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2016/pages/assignments/document-report/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2016/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2016/pages/syllabus/)
 
+### Problem-Set
+- [Archives Visit Worksheet (.pdf)](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2016/resources/mitsts_050s16_worksheet/)
+- [Using Artifacts as Evidence (.pdf)](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2016/resources/mitsts_050s16_archivesgrid/)
+- [Final Project](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2016/pages/assignments/final-project/)
+- [Assignments](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2016/pages/assignments/)
+
+### Resource
+- [MIT from the banks of the Charles River (.jpg)](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2016/resources/sts-050s16/)
+- [MIT from the banks of the Charles River (thumbnail) (.jpg)](https://ocw.mit.edu/courses/sts-050-the-history-of-mit-spring-2016/resources/sts-050s16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

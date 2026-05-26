@@ -12,6 +12,9 @@ views: 291
 completeness: 0.1
 last_modified: "2026-05-06T16:55:34Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4248
 ---
 
 # Introduction to Fiction
@@ -30,8 +33,23 @@ This course investigates the uses and boundaries of fiction in a range of novels
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-003-introduction-to-fiction-spring-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-003-introduction-to-fiction-spring-2002/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-003-introduction-to-fiction-spring-2002/pages/readings/)
+
+### Problem-Set
+- [Using Quotations (.pdf)](https://ocw.mit.edu/courses/21l-003-introduction-to-fiction-spring-2002/resources/using_quotations/)
+- [Revisions (.pdf)](https://ocw.mit.edu/courses/21l-003-introduction-to-fiction-spring-2002/resources/revisions/)
+- [Guidelines for Writing Papers about Literature  (.pdf)](https://ocw.mit.edu/courses/21l-003-introduction-to-fiction-spring-2002/resources/pride_and_prej/)
+- [More Suggestions for Writing about Passages of Fiction (.pdf)](https://ocw.mit.edu/courses/21l-003-introduction-to-fiction-spring-2002/resources/great_expectation/)
+- [Assignments](https://ocw.mit.edu/courses/21l-003-introduction-to-fiction-spring-2002/pages/assignments/)
+
+### Resource
+- [A Lady Writing (.jpg)](https://ocw.mit.edu/courses/21l-003-introduction-to-fiction-spring-2002/resources/21l-003s02/)
+- [A Lady Writing (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-003-introduction-to-fiction-spring-2002/resources/21l-003s02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

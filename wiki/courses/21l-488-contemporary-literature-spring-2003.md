@@ -12,6 +12,9 @@ views: 167
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:04:46Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 3910
 ---
 
 # Contemporary Literature
@@ -30,9 +33,20 @@ This semester, Contemporary Literature (21L.488) deals with Irish literature, a 
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-488-contemporary-literature-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-488-contemporary-literature-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-488-contemporary-literature-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-488-contemporary-literature-spring-2003/pages/assignments/)
+
+### Resource
+- [Hildebidle (.jpg)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-spring-2003/resources/21l-488s03/)
+- [Hildebidle (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-488-contemporary-literature-spring-2003/resources/21l-488s03-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21l-488-contemporary-literature-spring-2003/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

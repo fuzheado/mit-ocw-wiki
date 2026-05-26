@@ -12,6 +12,9 @@ views: 201
 completeness: 0.125
 last_modified: "2026-05-06T17:02:15Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 3, Problem-Set: 5, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 3718
 ---
 
 # Macroepidemiology (BE.102)
@@ -30,8 +33,31 @@ This course presents a challenging multi-dimensional perspective on the causes o
 
 ## Materials
 
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/20-102-macroepidemiology-be-102-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/20-102-macroepidemiology-be-102-spring-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [be_102_lecture_1.pdf (.pdf)](https://ocw.mit.edu/courses/20-102-macroepidemiology-be-102-spring-2005/resources/be_102_lecture_1/)
+- [be_102_lecture2.pdf (.pdf)](https://ocw.mit.edu/courses/20-102-macroepidemiology-be-102-spring-2005/resources/be_102_lecture2/)
+- [Lecture Notes](https://ocw.mit.edu/courses/20-102-macroepidemiology-be-102-spring-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/20-102-macroepidemiology-be-102-spring-2005/pages/readings/)
+
+### Problem-Set
+- [problem_set3.pdf (.pdf)](https://ocw.mit.edu/courses/20-102-macroepidemiology-be-102-spring-2005/resources/problem_set3/)
+- [problem_set2.pdf (.pdf)](https://ocw.mit.edu/courses/20-102-macroepidemiology-be-102-spring-2005/resources/problem_set2/)
+- [problem_set1.pdf (.pdf)](https://ocw.mit.edu/courses/20-102-macroepidemiology-be-102-spring-2005/resources/problem_set1/)
+- [macroepi.pdf (.pdf)](https://ocw.mit.edu/courses/20-102-macroepidemiology-be-102-spring-2005/resources/macroepi/)
+- [Assignments](https://ocw.mit.edu/courses/20-102-macroepidemiology-be-102-spring-2005/pages/assignments/)
+
+### Resource
+- [inst_persp.pdf (.pdf)](https://ocw.mit.edu/courses/20-102-macroepidemiology-be-102-spring-2005/resources/inst_persp/)
+- [CancerFit3_7.jar (.jar)](https://ocw.mit.edu/courses/20-102-macroepidemiology-be-102-spring-2005/resources/cancerfit3_7/)
+- [20-102s05.jpg (.jpg)](https://ocw.mit.edu/courses/20-102-macroepidemiology-be-102-spring-2005/resources/20-102s05/)
+- [20-102s05-th.jpg (.jpg)](https://ocw.mit.edu/courses/20-102-macroepidemiology-be-102-spring-2005/resources/20-102s05-th/)
+- [Tools](https://ocw.mit.edu/courses/20-102-macroepidemiology-be-102-spring-2005/pages/tools/)
 ## Wikipedia Bridge
 
 ### Related Articles

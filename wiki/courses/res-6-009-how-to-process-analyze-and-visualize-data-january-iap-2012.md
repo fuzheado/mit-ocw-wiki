@@ -12,6 +12,8 @@ views: 1537
 completeness: 0.05
 last_modified: "2026-05-06T15:04:50Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Resource: 1, Syllabus: 1"
 ---
 
 # How to Process, Analyze and Visualize Data
@@ -31,10 +33,14 @@ This was offered as a non-credit course during the Independent Activities Period
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
-- [Programming Assignments] Programming Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/pages/syllabus/)
 
+### Lecture-Notes
+- [Lectures and Labs](https://ocw.mit.edu/courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/pages/lectures-and-labs/)
+
+### Resource
+- [Datasets and Code](https://ocw.mit.edu/courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/pages/datasets-and-code/)
 ## Wikipedia Bridge
 
 ### Related Articles

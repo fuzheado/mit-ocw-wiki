@@ -12,6 +12,9 @@ views: 408
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T17:16:38Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3476
 ---
 
 # Doctoral Seminar in Research Methods I
@@ -30,8 +33,22 @@ This course is designed to lay the foundations of good empirical research in the
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-347-doctoral-seminar-in-research-methods-i-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-347-doctoral-seminar-in-research-methods-i-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-347-doctoral-seminar-in-research-methods-i-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Group Project (.pdf)](https://ocw.mit.edu/courses/15-347-doctoral-seminar-in-research-methods-i-fall-2004/resources/group_project/)
+- [Assignment 2 (.pdf)](https://ocw.mit.edu/courses/15-347-doctoral-seminar-in-research-methods-i-fall-2004/resources/assignment_2/)
+- [Assignment 1 (.pdf)](https://ocw.mit.edu/courses/15-347-doctoral-seminar-in-research-methods-i-fall-2004/resources/assignment_1/)
+- [Assignments](https://ocw.mit.edu/courses/15-347-doctoral-seminar-in-research-methods-i-fall-2004/pages/assignments/)
+
+### Resource
+- [Notebook  (.jpg)](https://ocw.mit.edu/courses/15-347-doctoral-seminar-in-research-methods-i-fall-2004/resources/15-347f04/)
+- [Notebook (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-347-doctoral-seminar-in-research-methods-i-fall-2004/resources/15-347f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

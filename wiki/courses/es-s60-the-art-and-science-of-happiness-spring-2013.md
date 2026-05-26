@@ -12,6 +12,9 @@ views: 1356
 completeness: 0.06
 last_modified: "2026-05-06T14:59:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4524
 ---
 
 # The Art and Science of Happiness
@@ -31,9 +34,21 @@ This seminar is part of the Experimental Study Group at MIT.
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/es-s60-the-art-and-science-of-happiness-spring-2013/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/es-s60-the-art-and-science-of-happiness-spring-2013/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/es-s60-the-art-and-science-of-happiness-spring-2013/pages/readings/)
+
+### Problem-Set
+- [Mini-autobiography: male senior (.pdf)](https://ocw.mit.edu/courses/es-s60-the-art-and-science-of-happiness-spring-2013/resources/mites_s60s13_malebio/)
+- [Mini-autobiography: female senior (.pdf)](https://ocw.mit.edu/courses/es-s60-the-art-and-science-of-happiness-spring-2013/resources/mites_s10s13_femalebio/)
+- [Assignments](https://ocw.mit.edu/courses/es-s60-the-art-and-science-of-happiness-spring-2013/pages/assignments/)
+
+### Resource
+- [ES-S60s13.png (.png)](https://ocw.mit.edu/courses/es-s60-the-art-and-science-of-happiness-spring-2013/resources/es-s60s13/)
+- [ES-S60s13-th.png (.png)](https://ocw.mit.edu/courses/es-s60-the-art-and-science-of-happiness-spring-2013/resources/es-s60s13-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

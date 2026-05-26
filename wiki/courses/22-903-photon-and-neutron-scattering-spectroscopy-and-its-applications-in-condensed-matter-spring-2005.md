@@ -12,6 +12,9 @@ views: 155
 completeness: 0.12
 last_modified: "2026-05-06T14:55:23Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 6, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5158
 ---
 
 # Photon and Neutron Scattering Spectroscopy and Its Applications in Condensed Matter
@@ -30,10 +33,24 @@ The purpose of this course is to discuss modern techniques of generation of x-ra
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Problem Sets] Problem Sets
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Midterm Presentation Topics (.pdf)](https://ocw.mit.edu/courses/22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005/resources/mdtrm_assgnmnt_r/)
+- [Final Term Paper Topics Assignment (.pdf)](https://ocw.mit.edu/courses/22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005/resources/fnl_assgnmnt_r/)
+- [Home Work Set No. 3 (.pdf)](https://ocw.mit.edu/courses/22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005/resources/22_903_hw_3_051/)
+- [Home Work Set No. 2 (.pdf)](https://ocw.mit.edu/courses/22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005/resources/22_903_hw_2_051/)
+- [Home Work Set No. 1 (.pdf)](https://ocw.mit.edu/courses/22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005/resources/22_903_hw_1_051/)
+- [Assignments](https://ocw.mit.edu/courses/22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005/pages/assignments/)
+
+### Resource
+- [High Flux Isotope Reactor (.jpg)](https://ocw.mit.edu/courses/22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005/resources/22-903s05/)
+- [High Flux Isotope Reactor (thumbnail) (.jpg)](https://ocw.mit.edu/courses/22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005/resources/22-903s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

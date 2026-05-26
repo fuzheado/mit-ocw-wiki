@@ -12,6 +12,9 @@ views: 545
 completeness: 0.0
 last_modified: "2026-05-06T17:04:53Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Problem-Set: 1, Reading-List: 31, Resource: 9"
+api_id: 16404
 ---
 
 # Topics in Fluid Dynamics
@@ -45,8 +48,45 @@ The goal of this resource is to help each student master the concepts and mathem
 
 ## Materials
 
-- [Open Textbooks] Open Textbooks
+### Lectures
+- **Essay 1: Lagrangian and Eulerian Representations of Fluid Flow** — [🔗](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_essay1_pt2_pdf/) · [🔗](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_essay1_pt1_pdf/)
+- **Essay 1: Lagrangian and Eulerian Representations of Fluid Flow: Kinematics and the Equations of Motion** — [🔗](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/pages/essay-1-lagrangian-and-eulerian-representations-of-fluid-flow-kinematics-and-the-equations-of-motion/)
+- **Essay 2: Dimensional Analysis of Models and Data Sets: Similarity Solutions and Scaling Analysis** — [🔗](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/pages/essay-2-dimensional-analysis-of-models-and-data-sets-similarity-solutions-and-scaling-analysis/)
+- **Essay 3: A Coriolis Tutorial** — [🔗](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_essay3_pt5_pdf/) · [🔗](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_essay3_pt4_pdf/) · [🔗](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_essay3_pt3_pdf/) · [🔗](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_essay3_pt2_pdf/) · [🔗](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_essay3_pt1_pdf/) · [🔗](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/pages/essay-3-a-coriolis-tutorial/)
 
+### Reading-List
+- [Appendix to Essay 2: Dimensional Analysis of Models and Data Sets (.pdf)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_appendix_pdf/)
+- [mitres_12_001_f24_twowaves.m (.m)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_twowaves_m/)
+- [mitres_12_001_f24_partslope.m (.m)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_partslope_m/)
+- [mitres_12_001_f24_igwaves_beta.mpg (.mpg) 📺Video](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_igwaves_beta_mpg/)
+- [mitres_12_001_f24_gwavemovie.m (.m)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_gwavemovie_m/)
+- [mitres_12_001_f24_geoadj_2d.for (.for)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_geoadj_2d_for/)
+- [mitres_12_001_f24_geoadj_1d.m (.m)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_geoadj_1d_m/)
+- [mitres_12_001_f24_galook.m (.m)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_galook_m/)
+- [mitres_12_001_f24_ga2d_u_lat60.mpg (.mpg) 📺Video](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_ga2d_u_lat60_mpg/)
+- [mitres_12_001_f24_ga2d_u_lat40.mpg (.mpg) 📺Video](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_ga2d_u_lat40_mpg/)
+- [mitres_12_001_f24_ga2d_u_lat20.mpg (.mpg) 📺Video](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_ga2d_u_lat20_mpg/)
+- [mitres_12_001_f24_ga2d_u_lat10.mpg (.mpg) 📺Video](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_ga2d_u_lat10_mpg/)
+- [mitres_12_001_f24_ga2d_eta_lat60.mpg (.mpg) 📺Video](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_ga2d_eta_lat60_mpg/)
+- [mitres_12_001_f24_ga2d_eta_lat40.mpg (.mpg) 📺Video](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_ga2d_eta_lat40_mpg/)
+- [mitres_12_001_f24_ga2d_eta_lat20.mpg (.mpg) 📺Video](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_ga2d_eta_lat20_mpg/)
+- [mitres_12_001_f24_ga2d_eta_lat10.mpg (.mpg) 📺Video](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_ga2d_eta_lat10_mpg/)
+- [mitres_12_001_f24_ga2d_eta_lat0.mpg (.mpg) 📺Video](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_ga2d_eta_lat0_mpg/)
+- [mitres_12_001_f24_ftransform.m (.m)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_ftransform_m/)
+- [Essay 2: Dimensional Analysis of Models and Data Sets (.pdf)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_essay2_pdf/)
+- [mitres_12_001_f24_danalysis.m (.m)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_danalysis_m/)
+- [mitres_12_001_f24_basintracks.m (.m)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_basintracks_m/)
+- [mitres_12_001_f24_basinsubs.for (.for)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_basinsubs_for/)
+- [mitres_12_001_f24_basinlook.m (.m)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_basinlook_m/)
+- [mitres_12_001_f24_basin.for (.for)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_basin_for/)
+
+### Resource
+- [water_tank.jpg (.jpg)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/water_tank_jpg/)
+- [Appendix: Draining a Tank](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/pages/appendix-draining-a-tank/)
+- [tension.png (.png)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/tension_png/)
+- [mitres_12_001_f24.jpg (.jpg)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/mitres_12_001_f24_jpg/)
+- [dispersion.jpg (.jpg)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/dispersion_jpg/)
+- [balloon_trajectories.png (.png)](https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/resources/balloon_trajectories_png/)
 ## Wikipedia Bridge
 
 ### Related Articles

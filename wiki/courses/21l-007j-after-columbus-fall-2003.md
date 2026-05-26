@@ -12,6 +12,9 @@ views: 61
 completeness: 0.16000000000000003
 last_modified: "2026-05-06T16:52:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 8, Reading-List: 9, Resource: 4, Syllabus: 2"
+api_id: 4034
 ---
 
 # After Columbus
@@ -30,9 +33,34 @@ Sometime after 1492, the concept of the New World or America came into being, an
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/pages/syllabus/)
 
+### Reading-List
+- [what_smith2.pdf (.pdf)](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/resources/what_smith2/)
+- [walcott_poems2.pdf (.pdf)](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/resources/walcott_poems2/)
+- [walcott1_castaway.pdf (.pdf)](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/resources/walcott1_castaway/)
+- [rolfes_letter.pdf (.pdf)](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/resources/rolfes_letter/)
+- [presentations.pdf (.pdf)](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/resources/presentations/)
+- [pocahontas_wate.pdf (.pdf)](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/resources/pocahontas_wate/)
+- [jamestown_smith1.pdf (.pdf)](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/resources/jamestown_smith1/)
+- [american_identity.pdf (.pdf)](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/resources/american_identity/)
+- [Readings](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/pages/readings/)
+
+### Problem-Set
+- [how_to_3.pdf (.pdf)](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/resources/how_to_3/)
+- [how_to_2.pdf (.pdf)](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/resources/how_to_2/)
+- [how_to_1.pdf (.pdf)](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/resources/how_to_1/)
+- [essay_4.pdf (.pdf)](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/resources/essay_4/)
+- [essay_3.pdf (.pdf)](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/resources/essay_3/)
+- [essay_2.pdf (.pdf)](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/resources/essay_2/)
+- [essay_1.pdf (.pdf)](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/resources/essay_1/)
+- [Assignments](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/pages/assignments/)
+
+### Resource
+- [21l-007jf03.jpg (.jpg)](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/resources/21l-007jf03/)
+- [21l-007jf03-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-007j-after-columbus-fall-2003/resources/21l-007jf03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

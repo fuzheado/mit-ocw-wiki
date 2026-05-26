@@ -12,6 +12,9 @@ views: 139
 completeness: 0.0
 last_modified: "2026-05-06T14:50:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Reading-List: 2, Resource: 2"
+api_id: 3636
 ---
 
 # The Art of Insight in Science and Engineering: Mastering Complexity
@@ -30,8 +33,13 @@ In this book, Sanjoy Mahajan shows us that the way to master complexity is throu
 
 ## Materials
 
-- [Open Textbooks] Open Textbooks
+### Reading-List
+- [Open Textbook](https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/pages/open-textbook/)
+- [The Art of Insight in Science and Engineering: Mastering Complexity (.pdf)](https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/resources/mitres_6-011f14_art_insfin/)
 
+### Resource
+- [res-6-011f14.jpg (.jpg)](https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/resources/res-6-011f14/)
+- [res-6-011f14-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/resources/res-6-011f14-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

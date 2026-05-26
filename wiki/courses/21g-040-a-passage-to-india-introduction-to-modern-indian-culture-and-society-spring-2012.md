@@ -12,6 +12,9 @@ views: 259
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:59:24Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4255
 ---
 
 # A Passage to India: Introduction to Modern Indian Culture and Society
@@ -30,8 +33,19 @@ This course is an introduction to modern Indian culture and society through film
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-040-a-passage-to-india-introduction-to-modern-indian-culture-and-society-spring-2012/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-040-a-passage-to-india-introduction-to-modern-indian-culture-and-society-spring-2012/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-040-a-passage-to-india-introduction-to-modern-indian-culture-and-society-spring-2012/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21g-040-a-passage-to-india-introduction-to-modern-indian-culture-and-society-spring-2012/pages/assignments/)
+
+### Resource
+- [Blends and reflections of traditional and modern aspects of India (.jpg)](https://ocw.mit.edu/courses/21g-040-a-passage-to-india-introduction-to-modern-indian-culture-and-society-spring-2012/resources/21g-040s12/)
+- [Blends and reflections of traditional and modern aspects of India (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-040-a-passage-to-india-introduction-to-modern-indian-culture-and-society-spring-2012/resources/21g-040s12-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

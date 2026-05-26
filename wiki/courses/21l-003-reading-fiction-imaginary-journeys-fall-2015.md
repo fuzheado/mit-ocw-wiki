@@ -12,6 +12,9 @@ views: 215
 completeness: 0.1
 last_modified: "2026-05-06T14:47:22Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3326
 ---
 
 # Reading Fiction: Imaginary Journeys
@@ -30,9 +33,23 @@ Great works of fiction often take us to far-off places; they sometimes conduct u
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/pages/readings/)
+
+### Problem-Set
+- [Topics for essay #2 (.pdf)](https://ocw.mit.edu/courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/resources/mit21l_003f15_secondesayto/)
+- [Guidelines for all essays (.pdf)](https://ocw.mit.edu/courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/resources/mit21l_003f15_guidelineses/)
+- [Topics for essay #1 (.pdf)](https://ocw.mit.edu/courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/resources/mit21l_003f15_firstesaytop/)
+- [Advice on writing (.pdf)](https://ocw.mit.edu/courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/resources/mit21l_003f15_advicewritin/)
+- [Assignments](https://ocw.mit.edu/courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/pages/assignments/)
+
+### Resource
+- [Don Quixote and Sancho Pansa (.jpg)](https://ocw.mit.edu/courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/resources/21l-003f15/)
+- [Don Quixote and Sancho Pansa (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-003-reading-fiction-imaginary-journeys-fall-2015/resources/21l-003f15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

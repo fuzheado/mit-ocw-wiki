@@ -12,6 +12,9 @@ views: 1671
 completeness: 0.0
 last_modified: "2026-05-06T17:20:19Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 14, Syllabus: 2, Video-Transcript: 1"
+api_id: 3391
 ---
 
 # Ethics of Technology 
@@ -30,9 +33,23 @@ This course introduces the tools of philosophical ethics through application to 
 
 ## Materials
 
-- [Readings] Readings
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/24-131-ethics-of-technology-spring-2023/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/24-131-ethics-of-technology-spring-2023/pages/calendar/)
+- **Final Essay** — [🔗](https://ocw.mit.edu/courses/24-131-ethics-of-technology-spring-2023/pages/final-essay/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/24-131-ethics-of-technology-spring-2023/pages/readings/)
+- **Short Writing Assignment 1** — [🔗](https://ocw.mit.edu/courses/24-131-ethics-of-technology-spring-2023/pages/short-writing-assignment-1/)
+- **Short Writing Assignment 2** — [🔗](https://ocw.mit.edu/courses/24-131-ethics-of-technology-spring-2023/pages/short-writing-assignment-2/)
+- **Short Writing Assignment 3** — [🔗](https://ocw.mit.edu/courses/24-131-ethics-of-technology-spring-2023/pages/short-writing-assignment-3/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-131-ethics-of-technology-spring-2023/pages/syllabus/)
 
+### Resource
+- [Thirdwritingassignmentgraphic.jpg (.jpg)](https://ocw.mit.edu/courses/24-131-ethics-of-technology-spring-2023/resources/thirdwritingassignmentgraphic_jpg/)
+- [Thirdwritingassignmentgraphic4.jpg (.jpg)](https://ocw.mit.edu/courses/24-131-ethics-of-technology-spring-2023/resources/thirdwritingassignmentgraphic4_jpg/)
+- [Thirdwritingassignmentgraphic3.jpg (.jpg)](https://ocw.mit.edu/courses/24-131-ethics-of-technology-spring-2023/resources/thirdwritingassignmentgraphic3_jpg/)
+- [Thirdwritingassignmentgraphic2.jpg (.jpg)](https://ocw.mit.edu/courses/24-131-ethics-of-technology-spring-2023/resources/thirdwritingassignmentgraphic2_jpg/)
+- [24-131s23.jpg (.jpg)](https://ocw.mit.edu/courses/24-131-ethics-of-technology-spring-2023/resources/24-131s23_jpg/)
+- [24-131s23-th.jpg (.jpg)](https://ocw.mit.edu/courses/24-131-ethics-of-technology-spring-2023/resources/24-131s23-th_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

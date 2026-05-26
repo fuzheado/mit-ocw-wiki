@@ -12,6 +12,8 @@ views: 3021
 completeness: 0.4083333333333334
 last_modified: "2026-05-06T14:48:08Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Resource: 1, Syllabus: 1, Video-Transcript: 18"
 ---
 
 # Introduction to Lean Six Sigma Methods
@@ -32,10 +34,14 @@ The course is offered during the Independent Activities Period (IAP), which is a
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/pages/lecture-notes-1/)
+
+### Resource
+- [Instructor Insights](https://ocw.mit.edu/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

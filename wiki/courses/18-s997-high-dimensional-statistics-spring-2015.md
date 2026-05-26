@@ -12,6 +12,9 @@ views: 825
 completeness: 0.12666666666666665
 last_modified: "2026-05-06T14:54:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 8, Problem-Set: 3, Resource: 3, Syllabus: 1"
+api_id: 5476
 ---
 
 # High-Dimensional Statistics
@@ -31,9 +34,27 @@ You can read more about Prof. Rigollet’s work and courses on his website
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/pages/syllabus/)
 
+### Lecture-Notes
+- [Introduction (.pdf)](https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/resources/mit18_s997s15_introduction/)
+- [Complete Lecture Notes (.pdf)](https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/resources/mit18_s997s15_coursenotes/)
+- [Chapter 5 (.pdf)](https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/resources/mit18_s997s15_chapter5/)
+- [Chapter 4 (.pdf)](https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/resources/mit18_s997s15_chapter4/)
+- [Chapter 3 (.pdf)](https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/resources/mit18_s997s15_chapter3/)
+- [Chapter 2 (.pdf)](https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/resources/mit18_s997s15_chapter2/)
+- [Chapter 1 (.pdf)](https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/resources/mit18_s997s15_chapter1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/pages/lecture-notes/)
+
+### Problem-Set
+- [Problem Set 2 (.pdf)](https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/resources/mit18_s997s15_assignment2/)
+- [Problem Set 1 (.pdf)](https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/resources/mit18_s997s15_assignment1/)
+- [Assignments](https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/pages/assignments/)
+
+### Resource
+- [18-s997s15.jpg (.jpg)](https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/resources/18-s997s15/)
+- [18-s997s15-th.jpg (.jpg)](https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/resources/18-s997s15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

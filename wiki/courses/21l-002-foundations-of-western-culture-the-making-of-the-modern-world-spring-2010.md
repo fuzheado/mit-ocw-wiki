@@ -12,6 +12,9 @@ views: 358
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T15:02:40Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 2, Resource: 2, Syllabus: 1"
+api_id: 5336
 ---
 
 # Foundations of Western Culture: The Making of the Modern World 
@@ -30,8 +33,21 @@ This course comprises a broad survey of texts, literary and philosophical, which
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010/pages/syllabus/)
 
+### Reading-List
+- [Description of Readings (.pdf)](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010/resources/mit21l_002s10_read01/)
+- [Readings](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010/pages/readings/)
+
+### Problem-Set
+- [Molière’s the Misanthrope: Masking the Truth (.pdf)](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010/resources/mit21l_002s10_assn03/)
+- [The Duality of Don Quixote’s Character as Shown through  his Attitude towards Dulcinea of El Toboso (.pdf)](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010/resources/mit21l_002s10_assn02/)
+- [The Value of Friendship  (.pdf)](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010/resources/mit21l_002s10_assn01/)
+- [Assignments](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010/pages/assignments/)
+
+### Resource
+- [Oil on canvas painting by Paul Cézanne (1839–1906) (.jpg)](https://ocw.mit.edu/courses/21l-002-foundations-of-western-culture-the-making-of-the-modern-world-spring-2010/resources/21l-002s10/)
 ## Wikipedia Bridge
 
 ### Related Articles

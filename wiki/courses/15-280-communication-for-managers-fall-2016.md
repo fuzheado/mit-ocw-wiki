@@ -12,6 +12,9 @@ views: 1045
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:57:28Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 1"
+api_id: 5086
 ---
 
 # Communication for Managers
@@ -31,9 +34,17 @@ This course is part of the MBA core and is restricted to first-year Sloan gradua
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-280-communication-for-managers-fall-2016/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/15-280-communication-for-managers-fall-2016/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-280-communication-for-managers-fall-2016/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-280-communication-for-managers-fall-2016/pages/assignments/)
+
+### Resource
+- [15-280f16.jpg (.jpg)](https://ocw.mit.edu/courses/15-280-communication-for-managers-fall-2016/resources/15-280f16/)
+- [15-280f16-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-280-communication-for-managers-fall-2016/resources/15-280f16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

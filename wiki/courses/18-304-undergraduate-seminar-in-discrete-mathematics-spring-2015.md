@@ -12,6 +12,9 @@ views: 283
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T14:54:32Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 3, Problem-Set: 5, Reading-List: 1, Resource: 7, Syllabus: 1, Video-Transcript: 1"
+api_id: 4830
 ---
 
 # Undergraduate Seminar in Discrete Mathematics
@@ -30,11 +33,27 @@ This course is a student-presented seminar in combinatorics, graph theory, and d
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Problem Sets] Problem Sets
-- [Projects with Examples] Projects with Examples
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/pages/assignments/)
+- **Readings and Presentations** — [🔗](https://ocw.mit.edu/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/pages/readings-and-presentations/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/pages/syllabus/)
 
+### Problem-Set
+- [LaTeX template (.tex)](https://ocw.mit.edu/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/resources/template/)
+- [LaTeX chromatic template (.tex)](https://ocw.mit.edu/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/resources/chromatic/)
+- [LaTeX beamer template (.tex)](https://ocw.mit.edu/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/resources/beamer_template/)
+
+### Assignment
+- [Undergraduate Seminar in Discrete Mathematics, Making Money from Fair Games: Examining the Borel-Cantelli Lemma (.pdf)](https://ocw.mit.edu/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/resources/mit18_304s15_project2/)
+- [Undergraduate Seminar in Discrete Mathematics, Sperner's Lemma and Fair Division Problems (.pdf)](https://ocw.mit.edu/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/resources/mit18_304s15_project1/)
+- [Projects](https://ocw.mit.edu/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/pages/projects/)
+
+### Resource
+- [classroom (.jpg)](https://ocw.mit.edu/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/resources/e17-128/)
+- [enrollment (.png)](https://ocw.mit.edu/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/resources/45/)
+- [Borromean Rings (thumbnail) (.jpg)](https://ocw.mit.edu/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/resources/18-304s15th/)
+- [Borromean Rings (.jpg)](https://ocw.mit.edu/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/resources/18-304s15/)
+- [Instructor Insights](https://ocw.mit.edu/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

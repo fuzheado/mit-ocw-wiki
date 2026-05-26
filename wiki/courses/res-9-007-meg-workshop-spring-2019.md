@@ -12,6 +12,9 @@ views: 389
 completeness: 0.0
 last_modified: "2026-05-06T14:53:46Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Resource: 2, Video-Transcript: 4"
+api_id: 5723
 ---
 
 # MEG Workshop
@@ -32,9 +35,11 @@ This workshop was sponsored by the Center for Brains, Minds, and Machines (CBMM)
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Workshop Videos] Workshop Videos
+### Lectures
+- **Workshop Content** — [🔗](https://ocw.mit.edu/courses/res-9-007-meg-workshop-spring-2019/pages/workshop-content/)
 
+### Resource
+- [mitres9_007s19.jpg (.jpg)](https://ocw.mit.edu/courses/res-9-007-meg-workshop-spring-2019/resources/mitres9_007s19_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

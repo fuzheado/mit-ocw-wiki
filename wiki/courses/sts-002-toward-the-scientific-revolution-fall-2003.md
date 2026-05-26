@@ -12,6 +12,9 @@ views: 320
 completeness: 0.24000000000000002
 last_modified: "2026-05-06T14:57:48Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5478
 ---
 
 # Toward the Scientific Revolution
@@ -30,8 +33,21 @@ This subject traces the evolution of ideas about nature, and how best to study a
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/sts-002-toward-the-scientific-revolution-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-002-toward-the-scientific-revolution-fall-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/sts-002-toward-the-scientific-revolution-fall-2003/pages/readings/)
+
+### Problem-Set
+- [Instructions for Paper 1 (.pdf)](https://ocw.mit.edu/courses/sts-002-toward-the-scientific-revolution-fall-2003/resources/assignments/)
+- [Exams](https://ocw.mit.edu/courses/sts-002-toward-the-scientific-revolution-fall-2003/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/sts-002-toward-the-scientific-revolution-fall-2003/pages/assignments/)
+
+### Resource
+- [Kepler, Copernicus, Newton, Galileo, Descartes, and Ptolemy (.jpg)](https://ocw.mit.edu/courses/sts-002-toward-the-scientific-revolution-fall-2003/resources/sts-002f03/)
+- [Galileo and Descartes (.jpg)](https://ocw.mit.edu/courses/sts-002-toward-the-scientific-revolution-fall-2003/resources/sts-002f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 285
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:44:03Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2, Video-Transcript: 7"
+api_id: 5018
 ---
 
 # Advanced Projects in the Visual Arts: Personal Narrative
@@ -30,9 +33,20 @@ This advanced video class serves goes into greater depth on the topics covered i
 
 ## Materials
 
-- [Media Assignments] Media Assignments
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-366-advanced-projects-in-the-visual-arts-personal-narrative-spring-2004/pages/calendar/)
+- **Projects** — [🔗](https://ocw.mit.edu/courses/4-366-advanced-projects-in-the-visual-arts-personal-narrative-spring-2004/pages/projects/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-366-advanced-projects-in-the-visual-arts-personal-narrative-spring-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-366-advanced-projects-in-the-visual-arts-personal-narrative-spring-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/4-366-advanced-projects-in-the-visual-arts-personal-narrative-spring-2004/pages/assignments/)
+
+### Resource
+- [American Shopping Mall (.jpg)](https://ocw.mit.edu/courses/4-366-advanced-projects-in-the-visual-arts-personal-narrative-spring-2004/resources/4-366s04/)
+- [American Shopping Mall (thumbnail) (.jpg)](https://ocw.mit.edu/courses/4-366-advanced-projects-in-the-visual-arts-personal-narrative-spring-2004/resources/4-366s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

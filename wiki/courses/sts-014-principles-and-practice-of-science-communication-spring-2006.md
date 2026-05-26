@@ -12,6 +12,9 @@ views: 332
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:42:40Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 3, Resource: 4, Syllabus: 2, Video-Transcript: 1"
+api_id: 4677
 ---
 
 # Principles and Practice of Science Communication
@@ -30,8 +33,21 @@ This course helps in developing skills as science communicators through projects
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/sts-014-principles-and-practice-of-science-communication-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-014-principles-and-practice-of-science-communication-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Why should we promote the public understanding of science? (.pdf)](https://ocw.mit.edu/courses/sts-014-principles-and-practice-of-science-communication-spring-2006/resources/durant_promote/)
+- [A New Agenda for the Public Understanding of Science (.pdf)](https://ocw.mit.edu/courses/sts-014-principles-and-practice-of-science-communication-spring-2006/resources/durant_newagenda/)
+- [Readings](https://ocw.mit.edu/courses/sts-014-principles-and-practice-of-science-communication-spring-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/sts-014-principles-and-practice-of-science-communication-spring-2006/pages/assignments/)
+
+### Resource
+- [Cases of H5N1 Avian Influenza (.jpg)](https://ocw.mit.edu/courses/sts-014-principles-and-practice-of-science-communication-spring-2006/resources/sts-014s06/)
+- [Cases of H5N1 Avian Influenza (thumbnail) (.jpg)](https://ocw.mit.edu/courses/sts-014-principles-and-practice-of-science-communication-spring-2006/resources/sts-014s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 643
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:48:38Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 1, Video-Transcript: 1"
+api_id: 3855
 ---
 
 # Japanese Literature and Cinema
@@ -30,9 +33,18 @@ This course surveys both cinematic and literary representations of diverse eras 
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-065-japanese-literature-and-cinema-fall-2013/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-065-japanese-literature-and-cinema-fall-2013/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21g-065-japanese-literature-and-cinema-fall-2013/pages/assignments/)
+
+### Resource
+- [21g-065f13.jpg (.jpg)](https://ocw.mit.edu/courses/21g-065-japanese-literature-and-cinema-fall-2013/resources/21g-065f13/)
+- [21g-065f13-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-065-japanese-literature-and-cinema-fall-2013/resources/21g-065f13-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

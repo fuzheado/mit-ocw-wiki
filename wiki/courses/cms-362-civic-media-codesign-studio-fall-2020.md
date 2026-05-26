@@ -12,6 +12,9 @@ views: 160
 completeness: 0.1
 last_modified: "2026-05-06T17:15:29Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 5, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4934
 ---
 
 # Civic Media Codesign Studio
@@ -30,8 +33,23 @@ The Civic Media Codesign Studio is a project-based studio course in collaborativ
 
 ## Materials
 
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-fall-2020/pages/calendar/)
+- **Journal** — [🔗](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-fall-2020/pages/assignments/journal/)
+- **Project** — [🔗](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-fall-2020/pages/assignments/project/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-fall-2020/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-fall-2020/pages/readings/)
+
+### Problem-Set
+- [MITCMS_362F20_problemdefinition.docx (.docx)](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-fall-2020/resources/mitcms_362f20_problemdefinition/)
+- [CMS.362 Civic Media Codesign Studio, Problem Definition Worksheet (.pdf)](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-fall-2020/resources/mitcms_362f20_problemdefinition-1/)
+- [Assignments](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-fall-2020/pages/assignments/)
+
+### Resource
+- [cms-362f20.jpeg (.jpeg)](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-fall-2020/resources/cms-362f20/)
+- [cms-362f20-th.jpg (.jpg)](https://ocw.mit.edu/courses/cms-362-civic-media-codesign-studio-fall-2020/resources/cms-362f20-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

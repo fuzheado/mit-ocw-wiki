@@ -12,6 +12,8 @@ views: 264
 completeness: 0.09500000000000001
 last_modified: "2026-05-06T14:55:29Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Problem-Set: 1, Resource: 3, Syllabus: 2"
 ---
 
 # Mobile Autonomous Systems Laboratory
@@ -31,8 +33,23 @@ MASLab provides a significantly more difficult robotics problem than many other 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/pages/lecture-notes/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/pages/projects/)
+
+### Resource
+- [Tools](https://ocw.mit.edu/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/pages/tools/)
+- [Study Materials](https://ocw.mit.edu/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

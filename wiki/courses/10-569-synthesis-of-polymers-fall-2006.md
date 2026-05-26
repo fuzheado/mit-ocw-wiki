@@ -12,6 +12,9 @@ views: 699
 completeness: 0.2
 last_modified: "2026-05-06T16:53:17Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 36, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 5663
 ---
 
 # Synthesis of Polymers
@@ -32,9 +35,56 @@ The instructor would like to thank Karen Shu and Karen Daniel for their work in 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects] Projects
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [lec35_12132006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec35_12132006/)
+- [lec34_12112006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec34_12112006/)
+- [lec33_12082006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec33_12082006/)
+- [lec32_12062006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec32_12062006/)
+- [lec31_12042006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec31_12042006/)
+- [lec30_12012006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec30_12012006/)
+- [lec29_11292006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec29_11292006/)
+- [lec28_11272006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec28_11272006/)
+- [lec27_11172006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec27_11172006/)
+- [lec26_11152006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec26_11152006/)
+- [lec25_11132006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec25_11132006/)
+- [lec24_11082006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec24_11082006/)
+- [lec23_11062006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec23_11062006/)
+- [lec22_11032006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec22_11032006/)
+- [lec21_11012006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec21_11012006/)
+- [lec20_10302006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec20_10302006/)
+- [lec19_10272006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec19_10272006/)
+- [lec18_10232006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec18_10232006/)
+- [lec17_10202006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec17_10202006/)
+- [lec16_10182006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec16_10182006/)
+- [lec15_10162006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec15_10162006/)
+- [lec14_10132006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec14_10132006/)
+- [lec13_10112006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec13_10112006/)
+- [lec12_10062006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec12_10062006/)
+- [lec11_10042006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec11_10042006/)
+- [lec10_10022006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec10_10022006/)
+- [lec09_09272006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec09_09272006/)
+- [lec08_09222006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec08_09222006/)
+- [lec07_09202006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec07_09202006/)
+- [lec06_09182006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec06_09182006/)
+- [lec05_09152006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec05_09152006/)
+- [lec04_09132006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec04_09132006/)
+- [lec03_09112006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec03_09112006/)
+- [lec02_09082006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec02_09082006/)
+- [lec01_09062006.pdf (.pdf)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/lec01_09062006/)
+- [Lecture Notes](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/pages/readings/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/pages/projects/)
+
+### Resource
+- [10-569f06.jpg (.jpg)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/10-569f06/)
+- [10-569f06-th.jpg (.jpg)](https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/resources/10-569f06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

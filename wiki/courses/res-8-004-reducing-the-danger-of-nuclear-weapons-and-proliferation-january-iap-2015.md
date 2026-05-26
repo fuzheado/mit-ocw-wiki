@@ -12,6 +12,8 @@ views: 83
 completeness: 0.025
 last_modified: "2026-05-06T17:10:57Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Video-Transcript: 5"
 ---
 
 # Reducing the Danger of Nuclear Weapons and Proliferation
@@ -30,9 +32,12 @@ This course, organized as a series of lectures, aims to provide an interdiscipli
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
+### Lectures
+- **Lecture 1: South Asia Under the Shadow of Nuclear Weapons** — [🎬](https://youtu.be/clG-JuzTxrI) · [🔗](https://ocw.mit.edu/courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/video_galleries/videos/)
+- **Lecture 2: Reducing the Danger of Nuclear Weapons and Proliferation** — [🎬](https://youtu.be/FXxpkucTR2E) · [🔗](https://ocw.mit.edu/courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/video_galleries/videos/)
 
+### Lecture-Notes
+- [Lecture Slides](https://ocw.mit.edu/courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/pages/lecture-slides/)
 ## Wikipedia Bridge
 
 ### Related Articles

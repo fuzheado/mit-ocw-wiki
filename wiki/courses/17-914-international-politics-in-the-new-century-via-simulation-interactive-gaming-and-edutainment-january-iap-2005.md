@@ -12,6 +12,8 @@ views: 238
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T16:58:19Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Syllabus: 2"
 ---
 
 # International Politics in the New Century - via Simulation, Interactive Gaming, and  'Edutainment'
@@ -30,8 +32,15 @@ This workshop is designed to introduce students to different perspectives on pol
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/17-914-international-politics-in-the-new-century-via-simulation-interactive-gaming-and-edutainment-january-iap-2005/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/17-914-international-politics-in-the-new-century-via-simulation-interactive-gaming-and-edutainment-january-iap-2005/pages/calendar/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-914-international-politics-in-the-new-century-via-simulation-interactive-gaming-and-edutainment-january-iap-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-914-international-politics-in-the-new-century-via-simulation-interactive-gaming-and-edutainment-january-iap-2005/pages/assignments/)
 ## Wikipedia Bridge
 
 ### Related Articles

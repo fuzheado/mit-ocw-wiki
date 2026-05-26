@@ -12,6 +12,9 @@ views: 129
 completeness: 0.03666666666666667
 last_modified: "2026-05-06T14:49:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 3, Problem-Set: 1, Reading-List: 3, Resource: 11, Syllabus: 2, Video-Transcript: 1"
+api_id: 4608
 ---
 
 # Competition in Telecommunications
@@ -30,9 +33,32 @@ Competition in Telecommunications provides an introduction to the economics, bus
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-020-competition-in-telecommunications-fall-2003/pages/calendar/)
+- **Recitations** — [🔗](https://ocw.mit.edu/courses/15-020-competition-in-telecommunications-fall-2003/pages/recitations/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-020-competition-in-telecommunications-fall-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [Future Wireless Technology (.pdf)](https://ocw.mit.edu/courses/15-020-competition-in-telecommunications-fall-2003/resources/lec8_verizon/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-020-competition-in-telecommunications-fall-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Access to Buildings and Facilities by Telecommunications Providers (.pdf)](https://ocw.mit.edu/courses/15-020-competition-in-telecommunications-fall-2003/resources/fcc_sugrue_statement/)
+- [Broadband Migration III: New Directions in Wireless Policy (.pdf)](https://ocw.mit.edu/courses/15-020-competition-in-telecommunications-fall-2003/resources/fcc_powell_statement/)
+- [Readings](https://ocw.mit.edu/courses/15-020-competition-in-telecommunications-fall-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-020-competition-in-telecommunications-fall-2003/pages/assignments/)
+
+### Resource
+- [Recitation #5 (.pdf)](https://ocw.mit.edu/courses/15-020-competition-in-telecommunications-fall-2003/resources/rec5/)
+- [Recitation #4 (.pdf)](https://ocw.mit.edu/courses/15-020-competition-in-telecommunications-fall-2003/resources/rec4/)
+- [Recitation #3 (.pdf)](https://ocw.mit.edu/courses/15-020-competition-in-telecommunications-fall-2003/resources/rec3/)
+- [Recitation #2 (.pdf)](https://ocw.mit.edu/courses/15-020-competition-in-telecommunications-fall-2003/resources/rec2/)
+- [Recitation #1 (.pdf)](https://ocw.mit.edu/courses/15-020-competition-in-telecommunications-fall-2003/resources/rec1/)
+- [Department of Commerce Secretary Donald Evans (.jpg)](https://ocw.mit.edu/courses/15-020-competition-in-telecommunications-fall-2003/resources/15-020f03/)
+- [Department of Commerce Secretary Donald Evans (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-020-competition-in-telecommunications-fall-2003/resources/15-020f03-th/)
+- [Related Resources](https://ocw.mit.edu/courses/15-020-competition-in-telecommunications-fall-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 342
 completeness: 0.0
 last_modified: "2026-05-06T14:51:20Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Reading-List: 2, Resource: 22"
+api_id: 5315
 ---
 
 # The Torch or The Firehose: A Guide to Section Teaching
@@ -34,8 +37,33 @@ If any significant changes are required to adapt it to the needs of another inst
 
 ## Materials
 
-- [Open Textbooks] Open Textbooks
+### Reading-List
+- [Open Textbook](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/pages/open-textbook/)
+- [The Torch or The Firehose Text (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/mitres18-004_torch_or_the_firehose/)
 
+### Resource
+- [res-18-004s09.gif (.gif)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/res-18-004s09/)
+- [res-18-004s09-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/res-18-004s09-th/)
+- [prologue.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/prologue/)
+- [MIT_Torch_or_Firehose_Spanish.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/mit_torch_or_firehose_spanish/)
+- [index.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/index-1/)
+- [class_checklist.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/class_checklist/)
+- [chapter9.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/chapter9/)
+- [chapter8.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/chapter8/)
+- [chapter7.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/chapter7/)
+- [chapter6.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/chapter6/)
+- [chapter5.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/chapter5/)
+- [chapter4.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/chapter4/)
+- [chapter3.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/chapter3/)
+- [chapter2.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/chapter2/)
+- [chapter16.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/chapter16/)
+- [chapter15.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/chapter15/)
+- [chapter14.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/chapter14/)
+- [chapter13.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/chapter13/)
+- [chapter12.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/chapter12/)
+- [chapter11.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/chapter11/)
+- [chapter10.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/chapter10/)
+- [chapter1.pdf (.pdf)](https://ocw.mit.edu/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/resources/chapter1/)
 ## Wikipedia Bridge
 
 ### Related Articles

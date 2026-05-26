@@ -12,6 +12,9 @@ views: 338
 completeness: 0.22000000000000003
 last_modified: "2026-05-06T14:43:00Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4265
 ---
 
 # Capitalism and Its Critics
@@ -30,8 +33,20 @@ This course addresses the evolution of the modern capitalist economy and evaluat
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/14-72-capitalism-and-its-critics-fall-2013/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/14-72-capitalism-and-its-critics-fall-2013/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/14-72-capitalism-and-its-critics-fall-2013/pages/readings/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/14-72-capitalism-and-its-critics-fall-2013/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/14-72-capitalism-and-its-critics-fall-2013/pages/assignments/)
+
+### Resource
+- [The Karl Marx Monument in Chemnitz, Germany (.jpg)](https://ocw.mit.edu/courses/14-72-capitalism-and-its-critics-fall-2013/resources/14-72f13/)
+- [The Karl Marx Monument in Chemnitz, Germany (thumbnail) (.jpg)](https://ocw.mit.edu/courses/14-72-capitalism-and-its-critics-fall-2013/resources/14-72f13-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

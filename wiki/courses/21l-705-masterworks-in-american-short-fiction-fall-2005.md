@@ -12,6 +12,9 @@ views: 556
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:25:15Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 14, Syllabus: 2"
+api_id: 5810
 ---
 
 # Masterworks in American Short Fiction
@@ -30,8 +33,29 @@ For some reason, American literature (like French, Irish, and Russian, among oth
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/pages/assignments/)
+
+### Resource
+- [too_much_to_read.pdf (.pdf)](https://ocw.mit.edu/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/resources/too_much_to_read/)
+- [thesis.pdf (.pdf)](https://ocw.mit.edu/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/resources/thesis/)
+- [SymbolHandout.pdf (.pdf)](https://ocw.mit.edu/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/resources/symbolhandout/)
+- [s_mutter_modern.pdf (.pdf)](https://ocw.mit.edu/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/resources/s_mutter_modern/)
+- [romantic_realist.pdf (.pdf)](https://ocw.mit.edu/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/resources/romantic_realist/)
+- [journals.pdf (.pdf)](https://ocw.mit.edu/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/resources/journals/)
+- [handout_1.pdf (.pdf)](https://ocw.mit.edu/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/resources/handout_1/)
+- [chp_welty_v2.jpg (.jpg)](https://ocw.mit.edu/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/resources/chp_welty_v2/)
+- [analyzing.pdf (.pdf)](https://ocw.mit.edu/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/resources/analyzing/)
+- [21l-705f05.jpg (.jpg)](https://ocw.mit.edu/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/resources/21l-705f05/)
+- [21l-705f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/resources/21l-705f05-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

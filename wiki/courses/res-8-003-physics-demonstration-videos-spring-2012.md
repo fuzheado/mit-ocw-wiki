@@ -12,6 +12,9 @@ views: 850
 completeness: 0.0
 last_modified: "2026-05-06T17:05:36Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 5463
 ---
 
 # Physics Demonstration Videos
@@ -31,8 +34,9 @@ Online Publication
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [res-8-003s12.jpg (.jpg)](https://ocw.mit.edu/courses/res-8-003-physics-demonstration-videos-spring-2012/resources/res-8-003s12/)
+- [res-8-003s12-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-8-003-physics-demonstration-videos-spring-2012/resources/res-8-003s12-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

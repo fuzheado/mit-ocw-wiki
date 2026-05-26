@@ -12,6 +12,9 @@ views: 137
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:01:31Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 2, Reading-List: 2, Resource: 2, Syllabus: 1, Video-Transcript: 1"
+api_id: 5122
 ---
 
 # Foundations of World Culture II: World Literatures and Texts
@@ -30,8 +33,16 @@ This class continues our study of the foundational texts of human culture, focus
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Advice on Writing** — [🔗](https://ocw.mit.edu/courses/21l-002x-foundations-of-world-culture-ii-world-literatures-and-texts-spring-2012/pages/assignments/advice-on-writing/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21l-002x-foundations-of-world-culture-ii-world-literatures-and-texts-spring-2012/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-002x-foundations-of-world-culture-ii-world-literatures-and-texts-spring-2012/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-002x-foundations-of-world-culture-ii-world-literatures-and-texts-spring-2012/pages/assignments/)
+
+### Resource
+- [Words reflecting a variety of world culture thoughts and themes (.jpg)](https://ocw.mit.edu/courses/21l-002x-foundations-of-world-culture-ii-world-literatures-and-texts-spring-2012/resources/21l-002xs12/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 866
 completeness: 0.4
 last_modified: "2026-05-06T14:42:03Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 17, Resource: 7, Syllabus: 2"
+api_id: 3429
 ---
 
 # Dynamics and Vibration (13.013J)
@@ -31,9 +34,35 @@ This subject was originally offered in Course 13 (Department of Ocean Engineerin
 
 ## Materials
 
-- [Exams] Exams
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/pages/syllabus/)
 
+### Problem-Set
+- [quiz2.pdf (.pdf)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/quiz2/)
+- [quiz1.pdf (.pdf)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/quiz1/)
+- [ps5.pdf (.pdf)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/ps5/)
+- [ps12.pdf (.pdf)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/ps12/)
+- [ps11.pdf (.pdf)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/ps11/)
+- [ps10.pdf (.pdf)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/ps10/)
+- [problemset9.pdf (.pdf)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/problemset9/)
+- [problemset8.pdf (.pdf)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/problemset8/)
+- [problemset7.pdf (.pdf)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/problemset7/)
+- [problemset6.pdf (.pdf)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/problemset6/)
+- [problemset4.pdf (.pdf)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/problemset4/)
+- [problemset3.pdf (.pdf)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/problemset3/)
+- [problemset2.pdf (.pdf)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/problemset2/)
+- [problemset1.pdf (.pdf)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/problemset1/)
+- [final.pdf (.pdf)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/final/)
+- [Exams](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/pages/assignments/)
+
+### Resource
+- [survey13013.pdf (.pdf)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/survey13013/)
+- [2-003jf02.jpg (.jpg)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/2-003jf02/)
+- [2-003jf02-th.jpg (.jpg)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/2-003jf02-th/)
+- [13013survey.pdf (.pdf)](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/resources/13013survey/)
+- [Related Resources](https://ocw.mit.edu/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 282
 completeness: 0.0
 last_modified: "2026-05-06T14:54:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 2, Resource: 7, Syllabus: 2"
+api_id: 5606
 ---
 
 # Chinese IV (Regular)
@@ -30,8 +33,16 @@ Together with 21G.103 Chinese III, this course forms the intermediate level of w
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
+### Lectures
+- **Assignments and In-class Activities** — [🔗](https://ocw.mit.edu/courses/21g-104-chinese-iv-regular-spring-2018/pages/assignments-and-in-class-activities/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-104-chinese-iv-regular-spring-2018/pages/calendar/)
+- **Oral Report and Final Presentation** — [🔗](https://ocw.mit.edu/courses/21g-104-chinese-iv-regular-spring-2018/pages/oral-report-and-final-presentation/)
+- **Review Test Format** — [🔗](https://ocw.mit.edu/courses/21g-104-chinese-iv-regular-spring-2018/pages/review-test-format/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-104-chinese-iv-regular-spring-2018/pages/syllabus/)
 
+### Resource
+- [21g-104s18.jpg (.jpg)](https://ocw.mit.edu/courses/21g-104-chinese-iv-regular-spring-2018/resources/21g-104s18/)
+- [21g-104s18-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-104-chinese-iv-regular-spring-2018/resources/21g-104s18-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

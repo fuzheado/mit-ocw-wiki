@@ -12,6 +12,9 @@ views: 70
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:46:26Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3634
 ---
 
 # Social Science and the Iraq and Syrian Wars
@@ -30,8 +33,19 @@ The wars in Iraq and Syria have changed the course of international relations in
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-s950-social-science-and-the-iraq-and-syrian-wars-fall-2016/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-s950-social-science-and-the-iraq-and-syrian-wars-fall-2016/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-s950-social-science-and-the-iraq-and-syrian-wars-fall-2016/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-s950-social-science-and-the-iraq-and-syrian-wars-fall-2016/pages/assignments/)
+
+### Resource
+- [17-s950f16.jpg (.jpg)](https://ocw.mit.edu/courses/17-s950-social-science-and-the-iraq-and-syrian-wars-fall-2016/resources/17-s950f16/)
+- [17-s950f16-th.jpg (.jpg)](https://ocw.mit.edu/courses/17-s950-social-science-and-the-iraq-and-syrian-wars-fall-2016/resources/17-s950f16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

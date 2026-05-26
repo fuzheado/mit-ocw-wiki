@@ -12,6 +12,8 @@ views: 607
 completeness: 0.1
 last_modified: "2026-05-06T17:14:20Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Problem-Set: 1, Resource: 1, Syllabus: 2"
 ---
 
 # Mechanical Engineering Tools
@@ -31,9 +33,21 @@ This course was co-created by Prof. Douglas Hart and Dr. Kevin Otto.
 
 ## Materials
 
-- [Image Gallery] Image Gallery
-- [Programming Assignments] Programming Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/2-670-mechanical-engineering-tools-january-iap-2004/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/2-670-mechanical-engineering-tools-january-iap-2004/pages/calendar/)
 
+### Lecture-Notes
+- [Tutorials](https://ocw.mit.edu/courses/2-670-mechanical-engineering-tools-january-iap-2004/pages/tutorials/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/2-670-mechanical-engineering-tools-january-iap-2004/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/2-670-mechanical-engineering-tools-january-iap-2004/pages/projects/)
+
+### Resource
+- [Study Materials](https://ocw.mit.edu/courses/2-670-mechanical-engineering-tools-january-iap-2004/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

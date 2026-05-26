@@ -12,6 +12,9 @@ views: 362
 completeness: 0.061666666666666675
 last_modified: "2026-05-06T17:24:02Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 5, Problem-Set: 1, Reading-List: 3, Resource: 4, Syllabus: 2"
+api_id: 5421
 ---
 
 # E-Commerce and the Internet in Real Estate and Construction
@@ -30,10 +33,31 @@ type: "course"
 
 ## Materials
 
-- [Activity Assignments with Examples] Activity Assignments with Examples
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [9concludeoutline.pdf (.pdf)](https://ocw.mit.edu/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/resources/9concludeoutline/)
+- [5colstrproform.pdf (.pdf)](https://ocw.mit.edu/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/resources/5colstrproform/)
+- [4_supply_chain.pdf (.pdf)](https://ocw.mit.edu/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/resources/4_supply_chain/)
+- [1ebusistrategies.pdf (.pdf)](https://ocw.mit.edu/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/resources/1ebusistrategies/)
+- [Lecture Notes](https://ocw.mit.edu/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/pages/lecture-notes/)
+
+### Reading-List
+- [jmacpragvision.pdf (.pdf)](https://ocw.mit.edu/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/resources/jmacpragvision/)
+- [JMacomber_US_Construction_Demographics.pdf (.pdf)](https://ocw.mit.edu/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/resources/jmacomber_us_construction_demographics/)
+- [Readings](https://ocw.mit.edu/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/pages/projects/)
+
+### Resource
+- [1-464s04.jpg (.jpg)](https://ocw.mit.edu/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/resources/1-464s04/)
+- [1-464s04-th.jpg (.jpg)](https://ocw.mit.edu/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/resources/1-464s04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

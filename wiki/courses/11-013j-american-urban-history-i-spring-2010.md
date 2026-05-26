@@ -12,6 +12,9 @@ views: 159
 completeness: 0.0
 last_modified: "2026-05-06T14:45:58Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 5075
 ---
 
 # American Urban History I
@@ -30,8 +33,23 @@ This course is a seminar on the history of institutions and institutional change
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-013j-american-urban-history-i-spring-2010/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-013j-american-urban-history-i-spring-2010/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-013j-american-urban-history-i-spring-2010/pages/readings/)
+
+### Assignment
+- [The Clean Water Act up "Poop" Creek: A Case Study of How Local Dynamics Muddied the Clean Water Act in New Bedford, Massachusetts (.pdf)](https://ocw.mit.edu/courses/11-013j-american-urban-history-i-spring-2010/resources/mit11_013js10_emma_basin/)
+- [Projects](https://ocw.mit.edu/courses/11-013j-american-urban-history-i-spring-2010/pages/projects/)
+
+### Resource
+- [Spring 2010, Robert Fogelson (.pdf)](https://ocw.mit.edu/courses/11-013j-american-urban-history-i-spring-2010/resources/mit21h_231js05_sylls10/)
+- [Spring 2008, Robert Fogelson (.pdf)](https://ocw.mit.edu/courses/11-013j-american-urban-history-i-spring-2010/resources/mit11_013js10_sylls08/)
+- [Spring 2005, Robert Fogelson (.pdf)](https://ocw.mit.edu/courses/11-013j-american-urban-history-i-spring-2010/resources/mit11_013js10_sylls05/)
+- [Bandit's Roost (.jpg)](https://ocw.mit.edu/courses/11-013j-american-urban-history-i-spring-2010/resources/11-013js10/)
+- [Thumbnail image (.jpg)](https://ocw.mit.edu/courses/11-013j-american-urban-history-i-spring-2010/resources/11-013js05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

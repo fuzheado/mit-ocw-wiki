@@ -12,6 +12,9 @@ views: 233
 completeness: 0.22000000000000003
 last_modified: "2026-05-06T16:48:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 26, Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 3712
 ---
 
 # Stochastic Estimation and Control
@@ -30,9 +33,48 @@ The major themes of this course are estimation and control of dynamic systems. P
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [lecture25.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture25/)
+- [lecture24.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture24/)
+- [lecture23.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture23/)
+- [lecture22.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture22/)
+- [lecture21.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture21/)
+- [lecture20.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture20/)
+- [lecture19.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture19/)
+- [lecture18.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture18/)
+- [lecture17.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture17/)
+- [lecture16.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture16/)
+- [lecture15.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture15/)
+- [lecture14.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture14/)
+- [lecture13.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture13/)
+- [lecture12.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture12/)
+- [lecture11.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture11/)
+- [lecture10.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture10/)
+- [lecture09.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture09/)
+- [lecture08.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture08/)
+- [lecture07.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture07/)
+- [lecture06.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture06/)
+- [lecture05.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture05/)
+- [lecture04.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture04/)
+- [lecture03.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture03/)
+- [lecture02.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture02/)
+- [lecture01.pdf (.pdf)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/lecture01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/pages/assignments/)
+
+### Resource
+- [chp_l25_3.jpg (.jpg)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/chp_l25_3/)
+- [16-322f04.jpg (.jpg)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/16-322f04/)
+- [16-322f04-th.jpg (.jpg)](https://ocw.mit.edu/courses/16-322-stochastic-estimation-and-control-fall-2004/resources/16-322f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

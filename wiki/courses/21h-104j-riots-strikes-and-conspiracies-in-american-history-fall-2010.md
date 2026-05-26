@@ -12,6 +12,9 @@ views: 154
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T16:57:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 12, Syllabus: 2"
+api_id: 4659
 ---
 
 # Riots, Strikes, and Conspiracies in American History
@@ -30,8 +33,28 @@ This course uses readings and discussions to focus on a series of short-term eve
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/pages/readings/)
+
+### Problem-Set
+- [MIT21H_104JF10_shahddpaper.pdf (.pdf)](https://ocw.mit.edu/courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/resources/mit21h_104jf10_shahddpaper/)
+- [Assignments](https://ocw.mit.edu/courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/pages/assignments/)
+
+### Resource
+- [MIT21H_104JF10_syllf10.pdf (.pdf)](https://ocw.mit.edu/courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/resources/mit21h_104jf10_syllf10/)
+- [MIT21H_104JF10_syllf09.pdf (.pdf)](https://ocw.mit.edu/courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/resources/mit21h_104jf10_syllf09/)
+- [MIT21H_104JF10_syllf08.pdf (.pdf)](https://ocw.mit.edu/courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/resources/mit21h_104jf10_syllf08/)
+- [MIT21H_104JF10_syllf07.pdf (.pdf)](https://ocw.mit.edu/courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/resources/mit21h_104jf10_syllf07/)
+- [MIT21H_104JF10_syllf06.pdf (.pdf)](https://ocw.mit.edu/courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/resources/mit21h_104jf10_syllf06/)
+- [MIT21H_104JF10_syllf05.pdf (.pdf)](https://ocw.mit.edu/courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/resources/mit21h_104jf10_syllf05/)
+- [MIT21H_104JF10_syllf04.pdf (.pdf)](https://ocw.mit.edu/courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/resources/mit21h_104jf10_syllf04/)
+- [MIT21H_104JF10_syllf03.pdf (.pdf)](https://ocw.mit.edu/courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/resources/mit21h_104jf10_syllf03/)
+- [21h-104jf10.jpg (.jpg)](https://ocw.mit.edu/courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/resources/21h-104jf10/)
+- [21h-104jf10-th.jpg (.jpg)](https://ocw.mit.edu/courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/resources/21h-104jf10-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

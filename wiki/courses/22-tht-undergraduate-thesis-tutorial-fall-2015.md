@@ -12,6 +12,9 @@ views: 167
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:14:00Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 2, Resource: 17, Syllabus: 1"
+api_id: 3482
 ---
 
 # Undergraduate Thesis Tutorial
@@ -30,9 +33,30 @@ This course is a series of lectures on prospectus and thesis writing. It is a re
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Improving the NSE Undergraduate Thesis Tutorial** — [🔗](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/pages/instructor-insights/improving-the-nse-undergraduate-thesis-tutorial/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/pages/syllabus/)
 
+### Problem-Set
+- [Treatment of Neutron Resonance Elastic Scattering Using Multipole Representation of Cross Sections in Monte Carlo Simulations (.pdf)](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/resources/mit22_thtf15_prosp_ex1/)
+- [Assignments](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/pages/assignments/)
+
+### Resource
+- [MIT22_THTF15_assn_sb.docx (.docx)](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/resources/mit22_thtf15_assn_sb_docx/)
+- [assn_phd_lyx.zip (.zip)](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/resources/assn_phd_lyx_zip/)
+- [Design, Fabrication, Testing, and Application of a Sub-Wavelength Microwave Lens (.pdf)](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/resources/mit22_thtf15_thesis_ex4/)
+- [First-principles study of the surfaces of zirconium during early stages of metal oxidation (.pdf)](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/resources/mit22_thtf15_thesis_ex3/)
+- [All-Optical Method of Nanoscale Magnetometry for Ensembles of Nitrogen-Vacancy Defects in Diamond (.pdf)](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/resources/mit22_thtf15_thesis_ex2/)
+- [Design, Fabrication, Testing, and Application of a Sub-Wave length Microwave Lens (.pdf)](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/resources/mit22_thtf15_prosp_sam4/)
+- [Effect of Lattice Strain on Stoichiometry and Ionic Transport in Oxide Materials (.pdf)](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/resources/mit22_thtf15_prosp_sam3/)
+- [Development of a Nanoscale Magnetometer Through Utilization of the Nitrogen-Vacancy Defect in Diamonds (.pdf)](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/resources/mit22_thtf15_prosp_sam2/)
+- [Templates for NSE S.B. Thesis Cover Page and Abstract Page (.pdf)](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/resources/mit22_thtf15_assn_cov_abs/)
+- [Bound theses on a library shelf (.jpg)](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/resources/22-thtf15/)
+- [Bound theses on a library shelf (thumbnail) (.jpg)](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/resources/22-thtf15-th/)
+- [10 students enrolled (.png)](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/resources/10/)
+- [Teaching Science Communication](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/pages/instructor-insights/teaching-science-communication/)
+- [Instructor Insights](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/pages/instructor-insights/)
+- [Guides, Templates and Tools](https://ocw.mit.edu/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/pages/guides-templates-and-tools/)
 ## Wikipedia Bridge
 
 ### Related Articles

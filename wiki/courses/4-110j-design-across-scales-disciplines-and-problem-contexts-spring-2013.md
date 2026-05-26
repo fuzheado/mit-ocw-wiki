@@ -12,6 +12,9 @@ views: 386
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:43:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 6, Problem-Set: 1, Reading-List: 2, Resource: 32, Syllabus: 2, Video-Transcript: 1"
+api_id: 4797
 ---
 
 # Design Across Scales, Disciplines and Problem Contexts
@@ -30,9 +33,53 @@ This course explores the reciprocal relationships among design, science, and tec
 
 ## Materials
 
-- [Design Assignments with Examples] Design Assignments with Examples
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/pages/assignments/)
+
+### Assignment
+- [Poesis](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/pages/projects/poesis/)
+- [Pigs in a Blanket](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/pages/projects/pigs-in-a-blanket/)
+- [Monster Makers](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/pages/projects/monster-makers/)
+- [Marble Master](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/pages/projects/marble-master/)
+- [Equilibrium](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/pages/projects/equilibrium/)
+- [Projects](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/pages/projects/)
+
+### Resource
+- [poesis8.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/poesis8/)
+- [poesis7.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/poesis7/)
+- [poesis6.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/poesis6/)
+- [poesis5.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/poesis5/)
+- [poesis4.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/poesis4/)
+- [poesis3.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/poesis3/)
+- [poesis2.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/poesis2/)
+- [poesis1.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/poesis1/)
+- [pigs8.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/pigs8/)
+- [pigs7.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/pigs7/)
+- [pigs6.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/pigs6/)
+- [pigs5.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/pigs5/)
+- [pigs4.JPG (.JPG)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/pigs4/)
+- [pigs3.JPG (.JPG)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/pigs3/)
+- [pigs2.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/pigs2/)
+- [pigs1.JPG (.JPG)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/pigs1/)
+- [monstermakers4.JPG (.JPG)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/monstermakers4/)
+- [monstermakers3.JPG (.JPG)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/monstermakers3/)
+- [monstermakers2.JPG (.JPG)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/monstermakers2/)
+- [monstermakers1.JPG (.JPG)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/monstermakers1/)
+- [marblemaster4.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/marblemaster4/)
+- [marblemaster3.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/marblemaster3/)
+- [marblemaster2.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/marblemaster2/)
+- [marblemaster1.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/marblemaster1/)
+- [equilibrium4.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/equilibrium4/)
+- [equilibrium3.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/equilibrium3/)
+- [equilibrium2.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/equilibrium2/)
+- [equilibrium1.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/equilibrium1/)
+- [4-110js13.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/4-110js13/)
+- [4-110js13-th.jpg (.jpg)](https://ocw.mit.edu/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/resources/4-110js13-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

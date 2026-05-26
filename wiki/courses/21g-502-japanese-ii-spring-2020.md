@@ -12,6 +12,9 @@ views: 375
 completeness: 0.0
 last_modified: "2026-05-06T14:50:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Resource: 9, Syllabus: 1"
+api_id: 5210
 ---
 
 # Japanese II
@@ -30,9 +33,18 @@ This course covers Genki I Lessons 7 through 12 that will enhance the basic skil
 
 ## Materials
 
-- [Exams] Exams
-- [Instructor Insights] Instructor Insights
+### Lectures
+- **In-class Activities, Assignments, and Quizzes** — [🔗](https://ocw.mit.edu/courses/21g-502-japanese-ii-spring-2020/pages/in-class-activities-assignments-and-quizzes/)
+- **Interview Test and Final Exam** — [🔗](https://ocw.mit.edu/courses/21g-502-japanese-ii-spring-2020/pages/interview-test-and-final-exam/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-502-japanese-ii-spring-2020/pages/syllabus/)
 
+### Resource
+- [edu_b-team-duedate.png (.png)](https://ocw.mit.edu/courses/21g-502-japanese-ii-spring-2020/resources/edu_b-team-duedate/)
+- [49.png (.png)](https://ocw.mit.edu/courses/21g-502-japanese-ii-spring-2020/resources/49/)
+- [21g502s20.jpg (.jpg)](https://ocw.mit.edu/courses/21g-502-japanese-ii-spring-2020/resources/21g502s20/)
+- [21g502s20-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-502-japanese-ii-spring-2020/resources/21g502s20-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21g-502-japanese-ii-spring-2020/pages/related-resources/)
+- [Instructor Insights](https://ocw.mit.edu/courses/21g-502-japanese-ii-spring-2020/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,8 @@ views: 403
 completeness: 0.275
 last_modified: "2026-05-06T14:46:26Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Reading-List: 1, Syllabus: 1"
 ---
 
 # Financial Crises
@@ -31,9 +33,17 @@ This course is an introduction to the economic theories of financial crises. It 
 
 ## Materials
 
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/14-09-financial-crises-january-iap-2016/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/14-09-financial-crises-january-iap-2016/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/14-09-financial-crises-january-iap-2016/pages/readings/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/14-09-financial-crises-january-iap-2016/pages/exams/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 586
 completeness: 0.1366666666666667
 last_modified: "2026-05-06T14:49:07Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 3, Lecture-Notes: 14, Problem-Set: 1, Reading-List: 2, Resource: 23, Syllabus: 1, Video-Transcript: 2"
+api_id: 5578
 ---
 
 # Designing and Sustaining Technology Innovation for Global Health Practice
@@ -31,9 +34,60 @@ Each week, the course features a lecture and skills-based tutorial session led b
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects] Projects
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/pages/syllabus/)
 
+### Lecture-Notes
+- [Final Overview and Lessons Learned (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/lecture14/)
+- [Venture Philanthropy (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/lecture13/)
+- [CIMIT and Toner Lab (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/lecture12/)
+- [Vaccines Development (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/lecture11/)
+- [BioPharmaceuticals (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/lecture10/)
+- [Medical Device Development: Medtronic (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/lecture08/)
+- [Health Systems Strengthening (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/lecture07/)
+- [Simple Solutions: Zero-Cost Diagnostics (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/lecture06/)
+- [Alternative Energy Sources (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/lecture05/)
+- [Microfluidics and Global Health Practice (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/lecture04/)
+- [New Systems for Drug Delivery (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/lecture03/)
+- [HPV Vaccine Case Study (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/lecture02/)
+- [Introduction (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/lecture01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/pages/lecture-notes/)
+
+### Reading-List
+- [Everything You Ever Wanted to Know about Medical Device Marketing Clearance (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/phillips_fda/)
+- [Readings](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/pages/assignments/)
+
+### Assignment
+- [Project List (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/projects/)
+- [Project Requirements (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/project_reqs/)
+- [Projects](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/pages/projects/)
+
+### Resource
+- [Dr. Vikram Sheel Kumar (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/vikram_bio/)
+- [Utkan Demirci (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/utkan_bio/)
+- [Seth Berkley (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/seth_bio/)
+- [Robert Langer (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/robert_bio/)
+- [Refugee Absorption and Sustainability (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/refugee/)
+- [Public Private Partnerships for Health (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/publicprivate/)
+- [Michael Lytton (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/michael_bio/)
+- [Dr. Kristian Olson (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/kristian_bio/)
+- [Jose Gomez-Marquez (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/jose_bio/)
+- [Jacqueline Sherris (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/jacqueline_bio/)
+- [hst-939s08.jpg (.jpg)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/hst-939s08/)
+- [hst-939s08-th.jpg (.jpg)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/hst-939s08-th/)
+- [Gail Cassell (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/gail_bio/)
+- [Elizabeth Bailey (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/elizabeth_bio/)
+- [David Steinmiller (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/david_st_bio/)
+- [David Berry (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/david_bio/)
+- [Chris D. Earl (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/chris_bio/)
+- [Deploying Rapid CD-4 Tests for HIV/AIDS (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/cd4/)
+- [Jeffrey Blander (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/blander_bio/)
+- [Ben Baumann (.pdf)](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/resources/ben_bio/)
+- [Study Materials](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

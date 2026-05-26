@@ -1,8 +1,8 @@
-# Log
 
-## [2026-05-09 15:00] smoke-test | API confirmed. 2,577 courses, 37 departments, 110 topics
 
-## [2026-05-09 15:05] stage-1 | Built 37 department pages and 110 topic pages
+## [2026-05-26 14:49] asset-scan | Hybrid scanned [[8-321-quantum-theory-i-fall-2017|8.321 Quantum Theory I]] (55 assets: 53 API + 5 pages)
+ + 4 pages)
+ges and 110 topic pages
 
 ## [2026-05-09 16:00] ingest | Ingested 3 test courses: Ecology I, Geothermal Energy Networks, Sustainable Real Estate
 
@@ -118,706 +118,748 @@ Note: RES.ENV-007 not found in MIT Learn API — extracted from OCW HTML instead
 
 ## [2026-05-09 22:40] asset-scan | Hybrid scanned [[1-258j-public-transportation-systems-spring-2017|1.258J Public Transportation Systems]] (53 assets: 52 API + 23 pages)
 
-## [2026-05-09 22:42] asset-scan | Hybrid scanned [[1-258j-public-transportation-systems-spring-2017|1.258J Public Transportation Systems]] (53 assets: 52 API + 23 pages)
+## [2026-05-09 22:42] asset-scan | Hybrid scanned [[1-258j-public-transportation-systems-spring-2017|1.258J Pu
 
-## [2026-05-09 22:43] asset-scan | Hybrid scanned [[1-258j-public-transportation-systems-spring-2017|1.258J Public Transportation Systems]] (53 assets: 52 API + 23 pages)
+## [2026-05-26 14:49] asset-scan | Hybrid scanned [[9-401-tools-for-robust-science-fall-2022|9.401 Tools for Robust Science]] (87 assets: 43 API + 39 pages)
 
-## [2026-05-09 22:50] asset-scan | Hybrid scanned [[18-642-topics-in-mathematics-with-applications-in-finance-fall-2024|18.642 Topics in Mathematics with Applications in Finance]] (119 assets: 97 API + 46 pages)
+## [2026-05-26 14:49] asset-scan | Hybrid scanned [[cc-s10-prohibition-and-permission-spring-2007|CC.S10 Prohibition and Permission]] (8 assets: 7 API + 5 pages)
 
-## [2026-05-10 01:22] asset-scan | Hybrid scanned [[4-241j-theory-of-city-form-spring-2013|4.241J Theory of City Form]] (100 assets: 75 API + 41 pages)
+## [2026-05-26 14:49] asset-scan | Hybrid scanned [[cms-301-introduction-to-game-design-methods-spring-2016|CMS.301 Introduction to Game Design Methods]] (28 assets: 23 API + 5 pages)
 
-## [2026-05-10 01:24] asset-scan | Hybrid scanned [[14-01-principles-of-microeconomics-fall-2023|14.01 Principles of Microeconomics ]] (110 assets: 105 API + 8 pages)
+## [2026-05-26 14:49] asset-scan | Hybrid scanned [[cms-405-media-and-methods-seeing-and-expression-spring-2013|CMS.405 Media and Methods: Seeing and Expression]] (13 assets: 11 API + 2 pages)
 
-## [2026-05-10 01:32] asset-scan | Hybrid scanned [[2-43-advanced-thermodynamics-spring-2024|2.43 Advanced Thermodynamics]] (83 assets: 79 API + 57 pages)
+## [2026-05-26 14:49] asset-scan | Hybrid scanned [[cms-361-networked-social-movements-media-mobilization-spring-2014|CMS.361 Networked Social Movements: Media & Mobilization]] (16 assets: 14 API + 3 pages)
 
-## [2026-05-10 01:33] asset-scan | Hybrid scanned [[2-787j-tissue-engineering-and-organ-regeneration-fall-2024|2.787J Tissue Engineering and Organ Regeneration]] (44 assets: 5 API + 30 pages)
+## [2026-05-26 14:49] asset-scan | Hybrid scanned [[cms-362-civic-media-codesign-studio-fall-2020|CMS.362 Civic Media Codesign Studio]] (14 assets: 10 API + 6 pages)
 
-## [2026-05-10 01:40] asset-scan | Scanned [[4-241j-the-making-of-cities-spring-2025|4.241J The Making of Cities]] (4 assets)
+## [2026-05-26 14:49] asset-scan | Hybrid scanned [[cms-362-civic-media-codesign-studio-spring-2016|CMS.362 Civic Media Codesign Studio]] (17 assets: 13 API + 6 pages)
 
-## [2026-05-10 01:43] asset-scan | Scanned [[4-241j-the-making-of-cities-spring-2025|4.241J The Making of Cities]] (4 assets)
+## [2026-05-26 14:49] asset-scan | Hybrid scanned [[cms-300-introduction-to-videogame-studies-fall-2011|CMS.300 Introduction to Videogame Studies]] (40 assets: 34 API + 11 pages)
 
-## [2026-05-10 01:43] asset-scan | Scanned [[4-241j-the-making-of-cities-spring-2025|4.241J The Making of Cities]] (4 assets)
+## [2026-05-26 14:49] asset-scan | Hybrid scanned [[cms-407-media-and-methods-sound-fall-2012|CMS.407 Media and Methods: Sound]] (32 assets: 6 API + 19 pages)
 
-## [2026-05-10 01:43] asset-scan | Hybrid scanned [[4-241j-the-making-of-cities-spring-2025|4.241J The Making of Cities]] (8 assets: 8 API + 4 pages)
+## [2026-05-26 14:49] asset-scan | Hybrid scanned [[cms-594-education-technology-studio-spring-2019|CMS.594 Education Technology Studio]] (46 assets: 40 API + 9 pages)
 
-## [2026-05-10 01:47] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (48 assets: 29 API + 155 pages)
+## [2026-05-26 14:49] asset-scan | Hybrid scanned [[cms-608-game-design-fall-2010|CMS.608 Game Design]] (115 assets: 92 API + 25 pages)
 
-## [2026-05-10 01:54] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+## [2026-05-26 14:49] asset-scan | Hybrid scanned [[cms-615-games-for-social-change-fall-2013|CMS.615 Games for Social Change]] (8 assets: 6 API + 4 pages)
 
-## [2026-05-10 02:24] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[cms-608-game-design-spring-2008|CMS.608 Game Design]] (83 assets: 80 API + 7 pages)
 
-## [2026-05-10 02:25] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[cms-621-fans-and-fan-cultures-fall-2024|CMS.621 Fans and Fan Cultures]] (19 assets: 12 API + 5 pages)
 
-## [2026-05-10 02:25] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[cms-595-learning-media-and-technology-spring-2024|CMS.595 Learning, Media, and Technology]] (57 assets: 35 API + 12 pages)
 
-## [2026-05-10 02:26] asset-scan | Scanned [[4-241j-the-making-of-cities-spring-2025|4.241J The Making of Cities]] (4 assets)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[cms-608-game-design-spring-2014|CMS.608 Game Design]] (127 assets: 98 API + 10 pages)
 
-## [2026-05-10 02:31] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[cms-796-major-media-texts-fall-2006|CMS.796 Major Media Texts]] (21 assets: 17 API + 4 pages)
 
-## [2026-05-10 02:32] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013|CMS.840 At the Limit: Violence in Contemporary Representation]] (29 assets: 27 API + 4 pages)
 
-## [2026-05-10 02:36] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[cms-801-media-in-transition-fall-2012|CMS.801 Media in Transition]] (9 assets: 6 API + 5 pages)
 
-## [2026-05-10 02:36] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[cms-701-current-debates-in-media-spring-2015|CMS.701 Current Debates in Media]] (30 assets: 25 API + 8 pages)
 
-## [2026-05-10 02:37] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[cms-360-introduction-to-civic-media-fall-2012|CMS.360 Introduction to Civic Media]] (28 assets: 22 API + 24 pages)
 
-## [2026-05-10 02:42] asset-scan | Hybrid scanned [[6-5630-advanced-topics-in-cryptography-fall-2023|6.5630 Advanced Topics in Cryptography]] (65 assets: 29 API + 172 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[cms-876-history-of-media-and-technology-spring-2005|CMS.876 History of Media and Technology]] (16 assets: 12 API + 4 pages)
 
-## [2026-05-10 02:43] asset-scan | Hybrid scanned [[18-225-graph-theory-and-additive-combinatorics-fall-2023|18.225 Graph Theory and Additive Combinatorics]] (48 assets: 46 API + 36 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[cms-633-digital-humanities-spring-2015|CMS.633 Digital Humanities]] (43 assets: 36 API + 12 pages)
 
-## [2026-05-10 02:46] asset-scan | Hybrid scanned [[14-310x-data-analysis-for-social-scientists-spring-2023|14.310X Data Analysis for Social Scientists]] (108 assets: 0 API + 0 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[cms-950-workshop-i-fall-2005|CMS.950 Workshop I]] (8 assets: 6 API + 4 pages)
 
-## [2026-05-10 02:47] asset-scan | Hybrid scanned [[22-67j-principles-of-plasma-diagnostics-fall-2023|22.67J Principles of Plasma Diagnostics]] (52 assets: 49 API + 28 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015|CMS.951 Workshop II: Qualitative Social Science Methods for Media Studies]] (11 assets: 10 API + 3 pages)
 
-## [2026-05-10 02:47] asset-scan | Hybrid scanned [[21l-601j-old-english-and-beowulf-spring-2023|21L.601J Old English and Beowulf]] (28 assets: 25 API + 19 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[cms-611j-creating-video-games-fall-2014|CMS.611J Creating Video Games]] (200 assets: 115 API + 41 pages)
 
-## [2026-05-10 02:53] asset-scan | Hybrid scanned [[21l-601j-old-english-and-beowulf-spring-2023|21L.601J Old English and Beowulf]] (28 assets: 25 API + 21 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016|EC.210 Visualization for Mathematics, Science, and Technology Education]] (21 assets: 6 API + 4 pages)
 
-## [2026-05-10 02:54] asset-scan | Hybrid scanned [[21l-601j-old-english-and-beowulf-spring-2023|21L.601J Old English and Beowulf]] (28 assets: 25 API + 21 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019|CMS.S63 Playful Augmented Reality Audio Design Exploration]] (24 assets: 14 API + 6 pages)
 
-## [2026-05-10 02:56] asset-scan | Hybrid scanned [[21l-601j-old-english-and-beowulf-spring-2023|21L.601J Old English and Beowulf]] (46 assets: 25 API + 21 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010|EC.722 Special Topics at Edgerton Center:Developing World Prosthetics]] (36 assets: 34 API + 4 pages)
 
-## [2026-05-10 02:59] asset-scan | Hybrid scanned [[18-s190-introduction-to-metric-spaces-january-iap-2023|18.S190 Introduction to Metric Spaces ]] (35 assets: 0 API + 0 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005|EC.S01 Internet Technology in Local and Global Communities]] (26 assets: 0 API + 0 pages)
 
-## [2026-05-10 03:03] asset-scan | Hybrid scanned [[1-258j-public-transportation-systems-spring-2017|1.258J Public Transportation Systems]] (72 assets: 52 API + 23 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[cms-631-data-storytelling-studio-climate-change-spring-2017|CMS.631 Data Storytelling Studio: Climate Change]] (75 assets: 61 API + 23 pages)
 
-## [2026-05-10 03:21] asset-scan | Hybrid scanned [[ec-716-d-lab-waste-fall-2015|EC.716 D-Lab: Waste]] (40 assets: 31 API + 16 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010|EC.710 D-Lab: Medical Technologies for the Developing World]] (112 assets: 104 API + 11 pages)
 
-## [2026-05-10 03:22] asset-scan | Hybrid scanned [[11-165-infrastructure-and-energy-technology-challenges-fall-2011|11.165 Infrastructure and Energy Technology Challenges]] (38 assets: 36 API + 7 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ec-s02-water-jet-technologies-spring-2005|EC.S02 Water Jet Technologies]] (36 assets: 34 API + 7 pages)
 
-## [2026-05-10 03:22] asset-scan | Hybrid scanned [[2-611-marine-power-and-propulsion-fall-2006|2.611 Marine Power and Propulsion]] (81 assets: 80 API + 6 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ec-721-wheelchair-design-in-developing-countries-spring-2009|EC.721 Wheelchair Design in Developing Countries]] (128 assets: 122 API + 9 pages)
 
-## [2026-05-10 03:22] asset-scan | Hybrid scanned [[22-091-nuclear-reactor-safety-spring-2008|22.091 Nuclear Reactor Safety]] (82 assets: 68 API + 12 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-113-ancient-greek-philosophy-and-mathematics-spring-2016|ES.113 Ancient Greek Philosophy and Mathematics]] (17 assets: 14 API + 5 pages)
 
-## [2026-05-10 03:22] asset-scan | Hybrid scanned [[1-74-land-water-food-and-climate-fall-2020|1.74 Land, Water, Food, and Climate]] (112 assets: 101 API + 38 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007|EC.715 D-Lab: Disseminating Innovations for the Common Good]] (86 assets: 75 API + 14 pages)
 
-## [2026-05-10 03:22] asset-scan | Hybrid scanned [[22-033-nuclear-systems-design-project-fall-2011|22.033 Nuclear Systems Design Project]] (78 assets: 53 API + 22 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ec-s06-design-for-demining-spring-2007|EC.S06 Design for Demining]] (273 assets: 268 API + 8 pages)
 
-## [2026-05-10 03:27] asset-scan | Hybrid scanned [[12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-elements-k-u-th-in-the-earth-january-iap-2010|12.091 Basics of Analysis with Antineutrinos from Heat Producing Elements - K, U, Th in the Earth]] (4 assets: 0 API + 0 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005|EC.S11 Engineering Capacity in Community-Based Healthcare]] (50 assets: 48 API + 5 pages)
 
-## [2026-05-10 03:27] asset-scan | Hybrid scanned [[1-963-a-sustainable-transportation-plan-for-mit-spring-2007|1.963 A Sustainable Transportation Plan for MIT]] (28 assets: 26 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ec-s06-practical-electronics-fall-2004|EC.S06 Practical Electronics]] (66 assets: 61 API + 7 pages)
 
-## [2026-05-10 03:27] asset-scan | Hybrid scanned [[ec-716-d-lab-waste-fall-2015|EC.716 D-Lab: Waste]] (40 assets: 31 API + 16 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ec-s07-photovoltaic-solar-energy-systems-fall-2004|EC.S07 Photovoltaic Solar Energy Systems]] (31 assets: 29 API + 7 pages)
 
-## [2026-05-10 03:27] asset-scan | Hybrid scanned [[ec-715-d-lab-water-sanitation-and-hygiene-fall-2019|EC.715 D-Lab: Water, Sanitation, and Hygiene]] (18 assets: 16 API + 7 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-010-chemistry-of-sports-spring-2013|ES.010 Chemistry of Sports]] (29 assets: 21 API + 9 pages)
 
-## [2026-05-10 03:27] asset-scan | Hybrid scanned [[12-491-non-conventional-light-stable-isotope-geochemistry-spring-2012|12.491 Non-conventional Light Stable Isotope Geochemistry]] (10 assets: 9 API + 3 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-114-non-violence-as-a-way-of-life-fall-2018|ES.114 Non-violence as a Way of Life]] (12 assets: 6 API + 3 pages)
 
-## [2026-05-10 03:27] asset-scan | Hybrid scanned [[12-742-marine-chemistry-fall-2006|12.742 Marine Chemistry]] (60 assets: 46 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010|EC.050 Recreate Experiments from History: Inform the Future from the Past: Galileo]] (22 assets: 0 API + 0 pages)
 
-## [2026-05-10 03:27] asset-scan | Hybrid scanned [[12-804-large-scale-flow-dynamics-lab-fall-2009|12.804 Large-scale Flow Dynamics Lab]] (33 assets: 31 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006|ES.240 Composing Your Life: Exploration of Self through Visual Arts and Writing]] (22 assets: 20 API + 5 pages)
 
-## [2026-05-10 03:27] asset-scan | Hybrid scanned [[12-s56-gps-where-are-you-fall-2008|12.S56 GPS: Where Are You?]] (19 assets: 17 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-242-gender-issues-in-academics-and-academia-spring-2004|ES.242 Gender Issues in Academics and Academia]] (23 assets: 21 API + 4 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[1-74-land-water-food-and-climate-fall-2020|1.74 Land, Water, Food, and Climate]] (112 assets: 101 API + 38 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-246-current-events-and-social-issues-fall-2004|ES.246 Current Events and Social Issues]] (6 assets: 5 API + 3 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[12-808-introduction-to-observational-physical-oceanography-fall-2004|12.808 Introduction to Observational Physical Oceanography]] (43 assets: 41 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-255-physics-of-rock-climbing-spring-2006|ES.255 Physics of Rock Climbing]] (14 assets: 13 API + 4 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[12-524-mechanical-properties-of-rocks-fall-2005|12.524 Mechanical Properties of Rocks]] (54 assets: 52 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-253-aids-and-poverty-in-africa-spring-2005|ES.253 AIDS and Poverty in Africa]] (21 assets: 19 API + 6 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008|12.091 Basics of Impact Cratering & Geological, Geophysical, Geochemical, Environmental Studies of Some Impact Craters of the Earth]] (5 assets: 0 API + 0 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-256-the-coming-years-spring-2008|ES.256 The Coming Years]] (22 assets: 21 API + 4 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[ec-701j-d-lab-i-development-fall-2009|EC.701J D-Lab I: Development]] (124 assets: 113 API + 13 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-261-poetry-in-translation-spring-2006|ES.261 Poetry in Translation]] (10 assets: 5 API + 3 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[12-950-atmospheric-and-oceanic-modeling-spring-2004|12.950 Atmospheric and Oceanic Modeling]] (27 assets: 25 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-259-information-and-communication-technology-in-africa-spring-2006|ES.259 Information and Communication Technology in Africa]] (33 assets: 31 API + 4 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017|11.027 Global Cityscope - Disaster Planning and Post-Disaster Rebuilding and Recovery]] (14 assets: 10 API + 7 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-258-goedel-escher-bach-spring-2007|ES.258 Gödel, Escher, Bach]] (7 assets: 6 API + 4 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[wgs-160j-science-activism-gender-race-and-power-fall-2019|WGS.160J Science Activism: Gender, Race, and Power]] (23 assets: 18 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-260-womens-novels-a-weekly-book-club-spring-2006|ES.260 Women's Novels: A Weekly Book Club]] (6 assets: 5 API + 3 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[17-559-comparative-security-and-sustainability-fall-2004|17.559 Comparative Security and Sustainability]] (6 assets: 5 API + 3 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-268-the-mathematics-in-toys-and-games-spring-2010|ES.268 The Mathematics in Toys and Games]] (29 assets: 27 API + 5 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[21h-s01-food-in-american-history-fall-2014|21H.S01 Food in American History]] (14 assets: 13 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-269-passing-flexibility-in-race-and-gender-spring-2009|ES.269 Passing: Flexibility in Race and Gender]] (17 assets: 15 API + 4 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[res-7-003-brave-new-planet-fall-2020|RES.7-003 Brave New Planet]] (2 assets: 2 API + 0 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-287-kitchen-chemistry-spring-2009|ES.287 Kitchen Chemistry]] (38 assets: 36 API + 5 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[12-103-strange-bedfellows-science-and-environmental-policy-fall-2005|12.103 Strange Bedfellows: Science and Environmental Policy]] (19 assets: 17 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-292-writing-workshop-spring-2008|ES.292 Writing Workshop]] (23 assets: 21 API + 5 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[22-011-nuclear-engineering-science-systems-and-society-spring-2020|22.011 Nuclear Engineering: Science, Systems and Society]] (36 assets: 29 API + 8 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-291-learning-seminar-experiments-in-education-spring-2003|ES.291 Learning Seminar: Experiments in Education]] (40 assets: 39 API + 3 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[12-110-sedimentary-geology-fall-2004|12.110 Sedimentary Geology]] (73 assets: 70 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-272-culture-tech-spring-2003|ES.272 Culture Tech]] (30 assets: 28 API + 6 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[12-307-weather-and-climate-laboratory-spring-2009|12.307 Weather and Climate Laboratory]] (21 assets: 19 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-298-art-of-color-spring-2005|ES.298 Art of Color]] (17 assets: 16 API + 3 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[12-802-wave-motion-in-the-ocean-and-the-atmosphere-spring-2008|12.802 Wave Motion in the Ocean and the Atmosphere]] (29 assets: 27 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-1803-differential-equations-spring-2024|ES.1803 Differential Equations]] (303 assets: 292 API + 12 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[12-491-biogeochemistry-of-sulfur-fall-2007|12.491 Biogeochemistry of Sulfur]] (11 assets: 10 API + 3 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-s60-the-art-and-science-of-happiness-spring-2013|ES.S60 The Art and Science of Happiness]] (10 assets: 8 API + 4 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004|2.693 Principles of Oceanographic Instrument Systems -- Sensors and Measurements (13.998)]] (55 assets: 53 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-293-lego-robotics-spring-2007|ES.293 Lego Robotics]] (174 assets: 171 API + 8 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[2-58j-radiative-transfer-spring-2006|2.58J Radiative Transfer]] (70 assets: 68 API + 6 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-s10-drugs-and-the-brain-spring-2013|ES.S10 Drugs and the Brain]] (47 assets: 45 API + 7 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[2-062j-wave-propagation-spring-2017|2.062J Wave Propagation]] (17 assets: 15 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-333-producing-educational-videos-spring-2015|ES.333 Producing Educational Videos]] (27 assets: 15 API + 9 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[6-s898-climate-change-seminar-fall-2019|6.S898 Climate Change Seminar]] (15 assets: 9 API + 7 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-00-introduction-to-engineering-systems-spring-2011|ESD.00 Introduction to Engineering Systems]] (54 assets: 44 API + 13 pages)
 
-## [2026-05-10 03:28] asset-scan | Hybrid scanned [[12-815-atmospheric-radiation-fall-2008|12.815 Atmospheric Radiation]] (19 assets: 18 API + 3 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-s71-increasing-your-physical-intelligence-enhancing-your-social-smarts-spring-2014|ES.S71 Increasing Your Physical Intelligence, Enhancing Your Social Smarts]] (20 assets: 16 API + 10 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[11-941-urban-climate-adaptation-spring-2011|11.941 Urban Climate Adaptation]] (15 assets: 11 API + 7 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-141-technology-policy-negotiations-spring-2006|ESD.141 Technology Policy Negotiations]] (17 assets: 15 API + 5 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[12-517-dynamics-of-complex-systems-biological-and-environmental-coevolution-preceding-the-cambrian-explosion-spring-2005|12.517 Dynamics of Complex Systems: Biological and Environmental Coevolution Preceding the Cambrian Explosion]] (10 assets: 8 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-260j-logistics-systems-fall-2006|ESD.260J Logistics Systems]] (40 assets: 38 API + 5 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[11-364-international-environmental-negotiation-fall-2010|11.364 International Environmental Negotiation]] (7 assets: 5 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-10-introduction-to-technology-and-policy-fall-2006|ESD.10 Introduction to Technology and Policy]] (53 assets: 50 API + 8 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[12-753-geodynamics-seminar-spring-2005|12.753 Geodynamics Seminar]] (31 assets: 28 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009|ESD.172J X PRIZE Workshop: Grand Challenges in Energy]] (34 assets: 25 API + 12 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007|12.425 Extrasolar Planets: Physics and Detection Techniques]] (29 assets: 27 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-290-special-topics-in-supply-chain-management-spring-2005|ESD.290 Special Topics in Supply Chain Management]] (67 assets: 64 API + 6 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[12-158-molecular-biogeochemistry-fall-2011|12.158 Molecular Biogeochemistry]] (19 assets: 18 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-33-systems-engineering-summer-2010|ESD.33 Systems Engineering]] (22 assets: 20 API + 5 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[15-975-u-lab-leading-profound-innovation-for-a-more-sustainable-world-fall-2010|15.975 U-Lab: Leading Profound Innovation for a More Sustainable World]] (26 assets: 12 API + 17 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-33-systems-engineering-summer-2004|ESD.33 Systems Engineering]] (39 assets: 37 API + 6 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[11-942-regional-energy-environmental-economic-modeling-spring-2007|11.942 Regional Energy-Environmental Economic Modeling]] (8 assets: 6 API + 3 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-051j-engineering-innovation-and-design-fall-2012|ESD.051J Engineering Innovation and Design]] (62 assets: 37 API + 27 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[1-322-soil-behavior-spring-2005|1.322 Soil Behavior]] (33 assets: 31 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-34-system-architecture-january-iap-2007|ESD.34 System Architecture]] (5 assets: 0 API + 0 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004|12.800 Fluid Dynamics of the Atmosphere and Ocean]] (57 assets: 55 API + 6 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-342-advanced-system-architecture-spring-2006|ESD.342 Advanced System Architecture]] (113 assets: 111 API + 7 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[12-009j-theoretical-environmental-analysis-spring-2015|12.009J Theoretical Environmental Analysis]] (38 assets: 36 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-57-technology-based-business-transformation-fall-2007|ESD.57 Technology-based Business Transformation]] (15 assets: 14 API + 4 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[res-12-000-evolution-of-physical-oceanography-spring-2007|RES.12-000 Evolution of Physical Oceanography]] (127 assets: 126 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-342-network-representations-of-complex-engineering-systems-spring-2010|ESD.342 Network Representations of Complex Engineering Systems]] (37 assets: 35 API + 6 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[21a-429j-environmental-conflict-fall-2016|21A.429J Environmental Conflict]] (8 assets: 6 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-68j-communications-and-information-policy-spring-2006|ESD.68J Communications and Information Policy]] (49 assets: 39 API + 13 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[12-086-modeling-environmental-complexity-fall-2014|12.086 Modeling Environmental Complexity]] (26 assets: 25 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-60-lean-six-sigma-processes-summer-2004|ESD.60 Lean/Six Sigma Processes]] (40 assets: 38 API + 5 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[12-163-surface-processes-and-landscape-evolution-fall-2004|12.163 Surface Processes and Landscape Evolution]] (51 assets: 48 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-71-engineering-systems-analysis-for-design-fall-2008|ESD.71 Engineering Systems Analysis for Design]] (21 assets: 19 API + 4 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017|WGS.700 Changing Life: Reading the Intersections of Gender, Race, Biology, and Literature]] (37 assets: 23 API + 15 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-72-engineering-risk-benefit-analysis-spring-2007|ESD.72 Engineering Risk-Benefit Analysis]] (27 assets: 26 API + 3 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[12-091-medical-geology-geochemistry-an-exposure-january-iap-2006|12.091 Medical Geology/Geochemistry: An Exposure]] (6 assets: 0 API + 0 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-70j-engineering-economy-module-fall-2009|ESD.70J Engineering Economy Module]] (27 assets: 26 API + 4 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[1-253j-transportation-policy-and-environmental-limits-spring-2004|1.253J Transportation Policy and Environmental Limits]] (24 assets: 22 API + 6 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[es-s41-speak-italian-with-your-mouth-full-spring-2012|ES.S41 Speak Italian With Your Mouth Full]] (190 assets: 131 API + 46 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[22-081j-introduction-to-sustainable-energy-fall-2010|22.081J Introduction to Sustainable Energy]] (65 assets: 61 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-932-technology-policy-organizations-spring-2005|ESD.932 Technology Policy Organizations]] (27 assets: 24 API + 6 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[12-740-paleoceanography-spring-2008|12.740 Paleoceanography]] (46 assets: 45 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-933-technology-policy-negotiations-and-dispute-resolution-spring-2005|ESD.933 Technology Policy Negotiations and Dispute Resolution]] (18 assets: 16 API + 5 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[ec-720j-d-lab-ii-design-spring-2010|EC.720J D-Lab II: Design]] (56 assets: 49 API + 11 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-932-engineering-ethics-spring-2006|ESD.932 Engineering Ethics]] (54 assets: 30 API + 4 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[12-810-dynamics-of-the-atmosphere-spring-2008|12.810 Dynamics of the Atmosphere]] (35 assets: 34 API + 3 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-021-musculoskeletal-pathophysiology-january-iap-2006|HST.021 Musculoskeletal Pathophysiology]] (6 assets: 0 API + 0 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006|12.005 Applications of Continuum Mechanics to Earth, Atmospheric, and Planetary Sciences]] (50 assets: 48 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007|ESD.86 Models, Data and Inference for Socio-Technical Systems]] (65 assets: 63 API + 7 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006|12.820 Turbulence in the Ocean and Atmosphere]] (34 assets: 33 API + 3 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-s43-green-supply-chain-management-spring-2014|ESD.S43 Green Supply Chain Management]] (34 assets: 19 API + 19 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[12-119-analytical-techniques-for-studying-environmental-and-geologic-samples-spring-2011|12.119 Analytical Techniques for Studying Environmental and Geologic Samples]] (22 assets: 20 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-035-principle-and-practice-of-human-pathology-spring-2003|HST.035 Principle and Practice of Human Pathology]] (34 assets: 31 API + 7 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[res-12-002-terrascope-spring-2023|RES.12-002 Terrascope]] (12 assets: 9 API + 3 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-131-introduction-to-neuroscience-fall-2005|HST.131 Introduction to Neuroscience]] (37 assets: 35 API + 6 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[1-361-advanced-soil-mechanics-fall-2004|1.361 Advanced Soil Mechanics]] (29 assets: 27 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[esd-s51-systems-leadership-and-management-praxis-summer-2014|ESD.S51 Systems Leadership and Management Praxis]] (18 assets: 16 API + 9 pages)
 
-## [2026-05-10 03:29] asset-scan | Hybrid scanned [[12-744-marine-isotope-chemistry-fall-2012|12.744 Marine Isotope Chemistry]] (53 assets: 49 API + 8 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-071-human-reproductive-biology-fall-2005|HST.071 Human Reproductive Biology]] (61 assets: 59 API + 7 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[1-84j-atmospheric-chemistry-fall-2013|1.84J Atmospheric Chemistry]] (35 assets: 33 API + 7 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-121-gastroenterology-fall-2005|HST.121 Gastroenterology]] (70 assets: 67 API + 7 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005|20.104J Chemicals in the Environment: Toxicology and Public Health (BE.104J)]] (44 assets: 42 API + 8 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-151-principles-of-pharmacology-spring-2005|HST.151 Principles of Pharmacology]] (59 assets: 57 API + 7 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[15-992-s-lab-laboratory-for-sustainable-business-spring-2008|15.992 S-Lab: Laboratory for Sustainable Business]] (32 assets: 28 API + 10 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007|HST.161 Molecular Biology and Genetics in Modern Medicine]] (55 assets: 53 API + 6 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[12-001-introduction-to-geology-fall-2013|12.001 Introduction to Geology]] (101 assets: 98 API + 11 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-176-cellular-and-molecular-immunology-fall-2005|HST.176 Cellular and Molecular Immunology]] (62 assets: 60 API + 6 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017|RES.ENV-001 Climate Action Hands-On: Harnessing Science with Communities to Cut Carbon]] (38 assets: 0 API + 0 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003|HST.502 Survival Skills for Researchers: The Responsible Conduct of Research]] (24 assets: 22 API + 5 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[12-571-near-surface-geophysical-imaging-fall-2009|12.571 Near-Surface Geophysical Imaging]] (26 assets: 25 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007|HST.410J Projects in Microscale Engineering for the Life Sciences]] (76 assets: 74 API + 5 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[21h-421-introduction-to-environmental-history-spring-2011|21H.421 Introduction to Environmental History]] (46 assets: 45 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-508-genomics-and-computational-biology-fall-2002|HST.508 Genomics and Computational Biology]] (90 assets: 66 API + 7 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[12-510-introduction-to-seismology-spring-2010|12.510 Introduction to Seismology]] (35 assets: 34 API + 3 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-535-principles-and-practice-of-tissue-engineering-fall-2004|HST.535 Principles and Practice of Tissue Engineering]] (35 assets: 33 API + 4 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008|12.002 Physics and Chemistry of the Terrestrial Planets]] (50 assets: 48 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005|HST.525J Tumor Pathophysiology and Transport Phenomena]] (18 assets: 17 API + 3 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[12-103-science-and-policy-of-natural-hazards-spring-2010|12.103 Science and Policy of Natural Hazards]] (35 assets: 34 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-510-genomics-computing-economics-and-society-fall-2005|HST.510 Genomics, Computing, Economics, and Society]] (18 assets: 15 API + 7 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[12-803-quasi-balanced-circulations-in-oceans-and-atmospheres-fall-2009|12.803 Quasi-Balanced Circulations in Oceans and Atmospheres]] (26 assets: 25 API + 3 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-508-quantitative-genomics-fall-2005|HST.508 Quantitative Genomics]] (37 assets: 35 API + 7 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[12-097-chemical-investigations-of-boston-harbor-january-iap-2006|12.097 Chemical Investigations of Boston Harbor]] (6 assets: 0 API + 0 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-512-genomic-medicine-spring-2004|HST.512 Genomic Medicine]] (59 assets: 37 API + 25 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[12-340-global-warming-science-spring-2012|12.340 Global Warming Science]] (36 assets: 34 API + 7 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-542j-quantitative-physiology-organ-transport-systems-spring-2004|HST.542J Quantitative Physiology: Organ Transport Systems]] (46 assets: 44 API + 6 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[12-759-marine-chemistry-seminar-spring-2006|12.759 Marine Chemistry Seminar]] (12 assets: 10 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-590-biomedical-engineering-seminar-series-topics-in-medical-ethics-and-responsible-conduct-in-research-fall-2005-spring-2006|HST.590 Biomedical Engineering Seminar Series: Topics in Medical Ethics and Responsible Conduct in Research]] (4 assets: 0 API + 0 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[17-441-international-politics-and-climate-change-fall-2007|17.441 International Politics and Climate Change]] (10 assets: 9 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-582j-biomedical-signal-and-image-processing-spring-2007|HST.582J Biomedical Signal and Image Processing]] (61 assets: 58 API + 6 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[12-520-geodynamics-fall-2006|12.520 Geodynamics]] (48 assets: 46 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006|HST.590 Biomedical Engineering Seminar Series: Developing Professional Skills]] (18 assets: 16 API + 5 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[12-114-field-geology-i-fall-2005|12.114 Field Geology I]] (130 assets: 127 API + 7 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-720-physiology-of-the-ear-fall-2004|HST.720 Physiology of the Ear]] (9 assets: 7 API + 5 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[11-952-foshan-china-workshop-spring-2004|11.952 Foshan China Workshop]] (31 assets: 28 API + 6 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-721-the-peripheral-auditory-system-fall-2005|HST.721 The Peripheral Auditory System]] (29 assets: 27 API + 5 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[ec-s06-prototypes-to-products-fall-2005|EC.S06 Prototypes to Products]] (33 assets: 24 API + 12 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006|HST.584J Magnetic Resonance Analytic, Biochemical, and Imaging Techniques]] (29 assets: 27 API + 6 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[res-env-006-teaching-with-sustainability-january-iap-2022|RES.ENV-006 Teaching with Sustainability]] (7 assets: 0 API + 0 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005|HST.722J Brain Mechanisms for Hearing and Speech]] (22 assets: 20 API + 6 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[12-815-atmospheric-radiation-fall-2006|12.815 Atmospheric Radiation]] (28 assets: 26 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008|HST.583 Functional Magnetic Resonance Imaging: Data Acquisition and Analysis]] (65 assets: 63 API + 8 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[12-811-tropical-meteorology-spring-2011|12.811 Tropical Meteorology]] (119 assets: 117 API + 7 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-730-molecular-biology-for-the-auditory-system-fall-2002|HST.730 Molecular Biology for the Auditory System]] (24 assets: 21 API + 5 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[2-011-introduction-to-ocean-science-and-engineering-spring-2006|2.011 Introduction to Ocean Science and Engineering]] (67 assets: 64 API + 6 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-930j-social-studies-of-bioscience-and-biotech-fall-2005|HST.930J Social Studies of Bioscience and Biotech]] (9 assets: 7 API + 4 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[12-490-advanced-igneous-petrology-fall-2005|12.490 Advanced Igneous Petrology]] (18 assets: 15 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-750-modeling-issues-in-speech-and-hearing-spring-2006|HST.750 Modeling Issues in Speech and Hearing]] (21 assets: 20 API + 4 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004|1.725J Chemicals in the Environment: Fate and Transport]] (29 assets: 27 API + 6 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-725-music-perception-and-cognition-spring-2009|HST.725 Music Perception and Cognition]] (23 assets: 21 API + 7 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[12-753-geodynamics-seminar-spring-2001|12.753 Geodynamics Seminar]] (21 assets: 18 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009|HST.921 Information Technology in the Health Care System of the Future]] (27 assets: 26 API + 4 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[1-89-environmental-microbiology-fall-2004|1.89 Environmental Microbiology]] (30 assets: 28 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010|HST.934J Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies]] (17 assets: 16 API + 4 pages)
 
-## [2026-05-10 03:30] asset-scan | Hybrid scanned [[ids-410j-modeling-and-assessment-for-policy-spring-2013|IDS.410J Modeling and Assessment for Policy]] (59 assets: 50 API + 13 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-935-narrative-ethics-literary-texts-and-moral-issues-in-medicine-january-iap-2007|HST.935 Narrative Ethics: Literary Texts and Moral Issues in Medicine]] (3 assets: 0 API + 0 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[12-201-essentials-of-geophysics-fall-2004|12.201 Essentials of Geophysics]] (22 assets: 20 API + 6 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020|HST.936X Global Health Informatics to Improve Quality of Care]] (1 assets: 0 API + 0 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[12-000-solving-complex-problems-fall-2003|12.000 Solving Complex Problems]] (45 assets: 41 API + 7 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-953-collaborative-data-science-for-healthcare-fall-2020|HST.953 Collaborative Data Science for Healthcare]] (3 assets: 3 API + 0 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[11-943j-urban-transportation-land-use-and-the-environment-spring-2002|11.943J Urban Transportation, Land Use, and the Environment]] (51 assets: 49 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-951j-medical-decision-support-fall-2005|HST.951J Medical Decision Support]] (32 assets: 30 API + 4 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[12-000-solving-complex-problems-fall-2009|12.000 Solving Complex Problems]] (7 assets: 6 API + 3 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-950j-medical-computing-spring-2003|HST.950J Medical Computing]] (31 assets: 28 API + 7 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[17-181-sustainability-political-economy-science-and-policy-fall-2016|17.181 Sustainability: Political Economy, Science, and Policy]] (19 assets: 18 API + 7 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-951j-medical-decision-support-spring-2003|HST.951J Medical Decision Support]] (30 assets: 28 API + 5 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[18-s191-introduction-to-computational-thinking-fall-2022|18.S191 Introduction to Computational Thinking]] (6 assets: 4 API + 2 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-950j-biomedical-computing-fall-2010|HST.950J Biomedical Computing]] (38 assets: 32 API + 7 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[10-571j-atmospheric-physics-and-chemistry-spring-2006|10.571J Atmospheric Physics and Chemistry]] (26 assets: 24 API + 6 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008|HST.939 Designing and Sustaining Technology Innovation for Global Health Practice]] (46 assets: 43 API + 9 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[2-682-acoustical-oceanography-spring-2012|2.682 Acoustical Oceanography]] (42 assets: 41 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012|HST.S14 Health Information Systems to Improve Quality of Care in Resource-Poor Settings]] (46 assets: 43 API + 4 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[1-72-groundwater-hydrology-fall-2005|1.72 Groundwater Hydrology]] (67 assets: 47 API + 8 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-952-computing-for-biomedical-scientists-fall-2002|HST.952 Computing for Biomedical Scientists]] (46 assets: 43 API + 7 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[12-570-structure-and-dynamics-of-the-cmb-region-spring-2004|12.570 Structure and Dynamics of the CMB Region]] (22 assets: 20 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[hst-953-clinical-data-learning-visualization-and-deployments-fall-2024|HST.953 Clinical Data Learning, Visualization, and Deployments]] (22 assets: 14 API + 8 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002|12.409 Hands-On Astronomy: Observing Stars and Planets]] (20 assets: 18 API + 3 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010|IDS.720J Tools for Analysis: Design for Real Estate and Infrastructure Development]] (14 assets: 12 API + 4 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[12-570-seminar-in-geophysics-mantle-convection-spring-1998|12.570 Seminar in Geophysics: Mantle Convection]] (27 assets: 25 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ids-900-doctoral-seminar-in-engineering-systems-fall-2011|IDS.900 Doctoral Seminar in Engineering Systems]] (37 assets: 33 API + 5 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[ec-719-d-lab-water-climate-change-and-health-spring-2019|EC.719 D-Lab: Water, Climate Change, and Health]] (71 assets: 44 API + 23 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ids-910-leadership-development-fall-2014|IDS.910 Leadership Development]] (19 assets: 15 API + 7 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[14-44-energy-economics-spring-2007|14.44 Energy Economics]] (17 assets: 16 API + 3 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ids-338j-multidisciplinary-system-design-optimization-spring-2010|IDS.338J Multidisciplinary System Design Optimization]] (62 assets: 59 API + 7 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[11-165-infrastructure-and-energy-technology-challenges-fall-2011|11.165 Infrastructure and Energy Technology Challenges]] (38 assets: 36 API + 7 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ids-910-leadership-development-fall-2002|IDS.910 Leadership Development]] (15 assets: 13 API + 4 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[2-611-marine-power-and-propulsion-fall-2006|2.611 Marine Power and Propulsion]] (81 assets: 80 API + 6 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-111-introduction-to-doing-research-in-media-arts-and-sciences-spring-2011|MAS.111 Introduction to Doing Research in Media Arts and Sciences]] (7 assets: 6 API + 3 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[22-091-nuclear-reactor-safety-spring-2008|22.091 Nuclear Reactor Safety]] (82 assets: 68 API + 12 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005|IDS.900 Integrating Doctoral Seminar on Emerging Technologies]] (39 assets: 37 API + 5 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[22-033-nuclear-systems-design-project-fall-2011|22.033 Nuclear Systems Design Project]] (78 assets: 53 API + 22 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-110-fundamentals-of-computational-media-design-fall-2008|MAS.110 Fundamentals of Computational Media Design]] (18 assets: 15 API + 6 pages)
 
-## [2026-05-10 03:31] asset-scan | Hybrid scanned [[4-401-introduction-to-building-technology-spring-2006|4.401 Introduction to Building Technology]] (49 assets: 47 API + 6 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-160-signals-systems-and-information-for-media-technology-fall-2007|MAS.160 Signals, Systems and Information for Media Technology]] (37 assets: 35 API + 4 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[4-430-daylighting-spring-2012|4.430 Daylighting]] (36 assets: 34 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-666-developmental-entrepreneurship-fall-2003|MAS.666 Developmental Entrepreneurship]] (27 assets: 25 API + 4 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[11-165j-urban-energy-systems-and-policy-fall-2022|11.165J Urban Energy Systems and Policy]] (77 assets: 40 API + 37 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-622j-pattern-recognition-and-analysis-fall-2006|MAS.622J Pattern Recognition and Analysis]] (37 assets: 34 API + 7 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[22-812j-managing-nuclear-technology-spring-2004|22.812J Managing Nuclear Technology]] (56 assets: 53 API + 7 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-632-conversational-computer-systems-fall-2008|MAS.632 Conversational Computer Systems]] (34 assets: 31 API + 6 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[2-61-internal-combustion-engines-spring-2017|2.61 Internal Combustion Engines]] (67 assets: 64 API + 9 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-712-how-to-learn-almost-anything-spring-2001|MAS.712 How to Learn (Almost) Anything]] (12 assets: 10 API + 4 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[res-ec-003-d-lab-student-showcases-spring-2022|RES.EC-003 D-Lab Student Showcases]] (2 assets: 2 API + 0 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-531-computational-camera-and-photography-fall-2009|MAS.531 Computational Camera and Photography]] (108 assets: 55 API + 55 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006|22.314J Structural Mechanics in Nuclear Power Technology]] (80 assets: 79 API + 6 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-450-holographic-imaging-spring-2003|MAS.450 Holographic Imaging]] (78 assets: 75 API + 8 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006|STS.038 Energy and Environment in American History: 1705-2005]] (15 assets: 14 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003|MAS.742 Industrial Design Intelligence: A Cognitive Approach to Engineering]] (13 assets: 11 API + 5 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[22-39-integration-of-reactor-design-operations-and-safety-fall-2006|22.39 Integration of Reactor Design, Operations, and Safety]] (61 assets: 60 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-771-autism-theory-and-technology-spring-2011|MAS.771 Autism Theory and Technology]] (6 assets: 5 API + 4 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011|6.007 Electromagnetic Energy: From Motors to Lasers]] (143 assets: 135 API + 6 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-714j-technologies-for-creative-learning-fall-2009|MAS.714J Technologies for Creative Learning]] (65 assets: 55 API + 13 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[2-627-fundamentals-of-photovoltaics-fall-2013|2.627 Fundamentals of Photovoltaics]] (102 assets: 66 API + 29 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[ids-333-risk-and-decision-analysis-fall-2021|IDS.333 IDS.333 Risk and Decision Analysis]] (159 assets: 96 API + 20 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007|ESD.04J Frameworks and Models in Engineering Systems / Engineering System Design]] (39 assets: 37 API + 6 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-836-sensor-technologies-for-interactive-environments-spring-2011|MAS.836 Sensor Technologies for Interactive Environments]] (21 assets: 20 API + 5 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[4-411-building-technology-laboratory-spring-2004|4.411 Building Technology Laboratory]] (38 assets: 35 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-863-how-to-make-almost-anything-fall-2002|MAS.863 How to Make (Almost) Anything]] (22 assets: 20 API + 5 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[11-s955-the-sustainability-response-to-covid-19-january-iap-2021|11.S955 The Sustainability Response to COVID-19]] (5 assets: 0 API + 0 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-845-special-topics-in-cinematic-storytelling-spring-2004|MAS.845 Special Topics in Cinematic Storytelling]] (25 assets: 21 API + 7 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[res-11-550-leveraging-urban-mobility-disruptions-to-create-better-cities-spring-2021|RES.11-550 Leveraging Urban Mobility Disruptions to Create Better Cities]] (2 assets: 2 API + 0 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-865j-quantum-information-science-spring-2006|MAS.865J Quantum Information Science]] (37 assets: 35 API + 4 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[6-701-introduction-to-nanoelectronics-spring-2010|6.701 Introduction to Nanoelectronics]] (23 assets: 21 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-961-numeric-photography-fall-1998|MAS.961 Numeric Photography]] (17 assets: 15 API + 3 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[2-57-nano-to-macro-transport-processes-spring-2012|2.57 Nano-to-Macro Transport Processes]] (78 assets: 25 API + 32 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003|MAS.878 Special Topics in Multimedia Production: Experiences in Interactive Art]] (13 assets: 11 API + 5 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[res-env-004-mit-climate-portal-fall-2020|RES.ENV-004 MIT Climate Portal]] (3 assets: 2 API + 1 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-961-networks-complexity-and-its-applications-spring-2011|MAS.961 Networks, Complexity and Its Applications]] (16 assets: 13 API + 5 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[3-53-electrochemical-processing-of-materials-spring-2001|3.53 Electrochemical Processing of Materials]] (22 assets: 20 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-962-digital-typography-fall-1997|MAS.962 Digital Typography]] (17 assets: 15 API + 3 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[18-s191-introduction-to-computational-thinking-fall-2020|18.S191 Introduction to Computational Thinking]] (69 assets: 8 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-630-affective-computing-fall-2015|MAS.630 Affective Computing]] (28 assets: 24 API + 17 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[4-401-environmental-technologies-in-buildings-fall-2018|4.401 Environmental Technologies in Buildings]] (36 assets: 33 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-961-ambient-intelligence-spring-2005|MAS.961 Ambient Intelligence]] (88 assets: 85 API + 7 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[8-s271-nuclear-weapons-history-and-future-prospects-spring-2022|8.S271 Nuclear Weapons – History and Future Prospects]] (2 assets: 2 API + 0 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-961-special-topics-designing-sociable-media-spring-2008|MAS.961 Special Topics: Designing Sociable Media]] (19 assets: 14 API + 7 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[6-685-electric-machines-fall-2013|6.685 Electric Machines]] (52 assets: 49 API + 6 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-961-seminar-on-deep-engagement-fall-2004|MAS.961 Seminar on Deep Engagement]] (64 assets: 62 API + 5 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[8-21-the-physics-of-energy-fall-2009|8.21 The Physics of Energy]] (18 assets: 17 API + 3 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-962-common-sense-reasoning-for-interactive-applications-fall-2006|MAS.962 Common Sense Reasoning for Interactive Applications]] (15 assets: 13 API + 5 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[22-313j-thermal-hydraulics-in-power-technology-spring-2007|22.313J Thermal Hydraulics in Power Technology]] (45 assets: 44 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-962-special-topics-in-media-technology-computational-semantics-fall-2002|MAS.962 Special Topics in Media Technology: Computational Semantics]] (12 assets: 10 API + 4 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[res-2-008-thermodynamics-and-climate-change-summer-2020|RES.2-008 Thermodynamics and Climate Change]] (38 assets: 35 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001|MAS.963 Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context]] (18 assets: 16 API + 5 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015|22.S902 Do-It-Yourself (DIY) Geiger Counters]] (14 assets: 0 API + 0 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-963-technological-tools-for-school-reform-fall-2005|MAS.963 Technological Tools for School Reform]] (16 assets: 14 API + 5 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[6-691-seminar-in-electric-power-systems-spring-2006|6.691 Seminar in Electric Power Systems]] (27 assets: 26 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-962-the-nature-of-constructionist-learning-spring-2003|MAS.962 The Nature of Constructionist Learning]] (11 assets: 9 API + 5 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[2-500-desalination-and-water-purification-spring-2009|2.500 Desalination and Water Purification]] (45 assets: 43 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-964-common-sense-reasoning-for-interactive-applications-fall-2002|MAS.964 Common Sense Reasoning for Interactive Applications]] (14 assets: 12 API + 5 pages)
 
-## [2026-05-10 03:32] asset-scan | Hybrid scanned [[res-2-006-girls-who-build-cameras-summer-2016|RES.2-006 Girls Who Build Cameras]] (119 assets: 102 API + 18 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002|MAS.963 Techno-identity: Who we are and how we perceive ourselves and others]] (24 assets: 22 API + 5 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[15-031j-energy-decisions-markets-and-policies-spring-2012|15.031J Energy Decisions, Markets, and Policies]] (80 assets: 54 API + 30 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-s60-how-to-ai-almost-anything-spring-2025|MAS.S60 How to AI (Almost) Anything]] (1 assets: 1 API + 0 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[res-8-008-nuclear-weapons-education-project-spring-2022|RES.8-008 Nuclear Weapons Education Project]] (8 assets: 6 API + 2 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-965-social-visualization-fall-2004|MAS.965 Social Visualization]] (25 assets: 18 API + 9 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[21h-207-the-energy-crisis-past-and-present-fall-2010|21H.207 The Energy Crisis: Past and Present]] (70 assets: 9 API + 63 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008|MAS.965 NextLab I: Designing Mobile Technologies for the Next Billion Users]] (121 assets: 120 API + 4 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002|2.24 Ocean Wave Interaction with Ships and Offshore Energy Systems (13.022)]] (76 assets: 74 API + 7 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-966-digital-anthropology-spring-2003|MAS.966 Digital Anthropology]] (15 assets: 13 API + 5 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010|IDS.505J Engineering, Economics and Regulation of the Electric Power Sector]] (46 assets: 42 API + 7 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-965-relational-machines-spring-2005|MAS.965 Relational Machines]] (68 assets: 66 API + 7 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[15-023j-global-climate-change-economics-science-and-policy-spring-2008|15.023J Global Climate Change: Economics, Science, and Policy]] (35 assets: 34 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-s63-engineering-health-towards-the-tricorder-fall-2013|MAS.S63 Engineering Health: Towards the Tricorder]] (10 assets: 7 API + 5 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[6-s079-nanomaker-spring-2013|6.S079 Nanomaker]] (69 assets: 54 API + 6 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003|MAS.965 Special Topics in Media Technology: Cooperative Machines]] (40 assets: 37 API + 6 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[2-60j-fundamentals-of-advanced-energy-conversion-spring-2020|2.60J Fundamentals of Advanced Energy Conversion]] (46 assets: 44 API + 6 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[pe-550-designing-your-life-january-iap-2007|PE.550 Designing Your Life]] (4 assets: 0 API + 0 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[ec-711-d-lab-energy-spring-2011|EC.711 D-Lab: Energy]] (81 assets: 34 API + 26 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015|MAS.S66 Indistinguishable From... Magic as Interface, Technology, and Tradition]] (32 assets: 9 API + 6 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[11-333-urban-design-seminar-spring-2016|11.333 Urban Design Seminar]] (8 assets: 6 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-s62-cryptocurrency-engineering-and-design-spring-2018|MAS.S62 Cryptocurrency Engineering and Design]] (98 assets: 49 API + 52 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006|22.921 Nuclear Power Plant Dynamics and Control]] (4 assets: 0 API + 0 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[pe-210-scuba-spring-2007|PE.210 SCUBA]] (42 assets: 8 API + 36 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[1-033-mechanics-of-material-systems-an-energy-approach-fall-2003|1.033 Mechanics of Material Systems: An Energy Approach]] (29 assets: 27 API + 5 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[pe-550-designing-your-life-spring-2009|PE.550 Designing Your Life]] (30 assets: 28 API + 5 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[res-1-001-project-evaluation-essays-and-case-studies-fall-2023|RES.1-001 Project Evaluation: Essays and Case Studies]] (61 assets: 57 API + 4 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[pe-720-weight-training-spring-2006|PE.720 Weight Training]] (57 assets: 12 API + 47 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[res-14-003-the-roosevelt-project-spring-2023|RES.14-003 The Roosevelt Project]] (3 assets: 3 API + 0 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[mas-962-special-topics-new-textiles-spring-2010|MAS.962 Special Topics: New Textiles]] (263 assets: 242 API + 13 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[res-env-005-climate-science-risk-solutions-a-climate-primer|RES.ENV-005 Climate Science, Risk & Solutions: A Climate Primer]] (3 assets: 0 API + 0 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[pe-910-physical-intelligence-january-iap-2002|PE.910 Physical Intelligence]] (4 assets: 0 API + 0 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[6-622-power-electronics-spring-2023|6.622 Power Electronics]] (209 assets: 124 API + 122 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[pe-710-tennis-spring-2007|PE.710 Tennis]] (78 assets: 65 API + 15 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[11-350-sustainable-real-estate-spring-2023|11.350 Sustainable Real Estate]] (108 assets: 41 API + 68 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[pe-810-sailing-spring-2007|PE.810 Sailing]] (28 assets: 7 API + 23 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[2-43-advanced-thermodynamics-spring-2024|2.43 Advanced Thermodynamics]] (121 assets: 79 API + 57 pages)
+## [2026-05-26 14:50] asset-scan | Hybrid scanned [[pe-740-fencing-spring-2007|PE.740 Fencing]] (33 assets: 7 API + 28 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[res-env-007-geothermal-energy-networks-transforming-our-thermal-energy-system-january-iap-2025|RES.ENV-007 Geothermal Energy Networks: Transforming Our Thermal Energy System]] (88 assets: 0 API + 0 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[pe-730-archery-spring-2006|PE.730 Archery]] (38 assets: 21 API + 20 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[res-env-008-climate-environment-and-sustainability-infusion-fellowship-cesif-spring-2025|RES.ENV-008 Climate, Environment, and Sustainability Infusion Fellowship (CESIF)]] (57 assets: 57 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-10-s95-physics-of-covid-19-transmission-fall-2020|RES.10-S95 Physics of COVID-19 Transmission]] (101 assets: 51 API + 1 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[res-11-003-climate-justice-instructional-toolkit-spring-2025|RES.11-003 Climate Justice Instructional Toolkit]] (41 assets: 34 API + 7 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[pe-920-pe-for-me-spring-2005|PE.920 PE for ME]] (21 assets: 17 API + 6 pages)
 
-## [2026-05-10 03:33] asset-scan | Hybrid scanned [[1-76-aquatic-chemistry-fall-2005|1.76 Aquatic Chemistry]] (33 assets: 31 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-10-002-ethics-of-ai-bias-spring-2023|RES.10-002 Ethics of AI Bias]] (38 assets: 22 API + 14 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004|1.963 Environmental Engineering Applications of Geographic Information Systems]] (33 assets: 29 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-11-001-cite-reports-fall-2015|RES.11-001 CITE Reports]] (4 assets: 3 API + 1 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007|11.479J Water and Sanitation Infrastructure in Developing Countries]] (29 assets: 26 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-15-001-mit-sloan-learningedge-fall-2008|RES.15-001 MIT Sloan Teaching Resources Library]] (2 assets: 2 API + 0 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[10-805j-technology-law-and-the-working-environment-spring-2006|10.805J Technology, Law, and the Working Environment]] (8 assets: 6 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-14-004-seven-questions-about-tariffs-that-everyone-should-know-the-answer-to-january-iap-2026|RES.14-004 Seven Questions About Tariffs That Everyone Should Know the Answer To]] (3 assets: 0 API + 0 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[1-731-water-resource-systems-fall-2006|1.731 Water Resource Systems]] (34 assets: 32 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-11-004-facilitative-leadership-in-the-public-sector-fall-2024|RES.11-004 Facilitative Leadership in the Public Sector]] (13 assets: 7 API + 2 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[1-34-waste-containment-and-remediation-technology-spring-2004|1.34 Waste Containment and Remediation Technology]] (52 assets: 50 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020|RES.15-004 System Dynamics: Systems Thinking and Modeling for a Complex World]] (6 assets: 0 API + 0 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-363-civil-society-and-the-environment-spring-2005|11.363 Civil Society and the Environment]] (70 assets: 65 API + 9 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-15-005-healthcare-finance-15-482x-spring-2019|RES.15-005 Healthcare Finance (15.482x)]] (8 assets: 6 API + 2 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005|1.101 Introduction to Civil and Environmental Engineering Design I]] (26 assets: 24 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-12-001-topics-in-fluid-dynamics-fall-2024|RES.12-001 Topics in Fluid Dynamics]] (43 assets: 40 API + 4 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-959-reforming-natural-resources-governance-failings-of-scientific-rationalism-and-alternatives-for-building-common-ground-january-iap-2007|11.959 Reforming Natural Resources Governance: Failings of Scientific Rationalism and Alternatives for Building Common Ground]] (4 assets: 0 API + 0 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-16-001-lean-enterprise-en-espanol-january-iap-2012|RES.16-001 Lean Enterprise en Español]] (6 assets: 0 API + 0 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006|11.362 Environmental Management Practicum: Brownfield Redevelopment]] (8 assets: 6 API + 3 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-17-001-mit-election-data-science-lab-fall-2020|RES.17-001 MIT Election Data + Science Lab]] (2 assets: 2 API + 0 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006|11.375 Role of Science and Scientists in Collaborative Approaches to Environmental Policymaking]] (10 assets: 8 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-17-002-mit-governance-lab-spring-2023|RES.17-002 MIT Governance Lab]] (3 assets: 3 API + 0 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005|11.479 Water and Sanitation Infrastructure Planning in Developing Countries]] (40 assets: 34 API + 10 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-18-003-calculus-for-beginners-and-artists-spring-2005|RES.18-003 Calculus for Beginners and Artists]] (2 assets: 2 API + 0 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-945-katrina-practicum-spring-2006|11.945 Katrina Practicum]] (66 assets: 59 API + 10 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009|RES.18-004 The Torch or The Firehose: A Guide to Section Teaching]] (24 assets: 24 API + 1 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[1-782-environmental-engineering-masters-of-engineering-project-fall-2007-spring-2008|1.782 Environmental Engineering Masters of Engineering Project]] (4 assets: 0 API + 0 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-18-001-calculus-fall-2023|RES.18-001 Calculus Open Textbook]] (66 assets: 61 API + 6 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[4-313-advanced-studio-on-the-production-of-space-fall-2016|4.313 Advanced Studio on the Production of Space]] (23 assets: 12 API + 9 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-18-002-introduction-to-matlab-spring-2008|RES.18-002 Introduction to MATLAB]] (27 assets: 17 API + 12 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004|10.492-1 Integrated Chemical Engineering Topics I: Process Control by Design]] (29 assets: 27 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016|RES.15-002 Mission & Metrics: Finance Training for Federal Credit Program Professionals]] (36 assets: 33 API + 12 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[1-964-design-for-sustainability-fall-2006|1.964 Design for Sustainability]] (37 assets: 35 API + 7 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017|RES.11-002 Intentional Public Disruptions: Art, Responsibility, and Pedagogy]] (56 assets: 38 API + 14 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-366j-planning-for-sustainable-development-spring-2006|11.366J Planning for Sustainable Development]] (14 assets: 12 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-18-005-highlights-of-calculus-spring-2010|RES.18-005 Highlights of Calculus]] (77 assets: 55 API + 3 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004|12.802 Wave Motions in the Ocean and Atmosphere]] (88 assets: 86 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026|RES.10-001 Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work]] (159 assets: 102 API + 21 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[1-061-transport-processes-in-the-environment-fall-2008|1.061 Transport Processes in the Environment]] (106 assets: 103 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011|RES.18-008 Calculus Revisited: Complex Variables, Differential Equations, and Linear Algebra]] (90 assets: 67 API + 24 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-122-environment-and-society-fall-2002|11.122 Environment and Society]] (13 assets: 11 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-18-011-algebra-i-student-notes-fall-2021|RES.18-011 Algebra I Student Notes]] (112 assets: 77 API + 36 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004|1.782 Environmental Engineering Masters of Engineering Project]] (4 assets: 0 API + 0 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-18-007-calculus-revisited-multivariable-calculus-fall-2011|RES.18-007 Calculus Revisited: Multivariable Calculus]] (138 assets: 106 API + 32 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-952-gaoming-studio-china-spring-2005|11.952 Gaoming Studio - China]] (14 assets: 12 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-18-012-algebra-ii-student-notes-spring-2022|RES.18-012 Algebra II Student Notes]] (114 assets: 79 API + 36 pages)
 
-## [2026-05-10 03:34] asset-scan | Hybrid scanned [[11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004|11.942 Use of Joint Fact Finding in Science Intensive Policy Disputes, Part II]] (26 assets: 24 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-18-010-a-2020-vision-of-linear-algebra-spring-2020|RES.18-010 A Vision of Linear Algebra]] (41 assets: 21 API + 9 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[1-017-computing-and-data-analysis-for-environmental-applications-fall-2003|1.017 Computing and Data Analysis for Environmental Applications]] (90 assets: 87 API + 8 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-18-006-calculus-revisited-single-variable-calculus-fall-2010|RES.18-006 Calculus Revisited: Single Variable Calculus]] (135 assets: 87 API + 49 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-s196-global-freshwater-crisis-spring-2011|11.S196 Global Freshwater Crisis]] (12 assets: 5 API + 8 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010|RES.2-002 Finite Element Procedures for Solids and Structures]] (100 assets: 64 API + 36 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-382-water-diplomacy-spring-2021|11.382 Water Diplomacy]] (28 assets: 18 API + 11 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-16-002-how-to-cad-almost-anything-january-iap-2024|RES.16-002 How to CAD Almost Anything]] (27 assets: 0 API + 0 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006|1.101 Introduction to Civil and Environmental Engineering Design I]] (39 assets: 37 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-18-015-topics-in-fourier-analysis-spring-2024|RES.18-015 Topics in Fourier Analysis ]] (54 assets: 27 API + 27 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003|11.941 Use of Joint Fact Finding in Science Intensive Policy Disputes, Part I]] (17 assets: 12 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-21g-3001-teaching-la-princesse-de-cleves-fall-2023|RES.21G-3001 Teaching La Princesse de Clèves]] (1 assets: 1 API + 0 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001|11.943 Special Studies in Urban Studies and Planning - The Cardener River Corridor Workshop]] (26 assets: 23 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-21g-3002-teaching-marguerite-de-navarres-heptameron-fall-2023|RES.21G-3002 Teaching Marguerite de Navarre's Heptaméron]] (1 assets: 1 API + 0 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[1-63-advanced-fluid-dynamics-of-the-environment-fall-2002|1.63 Advanced Fluid Dynamics of the Environment]] (83 assets: 81 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-21g-3003-marguerite-de-roberval-a-web-based-approach-to-teaching-a-renaissance-heroine-fall-2023|RES.21G-3003 Marguerite de Roberval: A Web-Based Approach to Teaching a Renaissance Heroine]] (1 assets: 1 API + 0 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[1-77-water-quality-control-spring-2006|1.77 Water Quality Control]] (30 assets: 28 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-21g-108-project-based-language-learning-for-chinese-streamlined-ii-spring-2024|RES.21G-108 Project-Based Language Learning for Chinese II (Streamlined)]] (12 assets: 8 API + 5 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[12-812-general-circulation-of-the-earths-atmosphere-fall-2005|12.812 General Circulation of the Earth's Atmosphere]] (25 assets: 23 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015|RES.18-009 Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler]] (161 assets: 79 API + 15 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[10-491-integrated-chemical-engineering-ii-spring-2006|10.491 Integrated Chemical Engineering II]] (23 assets: 22 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011|RES.21G-003 Learning Chinese: A Foundation Course in Mandarin (汉语基础教材)]] (127 assets: 123 API + 5 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[12-090-the-environment-of-the-earths-surface-spring-2007|12.090 The Environment of the Earth's Surface]] (21 assets: 19 API + 3 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-21g-001-the-user-friendly-classroom-fall-2020|RES.21G-001 The User-friendly Classroom]] (33 assets: 23 API + 8 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[esd-123j-systems-perspectives-on-industrial-ecology-spring-2006|ESD.123J Systems Perspectives on Industrial Ecology]] (24 assets: 22 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-21g-3004-marguerite-de-navarre-society-website-fall-2023|RES.21G-3004 Marguerite de Navarre Society Website]] (1 assets: 1 API + 0 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[1-85-water-and-wastewater-treatment-engineering-spring-2006|1.85 Water and Wastewater Treatment Engineering]] (89 assets: 87 API + 7 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-21g-601-telebridges-russian-conversation-exchange-site-fall-2021|RES.21G-601 Телемосты (Telebridges) Russian Conversation Exchange Site]] (1 assets: 1 API + 0 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[introduction-to-r-and-gis-fall-2023|RES.1-002 Introduction to R and Geographic Information Systems (GIS)]] (30 assets: 17 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021|RES.21H-001 Visualizing the Birth of Modern Tokyo]] (2 assets: 2 API + 0 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012|RES.TLL-002 STAR: Software Tools for Academics and Researchers]] (2 assets: 2 API + 0 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022|RES.21G-505 Kanji Learning Any Time, Any Place for Japanese V]] (26 assets: 19 API + 3 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004|11.947 New Century Cities: Real Estate, Digital Technology, and Design]] (43 assets: 38 API + 8 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-21w-01-angles-fall-2015|RES.21W-01 Angles]] (3 assets: 3 API + 1 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003|11.439 Revitalizing Urban Main Streets: Mission Hill & Egleston Square, Boston]] (24 assets: 22 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015|RES.2-005 Girls Who Build: Make Your Own Wearables Workshop]] (126 assets: 112 API + 21 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[4-42j-fundamentals-of-energy-in-buildings-fall-2010|4.42J Fundamentals of Energy in Buildings]] (27 assets: 25 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-21g-01-kana-spring-2010|RES.21G-01 Kana]] (391 assets: 384 API + 9 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009|11.439 Revitalizing Urban Main Streets: St. Claude Avenue, New Orleans]] (24 assets: 22 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-5-0001-digital-lab-techniques-manual-spring-2007|RES.5-0001 Digital Lab Techniques Manual]] (38 assets: 37 API + 1 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[4-125a-architecture-studio-building-in-landscapes-fall-2005|4.125A Architecture Studio: Building in Landscapes]] (63 assets: 58 API + 7 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-15-003-shaping-the-future-of-work-15-662x-spring-2016|RES.15-003 Shaping the Future of Work (15.662x)]] (143 assets: 106 API + 44 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[4-196-architecture-design-level-ii-cuba-studio-spring-2004|4.196 Architecture Design, Level II: Cuba Studio]] (54 assets: 51 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-6-001-continuum-electromechanics-spring-2009|RES.6-001 Continuum Electromechanics]] (88 assets: 87 API + 2 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-001j-introduction-to-urban-design-and-development-spring-2006|11.001J Introduction to Urban Design and Development]] (27 assets: 25 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008|RES.6-002 Electromagnetic Field Theory: A Problem Solving Approach]] (44 assets: 43 API + 2 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[11-946j-beijing-urban-design-studio-summer-2004|11.946J Beijing Urban Design Studio]] (50 assets: 47 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-24-002-mit-haiti-initiative-inisyativ-mit-ayiti-spring-2023|RES.24-002 MIT-Haiti Initiative / Inisyativ MIT-Ayiti]] (14 assets: 12 API + 11 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002|4.285 Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems]] (25 assets: 23 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-3-006-micro-mentoring-resources-and-materials-science-curriculum-spring-2021|RES.3-006 MICRO Mentoring Resources and Materials Science Curriculum]] (32 assets: 23 API + 9 pages)
 
-## [2026-05-10 03:35] asset-scan | Hybrid scanned [[4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004|4.155B Architectural Design, Level III: A Student Center for MIT]] (39 assets: 36 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017|RES.3-002 Collaborative Design and Creative Expression with Arduino Microcontrollers]] (14 assets: 0 API + 0 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-304j-site-and-infrastructure-systems-planning-spring-2009|11.304J Site and Infrastructure Systems Planning]] (16 assets: 15 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-6-004-principles-of-computer-system-design-an-introduction-spring-2009|RES.6-033 Principles of Computer System Design: An Introduction]] (35 assets: 35 API + 1 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006|4.303 The Production of Space: Art, Architecture and Urbanism in Dialogue]] (44 assets: 36 API + 11 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017|RES.3-003 Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft Kinect]] (16 assets: 0 API + 0 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-309j-sites-in-sight-photography-as-inquiry-fall-2003|11.309J Sites in Sight: Photography as Inquiry]] (14 assets: 12 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-6-003-electromechanical-dynamics-spring-2009|RES.6-003 Electromechanical Dynamics]] (85 assets: 84 API + 5 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-322-introduction-to-sculpture-fall-2003|4.322 Introduction to Sculpture]] (11 assets: 9 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008|RES.6-006 Video Demonstrations in Lasers and Optics]] (54 assets: 54 API + 3 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-647-technopolitics-culture-intervention-fall-2014|4.647 Technopolitics, Culture, Intervention]] (14 assets: 10 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-3-004-visualizing-materials-science-fall-2017|RES.3-004 Visualizing Materials Science]] (153 assets: 151 API + 14 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-303-dialogue-in-art-architecture-and-urbanism-fall-2003|4.303 Dialogue in Art, Architecture, and Urbanism]] (13 assets: 10 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012|RES.6-009 How to Process, Analyze and Visualize Data]] (3 assets: 0 API + 0 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-297-special-problems-in-architecture-studies-fall-2000|4.297 Special Problems in Architecture Studies]] (22 assets: 19 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-6-005-understanding-lasers-and-fiberoptics-spring-2008|RES.6-005 Understanding Lasers and Fiberoptics]] (22 assets: 7 API + 16 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-163j-urban-design-studio-providence-spring-2005|4.163J Urban Design Studio: Providence]] (15 assets: 13 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014|RES.6-011 The Art of Insight in Science and Engineering: Mastering Complexity]] (4 assets: 4 API + 1 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-123-architectural-design-level-i-perceptions-and-processes-fall-2003|4.123 Architectural Design, Level I: Perceptions and Processes]] (19 assets: 17 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-6-007-signals-and-systems-spring-2011|RES.6-007 Signals and Systems]] (138 assets: 111 API + 31 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-337j-urban-design-policy-and-action-spring-2009|11.337J Urban Design Policy and Action]] (5 assets: 4 API + 3 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-6-008-digital-signal-processing-spring-2011|RES.6-008 Digital Signal Processing]] (89 assets: 66 API + 24 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-332j-urban-design-fall-2003|11.332J Urban Design]] (44 assets: 41 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-7-004-bionook-online-biology-resources-spring-2021|RES.7-004 BioNook Online Biology Resources]] (2 assets: 2 API + 0 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998|11.947 Imaging the City: The Place of Media in City Design and Development]] (23 assets: 21 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019|RES.7-001 Pre-7.01: Getting up to Speed in Biology]] (7 assets: 7 API + 1 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[15-990-architecture-and-communication-in-organizations-fall-2003|15.990 Architecture and Communication in Organizations]] (14 assets: 12 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-6-010-electronic-feedback-systems-spring-2013|RES.6-010 Electronic Feedback Systems]] (101 assets: 59 API + 23 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-307-beijing-urban-design-studio-summer-2008|11.307 Beijing Urban Design Studio]] (58 assets: 55 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-6-013-ai-101-fall-2021|RES.6-013 AI 101]] (10 assets: 7 API + 4 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-144-architectural-design-level-ii-new-orleans-studio-spring-2006|4.144 Architectural Design, Level II: New Orleans Studio]] (16 assets: 14 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-8-002-a-wikitextbook-for-introductory-mechanics-fall-2009|RES.8-002 A WikiTextBook for Introductory Mechanics]] (2 assets: 2 API + 0 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[21h-234j-downtown-spring-2005|21H.234J Downtown]] (11 assets: 9 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-8-003-physics-demonstration-videos-spring-2012|RES.8-003 Physics Demonstration Videos]] (2 assets: 2 API + 0 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-493-natural-light-in-design-january-iap-2006|4.493 Natural Light in Design]] (5 assets: 0 API + 0 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-7-009-7-int-inclusive-teaching-module-fall-2022|RES.7-009 7.InT: Inclusive Teaching Module]] (6 assets: 6 API + 2 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-125-architecture-studio-building-in-landscapes-fall-2002|4.125 Architecture Studio: Building in Landscapes]] (58 assets: 31 API + 17 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-6-001-electromagnetic-fields-and-energy-spring-2008|RES.6-001 Electromagnetic Fields and Energy]] (57 assets: 56 API + 17 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-945-springfield-studio-spring-2004|11.945 Springfield Studio]] (33 assets: 30 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015|RES.8-004 Reducing the Danger of Nuclear Weapons and Proliferation]] (6 assets: 0 API + 0 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001|11.948 Power of Place: Media Technology, Youth, and City Design and Development]] (10 assets: 8 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-8-001-applied-geometric-algebra-spring-2009|RES.8-001 Applied Geometric Algebra]] (18 assets: 17 API + 3 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-170-ecuador-workshop-fall-2006|4.170 Ecuador Workshop]] (69 assets: 65 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-6-012-introduction-to-probability-spring-2018|RES.6-012 Introduction to Probability]] (325 assets: 298 API + 29 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-171-the-space-between-workshop-fall-2004|4.171 The Space Between Workshop]] (20 assets: 17 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009|RES.9-0002 Statistics and Visualization for Data Analysis and Inference]] (2 assets: 0 API + 0 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-111-introduction-to-architecture-environmental-design-spring-2014|4.111 Introduction to Architecture & Environmental Design]] (131 assets: 117 API + 13 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-9-004-nancys-brain-talks-fall-2022|RES.9-004 Nancy's Brain Talks]] (2 assets: 2 API + 0 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-370-brownfields-policy-and-practice-fall-2005|11.370 Brownfields Policy and Practice]] (9 assets: 7 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-8-010-introduction-to-statistical-physics-summer-2018|RES.8-010 Introduction to Statistical Physics]] (62 assets: 46 API + 18 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-125b-architecture-studio-building-in-landscapes-fall-2005|4.125B Architecture Studio: Building in Landscapes]] (66 assets: 64 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-7-005-biology-teaching-assistant-ta-training-fall-2021|RES.7-005 Biology Teaching Assistant (TA) Training]] (45 assets: 39 API + 13 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-307-beijing-urban-design-studio-summer-2006|11.307 Beijing Urban Design Studio]] (50 assets: 47 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-9-006-afni-training-bootcamp-spring-2018|RES.9-006 AFNI Training Bootcamp]] (41 assets: 4 API + 3 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004|11.328J Urban Design Skills: Observing, Interpreting, and Representing the City]] (16 assets: 14 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-9-007-meg-workshop-spring-2019|RES.9-007 MEG Workshop]] (7 assets: 2 API + 1 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[4-406-ecologies-of-construction-spring-2007|4.406 Ecologies of Construction]] (22 assets: 17 API + 7 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-bloss-blended-learning-open-source-science-or-math-studies-blossoms-spring-2010|RES.BLOSS Blended Learning Open Source Science or Math Studies (BLOSSOMS)]] (2 assets: 2 API + 0 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-949-city-visions-past-and-future-spring-2004|11.949 City Visions: Past and Future]] (17 assets: 10 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-cms-154-launching-innovation-in-schools-spring-2019|RES.CMS-154 Launching Innovation in Schools]] (2 assets: 2 API + 0 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-309j-sensing-place-photography-as-inquiry-fall-2012|11.309J Sensing Place: Photography as Inquiry]] (26 assets: 8 API + 13 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-8-009-introduction-to-oscillations-and-waves-summer-2017|RES.8-009 Introduction to Oscillations and Waves ]] (68 assets: 54 API + 21 pages)
 
-## [2026-05-10 03:36] asset-scan | Hybrid scanned [[11-333-urban-design-seminar-spring-2005|11.333 Urban Design Seminar]] (17 assets: 15 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021|RES.CMS-001 Media Literacy in the Age of Deepfakes]] (20 assets: 5 API + 5 pages)
 
-## [2026-05-10 03:37] asset-scan | Hybrid scanned [[11-337j-urban-design-policy-and-action-spring-2007|11.337J Urban Design Policy and Action]] (15 assets: 13 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-cms-155-design-thinking-for-leading-and-learning-spring-2019|RES.CMS-155 Design Thinking for Leading and Learning]] (2 assets: 2 API + 0 pages)
 
-## [2026-05-10 03:37] asset-scan | Hybrid scanned [[11-309j-sensing-place-photography-as-inquiry-spring-2024|11.309J Sensing Place: Photography as Inquiry]] (1 assets: 1 API + 0 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-8-007-cosmic-origin-of-the-chemical-elements-fall-2019|RES.8-007 Cosmic Origin of the Chemical Elements ]] (52 assets: 24 API + 28 pages)
 
-## [2026-05-10 08:40] asset-scan | Hybrid scanned [[21m-361-composing-with-computers-i-electronic-music-composition-spring-2008|21M.361 Composing with Computers I (Electronic Music Composition)]] (53 assets: 47 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-cms-501-envisioning-the-graduate-of-the-future-spring-2020|RES.CMS-501 Envisioning the Graduate of the Future]] (6 assets: 4 API + 2 pages)
 
-## [2026-05-10 08:40] asset-scan | Hybrid scanned [[21m-051-fundamentals-of-music-spring-2007|21M.051 Fundamentals of Music]] (9 assets: 7 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-cms-502-competency-based-education-the-why-what-and-how-spring-2020|RES.CMS-502 Competency-Based Education: The Why, What, and How]] (2 assets: 2 API + 0 pages)
 
-## [2026-05-10 08:40] asset-scan | Hybrid scanned [[21m-220-early-music-fall-2010|21M.220 Early Music]] (68 assets: 63 API + 9 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-cms-503-becoming-a-more-equitable-educator-mindsets-and-practices-spring-2020|RES.CMS-503 Becoming a More Equitable Educator: Mindsets and Practices]] (2 assets: 2 API + 0 pages)
 
-## [2026-05-10 08:40] asset-scan | Hybrid scanned [[21m-410-vocal-repertoire-and-performance-women-composers-spring-2007|21M.410 Vocal Repertoire and Performance: Women Composers]] (18 assets: 17 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-cms-504-sorting-truth-from-fiction-civic-online-reasoning-spring-2021|RES.CMS-504 Sorting Truth From Fiction: Civic Online Reasoning]] (2 assets: 2 API + 0 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[24-912-black-matters-introduction-to-black-studies-spring-2017|24.912 Black Matters: Introduction to Black Studies]] (87 assets: 46 API + 34 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-ec-002-lean-research-skills-for-conducting-interviews-spring-2021|RES.EC-002 Lean Research Skills for Conducting Interviews]] (2 assets: 2 API + 0 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-271-symphony-and-concerto-spring-2007|21M.271 Symphony and Concerto]] (9 assets: 8 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-8-005-vibrations-and-waves-problem-solving-fall-2012|RES.8-005 Vibrations and Waves Problem Solving]] (107 assets: 56 API + 63 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-263-music-since-1960-spring-2006|21M.263 Music Since 1960]] (13 assets: 11 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-gem4-global-enterprise-for-micro-mechanics-and-molecular-medicine-gem4-summer-2006-summer-2007|RES.GEM4 Global Enterprise for Micro-Mechanics and Molecular Medicine (GEM4)]] (2 assets: 2 API + 0 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012|21M.269 Studies in Western Music History: Quantitative and Computational Approaches to Music History]] (17 assets: 15 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021|RES.ES-001 MIT Prison Education Initiative Discussion About Incarceration]] (6 assets: 0 API + 0 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-293-music-of-africa-fall-2005|21M.293 Music of Africa]] (17 assets: 15 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-env-009-cs3-lecture-series-fundamentals-of-climate-science-and-policy-january-iap-2026|RES.ENV-009 CS3 Lecture Series: Fundamentals of Climate Science and Policy]] (11 assets: 0 API + 0 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-355-musical-improvisation-spring-2013|21M.355 Musical Improvisation]] (34 assets: 23 API + 10 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom|RES.HS-002 Chemistry Behind the Magic: Chemical Demonstrations for the Classroom]] (19 assets: 0 API + 0 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-301-harmony-and-counterpoint-i-spring-2005|21M.301 Harmony and Counterpoint I]] (98 assets: 96 API + 7 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-hs-003-chemlab-boot-camp|RES.HS-003 ChemLab Boot Camp]] (19 assets: 0 API + 0 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-304-writing-in-tonal-forms-ii-spring-2009|21M.304 Writing in Tonal Forms II]] (33 assets: 31 API + 3 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-env-003-earthdnas-climate-101-fall-2019|RES.ENV-003 EarthDNA's Climate 101]] (41 assets: 23 API + 15 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004|21M.735 Technical Design: Scenery, Mechanisms, and Special Effects]] (93 assets: 91 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-ll-001-introduction-to-radar-systems-spring-2007|RES.LL-001 Introduction to Radar Systems]] (28 assets: 2 API + 1 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-611-foundations-of-theater-practice-fall-2009|21M.611 Foundations of Theater Practice]] (20 assets: 18 API + 3 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-ll-002-adaptive-antennas-and-phased-arrays-spring-2010|RES.LL-002 Adaptive Antennas and Phased Arrays]] (20 assets: 2 API + 1 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-846-topics-in-performance-studies-comedy-across-media-spring-2018|21M.846 Topics in Performance Studies: Comedy Across Media]] (17 assets: 5 API + 3 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011|RES.LL-003 Build a Small Radar System Capable of Sensing Range, Doppler, and Synthetic Aperture Radar Imaging]] (9 assets: 0 API + 0 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21l-016-learning-from-the-past-drama-science-performance-spring-2009|21L.016 Learning from the Past: Drama, Science, Performance]] (34 assets: 31 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022|RES.MAS-001 RAISE (Responsible AI for Social Empowerment and Education)]] (2 assets: 2 API + 0 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-380-music-and-technology-contemporary-history-and-aesthetics-fall-2009|21M.380 Music and Technology (Contemporary History and Aesthetics)]] (76 assets: 57 API + 19 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020|RES.EC-001 Exploring Fairness in Machine Learning for International Development]] (65 assets: 44 API + 21 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-342-composing-for-jazz-orchestra-fall-2008|21M.342 Composing for Jazz Orchestra]] (30 assets: 23 API + 10 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-mas-002-day-of-ai-spring-2022|RES.MAS-002 Day of AI]] (8 assets: 6 API + 2 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010|21M.542 Interdisciplinary Approaches to Musical Time]] (11 assets: 0 API + 0 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-9-003-brains-minds-and-machines-summer-course-summer-2015|RES.9-003 Brains, Minds and Machines Summer Course]] (230 assets: 149 API + 27 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-030-introduction-to-world-music-fall-2006|21M.030 Introduction to World Music]] (17 assets: 15 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020|RES.LL-005 Mathematics of Big Data and Machine Learning]] (49 assets: 0 API + 0 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-710-script-analysis-fall-2011|21M.710 Script Analysis]] (12 assets: 10 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-str-002-data-management-spring-2016|RES.STR-002 Data Management]] (12 assets: 11 API + 1 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-262-modern-music-1900-1960-fall-2006|21M.262 Modern Music: 1900-1960]] (26 assets: 25 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-str-001-geographic-information-system-gis-tutorial-january-iap-2022|RES.STR-001 Geographic Information System (GIS) Tutorial]] (3 assets: 0 API + 0 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-260-stravinsky-to-the-present-spring-2016|21M.260 Stravinsky to the Present]] (77 assets: 68 API + 10 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-sts-001-mit-project-on-embodied-education-fall-2024|RES.STS-001 MIT Project on Embodied Education]] (1 assets: 1 API + 0 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010|21M.380 Music and Technology: Algorithmic and Generative Music]] (73 assets: 53 API + 23 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-hs-001-chandra-astrophysics-institute|RES.HS-001 Chandra Astrophysics Institute]] (51 assets: 0 API + 0 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21g-035-topics-in-culture-and-globalization-reggae-as-transnational-culture-fall-2010|21G.035 Topics in Culture and Globalization: Reggae as Transnational Culture]] (6 assets: 5 API + 3 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-sp-001-defining-real-world-problems-with-the-d-i-s-method-describe-inquire-state-spring-2024|RES.SP-001 Defining Real-World Problems With the D.I.S. Method: Describe, Inquire, State]] (5 assets: 5 API + 4 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-030-introduction-to-world-music-spring-2013|21M.030 Introduction to World Music]] (23 assets: 15 API + 10 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-stp-001-science-policy-bootcamp-january-iap-2011|RES.STP-001 Science Policy Bootcamp]] (8 assets: 0 API + 0 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005|21L.703 Studies in Drama: Theater and Science in a Time of War]] (12 assets: 11 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-tll-007-case-studies-in-social-and-ethical-responsibilities-of-computing-fall-2021|RES.TLL-007 Case Studies in Social and Ethical Responsibilities of Computing]] (2 assets: 2 API + 0 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-299-the-beatles-fall-2017|21M.299 The Beatles]] (47 assets: 44 API + 10 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-9-005-fmri-bootcamp-fall-2017|RES.9-005 fMRI Bootcamp]] (19 assets: 1 API + 9 pages)
 
-## [2026-05-10 08:41] asset-scan | Hybrid scanned [[21m-380-music-and-technology-sound-design-spring-2016|21M.380 Music and Technology: Sound Design]] (95 assets: 89 API + 13 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-tll-005-how-to-speak-january-iap-2018|RES.TLL-005 How to Speak]] (8 assets: 0 API + 0 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-785-playwrights-workshop-spring-2012|21M.785 Playwrights' Workshop]] (12 assets: 11 API + 3 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-tll-010-syllabus-checklist-to-support-student-belonging-achievement-spring-2025|RES.TLL-010 Syllabus Checklist to Support Student Belonging & Achievement]] (1 assets: 1 API + 0 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-250-schubert-to-debussy-fall-2006|21M.250 Schubert to Debussy]] (11 assets: 10 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-sud-01-substance-use-disorder-ventures-program-spring-2025|RES.SUD-01 Substance Use Disorder Ventures Program ]] (13 assets: 7 API + 7 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-351-music-composition-fall-2008|21M.351 Music Composition]] (21 assets: 12 API + 11 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-tll-009-iit-joint-entrance-exam-preparation-fall-2022|RES.TLL-009 IIT Joint Entrance Exam Preparation ]] (13 assets: 3 API + 2 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-606-introduction-to-stagecraft-spring-2009|21M.606 Introduction to Stagecraft]] (41 assets: 39 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-001-technology-in-american-history-spring-2006|STS.001 Technology in American History]] (31 assets: 30 API + 5 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013|21M.013J The Supernatural in Music, Literature and Culture]] (19 assets: 17 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-002-finance-and-society-spring-2016|STS.002 Finance and Society]] (30 assets: 21 API + 9 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-291-music-of-india-spring-2007|21M.291 Music of India]] (12 assets: 11 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sp-248-neet-ways-of-thinking-fall-2023|SP.248 NEET Ways of Thinking]] (53 assets: 51 API + 10 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21l-423j-introduction-to-anglo-american-folk-music-fall-2005|21L.423J Introduction to Anglo-American Folk Music]] (25 assets: 23 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-005-disease-and-society-in-america-fall-2005|STS.005 Disease and Society in America]] (67 assets: 65 API + 6 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-604-playwriting-i-spring-2005|21M.604 Playwriting I]] (32 assets: 30 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-004-science-technology-world-fall-2013|STS.004 Science, Technology, & World]] (19 assets: 14 API + 8 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005|21M.410 Vocal Repertoire and Performance: African American Composers]] (16 assets: 13 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-9-008-brain-and-cognitive-sciences-computational-tutorials|RES.9-008 Brain and Cognitive Sciences Computational Tutorial Series]] (80 assets: 0 API + 0 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-603-principles-of-design-fall-2005|21M.603 Principles of Design]] (39 assets: 36 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-007-technology-in-history-fall-2010|STS.007 Technology in History]] (37 assets: 36 API + 5 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-734-design-for-the-theater-scenery-spring-2005|21M.734 Design for the Theater: Scenery]] (26 assets: 23 API + 6 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-003-the-rise-of-modern-science-fall-2010|STS.003 The Rise of Modern Science]] (65 assets: 61 API + 10 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-873-theater-arts-topics-suburbia-january-iap-2008|21M.873 Theater Arts Topics - Suburbia]] (9 assets: 0 API + 0 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-010-neuroscience-and-society-spring-2010|STS.010 Neuroscience and Society]] (19 assets: 18 API + 3 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-s53-chinese-popular-musics-in-dialogue-spring-2014|21M.S53 Chinese Popular Musics in Dialogue]] (58 assets: 30 API + 23 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-009-evolution-and-society-spring-2012|STS.009 Evolution and Society]] (22 assets: 21 API + 4 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-235-monteverdi-to-mozart-1600-1800-fall-2013|21M.235 Monteverdi to Mozart: 1600-1800]] (31 assets: 18 API + 18 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-014-principles-and-practice-of-science-communication-spring-2006|STS.014 Principles and Practice of Science Communication]] (11 assets: 8 API + 5 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-350-musical-analysis-spring-2008|21M.350 Musical Analysis]] (19 assets: 18 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007|STS.011 American Science: Ethical Conflicts and Political Choices]] (22 assets: 16 API + 8 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-065-introduction-to-musical-composition-spring-2014|21M.065 Introduction to Musical Composition]] (33 assets: 16 API + 8 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-025j-making-the-modern-world-the-industrial-revolution-in-global-perspective-fall-2009|STS.025J Making the Modern World: The Industrial Revolution in Global Perspective]] (7 assets: 5 API + 4 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-295-american-popular-music-fall-2014|21M.295 American Popular Music]] (26 assets: 12 API + 14 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-035-the-history-of-computing-spring-2004|STS.035 The History of Computing]] (41 assets: 39 API + 4 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-670-traditions-in-american-concert-dance-gender-and-autobiography-spring-2008|21M.670 Traditions in American Concert Dance: Gender and Autobiography]] (19 assets: 17 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-tll-008-social-and-ethical-responsibilities-of-computing-serc|RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC)]] (17 assets: 0 API + 0 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-113-developing-musical-structures-fall-2002|21M.113 Developing Musical Structures]] (34 assets: 32 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-034-science-communication-a-practical-guide-fall-2011|STS.034 Science Communication: A Practical Guide]] (14 assets: 11 API + 5 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016|21M.380 Music and Technology: Recording Techniques and Audio Production]] (85 assets: 80 API + 7 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-036-technology-and-nature-in-american-history-spring-2008|STS.036 Technology and Nature in American History]] (36 assets: 31 API + 8 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-710-script-analysis-fall-2005|21M.710 Script Analysis]] (24 assets: 22 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018|STS.032 Energy, Environment, and Society: Global Politics, Technologies, and Ecologies of the Water-Energy-Food Crises]] (13 assets: 8 API + 5 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-775-hip-hop-fall-2007|21M.775 Hip Hop]] (11 assets: 9 API + 4 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-049j-technology-and-gender-in-american-history-spring-2004|STS.049J Technology and Gender in American History]] (7 assets: 5 API + 4 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-380-music-and-technology-live-electronics-performance-practices-spring-2011|21M.380 Music and Technology: Live Electronics Performance Practices]] (48 assets: 37 API + 13 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[res-tll-004-stem-concept-videos-fall-2013|RES.TLL-004 STEM Concept Videos]] (208 assets: 155 API + 13 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-011-introduction-to-western-music-spring-2006|21M.011 Introduction to Western Music]] (28 assets: 27 API + 7 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005|STS.067 Scientific Visualization across Disciplines: A Critical Introduction]] (23 assets: 21 API + 5 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-250-beethoven-to-mahler-spring-2014|21M.250 Beethoven to Mahler]] (30 assets: 22 API + 9 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-062j-drugs-politics-and-culture-spring-2006|STS.062J Drugs, Politics, and Culture]] (31 assets: 29 API + 6 pages)
 
-## [2026-05-10 08:42] asset-scan | Hybrid scanned [[21m-715-the-craft-of-costume-design-fall-2009|21M.715 The Craft of Costume Design]] (46 assets: 43 API + 5 pages)
+## [2026-05-26 14:51] asset-scan | Hybrid scanned [[sts-050-the-history-of-mit-spring-2016|STS.050 The History of MIT]] (18 assets: 11 API + 7 pages)
 
-## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-294-popular-musics-of-the-world-spring-2005|21M.294 Popular Musics of the World]] (17 assets: 14 API + 7 pages)
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-050-the-history-of-mit-spring-2011|STS.050 The History of MIT]] (24 assets: 18 API + 8 pages)
 
-## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-734-lighting-design-for-the-theatre-fall-2003|21M.734 Lighting Design for the Theatre]] (27 assets: 25 API + 5 pages)
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-069-technology-in-a-dangerous-world-fall-2002|STS.069 Technology in a  Dangerous World]] (27 assets: 20 API + 7 pages)
 
-## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-621-theater-and-cultural-diversity-in-the-u-s-spring-2008|21M.621 Theater and Cultural Diversity in the U.S.]] (54 assets: 15 API + 41 pages)
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020|STS.042J Einstein, Oppenheimer, Feynman: Physics in the 20th Century]] (93 assets: 50 API + 58 pages)
 
-## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-302-harmony-and-counterpoint-ii-spring-2005|21M.302 Harmony and Counterpoint II]] (60 assets: 58 API + 7 pages)
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-080-youth-political-participation-spring-2016|STS.080 Youth Political Participation]] (13 assets: 11 API + 6 pages)
 
-## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-873-theater-arts-topics-fall-2004-january-iap-2005|21M.873 Theater Arts Topics]] (7 assets: 0 API + 0 pages)
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-310-history-of-science-fall-2015|STS.310 History of Science]] (7 assets: 5 API + 3 pages)
 
-## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-675-dance-theory-and-composition-fall-2003|21M.675 Dance Theory and Composition]] (21 assets: 11 API + 12 pages)
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-089-technology-and-innovation-in-africa-fall-2014|STS.089 Technology and Innovation in Africa]] (20 assets: 17 API + 6 pages)
 
-## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-732-beginning-costume-design-and-construction-fall-2008|21M.732 Beginning Costume Design and Construction]] (49 assets: 46 API + 6 pages)
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017|STS.081 Innovation Systems for Science, Technology, Energy, Manufacturing, and Health]] (84 assets: 43 API + 18 pages)
 
-## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-289-islam-media-spring-2015|21M.289 Islam/Media]] (22 assets: 17 API + 4 pages)
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-340j-introduction-to-the-history-of-technology-fall-2006|STS.340J Introduction to the History of Technology]] (12 assets: 11 API + 3 pages)
 
-## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-303-writing-in-tonal-forms-i-spring-2009|21M.303 Writing in Tonal Forms I]] (46 assets: 31 API + 11 pages)
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013|STS.330 History and Anthropology of Medicine and Biology]] (7 assets: 6 API + 4 pages)
 
-## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-385-interactive-music-systems-fall-2016|21M.385 Interactive Music Systems]] (34 assets: 31 API + 7 pages)
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-427-the-civil-war-and-the-emergence-of-modern-america-1861-1890-spring-2015|STS.427 The Civil War and the Emergence of Modern America, 1861-1890]] (8 assets: 6 API + 4 pages)
 
-## [2026-05-10 08:43] asset-scan | Hybrid scanned [[21m-011-introduction-to-western-music-fall-2024|21M.011 Introduction to Western Music]] (353 assets: 97 API + 208 pages)
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-360-ethnography-spring-2003|STS.360 Ethnography]] (9 assets: 7 API + 5 pages)
 
-## [2026-05-10 08:44] asset-scan | Hybrid scanned [[21m-383-computational-music-theory-and-analysis-spring-2023|21M.383 Computational Music Theory and Analysis]] (373 assets: 116 API + 199 pages)
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-428-technology-and-change-in-rural-america-fall-2004|STS.428 Technology and Change in Rural America]] (8 assets: 6 API + 4 pages)
 
-## [2026-05-11 08:18] crossref | Expanded demo to 9 WikiProjects (57 matches), added interactive heatmap with sidebar panel, sortable columns, school filters, template pills
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-460-histories-of-information-communication-and-computing-technologies-spring-2015|STS.460 Histories of Information, Communication, and Computing Technologies]] (8 assets: 6 API + 4 pages)
 
-## [2026-05-11 08:18] crossref | Saved demo snapshot as crossref-heatmap-demo.html
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-429-food-and-power-in-the-twentieth-century-spring-2005|STS.429 Food and Power in the Twentieth Century]] (12 assets: 7 API + 6 pages)
 
-## [2026-05-11 08:29] crossref | Wrote PRD-CONTRIBUTION-IMPACT-MATRIX.md — design for bubble scatterplot visualization
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-436-cold-war-science-fall-2008|STS.436 Cold War Science]] (5 assets: 4 API + 3 pages)
 
-## [2026-05-11 08:30] prototype | Built Contribution Impact Matrix prototype — D3.js scatterplot with quadrants, quality toggle, table view, filters. wiki/impact-matrix/
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-462-social-and-political-implications-of-technology-spring-2006|STS.462 Social and Political Implications of Technology]] (13 assets: 12 API + 3 pages)
 
-## [2026-05-11 09:05] live-data | Established SSH tunnel to enwiki_p. Corrected killer query schema (templatelinks uses tl_target_id → linktarget). Pageview data not available in page_props.
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-464-technology-and-the-literary-imagination-spring-2008|STS.464 Technology and the Literary Imagination]] (23 assets: 22 API + 3 pages)
 
-## [2026-05-11 09:40] live-data | Built live query server (scripts/impact-matrix-server.py). Verified: SQL < 0.5s, REST API pageview enrichment works but rate-limited.
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-467-research-seminar-in-deep-sea-archaeology-spring-2002|STS.467 Research Seminar in Deep Sea Archaeology]] (8 assets: 6 API + 4 pages)
 
-## [2026-05-11 10:25] live-data | Generated live data for 8 WikiProjects (100 articles each) with Popular pages + SQL template join. 100% pageview coverage.
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-464-cultural-history-of-technology-spring-2005|STS.464 Cultural History of Technology]] (20 assets: 18 API + 5 pages)
 
-## [2026-05-11 10:42] debug | Fixed TEMPLATE_COLORS threshold domain [0,1,3,6] → [1,3,6] so 0 templates maps to green. Fixed null-view Y-axis clamping. Removed blue ORES indicator dots in assessed mode. Fixed table view toggle (hide chart, scroll into view).
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022|RES.LL-004 LL EduCATE: Introduction to Engineering Concepts]] (112 assets: 85 API + 45 pages)
 
-## [2026-05-11 11:15] templates | Extended template list to 27 aliases including talk-page templates (Image_requested, Video_requested, etc.). Separate batch query for talk pages via page_title join.
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005|STS.S28 Godzilla and the Bullet Train: Technology and Culture in Modern Japan]] (14 assets: 13 API + 3 pages)
 
-## [2026-05-11 11:45] data-sources | Documented pageview data issues in notes/pageview-data-issues.md. Switched from REST API to WikiProject Popular pages for view counts.
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-109-women-and-global-activism-in-art-media-and-politics-fall-2023|WGS.109 Women and Global Activism in Art, Media and Politics]] (9 assets: 5 API + 4 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007|STS.471J Engineering Apollo: The Moon Project as a Complex System]] (84 assets: 83 API + 5 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-110j-sexual-and-gender-identities-spring-2016|WGS.110J Sexual and Gender Identities]] (29 assets: 18 API + 6 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016|WGS.111 Gender & Media: Collaborations in Feminism and Technology]] (69 assets: 9 API + 5 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-110j-sexual-and-gender-identities-in-the-modern-united-states-spring-2024|WGS.110J Sexual and Gender Identities in the Modern United States]] (28 assets: 19 API + 8 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-225-science-and-race-sex-and-gender-spring-2023|WGS.225J Science of Race, Sex, and Gender]] (8 assets: 5 API + 3 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012|WGS.615 Feminist Inquiry: Strategies for Effective Scholarship]] (9 assets: 5 API + 4 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-181-queer-cinema-and-visual-culture-fall-2017|WGS.181 Queer Cinema and Visual Culture]] (14 assets: 8 API + 6 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014|WGS.640 Gender, Race, and the Construction of the American West]] (13 assets: 11 API + 6 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014|WGS.640 Screen Women: Body Narratives in Popular American Film]] (17 assets: 15 API + 5 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-151-gender-health-and-society-spring-2016|WGS.151 Gender, Health, and Society]] (38 assets: 35 API + 10 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007|WGS.640 Studies in Women's Life Narratives: Interrogating Marriage: Case Studies in American Law and Culture]] (14 assets: 13 API + 4 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-645-issues-of-representation-women-representation-and-music-in-selected-folk-traditions-of-the-british-isles-and-north-america-fall-2005|WGS.645 Issues of Representation: Women, Representation, and Music in Selected Folk Traditions of the British Isles and North America]] (8 assets: 6 API + 4 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014|WGS.645 Gender, Health and Marginalization Through a Critical Feminist Lens]] (15 assets: 10 API + 6 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-s10-black-feminist-health-science-studies-spring-2021|WGS.S10 Black Feminist Health Science Studies]] (14 assets: 6 API + 4 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019|WGS.645 Gendering U.S. Immigration Policy: Sociopolitical, Theological and Feminist Perspectives ]] (16 assets: 11 API + 7 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-s10-reproductive-politics-in-the-united-states-spring-2013|WGS.S10 Reproductive Politics in the United States]] (9 assets: 5 API + 5 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009|WGS.693 Gender, Race, and the Complexities of Science and Technology: A Problem-Based Learning Experiment]] (34 assets: 32 API + 7 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-s10-history-of-women-in-science-and-engineering-fall-2017|WGS.S10 History of Women in Science and Engineering]] (19 assets: 10 API + 6 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-s10-gender-power-leadership-and-the-workplace-spring-2014|WGS.S10 Gender, Power, Leadership, and the Workplace]] (19 assets: 16 API + 6 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-s10-special-topics-in-women-gender-studies-seminar-latina-womens-voices-spring-2010|WGS.S10 Special Topics in Women & Gender Studies Seminar: Latina Women's Voices]] (35 assets: 33 API + 5 pages)
+
+## [2026-05-26 14:52] asset-scan | Hybrid scanned [[wgs-101-introduction-to-womens-and-gender-studies-spring-2023|WGS.101 Introduction to Women's and Gender Studies]] (145 assets: 117 API + 32 pages)

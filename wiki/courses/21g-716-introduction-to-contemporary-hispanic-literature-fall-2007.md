@@ -12,6 +12,9 @@ views: 155
 completeness: 0.06
 last_modified: "2026-05-06T14:51:46Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 7, Resource: 5, Syllabus: 2, Video-Transcript: 1"
+api_id: 3692
 ---
 
 # Introduction to Contemporary Hispanic Literature
@@ -30,8 +33,28 @@ This course studies representative twentieth and twenty-first-century texts and 
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007/pages/syllabus/)
 
+### Reading-List
+- [Introduction to Hispanic Literatures (.pdf)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007/resources/mit21g_716f07_prgntsramis/)
+- [Rosario Ferré, “El collar de camándulas,” Papeles de Pandora, 1976 (.pdf)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007/resources/mit21g_716f07_prgntscollar/)
+- [Discussion Questions - 27 sept (.pdf)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007/resources/mit21g_716f07_prgntsbernar/)
+- [Preguntas de lectura sobre "El remate" de Max Aub (.pdf)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007/resources/mit21g_716f07_prgnts_el/)
+- [Tema: La historia prohibida de Puerto Rico (.pdf)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007/resources/mit21g_716f07_historia_ramis/)
+- [Fechas para Felices días, Tío Sergio (.pdf)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007/resources/mit21g_716f07_felices/)
+- [Readings](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007/pages/readings/)
+
+### Problem-Set
+- [El poeta peruano César Vallejo en sus poemas “El pan nuestro” y “Un hombre pasa con un pan al hombre…”  (.pdf)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007/resources/mit21g_716f07_crespvallejo/)
+- [El pan nuestro (.pdf)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007/resources/mit21g_716f07_colomvallejo/)
+- [Assignments](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007/pages/assignments/)
+
+### Resource
+- [21g-716f07.jpg (.jpg)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007/resources/21g-716f07/)
+- [21g-716f07-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007/resources/21g-716f07-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21g-716-introduction-to-contemporary-hispanic-literature-fall-2007/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

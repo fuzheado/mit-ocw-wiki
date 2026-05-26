@@ -12,6 +12,9 @@ views: 318
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T15:03:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 6, Problem-Set: 7, Reading-List: 3, Resource: 4, Syllabus: 2"
+api_id: 4208
 ---
 
 # Geometric Combinatorics
@@ -30,8 +33,35 @@ This course offers an introduction to discrete and computational geometry. Empha
 
 ## Materials
 
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [pach.pdf (.pdf)](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/resources/pach/)
+- [ackerman.pdf (.pdf)](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/resources/ackerman/)
+- [Readings](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/pages/readings/)
+
+### Problem-Set
+- [pset6.pdf (.pdf)](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/resources/pset6/)
+- [pset5.pdf (.pdf)](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/resources/pset5/)
+- [pset4.pdf (.pdf)](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/resources/pset4/)
+- [pset3.pdf (.pdf)](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/resources/pset3/)
+- [pset2.pdf (.pdf)](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/resources/pset2/)
+- [pset1.pdf (.pdf)](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/resources/pset1/)
+- [Assignments](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/pages/assignments/)
+
+### Assignment
+- [salman.pdf (.pdf)](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/resources/salman/)
+- [jingbin.pdf (.pdf)](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/resources/jingbin/)
+- [daniel.pdf (.pdf)](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/resources/daniel/)
+- [crossdecay_l.pdf (.pdf)](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/resources/crossdecay_l/)
+- [amanda2.pdf (.pdf)](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/resources/amanda2/)
+- [Projects](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/pages/projects/)
+
+### Resource
+- [18-319f05.jpg (.jpg)](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/resources/18-319f05/)
+- [18-319f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/18-319-geometric-combinatorics-fall-2005/resources/18-319f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

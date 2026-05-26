@@ -12,6 +12,9 @@ views: 717
 completeness: 0.06
 last_modified: "2026-05-06T16:47:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4477
 ---
 
 # Introduction to Urban Design and Development
@@ -30,8 +33,21 @@ This course examines both the structure of cities and the ways they can be chang
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-301j-introduction-to-urban-design-and-development-fall-2016/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-301j-introduction-to-urban-design-and-development-fall-2016/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-301j-introduction-to-urban-design-and-development-fall-2016/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-301j-introduction-to-urban-design-and-development-fall-2016/pages/assignments/)
+- [Assignment 2: Urban Plans](https://ocw.mit.edu/courses/11-301j-introduction-to-urban-design-and-development-fall-2016/pages/assignments/assignment-2-urban-plans/)
+- [Assignment 1: Urban Change](https://ocw.mit.edu/courses/11-301j-introduction-to-urban-design-and-development-fall-2016/pages/assignments/assignment-1/)
+
+### Resource
+- [11-301Jf16.jpg (.jpg)](https://ocw.mit.edu/courses/11-301j-introduction-to-urban-design-and-development-fall-2016/resources/11-301jf16/)
+- [11-301Jf16-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-301j-introduction-to-urban-design-and-development-fall-2016/resources/11-301jf16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

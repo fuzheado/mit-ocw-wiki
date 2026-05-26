@@ -12,6 +12,9 @@ views: 403
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T16:47:36Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 2, Resource: 2, Syllabus: 1"
+api_id: 5327
 ---
 
 # History and Anthropology of Medicine and Biology
@@ -30,8 +33,19 @@ This course explores recent historical and anthropological approaches to the stu
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013/pages/syllabus/)
 
+### Reading-List
+- [Further Readings](https://ocw.mit.edu/courses/sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013/pages/readings/further-readings/)
+- [Readings](https://ocw.mit.edu/courses/sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013/pages/readings/)
+
+### Problem-Set
+- [The Pigs That Therefore We Are: Anatomy, Biology, and Transplantation (.pdf)](https://ocw.mit.edu/courses/sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013/resources/mitsts_330s13_bolmmodepigs/)
+- [Assignments](https://ocw.mit.edu/courses/sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013/pages/assignments/)
+
+### Resource
+- [The anatomy of the hand across several species (.jpg)](https://ocw.mit.edu/courses/sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013/resources/sts-330s13/)
 ## Wikipedia Bridge
 
 ### Related Articles

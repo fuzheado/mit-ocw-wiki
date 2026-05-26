@@ -12,6 +12,9 @@ views: 222
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T14:47:25Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 3957
 ---
 
 # Abnormal Language
@@ -30,9 +33,22 @@ Introduction to the linguistic study of language pathology, concentrating on exp
 
 ## Materials
 
-- [Problem Sets] Problem Sets
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-56j-abnormal-language-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-56j-abnormal-language-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-56j-abnormal-language-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Syntax Problem Set (.pdf)](https://ocw.mit.edu/courses/9-56j-abnormal-language-fall-2004/resources/synt_problem_set/)
+- [9.56/24.907 Paper Topics (.pdf)](https://ocw.mit.edu/courses/9-56j-abnormal-language-fall-2004/resources/9_56paperoutline/)
+- [Assignments](https://ocw.mit.edu/courses/9-56j-abnormal-language-fall-2004/pages/assignments/)
+
+### Resource
+- [Infant Perception (.jpg)](https://ocw.mit.edu/courses/9-56j-abnormal-language-fall-2004/resources/chp_ablang/)
+- [The Tower of Babel (.jpg)](https://ocw.mit.edu/courses/9-56j-abnormal-language-fall-2004/resources/9-56jf04/)
+- [The Tower of Babel (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-56j-abnormal-language-fall-2004/resources/9-56jf04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

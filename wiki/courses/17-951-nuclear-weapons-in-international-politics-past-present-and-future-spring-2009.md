@@ -12,6 +12,9 @@ views: 111
 completeness: 0.0
 last_modified: "2026-05-06T16:51:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Reading-List: 2, Resource: 3, Syllabus: 2, Video-Transcript: 1"
+api_id: 4811
 ---
 
 # Nuclear Weapons in International Politics: Past, Present and Future
@@ -30,8 +33,20 @@ This course will expose students to tools and methods of analysis for use in ass
 
 ## Materials
 
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-951-nuclear-weapons-in-international-politics-past-present-and-future-spring-2009/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-951-nuclear-weapons-in-international-politics-past-present-and-future-spring-2009/pages/syllabus/)
 
+### Reading-List
+- [Trip Report (.pdf)](https://ocw.mit.edu/courses/17-951-nuclear-weapons-in-international-politics-past-present-and-future-spring-2009/resources/mit17_951s09_walsh_trip/)
+- [Readings](https://ocw.mit.edu/courses/17-951-nuclear-weapons-in-international-politics-past-present-and-future-spring-2009/pages/readings/)
+
+### Assignment
+- [The ABC's of Nuclear Disarmament in Latin America (.pdf)](https://ocw.mit.edu/courses/17-951-nuclear-weapons-in-international-politics-past-present-and-future-spring-2009/resources/mit17_951s09_abcs/)
+- [Projects](https://ocw.mit.edu/courses/17-951-nuclear-weapons-in-international-politics-past-present-and-future-spring-2009/pages/projects/)
+
+### Resource
+- [Two aerial photographs of Nagasaki, Japan. One shows the city with buildings and roads, and the latter shows the city completely wiped out (.jpg)](https://ocw.mit.edu/courses/17-951-nuclear-weapons-in-international-politics-past-present-and-future-spring-2009/resources/17-951s09/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 896
 completeness: 0.08333333333333334
 last_modified: "2026-05-06T16:52:52Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 10, Problem-Set: 2, Reading-List: 1, Resource: 8, Syllabus: 2"
+api_id: 4951
 ---
 
 # System Safety
@@ -30,10 +33,35 @@ This course introduces the concepts of system safety and how to analyze and desi
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Open Textbooks] Open Textbooks
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments and Class Project** — [🔗](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/pages/assignments-and-class-project/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/pages/syllabus/)
 
+### Lecture-Notes
+- [System Safety: Traditional Hazard Analysis (.pdf)](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/resources/mit16_63js16_lecnotes8/)
+- [System Safety: More on CAST (.pdf)](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/resources/mit16_63js16_lecnotes7/)
+- [System Safety: CAST and Accident Analysis (.pdf)](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/resources/mit16_63js16_lecnotes6/)
+- [System Safety: Discuss Citichem Causes, Hindsight Bias (.pdf)](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/resources/mit16_63js16_lecnotes3/)
+- [System Safety: Introduction to Accident Causality, Bhopal, Hindsight Bias (.pdf)](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/resources/mit16_63js16_lecnotes2/)
+- [System Safety: Design for Safety (.pdf)](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/resources/mit16_63js16_lecnotes14/)
+- [System Safety: STPA and Review Projects (.pdf)](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/resources/mit16_63js16_lecnotes13/)
+- [System Safety: Systems Theoretic Process Analysis (STPA) Intro, Basic Components (.pdf)](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/resources/mit16_63js16_lecnotes10/)
+- [System Safety: Introduction, Uberlingen; Class Description (.pdf)](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/resources/mit16_63js16_lecnotes1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/pages/readings/)
+
+### Problem-Set
+- [Class project example – Nancy&#39;s Shuttle](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/pages/assignments-and-class-project/class-project-example-2013nancys-shuttle/)
+
+### Resource
+- [Stamp-based analysis of SBS tank 731 Overflow Accident (.pdf)](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/resources/mit16_63js16_tank_report/)
+- [16-63js16.jpg (.jpg)](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/resources/16-63js16/)
+- [16-63js16-th.jpg (.jpg)](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/resources/16-63js16-th/)
+- [16-63js16-figure1-physical-layout.jpg (.jpg)](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/resources/16-63js16-figure1-physical-layout/)
+- [Class project example – Nancy's Shuttle](https://ocw.mit.edu/courses/16-63j-system-safety-spring-2016/pages/assignments-and-class-project/class-project-example-2013nancys-shuttle/)
 ## Wikipedia Bridge
 
 ### Related Articles

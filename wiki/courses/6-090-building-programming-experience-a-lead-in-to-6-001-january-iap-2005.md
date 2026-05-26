@@ -12,6 +12,8 @@ views: 806
 completeness: 0.6000000000000001
 last_modified: "2026-05-06T14:55:44Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 2, Resource: 3, Syllabus: 2"
 ---
 
 # Building Programming Experience: A Lead-In to 6.001
@@ -30,11 +32,21 @@ This course will serve as a two-week aggressively gentle introduction to program
 
 ## Materials
 
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Programming Assignments with Examples] Programming Assignments with Examples
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/pages/lecture-notes/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/pages/assignments/)
+- [Exams](https://ocw.mit.edu/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/pages/exams/)
+
+### Resource
+- [Tools](https://ocw.mit.edu/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/pages/tools/tools/)
+- [Related Resources](https://ocw.mit.edu/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/pages/related-resources/)
+- [Course Pedagogy](https://ocw.mit.edu/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/pages/course-pedagogy/)
 ## Wikipedia Bridge
 
 ### Related Articles

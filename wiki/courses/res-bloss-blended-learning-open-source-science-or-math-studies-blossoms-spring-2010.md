@@ -12,6 +12,9 @@ views: 159
 completeness: 0.0
 last_modified: "2026-05-06T17:16:34Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 3545
 ---
 
 # Blended Learning Open Source Science or Math Studies (BLOSSOMS)
@@ -31,8 +34,9 @@ BLOSSOMS Online
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [res-blosss10.gif (.gif)](https://ocw.mit.edu/courses/res-bloss-blended-learning-open-source-science-or-math-studies-blossoms-spring-2010/resources/res-blosss10/)
+- [res-blosss10-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-bloss-blended-learning-open-source-science-or-math-studies-blossoms-spring-2010/resources/res-blosss10-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

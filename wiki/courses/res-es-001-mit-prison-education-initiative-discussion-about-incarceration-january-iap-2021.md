@@ -12,6 +12,8 @@ views: 128
 completeness: 0.0
 last_modified: "2026-05-06T15:01:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 1, Syllabus: 1, Video-Transcript: 4"
 ---
 
 # MIT Prison Education Initiative Discussion About Incarceration
@@ -30,8 +32,11 @@ The MIT Prison Education Initiative (PEI) hosted this non-credit January IAP cou
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021/pages/syllabus/)
 
+### Resource
+- [Discussion Resources 🎬YouTube](https://ocw.mit.edu/courses/res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021/pages/discussion-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

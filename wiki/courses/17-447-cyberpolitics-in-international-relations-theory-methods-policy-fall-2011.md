@@ -12,6 +12,9 @@ views: 273
 completeness: 0.2
 last_modified: "2026-05-06T14:50:54Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 3, Resource: 2, Syllabus: 1"
+api_id: 3918
 ---
 
 # Cyberpolitics in International Relations: Theory, Methods, Policy
@@ -30,8 +33,19 @@ This course focuses on cyberspace and its implications for private and public, s
 
 ## Materials
 
-- [Exams] Exams
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-447-cyberpolitics-in-international-relations-theory-methods-policy-fall-2011/pages/syllabus/)
 
+### Reading-List
+- [Layers and levels Models of analysis (.pdf)](https://ocw.mit.edu/courses/17-447-cyberpolitics-in-international-relations-theory-methods-policy-fall-2011/resources/mit17_447f11_week4_slides/)
+- [A quick guide to the Internet (.pdf)](https://ocw.mit.edu/courses/17-447-cyberpolitics-in-international-relations-theory-methods-policy-fall-2011/resources/mit17_447f11_week3_slides/)
+- [Readings](https://ocw.mit.edu/courses/17-447-cyberpolitics-in-international-relations-theory-methods-policy-fall-2011/pages/readings/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/17-447-cyberpolitics-in-international-relations-theory-methods-policy-fall-2011/pages/exams/)
+
+### Resource
+- [Graphic showing possible ways to stop internet spam at every level of society (.jpg)](https://ocw.mit.edu/courses/17-447-cyberpolitics-in-international-relations-theory-methods-policy-fall-2011/resources/17-447f11/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,8 @@ views: 514
 completeness: 0.20833333333333334
 last_modified: "2026-05-06T14:59:08Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Resource: 2, Syllabus: 2, Video-Transcript: 1"
 ---
 
 # Introduction to Neuroanatomy
@@ -30,8 +32,19 @@ This subject will be an intensive introduction to neuroanatomy, involving lectur
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/9-97-introduction-to-neuroanatomy-january-iap-2003/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/9-97-introduction-to-neuroanatomy-january-iap-2003/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/9-97-introduction-to-neuroanatomy-january-iap-2003/pages/lecture-notes/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/9-97-introduction-to-neuroanatomy-january-iap-2003/pages/exams/)
+
+### Resource
+- [Study Materials](https://ocw.mit.edu/courses/9-97-introduction-to-neuroanatomy-january-iap-2003/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/9-97-introduction-to-neuroanatomy-january-iap-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

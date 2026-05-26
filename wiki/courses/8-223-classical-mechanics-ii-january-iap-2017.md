@@ -12,6 +12,8 @@ views: 1051
 completeness: 0.2833333333333333
 last_modified: "2026-05-06T16:49:13Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Problem-Set: 1, Reading-List: 1, Syllabus: 1"
 ---
 
 # Classical Mechanics II
@@ -30,11 +32,20 @@ This undergraduate course is a broad, theoretical treatment of classical mechani
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Set Solutions] Problem Set Solutions
-- [Problem Sets] Problem Sets
-- [Projects] Projects
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/8-223-classical-mechanics-ii-january-iap-2017/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/8-223-classical-mechanics-ii-january-iap-2017/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/8-223-classical-mechanics-ii-january-iap-2017/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/8-223-classical-mechanics-ii-january-iap-2017/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/8-223-classical-mechanics-ii-january-iap-2017/pages/projects/)
 ## Wikipedia Bridge
 
 ### Related Articles

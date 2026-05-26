@@ -12,6 +12,9 @@ views: 239
 completeness: 0.0
 last_modified: "2026-05-06T17:19:53Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 5, Video-Transcript: 36"
+api_id: 4977
 ---
 
 # AFNI Training Bootcamp
@@ -33,9 +36,13 @@ CBMM is a multi-institutional NSF Science and Technology Center headquartered at
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Workshop Videos] Workshop Videos
+### Lectures
+- **Class Handouts by Topic** — [🔗](https://ocw.mit.edu/courses/res-9-006-afni-training-bootcamp-spring-2018/pages/handouts/)
+- **Video Training Sessions** — [🔗](https://ocw.mit.edu/courses/res-9-006-afni-training-bootcamp-spring-2018/pages/video-session/)
 
+### Resource
+- [mitres9_006s18.jpg (.jpg)](https://ocw.mit.edu/courses/res-9-006-afni-training-bootcamp-spring-2018/resources/mitres9_006s18_jpg/)
+- [Class Information](https://ocw.mit.edu/courses/res-9-006-afni-training-bootcamp-spring-2018/pages/course-contents/)
 ## Wikipedia Bridge
 
 ### Related Articles

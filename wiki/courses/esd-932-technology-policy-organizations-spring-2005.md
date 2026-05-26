@@ -12,6 +12,9 @@ views: 93
 completeness: 0.16166666666666668
 last_modified: "2026-05-06T14:55:16Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 17, Problem-Set: 1, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 1"
+api_id: 3566
 ---
 
 # Technology Policy Organizations
@@ -30,8 +33,39 @@ Technology Policy Organizations and its sequel, ESD.933, Technology Policy Negot
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [sesonorgassumpt.pdf (.pdf)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/sesonorgassumpt/)
+- [ses9systemchange.pdf (.pdf)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/ses9systemchange/)
+- [ses8taskforces.pdf (.pdf)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/ses8taskforces/)
+- [ses8protocols.pdf (.pdf)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/ses8protocols/)
+- [ses7teamprocess.pdf (.pdf)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/ses7teamprocess/)
+- [ses6customfirst.pdf (.pdf)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/ses6customfirst/)
+- [ses6coach_mentor.pdf (.pdf)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/ses6coach_mentor/)
+- [ses5bautostudy2.pdf (.pdf)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/ses5bautostudy2/)
+- [ses5aautostudy1.pdf (.pdf)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/ses5aautostudy1/)
+- [ses3threeorglens.pdf (.pdf)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/ses3threeorglens/)
+- [ses2fieldproject.pdf (.pdf)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/ses2fieldproject/)
+- [ses1whatchang.pdf (.pdf)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/ses1whatchang/)
+- [ses12concdslides.pdf (.pdf)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/ses12concdslides/)
+- [ses10deregulat.pdf (.pdf)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/ses10deregulat/)
+- [groupdecisions.pdf (.pdf)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/groupdecisions/)
+- [coach_mentor.pdf (.pdf)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/coach_mentor/)
+- [Lecture Notes](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Integrating_Social_and_Tech_Sys.pdf (.pdf)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/integrating_social_and_tech_sys/)
+- [Readings](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/pages/assignments/)
+
+### Resource
+- [esd-932s05.jpg (.jpg)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/esd-932s05/)
+- [esd-932s05-th.jpg (.jpg)](https://ocw.mit.edu/courses/esd-932-technology-policy-organizations-spring-2005/resources/esd-932s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

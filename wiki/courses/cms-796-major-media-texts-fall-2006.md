@@ -12,6 +12,9 @@ views: 363
 completeness: 0.2
 last_modified: "2026-05-06T14:56:01Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 12, Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 5650
 ---
 
 # Major Media Texts
@@ -30,8 +33,28 @@ This class does intensive close study and analysis of historically significant m
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/cms-796-major-media-texts-fall-2006/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/cms-796-major-media-texts-fall-2006/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/cms-796-major-media-texts-fall-2006/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/cms-796-major-media-texts-fall-2006/pages/syllabus/)
 
+### Problem-Set
+- [yusuf1.pdf (.pdf)](https://ocw.mit.edu/courses/cms-796-major-media-texts-fall-2006/resources/yusuf1/)
+- [wendel2.pdf (.pdf)](https://ocw.mit.edu/courses/cms-796-major-media-texts-fall-2006/resources/wendel2/)
+- [wendel1.pdf (.pdf)](https://ocw.mit.edu/courses/cms-796-major-media-texts-fall-2006/resources/wendel1/)
+- [verschooren2.pdf (.pdf)](https://ocw.mit.edu/courses/cms-796-major-media-texts-fall-2006/resources/verschooren2/)
+- [verschooren1.pdf (.pdf)](https://ocw.mit.edu/courses/cms-796-major-media-texts-fall-2006/resources/verschooren1/)
+- [grigsby3.pdf (.pdf)](https://ocw.mit.edu/courses/cms-796-major-media-texts-fall-2006/resources/grigsby3/)
+- [grigsby2.pdf (.pdf)](https://ocw.mit.edu/courses/cms-796-major-media-texts-fall-2006/resources/grigsby2/)
+- [grigsby1.pdf (.pdf)](https://ocw.mit.edu/courses/cms-796-major-media-texts-fall-2006/resources/grigsby1/)
+- [ford2.pdf (.pdf)](https://ocw.mit.edu/courses/cms-796-major-media-texts-fall-2006/resources/ford2/)
+- [ford1.pdf (.pdf)](https://ocw.mit.edu/courses/cms-796-major-media-texts-fall-2006/resources/ford1/)
+- [finkelberg1.pdf (.pdf)](https://ocw.mit.edu/courses/cms-796-major-media-texts-fall-2006/resources/finkelberg1/)
+
+### Resource
+- [cms-796f06.jpg (.jpg)](https://ocw.mit.edu/courses/cms-796-major-media-texts-fall-2006/resources/cms-796f06/)
+- [cms-796f06-th.jpg (.jpg)](https://ocw.mit.edu/courses/cms-796-major-media-texts-fall-2006/resources/cms-796f06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 120
 completeness: 0.0
 last_modified: "2026-05-06T15:02:19Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 2, Problem-Set: 2, Reading-List: 1, Resource: 11, Syllabus: 1, Video-Transcript: 23"
+api_id: 4494
 ---
 
 # DV Lab: Documenting Science Through Video and New Media
@@ -30,10 +33,21 @@ This course is an introductory exploration of documentary film theory and produc
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Projects with Examples] Projects with Examples
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments and Projects** — [🔗](https://ocw.mit.edu/courses/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/pages/assignments-and-projects/)
+- **Download the video** — [⬇](http://www.archive.org/download/MIT21.A550JS11/MIT21A_550JS11_lec01_300k.mp4) · [⬇](http://www.archive.org/download/MIT21.A550JS11/MIT21A_550JS11_lec02_300k.mp4) · [⬇](http://www.archive.org/download/MIT21.A550JS11/MIT21A_550JS11_lec03_300k.mp4) · [⬇](http://www.archive.org/download/MIT21.A550JS11/MIT21A_550JS11_lab01_1_300k.mp4) · [⬇](http://www.archive.org/download/MIT21.A550JS11/MIT21A_550JS11_lab01_2_300k.mp4) · [⬇](http://www.archive.org/download/MIT21.A550JS11/MIT21A_550JS11_lab02_1_300k.mp4) · [⬇](http://www.archive.org/download/MIT21.A550JS11/MIT21A_550JS11_lab02_2_300k.mp4) · [⬇](http://www.archive.org/download/MIT21.A550JS11/MIT21A_550JS11_lab06_300k.mp4) · [⬇](http://www.archive.org/download/MIT21.A550JS11/MIT21A_550JS11_lab10_1_300k.mp4) · [⬇](http://www.archive.org/download/MIT21.A550JS11/MIT21A_550JS11_lab10_2_300k.mp4)
+- **DV Lab Documentary Ethics** — [🔗](https://ocw.mit.edu/courses/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/pages/assignments-and-projects/ethics/)
+- **Films and Readings** — [🔗](https://ocw.mit.edu/courses/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/pages/films-and-readings/)
+- **Lecture and Lab Videos** — [⬇](http://www.archive.org/download/MIT21.A550JS11/MIT21A_550JS11_lec01_300k.mp4) · [🔗](https://ocw.mit.edu/courses/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/pages/lecture-and-lab-videos/) · [🔗](https://ocw.mit.edu/courses/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/pages/lecture-and-lab-videos)
+- **Short Paper Assignment** — [🔗](https://ocw.mit.edu/courses/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/pages/assignments-and-projects/paper1/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/pages/syllabus/)
 
+### Resource
+- [rss.xml (.xml)](https://ocw.mit.edu/courses/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/resources/rss/)
+- [Direct Cinema filmmaker kin chart (.pdf)](https://ocw.mit.edu/courses/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/resources/mit21a_550jf12_readdirec/)
+- [21a-550jf12.jpg (.jpg)](https://ocw.mit.edu/courses/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/resources/21a-550jf12/)
+- [21a-550jf12-th.jpg (.jpg)](https://ocw.mit.edu/courses/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/resources/21a-550jf12-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 201
 completeness: 0.25
 last_modified: "2026-05-06T17:19:40Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 6, Problem-Set: 11, Resource: 5, Syllabus: 2"
+api_id: 4123
 ---
 
 # Strongly Correlated Systems in Condensed Matter Physics
@@ -30,9 +33,38 @@ In this course we shall develop theoretical methods suitable for the description
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [lec6.pdf (.pdf)](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/resources/lec6/)
+- [lec45.pdf (.pdf)](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/resources/lec45/)
+- [lec3.pdf (.pdf)](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/resources/lec3/)
+- [lec2.pdf (.pdf)](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/resources/lec2/)
+- [lec1.pdf (.pdf)](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/resources/lec1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/pages/lecture-notes/)
+
+### Problem-Set
+- [ps9.pdf (.pdf)](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/resources/ps9/)
+- [ps78.pdf (.pdf)](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/resources/ps78/)
+- [ps6.pdf (.pdf)](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/resources/ps6/)
+- [ps5.pdf (.pdf)](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/resources/ps5/)
+- [ps4.pdf (.pdf)](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/resources/ps4/)
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/resources/ps3/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/resources/ps2/)
+- [ps11.pdf (.pdf)](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/resources/ps11/)
+- [ps10.pdf (.pdf)](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/resources/ps10/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/resources/ps1/)
+- [Assignments](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/pages/projects/)
+
+### Resource
+- [8-514f03.jpg (.jpg)](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/resources/8-514f03/)
+- [8-514f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/resources/8-514f03-th/)
+- [Related Resources](https://ocw.mit.edu/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

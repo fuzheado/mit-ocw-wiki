@@ -12,6 +12,9 @@ views: 302
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:11:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 11, Resource: 8, Syllabus: 2"
+api_id: 4501
 ---
 
 # Bestsellers: Out for the Count
@@ -30,8 +33,30 @@ This class uses a range of literary texts to trace the growth of the vampire tro
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-310-bestsellers-out-for-the-count-fall-2018/pages/calendar/)
+- **Literary Modernism** — [🔗](https://ocw.mit.edu/courses/21l-310-bestsellers-out-for-the-count-fall-2018/pages/readings/literary-modernism/)
+- **Notes on Polidori and Rymer** — [🔗](https://ocw.mit.edu/courses/21l-310-bestsellers-out-for-the-count-fall-2018/pages/assignments/notes-on-polidori-and-rymer/)
+- **Popular Culture** — [🔗](https://ocw.mit.edu/courses/21l-310-bestsellers-out-for-the-count-fall-2018/pages/readings/popular-culture/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-310-bestsellers-out-for-the-count-fall-2018/pages/syllabus/)
+- **The Giaour** — [🔗](https://ocw.mit.edu/courses/21l-310-bestsellers-out-for-the-count-fall-2018/pages/readings/the-giaour/)
 
+### Reading-List
+- [Rondina Reading Guide](https://ocw.mit.edu/courses/21l-310-bestsellers-out-for-the-count-fall-2018/pages/readings/rondina-reading-guide/)
+- [McClelland Reading Guide](https://ocw.mit.edu/courses/21l-310-bestsellers-out-for-the-count-fall-2018/pages/readings/mcclelland-reading-guide/)
+- [Leatherdale Reading Guide](https://ocw.mit.edu/courses/21l-310-bestsellers-out-for-the-count-fall-2018/pages/readings/leatherdale-reading-guide/)
+- [Hallab Reading Guide](https://ocw.mit.edu/courses/21l-310-bestsellers-out-for-the-count-fall-2018/pages/readings/hallab-reading-guide/)
+- [Frayling Reading Guide](https://ocw.mit.edu/courses/21l-310-bestsellers-out-for-the-count-fall-2018/pages/readings/frayling-reading-guide/)
+- [Dracula Reading Guide](https://ocw.mit.edu/courses/21l-310-bestsellers-out-for-the-count-fall-2018/pages/readings/dracula-notes/)
+- [Readings](https://ocw.mit.edu/courses/21l-310-bestsellers-out-for-the-count-fall-2018/pages/readings/)
+- [Auerbach Reading Guide](https://ocw.mit.edu/courses/21l-310-bestsellers-out-for-the-count-fall-2018/pages/readings/auerbach-reading-guide/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-310-bestsellers-out-for-the-count-fall-2018/pages/assignments/)
+
+### Resource
+- [21L-310f18.jpg (.jpg)](https://ocw.mit.edu/courses/21l-310-bestsellers-out-for-the-count-fall-2018/resources/21l-310f18/)
+- [21L-310f18-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-310-bestsellers-out-for-the-count-fall-2018/resources/21l-310f18-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

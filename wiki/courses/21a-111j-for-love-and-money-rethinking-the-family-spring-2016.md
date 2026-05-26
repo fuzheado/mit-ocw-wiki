@@ -12,6 +12,9 @@ views: 405
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:19:45Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 4, Syllabus: 2"
+api_id: 5782
 ---
 
 # For Love and Money: Rethinking the Family
@@ -30,8 +33,20 @@ Through investigating cross-cultural case studies, this course introduces studen
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-111j-for-love-and-money-rethinking-the-family-spring-2016/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-111j-for-love-and-money-rethinking-the-family-spring-2016/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21a-111j-for-love-and-money-rethinking-the-family-spring-2016/pages/readings/)
+- [Additional Readings](https://ocw.mit.edu/courses/21a-111j-for-love-and-money-rethinking-the-family-spring-2016/pages/readings/additional-readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21a-111j-for-love-and-money-rethinking-the-family-spring-2016/pages/assignments/)
+
+### Resource
+- [21a-111js16.jpg (.jpg)](https://ocw.mit.edu/courses/21a-111j-for-love-and-money-rethinking-the-family-spring-2016/resources/21a-111js16/)
+- [21a-111js16-th.jpg (.jpg)](https://ocw.mit.edu/courses/21a-111j-for-love-and-money-rethinking-the-family-spring-2016/resources/21a-111js16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

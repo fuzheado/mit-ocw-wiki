@@ -12,6 +12,8 @@ views: 250
 completeness: 0.4
 last_modified: "2026-05-06T17:23:30Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 2, Problem-Set: 1, Resource: 1, Syllabus: 2, Video-Transcript: 19"
 ---
 
 # Internet Technology in Local and Global Communities
@@ -35,9 +37,22 @@ A snapshot of the summer 2005 MIT-AITI program. This includes the Java®-based c
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-- [Programming Assignments] Programming Assignments
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/pages/calendar/)
 
+### Lecture-Notes
+- [Lecture Notes 📺Video](https://ocw.mit.edu/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/pages/lecture-notes/)
+- [Labs](https://ocw.mit.edu/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/pages/labs/)
+
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/pages/exams/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/pages/projects/)
+
+### Resource
+- [Related Resources](https://ocw.mit.edu/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

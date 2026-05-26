@@ -12,6 +12,9 @@ views: 727
 completeness: 0.2
 last_modified: "2026-05-06T17:04:33Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 12, Reading-List: 1, Resource: 10, Syllabus: 2"
+api_id: 5277
 ---
 
 # Cosmology
@@ -30,9 +33,33 @@ This course provides an overview of astrophysical cosmology with emphasis on the
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/pages/calendar/)
+- **Readings and Lecture Notes** — [🔗](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/pages/syllabus/)
 
+### Problem-Set
+- [ps9.pdf (.pdf)](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/resources/ps9/)
+- [ps8.pdf (.pdf)](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/resources/ps8/)
+- [ps7.pdf (.pdf)](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/resources/ps7/)
+- [ps6.pdf (.pdf)](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/resources/ps6/)
+- [ps5.pdf (.pdf)](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/resources/ps5/)
+- [ps4.pdf (.pdf)](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/resources/ps4/)
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/resources/ps3/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/resources/ps2/)
+- [ps10.pdf (.pdf)](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/resources/ps10/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/resources/ps1/)
+- [ps0.pdf (.pdf)](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/resources/ps0/)
+- [Assignments](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/pages/assignments/)
+
+### Resource
+- [rombint_f.pdf (.pdf)](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/resources/rombint_f/)
+- [rombint_c.pdf (.pdf)](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/resources/rombint_c/)
+- [cosmog.pdf (.pdf)](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/resources/cosmog/)
+- [cmbfluct03.pdf (.pdf)](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/resources/cmbfluct03/)
+- [8-942f01.jpg (.jpg)](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/resources/8-942f01/)
+- [8-942f01-th.jpg (.jpg)](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/resources/8-942f01-th/)
+- [Related Resources](https://ocw.mit.edu/courses/8-942-cosmology-fall-2001/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

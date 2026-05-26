@@ -12,6 +12,9 @@ views: 131
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:16:04Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4338
 ---
 
 # Intelligence: Practice, Problems and Prospects
@@ -30,8 +33,19 @@ This course will explore the organization and functions of the U.S. Intelligence
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-951-intelligence-practice-problems-and-prospects-spring-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-951-intelligence-practice-problems-and-prospects-spring-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-951-intelligence-practice-problems-and-prospects-spring-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-951-intelligence-practice-problems-and-prospects-spring-2005/pages/assignments/)
+
+### Resource
+- [The Intelligence Cycle (.jpg)](https://ocw.mit.edu/courses/17-951-intelligence-practice-problems-and-prospects-spring-2005/resources/17-951s05/)
+- [The Intelligence Cycle (thumbnail) (.jpg)](https://ocw.mit.edu/courses/17-951-intelligence-practice-problems-and-prospects-spring-2005/resources/17-951s05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 383
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:50:09Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 4, Resource: 2, Syllabus: 1, Video-Transcript: 24"
+api_id: 5334
 ---
 
 # Media and Methods: Sound
@@ -30,8 +33,19 @@ This course explores the ways in which humans experience the realm of sound and 
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Readings** — [🔗](https://ocw.mit.edu/courses/cms-407-media-and-methods-sound-fall-2012/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/cms-407-media-and-methods-sound-fall-2012/pages/syllabus/)
 
+### Reading-List
+- [A Telephonic Conversation (.pdf)](https://ocw.mit.edu/courses/cms-407-media-and-methods-sound-fall-2012/resources/mitcms_407f12_twain/)
+- [The Phonograph and Its Future (.pdf)](https://ocw.mit.edu/courses/cms-407-media-and-methods-sound-fall-2012/resources/mitcms_407f12_edison/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/cms-407-media-and-methods-sound-fall-2012/pages/assignments/)
+
+### Resource
+- [Glass Disc (.jpg)](https://ocw.mit.edu/courses/cms-407-media-and-methods-sound-fall-2012/resources/cms-407f12/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 321
 completeness: 0.2533333333333333
 last_modified: "2026-05-06T14:57:50Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 9, Problem-Set: 6, Reading-List: 8, Resource: 4, Syllabus: 1"
+api_id: 3843
 ---
 
 # Electromagnetic Interactions
@@ -32,9 +35,42 @@ Professor Freidberg would like to acknowledge the immense contributions made to 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [lecture8.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/lecture8/)
+- [lecture7.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/lecture7/)
+- [lecture6.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/lecture6/)
+- [lecture5.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/lecture5/)
+- [lecture4.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/lecture4/)
+- [lecture3.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/lecture3/)
+- [lecture2.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/lecture2/)
+- [lecture1.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/lecture1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/pages/lecture-notes/)
+
+### Reading-List
+- [chap7.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/chap7/)
+- [chap6.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/chap6/)
+- [chap5.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/chap5/)
+- [chap4.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/chap4/)
+- [chap3.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/chap3/)
+- [chap2.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/chap2/)
+- [chap1.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/chap1/)
+- [Readings](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/pages/readings/)
+
+### Problem-Set
+- [hw6.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/hw6/)
+- [hw5.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/hw5/)
+- [hw4.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/hw4/)
+- [hw3.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/hw3/)
+- [hw2.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/hw2/)
+- [Assignments](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/pages/assignments/)
+
+### Resource
+- [overview.pdf (.pdf)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/overview/)
+- [22-105f05.jpg (.jpg)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/22-105f05/)
+- [22-105f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/22-105-electromagnetic-interactions-fall-2005/resources/22-105f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

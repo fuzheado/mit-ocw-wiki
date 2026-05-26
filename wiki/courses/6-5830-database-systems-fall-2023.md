@@ -12,6 +12,9 @@ views: 1311
 completeness: 0.0
 last_modified: "2026-05-06T17:24:59Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 1"
+api_id: 4914
 ---
 
 # Database Systems
@@ -30,14 +33,8 @@ This course relies on primary readings from the database community to introduce 
 
 ## Materials
 
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
-- [Laboratory Assignments] Laboratory Assignments
-- [Lecture Notes] Lecture Notes
-- [Multiple Assignment Types] Multiple Assignment Types
-- [Projects] Projects
-- [Readings] Readings
-
+### Resource
+- [mit6_5830_f23.jpeg (.jpeg)](https://ocw.mit.edu/courses/6-5830-database-systems-fall-2023/resources/mit6_5830_f23_jpeg/)
 ## Wikipedia Bridge
 
 ### Related Articles

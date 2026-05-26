@@ -12,6 +12,9 @@ views: 135
 completeness: 0.09500000000000001
 last_modified: "2026-05-06T14:43:16Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 9, Problem-Set: 1, Reading-List: 2, Resource: 4, Syllabus: 1"
+api_id: 3763
 ---
 
 # Technology Policy Negotiations
@@ -30,9 +33,30 @@ This course features a core framework for an interest-based, problem-solving app
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Lecture Notes** — [🔗](https://ocw.mit.edu/courses/esd-141-technology-policy-negotiations-spring-2006/pages/lecture-notes/) · [🔗](https://ocw.mit.edu/courses/esd-141-technology-policy-negotiations-spring-2006/pages/lecture-notes)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/esd-141-technology-policy-negotiations-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [session9.pdf (.pdf)](https://ocw.mit.edu/courses/esd-141-technology-policy-negotiations-spring-2006/resources/session9/)
+- [session5.pdf (.pdf)](https://ocw.mit.edu/courses/esd-141-technology-policy-negotiations-spring-2006/resources/session5/)
+- [session3.pdf (.pdf)](https://ocw.mit.edu/courses/esd-141-technology-policy-negotiations-spring-2006/resources/session3/)
+- [session2.pdf (.pdf)](https://ocw.mit.edu/courses/esd-141-technology-policy-negotiations-spring-2006/resources/session2/)
+- [session12.pdf (.pdf)](https://ocw.mit.edu/courses/esd-141-technology-policy-negotiations-spring-2006/resources/session12/)
+- [session11.pdf (.pdf)](https://ocw.mit.edu/courses/esd-141-technology-policy-negotiations-spring-2006/resources/session11/)
+- [session10.pdf (.pdf)](https://ocw.mit.edu/courses/esd-141-technology-policy-negotiations-spring-2006/resources/session10/)
+- [session1.pdf (.pdf)](https://ocw.mit.edu/courses/esd-141-technology-policy-negotiations-spring-2006/resources/session1/)
+
+### Reading-List
+- [panel_discussion.pdf (.pdf)](https://ocw.mit.edu/courses/esd-141-technology-policy-negotiations-spring-2006/resources/panel_discussion/)
+- [Readings](https://ocw.mit.edu/courses/esd-141-technology-policy-negotiations-spring-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/esd-141-technology-policy-negotiations-spring-2006/pages/assignments/)
+
+### Resource
+- [esd-141s06.jpg (.jpg)](https://ocw.mit.edu/courses/esd-141-technology-policy-negotiations-spring-2006/resources/esd-141s06/)
+- [esd-141s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/esd-141-technology-policy-negotiations-spring-2006/resources/esd-141s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

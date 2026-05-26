@@ -12,6 +12,9 @@ views: 414
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:56:32Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 2"
+api_id: 5817
 ---
 
 # Linguistic Studies of Bilingualism
@@ -30,8 +33,18 @@ This course studies the development of bilingualism in human history (from Austr
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/24-906j-linguistic-studies-of-bilingualism-fall-2012/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-906j-linguistic-studies-of-bilingualism-fall-2012/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/24-906j-linguistic-studies-of-bilingualism-fall-2012/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/24-906j-linguistic-studies-of-bilingualism-fall-2012/pages/assignments/)
+
+### Resource
+- [A road sign with directions in both English and Welsh (.jpg)](https://ocw.mit.edu/courses/24-906j-linguistic-studies-of-bilingualism-fall-2012/resources/24-906f12/)
 ## Wikipedia Bridge
 
 ### Related Articles

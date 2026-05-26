@@ -12,6 +12,9 @@ views: 145
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T14:53:41Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 2, Problem-Set: 4, Reading-List: 2, Resource: 5, Syllabus: 2"
+api_id: 4967
 ---
 
 # Gendering U.S. Immigration Policy: Sociopolitical, Theological and Feminist Perspectives 
@@ -30,9 +33,24 @@ This course uses theories of gender to explore sociopolitical, ethical and theol
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019/pages/calendar/)
+- **Group Presentations** — [🔗](https://ocw.mit.edu/courses/wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019/pages/assignments/group-presentations/)
+- **Individual Presentation/Blog Posts** — [🔗](https://ocw.mit.edu/courses/wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019/pages/assignments/individual-presentation-blog-posts/)
+- **Research Paper** — [🔗](https://ocw.mit.edu/courses/wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019/pages/assignments/research-paper/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019/pages/syllabus/)
 
+### Reading-List
+- [WGS.645 S19 Recommended Readings (.pdf)](https://ocw.mit.edu/courses/wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019/resources/mitwgs_645s19_recreadings/)
+- [Readings](https://ocw.mit.edu/courses/wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019/pages/assignments/)
+
+### Resource
+- [wgs-645s19.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019/resources/wgs-645s19/)
+- [wgs-645s19-th.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019/resources/wgs-645s19-th/)
+- [WGS_645s19 Assignments: Student Paper (.pdf)](https://ocw.mit.edu/courses/wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019/resources/mitwgs_645s19_studentpaper/)
 ## Wikipedia Bridge
 
 ### Related Articles

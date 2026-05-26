@@ -12,6 +12,9 @@ views: 219
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:50:16Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 6, Syllabus: 2, Video-Transcript: 5"
+api_id: 3434
 ---
 
 # Modern African History
@@ -30,8 +33,18 @@ This course surveys the history of 19th and 20th century Africa. It focuses on t
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-165-modern-african-history-spring-2019/pages/calendar/)
+- **Readings and Videos** — [🔗](https://ocw.mit.edu/courses/21h-165-modern-african-history-spring-2019/pages/readingsandvideos/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-165-modern-african-history-spring-2019/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-165-modern-african-history-spring-2019/pages/assignments/)
+
+### Resource
+- [21H-165s19.jpg (.jpg)](https://ocw.mit.edu/courses/21h-165-modern-african-history-spring-2019/resources/21h-165s19/)
+- [21H-165s19-th.jpg (.jpg)](https://ocw.mit.edu/courses/21h-165-modern-african-history-spring-2019/resources/21h-165s19-th/)
+- [Kai Krause](http://kai.sub.blue/images/True-Size-of-Africa-kk-v3.pdf)
 ## Wikipedia Bridge
 
 ### Related Articles

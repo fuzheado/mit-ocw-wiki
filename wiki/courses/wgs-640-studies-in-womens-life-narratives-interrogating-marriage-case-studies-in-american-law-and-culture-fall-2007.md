@@ -12,6 +12,9 @@ views: 154
 completeness: 0.12666666666666665
 last_modified: "2026-05-06T16:54:28Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 6, Problem-Set: 3, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 5600
 ---
 
 # Studies in Women's Life Narratives: Interrogating Marriage: Case Studies in American Law and Culture
@@ -30,9 +33,28 @@ Is marriage a patriarchal institution? Much feminist scholarship has characteriz
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [Interrogating Marriage: Law’s Way for Bastards and Their Mothers (.pdf)](https://ocw.mit.edu/courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/resources/mitwgs_640f07_5_2/)
+- [Narratives of Seduction and Abandonment (.pdf)](https://ocw.mit.edu/courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/resources/mitwgs_640f07_4_2/)
+- [Class Discussion 9.18.07: Marriage in Social and Legal History (Cott and Hartog) (.pdf)](https://ocw.mit.edu/courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/resources/mitwgs_640f07_3/)
+- [Interrogating Marriage Class Notes 9/11/07 (.pdf)](https://ocw.mit.edu/courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/resources/mitwgs_640f07_2/)
+- [Welcome/Introduction: What are we talking about? (.pdf)](https://ocw.mit.edu/courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/resources/mitwgs_640f07_1_intro/)
+- [Lecture Notes](https://ocw.mit.edu/courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/pages/readings/)
+
+### Problem-Set
+- [Postmodern Love and Traditional Marriage in Todd Solondz’s Happiness (.pdf)](https://ocw.mit.edu/courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/resources/mitwgs_640f07_lakomski/)
+- [Contemporary Creations of the Family Name: An Exploration of Social Variables in Patterns of Name Changing and Retention (.pdf)](https://ocw.mit.edu/courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/resources/mitwgs_640f07_gretchen/)
+- [Assignments](https://ocw.mit.edu/courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/pages/assignments/)
+
+### Resource
+- [wgs-640f07.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/resources/wgs-640f07/)
+- [wgs-640f07-th.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/resources/wgs-640f07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

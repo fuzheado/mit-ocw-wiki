@@ -12,6 +12,9 @@ views: 173
 completeness: 0.06
 last_modified: "2026-05-06T15:02:53Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 8"
+api_id: 4710
 ---
 
 # Gender: Historical Perspectives
@@ -30,9 +33,19 @@ This course examines the definition of gender in scientific, societal, and histo
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-983j-gender-historical-perspectives-fall-2020/pages/calendar/)
+- **Readings and Videos** — [🔗](https://ocw.mit.edu/courses/21h-983j-gender-historical-perspectives-fall-2020/pages/readings-and-videos/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-983j-gender-historical-perspectives-fall-2020/pages/syllabus/)
 
+### Problem-Set
+- [21H.983JF20 Assignments: Appendix II - The Trial of Susan B. Anthony (.pdf)](https://ocw.mit.edu/courses/21h-983j-gender-historical-perspectives-fall-2020/resources/mit21h_983jf20_appendixii/)
+- [21H.983JF20 Assignments: Appendix I - Ida B. Wells Primary Sources (.pdf)](https://ocw.mit.edu/courses/21h-983j-gender-historical-perspectives-fall-2020/resources/mit21h_983jf20_appendixi/)
+- [Assignments](https://ocw.mit.edu/courses/21h-983j-gender-historical-perspectives-fall-2020/pages/assignments/)
+
+### Resource
+- [21H-983Jf20.jpg (.jpg)](https://ocw.mit.edu/courses/21h-983j-gender-historical-perspectives-fall-2020/resources/21h-983jf20/)
+- [21H-983Jf20-th.jpg (.jpg)](https://ocw.mit.edu/courses/21h-983j-gender-historical-perspectives-fall-2020/resources/21h-983jf20-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

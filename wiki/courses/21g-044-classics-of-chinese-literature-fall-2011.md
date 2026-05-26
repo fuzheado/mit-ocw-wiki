@@ -12,6 +12,9 @@ views: 767
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:08:02Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 5696
 ---
 
 # Classics of Chinese Literature
@@ -30,8 +33,21 @@ This course is an introduction to three of the major genres of traditional Chine
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-044-classics-of-chinese-literature-fall-2011/pages/calendar/)
+- **In-class Assignment: Poetry Storyboards** — [🔗](https://ocw.mit.edu/courses/21g-044-classics-of-chinese-literature-fall-2011/pages/calendar/in-class-assignment-poetry-storyboards/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-044-classics-of-chinese-literature-fall-2011/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-044-classics-of-chinese-literature-fall-2011/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21g-044-classics-of-chinese-literature-fall-2011/pages/assignments/)
+
+### Resource
+- [The Kangxi Emperor of China (.jpg)](https://ocw.mit.edu/courses/21g-044-classics-of-chinese-literature-fall-2011/resources/21g-044f11/)
+- [The Kangxi Emperor of China (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-044-classics-of-chinese-literature-fall-2011/resources/21g-044f11-th/)
+- [Handout for the Museum of Fine Arts Trip](https://ocw.mit.edu/courses/21g-044-classics-of-chinese-literature-fall-2011/pages/calendar/handout-for-the-museum-of-fine-arts-trip/)
 ## Wikipedia Bridge
 
 ### Related Articles

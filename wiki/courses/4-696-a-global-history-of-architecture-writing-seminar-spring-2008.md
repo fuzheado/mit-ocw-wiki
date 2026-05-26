@@ -12,6 +12,9 @@ views: 150
 completeness: 0.0
 last_modified: "2026-05-06T14:57:48Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Reading-List: 1, Resource: 17, Syllabus: 1, Video-Transcript: 7"
+api_id: 3595
 ---
 
 # A Global History of Architecture Writing Seminar
@@ -30,9 +33,32 @@ This course will study the question of Global Architecture from the point of vie
 
 ## Materials
 
-- [Other Video] Other Video
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/pages/syllabus/)
 
+### Lecture-Notes
+- [Video Presentations 📺Video](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/video_galleries/video-presentations/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/pages/readings/)
+
+### Resource
+- [The Temple in the Cave - Slide List and Readings (.pdf)](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/mit4_696s08_project06_read/)
+- [The Temple in the Cave - Notes (.pdf)](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/mit4_696s08_project06_notes/)
+- [A Global History of Pilgrimage - Notes (.pdf)](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/mit4_696s08_project05_notes/)
+- [A Global History of Pilgrimage - Handout (.pdf)](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/mit4_696s08_project05_handout/)
+- [Before the Scramble for Africa - Slide List and Readings (.pdf)](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/mit4_696s08_project03_read/)
+- [Before the Scramble for Africa - Notes (.pdf)](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/mit4_696s08_project03_notes/)
+- [Decorative Brickwork - Readings (.pdf)](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/mit4_696s08_project02_read/)
+- [Global Port Cities - Slide List and Readings (.pdf)](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/mit4_696s08_project01_read/)
+- [Global Port Cities - Notes (.pdf)](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/mit4_696s08_project01_notes/)
+- [Presentation: The Temple in the Cave (.jpg)](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/6/)
+- [Presentation: A Global History of Pilgrimage (.jpg)](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/5/)
+- [Presentation: 20th Century African Urbanism (.jpg)](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/4/)
+- [Photograph of a tower with carved face, part of the Angkor city gates (.jpg)](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/4-696s08/)
+- [Presentation: Before the Scramble for Africa (.jpg)](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/3/)
+- [Presentation: Global Port Cities (.jpg)](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/2/)
+- [Presentation: Decorative Brickwork (.jpg)](https://ocw.mit.edu/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/1/)
 ## Wikipedia Bridge
 
 ### Related Articles

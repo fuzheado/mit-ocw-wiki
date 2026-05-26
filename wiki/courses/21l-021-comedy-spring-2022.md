@@ -12,6 +12,9 @@ views: 183
 completeness: 0.0
 last_modified: "2026-05-06T14:55:58Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Problem-Set: 3, Reading-List: 1, Resource: 13, Syllabus: 2, Video-Transcript: 4"
+api_id: 4072
 ---
 
 # Comedy
@@ -31,11 +34,26 @@ We will revel in Greek, Roman, and Shakespearean drama; explore Aphra Behn’s e
 
 ## Materials
 
-- [Editable Files] Editable Files
-- [Instructor Insights] Instructor Insights
-- [Readings] Readings
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/21l-021-comedy-spring-2022/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-021-comedy-spring-2022/pages/calendar/)
+- **Essays** — [🔗](https://ocw.mit.edu/courses/21l-021-comedy-spring-2022/pages/assignment/)
+- **Readings and Viewings** — [🔗](https://ocw.mit.edu/courses/21l-021-comedy-spring-2022/pages/readings/)
+- **Report** — [🔗](https://ocw.mit.edu/courses/21l-021-comedy-spring-2022/pages/report-guidelines/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-021-comedy-spring-2022/pages/syllabus/)
 
+### Problem-Set
+- [21L.021 Comedy, Revision Guidelines (.pdf)](https://ocw.mit.edu/courses/21l-021-comedy-spring-2022/resources/mit21l-021s22_revision2/)
+- [21L.021 Comedy, Essay 1 Rubric (.pdf)](https://ocw.mit.edu/courses/21l-021-comedy-spring-2022/resources/mit21l-021s22_e1rubric2/)
+
+### Resource
+- [MIT21L-021S22_revision.docx (.docx)](https://ocw.mit.edu/courses/21l-021-comedy-spring-2022/resources/mit21l-021s22_revision/)
+- [MIT21L-021S22_e1rubric.docx (.docx)](https://ocw.mit.edu/courses/21l-021-comedy-spring-2022/resources/mit21l-021s22_e1rubric/)
+- [21l-021s22.jpg (.jpg)](https://ocw.mit.edu/courses/21l-021-comedy-spring-2022/resources/21l-021s22/)
+- [21l-021s22-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-021-comedy-spring-2022/resources/21l-021s22-th/)
+- [Instructor Insights](https://ocw.mit.edu/courses/21l-021-comedy-spring-2022/pages/instructor-insights/)
+- [Discussion Prompts](https://ocw.mit.edu/courses/21l-021-comedy-spring-2022/pages/discussion-prompts/)
+- [Class Summaries](https://ocw.mit.edu/courses/21l-021-comedy-spring-2022/pages/class-summaries/)
 ## Wikipedia Bridge
 
 ### Related Articles

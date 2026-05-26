@@ -12,6 +12,9 @@ views: 366
 completeness: 0.12
 last_modified: "2026-05-06T16:53:07Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 6, Reading-List: 1, Resource: 6, Syllabus: 1"
+api_id: 5661
 ---
 
 # Historiography of Islamic Architecture
@@ -30,9 +33,26 @@ This seminar offers a critical review of scholarship on Islamic architecture thr
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-619-historiography-of-islamic-architecture-fall-2014/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-619-historiography-of-islamic-architecture-fall-2014/pages/readings/)
+
+### Problem-Set
+- [Assignment 5 (.pdf)](https://ocw.mit.edu/courses/4-619-historiography-of-islamic-architecture-fall-2014/resources/mit4_619f14_assignment5/)
+- [Assignment 4 (.pdf)](https://ocw.mit.edu/courses/4-619-historiography-of-islamic-architecture-fall-2014/resources/mit4_619f14_assignment4/)
+- [Assignment 3 (.pdf)](https://ocw.mit.edu/courses/4-619-historiography-of-islamic-architecture-fall-2014/resources/mit4_619f14_assignment3/)
+- [Assignment 2 (.pdf)](https://ocw.mit.edu/courses/4-619-historiography-of-islamic-architecture-fall-2014/resources/mit4_619f14_assignment2/)
+- [Assignment 1 (.pdf)](https://ocw.mit.edu/courses/4-619-historiography-of-islamic-architecture-fall-2014/resources/mit4_619f14_assignment1/)
+- [Assignments](https://ocw.mit.edu/courses/4-619-historiography-of-islamic-architecture-fall-2014/pages/assignments/)
+
+### Resource
+- [Leighton House Museum (.jpg)](https://ocw.mit.edu/courses/4-619-historiography-of-islamic-architecture-fall-2014/resources/4-619f14/)
+- [Leighton House Museum (thumbnail) (.jpg)](https://ocw.mit.edu/courses/4-619-historiography-of-islamic-architecture-fall-2014/resources/4-619f14-th/)
+- [4-619_stat-students (.png)](https://ocw.mit.edu/courses/4-619-historiography-of-islamic-architecture-fall-2014/resources/4-619_stat-stundets/)
+- [4-619_classroom-1 (.jpg)](https://ocw.mit.edu/courses/4-619-historiography-of-islamic-architecture-fall-2014/resources/4-619_classroom-1/)
+- [Instructor Insights](https://ocw.mit.edu/courses/4-619-historiography-of-islamic-architecture-fall-2014/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

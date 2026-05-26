@@ -12,6 +12,9 @@ views: 125
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:04:29Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 3439
 ---
 
 # Cold War Science
@@ -30,8 +33,17 @@ This seminar examines the history and legacy of the Cold War on American science
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-436-cold-war-science-fall-2008/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/sts-436-cold-war-science-fall-2008/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/sts-436-cold-war-science-fall-2008/pages/assignments/)
+
+### Resource
+- [Black and white photo of a young woman working in a chemistry lab (.jpg)](https://ocw.mit.edu/courses/sts-436-cold-war-science-fall-2008/resources/sts-436f08/)
 ## Wikipedia Bridge
 
 ### Related Articles

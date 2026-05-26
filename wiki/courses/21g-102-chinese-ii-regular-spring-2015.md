@@ -12,6 +12,9 @@ views: 403
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:57:06Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 2, Resource: 7, Syllabus: 2"
+api_id: 4766
 ---
 
 # Chinese II (Regular)
@@ -30,8 +33,19 @@ This subject is the second semester of four that forms an introduction to modern
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-102-chinese-ii-regular-spring-2015/pages/calendar/)
+- **Oral Reports and Interview Guidelines** — [🔗](https://ocw.mit.edu/courses/21g-102-chinese-ii-regular-spring-2015/pages/oral-reports-and-interview-guidelines/)
+- **Review Test Format** — [🔗](https://ocw.mit.edu/courses/21g-102-chinese-ii-regular-spring-2015/pages/review-test-format/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-102-chinese-ii-regular-spring-2015/pages/syllabus/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21g-102-chinese-ii-regular-spring-2015/pages/assignments/)
+
+### Resource
+- [Lion Dance (.jpg)](https://ocw.mit.edu/courses/21g-102-chinese-ii-regular-spring-2015/resources/21g-102s15/)
+- [Lion Dance (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-102-chinese-ii-regular-spring-2015/resources/21g-102s15-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21g-102-chinese-ii-regular-spring-2015/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

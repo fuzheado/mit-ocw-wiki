@@ -12,6 +12,9 @@ views: 224
 completeness: 0.32
 last_modified: "2026-05-06T16:53:54Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Lecture-Notes: 34, Problem-Set: 6, Resource: 14, Syllabus: 2"
+api_id: 4730
 ---
 
 # Managerial Psychology Laboratory
@@ -31,12 +34,70 @@ Surveys social psychology and organization theory interpreted in the context of 
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
-- [Projects] Projects
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/pages/calendar/)
+- **Recitations** — [🔗](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/pages/recitations/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [ocwlecture19apr2303thegatekeeper.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/ocwlecture19apr2303thegatekeeper/)
+- [ocwlecture18apr1603knowledgetransfer.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/ocwlecture18apr1603knowledgetransfer/)
+- [ocwlecture17apr1403communicationinorganizations.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/ocwlecture17apr1403communicationinorganizations/)
+- [ocwlecture15bapr0703knowledgemanagementpart2.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/ocwlecture15bapr0703knowledgemanagementpart2/)
+- [ocwlecture15aapr0703bureaucracypart1.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/ocwlecture15aapr0703bureaucracypart1/)
+- [ocwlecture14apr0203phasesofacareerorsubcareer.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/ocwlecture14apr0203phasesofacareerorsubcareer/)
+- [ocwlecture13mar3103communication.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/ocwlecture13mar3103communication/)
+- [ocwlecture11bmar1703thedualladdersystempart2.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/ocwlecture11bmar1703thedualladdersystempart2/)
+- [ocwlecture11amar1203thedualladdersystempart1.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/ocwlecture11amar1203thedualladdersystempart1/)
+- [ocwlecture07feb2603individualdecisionmaking.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/ocwlecture07feb2603individualdecisionmaking/)
+- [ocwlecture05feb1903changingattitudes.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/ocwlecture05feb1903changingattitudes/)
+- [lecture7.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture7/)
+- [lecture5.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture5/)
+- [lecture3feb1203socialperceptionandattitudes.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture3feb1203socialperceptionandattitudes/)
+- [lecture3.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture3/)
+- [lecture2feb1003overviewoforganizations.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture2feb1003overviewoforganizations/)
+- [lecture21e.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture21e/)
+- [lecture21d.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture21d/)
+- [lecture21c.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture21c/)
+- [lecture21b.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture21b/)
+- [lecture21a.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture21a/)
+- [lecture20apr26066d1c.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture20apr26066d1c/)
+- [lecture18.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture18/)
+- [lecture17.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture17/)
+- [lecture15c.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture15c/)
+- [lecture15b.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture15b/)
+- [lecture15a.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture15a/)
+- [lecture14d.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture14d/)
+- [lecture14c.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture14c/)
+- [lecture14b.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture14b/)
+- [lecture14a.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture14a/)
+- [lecture12.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/lecture12/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/pages/lecture-notes/)
+
+### Problem-Set
+- [individualwritingassignment.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/individualwritingassignment/)
+- [hw2religionstudentinstructions.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/hw2religionstudentinstructions/)
+- [hw2religionstudentdataset.xls (.xls)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/hw2religionstudentdataset/)
+- [hw1religionstudentsurvey.xls (.xls)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/hw1religionstudentsurvey/)
+- [hw1religionstudentsurvey.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/hw1religionstudentsurvey-1/)
+- [Assignments](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/pages/assignments/)
+
+### Assignment
+- [groupprojectproposaltemplate.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/groupprojectproposaltemplate/)
+- [Projects](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/pages/projects/)
+
+### Resource
+- [recitation3feb2103takingmeasurements.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/recitation3feb2103takingmeasurements/)
+- [recitation2Feb1403criticalthinking.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/recitation2feb1403criticalthinking/)
+- [recitation1_feb_07_03_what_are_good_questions_for_your_project.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/recitation1_feb_07_03_what_are_good_questions_for_your_project/)
+- [recitation09april2503_simplestatistics2.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/recitation09april2503_simplestatistics2/)
+- [recitation08april1103simplestatistics1.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/recitation08april1103simplestatistics1/)
+- [recitation07april0403probability.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/recitation07april0403probability/)
+- [recitation06march1403hypothesistesting.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/recitation06march1403hypothesistesting/)
+- [recitation05march0703ideas.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/recitation05march0703ideas/)
+- [recitation04_feb_28_03_experimental_designI.pdf (.pdf)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/recitation04_feb_28_03_experimental_designi/)
+- [15-310s03.jpg (.jpg)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/15-310s03/)
+- [15-310s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-310-managerial-psychology-laboratory-spring-2003/resources/15-310s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

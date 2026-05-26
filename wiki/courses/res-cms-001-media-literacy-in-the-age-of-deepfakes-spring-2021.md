@@ -12,6 +12,9 @@ views: 665
 completeness: 0.0
 last_modified: "2026-05-06T15:02:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Reading-List: 2, Resource: 5, Syllabus: 1, Video-Transcript: 12"
+api_id: 4401
 ---
 
 # Media Literacy in the Age of Deepfakes
@@ -33,8 +36,14 @@ This course was produced by the MIT Center for Advanced Virtuality, with support
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Bibliography** — [🔗](https://ocw.mit.edu/courses/res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021/pages/additional-resources/)
+- **Sample Readings** — [🔗](https://ocw.mit.edu/courses/res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021/pages/syllabus/sample-readings/)
+- **Sample Syllabus** — [🔗](https://ocw.mit.edu/courses/res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021/pages/syllabus/)
 
+### Resource
+- [res-cms-001s21.png (.png)](https://ocw.mit.edu/courses/res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021/resources/res-cms-001s21/)
+- [res-cms-001s21-th.png (.png)](https://ocw.mit.edu/courses/res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021/resources/res-cms-001s21-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

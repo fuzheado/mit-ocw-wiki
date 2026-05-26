@@ -12,6 +12,9 @@ views: 908
 completeness: 0.17833333333333334
 last_modified: "2026-05-06T14:56:34Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 7, Problem-Set: 6, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3745
 ---
 
 # Practical Leadership
@@ -30,9 +33,33 @@ Practical Leadership is an interactive seminar where students receive repeated c
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Presentation Assignments] Presentation Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-974-practical-leadership-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-974-practical-leadership-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [Class Six – Decision Making (.pdf)](https://ocw.mit.edu/courses/15-974-practical-leadership-fall-2004/resources/class6/)
+- [Class Five – Influencing Others (.pdf)](https://ocw.mit.edu/courses/15-974-practical-leadership-fall-2004/resources/class5/)
+- [Class Four – Situational Leadership (.pdf)](https://ocw.mit.edu/courses/15-974-practical-leadership-fall-2004/resources/class4/)
+- [Class Three – Communication (.pdf)](https://ocw.mit.edu/courses/15-974-practical-leadership-fall-2004/resources/class3/)
+- [Class Two – Leadership Frameworks (.pdf)](https://ocw.mit.edu/courses/15-974-practical-leadership-fall-2004/resources/class2/)
+- [Class One – Introduction and Overview (.pdf)](https://ocw.mit.edu/courses/15-974-practical-leadership-fall-2004/resources/class1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-974-practical-leadership-fall-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-974-practical-leadership-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Assignment for Class Six (.pdf)](https://ocw.mit.edu/courses/15-974-practical-leadership-fall-2004/resources/5th_assignmt/)
+- [Assignment for Class Five  (.pdf)](https://ocw.mit.edu/courses/15-974-practical-leadership-fall-2004/resources/4th_assignmt/)
+- [Assignment for Class Four – Situational Leadership (.pdf)](https://ocw.mit.edu/courses/15-974-practical-leadership-fall-2004/resources/3rd_assignmt/)
+- [Assignment for Class Three – Communication (.pdf)](https://ocw.mit.edu/courses/15-974-practical-leadership-fall-2004/resources/2nd_assignmt/)
+- [Assignment for Class Two – Leadership Frameworks (.pdf)](https://ocw.mit.edu/courses/15-974-practical-leadership-fall-2004/resources/1st_assignmt/)
+- [Assignments](https://ocw.mit.edu/courses/15-974-practical-leadership-fall-2004/pages/assignments/)
+
+### Resource
+- [Boardroom (.jpg)](https://ocw.mit.edu/courses/15-974-practical-leadership-fall-2004/resources/15-974f04/)
+- [Boardroom (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-974-practical-leadership-fall-2004/resources/15-974f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

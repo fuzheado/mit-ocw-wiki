@@ -12,6 +12,9 @@ views: 225
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T15:01:31Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 4929
 ---
 
 # Major English Novels
@@ -30,8 +33,17 @@ In this class, you will read, think about, and (I hope) enjoy important examples
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-471-major-english-novels-spring-2009/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-471-major-english-novels-spring-2009/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-471-major-english-novels-spring-2009/pages/assignments/)
+
+### Resource
+- [A book, open-faced, in a woman's lap, her hand turning the page (.jpg)](https://ocw.mit.edu/courses/21l-471-major-english-novels-spring-2009/resources/21l-471s09/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,8 @@ views: 247
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:19:16Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Syllabus: 1"
 ---
 
 # Narrative Ethics: Literary Texts and Moral Issues in Medicine
@@ -30,8 +32,14 @@ This eight-session course, designed for a mixed group of first, second, third an
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/hst-935-narrative-ethics-literary-texts-and-moral-issues-in-medicine-january-iap-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/hst-935-narrative-ethics-literary-texts-and-moral-issues-in-medicine-january-iap-2007/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/hst-935-narrative-ethics-literary-texts-and-moral-issues-in-medicine-january-iap-2007/pages/assignments/)
 ## Wikipedia Bridge
 
 ### Related Articles

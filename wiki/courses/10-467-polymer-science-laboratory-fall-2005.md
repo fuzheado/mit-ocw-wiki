@@ -12,6 +12,9 @@ views: 528
 completeness: 0.0
 last_modified: "2026-05-06T14:49:07Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Reading-List: 1, Resource: 19, Syllabus: 2"
+api_id: 5563
 ---
 
 # Polymer Science Laboratory
@@ -30,8 +33,31 @@ Experiments in this class are broadly aimed at acquainting students with the ran
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/pages/calendar/)
+- **Labs** — [🔗](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/pages/labs/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/pages/readings/)
+
+### Resource
+- [experiment_15b1.pdf (.pdf)](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/resources/experiment_15b1/)
+- [experiment_14.pdf (.pdf)](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/resources/experiment_14/)
+- [experiment_13.pdf (.pdf)](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/resources/experiment_13/)
+- [experiment_12.pdf (.pdf)](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/resources/experiment_12/)
+- [experiment_11.pdf (.pdf)](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/resources/experiment_11/)
+- [7.pdf (.pdf)](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/resources/7/)
+- [6.pdf (.pdf)](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/resources/6/)
+- [5.pdf (.pdf)](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/resources/5/)
+- [4.pdf (.pdf)](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/resources/4/)
+- [3.pdf (.pdf)](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/resources/3/)
+- [2.pdf (.pdf)](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/resources/2/)
+- [10467Exp_15.pdf (.pdf)](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/resources/10467exp_15/)
+- [10.pdf (.pdf)](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/resources/10/)
+- [10-467f05.jpg (.jpg)](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/resources/10-467f05/)
+- [10-467f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/resources/10-467f05-th/)
+- [1.pdf (.pdf)](https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/resources/1/)
 ## Wikipedia Bridge
 
 ### Related Articles

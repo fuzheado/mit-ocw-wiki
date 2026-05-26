@@ -12,6 +12,9 @@ views: 122
 completeness: 0.2
 last_modified: "2026-05-06T16:57:16Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 13, Reading-List: 2, Resource: 4, Syllabus: 2"
+api_id: 5579
 ---
 
 # Graduate Seminar in American Politics II
@@ -30,9 +33,32 @@ This is the second in a sequence of two field seminars in American politics inte
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/pages/syllabus/)
 
+### Reading-List
+- [Comments on congressional readings (.pdf)](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/resources/mit17_202s10_readcomses3/)
+- [Readings](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/pages/readings/)
+
+### Problem-Set
+- [President II (.pdf)](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/resources/mit17_202s10_president_ii/)
+- [President I (.pdf)](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/resources/mit17_202s10_president_i/)
+- [Presidency (.pdf)](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/resources/mit17_202s10_presidency_es/)
+- [Parties/Interest Groups (.pdf)](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/resources/mit17_202s10_parties_essay/)
+- [Parties (.pdf)](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/resources/mit17_202s10_parties/)
+- [Interest Groups (.pdf)](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/resources/mit17_202s10_interest_grp/)
+- [Courts II (.pdf)](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/resources/mit17_202s10_courts_ii/)
+- [Courts I (.pdf)](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/resources/mit17_202s10_courts_i/)
+- [Congress – Party, Polarization and Ideology (.pdf)](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/resources/mit17_202s10_congress_ii/)
+- [Congress – Representation and Institutionalization (.pdf)](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/resources/mit17_202s10_congress_i/)
+- [Congress (.pdf)](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/resources/mit17_202s10_congress_es/)
+- [Bureaucracy (.pdf)](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/resources/mit17_202s10_bureaucracy/)
+- [Assignments](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/pages/assignments/)
+
+### Resource
+- [President Addresses a Joint Session of Congress (.jpg)](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/resources/17-202s10/)
+- [President Addresses a Joint Session of Congress (thumbnail) (.jpg)](https://ocw.mit.edu/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/resources/17-202s10-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

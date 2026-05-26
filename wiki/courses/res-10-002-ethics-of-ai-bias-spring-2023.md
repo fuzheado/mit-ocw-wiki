@@ -12,6 +12,9 @@ views: 1689
 completeness: 0.0
 last_modified: "2026-05-06T15:01:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 16, Video-Transcript: 22"
+api_id: 5144
 ---
 
 # Ethics of AI Bias
@@ -30,8 +33,25 @@ This video aims to delve into the human problems brought out by issues in artifi
 
 ## Materials
 
-- [Other Video] Other Video
+### Lectures
+- **Chapterized Video and Study Guide** — [⬇](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/ethics_of_ai_bias_clip1_360p_16_9.mp4) · [⬇](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/ethics_of_ai_bias_clip2_360p_16_9.mp4) · [⬇](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/ethics_of_ai_bias_clip3_360p_16_9.mp4) · [⬇](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/ethics_of_ai_bias_clip4_360p_16_9.mp4) · [⬇](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/ethics_of_ai_bias_clip5_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/ethics_of_ai_bias_clip1_transcript.pdf) · [📄](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/ethics_of_ai_bias_clip2_transcript.pdf) · [📄](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/ethics_of_ai_bias_clip3_transcript.pdf) · [📄](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/ethics_of_ai_bias_clip4_transcript.pdf) · [📄](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/ethics_of_ai_bias_clip5_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/pages/chapterized-video/)
+- **Full Video** — [⬇](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/3631_ethics_of_ai_bias_finale_03_360p_16_9.mp4) · [📄](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/1Jv25FTNtzwKJmOPRBW0FmARV2i9765TG_transcript.pdf) · [🔗](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/pages/video/)
 
+### Resource
+- [RES-10-002s23.png (.png)](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/resources/res-10-002s232/)
+- [RES-10-002s23-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/resources/res-10-002s23-th2/)
+- [Ethics_of_AI_Bias_clip5_transcript.pdf (.pdf)](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/resources/ethics_of_ai_bias_clip5_transcript_pdf/)
+- [Ethics_of_AI_Bias_clip5_captions.vtt (.vtt)](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/resources/ethics_of_ai_bias_clip5_captions_vtt/)
+- [Ethics_of_AI_Bias_clip4_transcript.pdf (.pdf)](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/resources/ethics_of_ai_bias_clip4_transcript_pdf/)
+- [Ethics_of_AI_Bias_clip4_captions.vtt (.vtt)](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/resources/ethics_of_ai_bias_clip4_captions_vtt/)
+- [Ethics_of_AI_Bias_clip3_transcript.pdf (.pdf)](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/resources/ethics_of_ai_bias_clip3_transcript_pdf/)
+- [Ethics_of_AI_Bias_clip3_captions.vtt (.vtt)](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/resources/ethics_of_ai_bias_clip3_captions_vtt/)
+- [Ethics_of_AI_Bias_clip2_transcript.pdf (.pdf)](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/resources/ethics_of_ai_bias_clip2_transcript_pdf/)
+- [Ethics_of_AI_Bias_clip2_captions.vtt (.vtt)](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/resources/ethics_of_ai_bias_clip2_captions_vtt/)
+- [Ethics_of_AI_Bias_clip1_transcript.pdf (.pdf)](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/resources/ethics_of_ai_bias_clip1_transcript_pdf/)
+- [Ethics_of_AI_Bias_clip1_captions.vtt (.vtt)](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/resources/ethics_of_ai_bias_clip1_captions_vtt/)
+- [3631_ethics_of_ai_bias_finale_03_transcript.pdf (.pdf)](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/resources/3631_ethics_of_ai_bias_finale_03_transcript/)
+- [3631_Ethics_of_AI_Bias_FINALE_03_captions.vtt (.vtt)](https://ocw.mit.edu/courses/res-10-002-ethics-of-ai-bias-spring-2023/resources/3631_ethics_of_ai_bias_finale_03_captions2/)
 ## Wikipedia Bridge
 
 ### Related Articles

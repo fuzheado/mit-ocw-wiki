@@ -12,6 +12,9 @@ views: 165
 completeness: 0.12000000000000001
 last_modified: "2026-05-06T16:59:44Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 12, Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5235
 ---
 
 # Civil-Military Relations
@@ -30,9 +33,33 @@ This course centers on mechanisms of civilian control of the military. Relying o
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-584-civil-military-relations-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-584-civil-military-relations-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [l12.pdf (.pdf)](https://ocw.mit.edu/courses/17-584-civil-military-relations-spring-2003/resources/l12/)
+- [l11.pdf (.pdf)](https://ocw.mit.edu/courses/17-584-civil-military-relations-spring-2003/resources/l11/)
+- [L10.pdf (.pdf)](https://ocw.mit.edu/courses/17-584-civil-military-relations-spring-2003/resources/l10/)
+- [l09.pdf (.pdf)](https://ocw.mit.edu/courses/17-584-civil-military-relations-spring-2003/resources/l09/)
+- [l08.pdf (.pdf)](https://ocw.mit.edu/courses/17-584-civil-military-relations-spring-2003/resources/l08/)
+- [l07.pdf (.pdf)](https://ocw.mit.edu/courses/17-584-civil-military-relations-spring-2003/resources/l07/)
+- [l06.pdf (.pdf)](https://ocw.mit.edu/courses/17-584-civil-military-relations-spring-2003/resources/l06/)
+- [l05.pdf (.pdf)](https://ocw.mit.edu/courses/17-584-civil-military-relations-spring-2003/resources/l05/)
+- [l04.pdf (.pdf)](https://ocw.mit.edu/courses/17-584-civil-military-relations-spring-2003/resources/l04/)
+- [L03Edit.pdf (.pdf)](https://ocw.mit.edu/courses/17-584-civil-military-relations-spring-2003/resources/l03edit/)
+- [l02.pdf (.pdf)](https://ocw.mit.edu/courses/17-584-civil-military-relations-spring-2003/resources/l02/)
+- [Lecture Notes](https://ocw.mit.edu/courses/17-584-civil-military-relations-spring-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-584-civil-military-relations-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-584-civil-military-relations-spring-2003/pages/assignments/)
+
+### Resource
+- [17-584s03.jpg (.jpg)](https://ocw.mit.edu/courses/17-584-civil-military-relations-spring-2003/resources/17-584s03/)
+- [17-584s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/17-584-civil-military-relations-spring-2003/resources/17-584s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

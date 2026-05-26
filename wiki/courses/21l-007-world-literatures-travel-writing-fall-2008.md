@@ -12,6 +12,9 @@ views: 384
 completeness: 0.4
 last_modified: "2026-05-06T17:07:08Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 15, Reading-List: 9, Resource: 2, Syllabus: 1, Video-Transcript: 1"
+api_id: 5153
 ---
 
 # World Literatures: Travel Writing
@@ -33,10 +36,39 @@ Expeditions will include those of Lewis and Clark (North America), Henry Morton 
 
 ## Materials
 
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/pages/syllabus/)
 
+### Reading-List
+- [Class Discussion: "Blue Highways" (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/thoughts/)
+- [Reading The Wasteland (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/thewasteland_4/)
+- [The Atlantic Sound (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/the_atlant_sound/)
+- [Some References to the Promised Land in the Hebrew Bible (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/pro_land_ref/)
+- [Opening Scenes of Atanarjuat (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/open_sce_of_ata/)
+- [Cherry Apsley-Garrard, "Introduction," The Worst Journey in the World: Selections (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/cher_apsle_intro/)
+- [Worst Journey: Reading for 11/13 (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/cher_apsle_ch_6_7/)
+- [Cherry-Garrard, Chapters 12-17 (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/cher_aps_ch12_19/)
+- [Readings](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/pages/readings/)
+
+### Problem-Set
+- [Writing Workshop Handouts (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/writ_work_hand/)
+- [The Paramedic Method for Revising Prose (adapted from Richard Lanham) (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/the_param_method/)
+- [Writing Introductions (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/revision_hand2/)
+- [Some Guidelines for Revising Your Essays (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/revision_hand1/)
+- [Revision/Comparison Essay (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/revision1/)
+- [Atanarjuat Quiz: Questions (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/quiz_questions/)
+- [Atanarjuat Quiz: Answers (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/quiz_answers/)
+- [Doing Close Reading (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/guide_to_clo_rea/)
+- [General Paper-Writing Guidelines (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/ge_pa_writ_guid/)
+- [Final Essay (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/final_essay/)
+- [Guidelines for Essay 1 (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/essay_guidelines/)
+- [Guidelines for Essay 2 (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/essay2_guideline/)
+- [Lifting Salad Plates: The Work of an 'Imagineer' (.pdf)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/close_analys_sam/)
+- [Quiz](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/pages/quiz/)
+- [Assignments](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/pages/assignments/)
+
+### Resource
+- [The Blue Marble (.jpg)](https://ocw.mit.edu/courses/21l-007-world-literatures-travel-writing-fall-2008/resources/21l-007f08/)
 ## Wikipedia Bridge
 
 ### Related Articles

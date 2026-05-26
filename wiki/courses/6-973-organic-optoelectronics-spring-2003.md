@@ -12,6 +12,9 @@ views: 411
 completeness: 0.09166666666666667
 last_modified: "2026-05-06T14:51:06Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 12, Resource: 14, Syllabus: 2"
+api_id: 3921
 ---
 
 # Organic Optoelectronics
@@ -30,8 +33,39 @@ The course examines optical and electronic processes in organic molecules and po
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/pages/calendar/)
+- **Labs** — [🔗](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/pages/labs/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [L20.pdf (.pdf)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/l20/)
+- [9.pdf (.pdf)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/9/)
+- [8.pdf (.pdf)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/8/)
+- [7.pdf (.pdf)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/7/)
+- [20b.pdf (.pdf)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/20b/)
+- [2.pdf (.pdf)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/2/)
+- [19.pdf (.pdf)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/19/)
+- [17.pdf (.pdf)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/17/)
+- [10.pdf (.pdf)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/10/)
+- [1.pdf (.pdf)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/pages/lecture-notes/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/pages/projects/)
+
+### Resource
+- [solPL.TXT (.TXT)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/solpl/)
+- [solAbs.TXT (.TXT)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/solabs/)
+- [filmPL.TXT (.TXT)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/filmpl/)
+- [filmAbs.TXT (.TXT)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/filmabs/)
+- [CIE.txt (.txt)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/cie/)
+- [6977Lab3Info.pdf (.pdf)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/6977lab3info/)
+- [6973Lab3.pdf (.pdf)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/6973lab3/)
+- [6973Lab2.pdf (.pdf)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/6973lab2/)
+- [6973Lab1.pdf (.pdf)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/6973lab1/)
+- [6-973s03.jpg (.jpg)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/6-973s03/)
+- [6-973s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-973-organic-optoelectronics-spring-2003/resources/6-973s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

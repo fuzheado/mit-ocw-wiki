@@ -12,6 +12,9 @@ views: 160
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:15:43Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 6, Syllabus: 1"
+api_id: 3840
 ---
 
 # International Relations Theory in the Cyber Age
@@ -31,9 +34,22 @@ Students taking the graduate version are expected to pursue the subject in great
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-445-international-relations-theory-in-the-cyber-age-fall-2015/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-445-international-relations-theory-in-the-cyber-age-fall-2015/pages/readings/)
+
+### Problem-Set
+- [The Distribution of Authority in Cyberspace (.pdf)](https://ocw.mit.edu/courses/17-445-international-relations-theory-in-the-cyber-age-fall-2015/resources/mit17_445f15_essay1/)
+- [Assignments](https://ocw.mit.edu/courses/17-445-international-relations-theory-in-the-cyber-age-fall-2015/pages/assignments/)
+
+### Resource
+- [less then ten students enrolled (.8464964311)](https://ocw.mit.edu/courses/17-445-international-relations-theory-in-the-cyber-age-fall-2015/resources/ocwimage-2016-06-08/)
+- [First Meeting Lecture Slides (.pdf)](https://ocw.mit.edu/courses/17-445-international-relations-theory-in-the-cyber-age-fall-2015/resources/mit17_445f15_slides/)
+- [Lord William Hague (.jpg)](https://ocw.mit.edu/courses/17-445-international-relations-theory-in-the-cyber-age-fall-2015/resources/17-445f15/)
+- [Lord William Hague (thumbnail) (.jpg)](https://ocw.mit.edu/courses/17-445-international-relations-theory-in-the-cyber-age-fall-2015/resources/17-445f15-th/)
+- [Instructor Insights](https://ocw.mit.edu/courses/17-445-international-relations-theory-in-the-cyber-age-fall-2015/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

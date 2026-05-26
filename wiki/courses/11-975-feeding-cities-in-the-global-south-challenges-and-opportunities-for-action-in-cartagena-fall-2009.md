@@ -12,6 +12,9 @@ views: 32
 completeness: 0.0
 last_modified: "2026-05-06T16:52:40Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 1"
+api_id: 4100
 ---
 
 # Feeding Cities in the Global South: Challenges and Opportunities for Action in Cartagena
@@ -30,8 +33,20 @@ The purpose of this seminar is to provide a context for understanding the challe
 
 ## Materials
 
-- [Activity Assignments with Examples] Activity Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-975-feeding-cities-in-the-global-south-challenges-and-opportunities-for-action-in-cartagena-fall-2009/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-975-feeding-cities-in-the-global-south-challenges-and-opportunities-for-action-in-cartagena-fall-2009/pages/syllabus/)
 
+### Reading-List
+- [Mercado de Bazurto: ¿Cómo gestionar el cambio? (.pdf)](https://ocw.mit.edu/courses/11-975-feeding-cities-in-the-global-south-challenges-and-opportunities-for-action-in-cartagena-fall-2009/resources/mit11_975f09_final_report/)
+- [Readings](https://ocw.mit.edu/courses/11-975-feeding-cities-in-the-global-south-challenges-and-opportunities-for-action-in-cartagena-fall-2009/pages/readings/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/11-975-feeding-cities-in-the-global-south-challenges-and-opportunities-for-action-in-cartagena-fall-2009/pages/projects/)
+
+### Resource
+- [An aerial view of a marketplace by the water in Colombia (.jpg)](https://ocw.mit.edu/courses/11-975-feeding-cities-in-the-global-south-challenges-and-opportunities-for-action-in-cartagena-fall-2009/resources/11-975f09/)
+- [Session Summaries](https://ocw.mit.edu/courses/11-975-feeding-cities-in-the-global-south-challenges-and-opportunities-for-action-in-cartagena-fall-2009/pages/session-summaries/)
 ## Wikipedia Bridge
 
 ### Related Articles

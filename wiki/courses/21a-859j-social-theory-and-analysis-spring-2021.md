@@ -12,6 +12,9 @@ views: 444
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T15:04:18Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 3, Syllabus: 1, Video-Transcript: 1"
+api_id: 5000
 ---
 
 # Social Theory and Analysis
@@ -30,8 +33,19 @@ This subject presents a survey of social theory from the 17th century to the pre
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus and Calendar** — [🔗](https://ocw.mit.edu/courses/21a-859j-social-theory-and-analysis-spring-2021/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21a-859j-social-theory-and-analysis-spring-2021/pages/readings/)
+- [Additional Readings](https://ocw.mit.edu/courses/21a-859j-social-theory-and-analysis-spring-2021/pages/readings/additional-readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21a-859j-social-theory-and-analysis-spring-2021/pages/assignments/)
+
+### Resource
+- [21A-859Js21.jpg (.jpg)](https://ocw.mit.edu/courses/21a-859j-social-theory-and-analysis-spring-2021/resources/21a-859js21/)
+- [21A-859Js21-th.jpg (.jpg)](https://ocw.mit.edu/courses/21a-859j-social-theory-and-analysis-spring-2021/resources/21a-859js21-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

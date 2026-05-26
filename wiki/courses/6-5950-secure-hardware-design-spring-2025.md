@@ -12,6 +12,9 @@ views: 1426
 completeness: 0.0
 last_modified: "2026-05-06T16:48:59Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 1"
+api_id: 19215
 ---
 
 # Secure Hardware Design
@@ -35,9 +38,8 @@ Do In labs, students have a chance to actually put the concepts from class to wo
 
 ## Materials
 
-- [Design Assignments] Design Assignments
-- [Programming Assignments] Programming Assignments
-
+### Resource
+- [mit6_5950_s25.jpg (.jpg)](https://ocw.mit.edu/courses/6-5950-secure-hardware-design-spring-2025/resources/mit6_5950_s25_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

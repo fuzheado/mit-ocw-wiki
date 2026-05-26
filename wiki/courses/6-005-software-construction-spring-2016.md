@@ -12,6 +12,9 @@ views: 1907
 completeness: 0.22000000000000003
 last_modified: "2026-05-06T17:05:54Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 6, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4334
 ---
 
 # Software Construction
@@ -31,12 +34,24 @@ The 6.005 website homepage from Spring 2016, along with all course materials, is
 
 ## Materials
 
-- [Exam Solutions] Exam Solutions
-- [Exams] Exams
-- [Open Textbooks] Open Textbooks
-- [Problem Sets] Problem Sets
-- [Programming Assignments] Programming Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/pages/readings/)
+
+### Problem-Set
+- [Quiz 2 Solution (.pdf)](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/resources/mit6_005s16_quiz2_soln/)
+- [Quiz 2 (.pdf)](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/resources/mit6_005s16_quiz2/)
+- [Quiz 1 Solutions (.pdf)](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/resources/mit6_005s16_quiz1_soln/)
+- [Quiz 1 (.pdf)](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/resources/mit6_005s16_quiz1/)
+- [Quizzes](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/pages/quizzes/)
+- [Assignments](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/pages/problem-sets/)
+
+### Resource
+- [CHP image (.png)](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/resources/6-005s16/)
+- [thumbnail (.png)](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/resources/6-005s16-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

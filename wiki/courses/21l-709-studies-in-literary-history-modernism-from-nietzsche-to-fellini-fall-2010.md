@@ -12,6 +12,9 @@ views: 256
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T17:24:37Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 3374
 ---
 
 # Studies in Literary History: Modernism: From Nietzsche to Fellini
@@ -30,8 +33,20 @@ How do literature, philosophy, film and other arts respond to the profound chang
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-709-studies-in-literary-history-modernism-from-nietzsche-to-fellini-fall-2010/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-709-studies-in-literary-history-modernism-from-nietzsche-to-fellini-fall-2010/pages/readings/)
+
+### Problem-Set
+- [On growing up (.pdf)](https://ocw.mit.edu/courses/21l-709-studies-in-literary-history-modernism-from-nietzsche-to-fellini-fall-2010/resources/mit21l_709f10_assn03/)
+- [Reading Nietzsche in Swann's Way and To the Lighthouse (.pdf)](https://ocw.mit.edu/courses/21l-709-studies-in-literary-history-modernism-from-nietzsche-to-fellini-fall-2010/resources/mit21l_709f10_assn02/)
+- [Sex and Knowing in the Modern World (.pdf)](https://ocw.mit.edu/courses/21l-709-studies-in-literary-history-modernism-from-nietzsche-to-fellini-fall-2010/resources/mit21l_709f10_assn01/)
+- [Assignments](https://ocw.mit.edu/courses/21l-709-studies-in-literary-history-modernism-from-nietzsche-to-fellini-fall-2010/pages/assignments/)
+
+### Resource
+- [Tale à la Hoffmann (.jpg)](https://ocw.mit.edu/courses/21l-709-studies-in-literary-history-modernism-from-nietzsche-to-fellini-fall-2010/resources/21l-709f10/)
 ## Wikipedia Bridge
 
 ### Related Articles

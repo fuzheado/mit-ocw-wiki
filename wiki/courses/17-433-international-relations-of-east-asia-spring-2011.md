@@ -12,6 +12,9 @@ views: 210
 completeness: 0.06
 last_modified: "2026-05-06T17:24:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5397
 ---
 
 # International Relations of East Asia
@@ -30,8 +33,22 @@ The aim of this course is to introduce and analyze the international relations o
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-433-international-relations-of-east-asia-spring-2011/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-433-international-relations-of-east-asia-spring-2011/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-433-international-relations-of-east-asia-spring-2011/pages/readings/)
+
+### Problem-Set
+- [Précis II Book List (.pdf)](https://ocw.mit.edu/courses/17-433-international-relations-of-east-asia-spring-2011/resources/mit17_433s11_precisii/)
+- [Précis I Book List (.pdf)](https://ocw.mit.edu/courses/17-433-international-relations-of-east-asia-spring-2011/resources/mit17_433s11_precisi/)
+- [Assignments](https://ocw.mit.edu/courses/17-433-international-relations-of-east-asia-spring-2011/pages/assignments/)
+
+### Resource
+- [A scene from the Opening Ceremony of the 2008 Summer Olympics in Beijing, China (.jpg)](https://ocw.mit.edu/courses/17-433-international-relations-of-east-asia-spring-2011/resources/17-433s11/)
+- [Related Resources](https://ocw.mit.edu/courses/17-433-international-relations-of-east-asia-spring-2011/pages/related-resources/)
+- [The Asian Financial Crisis: A View from the IMF](http://www.imf.org/external/np/speeches/1998/012298.htm)
 ## Wikipedia Bridge
 
 ### Related Articles

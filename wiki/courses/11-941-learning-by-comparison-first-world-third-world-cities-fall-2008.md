@@ -12,6 +12,9 @@ views: 79
 completeness: 0.1
 last_modified: "2026-05-06T14:56:19Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 3, Problem-Set: 5, Reading-List: 1, Resource: 3, Syllabus: 2"
+api_id: 5379
 ---
 
 # Learning by Comparison: First World/Third World Cities
@@ -30,9 +33,25 @@ The primary purpose of this seminar is to enable students to craft approaches to
 
 ## Materials
 
-- [Projects with Examples] Projects with Examples
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar and Readings** — [🔗](https://ocw.mit.edu/courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/pages/calendar-and-readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/pages/syllabus/)
 
+### Problem-Set
+- [Assignment #4 (.pdf)](https://ocw.mit.edu/courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/resources/mit11_941f08_assn04/)
+- [Assignment #3 (.pdf)](https://ocw.mit.edu/courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/resources/mit11_941f08_assn03/)
+- [Assignment #2 (.pdf)](https://ocw.mit.edu/courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/resources/mit11_941f08_assn02/)
+- [Assignment #1 (.pdf)](https://ocw.mit.edu/courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/resources/mit11_941f08_assn01/)
+- [Assignments](https://ocw.mit.edu/courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/pages/assignments/)
+
+### Assignment
+- [The Impact of Urban Design Elements on the Successes and Failures of Modern Multi-family Housing: A Comparative Study of Robert Taylor Homes, Chicago, and HanGang Apart Complex, Seoul. (.pdf)](https://ocw.mit.edu/courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/resources/mit11_941f08_proj03_g09_17739urbndsgn_final/)
+- [Humanizing the City: A Comparative Analysis of Festival and the Adaptation of Public Space (.pdf)](https://ocw.mit.edu/courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/resources/mit11_941f08_proj02_final_paper/)
+- [Projects](https://ocw.mit.edu/courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/pages/projects/)
+
+### Resource
+- [Urbanization in Istanbul, Turkey (.jpg)](https://ocw.mit.edu/courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/resources/chp_istanbul/)
+- [A building at a university that has trees planted on the roof (.jpg)](https://ocw.mit.edu/courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/resources/11-941f08/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 241
 completeness: 0.0
 last_modified: "2026-05-06T16:53:22Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 4986
 ---
 
 # Special Topics in Vision Science
@@ -30,8 +33,18 @@ An advanced seminar on issues of current interest in human and machine vision. T
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-357-special-topics-in-vision-science-fall-2001/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-357-special-topics-in-vision-science-fall-2001/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-357-special-topics-in-vision-science-fall-2001/pages/readings/)
+
+### Resource
+- [Illusory Brightness Effects (.jpg)](https://ocw.mit.edu/courses/9-357-special-topics-in-vision-science-fall-2001/resources/9-357f01/)
+- [Illusory Brightness Effects (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-357-special-topics-in-vision-science-fall-2001/resources/9-357f01-th/)
+- [Study Materials](https://ocw.mit.edu/courses/9-357-special-topics-in-vision-science-fall-2001/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/9-357-special-topics-in-vision-science-fall-2001/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 1492
 completeness: 0.4816666666666667
 last_modified: "2026-05-06T15:02:50Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 17, Problem-Set: 10, Resource: 8, Syllabus: 2"
+api_id: 4430
 ---
 
 # Data Mining
@@ -31,10 +34,48 @@ This course will examine methods that have emerged from both fields and proven t
 
 ## Materials
 
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [PClecture.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/pclecture/)
+- [NeuralNet2002.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/neuralnet2002/)
+- [logreg.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/logreg/)
+- [Lecture_16.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/lecture_16/)
+- [lecture9.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/lecture9/)
+- [lecture8.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/lecture8/)
+- [lecture7.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/lecture7/)
+- [lecture4.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/lecture4/)
+- [Lecture2Slides.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/lecture2slides/)
+- [Lecture2notes.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/lecture2notes/)
+- [Lecture1Slides.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/lecture1slides/)
+- [lec11.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/lec11/)
+- [L3ClassTrees.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/l3classtrees/)
+- [knn3.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/knn3/)
+- [handloomsnew.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/handloomsnew/)
+- [comparison.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/comparison/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/pages/lecture-notes/)
+
+### Problem-Set
+- [romyRegressionProb3.xls (.xls)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/romyregressionprob3/)
+- [romyBondRatingProb1.xls (.xls)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/romybondratingprob1/)
+- [romyBiVarNormProb4.xls (.xls)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/romybivarnormprob4/)
+- [midterm2003solutions.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/midterm2003solutions/)
+- [midterm2003.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/midterm2003/)
+- [GermanCredit.xls (.xls)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/germancredit/)
+- [GermanCredit.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/germancredit-1/)
+- [CBC_4000.xls (.xls)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/cbc_4000/)
+- [Exams](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/pages/assignments/)
+
+### Resource
+- [XLMiner_MIT_01Apr.exe (.exe)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/xlminer_mit_01apr/)
+- [recitation1.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/recitation1/)
+- [linalg.pdf (.pdf)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/linalg/)
+- [15-062s03.JPG (.JPG)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/15-062s03/)
+- [15-062s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/resources/15-062s03-th/)
+- [Study Materials](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

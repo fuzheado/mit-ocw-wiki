@@ -12,6 +12,9 @@ views: 1004
 completeness: 0.38666666666666666
 last_modified: "2026-05-06T17:20:21Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 8, Problem-Set: 10, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 5419
 ---
 
 # Advanced Organic Chemistry
@@ -30,10 +33,37 @@ This course deals with the application of structure and theory to the study of o
 
 ## Materials
 
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/pages/syllabus/)
 
+### Lecture-Notes
+- [practiceexam2.pdf (.pdf)](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/resources/practiceexam2/)
+- [practiceexam1.pdf (.pdf)](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/resources/practiceexam1/)
+- [11_handout.pdf (.pdf)](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/resources/11_handout/)
+- [08_part2_outline.pdf (.pdf)](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/resources/08_part2_outline/)
+- [05_part1_outline.pdf (.pdf)](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/resources/05_part1_outline/)
+- [05_handout.pdf (.pdf)](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/resources/05_handout/)
+- [01_handout.pdf (.pdf)](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/resources/01_handout/)
+- [Lecture Notes](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/pages/readings/)
+
+### Problem-Set
+- [ps_4.pdf (.pdf)](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/resources/ps_4/)
+- [ps_3.pdf (.pdf)](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/resources/ps_3/)
+- [ps_2.pdf (.pdf)](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/resources/ps_2/)
+- [ps_1.pdf (.pdf)](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/resources/ps_1/)
+- [ps3q2.pdf (.pdf)](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/resources/ps3q2/)
+- [exam2_07.pdf (.pdf)](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/resources/exam2_07/)
+- [exam1_07.pdf (.pdf)](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/resources/exam1_07/)
+- [e2q5.pdf (.pdf)](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/resources/e2q5/)
+- [Exams](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/pages/assignments/)
+
+### Resource
+- [5-43s07.jpg (.jpg)](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/resources/5-43s07/)
+- [5-43s07-th.jpg (.jpg)](https://ocw.mit.edu/courses/5-43-advanced-organic-chemistry-spring-2007/resources/5-43s07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

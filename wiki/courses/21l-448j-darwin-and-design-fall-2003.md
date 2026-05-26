@@ -12,6 +12,9 @@ views: 144
 completeness: 0.1
 last_modified: "2026-05-06T14:56:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 9, Resource: 4, Syllabus: 2, Video-Transcript: 25"
+api_id: 5047
 ---
 
 # Darwin and Design
@@ -31,8 +34,31 @@ The course of study will not only examine the immediate inspiration for this ide
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2003/pages/syllabus/)
 
+### Reading-List
+- [lecture9.pdf (.pdf)](https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2003/resources/lecture9/)
+- [lecture8.pdf (.pdf)](https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2003/resources/lecture8/)
+- [lecture5.pdf (.pdf)](https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2003/resources/lecture5/)
+- [lecture4.pdf (.pdf)](https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2003/resources/lecture4/)
+- [lecture3.pdf (.pdf)](https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2003/resources/lecture3/)
+- [lecture2.pdf (.pdf)](https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2003/resources/lecture2/)
+- [lecture19.pdf (.pdf)](https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2003/resources/lecture19/)
+- [lecture14.pdf (.pdf)](https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2003/resources/lecture14/)
+- [Readings](https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2003/pages/readings/)
+
+### Problem-Set
+- [readingassign.pdf (.pdf)](https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2003/resources/readingassign/)
+- [paperassgn3.pdf (.pdf)](https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2003/resources/paperassgn3/)
+- [paperassgn2.pdf (.pdf)](https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2003/resources/paperassgn2/)
+- [paperassgn1.pdf (.pdf)](https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2003/resources/paperassgn1/)
+- [Assignments](https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2003/pages/assignments/)
+
+### Resource
+- [21l-448jf03.jpg (.jpg)](https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2003/resources/21l-448jf03/)
+- [21l-448jf03-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-448j-darwin-and-design-fall-2003/resources/21l-448jf03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

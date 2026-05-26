@@ -12,6 +12,9 @@ views: 556
 completeness: 0.21666666666666667
 last_modified: "2026-05-06T14:47:07Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 14, Problem-Set: 5, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5044
 ---
 
 # Combinatorial Optimization
@@ -30,9 +33,39 @@ Combinatorial Optimization provides a thorough treatment of linear programming a
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/pages/syllabus/)
 
+### Lecture-Notes
+- [l9.pdf (.pdf)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/l9/)
+- [l78.pdf (.pdf)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/l78/)
+- [l6.pdf (.pdf)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/l6/)
+- [l5.pdf (.pdf)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/l5/)
+- [l4.pdf (.pdf)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/l4/)
+- [l2122.pdf (.pdf)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/l2122/)
+- [l20.pdf (.pdf)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/l20/)
+- [l18.pdf (.pdf)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/l18/)
+- [l1617.pdf (.pdf)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/l1617/)
+- [l15.pdf (.pdf)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/l15/)
+- [l1314.pdf (.pdf)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/l1314/)
+- [l123.pdf (.pdf)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/l123/)
+- [l12.pdf (.pdf)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/l12/)
+- [Lecture Notes](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/pages/readings/)
+
+### Problem-Set
+- [a4.pdf (.pdf)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/a4/)
+- [a3.pdf (.pdf)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/a3/)
+- [a2.pdf (.pdf)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/a2/)
+- [a1.pdf (.pdf)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/a1/)
+- [Assignments](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/pages/assignments/)
+
+### Resource
+- [18-433f03.jpg (.jpg)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/18-433f03/)
+- [18-433f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/resources/18-433f03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

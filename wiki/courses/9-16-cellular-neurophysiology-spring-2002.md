@@ -12,6 +12,9 @@ views: 287
 completeness: 0.1
 last_modified: "2026-05-06T14:43:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4450
 ---
 
 # Cellular Neurophysiology
@@ -35,8 +38,24 @@ Discussion of the organizational principles for the formation of functional neur
 
 ## Materials
 
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-16-cellular-neurophysiology-spring-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-16-cellular-neurophysiology-spring-2002/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-16-cellular-neurophysiology-spring-2002/pages/readings/)
+
+### Problem-Set
+- [Problem Set #4 (.pdf)](https://ocw.mit.edu/courses/9-16-cellular-neurophysiology-spring-2002/resources/problem_set_4/)
+- [Homework set #3 (.pdf)](https://ocw.mit.edu/courses/9-16-cellular-neurophysiology-spring-2002/resources/problem_set_3/)
+- [Problem Set #2 (.pdf)](https://ocw.mit.edu/courses/9-16-cellular-neurophysiology-spring-2002/resources/problem_set_2/)
+- [Home work set 1 (.pdf)](https://ocw.mit.edu/courses/9-16-cellular-neurophysiology-spring-2002/resources/problem_set_1/)
+- [Assignments](https://ocw.mit.edu/courses/9-16-cellular-neurophysiology-spring-2002/pages/assignments/)
+
+### Resource
+- [Timing and Amplitude of Action Potential vs. Onset of Calcium Current in an Axon (.jpg)](https://ocw.mit.edu/courses/9-16-cellular-neurophysiology-spring-2002/resources/9-16s02/)
+- [Timing and Amplitude of Action Potential vs. Onset of Calcium Current in an Axon (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-16-cellular-neurophysiology-spring-2002/resources/9-16s02-th/)
+- [Study Materials](https://ocw.mit.edu/courses/9-16-cellular-neurophysiology-spring-2002/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

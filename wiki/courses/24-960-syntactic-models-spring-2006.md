@@ -12,6 +12,9 @@ views: 110
 completeness: 0.135
 last_modified: "2026-05-06T17:11:05Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 9, Problem-Set: 3, Reading-List: 1, Resource: 4, Syllabus: 1"
+api_id: 4259
 ---
 
 # Syntactic Models
@@ -30,9 +33,32 @@ This course presents a comparison of different proposed architectures for the sy
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-960-syntactic-models-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [l11_1970s_syntax.pdf (.pdf)](https://ocw.mit.edu/courses/24-960-syntactic-models-spring-2006/resources/l11_1970s_syntax/)
+- [l09_conditions.pdf (.pdf)](https://ocw.mit.edu/courses/24-960-syntactic-models-spring-2006/resources/l09_conditions/)
+- [l08_gs.pdf (.pdf)](https://ocw.mit.edu/courses/24-960-syntactic-models-spring-2006/resources/l08_gs/)
+- [l07_auxiliaries.pdf (.pdf)](https://ocw.mit.edu/courses/24-960-syntactic-models-spring-2006/resources/l07_auxiliaries/)
+- [l06_deriv_repres.pdf (.pdf)](https://ocw.mit.edu/courses/24-960-syntactic-models-spring-2006/resources/l06_deriv_repres/)
+- [l03_lfg.pdf (.pdf)](https://ocw.mit.edu/courses/24-960-syntactic-models-spring-2006/resources/l03_lfg/)
+- [l02_hpsg2.pdf (.pdf)](https://ocw.mit.edu/courses/24-960-syntactic-models-spring-2006/resources/l02_hpsg2/)
+- [l01_hpsg.pdf (.pdf)](https://ocw.mit.edu/courses/24-960-syntactic-models-spring-2006/resources/l01_hpsg/)
+- [Lecture Notes](https://ocw.mit.edu/courses/24-960-syntactic-models-spring-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/24-960-syntactic-models-spring-2006/pages/readings/)
+
+### Problem-Set
+- [homework2.pdf (.pdf)](https://ocw.mit.edu/courses/24-960-syntactic-models-spring-2006/resources/homework2/)
+- [homework1.pdf (.pdf)](https://ocw.mit.edu/courses/24-960-syntactic-models-spring-2006/resources/homework1/)
+- [Assignments](https://ocw.mit.edu/courses/24-960-syntactic-models-spring-2006/pages/assignments/)
+
+### Resource
+- [chp_building.jpg (.jpg)](https://ocw.mit.edu/courses/24-960-syntactic-models-spring-2006/resources/chp_building/)
+- [24-960s06.jpg (.jpg)](https://ocw.mit.edu/courses/24-960-syntactic-models-spring-2006/resources/24-960s06/)
+- [24-960s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/24-960-syntactic-models-spring-2006/resources/24-960s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

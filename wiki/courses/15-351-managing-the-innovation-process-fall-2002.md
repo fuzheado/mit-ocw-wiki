@@ -12,6 +12,9 @@ views: 312
 completeness: 0.30833333333333335
 last_modified: "2026-05-06T17:03:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 13, Problem-Set: 13, Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 3747
 ---
 
 # Managing the Innovation Process
@@ -30,9 +33,51 @@ This course approaches “managing the innovation process” through five levels
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/pages/syllabus/)
 
+### Lecture-Notes
+- [lecture89.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/lecture89/)
+- [lecture67.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/lecture67/)
+- [lecture45.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/lecture45/)
+- [lecture2324.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/lecture2324/)
+- [lecture23.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/lecture23/)
+- [lecture2021.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/lecture2021/)
+- [lecture1819.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/lecture1819/)
+- [lecture1617.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/lecture1617/)
+- [lecture1415.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/lecture1415/)
+- [lecture1213.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/lecture1213/)
+- [lecture1011.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/lecture1011/)
+- [lecture1.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/lecture1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/pages/readings/)
+
+### Problem-Set
+- [assignment89.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/assignment89/)
+- [assignment6_7.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/assignment6_7/)
+- [assignment45.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/assignment45/)
+- [assignment2324.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/assignment2324/)
+- [assignment23.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/assignment23/)
+- [assignment2021.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/assignment2021/)
+- [assignment1819.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/assignment1819/)
+- [assignment1617.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/assignment1617/)
+- [assignment1415.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/assignment1415/)
+- [assignment12_13.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/assignment12_13/)
+- [assignment1011.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/assignment1011/)
+- [assignment1.pdf (.pdf)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/assignment1/)
+- [Assignments](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/pages/projects/)
+
+### Resource
+- [15-351f02.jpg (.jpg)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/15-351f02/)
+- [15-351f02-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/resources/15-351f02-th/)
+- [Study Materials](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/15-351-managing-the-innovation-process-fall-2002/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

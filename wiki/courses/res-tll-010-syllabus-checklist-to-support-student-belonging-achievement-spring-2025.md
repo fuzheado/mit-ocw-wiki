@@ -12,6 +12,9 @@ views: 367
 completeness: 0.0
 last_modified: "2026-05-06T17:12:24Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 1"
+api_id: 16707
 ---
 
 # Syllabus Checklist to Support Student Belonging & Achievement
@@ -31,8 +34,8 @@ The checklist is adapted from a comprehensive and detailed rubric developed by m
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-
+### Resource
+- [mitres_tll_010.jpg (.jpg)](https://ocw.mit.edu/courses/res-tll-010-syllabus-checklist-to-support-student-belonging-achievement-spring-2025/resources/mitres_tll_010_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

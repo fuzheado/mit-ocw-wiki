@@ -12,6 +12,9 @@ views: 348
 completeness: 0.0
 last_modified: "2026-05-06T16:52:17Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4489
 ---
 
 # Algorithms for Computer Animation
@@ -30,8 +33,20 @@ Animation is a compelling and effective form of expression; it engages viewers a
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-838-algorithms-for-computer-animation-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-838-algorithms-for-computer-animation-fall-2002/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/6-838-algorithms-for-computer-animation-fall-2002/pages/readings/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/6-838-algorithms-for-computer-animation-fall-2002/pages/projects/)
+
+### Resource
+- [Computer Animation (.jpg)](https://ocw.mit.edu/courses/6-838-algorithms-for-computer-animation-fall-2002/resources/6-838f02/)
+- [Computer Animation (thumbnail) (.jpg)](https://ocw.mit.edu/courses/6-838-algorithms-for-computer-animation-fall-2002/resources/6-838f02-th/)
+- [Related Resources](https://ocw.mit.edu/courses/6-838-algorithms-for-computer-animation-fall-2002/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

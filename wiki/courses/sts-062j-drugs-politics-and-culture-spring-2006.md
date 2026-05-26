@@ -12,6 +12,9 @@ views: 284
 completeness: 0.47500000000000003
 last_modified: "2026-05-06T17:09:19Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 9, Problem-Set: 15, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5531
 ---
 
 # Drugs, Politics, and Culture
@@ -30,9 +33,44 @@ This class examines the relationship between a number of mind-altering substance
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [war_on_drugs.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/war_on_drugs/)
+- [proza_pil_viagra.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/proza_pil_viagra/)
+- [pharma_lecture.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/pharma_lecture/)
+- [peyote_lecture.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/peyote_lecture/)
+- [lsd_lecture.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/lsd_lecture/)
+- [cocaine_lecture.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/cocaine_lecture/)
+- [alcohol_us.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/alcohol_us/)
+- [alcohol_cultures.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/alcohol_cultures/)
+- [Lecture Notes](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/pages/readings/)
+
+### Problem-Set
+- [truth_dare.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/truth_dare/)
+- [sts062finalpaper.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/sts062finalpaper/)
+- [STS062Essay2.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/sts062essay2/)
+- [speed.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/speed/)
+- [quiz2.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/quiz2/)
+- [quiz1.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/quiz1/)
+- [meth.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/meth/)
+- [exchnge_students.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/exchnge_students/)
+- [emergency.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/emergency/)
+- [drugs.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/drugs/)
+- [cocaine.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/cocaine/)
+- [baseball.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/baseball/)
+- [analucia_berry_sts062J.pdf (.pdf)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/analucia_berry_sts062j/)
+- [Exams](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/pages/assignments/)
+
+### Resource
+- [sts-062js06.jpg (.jpg)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/sts-062js06/)
+- [sts-062js06-th.jpg (.jpg)](https://ocw.mit.edu/courses/sts-062j-drugs-politics-and-culture-spring-2006/resources/sts-062js06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

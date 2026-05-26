@@ -12,6 +12,9 @@ views: 3805
 completeness: 0.2
 last_modified: "2026-05-06T17:07:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 11, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5312
 ---
 
 # Astrophysics I
@@ -30,8 +33,29 @@ This course provides a graduate-level introduction to stellar astrophysics. It c
 
 ## Materials
 
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/8-901-astrophysics-i-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/8-901-astrophysics-i-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/8-901-astrophysics-i-spring-2006/pages/readings/)
+
+### Problem-Set
+- [ps9.pdf (.pdf)](https://ocw.mit.edu/courses/8-901-astrophysics-i-spring-2006/resources/ps9/)
+- [ps8.pdf (.pdf)](https://ocw.mit.edu/courses/8-901-astrophysics-i-spring-2006/resources/ps8/)
+- [ps7.pdf (.pdf)](https://ocw.mit.edu/courses/8-901-astrophysics-i-spring-2006/resources/ps7/)
+- [ps6.pdf (.pdf)](https://ocw.mit.edu/courses/8-901-astrophysics-i-spring-2006/resources/ps6/)
+- [ps5.pdf (.pdf)](https://ocw.mit.edu/courses/8-901-astrophysics-i-spring-2006/resources/ps5/)
+- [ps4.pdf (.pdf)](https://ocw.mit.edu/courses/8-901-astrophysics-i-spring-2006/resources/ps4/)
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/8-901-astrophysics-i-spring-2006/resources/ps3/)
+- [ps2.pdf (.pdf)](https://ocw.mit.edu/courses/8-901-astrophysics-i-spring-2006/resources/ps2/)
+- [ps10.pdf (.pdf)](https://ocw.mit.edu/courses/8-901-astrophysics-i-spring-2006/resources/ps10/)
+- [ps1.pdf (.pdf)](https://ocw.mit.edu/courses/8-901-astrophysics-i-spring-2006/resources/ps1/)
+- [Assignments](https://ocw.mit.edu/courses/8-901-astrophysics-i-spring-2006/pages/assignments/)
+
+### Resource
+- [8-901s06.jpg (.jpg)](https://ocw.mit.edu/courses/8-901-astrophysics-i-spring-2006/resources/8-901s06/)
+- [8-901s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/8-901-astrophysics-i-spring-2006/resources/8-901s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

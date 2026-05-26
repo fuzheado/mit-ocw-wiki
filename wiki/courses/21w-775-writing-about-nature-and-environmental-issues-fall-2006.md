@@ -12,6 +12,9 @@ views: 175
 completeness: 0.0
 last_modified: "2026-05-06T16:49:16Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 6, Syllabus: 1"
+api_id: 5598
 ---
 
 # Writing about Nature and Environmental Issues
@@ -30,8 +33,15 @@ This course focuses on traditional nature writing and the environmentalist essay
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-fall-2006/pages/assignments/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-fall-2006/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-fall-2006/pages/syllabus/)
 
+### Resource
+- [Pond (.jpg)](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-fall-2006/resources/chp_pond/)
+- [Bark (.jpg)](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-fall-2006/resources/21w-775f06/)
+- [Related Resources](https://ocw.mit.edu/courses/21w-775-writing-about-nature-and-environmental-issues-fall-2006/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

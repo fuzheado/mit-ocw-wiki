@@ -12,6 +12,9 @@ views: 248
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T15:02:08Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5358
 ---
 
 # Histories of Information, Communication, and Computing Technologies
@@ -30,8 +33,19 @@ The histories of information, communication, and computing technologies have att
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/sts-460-histories-of-information-communication-and-computing-technologies-spring-2015/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/sts-460-histories-of-information-communication-and-computing-technologies-spring-2015/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/sts-460-histories-of-information-communication-and-computing-technologies-spring-2015/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/sts-460-histories-of-information-communication-and-computing-technologies-spring-2015/pages/assignments/)
+
+### Resource
+- [Operator Switchboard (.jpg)](https://ocw.mit.edu/courses/sts-460-histories-of-information-communication-and-computing-technologies-spring-2015/resources/sts-460s15/)
+- [Operator Switchboard (thumbnail) (.jpg)](https://ocw.mit.edu/courses/sts-460-histories-of-information-communication-and-computing-technologies-spring-2015/resources/sts-460s15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

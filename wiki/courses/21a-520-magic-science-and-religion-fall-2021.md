@@ -12,6 +12,9 @@ views: 530
 completeness: 0.0
 last_modified: "2026-05-06T17:00:28Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 15, Syllabus: 2"
+api_id: 3928
 ---
 
 # Magic, Science, and Religion
@@ -30,8 +33,24 @@ This course explores the origins of magic, science, and religion as forms of bel
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/21a-520-magic-science-and-religion-fall-2021/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-520-magic-science-and-religion-fall-2021/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21a-520-magic-science-and-religion-fall-2021/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-520-magic-science-and-religion-fall-2021/pages/syllabus/)
 
+### Resource
+- [Magic, Science, and Religion, Assignments: Paper 4, Student Example 5 (.pdf)](https://ocw.mit.edu/courses/21a-520-magic-science-and-religion-fall-2021/resources/mit21a_520f21_paper4_example5/)
+- [Magic, Science, and Religion, Assignments: Paper 4, Student Example 4 (.pdf)](https://ocw.mit.edu/courses/21a-520-magic-science-and-religion-fall-2021/resources/mit21a_520f21_paper4_example4/)
+- [Magic, Science, and Religion, Assignments: Paper 4, Student Example 3 (.pdf)](https://ocw.mit.edu/courses/21a-520-magic-science-and-religion-fall-2021/resources/mit21a_520f21_paper4_example3/)
+- [Magic, Science, and Religion, Assignments: Paper 4, Student Example 2 (.pdf)](https://ocw.mit.edu/courses/21a-520-magic-science-and-religion-fall-2021/resources/mit21a_520f21_paper4_example2/)
+- [Magic, Science, and Religion, Assignments: Paper 4, Student Example 1 (.pdf)](https://ocw.mit.edu/courses/21a-520-magic-science-and-religion-fall-2021/resources/mit21a_520f21_paper4_example1/)
+- [Magic, Science, and Religion, Assignments: Paper 3, Student Example 1 (.pdf)](https://ocw.mit.edu/courses/21a-520-magic-science-and-religion-fall-2021/resources/mit21a_520f21_paper3_example1/)
+- [Magic, Science, and Religion, Assignments: Paper 2, Student Example 1 (.pdf)](https://ocw.mit.edu/courses/21a-520-magic-science-and-religion-fall-2021/resources/mit21a_520f21_paper2_example1/)
+- [Magic, Science, and Religion, Assignments: Final Paper, Student Example 2 (.pdf)](https://ocw.mit.edu/courses/21a-520-magic-science-and-religion-fall-2021/resources/mit21a_520f21_finalpaper_ex2/)
+- [Magic, Science, and Religion, Assignments: Final Paper, Student Example: The Crypto Pill (.pdf)](https://ocw.mit.edu/courses/21a-520-magic-science-and-religion-fall-2021/resources/mit21a_520f21_finalpaper_ex1/)
+- [21A-520f21.jpg (.jpg)](https://ocw.mit.edu/courses/21a-520-magic-science-and-religion-fall-2021/resources/21a-520f21/)
+- [21A-520f21-th.jpg (.jpg)](https://ocw.mit.edu/courses/21a-520-magic-science-and-religion-fall-2021/resources/21a-520f21-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

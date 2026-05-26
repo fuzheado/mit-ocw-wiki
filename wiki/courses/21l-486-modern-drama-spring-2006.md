@@ -12,6 +12,9 @@ views: 177
 completeness: 0.1
 last_modified: "2026-05-06T17:00:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 2, Resource: 12, Syllabus: 1"
+api_id: 5160
 ---
 
 # Modern Drama
@@ -30,8 +33,32 @@ This course analyzes major modern plays featuring works by Shaw, Pirandello, Bec
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [charlesfamily.pdf (.pdf)](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/resources/charlesfamily/)
+- [Readings](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/pages/readings/)
+
+### Problem-Set
+- [woman.pdf (.pdf)](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/resources/woman/)
+- [jessica_lam.pdf (.pdf)](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/resources/jessica_lam/)
+- [david_roe.pdf (.pdf)](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/resources/david_roe/)
+- [anonymous_paper.pdf (.pdf)](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/resources/anonymous_paper/)
+- [Assignments](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/pages/assignments/)
+
+### Resource
+- [twighlight.pdf (.pdf)](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/resources/twighlight/)
+- [stylesheet.pdf (.pdf)](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/resources/stylesheet/)
+- [streetcar.pdf (.pdf)](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/resources/streetcar/)
+- [piano_lesson.pdf (.pdf)](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/resources/piano_lesson/)
+- [kongi.pdf (.pdf)](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/resources/kongi/)
+- [henry_iv.pdf (.pdf)](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/resources/henry_iv/)
+- [copenhagen.pdf (.pdf)](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/resources/copenhagen/)
+- [chp_williams.jpg (.jpg)](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/resources/chp_williams/)
+- [21l-486s06.jpg (.jpg)](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/resources/21l-486s06/)
+- [21l-486s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/resources/21l-486s06-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21l-486-modern-drama-spring-2006/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

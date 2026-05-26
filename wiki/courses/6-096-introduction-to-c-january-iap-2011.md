@@ -12,6 +12,8 @@ views: 2752
 completeness: 0.19166666666666668
 last_modified: "2026-05-06T14:49:54Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Syllabus: 1"
 ---
 
 # Introduction to C++
@@ -31,9 +33,14 @@ This course is offered during the Independent Activities Period (IAP), which is 
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Programming Assignments with Examples] Programming Assignments with Examples
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/pages/lecture-notes/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/pages/assignments/)
 ## Wikipedia Bridge
 
 ### Related Articles

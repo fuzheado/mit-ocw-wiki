@@ -12,6 +12,9 @@ views: 1695
 completeness: 0.4
 last_modified: "2026-05-06T14:47:54Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 32, Problem-Set: 4, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 5234
 ---
 
 # Fundamentals of Photonics: Quantum Electronics
@@ -30,8 +33,55 @@ This course explores the fundamentals of optical and optoelectronic phenomena an
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [wv_prop_anis_med.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/wv_prop_anis_med/)
+- [wavegude_int_opt.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/wavegude_int_opt/)
+- [wave_mechanics.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/wave_mechanics/)
+- [schroedinger_equ.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/schroedinger_equ/)
+- [ray_optical_sys.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/ray_optical_sys/)
+- [rate_equation.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/rate_equation/)
+- [quan_nature_ligt.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/quan_nature_ligt/)
+- [q_swtch_mode_loc.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/q_swtch_mode_loc/)
+- [parax_wav_eq_gau.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/parax_wav_eq_gau/)
+- [optical_fibres.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/optical_fibres/)
+- [mirror_inter_thn.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/mirror_inter_thn/)
+- [maxwell_eq_iso.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/maxwell_eq_iso/)
+- [laser.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/laser/)
+- [intro.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/intro/)
+- [inter_lig_matter.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/inter_lig_matter/)
+- [hydrogen_atom.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/hydrogen_atom/)
+- [homo_nonhomo_br.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/homo_nonhomo_br/)
+- [harmonic_oscil.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/harmonic_oscil/)
+- [gaussian_bem_res.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/gaussian_bem_res/)
+- [electr_wav_inter.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/electr_wav_inter/)
+- [dirac_frmal_hilb.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/dirac_frmal_hilb/)
+- [dens_enrgy_relax.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/dens_enrgy_relax/)
+- [coherant_states.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/coherant_states/)
+- [classnotes.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/classnotes/)
+- [chapter7.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/chapter7/)
+- [chapter6.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/chapter6/)
+- [chapter5.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/chapter5/)
+- [chapter4.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/chapter4/)
+- [chapter3.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/chapter3/)
+- [chapter2.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/chapter2/)
+- [chapter1.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/chapter1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/pages/readings/)
+
+### Problem-Set
+- [quiz2.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/quiz2/)
+- [quiz1.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/quiz1/)
+- [final_exam.pdf (.pdf)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/final_exam/)
+- [Exams](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/pages/exams/)
+
+### Resource
+- [6-974s06.jpg (.jpg)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/6-974s06/)
+- [6-974s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/resources/6-974s06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

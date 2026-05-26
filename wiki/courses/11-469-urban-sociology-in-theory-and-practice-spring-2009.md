@@ -12,6 +12,9 @@ views: 190
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:59:25Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 4814
 ---
 
 # Urban Sociology in Theory and Practice
@@ -30,9 +33,17 @@ This course is intended to introduce graduate students to a set of core writings
 
 ## Materials
 
-- [Problem Sets] Problem Sets
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2009/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2009/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2009/pages/assignments/)
+
+### Resource
+- [Photograph of homeless people (.jpg)](https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2009/resources/11-469s09/)
 ## Wikipedia Bridge
 
 ### Related Articles

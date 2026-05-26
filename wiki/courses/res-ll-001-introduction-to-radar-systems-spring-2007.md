@@ -12,6 +12,9 @@ views: 650
 completeness: 0.0
 last_modified: "2026-05-06T17:19:14Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2, Video-Transcript: 26"
+api_id: 4687
 ---
 
 # Introduction to Radar Systems
@@ -31,8 +34,13 @@ Online Publication
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Part 1 (25 minutes)** — [🎬 1](https://youtu.be/85AvztY3Qco) · [🎬 1](https://youtu.be/a53Cg3KUTt4) · [🎬 1](https://youtu.be/hwX5oc9yv4M)
+- **Part 2 (27 minutes)** — [🎬 2](https://youtu.be/R70ysC8nWoI) · [🎬 2](https://youtu.be/P__YYv6J0qI)
 
+### Resource
+- [res-ll-001s07.gif (.gif)](https://ocw.mit.edu/courses/res-ll-001-introduction-to-radar-systems-spring-2007/resources/res-ll-001s07/)
+- [res-ll-001s07-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-ll-001-introduction-to-radar-systems-spring-2007/resources/res-ll-001s07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

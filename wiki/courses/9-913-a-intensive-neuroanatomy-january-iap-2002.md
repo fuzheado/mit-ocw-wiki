@@ -12,6 +12,8 @@ views: 228
 completeness: 0.2
 last_modified: "2026-05-06T17:15:34Z"
 type: course
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Resource: 2, Syllabus: 2, Video-Transcript: 1"
 ---
 
 # Intensive Neuroanatomy
@@ -30,8 +32,16 @@ The course will start with an overview of the central and peripheral nervous sys
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/9-913-a-intensive-neuroanatomy-january-iap-2002/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/9-913-a-intensive-neuroanatomy-january-iap-2002/pages/calendar/)
 
+### Problem-Set
+- [Exams](https://ocw.mit.edu/courses/9-913-a-intensive-neuroanatomy-january-iap-2002/pages/exams/)
+
+### Resource
+- [Study Materials](https://ocw.mit.edu/courses/9-913-a-intensive-neuroanatomy-january-iap-2002/pages/study-materials/)
+- [Related Resources](https://ocw.mit.edu/courses/9-913-a-intensive-neuroanatomy-january-iap-2002/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

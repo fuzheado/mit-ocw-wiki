@@ -12,6 +12,9 @@ views: 2652
 completeness: 0.10666666666666667
 last_modified: "2026-05-06T14:51:07Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 8, Problem-Set: 1, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 5276
 ---
 
 # Logistics and Supply Chain Management
@@ -30,9 +33,30 @@ This course surveys operations research models and techniques developed for a va
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/pages/syllabus/)
 
+### Lecture-Notes
+- [Analysis of Inventory Models with Limited Demand Information (.pdf)](https://ocw.mit.edu/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/resources/mitesd_273jf09_lec07/)
+- [Newsboy Model with Pricing (.pdf)](https://ocw.mit.edu/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/resources/mitesd_273jf09_lec06/)
+- [Introduction to Stochastic Inventory Models and Supply Contracts (.pdf)](https://ocw.mit.edu/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/resources/mitesd_273jf09_lec05/)
+- [Dynamic Economic Lot Sizing Model (.pdf)](https://ocw.mit.edu/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/resources/mitesd_273jf09_lec04/)
+- [Issues in Supply Chain Strategy (.pdf)](https://ocw.mit.edu/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/resources/mitesd_273jf09_lec03/)
+- [Inventory and EOQ Models (.pdf)](https://ocw.mit.edu/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/resources/mitesd_273jf09_lec02/)
+- [Introduction to Supply Chain Management (.pdf)](https://ocw.mit.edu/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/resources/mitesd_273jf09_lec01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/pages/assignments/)
+
+### Assignment
+- [Power-of-Two (.pdf)](https://ocw.mit.edu/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/resources/mitesd_273jf09_project/)
+
+### Resource
+- [Relationship between the components of the supply chain (.jpg)](https://ocw.mit.edu/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/resources/esd-273jf09/)
 ## Wikipedia Bridge
 
 ### Related Articles

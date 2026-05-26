@@ -12,6 +12,9 @@ views: 448
 completeness: 0.0
 last_modified: "2026-05-06T17:15:09Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 5418
 ---
 
 # Anthropological Theory
@@ -30,8 +33,18 @@ This course introduces students to some of the major social theories and debates
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21a-110-anthropological-theory-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21a-110-anthropological-theory-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21a-110-anthropological-theory-spring-2003/pages/readings/)
+
+### Resource
+- [Seminar In Anthropological Theory And Method (.pdf)](https://ocw.mit.edu/courses/21a-110-anthropological-theory-spring-2003/resources/anthropology21a110syl/)
+- [Captain James Cook at Kealakekua Bay (.jpg)](https://ocw.mit.edu/courses/21a-110-anthropological-theory-spring-2003/resources/21a-110s03/)
+- [Captain James Cook at Kealakekua Bay (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21a-110-anthropological-theory-spring-2003/resources/21a-110s03-th/)
+- [Study Materials](https://ocw.mit.edu/courses/21a-110-anthropological-theory-spring-2003/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

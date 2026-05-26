@@ -12,6 +12,9 @@ views: 1077
 completeness: 0.07
 last_modified: "2026-05-06T15:01:29Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 6, Problem-Set: 1, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 5601
 ---
 
 # Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders
@@ -30,8 +33,25 @@ An opportunity for graduate study of advanced subjects in Brain and Cognitive Sc
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008/pages/syllabus/)
 
+### Lecture-Notes
+- [The Dopamine Pathway in Psychiatric Disorders (.pdf)](https://ocw.mit.edu/courses/9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008/resources/mit9_914f08_lec05/)
+- [Literature Discussion: Neurogenesis and Depression (Part 2) (.pdf)](https://ocw.mit.edu/courses/9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008/resources/mit9_914f08_lec04/)
+- [Literature Discussion: Neurogenesis and Depression (Part 1) (.pdf)](https://ocw.mit.edu/courses/9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008/resources/mit9_914f08_lec03/)
+- [DISC1 (.pdf)](https://ocw.mit.edu/courses/9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008/resources/mit9_914f08_lec02/)
+- [General Introduction (.pdf)](https://ocw.mit.edu/courses/9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008/resources/mit9_914f08_lec01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008/pages/assignments/)
+
+### Resource
+- [Image of a woman suffering from bipolar disease (.jpg)](https://ocw.mit.edu/courses/9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008/resources/9-914f08/)
 ## Wikipedia Bridge
 
 ### Related Articles

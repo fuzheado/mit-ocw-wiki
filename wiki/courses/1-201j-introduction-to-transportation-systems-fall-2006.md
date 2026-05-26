@@ -12,6 +12,9 @@ views: 279
 completeness: 0.5583333333333333
 last_modified: "2026-05-06T17:05:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 19, Problem-Set: 14, Reading-List: 1, Resource: 4, Syllabus: 2, Video-Transcript: 1"
+api_id: 4503
 ---
 
 # Introduction to Transportation Systems
@@ -31,9 +34,53 @@ The subject focuses on fundamental principles of transportation systems, introdu
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [lect9.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/lect9/)
+- [lect7_8.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/lect7_8/)
+- [lect5_6.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/lect5_6/)
+- [lect4.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/lect4/)
+- [lect3.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/lect3/)
+- [lect26.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/lect26/)
+- [lect24.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/lect24/)
+- [lect22.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/lect22/)
+- [lect21.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/lect21/)
+- [lect20.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/lect20/)
+- [lect2.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/lect2/)
+- [lect19.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/lect19/)
+- [lect15_18.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/lect15_18/)
+- [lect13_14.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/lect13_14/)
+- [lect12.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/lect12/)
+- [lect11.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/lect11/)
+- [lect10.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/lect10/)
+- [lect1.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/lect1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/pages/readings/)
+
+### Problem-Set
+- [final_solutions.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/final_solutions/)
+- [final.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/final/)
+- [assn6b.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/assn6b/)
+- [assn6a.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/assn6a/)
+- [assn5.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/assn5/)
+- [assn4.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/assn4/)
+- [assn3.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/assn3/)
+- [assn2b.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/assn2b/)
+- [assn2a.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/assn2a/)
+- [assn1_past.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/assn1_past/)
+- [assn1_current.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/assn1_current/)
+- [assn1.pdf (.pdf)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/assn1/)
+- [Exams](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/pages/assignments/)
+
+### Resource
+- [1-201jf06.jpg (.jpg)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/1-201jf06/)
+- [1-201jf06-th.jpg (.jpg)](https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/resources/1-201jf06-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

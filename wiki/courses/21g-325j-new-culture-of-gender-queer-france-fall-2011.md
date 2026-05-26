@@ -12,6 +12,9 @@ views: 217
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:18:15Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 8, Resource: 3, Syllabus: 1, Video-Transcript: 1"
+api_id: 4607
 ---
 
 # New Culture of Gender: Queer France
@@ -30,8 +33,24 @@ This course addresses the place of contemporary queer identities in French disco
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/pages/syllabus/)
 
+### Reading-List
+- [Une saison en enfer (.pdf)](https://ocw.mit.edu/courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/resources/mit21g_325jf11_rimbaud/)
+- [Sodome et Gomorrhe, vol. 1 (.pdf)](https://ocw.mit.edu/courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/resources/mit21g_325jf11_proust/)
+- [De l’amitié (.pdf)](https://ocw.mit.edu/courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/resources/mit21g_325jf11_montaigne/)
+- [Discours à un groupe d’officiers SS (.pdf)](https://ocw.mit.edu/courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/resources/mit21g_325jf11_himmler/)
+- [La religieuse  (.pdf)](https://ocw.mit.edu/courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/resources/mit21g_325jf11_diderot/)
+- [La cousine Bethe (.pdf)](https://ocw.mit.edu/courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/resources/mit21g_325jf11_balzac/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/pages/assignments/)
+
+### Resource
+- [21g-325jf11.jpg (.jpg)](https://ocw.mit.edu/courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/resources/21g-325jf11/)
+- [21g-325jf11-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/resources/21g-325jf11-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

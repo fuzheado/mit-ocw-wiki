@@ -12,6 +12,9 @@ views: 371
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:20:40Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2, Video-Transcript: 5"
+api_id: 4918
 ---
 
 # Philosophy of Love in the Western World
@@ -30,8 +33,19 @@ This course is a seminar on the nature of love and sex, approached as topics bot
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/24-261-philosophy-of-love-in-the-western-world-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/24-261-philosophy-of-love-in-the-western-world-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/24-261-philosophy-of-love-in-the-western-world-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/24-261-philosophy-of-love-in-the-western-world-fall-2004/pages/assignments/)
+
+### Resource
+- [A Soul Kiss (.jpg)](https://ocw.mit.edu/courses/24-261-philosophy-of-love-in-the-western-world-fall-2004/resources/24-261f04/)
+- [A Soul Kiss (thumbnail) (.jpg)](https://ocw.mit.edu/courses/24-261-philosophy-of-love-in-the-western-world-fall-2004/resources/24-261f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

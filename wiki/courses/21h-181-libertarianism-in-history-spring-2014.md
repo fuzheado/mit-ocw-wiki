@@ -12,6 +12,9 @@ views: 196
 completeness: 0.16000000000000003
 last_modified: "2026-05-06T16:52:44Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 8, Reading-List: 2, Resource: 5, Syllabus: 2, Video-Transcript: 3"
+api_id: 5015
 ---
 
 # Libertarianism in History
@@ -30,9 +33,25 @@ This course explores the history of the ideal of personal freedom with an eye to
 
 ## Materials
 
-- [Problem Sets] Problem Sets
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/pages/syllabus/)
 
+### Problem-Set
+- [21H.181S14 Libertarianism in History - Response 3 (.pdf)](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/resources/mit21h_181s14_response3/)
+- [21H.181S14 Libertarianism in History - Response 2 (.pdf)](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/resources/mit21h_181s14_response2/)
+- [21H.181S14 Libertarianism in History - Response 1 (.pdf)](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/resources/mit21h_181s14_response1/)
+- [21H.181S14 Libertarianism in History - Paper 2 (.pdf)](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/resources/mit21h_181s14_paper2/)
+- [21H.181S14 Libertarianism in History - Paper 1 (.pdf)](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/resources/mit21h_181s14_paper1/)
+- [21H.181S14 Libertarianism in History - Debate 2 (.pdf)](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/resources/mit21h_181s14_debate2/)
+- [21H.181S14 Libertarianism in History - Debate 1 (.pdf)](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/resources/mit21h_181s14_debate1/)
+- [Assignments](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/pages/assignments/)
+
+### Resource
+- [21h-181s14.jpg (.jpg)](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/resources/21h-181s14/)
+- [21h-181s14-th.jpg (.jpg)](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/resources/21h-181s14-th/)
+- [Libertarian Websites](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/pages/libertarian-websites/)
 ## Wikipedia Bridge
 
 ### Related Articles

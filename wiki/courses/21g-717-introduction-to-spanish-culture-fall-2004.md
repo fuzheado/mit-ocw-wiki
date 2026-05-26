@@ -12,6 +12,9 @@ views: 171
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:09:22Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3681
 ---
 
 # Introduction to Spanish Culture
@@ -30,8 +33,19 @@ This course has several purposes. The major concern will be the examination of S
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-717-introduction-to-spanish-culture-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-717-introduction-to-spanish-culture-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-717-introduction-to-spanish-culture-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21g-717-introduction-to-spanish-culture-fall-2004/pages/assignments/)
+
+### Resource
+- [View of Toledo (.jpg)](https://ocw.mit.edu/courses/21g-717-introduction-to-spanish-culture-fall-2004/resources/21g-717f04/)
+- [View of Toledo (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21g-717-introduction-to-spanish-culture-fall-2004/resources/21g-717f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

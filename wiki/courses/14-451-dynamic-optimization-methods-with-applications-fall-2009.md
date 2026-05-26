@@ -12,6 +12,9 @@ views: 483
 completeness: 0.3916666666666667
 last_modified: "2026-05-06T14:51:58Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 11, Problem-Set: 8, Reading-List: 1, Resource: 3, Syllabus: 1"
+api_id: 3455
 ---
 
 # Dynamic Optimization Methods with Applications
@@ -30,10 +33,37 @@ This course focuses on dynamic optimization methods, both in discrete and in con
 
 ## Materials
 
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Problem Set 3** — [🔗](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/resources/mit14_451f09_pset3/) · [🔗](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/pages/assignments)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes 10 (.pdf)](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/resources/mit14_451f09_lec10/)
+- [Lecture Notes 9 (.pdf)](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/resources/mit14_451f09_lec09/)
+- [Lecture Notes 8 (.pdf)](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/resources/mit14_451f09_lec08/)
+- [Lecture Notes 7 (.pdf)](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/resources/mit14_451f09_lec07/)
+- [Lecture Notes 6 (.pdf)](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/resources/mit14_451f09_lec06/)
+- [Lecture Notes 5 (.pdf)](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/resources/mit14_451f09_lec05/)
+- [Lecture Notes 4 (.pdf)](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/resources/mit14_451f09_lec04/)
+- [Lecture Notes 3 (.pdf)](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/resources/mit14_451f09_lec03/)
+- [Lecture Notes 2 (.pdf)](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/resources/mit14_451f09_lec02/)
+- [Lecture Notes 1 (.pdf)](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/resources/mit14_451f09_lec01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/pages/readings/)
+
+### Problem-Set
+- [Problem Set 4 (.pdf)](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/resources/mit14_451f09_pset4/)
+- [Problem Set 2 (.pdf)](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/resources/mit14_451f09_pset2/)
+- [Problem Set 1 (.pdf)](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/resources/mit14_451f09_pset1/)
+- [Exam (.pdf)](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/resources/mit14_451f09_exam2009/)
+- [Exams](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/pages/assignments/)
+
+### Resource
+- [Thumbnail (.jpg)](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/resources/14-451s07-th/)
+- [Photograph of a hand holding an Apple iPhone displaying a screen of icons for various apps (.jpg)](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/resources/14-451f09/)
 ## Wikipedia Bridge
 
 ### Related Articles

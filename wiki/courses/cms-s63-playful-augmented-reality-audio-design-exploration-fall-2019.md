@@ -12,6 +12,9 @@ views: 115
 completeness: 0.06
 last_modified: "2026-05-06T16:51:50Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 4, Syllabus: 2, Video-Transcript: 14"
+api_id: 4049
 ---
 
 # Playful Augmented Reality Audio Design Exploration
@@ -30,10 +33,21 @@ Students explore augmented reality audio through the design and evaluation of pr
 
 ## Materials
 
-- [Demonstration Videos] Demonstration Videos
-- [Design Assignments] Design Assignments
-- [Lecture Videos] Lecture Videos
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/pages/readings/)
+
+### Problem-Set
+- [MITCMS_S63F19_design.docx (.docx)](https://ocw.mit.edu/courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/resources/mitcms_s63f19_design/)
+- [CMS.S63 Playful Augmented Reality Audio Design Exploration, Design Document (.pdf)](https://ocw.mit.edu/courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/resources/mitcms_s63f19_design-1/)
+- [Assignments](https://ocw.mit.edu/courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/pages/assignments/)
+
+### Resource
+- [cms-s63f19.jpg (.jpg)](https://ocw.mit.edu/courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/resources/cms-s63f19/)
+- [cms-s63f19-th.jpg (.jpg)](https://ocw.mit.edu/courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/resources/cms-s63f19-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 91
 completeness: 0.4
 last_modified: "2026-05-06T17:05:35Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2, Video-Transcript: 99"
+api_id: 3506
 ---
 
 # Physics of COVID-19 Transmission
@@ -30,8 +33,9 @@ This resource is a collection of videos taught using a LightBoard, a specialized
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
-
+### Resource
+- [res-10-s95f20.jpg (.jpg)](https://ocw.mit.edu/courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/resources/res-10-s95f20/)
+- [res-10-s95f20-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/resources/res-10-s95f20-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

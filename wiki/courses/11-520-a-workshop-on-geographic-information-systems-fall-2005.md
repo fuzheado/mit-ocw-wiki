@@ -12,6 +12,9 @@ views: 955
 completeness: 0.45666666666666667
 last_modified: "2026-05-06T17:19:27Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 15, Problem-Set: 17, Reading-List: 1, Resource: 21, Syllabus: 2"
+api_id: 5790
 ---
 
 # A Workshop on Geographic Information Systems
@@ -33,10 +36,71 @@ ArcGIS/ArcMap/ArcInfo Graphical User Interface is the intellectual property of E
 
 ## Materials
 
-- [Exams] Exams
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/pages/calendar/)
+- **Labs** — [🔗](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/pages/labs/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/pages/syllabus/)
 
+### Lecture-Notes
+- [lect_9.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lect_9/)
+- [lect_8.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lect_8/)
+- [lect_7.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lect_7/)
+- [lect_6.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lect_6/)
+- [lect_5.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lect_5/)
+- [lect_4.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lect_4/)
+- [lect_3.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lect_3/)
+- [lect_2.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lect_2/)
+- [lect_15.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lect_15/)
+- [lect_13.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lect_13/)
+- [lect_11.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lect_11/)
+- [lect_10.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lect_10/)
+- [lect_1.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lect_1/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/pages/readings/)
+
+### Problem-Set
+- [exam_smpsolqii4b.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/exam_smpsolqii4b/)
+- [exam_smpsolqii2a.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/exam_smpsolqii2a/)
+- [exam_smpl_anssht.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/exam_smpl_anssht/)
+- [exam_sampsolqii1.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/exam_sampsolqii1/)
+- [exam_sample_sol.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/exam_sample_sol/)
+- [exam_sample.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/exam_sample/)
+- [exam05_sol.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/exam05_sol/)
+- [exam05_anssheet.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/exam05_anssheet/)
+- [exam05.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/exam05/)
+- [assn3.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/assn3/)
+- [assn2.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/assn2/)
+- [assn1_techdoc.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/assn1_techdoc/)
+- [assn1_eval.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/assn1_eval/)
+- [assn1_census.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/assn1_census/)
+- [assn1.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/assn1/)
+- [Exams](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/pages/projects/)
+
+### Resource
+- [lab8.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lab8/)
+- [lab7a.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lab7a/)
+- [lab7_assn.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lab7_assn/)
+- [lab7.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lab7/)
+- [lab6a.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lab6a/)
+- [lab6_assn.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lab6_assn/)
+- [lab6.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lab6/)
+- [lab5a.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lab5a/)
+- [lab5_vlocator.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lab5_vlocator/)
+- [lab5.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lab5/)
+- [lab4.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lab4/)
+- [lab3_assn.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lab3_assn/)
+- [lab3.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lab3/)
+- [lab2.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lab2/)
+- [lab1_n_2_commnts.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lab1_n_2_commnts/)
+- [lab1.pdf (.pdf)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/lab1/)
+- [11-520f05.jpg (.jpg)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/11-520f05/)
+- [11-520f05-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/resources/11-520f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

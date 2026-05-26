@@ -12,6 +12,9 @@ views: 812
 completeness: 0.0
 last_modified: "2026-05-06T15:02:18Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 4266
 ---
 
 # MIT Sloan Teaching Resources Library
@@ -32,8 +35,9 @@ Online Publication
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [res-15-001f08.jpg (.jpg)](https://ocw.mit.edu/courses/res-15-001-mit-sloan-learningedge-fall-2008/resources/res-15-001f08/)
+- [res-15-001f08-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-15-001-mit-sloan-learningedge-fall-2008/resources/res-15-001f08-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

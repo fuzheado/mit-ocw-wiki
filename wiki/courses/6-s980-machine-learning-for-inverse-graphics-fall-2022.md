@@ -12,6 +12,9 @@ views: 1145
 completeness: 0.0
 last_modified: "2026-05-06T14:35:36Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 4588
 ---
 
 # Machine Learning for Inverse Graphics
@@ -30,10 +33,9 @@ This course covers fundamental and advanced techniques in this field at the inte
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Lecture Videos] Lecture Videos
-- [Programming Assignments] Programming Assignments
-
+### Resource
+- [6-s980f22.png (.png)](https://ocw.mit.edu/courses/6-s980-machine-learning-for-inverse-graphics-fall-2022/resources/6-s980f22_png/)
+- [6-s980f22-th.png (.png)](https://ocw.mit.edu/courses/6-s980-machine-learning-for-inverse-graphics-fall-2022/resources/6-s980f22-th_png/)
 ## Wikipedia Bridge
 
 ### Related Articles

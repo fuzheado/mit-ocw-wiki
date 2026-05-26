@@ -12,6 +12,9 @@ views: 171
 completeness: 0.04000000000000001
 last_modified: "2026-05-06T17:05:23Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 2, Reading-List: 1, Resource: 3, Syllabus: 2"
+api_id: 3411
 ---
 
 # Empire: Introduction to Ancient and Medieval Studies
@@ -30,8 +33,19 @@ This course is an investigation of the Roman empire of Augustus, the Frankish em
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-007j-empire-introduction-to-ancient-and-medieval-studies-fall-2012/pages/calendar/)
+- **Paper 3** — [🔗](https://ocw.mit.edu/courses/21h-007j-empire-introduction-to-ancient-and-medieval-studies-fall-2012/pages/assignments/paper-3/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-007j-empire-introduction-to-ancient-and-medieval-studies-fall-2012/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-007j-empire-introduction-to-ancient-and-medieval-studies-fall-2012/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-007j-empire-introduction-to-ancient-and-medieval-studies-fall-2012/pages/assignments/)
+
+### Resource
+- [A tapestry depicting Charlemagne and his son (.jpg)](https://ocw.mit.edu/courses/21h-007j-empire-introduction-to-ancient-and-medieval-studies-fall-2012/resources/21h-007f12/)
 ## Wikipedia Bridge
 
 ### Related Articles

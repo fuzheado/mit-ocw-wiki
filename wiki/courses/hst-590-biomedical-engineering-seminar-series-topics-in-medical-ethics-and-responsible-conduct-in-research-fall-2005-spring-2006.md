@@ -12,6 +12,8 @@ views: 175
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:48:10Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Syllabus: 2"
 ---
 
 # Biomedical Engineering Seminar Series: Topics in Medical Ethics and Responsible Conduct in Research
@@ -30,8 +32,15 @@ This seminar based course explores techniques for recognizing, analyzing, and re
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/hst-590-biomedical-engineering-seminar-series-topics-in-medical-ethics-and-responsible-conduct-in-research-fall-2005-spring-2006/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/hst-590-biomedical-engineering-seminar-series-topics-in-medical-ethics-and-responsible-conduct-in-research-fall-2005-spring-2006/pages/calendar/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/hst-590-biomedical-engineering-seminar-series-topics-in-medical-ethics-and-responsible-conduct-in-research-fall-2005-spring-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/hst-590-biomedical-engineering-seminar-series-topics-in-medical-ethics-and-responsible-conduct-in-research-fall-2005-spring-2006/pages/assignments/)
 ## Wikipedia Bridge
 
 ### Related Articles

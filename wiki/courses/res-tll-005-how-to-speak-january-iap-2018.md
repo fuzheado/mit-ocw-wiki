@@ -12,6 +12,8 @@ views: 44468
 completeness: 0.016666666666666666
 last_modified: "2026-05-06T14:51:04Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2, Video-Transcript: 6"
 ---
 
 # How to Speak
@@ -32,8 +34,11 @@ A professor at MIT for almost 50 years, Patrick Winston was director of MIT’s 
 
 ## Materials
 
-- [Lecture Videos] Lecture Videos
+### Lectures
+- **How to Speak** — [⬇](https://archive.org/download/mithowtospeak/MIT_How_To_Speak_IAP_2018_300k.mp4) · [📄](https://ocw.mit.edu/courses/res-tll-005-how-to-speak-january-iap-2018/bc92763ffa0dad0ecafe44967e834e16_Unzc731iCUY.pdf) · [🔗](https://ocw.mit.edu/courses/res-tll-005-how-to-speak-january-iap-2018/pages/how-to-speak/)
 
+### Resource
+- [Related Resources 🎬YouTube](https://ocw.mit.edu/courses/res-tll-005-how-to-speak-january-iap-2018/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

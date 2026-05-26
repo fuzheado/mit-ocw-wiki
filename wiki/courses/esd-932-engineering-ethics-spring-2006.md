@@ -12,6 +12,9 @@ views: 386
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:05:40Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 2, Resource: 5, Syllabus: 1, Video-Transcript: 45"
+api_id: 3599
 ---
 
 # Engineering Ethics
@@ -30,8 +33,21 @@ This course introduces the theory and the practice of engineering ethics using a
 
 ## Materials
 
-- [Lecture Audio] Lecture Audio
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/esd-932-engineering-ethics-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [broome_preface.pdf (.pdf)](https://ocw.mit.edu/courses/esd-932-engineering-ethics-spring-2006/resources/broome_preface/)
+- [Readings](https://ocw.mit.edu/courses/esd-932-engineering-ethics-spring-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/esd-932-engineering-ethics-spring-2006/pages/assignments/)
+
+### Resource
+- [esd-932s06.jpg (.jpg)](https://ocw.mit.edu/courses/esd-932-engineering-ethics-spring-2006/resources/esd-932s06/)
+- [esd-932s06-th.jpg (.jpg)](https://ocw.mit.edu/courses/esd-932-engineering-ethics-spring-2006/resources/esd-932s06-th/)
+- [Course_Introduction_MIT_ESD.932_Engineering_Ethics_Spring_2006.vtt (.vtt)](https://ocw.mit.edu/courses/esd-932-engineering-ethics-spring-2006/resources/course_introduction_mit_esd932_engineering_ethics_spring_2006/)
+- [Audio Lectures 📺Video](https://ocw.mit.edu/courses/esd-932-engineering-ethics-spring-2006/video_galleries/audio-lectures/)
 ## Wikipedia Bridge
 
 ### Related Articles

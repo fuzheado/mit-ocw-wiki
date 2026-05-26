@@ -12,6 +12,9 @@ views: 463
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:11:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4209
 ---
 
 # Research Design for Policy Analysis and Planning
@@ -30,8 +33,19 @@ This course develops skills in research design for policy analysis and planning.
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-233-research-design-for-policy-analysis-and-planning-fall-2007/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-233-research-design-for-policy-analysis-and-planning-fall-2007/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-233-research-design-for-policy-analysis-and-planning-fall-2007/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/11-233-research-design-for-policy-analysis-and-planning-fall-2007/pages/assignments/)
+
+### Resource
+- [Men answering survey questions (.jpg)](https://ocw.mit.edu/courses/11-233-research-design-for-policy-analysis-and-planning-fall-2007/resources/11-233f07/)
+- [Men answering survey questions (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-233-research-design-for-policy-analysis-and-planning-fall-2007/resources/11-233f07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

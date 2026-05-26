@@ -12,6 +12,9 @@ views: 68
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:59:22Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 4553
 ---
 
 # Congress and the American Political System II
@@ -30,8 +33,20 @@ This course analyzes the development of the United States Congress by focusing o
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-261-congress-and-the-american-political-system-ii-fall-2005/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-261-congress-and-the-american-political-system-ii-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-261-congress-and-the-american-political-system-ii-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-261-congress-and-the-american-political-system-ii-fall-2005/pages/assignments/)
+
+### Resource
+- [U.S. Capitol (.jpg)](https://ocw.mit.edu/courses/17-261-congress-and-the-american-political-system-ii-fall-2005/resources/17-261f05/)
+- [U.S. Capitol (thumbnail) (.jpg)](https://ocw.mit.edu/courses/17-261-congress-and-the-american-political-system-ii-fall-2005/resources/17-261f05-th/)
+- [Related Resources](https://ocw.mit.edu/courses/17-261-congress-and-the-american-political-system-ii-fall-2005/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

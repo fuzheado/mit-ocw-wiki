@@ -12,6 +12,9 @@ views: 585
 completeness: 0.20166666666666672
 last_modified: "2026-05-06T17:12:46Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 4, Problem-Set: 8, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 3"
+api_id: 3871
 ---
 
 # Early Stage Capital
@@ -32,10 +35,33 @@ Disclaimer: The websites for this course and the materials they offer are provid
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Lecture Notes] Lecture Notes
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-391-early-stage-capital-fall-2010/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-391-early-stage-capital-fall-2010/pages/syllabus/)
 
+### Lecture-Notes
+- [Emerging Market VC: It's What's Next (.pdf)](https://ocw.mit.edu/courses/15-391-early-stage-capital-fall-2010/resources/mit15_391f10_lec10/)
+- [Introduction to Search Funds (.pdf)](https://ocw.mit.edu/courses/15-391-early-stage-capital-fall-2010/resources/mit15_391f10_lec05/)
+- [Early Stage Capital: Term Sheets 101 (.pdf)](https://ocw.mit.edu/courses/15-391-early-stage-capital-fall-2010/resources/mit15_391f10_lec02/)
+- [Lecture Notes](https://ocw.mit.edu/courses/15-391-early-stage-capital-fall-2010/pages/lecture-notes/)
+
+### Reading-List
+- [Dow Jones Venture Capital Deal Terms Report (.pdf)](https://ocw.mit.edu/courses/15-391-early-stage-capital-fall-2010/resources/mit15_391f10_vc_report/)
+- [Readings](https://ocw.mit.edu/courses/15-391-early-stage-capital-fall-2010/pages/readings/)
+
+### Problem-Set
+- [Term Sheet (.pdf)](https://ocw.mit.edu/courses/15-391-early-stage-capital-fall-2010/resources/mit15_391f10_term_sheet/)
+- [Intra-Team Evaluation (.pdf)](https://ocw.mit.edu/courses/15-391-early-stage-capital-fall-2010/resources/mit15_391f10_eval/)
+- [Sample Strategic Internal Agenda (.pdf)](https://ocw.mit.edu/courses/15-391-early-stage-capital-fall-2010/resources/mit15_391f10_assn3_sample/)
+- [Framework II: Venture Capitalist Simulation Rounds (.pdf)](https://ocw.mit.edu/courses/15-391-early-stage-capital-fall-2010/resources/mit15_391f10_assn3/)
+- [Fact Pattern: MIT/FIT Corporation (.pdf)](https://ocw.mit.edu/courses/15-391-early-stage-capital-fall-2010/resources/mit15_391f10_assn2_facts/)
+- [Framework I: Lawyer Simulation Rounds (.pdf)](https://ocw.mit.edu/courses/15-391-early-stage-capital-fall-2010/resources/mit15_391f10_assn2/)
+- [Find a Lawyer (.pdf)](https://ocw.mit.edu/courses/15-391-early-stage-capital-fall-2010/resources/mit15_391f10_assn1/)
+- [Assignments](https://ocw.mit.edu/courses/15-391-early-stage-capital-fall-2010/pages/assignments/)
+
+### Resource
+- [Handshake (.jpg)](https://ocw.mit.edu/courses/15-391-early-stage-capital-fall-2010/resources/15-391f10/)
+- [Handshake (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-391-early-stage-capital-fall-2010/resources/15-391f10-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

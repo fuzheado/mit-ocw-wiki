@@ -12,6 +12,9 @@ views: 119
 completeness: 0.0
 last_modified: "2026-05-06T17:24:48Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 12, Video-Transcript: 10"
+api_id: 5615
 ---
 
 # Understanding Lasers and Fiberoptics
@@ -32,8 +35,22 @@ These videos were produced by the MIT Center for Advanced Engineering Study.
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Download the video** — [⬇](http://www.archive.org/download/MITRES.6.005/understanding-1_300k.mp4) · [⬇](http://www.archive.org/download/MITRES.6.005/understanding-2_300k.mp4) · [⬇](http://www.archive.org/download/MITRES.6.005/understanding-3_300k.mp4) · [⬇](http://www.archive.org/download/MITRES.6.005/understanding-4_300k.mp4) · [⬇](http://www.archive.org/download/MITRES.6.005/understanding-5_300k.mp4)
+- **Fiberoptics Fundamentals** — [⬇](http://www.archive.org/download/MITRES.6.005/understanding-5_300k.mp4) · [🔗](https://ocw.mit.edu/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/resources/fiberoptics-fundamentals/)
+- **Laser Fundamentals I** — [⬇](http://www.archive.org/download/MITRES.6.005/understanding-1_300k.mp4) · [🔗](https://ocw.mit.edu/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/resources/laser-fundamentals-i/)
+- **Laser Fundamentals II** — [⬇](http://www.archive.org/download/MITRES.6.005/understanding-2_300k.mp4) · [🔗](https://ocw.mit.edu/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/resources/laser-fundamentals-ii/)
+- **Laser Fundamentals III** — [⬇](http://www.archive.org/download/MITRES.6.005/understanding-3_300k.mp4) · [🔗](https://ocw.mit.edu/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/resources/laser-fundamentals-iii/)
+- **Laser Fundamentals III (cont.)** — [⬇](http://www.archive.org/download/MITRES.6.005/understanding-4_300k.mp4) · [🔗](https://ocw.mit.edu/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/resources/laser-fundamentals-iii-cont/)
 
+### Resource
+- [res-6-005s08.jpg (.jpg)](https://ocw.mit.edu/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/resources/res-6-005s08/)
+- [res-6-005s08-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/resources/res-6-005s08-th/)
+- [fund3.jpg (.jpg)](https://ocw.mit.edu/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/resources/fund3/)
+- [fund2.jpg (.jpg)](https://ocw.mit.edu/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/resources/fund2/)
+- [fund1.jpg (.jpg)](https://ocw.mit.edu/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/resources/fund1/)
+- [fiberoptics.jpg (.jpg)](https://ocw.mit.edu/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/resources/fiberoptics/)
+- [Related Courses](https://ocw.mit.edu/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/pages/related-courses/)
 ## Wikipedia Bridge
 
 ### Related Articles

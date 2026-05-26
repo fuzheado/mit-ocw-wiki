@@ -12,6 +12,9 @@ views: 99
 completeness: 0.1366666666666667
 last_modified: "2026-05-06T14:50:59Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 14, Problem-Set: 1, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 4706
 ---
 
 # Topics in Lie Theory: Tensor Categories
@@ -30,9 +33,33 @@ This course will give a detailed introduction to the theory of tensor categories
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Problem Sets] Problem Sets
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/pages/syllabus/)
 
+### Lecture-Notes
+- [Complete Lecture Notes (.pdf)](https://ocw.mit.edu/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/resources/mit18_769s09_notes/)
+- [Lecture 12 (.pdf)](https://ocw.mit.edu/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/resources/mit18_769s09_lec12/)
+- [Lecture 11 (.pdf)](https://ocw.mit.edu/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/resources/mit18_769s09_lec11/)
+- [Lecture 10 (.pdf)](https://ocw.mit.edu/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/resources/mit18_769s09_lec10/)
+- [Lecture 9 (.pdf)](https://ocw.mit.edu/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/resources/mit18_769s09_lec09/)
+- [Lecture 8 (.pdf)](https://ocw.mit.edu/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/resources/mit18_769s09_lec08/)
+- [Lecture 7 (.pdf)](https://ocw.mit.edu/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/resources/mit18_769s09_lec07/)
+- [Lecture 6 (.pdf)](https://ocw.mit.edu/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/resources/mit18_769s09_lec06/)
+- [Lecture 5 (.pdf)](https://ocw.mit.edu/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/resources/mit18_769s09_lec05/)
+- [Lecture 4 (.pdf)](https://ocw.mit.edu/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/resources/mit18_769s09_lec04/)
+- [Lecture 3 (.pdf)](https://ocw.mit.edu/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/resources/mit18_769s09_lec03/)
+- [Lecture 2 (.pdf)](https://ocw.mit.edu/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/resources/mit18_769s09_lec02/)
+- [Lecture 1 (.pdf)](https://ocw.mit.edu/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/resources/mit18_769s09_lec01/)
+- [Lecture Notes](https://ocw.mit.edu/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/pages/assignments/)
+
+### Resource
+- [Pentagon axiom diagram (.jpg)](https://ocw.mit.edu/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/resources/chp_pentagon/)
 ## Wikipedia Bridge
 
 ### Related Articles

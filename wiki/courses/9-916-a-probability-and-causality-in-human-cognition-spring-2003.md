@@ -12,6 +12,9 @@ views: 188
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:01:15Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 5021
 ---
 
 # Probability and Causality in Human Cognition
@@ -31,8 +34,20 @@ This class is suitable for advanced undergraduates or graduate students speciali
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/9-916-a-probability-and-causality-in-human-cognition-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/9-916-a-probability-and-causality-in-human-cognition-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/9-916-a-probability-and-causality-in-human-cognition-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/9-916-a-probability-and-causality-in-human-cognition-spring-2003/pages/assignments/)
+
+### Resource
+- [Domain Theories (.jpg)](https://ocw.mit.edu/courses/9-916-a-probability-and-causality-in-human-cognition-spring-2003/resources/9-916as03/)
+- [Domain Theories (thumbnail) (.jpg)](https://ocw.mit.edu/courses/9-916-a-probability-and-causality-in-human-cognition-spring-2003/resources/9-916as03-th/)
+- [Related Resources](https://ocw.mit.edu/courses/9-916-a-probability-and-causality-in-human-cognition-spring-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

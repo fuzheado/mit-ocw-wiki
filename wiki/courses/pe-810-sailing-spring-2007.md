@@ -12,6 +12,9 @@ views: 113
 completeness: 0.008333333333333333
 last_modified: "2026-05-06T17:03:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Reading-List: 2, Resource: 4, Syllabus: 1, Video-Transcript: 20"
+api_id: 3792
 ---
 
 # Sailing
@@ -30,8 +33,21 @@ The purpose of this class is to tell you something about our Tech Dinghy and how
 
 ## Materials
 
-- [Demonstration Videos] Demonstration Videos
+### Lectures
+- **MOV** — [🔗](https://www.archive.org/download/MITPE.810S07/6leavingwithtwo.mov) · [🔗](https://www.archive.org/download/MITPE.810S07/7leavingsolo.mov) · [🔗](https://www.archive.org/download/MITPE.810S07/8steeringtrimming.mov) · [🔗](https://www.archive.org/download/MITPE.810S07/9tacktwocrew.mov) · [🔗](https://www.archive.org/download/MITPE.810S07/10tacktwoskipper.mov) · [🔗](https://www.archive.org/download/MITPE.810S07/11tacking.mov) · [🔗](https://www.archive.org/download/MITPE.810S07/13jibingtwopeople.mov) · [🔗](https://www.archive.org/download/MITPE.810S07/14Ajibingsolo.mov) · [🔗](https://www.archive.org/download/MITPE.810S07/16dockingtwopeople.mov) · [🔗](https://www.archive.org/download/MITPE.810S07/17dockingsolo.mov) · [🔗](https://www.archive.org/download/MITPE.810S07/19pullingontodock.mov) · [🔗](https://www.archive.org/download/MITPE.810S07/21ruddertillerclean.mov)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/pe-810-sailing-spring-2007/pages/syllabus/)
+- **Video** — [🔗](https://ocw.mit.edu/courses/pe-810-sailing-spring-2007/pages/video/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/pe-810-sailing-spring-2007/pages/lecture-notes/)
+
+### Reading-List
+- [Sailing and the Tech Dinghy: Instruction Manual (.pdf)](https://ocw.mit.edu/courses/pe-810-sailing-spring-2007/resources/booklet/)
+- [Readings](https://ocw.mit.edu/courses/pe-810-sailing-spring-2007/pages/readings/)
+
+### Resource
+- [Sailing and the Tech Dinghy (.jpg)](https://ocw.mit.edu/courses/pe-810-sailing-spring-2007/resources/pe-810s07/)
+- [Sailing and the Tech Dinghy (thumbnail) (.jpg)](https://ocw.mit.edu/courses/pe-810-sailing-spring-2007/resources/pe-810s07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

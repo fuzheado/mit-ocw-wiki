@@ -12,6 +12,9 @@ views: 772
 completeness: 0.06
 last_modified: "2026-05-06T16:55:48Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 3, Reading-List: 1, Resource: 4, Syllabus: 1, Video-Transcript: 1"
+api_id: 3719
 ---
 
 # Intro to Japanese Culture
@@ -30,9 +33,21 @@ This course examines the major aesthetic, social, and political elements which h
 
 ## Materials
 
-- [Presentation Assignments] Presentation Assignments
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-064-intro-to-japanese-culture-spring-2012/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21g-064-intro-to-japanese-culture-spring-2012/pages/readings/)
+
+### Problem-Set
+- [Essay 2](https://ocw.mit.edu/courses/21g-064-intro-to-japanese-culture-spring-2012/pages/assignments/jcult-e2_assgmt/)
+- [Essay 1](https://ocw.mit.edu/courses/21g-064-intro-to-japanese-culture-spring-2012/pages/assignments/e1-bumiller-kelly-3-12/)
+- [Assignments](https://ocw.mit.edu/courses/21g-064-intro-to-japanese-culture-spring-2012/pages/assignments/)
+
+### Resource
+- [21g-064s12.jpg (.jpg)](https://ocw.mit.edu/courses/21g-064-intro-to-japanese-culture-spring-2012/resources/21g-064s12/)
+- [21g-064s12-th.jpg (.jpg)](https://ocw.mit.edu/courses/21g-064-intro-to-japanese-culture-spring-2012/resources/21g-064s12-th/)
+- [Instructor Statements](https://ocw.mit.edu/courses/21g-064-intro-to-japanese-culture-spring-2012/pages/syllabus/instrctr_stmts/)
 ## Wikipedia Bridge
 
 ### Related Articles

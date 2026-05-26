@@ -12,6 +12,9 @@ views: 98
 completeness: 0.1
 last_modified: "2026-05-06T17:12:11Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 2, Resource: 2, Syllabus: 1"
+api_id: 4801
 ---
 
 # Warlords, Terrorists, and Militias: Theorizing on Violent Non-State Actors
@@ -30,8 +33,21 @@ This course is a general overview of the recent political science literature on 
 
 ## Materials
 
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-586-warlords-terrorists-and-militias-theorizing-on-violent-non-state-actors-spring-2009/pages/syllabus/)
 
+### Reading-List
+- [Warlords (.pdf)](https://ocw.mit.edu/courses/17-586-warlords-terrorists-and-militias-theorizing-on-violent-non-state-actors-spring-2009/resources/mit17_586s09_read_lec02/)
+- [Readings](https://ocw.mit.edu/courses/17-586-warlords-terrorists-and-militias-theorizing-on-violent-non-state-actors-spring-2009/pages/readings/)
+
+### Problem-Set
+- [State-Sponsored Terrorism (.pdf)](https://ocw.mit.edu/courses/17-586-warlords-terrorists-and-militias-theorizing-on-violent-non-state-actors-spring-2009/resources/mit17_586s09_assn08/)
+- [Suicide Terrorism (.pdf)](https://ocw.mit.edu/courses/17-586-warlords-terrorists-and-militias-theorizing-on-violent-non-state-actors-spring-2009/resources/mit17_586s09_assn06/)
+- [Religious Terrorism (.pdf)](https://ocw.mit.edu/courses/17-586-warlords-terrorists-and-militias-theorizing-on-violent-non-state-actors-spring-2009/resources/mit17_586s09_assn04/)
+- [Assignments](https://ocw.mit.edu/courses/17-586-warlords-terrorists-and-militias-theorizing-on-violent-non-state-actors-spring-2009/pages/assignments/)
+
+### Resource
+- [A U.S. Marine in Afghanistan looking for insurgents (.jpg)](https://ocw.mit.edu/courses/17-586-warlords-terrorists-and-militias-theorizing-on-violent-non-state-actors-spring-2009/resources/17-586s09/)
 ## Wikipedia Bridge
 
 ### Related Articles

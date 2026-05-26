@@ -12,6 +12,9 @@ views: 583
 completeness: 0.12
 last_modified: "2026-05-06T17:12:17Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 4, Problem-Set: 7, Reading-List: 2, Resource: 18, Syllabus: 2, Video-Transcript: 6"
+api_id: 5256
 ---
 
 # Making Public Policy
@@ -30,9 +33,37 @@ This course aims to get students thinking about politics and policy as a part of
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Written Assignments with Examples] Written Assignments with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/pages/calendar/)
+- **Paper 1: Health Care Reform** — [🔗](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/pages/assignments/paper-1-health-care-reform/)
+- **Paper 2: Gun Control Reform** — [🔗](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/pages/assignments/paper-2-gun-control-reform/)
+- **Paper 3: Strategic Choices in Policy Change** — [🔗](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/pages/assignments/paper-3-strategic-choices-in-policy-change/)
+- **Paper 4: Climate Change Reform** — [🔗](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/pages/assignments/paper-4-climate-change-reform/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/pages/syllabus/)
 
+### Problem-Set
+- [Final Project: Oral "Exam"](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/pages/assignments/final-project-oral-exam/)
+- [Assignments](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/pages/assignments/)
+- [Final Project: Oral &#34;Exam&#34;](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/pages/assignments/final-project-oral-exam/)
+
+### Resource
+- [11.002/17.30: Paper 4: The Flaws of Relying on State-Level Climate Legislation (.pdf)](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/resources/mit11_002jf14_pa4stud3/)
+- [11.002/17.30 Paper 4: Causes and Effects of State Level Climate Policy (.pdf)](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/resources/mit11_002jf14_pa4stud2/)
+- [11.002/17.30 Paper 3: Comparing the Strategic Efforts of Gay Marriage and Immigration Reform Advocates (.pdf)](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/resources/mit11_002jf14_pa3stud4/)
+- [11.002/17.30 Paper 3: Strategic Policy Efforts for Immigration and Same-Sex Marriage Advocates (.pdf)](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/resources/mit11_002jf14_pa3stud2/)
+- [11.002/17.30 Paper 3: The Strategies of Gay Marriage and Immigration Reform Advocates (.pdf)](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/resources/mit11_002jf14_pa3stud1/)
+- [11.002/17.30 Paper 2: Gun Control Reform in the United States (.pdf)](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/resources/mit11_002jf14_pa2stud4/)
+- [11.002/17.30 Paper 2: The Difficulty of Passing Gun Control in the United States (.pdf)](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/resources/mit11_002jf14_pa2stud2/)
+- [11.002/17.30 Paper 1: The Passage of the Affordable Care Act (.pdf)](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/resources/mit11_002jf14_pa1stud4/)
+- [11.002/17.30 Paper 1: The True Costs of the Affordable Care Act (.pdf)](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/resources/mit11_002jf14_pa1stud3/)
+- [11.002/17.30 Paper 1: The Affordable Care Act: How It Passed and Where to Go from Here (.pdf)](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/resources/mit11_002jf14_pa1stud2/)
+- [56-1541-1.jpg (.jpg)](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/resources/56-1541-1/)
+- [50.png (.png)](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/resources/50/)
+- [4-1463R.jpg (.jpg)](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/resources/4-1463r/)
+- [11-002jf14.jpg (.jpg)](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/resources/11-002jf14/)
+- [11-002jf14-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/resources/11-002jf14-th/)
+- [Instructor Insights](https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

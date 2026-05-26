@@ -12,6 +12,9 @@ views: 165
 completeness: 0.1
 last_modified: "2026-05-06T16:57:37Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 5, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 5306
 ---
 
 # Special Topics in Media Technology: Computational Semantics
@@ -30,8 +33,23 @@ How do words get their meanings? How can word meanings be represented and used b
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/mas-962-special-topics-in-media-technology-computational-semantics-fall-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/mas-962-special-topics-in-media-technology-computational-semantics-fall-2002/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/mas-962-special-topics-in-media-technology-computational-semantics-fall-2002/pages/readings/)
+
+### Problem-Set
+- [Assignment 5 (.pdf)](https://ocw.mit.edu/courses/mas-962-special-topics-in-media-technology-computational-semantics-fall-2002/resources/a5/)
+- [Assignment 4 (.pdf)](https://ocw.mit.edu/courses/mas-962-special-topics-in-media-technology-computational-semantics-fall-2002/resources/a4/)
+- [Assignment 2 (.pdf)](https://ocw.mit.edu/courses/mas-962-special-topics-in-media-technology-computational-semantics-fall-2002/resources/a2/)
+- [Assignment 1 (.pdf)](https://ocw.mit.edu/courses/mas-962-special-topics-in-media-technology-computational-semantics-fall-2002/resources/a1/)
+- [Assignments](https://ocw.mit.edu/courses/mas-962-special-topics-in-media-technology-computational-semantics-fall-2002/pages/assignments/)
+
+### Resource
+- [Computers and their Language (.jpg)](https://ocw.mit.edu/courses/mas-962-special-topics-in-media-technology-computational-semantics-fall-2002/resources/mas-962f02/)
+- [Computers and their Language (thumbnail) (.jpg)](https://ocw.mit.edu/courses/mas-962-special-topics-in-media-technology-computational-semantics-fall-2002/resources/mas-962f02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

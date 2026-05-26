@@ -12,6 +12,9 @@ views: 15
 completeness: 0.028333333333333335
 last_modified: "2026-05-06T17:17:58Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 4544
 ---
 
 # Urban Housing: Paris, London, New York
@@ -30,8 +33,22 @@ This class presents an analysis of the development of housing models and their u
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/4-220-urban-housing-paris-london-new-york-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/4-220-urban-housing-paris-london-new-york-fall-2004/pages/syllabus/)
 
+### Lecture-Notes
+- [Lecture Notes](https://ocw.mit.edu/courses/4-220-urban-housing-paris-london-new-york-fall-2004/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/4-220-urban-housing-paris-london-new-york-fall-2004/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/4-220-urban-housing-paris-london-new-york-fall-2004/pages/assignments/)
+
+### Resource
+- [New York City at Night (.jpg)](https://ocw.mit.edu/courses/4-220-urban-housing-paris-london-new-york-fall-2004/resources/4-220f04/)
+- [New York City at Night (thumbnail) (.jpg)](https://ocw.mit.edu/courses/4-220-urban-housing-paris-london-new-york-fall-2004/resources/4-220f04-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

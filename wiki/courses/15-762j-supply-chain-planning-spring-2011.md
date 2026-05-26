@@ -12,6 +12,9 @@ views: 2048
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T17:05:10Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 1, Resource: 2, Syllabus: 1"
+api_id: 3660
 ---
 
 # Supply Chain Planning
@@ -30,9 +33,20 @@ type: "course"
 
 ## Materials
 
-- [Problem Sets] Problem Sets
-- [Written Assignments] Written Assignments
+### Lectures
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-762j-supply-chain-planning-spring-2011/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-762j-supply-chain-planning-spring-2011/pages/readings/)
+
+### Problem-Set
+- [Supply Chain Problem Set (.pdf)](https://ocw.mit.edu/courses/15-762j-supply-chain-planning-spring-2011/resources/mit15_762js11_assn03/)
+- [Supply Contracts Problem Set (.pdf)](https://ocw.mit.edu/courses/15-762j-supply-chain-planning-spring-2011/resources/mit15_762js11_assn02/)
+- [Inventory Problem Set (.pdf)](https://ocw.mit.edu/courses/15-762j-supply-chain-planning-spring-2011/resources/mit15_762js11_assn01/)
+- [Assignments](https://ocw.mit.edu/courses/15-762j-supply-chain-planning-spring-2011/pages/assignments/)
+
+### Resource
+- [Graph comparing the order size of the production plan compared to customer demand over time (.jpg)](https://ocw.mit.edu/courses/15-762j-supply-chain-planning-spring-2011/resources/15-762js11/)
 ## Wikipedia Bridge
 
 ### Related Articles

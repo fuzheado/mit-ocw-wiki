@@ -12,6 +12,9 @@ views: 343
 completeness: 0.2
 last_modified: "2026-05-06T14:49:47Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 4, Problem-Set: 10, Reading-List: 1, Resource: 20, Syllabus: 2"
+api_id: 4454
 ---
 
 # Quantitative Physiology: Cells and Tissues
@@ -36,9 +39,50 @@ This course is jointly offered through four departments, available to both under
 
 ## Materials
 
-- [Problem Sets] Problem Sets
-- [Projects] Projects
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/pages/readings/)
+
+### Problem-Set
+- [hw9.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/hw9/)
+- [hw8.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/hw8/)
+- [hw7.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/hw7/)
+- [hw6.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/hw6/)
+- [hw5.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/hw5/)
+- [hw4.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/hw4/)
+- [hw3.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/hw3/)
+- [hw2.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/hw2/)
+- [hw1.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/hw1/)
+- [Assignments](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/pages/assignments/)
+
+### Assignment
+- [micfluiprolab_03.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/micfluiprolab_03/)
+- [hhprojects.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/hhprojects/)
+- [analysis_micro_03.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/analysis_micro_03/)
+- [Projects](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/pages/projects/)
+
+### Resource
+- [writingpropos_03.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/writingpropos_03/)
+- [styleguide.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/styleguide/)
+- [rwalk.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/rwalk/)
+- [misc.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/misc/)
+- [manual5.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/manual5/)
+- [manual4.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/manual4/)
+- [macro.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/macro/)
+- [errata2.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/errata2/)
+- [errata1.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/errata1/)
+- [eqn1.jpg (.jpg)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/eqn1/)
+- [cmt.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/cmt/)
+- [authorsguide_03.pdf (.pdf)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/authorsguide_03/)
+- [APscr_03.m (.m)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/apscr_03/)
+- [APdemo1_03.m (.m)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/apdemo1_03/)
+- [6-021jf04.jpg (.jpg)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/6-021jf04/)
+- [6-021jf04-th.jpg (.jpg)](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/resources/6-021jf04-th/)
+- [Tools](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/pages/tools/)
+- [Study Materials](https://ocw.mit.edu/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

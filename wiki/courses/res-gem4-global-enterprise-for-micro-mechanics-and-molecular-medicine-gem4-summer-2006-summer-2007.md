@@ -12,6 +12,9 @@ views: 56
 completeness: 0.0
 last_modified: "2026-05-06T17:15:11Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Resource: 2"
+api_id: 3952
 ---
 
 # Global Enterprise for Micro-Mechanics and Molecular Medicine (GEM4)
@@ -52,8 +55,9 @@ GEM4 Online
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
-
+### Resource
+- [res-gem4s07.jpg (.jpg)](https://ocw.mit.edu/courses/res-gem4-global-enterprise-for-micro-mechanics-and-molecular-medicine-gem4-summer-2006-summer-2007/resources/res-gem4s07/)
+- [res-gem4s07-th.jpg (.jpg)](https://ocw.mit.edu/courses/res-gem4-global-enterprise-for-micro-mechanics-and-molecular-medicine-gem4-summer-2006-summer-2007/resources/res-gem4s07-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

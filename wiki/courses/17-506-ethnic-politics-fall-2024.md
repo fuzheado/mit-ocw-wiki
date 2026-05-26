@@ -12,6 +12,9 @@ views: 1068
 completeness: 0.0
 last_modified: "2026-05-06T15:01:58Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 1, Resource: 6, Syllabus: 1"
+api_id: 85186
 ---
 
 # Ethnic Politics
@@ -30,10 +33,15 @@ This course introduces students to the classic works on ethnic politics, familia
 
 ## Materials
 
-- [Activity Assignments] Activity Assignments
-- [Readings] Readings
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/17-506-ethnic-politics-fall-2024/pages/assignments/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/17-506-ethnic-politics-fall-2024/pages/readings/)
+- **Suggested Books for Book Reviews and Final Projects** — [🔗](https://ocw.mit.edu/courses/17-506-ethnic-politics-fall-2024/pages/suggested-books-for-book-reviews-and-final-projects/)
+- **Syllabus and Calendar** — [🔗](https://ocw.mit.edu/courses/17-506-ethnic-politics-fall-2024/pages/syllabus-and-calendar/)
 
+### Resource
+- [mit17_506_f24.jpg (.jpg)](https://ocw.mit.edu/courses/17-506-ethnic-politics-fall-2024/resources/mit17_506_f24_jpg/)
+- [Segregation and the Spatial Externalities of Inequality: A Theory of Interdependence and Public Goods in Cities](https://www.cambridge.org/core/journals/american-political-science-review/article/segregation-and-the-spatial-externalities-of-inequality-a-theory-of-interdependence-and-public-goods-in-cities/D80EF3694FA04F046EB1D6BE6F5C3CA5)
 ## Wikipedia Bridge
 
 ### Related Articles

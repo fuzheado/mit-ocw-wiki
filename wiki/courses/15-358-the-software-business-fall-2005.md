@@ -12,6 +12,9 @@ views: 1634
 completeness: 0.028333333333333335
 last_modified: "2026-05-06T16:57:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Reading-List: 1, Resource: 6, Syllabus: 2"
+api_id: 5815
 ---
 
 # The Software Business
@@ -30,8 +33,21 @@ This subject is a seminar-style course aimed at anyone who is interested in foun
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/15-358-the-software-business-fall-2005/pages/calendar/)
+- **Lecture Summaries** — [🔗](https://ocw.mit.edu/courses/15-358-the-software-business-fall-2005/pages/lecture-summaries/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-358-the-software-business-fall-2005/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-358-the-software-business-fall-2005/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-358-the-software-business-fall-2005/pages/assignments/)
+
+### Resource
+- [Computer (.jpg)](https://ocw.mit.edu/courses/15-358-the-software-business-fall-2005/resources/chp_computer/)
+- [Computer Lab (.jpg)](https://ocw.mit.edu/courses/15-358-the-software-business-fall-2005/resources/15-358f05/)
+- [Computer Lab (thumbnail) (.jpg)](https://ocw.mit.edu/courses/15-358-the-software-business-fall-2005/resources/15-358f05-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

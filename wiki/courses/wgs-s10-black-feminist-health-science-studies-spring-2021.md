@@ -12,6 +12,9 @@ views: 145
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:55:38Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 2, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 4"
+api_id: 4295
 ---
 
 # Black Feminist Health Science Studies
@@ -30,8 +33,15 @@ Black feminist health science studies is a critical intervention into a number o
 
 ## Materials
 
-- [Media Assignments with Examples] Media Assignments with Examples
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/wgs-s10-black-feminist-health-science-studies-spring-2021/pages/assignments/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/wgs-s10-black-feminist-health-science-studies-spring-2021/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/wgs-s10-black-feminist-health-science-studies-spring-2021/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/wgs-s10-black-feminist-health-science-studies-spring-2021/pages/syllabus/)
 
+### Resource
+- [WGS-S10s21.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-s10-black-feminist-health-science-studies-spring-2021/resources/wgs-s10s21/)
+- [WGS-S10s21-th.jpg (.jpg)](https://ocw.mit.edu/courses/wgs-s10-black-feminist-health-science-studies-spring-2021/resources/wgs-s10s21-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

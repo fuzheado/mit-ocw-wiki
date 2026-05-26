@@ -12,6 +12,9 @@ views: 137
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:59:45Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3985
 ---
 
 # Seminar in Historical Methods
@@ -30,8 +33,19 @@ This course is designed to introduce students to fundamental issues and debates 
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2002/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2002/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2002/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2002/pages/assignments/)
+
+### Resource
+- [Diary of Alfred S. Rowe (.jpg)](https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2002/resources/21h-931s02/)
+- [Diary of Alfred S. Rowe (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2002/resources/21h-931s02-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

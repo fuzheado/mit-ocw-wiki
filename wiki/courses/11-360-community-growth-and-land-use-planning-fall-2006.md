@@ -12,6 +12,9 @@ views: 111
 completeness: 0.03333333333333333
 last_modified: "2026-05-06T16:57:41Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 9, Lecture-Notes: 4, Reading-List: 1, Resource: 5, Syllabus: 2, Video-Transcript: 2"
+api_id: 3635
 ---
 
 # Community Growth and Land Use Planning
@@ -30,9 +33,34 @@ This course combines a seminar format with fieldwork to examine strategies of pl
 
 ## Materials
 
-- [Lecture Notes] Lecture Notes
-- [Projects with Examples] Projects with Examples
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/pages/syllabus/)
 
+### Lecture-Notes
+- [lec5.pdf (.pdf)](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/resources/lec5/)
+- [lec2.pdf (.pdf)](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/resources/lec2/)
+- [6.pdf (.pdf)](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/resources/6/)
+- [Lecture Notes](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/pages/lecture-notes/)
+
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/pages/readings/)
+
+### Assignment
+- [tips.pdf (.pdf)](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/resources/tips/)
+- [scope.pdf (.pdf)](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/resources/scope/)
+- [finalreport.pdf (.pdf)](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/resources/finalreport/)
+- [finalproj.pdf (.pdf)](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/resources/finalproj/)
+- [finalc.pdf (.pdf)](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/resources/finalc/)
+- [finalb.pdf (.pdf)](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/resources/finalb/)
+- [finalappdx.pdf (.pdf)](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/resources/finalappdx/)
+- [finala.pdf (.pdf)](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/resources/finala/)
+- [Projects](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/pages/projects/)
+
+### Resource
+- [11-360f06.jpg (.jpg)](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/resources/11-360f06/)
+- [11-360f06-th.jpg (.jpg)](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/resources/11-360f06-th/)
+- [Related Resources](https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

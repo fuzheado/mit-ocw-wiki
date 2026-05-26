@@ -12,6 +12,9 @@ views: 129
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T14:55:59Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Problem-Set: 1, Reading-List: 3, Resource: 4, Syllabus: 2"
+api_id: 5612
 ---
 
 # Seminar in Historical Methods
@@ -30,8 +33,24 @@ This subject is designed to give 21H majors and minors an introduction to the me
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [The Coachman's Bare Rump: Document #2 (.pdf)](https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2003/resources/rumpdoc2/)
+- [The Coachman's Bare Rump: Document #1  (.pdf)](https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2003/resources/rumpdoc1/)
+- [Readings](https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2003/pages/assignments/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2003/pages/projects/)
+
+### Resource
+- [French royal ordinance from 1666 (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2003/resources/21h-931s03/)
+- [French royal ordinance from 1666 (.jpg)](https://ocw.mit.edu/courses/21h-931-seminar-in-historical-methods-spring-2003/resources/21h-931s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

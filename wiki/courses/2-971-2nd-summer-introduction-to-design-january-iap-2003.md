@@ -12,6 +12,8 @@ views: 306
 completeness: 0.0
 last_modified: "2026-05-06T17:11:31Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Reading-List: 1, Syllabus: 2"
 ---
 
 # 2nd Summer Introduction to Design
@@ -30,8 +32,15 @@ Introduce students to the creative design process, based on the scientific metho
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Syllabus
+- [Syllabus](https://ocw.mit.edu/courses/2-971-2nd-summer-introduction-to-design-january-iap-2003/pages/syllabus/)
+- [Calendar](https://ocw.mit.edu/courses/2-971-2nd-summer-introduction-to-design-january-iap-2003/pages/calendar/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/2-971-2nd-summer-introduction-to-design-january-iap-2003/pages/readings/)
+
+### Assignment
+- [Projects](https://ocw.mit.edu/courses/2-971-2nd-summer-introduction-to-design-january-iap-2003/pages/projects/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 201
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:24:55Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 11, Syllabus: 1"
+api_id: 3626
 ---
 
 # Ethical Practice: Leading Through Professionalism, Social Responsibility, and System Design
@@ -30,9 +33,25 @@ This course offers an introduction to ethics in business, with a focus on busine
 
 ## Materials
 
-- [Instructor Insights] Instructor Insights
-- [Written Assignments] Written Assignments
+### Lectures
+- **Fostering Meaningful Discussions** — [🔗](https://ocw.mit.edu/courses/15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016/pages/instructor-insights/fostering-meaningful-discussions/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016/pages/assignments/)
+
+### Resource
+- [32 students enrolled (.png)](https://ocw.mit.edu/courses/15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016/resources/32/)
+- [15-270s16.jpg (.jpg)](https://ocw.mit.edu/courses/15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016/resources/15-270s16/)
+- [15-270s16-th.jpg (.jpg)](https://ocw.mit.edu/courses/15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016/resources/15-270s16-th/)
+- [15.270 classroom (.jpg)](https://ocw.mit.edu/courses/15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016/resources/15-270-classroom/)
+- [Study Questions](https://ocw.mit.edu/courses/15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016/pages/study-questions/)
+- [The Role of Teamwork](https://ocw.mit.edu/courses/15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016/pages/instructor-insights/the-role-of-teamwork/)
+- [Giving Students Feedback](https://ocw.mit.edu/courses/15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016/pages/instructor-insights/giving-students-feedback/)
+- [Instructor Insights](https://ocw.mit.edu/courses/15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016/pages/instructor-insights/)
 ## Wikipedia Bridge
 
 ### Related Articles

@@ -12,6 +12,9 @@ views: 790
 completeness: 0.0
 last_modified: "2026-05-06T14:59:56Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Resource: 16, Syllabus: 2"
+api_id: 5676
 ---
 
 # Solid Mechanics Laboratory
@@ -30,8 +33,25 @@ This course introduces students to basic properties of structural materials and 
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/1-105-solid-mechanics-laboratory-fall-2003/pages/calendar/)
+- **Labs** — [🔗](https://ocw.mit.edu/courses/1-105-solid-mechanics-laboratory-fall-2003/pages/labs/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/1-105-solid-mechanics-laboratory-fall-2003/pages/syllabus/)
 
+### Resource
+- [pasta_03.pdf (.pdf)](https://ocw.mit.edu/courses/1-105-solid-mechanics-laboratory-fall-2003/resources/pasta_03/)
+- [pasta03_uncertainty.pdf (.pdf)](https://ocw.mit.edu/courses/1-105-solid-mechanics-laboratory-fall-2003/resources/pasta03_uncertainty/)
+- [leastsqrs.pdf (.pdf)](https://ocw.mit.edu/courses/1-105-solid-mechanics-laboratory-fall-2003/resources/leastsqrs/)
+- [exp7_03.pdf (.pdf)](https://ocw.mit.edu/courses/1-105-solid-mechanics-laboratory-fall-2003/resources/exp7_03/)
+- [exp6_03.pdf (.pdf)](https://ocw.mit.edu/courses/1-105-solid-mechanics-laboratory-fall-2003/resources/exp6_03/)
+- [exp5_03.pdf (.pdf)](https://ocw.mit.edu/courses/1-105-solid-mechanics-laboratory-fall-2003/resources/exp5_03/)
+- [exp4_03.pdf (.pdf)](https://ocw.mit.edu/courses/1-105-solid-mechanics-laboratory-fall-2003/resources/exp4_03/)
+- [exp3_03.pdf (.pdf)](https://ocw.mit.edu/courses/1-105-solid-mechanics-laboratory-fall-2003/resources/exp3_03/)
+- [exp2_03fig3jpg.jpg (.jpg)](https://ocw.mit.edu/courses/1-105-solid-mechanics-laboratory-fall-2003/resources/exp2_03fig3jpg/)
+- [exp2_03.pdf (.pdf)](https://ocw.mit.edu/courses/1-105-solid-mechanics-laboratory-fall-2003/resources/exp2_03/)
+- [1-105f03.jpg (.jpg)](https://ocw.mit.edu/courses/1-105-solid-mechanics-laboratory-fall-2003/resources/1-105f03/)
+- [1-105f03-th.jpg (.jpg)](https://ocw.mit.edu/courses/1-105-solid-mechanics-laboratory-fall-2003/resources/1-105f03-th/)
+- [Related Resources](https://ocw.mit.edu/courses/1-105-solid-mechanics-laboratory-fall-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles

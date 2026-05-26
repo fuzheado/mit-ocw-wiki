@@ -12,6 +12,9 @@ views: 185
 completeness: 0.1
 last_modified: "2026-05-06T16:57:06Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Problem-Set: 5, Reading-List: 1, Resource: 7, Syllabus: 2"
+api_id: 3827
 ---
 
 # Introduction to International Development
@@ -30,8 +33,27 @@ This course introduces undergraduates to the basic theory, institutional archite
 
 ## Materials
 
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/11-005-introduction-to-international-development-spring-2015/pages/calendar/)
+- **Extra Credit** — [🔗](https://ocw.mit.edu/courses/11-005-introduction-to-international-development-spring-2015/pages/assignments/extra-credit/)
+- **Mini Essays** — [🔗](https://ocw.mit.edu/courses/11-005-introduction-to-international-development-spring-2015/pages/assignments/mini-essays/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/11-005-introduction-to-international-development-spring-2015/pages/syllabus/)
+- **Weekly Memos and Responses** — [🔗](https://ocw.mit.edu/courses/11-005-introduction-to-international-development-spring-2015/pages/assignments/weekly-memos-and-responses/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/11-005-introduction-to-international-development-spring-2015/pages/readings/)
+
+### Problem-Set
+- [Final Project](https://ocw.mit.edu/courses/11-005-introduction-to-international-development-spring-2015/pages/assignments/final-project/)
+- [Assignments](https://ocw.mit.edu/courses/11-005-introduction-to-international-development-spring-2015/pages/assignments/)
+
+### Assignment
+- [Final Project Outline (.pdf)](https://ocw.mit.edu/courses/11-005-introduction-to-international-development-spring-2015/resources/mit11_005s15_assign-outline/)
+
+### Resource
+- [Template for Memo (.pdf)](https://ocw.mit.edu/courses/11-005-introduction-to-international-development-spring-2015/resources/mit11_005s15_assign-memo/)
+- [Producing High Quality Seeds (.jpg)](https://ocw.mit.edu/courses/11-005-introduction-to-international-development-spring-2015/resources/11-005s15/)
+- [Producing High Quality Seeds (thumbnail) (.jpg)](https://ocw.mit.edu/courses/11-005-introduction-to-international-development-spring-2015/resources/11-005s15-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

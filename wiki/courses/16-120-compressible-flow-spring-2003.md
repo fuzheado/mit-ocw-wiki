@@ -12,6 +12,9 @@ views: 787
 completeness: 0.33999999999999997
 last_modified: "2026-05-06T14:58:18Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 10, Reading-List: 1, Resource: 4, Syllabus: 2"
+api_id: 3627
 ---
 
 # Compressible Flow
@@ -30,9 +33,28 @@ The course begins with the basics of compressible fluid dynamics, including gove
 
 ## Materials
 
-- [Exams] Exams
-- [Problem Sets] Problem Sets
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/16-120-compressible-flow-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/16-120-compressible-flow-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/16-120-compressible-flow-spring-2003/pages/readings/)
+
+### Problem-Set
+- [ps8v2.pdf (.pdf)](https://ocw.mit.edu/courses/16-120-compressible-flow-spring-2003/resources/ps8v2/)
+- [ps7.pdf (.pdf)](https://ocw.mit.edu/courses/16-120-compressible-flow-spring-2003/resources/ps7/)
+- [ps6.pdf (.pdf)](https://ocw.mit.edu/courses/16-120-compressible-flow-spring-2003/resources/ps6/)
+- [ps5.pdf (.pdf)](https://ocw.mit.edu/courses/16-120-compressible-flow-spring-2003/resources/ps5/)
+- [ps4v2.pdf (.pdf)](https://ocw.mit.edu/courses/16-120-compressible-flow-spring-2003/resources/ps4v2/)
+- [ps3.pdf (.pdf)](https://ocw.mit.edu/courses/16-120-compressible-flow-spring-2003/resources/ps3/)
+- [oralgraphic.jpg (.jpg)](https://ocw.mit.edu/courses/16-120-compressible-flow-spring-2003/resources/oralgraphic/)
+- [oralfinalv2.pdf (.pdf)](https://ocw.mit.edu/courses/16-120-compressible-flow-spring-2003/resources/oralfinalv2/)
+- [Exams](https://ocw.mit.edu/courses/16-120-compressible-flow-spring-2003/pages/exams/)
+- [Assignments](https://ocw.mit.edu/courses/16-120-compressible-flow-spring-2003/pages/assignments/)
+
+### Resource
+- [16-120s03.jpg (.jpg)](https://ocw.mit.edu/courses/16-120-compressible-flow-spring-2003/resources/16-120s03/)
+- [16-120s03-th.jpg (.jpg)](https://ocw.mit.edu/courses/16-120-compressible-flow-spring-2003/resources/16-120s03-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

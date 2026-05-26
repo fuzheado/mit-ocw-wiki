@@ -12,6 +12,9 @@ views: 672
 completeness: 0.08000000000000002
 last_modified: "2026-05-06T16:56:40Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 4, Reading-List: 2, Resource: 4, Syllabus: 2, Video-Transcript: 4"
+api_id: 4803
 ---
 
 # Philosophy of Love
@@ -31,8 +34,20 @@ This course is part of the Concourse program at MIT.
 
 ## Materials
 
-- [Lecture-Notes] Lecture notes
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/cc-112-philosophy-of-love-spring-2013/pages/calendar/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/cc-112-philosophy-of-love-spring-2013/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/cc-112-philosophy-of-love-spring-2013/pages/syllabus/)
 
+### Problem-Set
+- [Writing a Paper For Me (.pdf)](https://ocw.mit.edu/courses/cc-112-philosophy-of-love-spring-2013/resources/mitcc_112s13_writingapaper/)
+- [Adios to Eros, Away with Agape: Philia as the Highest Form of Love (.pdf)](https://ocw.mit.edu/courses/cc-112-philosophy-of-love-spring-2013/resources/mitcc_112s13_paper2/)
+- [Head Over "Feels" in Love: The Emerging Synthesis of "Love as Feeling" and "Love as Intention" (.pdf)](https://ocw.mit.edu/courses/cc-112-philosophy-of-love-spring-2013/resources/mitcc_112s13_paper1/)
+- [Assignments](https://ocw.mit.edu/courses/cc-112-philosophy-of-love-spring-2013/pages/assignments/)
+
+### Resource
+- [A marble statue of a winged gentleman embracing a reclining woman (.jpg)](https://ocw.mit.edu/courses/cc-112-philosophy-of-love-spring-2013/resources/cc-112s13/)
+- [Thumbnail image of a marble statue of a winged gentleman embracing a reclining woman (.jpg)](https://ocw.mit.edu/courses/cc-112-philosophy-of-love-spring-2013/resources/cc-112s13-th/)
 ## Wikipedia Bridge
 
 ### Related Articles

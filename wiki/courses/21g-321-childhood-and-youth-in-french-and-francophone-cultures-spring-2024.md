@@ -12,6 +12,9 @@ views: 215
 completeness: 0.0
 last_modified: "2026-05-06T17:08:57Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Lecture-Notes: 1, Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 1, Video-Transcript: 2"
+api_id: 14048
 ---
 
 # Childhood and Youth in French and Francophone Cultures
@@ -33,10 +36,15 @@ Perreau recently published The Politics of Adoption: Gender and the Making of Fr
 
 ## Materials
 
-- [Media Assignments] Media Assignments
-- [Readings] Readings
-- [Written Assignments] Written Assignments
+### Lectures
+- **Assignments** — [🔗](https://ocw.mit.edu/courses/21g-321-childhood-and-youth-in-french-and-francophone-cultures-spring-2024/pages/assignments/)
+- **Choice of Presentation** — [🔗](https://ocw.mit.edu/courses/21g-321-childhood-and-youth-in-french-and-francophone-cultures-spring-2024/pages/choice-of-presentation/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-321-childhood-and-youth-in-french-and-francophone-cultures-spring-2024/pages/syllabus/)
+- **Topics, Readings, Media** — [🔗](https://ocw.mit.edu/courses/21g-321-childhood-and-youth-in-french-and-francophone-cultures-spring-2024/pages/topics-readings-media/)
+- **YouTube** — [🎬](https://youtu.be/xtmVTfGJUzA?si=YyKo7Vw3vwVkkqNY) · [🎬](https://youtu.be/T4pS5XAnzh4?si=WmWF8l8rPdykFTD9)
 
+### Resource
+- [mit21g_321s24.jpg (.jpg)](https://ocw.mit.edu/courses/21g-321-childhood-and-youth-in-french-and-francophone-cultures-spring-2024/resources/mit21g_321s24_jpg/)
 ## Wikipedia Bridge
 
 ### Related Articles

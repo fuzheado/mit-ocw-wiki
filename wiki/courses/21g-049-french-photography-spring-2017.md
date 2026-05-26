@@ -12,6 +12,9 @@ views: 302
 completeness: 0.06
 last_modified: "2026-05-06T14:58:46Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 1, Lecture-Notes: 1, Problem-Set: 3, Reading-List: 2, Resource: 13, Syllabus: 2, Video-Transcript: 9"
+api_id: 4721
 ---
 
 # French Photography
@@ -30,9 +33,28 @@ This course introduces students to the world of French photography from its inve
 
 ## Materials
 
-- [Image Gallery] Image Gallery
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21g-049-french-photography-spring-2017/pages/calendar/)
+- **Presentations and Sources** — [🔗](https://ocw.mit.edu/courses/21g-049-french-photography-spring-2017/pages/assignments/presentations-and-sources/)
+- **Readings** — [🔗](https://ocw.mit.edu/courses/21g-049-french-photography-spring-2017/pages/readings/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21g-049-french-photography-spring-2017/pages/syllabus/)
+- **Visual Analysis Papers** — [🔗](https://ocw.mit.edu/courses/21g-049-french-photography-spring-2017/pages/assignments/visual-analysis-papers/)
 
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21g-049-french-photography-spring-2017/pages/assignments/)
+
+### Resource
+- [Children Playing Skittles (.jpg)](https://ocw.mit.edu/courses/21g-049-french-photography-spring-2017/resources/skittles/)
+- [Fading_Away.jpg (.jpg)](https://ocw.mit.edu/courses/21g-049-french-photography-spring-2017/resources/fading_away/)
+- [Postcard of the Eiffel Tower (.jpg)](https://ocw.mit.edu/courses/21g-049-french-photography-spring-2017/resources/9-tourism_postcard2/)
+- [Postcard of a Moorish Woman (.jpg)](https://ocw.mit.edu/courses/21g-049-french-photography-spring-2017/resources/8-tourism_postcard-cropped_/)
+- [Pelican in Flight (.jpg)](https://ocw.mit.edu/courses/21g-049-french-photography-spring-2017/resources/7-research_pelican/)
+- [Hummingbird (.jpg)](https://ocw.mit.edu/courses/21g-049-french-photography-spring-2017/resources/6-research_hummingbird/)
+- [Enhanced Version of View from the Window at Le Gras (.jpg)](https://ocw.mit.edu/courses/21g-049-french-photography-spring-2017/resources/3-niepce_2/)
+- [Home Page Image (.jpg)](https://ocw.mit.edu/courses/21g-049-french-photography-spring-2017/resources/21g-049s17/)
+- [Thumbnail CHP image (.jpg)](https://ocw.mit.edu/courses/21g-049-french-photography-spring-2017/resources/21g-049s17-th/)
+- [View from the Window at Le Gras (.jpg)](https://ocw.mit.edu/courses/21g-049-french-photography-spring-2017/resources/2-niepce/)
+- [Study Materials](https://ocw.mit.edu/courses/21g-049-french-photography-spring-2017/pages/study-materials/)
 ## Wikipedia Bridge
 
 ### Related Articles

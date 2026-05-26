@@ -12,6 +12,9 @@ views: 114
 completeness: 0.13999999999999999
 last_modified: "2026-05-06T16:58:18Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Assignment: 2, Problem-Set: 7, Reading-List: 3, Resource: 10, Syllabus: 2"
+api_id: 4917
 ---
 
 # Science Writing in Contemporary Society
@@ -30,8 +33,35 @@ This class addresses the craft of writing about science in and for contemporary 
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Book Review Essay Book List** — [🔗](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/pages/assignments/book-review-essay-book-list/)
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/pages/calendar/)
+- **Reading Journal** — [🔗](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/pages/assignments/reading-journal/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/pages/syllabus/)
 
+### Reading-List
+- [Supplemental Readings](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/pages/readings/supplemental-readings/)
+- [Readings](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/pages/readings/)
+
+### Problem-Set
+- [Format for Essays & Citations](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/pages/assignments/format-for-essays-and-citations/)
+- [Assignments](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/pages/assignments/)
+- [Assignments 8-15](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/pages/assignments/assignments-8-15/)
+- [Assignments 16-25](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/pages/assignments/assignments-16-25/)
+- [Assignments 1-7](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/pages/assignments/assignments-1-7/)
+
+### Assignment
+- [Format for Essays &amp; Citations](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/pages/assignments/format-for-essays-and-citations/)
+
+### Resource
+- [notes (.jpg)](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/resources/notes/)
+- [21W-777s17 (.jpg)](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/resources/21w-777s17/)
+- [21W-777s17-th (.jpg)](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/resources/21w-777s17-th/)
+- [Grading Policy](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/pages/syllabus/grading-policy/)
+- [Related Resources](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/pages/related-resources/)
+- [Pre-writing for your Investigative Essay](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/pages/assignments/assignments-8-15/pre-writing-for-your-investigative-essay/)
+- [Rubric for Evaluating Oral Presentations](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/pages/assignments/assignments-16-25/rubric-for-evaluating-oral-presentations/)
+- [Cover Worksheets for Revising Essays 1 & 2](https://ocw.mit.edu/courses/21w-777-science-writing-in-contemporary-society-spring-2017/pages/assignments/assignments-16-25/cover-worksheets-for-revising-essays-1-2/)
 ## Wikipedia Bridge
 
 ### Related Articles

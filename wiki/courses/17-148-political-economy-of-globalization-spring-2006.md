@@ -12,6 +12,9 @@ views: 125
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T17:22:16Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 3, Syllabus: 2"
+api_id: 4558
 ---
 
 # Political Economy of Globalization
@@ -30,8 +33,18 @@ This is a graduate seminar for students who already have some familiarity with i
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/17-148-political-economy-of-globalization-spring-2006/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/17-148-political-economy-of-globalization-spring-2006/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/17-148-political-economy-of-globalization-spring-2006/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/17-148-political-economy-of-globalization-spring-2006/pages/assignments/)
+
+### Resource
+- [Computer Center in India (.jpg)](https://ocw.mit.edu/courses/17-148-political-economy-of-globalization-spring-2006/resources/17-148s06/)
 ## Wikipedia Bridge
 
 ### Related Articles

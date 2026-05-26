@@ -12,6 +12,9 @@ views: 119
 completeness: 0.020000000000000004
 last_modified: "2026-05-06T16:50:12Z"
 type: "course"
+last_scanned: 2026-05-26
+asset_counts: "Problem-Set: 1, Reading-List: 1, Resource: 5, Syllabus: 2"
+api_id: 3972
 ---
 
 # Studies in Poetry: Gender and Lyric -- Renaissance Men and Women Writing about Love
@@ -30,8 +33,20 @@ The core of this seminar will be the great sequences of English love sonnets wri
 
 ## Materials
 
-- [Written Assignments] Written Assignments
+### Lectures
+- **Calendar** — [🔗](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-gender-and-lyric-renaissance-men-and-women-writing-about-love-spring-2003/pages/calendar/)
+- **Syllabus** — [🔗](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-gender-and-lyric-renaissance-men-and-women-writing-about-love-spring-2003/resources/syllabus/) · [🔗](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-gender-and-lyric-renaissance-men-and-women-writing-about-love-spring-2003/pages/syllabus/)
 
+### Reading-List
+- [Readings](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-gender-and-lyric-renaissance-men-and-women-writing-about-love-spring-2003/pages/readings/)
+
+### Problem-Set
+- [Assignments](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-gender-and-lyric-renaissance-men-and-women-writing-about-love-spring-2003/pages/assignments/)
+
+### Resource
+- [Shakespeare Postage Stamps (.jpg)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-gender-and-lyric-renaissance-men-and-women-writing-about-love-spring-2003/resources/21l-704s03/)
+- [Shakespeare Postage Stamps (thumbnail) (.jpg)](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-gender-and-lyric-renaissance-men-and-women-writing-about-love-spring-2003/resources/21l-704s03-th/)
+- [Related Resources](https://ocw.mit.edu/courses/21l-704-studies-in-poetry-gender-and-lyric-renaissance-men-and-women-writing-about-love-spring-2003/pages/related-resources/)
 ## Wikipedia Bridge
 
 ### Related Articles
