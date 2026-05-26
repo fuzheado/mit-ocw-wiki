@@ -152,6 +152,63 @@ def detect_templates_batch(article_titles: list) -> dict:
     return results
 
 
+# ─── Asset note generation ─────────────────────────────────────────────────
+
+def load_asset_notes():
+    """
+    Build {course_id_lower: human_readable_note} from asset_counts.
+    E.g., '5.111sc' → 'lecture notes, problem sets, and videos'
+    """
+    courses_dir = os.path.join(os.path.dirname(SCRIPTS_DIR), "wiki", "courses")
+    notes = {}
+    if not os.path.isdir(courses_dir):
+        return notes
+
+    for filename in os.listdir(courses_dir):
+        if not filename.endswith(".md"):
+            continue
+        fpath = os.path.join(courses_dir, filename)
+        try:
+            with open(fpath) as f:
+                content = f.read(4096)
+
+            cid_match = re.search(r'^course_id:\s*"([^"]+)"', content, re.MULTILINE)
+            ac_match = re.search(r'^asset_counts:\s*"(.+?)"', content, re.MULTILINE)
+
+            if cid_match and ac_match:
+                cid = cid_match.group(1)
+                counts = ac_match.group(1)
+
+                # Parse asset types with counts > 0
+                types = []
+                for part in counts.split(","):
+                    part = part.strip()
+                    if ":" in part:
+                        k, v = part.split(":", 1)
+                        k = k.strip().replace("-", " ").lower()
+                        try:
+                            if int(v.strip()) > 0:
+                                # Pluralize common types
+                                if k in ("assignment", "problem set", "reading list",
+                                         "resource", "syllabus"):
+                                    types.append(k + "s" if not k.endswith("s") else k)
+                                elif k == "lecture notes":
+                                    types.append("lecture notes")
+                                elif k == "video transcript":
+                                    types.append("video lectures")
+                                else:
+                                    types.append(k)
+                        except ValueError:
+                            pass
+
+                if types:
+                    notes[cid.lower()] = " and ".join(types[:3])  # max 3 types
+        except Exception:
+            continue
+
+    return notes
+
+
 # ─── Course URL lookup ─────────────────────────────────────────────────────
 
 def load_course_urls():
@@ -306,6 +363,15 @@ def specificity_score(article_title: str) -> float:
 
 # ─── Composite score ───────────────────────────────────────────────────────
 
+def _build_note(lecture: str, asset_note: str) -> str:
+    """Build a descriptive note for the refideas entry."""
+    if lecture:
+        return f"lecture: {lecture}"
+    if asset_note:
+        return f"includes {asset_note}"
+    return ""
+
+
 def score_match(article_title: str, templates: list, lecture_title: str) -> dict:
     """
     Score a single article↔lecture match.
@@ -347,9 +413,11 @@ def score_match(article_title: str, templates: list, lecture_title: str) -> dict
 
 # ─── Main scoring loop ─────────────────────────────────────────────────────
 
-def score_all_matches(demo_data: dict, course_urls: dict, lecture_titles: dict, use_live_templates: bool = True) -> list:
+def score_all_matches(demo_data: dict, course_urls: dict, lecture_titles: dict, asset_notes: dict = None, use_live_templates: bool = True) -> list:
     """Score all matches across all WikiProjects. Returns sorted list of match dicts."""
     results = []
+    if asset_notes is None:
+        asset_notes = {}
 
     # Collect unique article titles for batch template detection
     all_articles = set()
@@ -408,6 +476,7 @@ def score_all_matches(demo_data: dict, course_urls: dict, lecture_titles: dict, 
                     "course_title": course_title,
                     "course_url": url,
                     "lecture": lecture if real_lectures else "[no lectures scanned]",
+                    "note": _build_note(lecture if real_lectures else "", asset_notes.get(course_id.lower(), "")),
                     "project": project,
                     **scoring,
                 })
@@ -593,7 +662,7 @@ def apply_top(results: list, n: int, auto_yes: bool = False):
     script = os.path.join(SCRIPTS_DIR, "apply-l1-refideas.py")
 
     for i, r in enumerate(to_apply):
-        note = f"lecture: {r['lecture']}" if r["lecture"] and r["lecture"] else ""
+        note = r.get("note", "")
         print(f"  [{i+1}/{len(to_apply)}] {r['article']} ← {r['course_id']} (score: {r['score']})")
 
         cmd = [
@@ -660,7 +729,7 @@ def apply_interactive(results: list, top_n: int = 5):
             continue
 
         # Post it
-        note = f"lecture: {r['lecture']}" if r["lecture"] and r["lecture"] else ""
+        note = r.get("note", "")
         print(f"  Posting...")
 
         cmd = [
@@ -795,12 +864,16 @@ def main():
     total_lectures = sum(len(v) for v in lecture_titles.values())
     print(f"  Found {total_lectures} lecture titles across {course_count} courses")
 
+    print("  Loading asset notes from scanned courses...")
+    asset_notes = load_asset_notes()
+    print(f"  Found asset notes for {len(asset_notes)} courses")
+
     demo_data = _xref.DEMO_DATA
     project_count = len(demo_data)
     article_count = sum(len(v.get("articles", [])) for v in demo_data.values())
     print(f"  Loaded {article_count} articles across {project_count} WikiProjects")
 
-    results = score_all_matches(demo_data, course_urls, lecture_titles)
+    results = score_all_matches(demo_data, course_urls, lecture_titles, asset_notes)
 
     if interactive_n > 0:
         apply_interactive(results, interactive_n)
