@@ -310,18 +310,53 @@ def tokenize(text: str) -> set:
     return {t for t in tokens if t not in STOP_WORDS}
 
 
-def overlap_score(article_title: str, lecture_title: str) -> float:
+def overlap_score(article_title: str, lecture_title: str, idf: dict = None) -> float:
     """
     Compute keyword overlap between article and lecture.
-    Returns 0.0–1.0 (Jaccard similarity of token sets).
+    If idf is provided, uses IDF-weighted Jaccard (rare words count more).
+    Returns 0.0–1.0.
     """
     a_tokens = tokenize(article_title)
     l_tokens = tokenize(lecture_title)
     if not a_tokens or not l_tokens:
         return 0.0
-    intersection = a_tokens & l_tokens
-    union = a_tokens | l_tokens
-    return len(intersection) / len(union)
+
+    if idf:
+        # IDF-weighted Jaccard: weight each token by its inverse document frequency
+        max_idf = max(idf.values()) if idf else 1.0
+        def token_weight(t):
+            # Unknown tokens are treated as the rarest possible (max IDF)
+            return idf.get(t, max_idf)
+        shared = a_tokens & l_tokens
+        all_tokens = a_tokens | l_tokens
+        shared_weight = sum(token_weight(t) for t in shared)
+        total_weight = sum(token_weight(t) for t in all_tokens)
+        return shared_weight / total_weight if total_weight > 0 else 0.0
+    else:
+        intersection = a_tokens & l_tokens
+        union = a_tokens | l_tokens
+        return len(intersection) / len(union)
+
+
+def build_idf(article_titles: list) -> dict:
+    """
+    Build IDF weights from a corpus of article titles.
+    IDF(token) = log(N / df(token)) where N = total articles.
+    Rare words like 'quantum' get high weight; common words like 'learning' get low.
+    """
+    import math
+    N = len(article_titles)
+    if N == 0:
+        return {}
+    df = {}
+    for title in article_titles:
+        seen = set()
+        for token in tokenize(title):
+            if token not in seen:
+                df[token] = df.get(token, 0) + 1
+                seen.add(token)
+    # Compute IDF with +1 smoothing
+    return {t: math.log((N + 1) / (df[t] + 1)) + 1.0 for t in df}
 
 
 # ─── Template scoring ──────────────────────────────────────────────────────
@@ -470,13 +505,13 @@ def _is_low_value_article(title: str) -> bool:
     return False
 
 
-def score_match(article_title: str, templates: list, lecture_title: str) -> dict:
+def score_match(article_title: str, templates: list, lecture_title: str, idf: dict = None) -> dict:
     """
     Score a single article↔lecture match.
     Returns {score, template_score, overlap, specificity, eligible}.
     """
     t_score = template_score(templates)
-    overlap = overlap_score(article_title, lecture_title)
+    overlap = overlap_score(article_title, lecture_title, idf)
     spec = specificity_score(article_title)
 
     if t_score == 0:
@@ -529,6 +564,9 @@ def score_all_matches(demo_data: dict, course_urls: dict, lecture_titles: dict, 
         detect_templates_batch(list(all_articles))
         print(f"  Found templates on {sum(1 for v in TEMPLATE_CACHE.values() if v)} articles", file=sys.stderr)
 
+    # Build IDF weights from article corpus (rare words count more)
+    idf = build_idf(list(all_articles))
+
     for project, data in demo_data.items():
         for article in data.get("articles", []):
             article_title = article["title"]
@@ -560,16 +598,16 @@ def score_all_matches(demo_data: dict, course_urls: dict, lecture_titles: dict, 
                     best_overlap = 0.0
                     best_lecture = ""
                     for lt in real_lectures:
-                        ov = overlap_score(article_title, lt)
+                        ov = overlap_score(article_title, lt, idf)
                         if ov > best_overlap:
                             best_overlap = ov
                             best_lecture = lt
                     lecture = best_lecture
-                    scoring = score_match(article_title, templates, best_lecture)
+                    scoring = score_match(article_title, templates, best_lecture, idf)
                 else:
                     # No scanned lectures — score overlap as 0, don't trust demo data
                     lecture = ""
-                    scoring = score_match(article_title, templates, "")
+                    scoring = score_match(article_title, templates, "", idf)
 
                 results.append({
                     "article": article_title,
