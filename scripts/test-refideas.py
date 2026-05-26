@@ -186,6 +186,36 @@ Text."""
         self.assertEqual(refs_in_output(fixed), 4)
 
 
+class TestWikiVariableInURL(unittest.TestCase):
+    """Regression: URLs containing {{CURRENTYEAR}} or other wiki variables
+    should NOT be falsely detected as duplicates."""
+
+    def test_currentyear_urls_not_duplicates(self):
+        """Google Scholar URLs with {{CURRENTYEAR}} — all different cites= params."""
+        wikitext = """{{refideas
+|1=[https://scholar.google.de/scholar?as_ylo={{CURRENTYEAR}}&q=%22Lake+Washburn%22&hl=de&as_sdt=0,5 Google Scholar]
+|2=[https://scholar.google.de/scholar?as_ylo={{CURRENTYEAR}}&hl=de&as_sdt=2005&sciodt=0,5&cites=9404235418039817741&scipsc=
+ Stuiver]
+|3=[https://scholar.google.de/scholar?as_ylo={{CURRENTYEAR}}&hl=de&as_sdt=2005&sciodt=0,5&cites=17014852551627402644&scipsc=
+ Toner]
+}}"""
+        result, fixed, errors = lint_and_fix(wikitext)
+        # Should NOT flag as duplicates — all three cites= values are different
+        self.assertFalse(result.has_actionable_errors,
+                        f"False duplicate detected: {[(e.type, e.message) for e in result.errors]}")
+
+    def test_cite_web_duplicate_still_detected(self):
+        """{{cite web}} URLs — trailing }} should be stripped, duplicates detected."""
+        wikitext = """{{refideas
+|1={{cite web|url=https://example.com/article|title=Example}}
+|2={{cite web|url=https://other.com/stuff|title=Other}}
+|3={{cite web|url=https://example.com/article|title=Duplicate}}
+}}"""
+        result, fixed, errors = lint_and_fix(wikitext)
+        self.assertTrue(result.has_actionable_errors)
+        self.assertEqual(refs_in_output(fixed), 2)
+
+
 class TestNumberingPreserved(unittest.TestCase):
     """Numbered params (|1=, |2=) should survive reformatting."""
 

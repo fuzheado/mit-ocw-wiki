@@ -1,6 +1,6 @@
 # L1 Contribution: Talk Page `{{refideas}}`
 
-> **Status:** Algorithm validated on real Wikipedia Talk pages. Reference implementation in `scripts/contribution-protocol.py` (`make_l1()` and `l1_insert_refideas()`).
+> **Status:** Algorithm validated on real Wikipedia Talk pages. Refactored into pure-function + orchestrator pattern for testability. Reference implementation in `scripts/contribution-protocol.py`. Generic and OCW-specific CLI tools available.
 
 ---
 
@@ -193,19 +193,72 @@ After posting, log to a local JSON file:
 
 ## Reference implementation
 
+### Architecture: pure function + orchestrator
+
+The L1 insert logic is split into three layers — the pattern to follow for L2-L5:
+
+| Function | Layer | Testable? |
+|----------|-------|-----------|
+| `build_refideas_wikitext(wikitext, url, label, source, note)` | Pure — takes wikitext string, returns modified wikitext. No API calls. | ✅ 22 offline tests |
+| `refideas_add(article, url, label, source, note)` | Orchestrator — fetches Talk page via API, deduplicates by URL, delegates to `build_refideas_wikitext()` | ⬜ via integration |
+| `l1_insert_refideas(article, course_id, course_title, url, note)` | OCW wrapper — formats `[url MIT id: title], MIT OpenCourseWare (note)` and calls `refideas_add()` | ✅ via wrapper tests |
+
+### Deduplication
+
+Before inserting, `refideas_add()` checks whether the URL already appears anywhere on the Talk page. If found, it skips with a `⏭` message. This prevents duplicate suggestions.
+
+### Template aliases
+
+The function recognizes all 11 `{{refideas}}` template aliases: `refideas`, `refidea`, `RI`, `ref ideas`, `suggested sources`, `suggested refs`, `source ideas`, `potential sources`, `possible sources`, `refideas-nonotice`, `refsuggestion`.
+
+### Usage
+
 ```bash
+# Quick dry-run preview (no auth needed)
+python3 scripts/contribution-protocol.py --l1-test "Geothermal energy"
+python3 scripts/contribution-protocol.py --l1-test Boeing
+
 # Validate all example records
 python3 scripts/contribution-protocol.py --validate
 
-# See the wikitext output for L1
+# See the wikitext output for all levels
 python3 scripts/contribution-protocol.py --wikitext
-
-# Dry-run L1 insertion on a real Talk page
-python3 scripts/contribution-protocol.py --l1-test "Geothermal energy"
-python3 scripts/contribution-protocol.py --l1-test Boeing
 ```
 
-The `l1_insert_refideas()` function in `scripts/contribution-protocol.py` implements the full algorithm.
+### CLI tools
+
+```bash
+# Generic: add any reference to {{refideas}}
+python3 scripts/refideas-add.py "Article" \
+    --url "https://example.com/ref" \
+    --label "Reference Label" \
+    --source "Source Name" \
+    --note "optional note"
+
+# OCW-specific: add MIT course as refideas suggestion
+python3 scripts/apply-l1-refideas.py "Article" \
+    --course-id 6.006 \
+    --course-title "Introduction to Algorithms" \
+    --course-url "https://ocw.mit.edu/courses/6-006-..." \
+    --note "video lectures, problem sets"
+
+# Preview either without posting
+python3 scripts/apply-l1-refideas.py --dry-run "Article" --course-id ...
+```
+
+Both CLIs share the same auth (bot password from `.env`), side-by-side diff, and [y/N] confirmation prompt. The OCW wrapper (`apply-l1-refideas.py`) imports utilities from the generic tool (`refideas-add.py`) rather than duplicating them.
+
+### Tests
+
+```bash
+# Linter/fixer tests (26)
+python3 scripts/test-refideas.py -v
+
+# Insert tests (22) — pure function, no API calls
+python3 scripts/test-l1-refideas-insert.py -v
+```
+
+48 tests total, all passing.
 
 ## Linter / Cleaner mode
 
@@ -354,6 +407,38 @@ All fixes produce clean, readable wikitext with each reference on its own line:
 
 Pages fixed so far: Cult film (multi_bullet, 5 refs split), Kinesoft (bullet_syntax), Toshakhana (bullet_syntax).
 
+### Insert tools
+
+Two CLIs for adding new references to `{{refideas}}` — a generic one for any reference, and an OCW-specific wrapper:
+
+```bash
+# Generic: add any reference to {{refideas}}
+python3 scripts/refideas-add.py "Algorithm" \
+    --url "https://example.com/algo-ref" \
+    --label "Algorithm Reference" \
+    --source "Example Press" \
+    --note "chapter 3"
+
+# OCW-specific: add MIT course suggestion
+python3 scripts/apply-l1-refideas.py "Algorithm" \
+    --course-id 6.006 \
+    --course-title "Introduction to Algorithms" \
+    --course-url "https://ocw.mit.edu/courses/6-006-..." \
+    --note "video lectures, problem sets"
+
+# Preview without posting (--dry-run)
+python3 scripts/refideas-add.py --dry-run "Algorithm" --url ... --label ...
+
+# Skip confirmation (--yes)
+python3 scripts/apply-l1-refideas.py --yes "Algorithm" --course-id ...
+```
+
+Both show a color-coded side-by-side diff, prompt [y/N] before posting, and use bot password auth from `.env`. The OCW wrapper imports auth/diff/post utilities from the generic tool — no code duplication.
+
+Deduplication: if the URL already appears anywhere on the Talk page, the insert is skipped with a `⏭` message.
+
 ## Next
 
-See `docs/CONTRIBUTION-LEVELS.md` for all five contribution levels.
+- **Tests:** `python3 scripts/test-l1-refideas-insert.py -v` — 22 tests for the pure function
+- **L2:** See `docs/CONTRIBUTION-LEVELS.md` — External links insertion (next priority)
+- **All levels:** `docs/CONTRIBUTION-LEVELS.md` for L1-L5 specs

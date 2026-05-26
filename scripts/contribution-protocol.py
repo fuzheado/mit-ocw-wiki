@@ -542,52 +542,47 @@ def make_l5(
 
 # ─── L1 Insertion Utility ─────────────────────────────────────────────────
 
-def l1_insert_refideas(
-    article_title: str,
-    course_id: str,
-    course_title: str,
-    course_url: str,
+def build_refideas_wikitext(
+    wikitext: str,
+    url: str,
+    label: str,
+    source: str = "",
     note: str = "",
 ) -> dict:
     """
-    Insert or append a {{refideas}} reference on a Wikipedia article Talk page.
-    Returns {"action": str, "wikitext": str, "summary": str} describing what happened.
-    
-    Uses the Wikimedia API to fetch the current Talk page wikitext,
-    then either appends to an existing {{refideas}} block or inserts a new one
-    before the first == heading.
-    
-    Requires: mwparserfromhell, urllib
+    Pure function: given Talk page wikitext, produce new wikitext with a
+    {{refideas}} reference appended or inserted. No API calls, no side effects.
+
+    This is the testable core — feed it any wikitext string, get back the
+    modified wikitext. For testing, pass hand-crafted wikitext fixtures.
+
+    Returns:
+        {"action": "append" | "insert" | "append_end",
+         "detail": str, "wikitext": str, "summary": str}
     """
     import mwparserfromhell
-    import urllib.request
-    import urllib.parse
-    import json
     import re
-    
-    UA = "MIT OCW Bot/1.0 (https://meta.wikimedia.org/wiki/Wiki_MIT; andrew.lih@gmail.com) ContentGapResearch"
-    
-    encoded = urllib.parse.quote(urllib.parse.unquote(article_title).replace(" ", "_"), safe="")
-    url = (
-        f"https://en.wikipedia.org/w/api.php"
-        f"?action=parse&page=Talk:{encoded}"
-        f"&prop=wikitext&format=json&formatversion=2"
-    )
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=15) as resp:
-        data = json.loads(resp.read())
-        wikitext = data["parse"]["wikitext"]
-    
-    label = f"MIT {course_id}: {course_title}"
-    ref = f"[{course_url} {label}], MIT OpenCourseWare"
+
+    # Known refideas template aliases (all redirect to Template:Refideas)
+    _REFIDEAS_ALIASES = {
+        "refideas", "refidea", "ri", "ref ideas",
+        "suggested sources", "suggested refs", "source ideas",
+        "potential sources", "possible sources", "refideas-nonotice",
+        "refsuggestion",
+    }
+
+    # Construct the reference string
+    ref = f"[{url} {label}]"
+    if source:
+        ref += f", {source}"
     if note:
         ref += f" ({note})"
-    
+
     code = mwparserfromhell.parse(wikitext)
     existing = code.filter_templates(
-        matches=lambda t: str(t.name).lower().strip() == "refideas"
+        matches=lambda t: str(t.name).lower().strip() in _REFIDEAS_ALIASES
     )
-    
+
     if existing:
         # Append to existing Refideas
         tmpl = existing[0]
@@ -602,29 +597,35 @@ def l1_insert_refideas(
         tmpl.add(str(new_num), ref)
         new_wikitext = str(code)
         return {
-            "action": f"append",
-            "detail": f"Appended as param #{new_num} to existing {{refideas}} (had {max_num} params)",
+            "action": "append",
+            "detail": f"Appended as param #{new_num} to existing {{{{refideas}}}} (had {max_num} params)",
             "wikitext": new_wikitext,
-            "summary": f"/* Reference suggestion */ Added MIT {course_id} to existing reference suggestions via Wiki MIT",
+            "summary": f"/* Reference suggestion */ Added {label} to existing reference suggestions",
         }
     else:
-        # Insert new Refideas block
-        refideas_block = f"\n{{refideas\n| 1 = {ref}\n}}\n"
+        # Insert new Refideas block before first == heading
+        refideas_block = f"\n{{{{refideas\n| 1 = {ref}\n}}}}\n"
         headings = code.filter_headings()
         if headings:
             first_heading_text = str(headings[0].title).strip()
             escaped = re.escape(first_heading_text)
-            pattern = rf"\n==\s*{escaped}\s*=="
-            m = re.search(pattern, wikitext)
+            # Match heading at start of line (or start of page)
+            pattern = rf"(?:^|\n)==\s*{escaped}\s*=="
+            m = re.search(pattern, wikitext, re.MULTILINE)
             if m:
-                new_wikitext = (
-                    wikitext[:m.start()] + refideas_block + wikitext[m.start():]
-                )
+                insert_pos = m.start()
+                if insert_pos == 0:
+                    # Heading at very start of page — no leading newline needed
+                    new_wikitext = refideas_block.lstrip('\n') + wikitext
+                else:
+                    new_wikitext = (
+                        wikitext[:insert_pos] + refideas_block + wikitext[insert_pos:]
+                    )
                 return {
                     "action": "insert",
-                    "detail": f"Inserted new {{refideas}} block before == {first_heading_text} ==",
+                    "detail": f"Inserted new {{{{refideas}}}} block before == {first_heading_text} ==",
                     "wikitext": new_wikitext,
-                    "summary": f"/* Reference suggestion */ Suggested MIT {course_id} as a resource via Wiki MIT",
+                    "summary": f"/* Reference suggestion */ Suggested {label} as a resource",
                 }
         # Fallback: no headings or couldn't locate — append at end
         new_wikitext = wikitext + refideas_block
@@ -632,8 +633,84 @@ def l1_insert_refideas(
             "action": "append_end",
             "detail": "No sections found — appended new {{refideas}} block at end of page",
             "wikitext": new_wikitext,
-            "summary": f"/* Reference suggestion */ Suggested MIT {course_id} as a resource via Wiki MIT",
+            "summary": f"/* Reference suggestion */ Suggested {label} as a resource",
         }
+
+
+def refideas_add(
+    article_title: str,
+    url: str,
+    label: str,
+    source: str = "",
+    note: str = "",
+) -> dict:
+    """
+    Add a reference to a Wikipedia Talk page's {{refideas}} template.
+
+    Orchestrator: fetches the current Talk page wikitext via the API,
+    runs dedup, then delegates to build_refideas_wikitext() for the
+    pure wikitext manipulation.
+
+    Generic — works for any reference, not just OCW.
+
+    Returns:
+        {"action": str, "detail": str, "wikitext": str, "summary": str,
+         "skipped": bool, "reason": str}
+    """
+    import urllib.request
+    import urllib.parse
+    import json
+
+    UA = "MIT OCW Bot/1.0 (https://meta.wikimedia.org/wiki/Wiki_MIT; andrew.lih@gmail.com) ContentGapResearch"
+
+    encoded = urllib.parse.quote(urllib.parse.unquote(article_title).replace(" ", "_"), safe="")
+    api_url = (
+        f"https://en.wikipedia.org/w/api.php"
+        f"?action=parse&page=Talk:{encoded}"
+        f"&prop=wikitext&format=json&formatversion=2"
+    )
+    req = urllib.request.Request(api_url, headers={"User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=15) as resp:
+        data = json.loads(resp.read())
+        wikitext = data["parse"]["wikitext"]
+
+    # Dedup: check if URL already appears on the Talk page
+    if url in wikitext:
+        return {
+            "action": "skip",
+            "detail": "URL already present on Talk page — skipping",
+            "wikitext": wikitext,
+            "summary": "",
+            "skipped": True,
+            "reason": "duplicate_url",
+        }
+
+    result = build_refideas_wikitext(wikitext, url, label, source, note)
+    result["skipped"] = False
+    result["reason"] = ""
+    return result
+
+
+def l1_insert_refideas(
+    article_title: str,
+    course_id: str,
+    course_title: str,
+    course_url: str,
+    note: str = "",
+) -> dict:
+    """
+    OCW-specific wrapper around refideas_add().
+
+    Formats the reference as:
+        [course_url MIT course_id: course_title], MIT OpenCourseWare (note)
+    """
+    return refideas_add(
+        article_title=article_title,
+        url=course_url,
+        label=f"MIT {course_id}: {course_title}",
+        source="MIT OpenCourseWare",
+        note=note,
+    )
 
 
 # ─── Example Records (from real project data) ───────────────────────────────

@@ -304,10 +304,16 @@ def _lint_duplicate_urls(tmpl, result: LintResult):
         value = str(param.value).strip()
         name = str(param.name).strip()
         
-        # Extract URL from the value
-        url_match = re.search(r'(https?://[^\s|}\]<>]+)', value)
+        # Extract URL from the value.
+        # Note: } is NOT in the exclusion set — URLs may contain wiki
+        # variables like {{CURRENTYEAR}}. Instead, strip trailing }}
+        # (wiki template close braces) after matching.
+        url_match = re.search(r'(https?://[^\s|\]<>]+)', value)
         if url_match:
-            url = url_match.group(1).rstrip('.,;:')
+            url = url_match.group(1)
+            while url.endswith('}}'):
+                url = url[:-2]
+            url = url.rstrip('.,;:')
             if url in seen_urls:
                 result.errors.append(LintError(
                     type="duplicate_url",
@@ -391,9 +397,12 @@ def generate_fix(wikitext: str, article_title: str) -> Tuple[str, List[LintError
         seen_urls = {}
         for param in list(tmpl.params):
             pval = str(param.value).strip()
-            pmatch = re.search(r'(https?://[^\s|\]<>}]+)', pval)
+            pmatch = re.search(r'(https?://[^\s|\]<>]+)', pval)
             if pmatch:
-                url = pmatch.group(1).rstrip('.,;:')
+                url = pmatch.group(1)
+                while url.endswith('}}'):
+                    url = url[:-2]
+                url = url.rstrip('.,;:')
                 if url in seen_urls:
                     tmpl.remove(param)
                     errors.append(LintError(

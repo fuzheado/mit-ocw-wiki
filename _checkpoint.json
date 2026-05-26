@@ -30,9 +30,12 @@
       "linter_built": true,
       "fixer_built": true,
       "live_editor_built": true,
-      "test_suite": "26 tests, all passing",
+      "insert_editor_built": true,
+      "generic_cli_built": true,
+      "pure_function_extracted": true,
+      "test_suite": "50 tests, all passing (28 linter + 22 insert)",
       "pages_fixed": 8,
-      "notes": "Three fix types: multi_bullet, bullet_syntax, duplicate_url. Editing via bot password in .env."
+      "notes": "Three fix types: multi_bullet, bullet_syntax, duplicate_url. Insert: build_refideas_wikitext (pure fn, 22 tests) + refideas_add (orchestrator + dedup) + l1_insert_refideas (OCW wrapper). Generic CLI: refideas-add.py. Editing via bot password in .env."
     },
     "l2_external_links": {
       "complete": false,

@@ -1,7 +1,7 @@
 # Handoff — Session Context for New Agents
 
 > **Last updated:** 2026-05-26
-> **Project state:** L1 (refideas linter/fixer) production-ready. L2-L5 designed but not built.
+> **Project state:** L1 (refideas insert, linter, fixer) production-ready. L2-L5 designed but not built.
 
 ---
 
@@ -17,7 +17,7 @@ Read `README.md` for the full overview. Read `docs/ROADMAP.md` for the plan.
 
 ---
 
-## What we built this session (L1 — Refideas linter and fixer)
+## What we built (L1 — Refideas insert, linter, and fixer)
 
 ### Scripts
 
@@ -25,8 +25,11 @@ Read `README.md` for the full overview. Read `docs/ROADMAP.md` for the plan.
 |--------|---------|-------------|
 | `scripts/lint-refideas.py` | Detect 6 error types in `{{refideas}}` templates across 11 aliases | `--fetch "Article"`, `--sample 50`, `--classify 30`, `--fix "Article"` |
 | `scripts/apply-refideas-fix.py` | Apply fixes to live Wikipedia with auth | `"Article"`, `--dry-run`, `--yes`, `--survey 50` |
-| `scripts/contribution-protocol.py` | L1-L5 data model, factories, validation, L1 insertion utility | `--validate`, `--wikitext`, `--l1-test` |
-| `scripts/test-refideas.py` | 26 regression tests | `python3 scripts/test-refideas.py -v` |
+| `scripts/contribution-protocol.py` | L1-L5 data model, factories, validation; `build_refideas_wikitext()` (pure fn), `refideas_add()` (orchestrator), `l1_insert_refideas()` (OCW wrapper) | `--validate`, `--wikitext`, `--l1-test` |
+| `scripts/refideas-add.py` | **Generic** CLI — add any reference to `{{refideas}}` (not OCW-specific) | `"Article" --url "..." --label "..." [--source "..."] [--note "..."]` |
+| `scripts/apply-l1-refideas.py` | **OCW wrapper** CLI — formats `--course-id` etc. and delegates to generic tools | `"Article" --course-id 6.006 --course-title "..." --course-url "..."` |
+| `scripts/test-refideas.py` | 28 regression tests (linter/fixer) | `python3 scripts/test-refideas.py -v` |
+| `scripts/test-l1-refideas-insert.py` | 22 tests for `build_refideas_wikitext()` (pure function, no API) | `python3 scripts/test-l1-refideas-insert.py -v` |
 
 ### Fix types
 
@@ -49,7 +52,21 @@ WIKIPEDIA_BOT_PASSWORD=your_bot_password
 
 Workflow: `--survey` to find pages → `--dry-run "Article"` to preview → `"Article"` to apply (with color diff + [y/N]).
 
-8 pages fixed on live Wikipedia this session.
+8 pages fixed on live Wikipedia. L1 insert editor tested on live Talk pages.
+
+### Architecture: pure function + orchestrator pattern
+
+L1 refactored into three layers (pattern to follow for L2-L5):
+
+- **`build_refideas_wikitext(wikitext, url, label, source, note)`** — pure function. Takes wikitext string in, returns modified wikitext out. No API calls, no side effects. 22 offline tests.
+- **`refideas_add(article, url, label, source, note)`** — orchestrator. Fetches Talk page via API, deduplicates by URL, delegates to `build_refideas_wikitext()`.
+- **`l1_insert_refideas(article, course_id, course_title, url, note)`** — OCW wrapper. Formats `"[url MIT id: title], MIT OpenCourseWare (note)"` and calls `refideas_add()`.
+
+New features in this refactor:
+- **Deduplication** — checks entire Talk page for the URL before inserting; skips with `⏭` message
+- **11 template aliases** recognized (refideas, refidea, RI, suggested sources, etc.)
+- **Heading at page start** handled (no leading `\n` before `==`)
+- **Generic CLI** (`refideas-add.py`) — works for any reference, not just OCW
 
 ### Key architectural decisions
 
@@ -90,6 +107,8 @@ The work queue: join Impact Matrix data with OCW match data to produce a priorit
 ## Common workflows
 
 ```bash
+# ── Linter / fixer ──
+
 # Lint one page
 python3 scripts/lint-refideas.py --fetch "Article"
 
@@ -108,8 +127,33 @@ python3 scripts/apply-refideas-fix.py --yes "Article"
 # Classify reference types
 python3 scripts/lint-refideas.py --classify 30
 
-# Run tests
+# ── Insert new references ──
+
+# Generic: add any reference to {{refideas}}
+python3 scripts/refideas-add.py "Article" \
+    --url "https://example.com/ref" \
+    --label "Reference Label" \
+    --source "Source Name" \
+    --note "optional note"
+
+# OCW-specific: add MIT course as refideas suggestion
+python3 scripts/apply-l1-refideas.py "Article" \
+    --course-id 6.006 \
+    --course-title "Introduction to Algorithms" \
+    --course-url "https://ocw.mit.edu/courses/6-006-..." \
+    --note "video lectures, problem sets"
+
+# Preview either without posting (--dry-run)
+python3 scripts/apply-l1-refideas.py --dry-run "Article" --course-id ...
+
+# Quick dry-run from contribution-protocol (no auth needed)
+python3 scripts/contribution-protocol.py --l1-test "Article"
+
+# ── Tests ──
+
+# All L1 tests (50 total: 28 linter + 22 insert)
 python3 scripts/test-refideas.py -v
+python3 scripts/test-l1-refideas-insert.py -v
 ```
 
 ---
@@ -118,7 +162,7 @@ python3 scripts/test-refideas.py -v
 
 | Doc | Covers |
 |-----|--------|
-| `docs/L1-REFIDEAS.md` | Complete L1 reference: algorithm, flow chart, linter, live editing |
+| `docs/L1-REFIDEAS.md` | Complete L1 reference: algorithm, flow chart, linter, insert editor, live editing, pure function pattern |
 | `docs/CONTRIBUTION-LEVELS.md` | All five L1-L5 levels with processing specs |
 | `docs/CONTRIBUTION-PROTOCOL.md` | ContributionRecord data schema |
 | `docs/ROADMAP.md` | Project roadmap: Phase 2 (integration) + Phase 3 (contribution interface) |
