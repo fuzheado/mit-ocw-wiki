@@ -502,6 +502,23 @@ def _is_low_value_article(title: str) -> bool:
         if pat in lower:
             return True
 
+    # Geo-locale articles: "Solar power in the United Kingdom" —
+    # a general MIT course isn't uniquely useful for country-specific articles
+    geo_patterns = (
+        " in the united kingdom", " in the united states",
+        " in the republic of", " in the united arab",
+        " in india", " in china", " in japan", " in germany",
+        " in france", " in canada", " in australia", " in brazil",
+        " in russia", " in italy", " in spain", " in mexico",
+        " in south korea", " in south africa",
+        " in california", " in texas", " in new york",
+        " in london", " in scotland", " in wales", " in england",
+        " by country",
+    )
+    for pat in geo_patterns:
+        if pat in lower:
+            return True
+
     return False
 
 
