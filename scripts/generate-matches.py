@@ -130,6 +130,19 @@ def _is_low_value_article(title: str) -> bool:
     for pat in mooc:
         if pat in lower:
             return True
+    # Articles about specific organizations — labs, companies, agencies, societies
+    org_patterns = (
+        " laboratory of ", " laboratories",
+        " corporation", " inc", " ltd", " llc", " company",
+        " society of ", " association of ", " foundation",
+        " research center", " research institute",
+        " agency", " administration",
+        " ministry of ", " bureau of ", " commission",
+        " department of ",
+    )
+    for pat in org_patterns:
+        if pat in lower:
+            return True
     return False
 
 
