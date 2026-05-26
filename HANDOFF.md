@@ -10,12 +10,12 @@
 
 ## 2. Key session-specific knowledge (not in other docs)
 
-These are things a new agent would need to know that aren't captured in `DESIGN.md` or `PRD`:
+These are things a new agent would need to know that aren't captured in `docs/impact-matrix/design.md` or the PRD:
 
 - **Data generation script is inline** — The Python script that fetches Popular pages, runs SQL, and parses wikitext with mwparserfromhell was executed as multiple inline heredocs. There is no standalone `.py` file for it yet. To regenerate data, you must reconstruct the heredoc or extract it into `scripts/generate-impact-matrix-data.py`.
 - **`templatelinks` schema changed** — The table no longer has `tl_title`. It uses `tl_target_id` which joins to `linktarget.lt_id` where the actual title lives. This applies to ALL Wikimedia replica queries.
 - **`pageview_daily_average` doesn't exist** in `enwiki_p`. Zero rows. The REST API rate-limits improved after we added a compliant User-Agent, but Popular pages are still the preferred source (1 API call vs 1,000+).
-- **Popular pages are fetched via `action=parse` with `prop=text`** (rendered HTML), not `prop=wikitext`. Parsed with regex on `<table class="wikitable">`. This works because the bot output is stable but is intentionally not using mwparserfromhell (see DESIGN.md for rationale).
+- **Popular pages are fetched via `action=parse` with `prop=text`** (rendered HTML), not `prop=wikitext`. Parsed with regex on `<table class="wikitable">`. This works because the bot output is stable but is intentionally not using mwparserfromhell (see docs/impact-matrix/design.md for rationale).
 - **Wikitext for individual article context** was fetched via `action=parse&prop=wikitext` during data generation. The client-side JS approaches (`fetch()` with CORS, JSONP) both failed from `file://` — this is why context is pre-computed.
 - **mwparserfromhell `ifilter_templates(recursive=True)` returns duplicates** — same template appears in parent and child sections. Must deduplicate by text position.
 - **`Overly_technical`, `Needs_diagram`, `Scientific_verification`** don't exist in the `linktarget` table. They're in the query list but never match.
@@ -35,13 +35,13 @@ scripts/
 notes/
   pageview-data-issues.md  ← Pageview API limitations
   detail-panel-spec.md     ← Detail panel spec
-DESIGN.md                   ← Architecture, data flow, key decisions
-PRD-CONTRIBUTION-IMPACT-MATRIX.md  ← Product requirements
+docs/impact-matrix/design.md                   ← Architecture, data flow, key decisions
+docs/impact-matrix/prd.md                       ← Product requirements
 ```
 
 Other relevant scripts:
 - `scripts/crossref-wikipedia.py` — Earlier OCW crossref tool. Separate concern (OCW-specific). Not needed for the generic Impact Matrix.
-- `.claude/skills/wikimedia-database/SKILL.md` — SSH tunnel setup guide.
+- `wikimedia-database` skill from the [Wikipedia-AI-Skills](https://github.com/fuzheado/Wikipedia-AI-Skills) repo — SSH tunnel setup guide (clone the repo and load its `.claude/skills/` directory).
 
 ## 4. Next actions (recommended order)
 

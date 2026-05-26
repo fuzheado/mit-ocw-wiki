@@ -8,15 +8,23 @@ This wiki catalogs every course, links them by department, topic, and instructor
 
 ## Current state
 
-- API connection: confirmed
-- Courses discovered: 2,577
-- Departments: 37
-- Topics: 110
-- Course pages: 0 (not yet ingested)
+- Courses ingested: **2,577** (all courses from MIT Learn API)
+- Course pages with asset scans: **12** (hybrid-scanned; remaining 2,565 have basic metadata)
+- Departments: **37** | Topics: **110** | Instructors: **2,142**
+- Wikipedia cross-references: **57 candidate matches** across **9 WikiProjects** (demo; see [[crossref-summary]])
+- Contribution Impact Matrix: **8 WikiProjects, 6,500 articles** visualized in standalone HTML (see wiki/impact-matrix/standalone.html)
+- Match Heatmap: **18 OCW departments × 9 WikiProjects** interactive matrix (see [[crossref-heatmap]])
+
+## Tools built
+
+- **OCW Course Wiki** — 2,577 interlinked course pages with YAML frontmatter, typed assets, instructor index, and department pages
+- **Match Heatmap** — cross-reference matrix showing where OCW departments overlap with Wikipedia WikiProjects
+- **Contribution Impact Matrix** — D3.js bubble scatterplot surfacing high-impact Wikipedia articles by quality, pageviews, importance, and maintenance templates
 
 ## Next steps
 
-1. Build department and topic pages (Stage 1)
-2. Ingest courses in batches of 100 (Stage 2)
-3. Scan assets and apply utility rubric (Stage 3)
-4. Cross-reference against Wikipedia (Stage 4)
+See `docs/ROADMAP.md` for the full plan. In brief:
+
+1. **Wire OCW match data into the Impact Matrix** (MIT Mode)
+2. **Build per-article match lookup** (Matchmaker API Phase 1)
+3. **Build contribution interface** — work queue for applying OCW-based edits to Wikipedia

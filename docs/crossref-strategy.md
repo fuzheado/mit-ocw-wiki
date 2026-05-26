@@ -262,10 +262,10 @@ The `scripts/crossref-wikipedia.py` script follows this flow:
 
 ### Skill files
 
-The three skills are located at:
-- `.claude/skills/wikimedia-database/SKILL.md` — SSH tunnel setup, connection management, guardrails
-- `.claude/skills/wikimedia-page-assessment/SKILL.md` — `page_assessments` schema, Talk page paradox, multi-project dedup
-- `.claude/skills/wikimedia-pageviews/SKILL.md` — `page_props` for cached averages, REST API for precise historical data
+The three relevant skills are provided by the [Wikipedia-AI-Skills](https://github.com/fuzheado/Wikipedia-AI-Skills) repo. Clone it and load its `.claude/skills/` directory:
+- `wikimedia-database/SKILL.md` — SSH tunnel setup, connection management, guardrails
+- `wikimedia-page-assessment/SKILL.md` — `page_assessments` schema, Talk page paradox, multi-project dedup
+- `wikimedia-pageviews/SKILL.md` — `page_props` for cached averages, REST API for precise historical data
 
 ### Unified scoring model
 
@@ -343,7 +343,7 @@ These pages serve as a "Wikipedia gap map" — they show which articles have the
    - `TOOLFORGE_USER`, `TOOLFORGE_SQL_USER`, `TOOLFORGE_SQL_PASSWORD` in `.env`
    - SSH keys added to `ssh-agent`
    - `pymysql` and `python-dotenv` installed
-   - The root-level files `WIKIMEDIA_DATABASE_SKILL.md`, `WIKIMEDIA_PAGE_ASSESSMENT.md`, `WIKIMEDIA_PAGEVIEWS.md` also live as skill files in `.claude/skills/`
+   - Skill files for SQL patterns live in the [Wikipedia-AI-Skills](https://github.com/fuzheado/Wikipedia-AI-Skills) repo (`.claude/skills/`) — see `wikimedia-database`, `wikimedia-page-assessment`, and `wikimedia-pageviews`
 5. **Script location.** This would be a `scripts/crossref-wikipedia.py` following the same pattern as `scan-assets.py`. Read the skill files for SQL patterns before running.
 
 ## Report mode and visualization

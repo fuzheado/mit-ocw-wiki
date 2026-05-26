@@ -1,3 +1,7 @@
+Here is the consolidated **Skill Specification**. I have designed this to be "agent-ready," including the environment variable logic, the connectivity check, and the specific handling required for Wikimedia's database schema.
+
+---
+
 # 🛠 Skill: Wikimedia Database Access (Local SSH Tunnel)
 
 ## **Description**
@@ -10,6 +14,7 @@ Enables the agent to execute dynamic SQL queries against Wikimedia production re
 * `TOOLFORGE_USER`: The shell/LDAP username for SSH (e.g., `alih`).
 * `TOOLFORGE_SQL_USER`: The replica database username (e.g., `u1234`).
 * `TOOLFORGE_SQL_PASSWORD`: The replica database password.
+
 
 * **SSH Config:** The user must have their SSH keys added to the `ssh-agent` to allow non-interactive connections.
 

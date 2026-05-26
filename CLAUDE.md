@@ -7,9 +7,9 @@ This project builds an LLM Wiki from MIT OpenCourseWare's 2,577 courses.
 ## Schema Files (read them)
 
 - `OCW-LLM-WIKI.md` — main schema: Normalization Protocol, asset typing, Wikipedia Utility Rubric, Bridge Generation, lint rules
-- `OCW-LLM-WIKI-GIT.md` — version control: commit strategy, branching, recovery
-- `OCW-LLM-WIKI-EXECUTION.md` — staged execution plan with checkpoint resume
-- `CROSSREF-STRATEGY.md` — Wikipedia cross-reference strategy: three-tier matching, scoring model, unified SQL query with WikiProject assessment data
+- `docs/crossref-strategy.md` — Wikipedia cross-reference strategy: three-tier matching, scoring model, unified SQL query with WikiProject assessment data
+- `docs/git-strategy.md` — version control: commit strategy, branching, recovery
+- `archive/ocw-llm-wiki-execution.md` — staged execution plan with checkpoint resume (historical)
 - Wikimedia skill files (`.claude/skills/wikimedia-*`) — SSH tunnel to enwiki_p replicas, page assessment queries, pageview data
 
 ## First-Session Behavior

@@ -5,9 +5,10 @@
 This document describes how the Wiki MIT project was built — not by a
 developer writing code from a spec, but by a human Wikipedia editor
 collaborating with an LLM coding agent over many sessions. The project's
-goal: connect MIT OpenCourseWare's 2,577 open-licensed courses to Wikipedia
+goal: correlate MIT OpenCourseWare's 2,577 open-licensed courses to Wikipedia
 articles that need improvement, using WikiProject data (pageviews, quality
 ratings, maintenance templates) to surface high-impact editing opportunities.
+
 The tools produced include a D3.js bubble scatterplot (Contribution Impact
 Matrix) and a cross-reference heatmap between OCW departments and Wikipedia
 WikiProjects. The project is primarily **Python** (data generation, SQL

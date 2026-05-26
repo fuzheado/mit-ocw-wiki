@@ -301,7 +301,7 @@ match_method: "title|topic|keyword"
 
 ## Wikipedia Cross-Reference
 
-See `CROSSREF-STRATEGY.md` for the full strategy.
+See `docs/crossref-strategy.md` for the full strategy.
 
 TL;DR — three-tier matching approach:
 1. **Template-driven gaps** — find Wikipedia articles with `{{Citation needed}}`, `{{Missing information}}`, etc. in OCW topic areas
@@ -464,7 +464,7 @@ All OCW content is CC BY-NC-SA 4.0. Track `license: "CC BY-NC-SA"` in frontmatte
 
 ## Version Control
 
-See `OCW-LLM-WIKI-GIT.md` for version control best practices.
+See `docs/git-strategy.md` for version control best practices.
 
 ## Tools
 

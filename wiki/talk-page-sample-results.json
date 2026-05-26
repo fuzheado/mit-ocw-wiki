@@ -1,0 +1,557 @@
+[
+  {
+    "article": "Nuclear weapon",
+    "wikiproject": "Environment",
+    "category": "A",
+    "description": "Templates only (no sections)",
+    "analysis": {
+      "has_sections": false,
+      "template_count": 12,
+      "templates": [
+        "pp-protected",
+        "Talk header",
+        "ArticleHistory",
+        "WikiProject banner shell",
+        "WikiProject Military history",
+        "WikiProject Physics",
+        "WikiProject Engineering",
+        "WikiProject Environment",
+        "WikiProject Science Policy",
+        "User:MiszaBot"
+      ],
+      "preamble_length": 1727,
+      "last_template_end": 1727
+    }
+  },
+  {
+    "article": "Algorithm",
+    "wikiproject": "Computer Science",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 8,
+      "templates": [
+        "Article history",
+        "WikiProject banner shell",
+        "WikiProject Computing",
+        "WikiProject Mathematics",
+        "WikiProject Computer science",
+        "User:MiszaBot",
+        "Automatic archive navigator",
+        "Archives"
+      ],
+      "preamble_length": 1078,
+      "last_template_end": 1078
+    }
+  },
+  {
+    "article": "Machine learning",
+    "wikiproject": "Computer Science",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 14,
+      "templates": [
+        "Talk header",
+        "British English",
+        "WikiProject banner shell",
+        "WikiProject Robotics",
+        "WikiProject Statistics",
+        "WikiProject Mathematics",
+        "WikiProject Systems",
+        "WikiProject Computing",
+        "WikiProject Computer science",
+        "WikiProject Artificial Intelligence"
+      ],
+      "preamble_length": 1870,
+      "last_template_end": 1863
+    }
+  },
+  {
+    "article": "Finance",
+    "wikiproject": "Business",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 5,
+      "templates": [
+        "Talk header",
+        "WikiProject banner shell",
+        "WikiProject Finance & Investment",
+        "WikiProject Business",
+        "Prone to spam"
+      ],
+      "preamble_length": 209,
+      "last_template_end": 208
+    }
+  },
+  {
+    "article": "Probability",
+    "wikiproject": "Mathematics",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 9,
+      "templates": [
+        "Talk header",
+        "WikiProject banner shell",
+        "WikiProject Statistics",
+        "WikiProject Mathematics",
+        "WikiProject Philosophy",
+        "WikiProject Physics",
+        "User:MiszaBot",
+        "Aan",
+        "archives"
+      ],
+      "preamble_length": 461,
+      "last_template_end": 460
+    }
+  },
+  {
+    "article": "Hearing",
+    "wikiproject": "Biology",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 7,
+      "templates": [
+        "WikiProject banner shell",
+        "WikiProject Biology",
+        "WikiProject Deaf",
+        "WikiProject Medicine",
+        "WikiProject Neuroscience",
+        "WikiProject Occupational Safety and Health",
+        "Broken anchors"
+      ],
+      "preamble_length": 1248,
+      "last_template_end": 935
+    }
+  },
+  {
+    "article": "Linguistics",
+    "wikiproject": "Linguistics & Philosophy",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 9,
+      "templates": [
+        "Talk header",
+        "British English Oxford spelling",
+        "WikiProject banner shell",
+        "WikiProject Linguistics",
+        "WikiProject Writing",
+        "WikiProject Languages",
+        "User:HBC Archive Indexerbot",
+        "User:MiszaBot",
+        "aan"
+      ],
+      "preamble_length": 536,
+      "last_template_end": 535
+    }
+  },
+  {
+    "article": "Electron configuration",
+    "wikiproject": "Chemistry",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 8,
+      "templates": [
+        "WikiProject banner shell",
+        "WikiProject Physics",
+        "WikiProject Chemistry",
+        "merged-from",
+        "merged-from",
+        "User:MiszaBot",
+        "talkarchivenav",
+        "Archives"
+      ],
+      "preamble_length": 473,
+      "last_template_end": 472
+    }
+  },
+  {
+    "article": "Earth Day",
+    "wikiproject": "Environment",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 11,
+      "templates": [
+        "Talk header",
+        "WikiProject banner shell",
+        "WikiProject Environment",
+        "WikiProject Holidays",
+        "press",
+        "Former TAFI",
+        "User:MiszaBot",
+        "OnThisDay",
+        "Top 25 Report",
+        "High traffic"
+      ],
+      "preamble_length": 1601,
+      "last_template_end": 1600
+    }
+  },
+  {
+    "article": "Deepwater Horizon oil spill",
+    "wikiproject": "Environment",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 37,
+      "templates": [
+        "Skip to talk",
+        "Talk header",
+        "Notice",
+        "find",
+        "find",
+        "find",
+        "ITN talk",
+        "date",
+        "date",
+        "date"
+      ],
+      "preamble_length": 4726,
+      "last_template_end": 4725
+    }
+  },
+  {
+    "article": "Carbon dioxide",
+    "wikiproject": "Environment",
+    "category": "F",
+    "description": "Complex (banner shell + multiple extras)",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 14,
+      "templates": [
+        "Skip to talk",
+        "Talk header",
+        "American English",
+        "Article history",
+        "WikiProject banner shell",
+        "WikiProject Chemicals",
+        "WikiProject Environment",
+        "WikiProject Occupational Safety and Health",
+        "WikiProject Volcanoes",
+        "WikiProject Climate change"
+      ],
+      "preamble_length": 1078,
+      "last_template_end": 1077
+    }
+  },
+  {
+    "article": "Extinction",
+    "wikiproject": "Biology",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 13,
+      "templates": [
+        "Talk header",
+        "Article history",
+        "WikiProject banner shell",
+        "WikiProject Extinction",
+        "WikiProject Death",
+        "WikiProject Environment",
+        "WikiProject Biology",
+        "WikiProject Evolutionary biology",
+        "WikiProject York Museums Trust",
+        "WikiProject Palaeontology"
+      ],
+      "preamble_length": 875,
+      "last_template_end": 874
+    }
+  },
+  {
+    "article": "Petroleum",
+    "wikiproject": "Environment",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 9,
+      "templates": [
+        "Talk header",
+        "Merged",
+        "WikiProject banner shell",
+        "WikiProject Chemistry",
+        "WikiProject Climate change",
+        "WikiProject Energy",
+        "WikiProject Environment",
+        "User:MiszaBot",
+        "aan"
+      ],
+      "preamble_length": 432,
+      "last_template_end": 431
+    }
+  },
+  {
+    "article": "Cancer",
+    "wikiproject": "Medicine",
+    "category": "F",
+    "description": "Complex (banner shell + multiple extras)",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 10,
+      "templates": [
+        "Talk header",
+        "Article history",
+        "WikiProject banner shell",
+        "WikiProject Molecular Biology",
+        "WikiProject Medicine",
+        "WikiProject Occupational Safety and Health",
+        "WikiProject Environment",
+        "Reliable sources for medical articles",
+        "User:MiszaBot",
+        "talkarchivenav"
+      ],
+      "preamble_length": 1415,
+      "last_template_end": 1414
+    }
+  },
+  {
+    "article": "Chemical bond",
+    "wikiproject": "Chemistry",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 2,
+      "templates": [
+        "WikiProject banner shell",
+        "WikiProject Chemistry"
+      ],
+      "preamble_length": 93,
+      "last_template_end": 92
+    }
+  },
+  {
+    "article": "VSEPR theory",
+    "wikiproject": "Chemistry",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 5,
+      "templates": [
+        "WikiProject banner shell",
+        "WikiProject Chemistry",
+        "Merged-from",
+        "merged-from",
+        "merged-from"
+      ],
+      "preamble_length": 212,
+      "last_template_end": 212
+    }
+  },
+  {
+    "article": "Thermodynamics",
+    "wikiproject": "Physics",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 10,
+      "templates": [
+        "Talk header",
+        "ArticleHistory",
+        "WikiProject banner shell",
+        "WikiProject Chemistry",
+        "WikiProject Engineering",
+        "WikiProject Physics",
+        "archive box",
+        "User:MiszaBot",
+        "aan",
+        "User:HBC Archive Indexerbot"
+      ],
+      "preamble_length": 992,
+      "last_template_end": 991
+    }
+  },
+  {
+    "article": "Hybrid vehicle",
+    "wikiproject": "Technology",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 6,
+      "templates": [
+        "Talk header",
+        "WikiProject banner shell",
+        "WikiProject Automobiles",
+        "WikiProject Environment",
+        "Controversial-issues",
+        "Archives"
+      ],
+      "preamble_length": 213,
+      "last_template_end": 212
+    }
+  },
+  {
+    "article": "Supply chain",
+    "wikiproject": "Business",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 10,
+      "templates": [
+        "talkheader",
+        "WikiProject banner shell",
+        "WikiProject Business",
+        "WikiProject Trade",
+        "WikiProject Globalization",
+        "WikiProject Economics",
+        "WikiProject Systems",
+        "WikiProject Materials",
+        "WikiProject Transport",
+        "User:ClueBot III"
+      ],
+      "preamble_length": 514,
+      "last_template_end": 513
+    }
+  },
+  {
+    "article": "Renewable energy",
+    "wikiproject": "Environment",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 13,
+      "templates": [
+        "Talk header",
+        "FailedGA",
+        "WikiProject banner shell",
+        "WikiProject Energy",
+        "WikiProject Physics",
+        "WikiProject Environment",
+        "WikiProject Climate change",
+        "WikiProject Electrical engineering",
+        "Copied",
+        "User:MiszaBot"
+      ],
+      "preamble_length": 2670,
+      "last_template_end": 1513
+    }
+  },
+  {
+    "article": "Earthrise",
+    "wikiproject": "Environment",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 9,
+      "templates": [
+        "Talk header",
+        "WikiProject banner shell",
+        "WikiProject Astronomy",
+        "WikiProject Spaceflight",
+        "WikiProject Visual arts",
+        "WikiProject Photography",
+        "WikiProject Environment",
+        "WPUSA",
+        "OnThisDay"
+      ],
+      "preamble_length": 506,
+      "last_template_end": 505
+    }
+  },
+  {
+    "article": "Asbestos",
+    "wikiproject": "Environment",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 11,
+      "templates": [
+        "talkheader",
+        "WikiProject banner shell",
+        "WikiProject Medicine",
+        "WikiProject Rocks and minerals",
+        "WikiProject Occupational Safety and Health",
+        "WikiProject Environment",
+        "WikiProject Geology",
+        "section sizes",
+        "User:MiszaBot",
+        "aan"
+      ],
+      "preamble_length": 612,
+      "last_template_end": 611
+    }
+  },
+  {
+    "article": "Biochemistry",
+    "wikiproject": "Chemistry",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 6,
+      "templates": [
+        "WikiProject banner shell",
+        "WikiProject Biology",
+        "WikiProject Chemistry",
+        "WikiProject Molecular Biology",
+        "WikiProject Pharmacology",
+        "Copied"
+      ],
+      "preamble_length": 418,
+      "last_template_end": 417
+    }
+  },
+  {
+    "article": "Bromide",
+    "wikiproject": "Chemistry",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 4,
+      "templates": [
+        "Talk header",
+        "WikiProject banner shell",
+        "WikiProject Chemistry",
+        "WikiProject Medicine"
+      ],
+      "preamble_length": 152,
+      "last_template_end": 151
+    }
+  },
+  {
+    "article": "Kindness",
+    "wikiproject": "Biology",
+    "category": "C",
+    "description": "Banner shell pattern",
+    "analysis": {
+      "has_sections": true,
+      "template_count": 8,
+      "templates": [
+        "WikiProject banner shell",
+        "WikiProject Sociology",
+        "WikiProject Biology",
+        "WikiProject Religion",
+        "WikiProject Psychology",
+        "WikiProject Philosophy",
+        "Old AfD multi\n<!-- 1st -->",
+        "Copied"
+      ],
+      "preamble_length": 915,
+      "last_template_end": 914
+    }
+  }
+]

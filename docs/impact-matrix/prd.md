@@ -1,7 +1,7 @@
 # PRD: Wiki Contribution Impact Matrix
 
 > **v0.1 released** — see `wiki/impact-matrix/standalone.html` for the current prototype.
-> Implementation status is marked below with ✅ (done), 🔄 (partial), or ⬜ (not yet).
+> Implementation architecture and key decisions are documented in `docs/impact-matrix/design.md`.
 
 A bubble-scatterplot visualization that surfaces "enrichment opportunities" (articles where OCW materials — or any editor's efforts — can fill Wikipedia's known gaps) using pageviews, quality assessment, importance ratings, and maintenance templates.
 
@@ -37,10 +37,6 @@ A toggle in the header switches to MIT Mode, which:
 Target user: OCW wiki maintainers assessing cross-project coverage.
 
 The split ensures the tool is useful beyond OCW from day one, while MIT Mode provides the project-specific value we need for OCW cross-referencing. It also makes prototyping easier — we can develop and refine Generic Mode with a single WikiProject before adding the OCW overlay complexity.
-
-## Problem
-
-Wikipedia articles carry multiple signals — pageviews, quality class, importance rating, and maintenance templates — but these live in separate database tables and are never shown together in one view. An editor trying to prioritize where to contribute has no way to see across all four dimensions at once.
 
 ## Terminology
 
@@ -104,17 +100,17 @@ article_url      | VARCHAR  — OCW course URL
 
 This data is pre-computed by `crossref-wikipedia.py` and stored as a JSON sidecar, then joined client-side against the live query results.
 
-## Feature requirements ✅ (v0.1)
+## Feature requirements (v0.1 — built)
 
-### 0. Entry point: Project picker ✅
+### 0. Entry point: Project picker
 
 The tool opens to a project picker — a searchable dropdown or typeahead listing all WikiProjects with qualifying articles (those with assessments + pageview data). Each entry shows the project name and article count. "All Projects" is an option (runs a sweep across all projects). Below the picker, a toggle labeled "MIT Mode" switches to the restricted project list and OCW overlay.
 
-### 1. Bubble scatterplot (primary view) ✅
+### 1. Bubble scatterplot (primary view)
 
 - **X axis**: Quality (ordered Stub ← Start ← C ← B ← GA ← FA). Treated as ordinal — spacing reflects judgment, not a linear scale.
-- **X axis dynamic collapse**: Hidden quality classes removed from scale ✅
-- **Y axis**: Pageviews (log scale by default, toggle to linear). ✅
+- **X axis dynamic collapse**: Hidden quality classes removed from scale
+- **Y axis**: Pageviews (log scale by default, toggle to linear).
 - **Each bubble** = one article.
 - **Bubble size**: Importance (Top > High > Mid > Low).
 - **Bubble color**: Template count (green = 0, yellow = 1-2, orange = 3-5, red = 6+).
@@ -122,7 +118,7 @@ The tool opens to a project picker — a searchable dropdown or typeahead listin
 - **Quadrant overlays**: Faint shaded zones labeled "Sweet Spots", "Stars", "Sleepers", "Tail".
 - **Axis labels**: article count per quality class on X, view thresholds on Y.
 
-### 2. Quality source toggle
+### 2. Quality source toggle *(planned)*
 
 Users can switch between two quality signals:
 
@@ -139,7 +135,7 @@ When **Predicted** is selected:
 
 The toggle has three states: Assessed (default), Predicted, and Side-by-side (bubble interior shows assessed, a small outer ring shows predicted — for comparison).
 
-### 3. MIT Mode toggle
+### 3. MIT Mode toggle *(planned)*
 
 - When enabled, the project picker restricts to the ~25 OCW-aligned WikiProjects.
 - A "Run All" button triggers parallel queries across all 25.
@@ -174,7 +170,7 @@ On filter change, re-query if the project changed; otherwise filter client-side 
 
 Toggleable below the scatterplot. A sortable, filterable data table showing the same set of articles as rows. Columns: Title, Quality, Importance, Views (compact: 10k), Templates (as pills), and in MIT Mode: OCW match (course code + icon). Synced with the scatterplot — selecting a row highlights its bubble and vice versa.
 
-### 7. Export / share
+### 7. Export / share *(planned)*
 
 - "Copy as markdown table" (respects current filter state).
 - "Share as link" (URL-encoded filter + mode state). In Generic Mode, links are portable to any editor.
@@ -189,7 +185,7 @@ Toggleable below the scatterplot. A sortable, filterable data table showing the 
 
 ### Performance
 
-The "killer query" (from `CROSSREF-STRATEGY.md`) completes in under 500ms for a single WikiProject:
+The "killer query" (from `docs/crossref-strategy.md`) completes in under 500ms for a single WikiProject:
 
 ```sql
 SELECT p.page_title, pap.pap_project_title AS wikiproject,
@@ -320,13 +316,26 @@ These were discussed and resolved before and during prototyping:
 
 6. **Static v1 prototype scope:** → A single-project data file (WikiProject Environment), scatterplot with all four dimensions, quality source toggle (with mocked ORES), table view, filters (quality, importance, template count, search), and a project picker that shows the selected project. No MIT Mode in v1. **This was the starting point — v0.1 far exceeds this scope with 8 projects, 6,500 articles, pre-computed context, and 1.7 MB standalone.**
 
-## What's next (v0.2+)
+## Roadmap
+
+Items below are not yet implemented as of v0.1 (Generic Mode, 8 projects, 6,500 articles).
+
+### v0.2 — MIT Mode & OCW integration
 
 | Feature | Priority |
 |---------|----------|
-| MIT Mode: OCW overlay on bubbles, match indicators | High |
+| MIT Mode: OCW overlay on bubbles, match indicators, Wikipedia Bridge tab in detail panel | High |
 | Aggregate "all 25" dashboard for MIT Mode | Medium |
-| Live SQL query server for any WikiProject | Medium |
+| Live SQL query server for any WikiProject (replace pre-generated data) | Medium |
+
+### v0.3+ — Contribution & scale
+
+| Feature | Priority |
+|---------|----------|
+| "Edit in Wikipedia" with pre-filled citation snippet | High |
+| Work queue interface for applying OCW-based edits at scale | High |
+| Scale to all ~942 WikiProjects with Popular pages (per-project JS + manifest architecture) | Medium |
 | Popular pages request tool for missing projects | Low |
-| "Edit in Wikipedia" with pre-filled citation snippet | Low |
 | License/copyright notes for OCW asset reuse | Low |
+
+See `docs/ROADMAP.md` for the full project roadmap including subsystem integration and the contribution interface.

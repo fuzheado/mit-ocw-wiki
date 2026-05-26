@@ -172,7 +172,7 @@ Template count → bubble color (d3.scaleThreshold):
 | `scripts/impact-matrix-server.py` | Live query server. Requires SSH tunnel + .env credentials. |
 | `notes/pageview-data-issues.md` | Documentation of pageview data research (3 failed approaches). |
 | `notes/detail-panel-spec.md` | Detail panel content spec and mockup. |
-| `PRD-CONTRIBUTION-IMPACT-MATRIX.md` | Full product requirements document. |
+| `docs/impact-matrix/prd.md` | Full product requirements document. |
 
 ## Rebuild workflow
 
