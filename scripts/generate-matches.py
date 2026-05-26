@@ -83,6 +83,24 @@ def tokenize(text):
     return {t for t in tokens if t not in STOP_WORDS}
 
 
+def _is_mit_article(title: str) -> bool:
+    """Check if an article is about MIT itself — circular to suggest MIT OCW."""
+    lower = title.lower()
+    patterns = [
+        "massachusetts institute of technology",
+        "mit school of", "mit department of", "mit faculty of",
+        "mit center for", "mit laboratory", "mit lab",
+        "mit program in", "mit office of",
+        "history of mit", "campus of mit",
+    ]
+    for p in patterns:
+        if p in lower:
+            return True
+    if lower.startswith("mit ") and len(title) > 10:
+        return True
+    return False
+
+
 def search_articles(query: str, limit: int = 50) -> list:
     """Search Wikipedia for articles matching a topic query."""
     encoded = urllib.parse.quote(query)
@@ -249,6 +267,9 @@ def generate(projects: list = None, articles_per_project: int = 50) -> dict:
 
         article_matches = []
         for article, tmpls in sorted(with_t.items()):
+            # Skip MIT-internal articles
+            if _is_mit_article(article):
+                continue
             matches = match_article(article, dept_courses, dept_codes)
             if matches:
                 article_matches.append({

@@ -380,6 +380,25 @@ def _build_note(lecture: str, asset_note: str) -> str:
     return ""
 
 
+def _is_mit_article(title: str) -> bool:
+    """Check if an article is about MIT itself — circular to suggest MIT OCW."""
+    lower = title.lower()
+    mit_patterns = [
+        "massachusetts institute of technology",
+        "mit school of", "mit department of", "mit faculty of",
+        "mit center for", "mit laboratory", "mit lab",
+        "mit program in", "mit office of",
+        "history of mit", "campus of mit",
+    ]
+    for p in mit_patterns:
+        if p in lower:
+            return True
+    # Also check: title starts with "MIT " followed by a non-trivial word
+    if lower.startswith("mit ") and len(title) > 10:
+        return True
+    return False
+
+
 def score_match(article_title: str, templates: list, lecture_title: str) -> dict:
     """
     Score a single article↔lecture match.
@@ -442,6 +461,10 @@ def score_all_matches(demo_data: dict, course_urls: dict, lecture_titles: dict, 
     for project, data in demo_data.items():
         for article in data.get("articles", []):
             article_title = article["title"]
+
+            # Skip MIT-internal articles — circular to suggest MIT OCW for MIT departments
+            if _is_mit_article(article_title):
+                continue
             # Use live template data, fall back to demo estimate
             templates = TEMPLATE_CACHE.get(article_title, article.get("templates", []))
             quality = article.get("quality", "?")
