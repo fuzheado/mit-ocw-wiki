@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "stages": {
     "smoke_test": true,
     "departments_topics": true,
@@ -23,8 +23,25 @@
       "impact_matrix_prototype": true,
       "live_sql_tunnel": true,
       "popular_pages_integrated": true,
-      "notes": "SSH tunnel to enwiki_p works. Pageview data via Popular pages. See notes/pageview-data-issues.md"
+      "notes": "SSH tunnel to enwiki_p works. Pageview data via Popular pages."
     },
+    "l1_refideas": {
+      "complete": true,
+      "linter_built": true,
+      "fixer_built": true,
+      "live_editor_built": true,
+      "test_suite": "26 tests, all passing",
+      "pages_fixed": 8,
+      "notes": "Three fix types: multi_bullet, bullet_syntax, duplicate_url. Editing via bot password in .env."
+    },
+    "l2_external_links": {
+      "complete": false,
+      "protocol_designed": true,
+      "notes": "Designed in docs/CONTRIBUTION-LEVELS.md. Processing not yet validated."
+    },
+    "l3_citation_needed": { "complete": false },
+    "l4_missing_information": { "complete": false },
+    "l5_new_content": { "complete": false },
     "lint_report": false
   },
   "stats": {
@@ -33,6 +50,8 @@
     "departments": 37,
     "topics": 110,
     "instructors": 2142,
-    "crossrefs": 0
+    "crossrefs": 0,
+    "refideas_pages_fixed": 8,
+    "refideas_population": 29177
   }
 }

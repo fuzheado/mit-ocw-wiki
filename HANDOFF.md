@@ -1,81 +1,136 @@
-# Handoff: Contribution Impact Matrix (v0.1)
+# Handoff — Session Context for New Agents
 
-## 1. What we built
+> **Last updated:** 2026-05-26
+> **Project state:** L1 (refideas linter/fixer) production-ready. L2-L5 designed but not built.
 
-- **Contribution Impact Matrix** — D3.js bubble scatterplot for exploring any WikiProject's articles by quality, pageviews, importance, and maintenance templates. Self-contained HTML at `wiki/impact-matrix/standalone.html` (~1.7 MB, works from `file://`).
-- **Data pipeline** — 8 WikiProjects × 500-1000 articles = 6,500 articles with pageviews, templates, short descriptions, page metadata, and pre-computed wikitext context. Data in `wiki/impact-matrix/data/live-data.js`.
-- **SSH tunnel** — Working connection to `enwiki_p` (MariaDB analytics replica). Credentials in `.env`.
-- **Detail panel** — Click a bubble to see section name, template date, sentence context, quality gap indicator, read/edit links. No runtime API calls.
-- **v0.1 tagged** as `v0.1-impact-matrix`.
+---
 
-## 2. Key session-specific knowledge (not in other docs)
+## What this project is
 
-These are things a new agent would need to know that aren't captured in `docs/impact-matrix/design.md` or the PRD:
+Wiki MIT — connect MIT OpenCourseWare's 2,577 courses with Wikipedia. Three subsystems:
 
-- **Data generation script is inline** — The Python script that fetches Popular pages, runs SQL, and parses wikitext with mwparserfromhell was executed as multiple inline heredocs. There is no standalone `.py` file for it yet. To regenerate data, you must reconstruct the heredoc or extract it into `scripts/generate-impact-matrix-data.py`.
-- **`templatelinks` schema changed** — The table no longer has `tl_title`. It uses `tl_target_id` which joins to `linktarget.lt_id` where the actual title lives. This applies to ALL Wikimedia replica queries.
-- **`pageview_daily_average` doesn't exist** in `enwiki_p`. Zero rows. The REST API rate-limits improved after we added a compliant User-Agent, but Popular pages are still the preferred source (1 API call vs 1,000+).
-- **Popular pages are fetched via `action=parse` with `prop=text`** (rendered HTML), not `prop=wikitext`. Parsed with regex on `<table class="wikitable">`. This works because the bot output is stable but is intentionally not using mwparserfromhell (see docs/impact-matrix/design.md for rationale).
-- **Wikitext for individual article context** was fetched via `action=parse&prop=wikitext` during data generation. The client-side JS approaches (`fetch()` with CORS, JSONP) both failed from `file://` — this is why context is pre-computed.
-- **mwparserfromhell `ifilter_templates(recursive=True)` returns duplicates** — same template appears in parent and child sections. Must deduplicate by text position.
-- **`Overly_technical`, `Needs_diagram`, `Scientific_verification`** don't exist in the `linktarget` table. They're in the query list but never match.
-- **The standalone rebuild command** is a 4-line Python script that replaces `<script src="data/live-data.js"></script>` with inline `<script>` containing the data. Not yet a dedicated script.
-- **MIT Mode** is a planned feature but no code exists yet. The existing code is Generic Mode only.
+1. **OCW Course Wiki** — 2,577 courses ingested as markdown pages with typed assets
+2. **Match Heatmap** — cross-reference OCW departments against WikiProjects
+3. **Contribution Impact Matrix** — D3.js scatterplot surfacing high-impact articles
 
-## 3. Repository structure (impact-matrix specific)
+Read `README.md` for the full overview. Read `docs/ROADMAP.md` for the plan.
 
+---
+
+## What we built this session (L1 — Refideas linter and fixer)
+
+### Scripts
+
+| Script | Purpose | Key commands |
+|--------|---------|-------------|
+| `scripts/lint-refideas.py` | Detect 6 error types in `{{refideas}}` templates across 11 aliases | `--fetch "Article"`, `--sample 50`, `--classify 30`, `--fix "Article"` |
+| `scripts/apply-refideas-fix.py` | Apply fixes to live Wikipedia with auth | `"Article"`, `--dry-run`, `--yes`, `--survey 50` |
+| `scripts/contribution-protocol.py` | L1-L5 data model, factories, validation, L1 insertion utility | `--validate`, `--wikitext`, `--l1-test` |
+| `scripts/test-refideas.py` | 26 regression tests | `python3 scripts/test-refideas.py -v` |
+
+### Fix types
+
+| Type | Severity | What it does | Auto-fixed |
+|------|----------|-------------|-----------|
+| `multi_bullet` | 🔴 error | Split `\|* ref1\n* ref2` into separate numbered params | ✅ |
+| `bullet_syntax` | 🔴 error | Strip `*` from `\|1=* url` or `\|* = url` | ✅ |
+| `duplicate_url` | 🟡 warning | Remove duplicate URL (keep first) | ✅ |
+| `unnumbered_param` | 🟡 warning | Detected, not auto-fixed | ❌ |
+| `param_spacing` | 🟡 warning | Detected, not auto-fixed | ❌ |
+| `bare_url` | ℹ️ info | Detected, not auto-fixed (needs page scraping for label) | ❌ |
+
+### Live editing
+
+Authentication via bot password in `.env`:
 ```
-wiki/impact-matrix/
-  standalone.html    ← Self-contained tool. Open this.
-  index.html         ← Source HTML (loads live-data.js externally)
-  data/
-    live-data.js     ← Pre-computed data (8 projects, 6,500 articles)
-scripts/
-  impact-matrix-server.py  ← Live query server (needs SSH tunnel + .env)
-notes/
-  pageview-data-issues.md  ← Pageview API limitations
-  detail-panel-spec.md     ← Detail panel spec
-docs/impact-matrix/design.md                   ← Architecture, data flow, key decisions
-docs/impact-matrix/prd.md                       ← Product requirements
+WIKIPEDIA_USERNAME=YourUsername@BotName
+WIKIPEDIA_BOT_PASSWORD=your_bot_password
 ```
 
-Other relevant scripts:
-- `scripts/crossref-wikipedia.py` — Earlier OCW crossref tool. Separate concern (OCW-specific). Not needed for the generic Impact Matrix.
-- `wikimedia-database` skill from the [Wikipedia-AI-Skills](https://github.com/fuzheado/Wikipedia-AI-Skills) repo — SSH tunnel setup guide (clone the repo and load its `.claude/skills/` directory).
+Workflow: `--survey` to find pages → `--dry-run "Article"` to preview → `"Article"` to apply (with color diff + [y/N]).
 
-## 4. Next actions (recommended order)
+8 pages fixed on live Wikipedia this session.
 
-| Priority | Action | Details |
-|----------|--------|---------|
-| P0 | Extract data generation script | The inline heredoc into `scripts/generate-impact-matrix-data.py`. Makes the pipeline reproducible. |
-| P0 | Extract standalone build command | The 4-line inline Python into `scripts/build-standalone.sh` or add a `--build` flag to the data generator. |
-| P1 | Live query server reliability | The server works but the SSH tunnel is fragile. Consider a systemd service or Docker container if deploying. |
-| P2 | MIT Mode toggle | Add OCW match overlay: filter by OCW-aligned projects, show course data on bubbles, add Wikipedia Bridge tab to detail panel. |
-| P2 | Add more WikiProjects | Run the data generation for all ~500 projects with Popular pages. Data size scales linearly (~200 KB per project). |
-| P3 | Aggregate dashboard | View across all 25 OCW-aligned projects at once (small multiples or list). |
-| P3 | Request Popular pages for missing projects | The Community Tech bot can enable Popular pages for any WikiProject on request. |
-| P3 | Citation snippet builder | Pre-fill `{{cite web}}` template from OCW course metadata. |
+### Key architectural decisions
 
-## 5. Known issues and sharp edges
+- **mwparserfromhell** for all wikitext parsing — never regex on raw wikitext
+- **Batch fetching** via `action=query&titles=A|B|C` (50 pages per call, ~1s for survey)
+- **Population caching** to `.wiki_cache/` — 29,177 pages loaded in 0.0s after first fetch
+- **Direct URL construction** for API calls with percent-encoded titles — never `urlencode` which double-encodes
+- **Cookie jar shared across auth steps** — login token, CSRF token, and edit must share the same jar
+- **`str(tmpl)` captured before any param modifications** — otherwise string replacement silently fails
 
-- **SSH tunnel dies unpredictably.** The `enwiki_p` connection can drop. The server logs `[impact-matrix]` prefix. Check with `nc -z 127.0.0.1 3306` and re-establish with the SSH command in the server script.
-- **Popular pages only cover ~500 of ~1,500 WikiProjects.** For the rest, there's no pageview data and the project won't appear in the current data set.
-- **Some articles have no short description** (~26% coverage via `wikibase-shortdesc`). The detail panel gracefully omits the short_desc line when absent.
-- **Article wikitext fetching for context is the bottleneck in data generation.** 859 API calls for 859 templated articles. Each call takes ~1-2 seconds. Total generation time is ~25-35 minutes across 8 projects.
-- **Color scale is hardcoded.** The threshold domain `[1, 2, 3, 4]` and color hex values are in `index.html` as `TEMPLATE_COLORS`. Change there and in `renderLegend()`.
-- **D3.js is loaded from CDN.** The standalone HTML won't work offline. To make it fully offline, vendor D3.js locally.
-- **The `origin=*` CORS parameter on `action=parse` does NOT work from `file://`.** This was the root cause of the "Loading context..." hang. The fix was to pre-compute context during data generation instead. JSONP also failed.
-- **`file://` blocks `fetch()` entirely.** No network requests work from `file://` in Chromium-based browsers. The HTML must be served via HTTP for any runtime API calls.
+---
 
-## 6. Testing notes
+## How to continue
 
-- **Parthenogenesis** article (in Biology project) is a good test case for template context classification. Has multiple `{{cn}}` tags at end of sentences, none inside `<ref>` tags. Should show 0 footnote, 2 inline.
-- **Earth Day** article (in Environment project) has both article-body and talk-page templates. Good for testing the full detail panel.
-- **To verify data integrity**: Open the standalone HTML, click a bubble, check that the detail panel shows section name, date, and context without "Loading..." state.
-- **To verify template counts match SQL**: Compare bubble colors in the scatterplot with the detail panel's template list. Green bubbles should have 0 templates listed.
+### Next: L2 — External links
 
-## 7. Credentials
+Designed in `docs/CONTRIBUTION-LEVELS.md`. Add OCW course links to `== External links ==` sections.
 
-- `.env` file in project root contains Toolforge SQL credentials. **Do not commit.**
-- SSH tunnel: `ssh -L 3306:enwiki.analytics.db.svc.wikimedia.cloud:3306 alih@login.toolforge.org -N`
-- UA string for Wikimedia API calls: `'MIT OCW Bot/1.0 (https://meta.wikimedia.org/wiki/Wiki_MIT; andrew.lih@gmail.com) ContentGapResearch'`
+**Key questions to answer:**
+- Find `== External links ==` vs `== Further reading ==` section via `filter_headings()`
+- Append bulleted `{{cite web}}` or plain `[url Label]`? (Standard is `{{cite web}}` for external links)
+- What if no External links section exists? Create one, positioned before `== References ==` per WP:LAYOUT
+- Write tests before implementing
+
+### After L2: L3 — Replace `{{Citation needed}}`
+
+Replace `{{cn}}` tags with `<ref>{{cite web}}</ref>` pointing to OCW resources. Requires:
+- Finding the specific `{{cn}}` by section + context text
+- Generating a proper citation from OCW course/lecture metadata
+- The OCW license (CC BY-NC-SA) note — citing NC works is standard academic practice
+
+### Contribution interface (Phase 3 in ROADMAP)
+
+The work queue: join Impact Matrix data with OCW match data to produce a prioritized list of articles with pre-formatted edit suggestions. Start with L1-L3.
+
+---
+
+## Common workflows
+
+```bash
+# Lint one page
+python3 scripts/lint-refideas.py --fetch "Article"
+
+# Find pages with fixable errors
+python3 scripts/apply-refideas-fix.py --survey 80
+
+# Preview fix
+python3 scripts/apply-refideas-fix.py --dry-run "Article"
+
+# Apply fix (with prompt)
+python3 scripts/apply-refideas-fix.py "Article"
+
+# Apply fix (auto-confirm)
+python3 scripts/apply-refideas-fix.py --yes "Article"
+
+# Classify reference types
+python3 scripts/lint-refideas.py --classify 30
+
+# Run tests
+python3 scripts/test-refideas.py -v
+```
+
+---
+
+## Key docs
+
+| Doc | Covers |
+|-----|--------|
+| `docs/L1-REFIDEAS.md` | Complete L1 reference: algorithm, flow chart, linter, live editing |
+| `docs/CONTRIBUTION-LEVELS.md` | All five L1-L5 levels with processing specs |
+| `docs/CONTRIBUTION-PROTOCOL.md` | ContributionRecord data schema |
+| `docs/ROADMAP.md` | Project roadmap: Phase 2 (integration) + Phase 3 (contribution interface) |
+| `.claude/skills/wikipedia-editing/SKILL.md` | Reusable skill: talk page insertion, mwparserfromhell gotchas, API auth, encoding |
+| `HANDOFF.md` | This file |
+
+---
+
+## Sharp edges
+
+- **Duplicate URL fix only removes exact matches** — different URLs for the same content (e.g., `http` vs `https`, or different archive snapshots) are not detected as duplicates
+- **Bare URLs** are the most common issue (52% of refs) but not auto-fixed — need page title scraping for meaningful labels
+- **`--yes` flag** applies edits without confirmation — use after reviewing diffs
+- **Encoding**: always `unquote()` titles from cache before re-encoding or passing to `urlencode`
+- **Skills**: `.claude/skills/wikimedia-*` are restored from the Wikipedia-AI-Skills external repo
