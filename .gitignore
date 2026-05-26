@@ -8,3 +8,4 @@ raw/api/
 .wiki_cache/
 .venv/
 __pycache__/
+.env~
