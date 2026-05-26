@@ -483,7 +483,7 @@ def score_all_matches(demo_data: dict, course_urls: dict, lecture_titles: dict, 
                     "course_id": course_id,
                     "course_title": course_title,
                     "course_url": url,
-                    "lecture": lecture if real_lectures else "[no lectures scanned]",
+                    "lecture": lecture if real_lectures else "[no titled lectures]",
                     "note": _build_note(lecture if real_lectures else "", asset_notes.get(course_id.lower(), "")),
                     "project": project,
                     **scoring,
@@ -621,10 +621,10 @@ def print_verbose(results: list, top_n: int = 5):
                 print(f"  │     Lecture only:    {c(str(sorted(lecture_only)), Color.DIM)}")
             print(f"  │     Overlap: {len(shared)}/{len(a_tokens | l_tokens)} = {overlap:.2f} → {overlap*35:.0f}/35")
             if lecture.startswith("["):
-                print(f"  │     ⚠️  Using demo estimate (no real lectures scanned)")
+                print(f"  │     ⚠️  No lecture titles available for overlap scoring")
         elif lecture:
             print(f"  │")
-            print(f"  │  🎓 Lecture match: {c('[demo data — no real lectures available]', Color.YELLOW)}")
+            print(f"  │  🎓 Lecture match: {c('[no titled lectures — course has materials but no lecture breakdown]', Color.YELLOW)}")
             print(f"  │     ⚠️  Course has no extractable lecture titles")
         else:
             print(f"  │")
@@ -806,7 +806,7 @@ def print_verbose_single(r: dict, num: int):
         print(f"  │     Overlap: {overlap:.2f} → {overlap*35:.0f}/35")
     elif lecture:
         print(f"  │")
-        print(f"  │  🎓 Lecture: {c('[demo — no real lectures scanned]', Color.YELLOW)}")
+        print(f"  │  🎓 Lecture: {c('[no titled lectures]', Color.YELLOW)}")
 
     # Specificity
     words = article.split()
