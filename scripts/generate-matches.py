@@ -37,9 +37,14 @@ UA = "MIT OCW Bot/1.0 (https://meta.wikimedia.org/wiki/Wiki_MIT; andrew.lih@gmai
 API = "https://en.wikipedia.org/w/api.php"
 
 TEMPLATE_PATTERNS = [
-    "citation needed", "cn|", "more citations needed", "refimprove",
-    "unreferenced", "missing information", "update", "primary sources",
-    "third-party", "expand section", "tone",
+    "{{citation needed", "{{cn|", "{{fact|",
+    "{{more citations needed", "{{refimprove", "{{unreferenced",
+    "{{missing information",
+    "{{update|", "{{outdated",
+    "{{tone", "{{essay-like", "{{peacock",
+    "{{third-party", "{{primary sources", "{{self-published",
+    "{{cleanup", "{{copy edit",
+    "{{expand section", "{{expand language", "{{stub",
 ]
 
 STOP_WORDS = {
@@ -188,7 +193,8 @@ def detect_templates_batch(articles: list) -> dict:
                     found = []
                     for tmpl in TEMPLATE_PATTERNS:
                         if tmpl in wt_lower:
-                            clean = tmpl.replace("|", "")
+                            # Strip {{ and | to get clean template name
+                            clean = tmpl.lstrip("{|").rstrip("|")
                             if clean not in found:
                                 found.append(clean)
                     results[title] = found

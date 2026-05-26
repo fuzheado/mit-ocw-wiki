@@ -59,16 +59,20 @@ STOP_WORDS = {
 # ─── Live template detection ───────────────────────────────────────────────
 
 # Maintenance template patterns to detect in article HTML
+# Match {{template or {{Template patterns, not just free-text words
 MAINTENANCE_TEMPLATES = {
-    "citation needed": ["Citation needed", "cn", "fact"],
-    "more citations needed": ["More citations needed", "refimprove", "unreferenced",
-                               "more references", "additional citations"],
-    "missing information": ["Missing information"],
-    "update": ["Update", "outdated"],
-    "tone": ["Tone", "essay-like", "peacock"],
-    "third-party": ["Third-party", "primary sources", "self-published"],
-    "cleanup": ["Cleanup", "copy edit"],
-    "expand": ["Expand section", "expand language", "stub"],
+    "citation needed": ["{{citation needed", "{{cn|", "{{fact|",
+                         "{{Citation needed", "{{Cn|", "{{Fact|"],
+    "more citations needed": ["{{more citations needed", "{{refimprove",
+                               "{{unreferenced", "{{more references",
+                               "{{additional citations"],
+    "missing information": ["{{missing information", "{{Missing information"],
+    "update": ["{{update|", "{{Update|", "{{outdated"],
+    "tone": ["{{tone", "{{Tone", "{{essay-like", "{{peacock"],
+    "third-party": ["{{third-party", "{{primary sources",
+                    "{{self-published", "{{Third-party"],
+    "cleanup": ["{{cleanup", "{{copy edit"],
+    "expand": ["{{expand section", "{{expand language", "{{stub"],
 }
 
 UA = "MIT OCW Bot/1.0 (https://meta.wikimedia.org/wiki/Wiki_MIT; andrew.lih@gmail.com) ContentGapResearch"
