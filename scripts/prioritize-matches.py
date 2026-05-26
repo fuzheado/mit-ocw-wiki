@@ -17,6 +17,7 @@ Usage:
 
 import os
 import sys
+import json
 import re
 import subprocess
 import importlib.util
@@ -835,6 +836,7 @@ def main():
     interactive_n = 0
     auto_yes = False
     verbose = False
+    data_file = None
 
     i = 0
     while i < len(args):
@@ -857,6 +859,10 @@ def main():
             auto_yes = True
         elif args[i] in ("--verbose", "-v"):
             verbose = True
+        elif args[i] == "--data":
+            i += 1
+            if i < len(args):
+                data_file = args[i]
         else:
             print(f"Unknown flag: {args[i]}", file=sys.stderr)
         i += 1
@@ -875,10 +881,17 @@ def main():
     asset_notes = load_asset_notes()
     print(f"  Found asset notes for {len(asset_notes)} courses")
 
-    demo_data = _xref.DEMO_DATA
+    # Load match data — from --data JSON, or fall back to demo
+    if data_file and os.path.exists(data_file):
+        with open(data_file) as f:
+            demo_data = json.loads(f.read())
+        print(f"  Loaded match data from {data_file}")
+    else:
+        demo_data = _xref.DEMO_DATA
+
     project_count = len(demo_data)
     article_count = sum(len(v.get("articles", [])) for v in demo_data.values())
-    print(f"  Loaded {article_count} articles across {project_count} WikiProjects")
+    print(f"  {article_count} articles across {project_count} WikiProjects")
 
     results = score_all_matches(demo_data, course_urls, lecture_titles, asset_notes)
 
