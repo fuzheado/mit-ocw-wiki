@@ -424,6 +424,32 @@ def _is_low_value_article(title: str) -> bool:
     if lower in ("education sciences", "pedagogy"):
         return True
 
+    # Articles about specific named institutions (other universities, schools, institutes)
+    # "Kellogg School of Management" is about the school, not management itself
+    institution_patterns = (
+        " school of ", " college of ", " institute of ",
+        " academy of ", " university of ", " university",
+        " graduate school", " polytechnic",
+    )
+    for pat in institution_patterns:
+        if pat in lower:
+            return True
+
+    # Specific well-known universities (avoid matching on generic words)
+    known_universities = (
+        "harvard", "stanford", "yale", "princeton", "oxford", "cambridge",
+        "columbia university", "berkeley", "caltech",
+    )
+    for uni in known_universities:
+        if uni in lower:
+            return True
+
+    # MOOC platforms — circular for OCW
+    mooc_patterns = ("edx", "mitx", "coursera", "open courseware", "mooc")
+    for pat in mooc_patterns:
+        if pat in lower:
+            return True
+
     return False
 
 

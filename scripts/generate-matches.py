@@ -112,6 +112,24 @@ def _is_low_value_article(title: str) -> bool:
         return True
     if lower.endswith(" education") and lower != "education":
         return True
+    # Articles about specific named institutions
+    institution_patterns = (
+        " school of ", " college of ", " institute of ",
+        " academy of ", " university of ", " university",
+        " graduate school", " polytechnic",
+    )
+    for pat in institution_patterns:
+        if pat in lower:
+            return True
+    known_unis = ("harvard", "stanford", "yale", "princeton", "oxford",
+                  "cambridge", "columbia university", "berkeley", "caltech")
+    for uni in known_unis:
+        if uni in lower:
+            return True
+    mooc = ("edx", "mitx", "coursera", "open courseware", "mooc")
+    for pat in mooc:
+        if pat in lower:
+            return True
     return False
 
 
