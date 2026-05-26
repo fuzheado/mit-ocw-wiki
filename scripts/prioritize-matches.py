@@ -7,6 +7,9 @@ Auto-apply is gated behind an explicit --apply-top N flag.
 
 Usage:
     python3 scripts/prioritize-matches.py                    # Score and rank all matches
+    python3 scripts/prioritize-matches.py -v                 # Verbose reasoning for top 5
+    python3 scripts/prioritize-matches.py --interactive 5    # Review then confirm each
+    python3 scripts/prioritize-matches.py --apply-top 3 --yes # Auto-apply top 3
     python3 scripts/prioritize-matches.py --min-score 50     # Only show score ≥ 50
     python3 scripts/prioritize-matches.py --apply-top 3      # Post top 3 matches (with confirmation)
     python3 scripts/prioritize-matches.py --apply-top 5 --yes # Post top 5 (auto-confirm)
@@ -29,6 +32,15 @@ _xref_spec = importlib.util.spec_from_file_location(
 _xref = importlib.util.module_from_spec(_xref_spec)
 _xref_spec.loader.exec_module(_xref)
 
+# Import get_auth from refideas-add.py for interactive mode
+_add_spec = importlib.util.spec_from_file_location(
+    "refideas_add_cli",
+    os.path.join(SCRIPTS_DIR, "refideas-add.py")
+)
+_add = importlib.util.module_from_spec(_add_spec)
+_add_spec.loader.exec_module(_add)
+get_auth = _add.get_auth
+
 
 # ─── Stop words ────────────────────────────────────────────────────────────
 
@@ -41,6 +53,103 @@ STOP_WORDS = {
     "such", "each", "all", "some", "any", "both", "more", "most",
     "other", "only", "new", "use", "used", "using", "one", "two",
 }
+
+
+# ─── Live template detection ───────────────────────────────────────────────
+
+# Maintenance template patterns to detect in article HTML
+MAINTENANCE_TEMPLATES = {
+    "citation needed": ["Citation needed", "cn", "fact"],
+    "more citations needed": ["More citations needed", "refimprove", "unreferenced",
+                               "more references", "additional citations"],
+    "missing information": ["Missing information"],
+    "update": ["Update", "outdated"],
+    "tone": ["Tone", "essay-like", "peacock"],
+    "third-party": ["Third-party", "primary sources", "self-published"],
+    "cleanup": ["Cleanup", "copy edit"],
+    "expand": ["Expand section", "expand language", "stub"],
+}
+
+UA = "MIT OCW Bot/1.0 (https://meta.wikimedia.org/wiki/Wiki_MIT; andrew.lih@gmail.com) ContentGapResearch"
+TEMPLATE_CACHE = {}  # {article_title: [template_names]}
+
+
+def detect_templates_for_article(article_title: str) -> list:
+    """Fetch article HTML and detect maintenance templates. Results cached."""
+    if article_title in TEMPLATE_CACHE:
+        return TEMPLATE_CACHE[article_title]
+
+    import urllib.request
+    import urllib.parse
+    import json
+
+    encoded = urllib.parse.quote(article_title.replace(" ", "_"), safe="")
+    url = f"https://en.wikipedia.org/w/api.php?action=parse&page={encoded}&prop=text&format=json&formatversion=2"
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read())
+            html = data.get("parse", {}).get("text", "")
+    except Exception:
+        TEMPLATE_CACHE[article_title] = []
+        return []
+
+    found = []
+    html_lower = html.lower()
+    for canonical, patterns in MAINTENANCE_TEMPLATES.items():
+        for p in patterns:
+            if p.lower() in html_lower:
+                found.append(canonical)
+                break  # Only count once per canonical type
+
+    TEMPLATE_CACHE[article_title] = found
+    return found
+
+
+def detect_templates_batch(article_titles: list) -> dict:
+    """Batch-fetch templates for multiple articles."""
+    import urllib.request
+    import urllib.parse
+    import json
+
+    results = {}
+    for i in range(0, len(article_titles), 50):
+        batch = article_titles[i:i+50]
+        titles = "|".join(
+            urllib.parse.quote(t.replace(" ", "_"), safe="")
+            for t in batch
+        )
+        url = (
+            f"https://en.wikipedia.org/w/api.php?action=query"
+            f"&titles={urllib.parse.quote(titles, safe='|')}"
+            f"&prop=revisions&rvprop=content&rvslots=*"
+            f"&format=json&formatversion=2"
+        )
+        req = urllib.request.Request(url, headers={"User-Agent": UA})
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                data = json.loads(resp.read())
+                pages = data.get("query", {}).get("pages", [])
+                for page in pages:
+                    title = page.get("title", "")
+                    revs = page.get("revisions", [])
+                    wikitext = revs[0].get("slots", {}).get("main", {}).get("content", "") if revs else ""
+                    # Detect templates in wikitext directly
+                    found = []
+                    wt_lower = wikitext.lower()
+                    for canonical, patterns in MAINTENANCE_TEMPLATES.items():
+                        for p in patterns:
+                            if p.lower() in wt_lower:
+                                found.append(canonical)
+                                break
+                    results[title] = found
+                    TEMPLATE_CACHE[title] = found
+        except Exception:
+            for t in batch:
+                results[t] = []
+                TEMPLATE_CACHE[t] = []
+
+    return results
 
 
 # ─── Course URL lookup ─────────────────────────────────────────────────────
@@ -238,14 +347,27 @@ def score_match(article_title: str, templates: list, lecture_title: str) -> dict
 
 # ─── Main scoring loop ─────────────────────────────────────────────────────
 
-def score_all_matches(demo_data: dict, course_urls: dict, lecture_titles: dict) -> list:
+def score_all_matches(demo_data: dict, course_urls: dict, lecture_titles: dict, use_live_templates: bool = True) -> list:
     """Score all matches across all WikiProjects. Returns sorted list of match dicts."""
     results = []
+
+    # Collect unique article titles for batch template detection
+    all_articles = set()
+    for project, data in demo_data.items():
+        for article in data.get("articles", []):
+            all_articles.add(article["title"])
+
+    # Fetch live templates if requested
+    if use_live_templates:
+        print(f"  Detecting maintenance templates on {len(all_articles)} articles...", file=sys.stderr)
+        detect_templates_batch(list(all_articles))
+        print(f"  Found templates on {sum(1 for v in TEMPLATE_CACHE.values() if v)} articles", file=sys.stderr)
 
     for project, data in demo_data.items():
         for article in data.get("articles", []):
             article_title = article["title"]
-            templates = article.get("templates", [])
+            # Use live template data, fall back to demo estimate
+            templates = TEMPLATE_CACHE.get(article_title, article.get("templates", []))
             quality = article.get("quality", "?")
             importance = article.get("importance", "?")
             views = article.get("views", 0)
@@ -258,7 +380,7 @@ def score_all_matches(demo_data: dict, course_urls: dict, lecture_titles: dict) 
                 if not url:
                     continue
 
-                # Use REAL lecture titles from scanned data, fall back to demo estimate
+                # Use REAL lecture titles from scanned data
                 real_lectures = lecture_titles.get(course_id.lower(), [])
                 if real_lectures:
                     # Find best-matching lecture for this article
@@ -270,14 +392,11 @@ def score_all_matches(demo_data: dict, course_urls: dict, lecture_titles: dict) 
                             best_overlap = ov
                             best_lecture = lt
                     lecture = best_lecture
-                else:
-                    # No scanned data — fall back to demo estimate (with warning)
-                    lecture = match.get("lecture", "") + " [demo]"
-
-                scoring = score_match(article_title, templates, lecture)
-                # Re-score with actual best overlap
-                if real_lectures:
                     scoring = score_match(article_title, templates, best_lecture)
+                else:
+                    # No scanned lectures — score overlap as 0, don't trust demo data
+                    lecture = ""
+                    scoring = score_match(article_title, templates, "")
 
                 results.append({
                     "article": article_title,
@@ -288,7 +407,7 @@ def score_all_matches(demo_data: dict, course_urls: dict, lecture_titles: dict) 
                     "course_id": course_id,
                     "course_title": course_title,
                     "course_url": url,
-                    "lecture": lecture if real_lectures else match.get("lecture", "") + " [demo]",
+                    "lecture": lecture if real_lectures else "[no lectures scanned]",
                     "project": project,
                     **scoring,
                 })
@@ -406,7 +525,7 @@ def print_verbose(results: list, top_n: int = 5):
             print(f"  │  📋 Template gate: {c('FAIL', Color.RED)} (no maintenance templates)")
 
         # Lecture matching
-        if lecture and "[demo]" not in lecture:
+        if lecture and not lecture.startswith("["):
             a_tokens = tokenize(article)
             l_tokens = tokenize(lecture)
             shared = a_tokens & l_tokens
@@ -424,7 +543,7 @@ def print_verbose(results: list, top_n: int = 5):
             if lecture_only:
                 print(f"  │     Lecture only:    {c(str(sorted(lecture_only)), Color.DIM)}")
             print(f"  │     Overlap: {len(shared)}/{len(a_tokens | l_tokens)} = {overlap:.2f} → {overlap*35:.0f}/35")
-            if "[demo]" in lecture:
+            if lecture.startswith("["):
                 print(f"  │     ⚠️  Using demo estimate (no real lectures scanned)")
         elif lecture:
             print(f"  │")
@@ -462,7 +581,7 @@ def print_verbose(results: list, top_n: int = 5):
 
 
 def apply_top(results: list, n: int, auto_yes: bool = False):
-    """Apply the top N eligible matches."""
+    """Apply the top N eligible matches (batch mode — requires --yes)."""
     eligible = [r for r in results if r["eligible"]]
     if not eligible:
         print("No eligible matches to apply.")
@@ -472,10 +591,9 @@ def apply_top(results: list, n: int, auto_yes: bool = False):
     print(f"\n  Applying top {len(to_apply)} matches...\n")
 
     script = os.path.join(SCRIPTS_DIR, "apply-l1-refideas.py")
-    yes_flag = ["--yes"] if auto_yes else []
 
     for i, r in enumerate(to_apply):
-        note = f"lecture: {r['lecture']}" if r["lecture"] else ""
+        note = f"lecture: {r['lecture']}" if r["lecture"] and r["lecture"] else ""
         print(f"  [{i+1}/{len(to_apply)}] {r['article']} ← {r['course_id']} (score: {r['score']})")
 
         cmd = [
@@ -484,25 +602,152 @@ def apply_top(results: list, n: int, auto_yes: bool = False):
             "--course-id", r["course_id"],
             "--course-title", r["course_title"],
             "--course-url", r["course_url"],
-        ] + yes_flag
+            "--yes",
+        ]
         if note:
             cmd.extend(["--note", note])
 
         result = subprocess.run(cmd, capture_output=True, text=True)
         stdout = result.stdout + result.stderr
 
-        # Extract key lines
         for line in stdout.splitlines():
             if any(kw in line for kw in ["✅ Refideas posted", "❌ Edit failed", "⏭"]):
                 print(f"    {line.strip()}")
                 break
         else:
-            # Fallback: print last meaningful line
             lines = [l for l in stdout.splitlines() if l.strip() and "Authenticated" not in l]
             if lines:
                 print(f"    {lines[-1].strip()[:100]}")
 
         print()
+
+
+def apply_interactive(results: list, top_n: int = 5):
+    """
+    Interactive mode: show verbose reasoning for each match,
+    prompt [y/N/q], apply with confirmation.
+    """
+    eligible = [r for r in results if r["eligible"]]
+    if not eligible:
+        print("No eligible matches to review.")
+        return
+
+    auth = get_auth()
+    if not auth:
+        print(c("\n  ⚠️  No Wikipedia credentials found. Set WIKIPEDIA_USERNAME + WIKIPEDIA_BOT_PASSWORD in .env", Color.YELLOW))
+        return
+
+    to_show = eligible[:top_n]
+    script = os.path.join(SCRIPTS_DIR, "apply-l1-refideas.py")
+
+    for i, r in enumerate(to_show):
+        # Show verbose reasoning for this single match
+        print_verbose_single(r, i + 1)
+
+        # Prompt
+        try:
+            response = input(c("  Post to Wikipedia? [y/N/q] ", Color.BOLD))
+        except (EOFError, KeyboardInterrupt):
+            print("\n  Cancelled.")
+            return
+
+        if response.lower() == "q":
+            print(c("  Quit.", Color.YELLOW))
+            return
+        elif response.lower() not in ("y", "yes"):
+            print(c("  Skipped.", Color.DIM))
+            print()
+            continue
+
+        # Post it
+        note = f"lecture: {r['lecture']}" if r["lecture"] and r["lecture"] else ""
+        print(f"  Posting...")
+
+        cmd = [
+            sys.executable, script,
+            r["article"],
+            "--course-id", r["course_id"],
+            "--course-title", r["course_title"],
+            "--course-url", r["course_url"],
+            "--yes",
+        ]
+        if note:
+            cmd.extend(["--note", note])
+
+        result = subprocess.run(cmd, capture_output=True, text=True)
+        stdout = result.stdout + result.stderr
+
+        for line in stdout.splitlines():
+            if any(kw in line for kw in ["✅ Refideas posted", "❌ Edit failed", "⏭"]):
+                print(f"  {line.strip()}")
+                break
+        else:
+            lines = [l for l in stdout.splitlines() if l.strip() and "Authenticated" not in l]
+            if lines:
+                print(f"  {lines[-1].strip()[:100]}")
+        print()
+
+
+def print_verbose_single(r: dict, num: int):
+    """Print verbose reasoning for a single match."""
+    article = r["article"]
+    course_id = r["course_id"]
+    course_title = r["course_title"]
+    lecture = r.get("lecture", "")
+    templates = r["templates"]
+    score = r["score"]
+    t_score = r["template_score"]
+    overlap = r["overlap"]
+    spec = r["specificity"]
+    views = r["views"]
+
+    score_color = Color.GREEN if score >= 60 else Color.YELLOW if score >= 35 else Color.RED
+
+    print(f"\n  {'='*68}")
+    print(f"  ┌─ #{num}: {c(article, Color.BOLD)} ← {course_id} ({course_title})")
+    print(f"  │  Score: {c(str(score), score_color)} / 100  |  {views:,} views/mo  |  {r['quality']}/{r['importance']}")
+    print(f"  │")
+
+    # Template gate
+    if templates:
+        template_names = ", ".join(f"{{{{{t}}}}}" for t in templates)
+        print(f"  │  📋 Template gate: {c('PASS', Color.GREEN)}")
+        print(f"  │     Found: {template_names}")
+        print(f"  │     Urgency: {t_score}/35")
+
+    # Lecture matching
+    if lecture and not lecture.startswith("["):
+        a_tokens = tokenize(article)
+        l_tokens = tokenize(lecture)
+        shared = a_tokens & l_tokens
+        print(f"  │")
+        print(f"  │  🎓 Best lecture: {c(lecture, Color.CYAN)}")
+        print(f"  │     Article: {sorted(a_tokens)}")
+        print(f"  │     Lecture: {sorted(l_tokens)}")
+        if shared:
+            print(f"  │     Shared:  {c(str(sorted(shared)), Color.GREEN)}")
+        print(f"  │     Overlap: {overlap:.2f} → {overlap*35:.0f}/35")
+    elif lecture:
+        print(f"  │")
+        print(f"  │  🎓 Lecture: {c('[demo — no real lectures scanned]', Color.YELLOW)}")
+
+    # Specificity
+    words = article.split()
+    print(f"  │")
+    print(f"  │  📐 Specificity: {spec:.2f} → {spec*30:.0f}/30  (\"{article}\" — {len(words)} word{'s' if len(words) != 1 else ''})")
+
+    # Formula
+    print(f"  │")
+    print(f"  │  🧮 {t_score:.0f} (templates) + {overlap*35:.0f} (overlap) + {spec*30:.0f} (specificity) = {c(str(score), score_color)}")
+
+    if score >= 60:
+        print(f"  │  {c('✅ Strong match', Color.GREEN)}")
+    elif score >= 35:
+        print(f"  │  {c('🟡 Moderate match', Color.YELLOW)}")
+    else:
+        print(f"  │  {c('🔴 Weak match', Color.RED)}")
+
+    print(f"  └{'─'*66}")
 
 
 # ─── CLI ────────────────────────────────────────────────────────────────────
@@ -511,6 +756,7 @@ def main():
     args = sys.argv[1:]
     min_score = 0
     apply_n = 0
+    interactive_n = 0
     auto_yes = False
     verbose = False
 
@@ -524,6 +770,13 @@ def main():
             i += 1
             if i < len(args):
                 apply_n = int(args[i])
+        elif args[i] == "--interactive":
+            i += 1
+            if i < len(args) and args[i].isdigit():
+                interactive_n = int(args[i])
+            else:
+                interactive_n = 5
+                continue  # don't consume the next arg
         elif args[i] in ("--yes", "-y"):
             auto_yes = True
         elif args[i] in ("--verbose", "-v"):
@@ -549,7 +802,14 @@ def main():
 
     results = score_all_matches(demo_data, course_urls, lecture_titles)
 
-    if apply_n > 0:
+    if interactive_n > 0:
+        apply_interactive(results, interactive_n)
+    elif apply_n > 0:
+        if not auto_yes:
+            print(f"\n  {c('ERROR: --apply-top requires --yes for batch mode.', Color.RED)}", file=sys.stderr)
+            print(f"  Posts to Wikipedia need explicit confirmation. Add --yes to auto-apply.", file=sys.stderr)
+            print(f"  Or use --interactive N to review each match before posting.", file=sys.stderr)
+            sys.exit(1)
         apply_top(results, apply_n, auto_yes)
     else:
         print_ranked(results, min_score)
