@@ -490,8 +490,25 @@ def main():
         print(colorize("  Cancelled.", Color.YELLOW))
         sys.exit(0)
     
-    # Apply edit
-    summary = f"Refideas fix: corrected formatting via Wiki MIT (lint-refideas)"
+    # Build descriptive edit summary from error types
+    error_types = list(set(e["type"] for e in errors if e.get("severity") in ("error", "warning")))
+    
+    type_labels = {
+        "multi_bullet": "split bullet list into proper refideas parameters",
+        "bullet_syntax": "fixed malformed bullet syntax in refideas template",
+        "duplicate_url": "removed duplicate URL from refideas template",
+    }
+    
+    descriptions = [type_labels.get(t, f"fixed {t}") for t in error_types]
+    
+    if len(descriptions) == 1:
+        action = descriptions[0]
+    elif len(descriptions) == 2:
+        action = f"{descriptions[0]} and {descriptions[1]}"
+    else:
+        action = ", ".join(descriptions[:-1]) + f", and {descriptions[-1]}"
+    
+    summary = f"Refideas: {action} via Wiki MIT"
     print(f"\n  Posting edit...", file=sys.stderr)
     
     result = apply_edit(article, fixed_wikitext, summary, opener)
