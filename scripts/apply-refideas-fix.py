@@ -22,6 +22,7 @@ Authentication:
 Usage:
     python3 scripts/apply-refideas-fix.py "Article title"         # Fix one page
     python3 scripts/apply-refideas-fix.py --dry-run "Article"      # Show diff only
+    python3 scripts/apply-refideas-fix.py --yes "Article"          # Skip confirmation
     python3 scripts/apply-refideas-fix.py --survey 50              # Find pages with errors
 """
 
@@ -408,12 +409,16 @@ def do_survey(sample_size: int = 50):
 def main():
     article = None
     dry_run = False
+    auto_yes = False
     
     args = sys.argv[1:]
     i = 0
     while i < len(args):
         if args[i] == "--dry-run":
             dry_run = True
+            i += 1
+        elif args[i] in ("--yes", "-y"):
+            auto_yes = True
             i += 1
         elif args[i] == "--batch":
             print("Batch mode not yet implemented.", file=sys.stderr)
@@ -478,17 +483,20 @@ def main():
         print(colorize("\n  Dry run — no edit was made.", Color.YELLOW))
         sys.exit(0)
     
-    # Confirm
-    print()
-    try:
-        response = input(colorize("  Apply this fix? [y/N] ", Color.BOLD))
-    except (EOFError, KeyboardInterrupt):
-        print("\n  Cancelled.")
-        sys.exit(0)
-    
-    if response.lower() not in ("y", "yes"):
-        print(colorize("  Cancelled.", Color.YELLOW))
-        sys.exit(0)
+    # Confirm (skip if --yes)
+    if auto_yes:
+        print(colorize("\n  Auto-applying (--yes)...", Color.YELLOW))
+    else:
+        print()
+        try:
+            response = input(colorize("  Apply this fix? [y/N] ", Color.BOLD))
+        except (EOFError, KeyboardInterrupt):
+            print("\n  Cancelled.")
+            sys.exit(0)
+        
+        if response.lower() not in ("y", "yes"):
+            print(colorize("  Cancelled.", Color.YELLOW))
+            sys.exit(0)
     
     # Build descriptive edit summary from error types
     error_types = list(set(e["type"] for e in errors if e.get("severity") in ("error", "warning")))
