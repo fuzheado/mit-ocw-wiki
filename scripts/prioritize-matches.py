@@ -180,17 +180,19 @@ def load_asset_notes():
                 counts = ac_match.group(1)
 
                 # Parse asset types with counts > 0
+                # Skip problem sets — not useful for Wikipedia editors
+                SKIP_TYPES = {"problem set", "problem sets", "assignment", "assignments"}
                 types = []
                 for part in counts.split(","):
                     part = part.strip()
                     if ":" in part:
                         k, v = part.split(":", 1)
                         k = k.strip().replace("-", " ").lower()
+                        if k in SKIP_TYPES:
+                            continue
                         try:
                             if int(v.strip()) > 0:
-                                # Pluralize common types
-                                if k in ("assignment", "problem set", "reading list",
-                                         "resource", "syllabus"):
+                                if k in ("reading list", "resource", "syllabus"):
                                     types.append(k + "s" if not k.endswith("s") else k)
                                 elif k == "lecture notes":
                                     types.append("lecture notes")
@@ -202,7 +204,12 @@ def load_asset_notes():
                             pass
 
                 if types:
-                    notes[cid.lower()] = " and ".join(types[:3])  # max 3 types
+                    if len(types) == 1:
+                        notes[cid.lower()] = types[0]
+                    elif len(types) == 2:
+                        notes[cid.lower()] = f"{types[0]} and {types[1]}"
+                    else:
+                        notes[cid.lower()] = f"{', '.join(types[:-1])}, and {types[-1]}"
         except Exception:
             continue
 
