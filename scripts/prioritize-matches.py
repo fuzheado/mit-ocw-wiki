@@ -58,29 +58,41 @@ STOP_WORDS = {
 
 # ─── Live template detection ───────────────────────────────────────────────
 
-# Maintenance template patterns to detect in article HTML
-# Match {{template or {{Template patterns, not just free-text words
-MAINTENANCE_TEMPLATES = {
-    "citation needed": ["{{citation needed", "{{cn|", "{{fact|",
-                         "{{Citation needed", "{{Cn|", "{{Fact|"],
-    "more citations needed": ["{{more citations needed", "{{refimprove",
-                               "{{unreferenced", "{{more references",
-                               "{{additional citations"],
-    "missing information": ["{{missing information", "{{Missing information"],
-    "update": ["{{update|", "{{Update|", "{{outdated"],
-    "tone": ["{{tone", "{{Tone", "{{essay-like", "{{peacock"],
-    "third-party": ["{{third-party", "{{primary sources",
-                    "{{self-published", "{{Third-party"],
-    "cleanup": ["{{cleanup", "{{copy edit"],
-    "expand": ["{{expand section", "{{expand language", "{{stub"],
+# Maintenance template names (used with mwparserfromhell filter_templates)
+# Maps found template names → canonical display name
+_MAINTENANCE_TEMPLATES = {
+    "citation needed": "citation needed", "cn": "citation needed", "fact": "citation needed",
+    "more citations needed": "more citations needed", "refimprove": "more citations needed",
+    "unreferenced": "more citations needed", "more references": "more citations needed",
+    "additional citations": "more citations needed",
+    "missing information": "missing information",
+    "update": "update", "outdated": "update",
+    "tone": "tone", "essay-like": "tone", "peacock": "tone",
+    "third-party": "third-party", "primary sources": "third-party", "self-published": "third-party",
+    "cleanup": "cleanup", "copy edit": "cleanup",
+    "expand section": "expand", "expand language": "expand", "stub": "expand",
 }
 
 UA = "MIT OCW Bot/1.0 (https://meta.wikimedia.org/wiki/Wiki_MIT; andrew.lih@gmail.com) ContentGapResearch"
 TEMPLATE_CACHE = {}  # {article_title: [template_names]}
 
 
+def _detect_templates_from_wikitext(wikitext: str) -> list:
+    """Parse wikitext with mwparserfromhell and extract maintenance template names."""
+    import mwparserfromhell
+    if not wikitext:
+        return []
+    code = mwparserfromhell.parse(wikitext)
+    found = set()
+    for tmpl in code.filter_templates():
+        name = str(tmpl.name).lower().strip()
+        if name in _MAINTENANCE_TEMPLATES:
+            found.add(_MAINTENANCE_TEMPLATES[name])
+    return list(found)
+
+
 def detect_templates_for_article(article_title: str) -> list:
-    """Fetch article HTML and detect maintenance templates. Results cached."""
+    """Fetch article wikitext and detect maintenance templates. Results cached."""
     if article_title in TEMPLATE_CACHE:
         return TEMPLATE_CACHE[article_title]
 
@@ -89,30 +101,23 @@ def detect_templates_for_article(article_title: str) -> list:
     import json
 
     encoded = urllib.parse.quote(article_title.replace(" ", "_"), safe="")
-    url = f"https://en.wikipedia.org/w/api.php?action=parse&page={encoded}&prop=text&format=json&formatversion=2"
+    url = f"https://en.wikipedia.org/w/api.php?action=query&titles={encoded}&prop=revisions&rvprop=content&rvslots=*&format=json&formatversion=2"
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     try:
         with urllib.request.urlopen(req, timeout=15) as resp:
             data = json.loads(resp.read())
-            html = data.get("parse", {}).get("text", "")
+            pages = data.get("query", {}).get("pages", [])
+            wikitext = pages[0].get("revisions", [{}])[0].get("slots", {}).get("main", {}).get("content", "") if pages else ""
     except Exception:
-        TEMPLATE_CACHE[article_title] = []
-        return []
+        wikitext = ""
 
-    found = []
-    html_lower = html.lower()
-    for canonical, patterns in MAINTENANCE_TEMPLATES.items():
-        for p in patterns:
-            if p.lower() in html_lower:
-                found.append(canonical)
-                break  # Only count once per canonical type
-
+    found = _detect_templates_from_wikitext(wikitext)
     TEMPLATE_CACHE[article_title] = found
     return found
 
 
 def detect_templates_batch(article_titles: list) -> dict:
-    """Batch-fetch templates for multiple articles."""
+    """Batch-fetch article wikitext and detect maintenance templates via mwparserfromhell."""
     import urllib.request
     import urllib.parse
     import json
@@ -139,14 +144,7 @@ def detect_templates_batch(article_titles: list) -> dict:
                     title = page.get("title", "")
                     revs = page.get("revisions", [])
                     wikitext = revs[0].get("slots", {}).get("main", {}).get("content", "") if revs else ""
-                    # Detect templates in wikitext directly
-                    found = []
-                    wt_lower = wikitext.lower()
-                    for canonical, patterns in MAINTENANCE_TEMPLATES.items():
-                        for p in patterns:
-                            if p.lower() in wt_lower:
-                                found.append(canonical)
-                                break
+                    found = _detect_templates_from_wikitext(wikitext)
                     results[title] = found
                     TEMPLATE_CACHE[title] = found
         except Exception:

@@ -37,14 +37,15 @@ UA = "MIT OCW Bot/1.0 (https://meta.wikimedia.org/wiki/Wiki_MIT; andrew.lih@gmai
 API = "https://en.wikipedia.org/w/api.php"
 
 TEMPLATE_PATTERNS = [
-    "{{citation needed", "{{cn|", "{{fact|",
-    "{{more citations needed", "{{refimprove", "{{unreferenced",
-    "{{missing information",
-    "{{update|", "{{outdated",
-    "{{tone", "{{essay-like", "{{peacock",
-    "{{third-party", "{{primary sources", "{{self-published",
-    "{{cleanup", "{{copy edit",
-    "{{expand section", "{{expand language", "{{stub",
+    "citation needed", "cn", "fact",
+    "more citations needed", "refimprove", "unreferenced",
+    "more references", "additional citations",
+    "missing information",
+    "update", "outdated",
+    "tone", "essay-like", "peacock",
+    "third-party", "primary sources", "self-published",
+    "cleanup", "copy edit",
+    "expand section", "expand language", "stub",
 ]
 
 STOP_WORDS = {
@@ -189,14 +190,20 @@ def detect_templates_batch(articles: list) -> dict:
                     title = page.get("title", "")
                     revs = page.get("revisions", [])
                     wikitext = revs[0].get("slots", {}).get("main", {}).get("content", "") if revs else ""
-                    wt_lower = wikitext.lower()
+                    # Use mwparserfromhell for proper template parsing
                     found = []
-                    for tmpl in TEMPLATE_PATTERNS:
-                        if tmpl in wt_lower:
-                            # Strip {{ and | to get clean template name
-                            clean = tmpl.lstrip("{|").rstrip("|")
-                            if clean not in found:
-                                found.append(clean)
+                    if wikitext:
+                        try:
+                            import mwparserfromhell
+                            code = mwparserfromhell.parse(wikitext)
+                            seen = set()
+                            for tmpl in code.filter_templates():
+                                name = str(tmpl.name).lower().strip()
+                                if name in TEMPLATE_PATTERNS and name not in seen:
+                                    seen.add(name)
+                                    found.append(name)
+                        except ImportError:
+                            pass
                     results[title] = found
         except Exception as e:
             for t in batch:
