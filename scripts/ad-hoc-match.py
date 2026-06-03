@@ -1078,6 +1078,27 @@ def _do_l1_insert(course: dict, article: str, dry_run: bool):
         print(colorize(f"\n  ⚠️  Unexpected response.", Color.YELLOW))
 
 
+def _extract_section(wikitext: str, section_name: str) -> str:
+    """Extract a section's content from wikitext by heading name.
+    
+    Returns the section content (excluding the heading line) or empty string.
+    """
+    import re
+    pattern = rf'^==\s*{re.escape(section_name)}\s*==\s*$'
+    lines = wikitext.split("\n")
+    in_section = False
+    result = []
+    for line in lines:
+        if re.match(pattern, line, re.IGNORECASE):
+            in_section = True
+            continue
+        if in_section:
+            if re.match(r'^==\s*', line):
+                break
+            result.append(line)
+    return "\n".join(result).strip()
+
+
 def _do_l2_insert(course: dict, article: str, dry_run: bool):
     """Insert L2 external link on the article."""
     result = _proto.l2_insert_external_link(
@@ -1114,6 +1135,24 @@ def _do_l2_insert(course: dict, article: str, dry_run: bool):
     except Exception as e:
         print(f"  Error fetching article: {e}")
         return
+
+    # Show existing External links section for context
+    ext_section = _extract_section(current_wt, "External links")
+    if ext_section:
+        print(f"\n  {colorize('Current External links section:', Color.BOLD)}")
+        for line in ext_section.strip().split("\n"):
+            print(f"    {line}")
+        print()
+    else:
+        # Try Further reading
+        fr_section = _extract_section(current_wt, "Further reading")
+        if fr_section:
+            print(f"\n  {colorize('Current Further reading section:', Color.BOLD)}")
+            for line in fr_section.strip().split("\n"):
+                print(f"    {line}")
+            print()
+        else:
+            print(f"\n  {colorize('No External links section exists — will create one.', Color.YELLOW)}")
 
     if new_wikitext == current_wt:
         print(colorize("\n  ⚠️  No change.", Color.YELLOW))
