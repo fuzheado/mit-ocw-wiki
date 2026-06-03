@@ -789,6 +789,89 @@ def run_pipeline(course: dict, provider_names: list[str], top_n: int = 10) -> li
 
 
 # ══════════════════════════════════════════════════════════════════════════════
+# STATUS ENRICHMENT (show current state of each article)
+# ══════════════════════════════════════════════════════════════════════════════
+
+_REFIDEAS_ALIASES_LOOKUP = {
+    "refideas", "refidea", "ri", "ref ideas", "suggested sources",
+    "suggested refs", "source ideas", "potential sources", "possible sources",
+    "refideas-nonotice", "refsuggestion",
+}
+
+
+def enrich_l1_status(matches: list[dict]):
+    """Batch-check which article Talk pages already have {{refideas}}.
+    
+    Uses prop=templates to check for refideas template aliases.
+    Adds 'l1_status' field to each match:
+      - 'present' if refideas exists
+      - 'absent' if not
+    """
+    if not matches:
+        return
+
+    # Batch-fetch templates for all Talk pages
+    talk_titles = [f"Talk:{m['title'].replace(' ', '_')}" for m in matches]
+    data = {}
+    for i in range(0, len(talk_titles), 50):
+        batch = talk_titles[i:i + 50]
+        resp = _api_call({
+            "action": "query",
+            "titles": "|".join(batch),
+            "prop": "templates",
+            "tlnamespace": "10",
+            "format": "json",
+            "formatversion": "2",
+        })
+        for page in resp.get("query", {}).get("pages", []):
+            t = page.get("title", "")
+            if t:
+                data[t] = page.get("templates", [])
+
+    for m in matches:
+        talk_key = f"Talk:{m['title'].replace(' ', '_')}"
+        templates = data.get(talk_key, [])
+        has_refideas = any(
+            t.get("title", "").lower().replace("template:", "").strip()
+            in _REFIDEAS_ALIASES_LOOKUP
+            for t in templates
+        )
+        m["l1_status"] = "present" if has_refideas else "absent"
+
+
+def enrich_l2_status(matches: list[dict]):
+    """Check which articles have an == External links == section.
+    
+    Uses action=parse&prop=sections for each article (individually, not batchable).
+    Adds 'l2_status' field to each match:
+      - 'present' with count if section exists
+      - 'absent' if not
+    """
+    for m in matches:
+        title = m["title"]
+        encoded = urllib.parse.quote(title.replace(" ", "_"), safe="")
+        resp = _api_call({
+            "action": "parse",
+            "page": encoded,
+            "prop": "sections",
+            "format": "json",
+            "formatversion": "2",
+        })
+        sections = resp.get("parse", {}).get("sections", [])
+        ext_links_sections = [
+            s for s in sections
+            if s.get("line", "").lower() == "external links"
+            and s.get("level") == "2"
+        ]
+        if ext_links_sections:
+            # Count bullets in the section by fetching wikitext snippet
+            # For now, just mark as present
+            m["l2_status"] = "present"
+        else:
+            m["l2_status"] = "absent"
+
+
+# ══════════════════════════════════════════════════════════════════════════════
 # DISPLAY
 # ══════════════════════════════════════════════════════════════════════════════
 
@@ -824,7 +907,17 @@ def display_matches(course: dict, matches: list[dict]):
         score_str = f"{m['score']:.0f}/100"
         reasons_str = "; ".join(m['reasons'][:3])
 
-        print(f"  {colorize(f'{i}.', Color.CYAN)} {colorize(m['title'], Color.BOLD)} [Quality: {quality_str} | Views: {views_str}{template_str}]")
+        status_str = ""
+        if "l1_status" in m:
+            s = m["l1_status"]
+            tag = "HAS" if s == "present" else "no"
+            status_str = f" | {{{{refideas}}}}: {tag}"
+        elif "l2_status" in m:
+            s = m["l2_status"]
+            tag = "HAS" if s == "present" else "no"
+            status_str = f" | Ext links: {tag}"
+
+        print(f"  {colorize(f'{i}.', Color.CYAN)} {colorize(m['title'], Color.BOLD)} [Quality: {quality_str} | Views: {views_str}{template_str}{status_str}]")
         if article_desc:
             print(f"     {article_desc[:120]}")
         print(f"     Score: {colorize(score_str, Color.GREEN)} — {reasons_str}")
@@ -861,7 +954,17 @@ def interactive_edit(course: dict, matches: list[dict], level: str, dry_run: boo
             score_str = f"{m['score']:.0f}/100"
             reasons_str = "; ".join(m['reasons'][:2])
 
-            print(f"  {colorize(f'{i}.', Color.CYAN)} {colorize(m['title'], Color.BOLD)} [Quality: {q} | Views: {v}{template_str}]")
+            status_str = ""
+            if "l1_status" in m:
+                s = m["l1_status"]
+                tag = "HAS" if s == "present" else "no"
+                status_str = f" | {{{{refideas}}}}: {tag}"
+            elif "l2_status" in m:
+                s = m["l2_status"]
+                tag = "HAS" if s == "present" else "no"
+                status_str = f" | Ext links: {tag}"
+
+            print(f"  {colorize(f'{i}.', Color.CYAN)} {colorize(m['title'], Color.BOLD)} [Quality: {q} | Views: {v}{template_str}{status_str}]")
             if article_desc:
                 print(f"     {article_desc[:120]}")
             print(f"     Score: {colorize(score_str, Color.GREEN)} — {reasons_str}")
@@ -1121,6 +1224,12 @@ def main():
         print(colorize("\n  No strong matches found.", Color.YELLOW))
         print("  Try a different course or use --interactive to browse candidates.", file=sys.stderr)
         sys.exit(0)
+
+    # Enrich with current article status (L1: refideas?, L2: External links?)
+    if mode == "L1":
+        enrich_l1_status(matches)
+    else:
+        enrich_l2_status(matches)
 
     if interactive:
         interactive_edit(course, matches, mode, dry_run)
