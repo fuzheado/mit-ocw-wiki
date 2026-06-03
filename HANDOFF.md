@@ -1,6 +1,6 @@
 # Handoff — Session Context for New Agents
 
-> **Last updated:** 2026-05-27
+> **Last updated:** 2026-06-03
 > **Project state:** L1 (refideas insert, linter, fixer) production-ready. L2 (external links) built and tested. L3-L5 designed but not built.
 
 ---
@@ -34,6 +34,7 @@ Production-ready with 50 tests, 8 live edits.
 | `scripts/apply-l1-refideas.py` | **OCW wrapper** CLI — formats `--course-id` and delegates to generic tools | `"Article" --course-id 6.006 --course-title "..."` |
 | `scripts/ad-hoc-match.py` | **Ad-hoc match** — find best Wikipedia articles for any OCW course, with pluggable providers, interactive L1/L2 posting | `--top 5`, `--mode L2 --interactive`, `--provider wikipedia` |
 | `scripts/prioritize-matches.py` | **Match scoring** — template gate + IDF-weighted overlap + specificity | `--data FILE`, `-v` (verbose), `--interactive N`, `--apply-top N --yes` |
+| `scripts/review-collaborator-matches.py` | **Collaborator match reviewer** — 185 cross-encoder-scored pairs, interactive y/N/q posting | `--mode L2`, `--min-score 0.90`, `--export file.json` |
 | `scripts/generate-matches.py` | **Live match discovery** — searches 25 WikiProjects via Wikipedia API, detects templates with mwparserfromhell, matches against 2,577 OCW courses | `--top 30 --output FILE`, `--project Chemistry` |
 | `scripts/scan-batch-parallel.py` | **Parallel asset scanner** — scanned 2,165 courses in 13.5 min (8 workers, 2.7/s) | `--workers 8`, `--limit 50`, `--dry-run` |
 | `scripts/test-refideas.py` | 28 regression tests (linter/fixer) | `python3 scripts/test-refideas.py -v` |
@@ -166,6 +167,36 @@ generate-matches.py          prioritize-matches.py        apply-l1-refideas.py
 - Geo-locale articles (Solar power in the UK)
 
 **Result:** 156 high-quality article↔course matches across 25 WikiProjects, scored and ready for review.
+
+### Collaborator cross-encoder matches (Environment/Climate/Energy)
+
+A collaborator provided 185 high-confidence OCW↔Wikipedia matches from a
+rigorous two-stage pipeline (TF-IDF → zerank-2 cross-encoder reranking)
+restricted to Environment/Climate/Energy domain.
+
+| Metric | Value |
+|--------|-------|
+| OCW PDFs scanned | 1,439 (from 1,648 API results, audited) |
+| Wikipedia seed articles | 103 (curated, env/climate/energy) |
+| Stage-1 TF-IDF candidates | 1,545 |
+| Stage-2 cross-encoder reranked | 1,020 (zerank-2, top 10 per article) |
+| Kept after ≥ 0.79 threshold | **185 pairs across 62 articles** |
+| Score range | 0.790–0.961 (median 0.875) |
+| Cross-encoder model | `zeroentropy/zerank-2` |
+
+**What's different from our pipeline:**
+- Scores are full-text semantic similarity (not title keyword overlap)
+- Matches specific lecture PDFs, not just whole courses
+- No template gate — scores every article against OCW content
+- Far narrower domain scope (1 topic vs. our 25 WikiProjects)
+
+The reviewer tool (`scripts/review-collaborator-matches.py`) resolves all
+course names to our wiki metadata (40/41 matched 1:1) and posts via
+our existing L1/L2 editors.
+
+Source files live in `external/`:
+- `OVERVIEW.pdf` — pipeline description, filters, department breakdown
+- `reranked_p79.pdf` — all 185 matches with scores and lecture PDFs
 
 ### Key architectural decisions
 
@@ -329,6 +360,17 @@ python3 scripts/apply-l2-external-links.py "Algorithm" \
     --course-title "Introduction to Algorithms" \
     --course-url "https://ocw.mit.edu/courses/6-006-..." \
     --description "Full course with video lectures, problem sets, and exams."
+
+# ── Collaborator cross-encoder matches ──
+
+# Interactive review (L1 refideas mode)
+python3 scripts/review-collaborator-matches.py
+
+# L2 external links mode, top tier only
+python3 scripts/review-collaborator-matches.py --mode L2 --min-score 0.90
+
+# Export as JSON for prioritize-matches.py --data
+python3 scripts/review-collaborator-matches.py --export matches-collab.json
 
 # ── Tests ──
 

@@ -52,6 +52,16 @@
       "github_references": [],
       "notes": "CLI refactored 2026-06-03: --course slug/URL mode auto-resolves from local wiki. Legacy --course-id/--course-title/--course-url still supported. Tests: 26. Two bugs fixed: (1) insertion before navboxes/categories when External links is last section, (2) regex now handles *[url (no space after *))."
     },
+    "collaborator_matches": {
+      "complete": true,
+      "pairs": 185,
+      "articles": 62,
+      "domain": "Environment/Climate/Energy",
+      "scoring": "zerank-2 cross-encoder (0.79 threshold)",
+      "source": "external/OVERVIEW.pdf and external/reranked_p79.pdf",
+      "reviewer_built": true,
+      "notes": "Interactive reviewer (scripts/review-collaborator-matches.py) resolves course names to wiki metadata, posts via L1/L2 editors. All 185 matches hand-curated via TF-IDF + cross-encoder reranking."
+    },
     "l3_citation_needed": {
       "complete": false
     },
