@@ -19,6 +19,9 @@ from collections import defaultdict
 SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_DIR = os.path.dirname(SCRIPTS_DIR)
 
+# Path to the collaborator's PDF for extracting lecture URLs
+RERANKED_PDF = os.path.join(PROJECT_DIR, "external", "reranked_p79.pdf")
+
 # ─── Collaborator data (parsed from reranked_p79.pdf) ──────────────────────
 
 # Known OCW course names from the collaborator's corpus (Environment/Climate/Energy domain)
@@ -371,7 +374,174 @@ def resolve_course(course_name: str, wiki_courses: dict) -> dict:
     return best if best_score >= 0.5 else None
 
 
-# ─── Color output ──────────────────────────────────────────────────────────
+# ─── Lecture URL extraction from PDF ───────────────────────────────────────
+
+def extract_lecture_urls():
+    """
+    Extract OCW resource page and direct PDF URLs from reranked_p79.pdf.
+    Returns {course_slug: {normalized_name: {"direct_pdf": ..., "resource_page": ...}}}
+    Also returns a fallback lookup keyed by course_id (e.g., "12.340") for slug mismatches.
+    """
+    if not os.path.exists(RERANKED_PDF):
+        print(c(f"  \u26a0\ufe0f  {RERANKED_PDF} not found — falling back to course-level URLs", Color.YELLOW))
+        return {}
+
+    import zlib
+
+    with open(RERANKED_PDF, "rb") as f:
+        raw = f.read()
+
+    # Decompress PDF streams to find hyperlinks
+    parts = re.findall(rb'stream\n(.+?)\nendstream', raw, re.DOTALL)
+    urls = set()
+    for p in parts:
+        try:
+            decompressed = zlib.decompress(p)
+            found = re.findall(r'https?://[^\s()<>"\']+', decompressed.decode('latin-1'))
+            for u in found:
+                urls.add(u)
+        except:
+            pass
+
+    # Build {course_slug: {lecture_norm: {direct_pdf, resource_page}}}
+    # Also build {course_id: slug} mappings for resolving slug mismatches
+    slug_to_course_id = {}
+    lookup = {}
+    for u in urls:
+        if 'ocw.mit.edu' not in u:
+            continue
+        m = re.search(r'/courses/([^/]+)/', u)
+        if not m:
+            continue
+        slug = m.group(1)
+
+        # Extract course number prefix from slug, stripping trailing 'x', 'j', etc.
+        # e.g., "12-340x-global-warming..." → "12.340", "ids-505j-..." → "ids.505"
+        raw_prefix = slug.split('-')[0]
+        suffix = slug.split('-')[1] if len(slug.split('-')) > 1 else ''
+        # The core course ID is typically "{dept}-{num}" like "12-340" or "ids-505"
+        cid_core = f"{raw_prefix}.{suffix}".lower()
+        # Also strip trailing modifiers: 12-340x → 12.340
+        cid_core = re.sub(r'[a-z]$', '', cid_core)
+        slug_to_course_id[slug] = cid_core
+
+        # Extract the lecture/resource name from the URL
+        if u.endswith('.pdf'):
+            fname = u.rsplit('/', 1)[-1]
+            simple = re.sub(r'^[a-f0-9]{32}_', '', fname).replace('.pdf', '').lower()
+            key = simple
+        else:
+            path = u.rstrip('/')
+            rname = path.rsplit('/', 1)[-1].lower()
+            rname = re.sub(r'_pdf$', '', rname)
+            key = rname
+
+        if slug not in lookup:
+            lookup[slug] = {}
+        if key not in lookup[slug]:
+            lookup[slug][key] = {"direct_pdf": None, "resource_page": None}
+
+        if u.endswith('.pdf'):
+            lookup[slug][key]["direct_pdf"] = u
+        else:
+            lookup[slug][key]["resource_page"] = u
+
+    # Build cid-based index: for each course_id, find all PDF slugs that contain it
+    # e.g., "12.340" → ["12-340-global-warming-science-spring-2012", "12-340x-global-warming-science-spring-2020"]
+    cid_index = {}
+    for slug, cid in slug_to_course_id.items():
+        cid_index.setdefault(cid, []).append(slug)
+
+    # Store the cid_index and slug_to_course_id on the lookup for fallback
+    lookup["_cid_index"] = {cid: slugs for cid, slugs in cid_index.items()}
+
+    return lookup
+
+
+def resolve_lecture_url(course_slug: str, lecture_name: str, url_lookup: dict, course_id: str = None) -> dict:
+    """
+    Try to find the specific lecture URL for a match.
+    Uses multiple strategies: number extraction, word overlap, direct match.
+    Also handles slug mismatches via course_id fallback.
+    Falls back to course page if no specific URL found.
+    """
+    if not url_lookup:
+        return {"lecture_url": None, "lecture_pdf_url": None, "url_type": "course"}
+
+    # Try primary slug first
+    slug_urls = url_lookup.get(course_slug, {})
+
+    # If no hits and we have a course_id, try to find an alternative slug
+    if not slug_urls and course_id:
+        cid_index = url_lookup.get("_cid_index", {})
+        # Normalize course_id: remove trailing 'x', 'j', etc. for matching
+        cid_norm = re.sub(r'[a-z]$', '', course_id.lower().replace(' ', ''))
+        for stored_cid, alt_slugs in cid_index.items():
+            if cid_norm == stored_cid or cid_norm.startswith(stored_cid) or stored_cid.startswith(cid_norm):
+                for alt_slug in alt_slugs:
+                    if alt_slug in url_lookup:
+                        slug_urls = url_lookup[alt_slug]
+                        break
+                if slug_urls:
+                    break
+
+    if not slug_urls:
+        return {"lecture_url": None, "lecture_pdf_url": None, "url_type": "course"}
+
+    # Normalize the lecture name
+    norm = lecture_name.lower().strip()
+    norm = norm.replace('.pdf', '').replace('_', ' ').replace('-', ' ').replace('  ', ' ').strip()
+
+    # Extract numbers from lecture name
+    numbers_in_lecture = set(re.findall(r'\b(\d+)\b', norm))
+
+    candidates = []
+    for key, urls in slug_urls.items():
+        score = 0.0
+
+        # Direct match
+        if key == norm:
+            score = 1.0
+
+        # Key contains the lecture name or vice versa
+        if score == 0 and (norm in key or key in norm):
+            score = 0.9
+
+        # Number match
+        if score == 0 and numbers_in_lecture:
+            key_nums = set(re.findall(r'\b(\d+)\b', key))
+            shared_nums = numbers_in_lecture & key_nums
+            if shared_nums:
+                score = 0.8
+                if any(w in key for w in ['lec', 'session', 'chapter', 'part']):
+                    score += 0.1
+
+        # Word overlap
+        if score == 0:
+            key_words = {w for w in key.replace('_', ' ').replace('-', ' ').split() if len(w) > 3}
+            norm_words = {w for w in norm.split() if len(w) > 3}
+            if key_words and norm_words:
+                overlap = len(key_words & norm_words) / max(len(key_words | norm_words), 1)
+                if overlap > 0.4:
+                    score = min(0.95, 0.6 + overlap * 0.4)
+
+        if score > 0:
+            candidates.append((score, key, urls))
+
+    if candidates:
+        candidates.sort(key=lambda c: c[0], reverse=True)
+        best = candidates[0][2]
+        url_type = "direct_pdf" if best["direct_pdf"] else "resource_page" if best["resource_page"] else "course"
+        return {
+            "lecture_url": best["resource_page"] or best["direct_pdf"],
+            "lecture_pdf_url": best["direct_pdf"],
+            "url_type": url_type,
+        }
+
+    return {"lecture_url": None, "lecture_pdf_url": None, "url_type": "course"}
+
+
+# ─── Color output ───
 
 class Color:
     RED = "\033[91m"
@@ -392,19 +562,31 @@ def build_matches(wiki_courses: dict, min_score: float = 0.0):
     """Build structured match list from collaborator data."""
     matches = []
     unresolved_courses = set()
-    
+
+    # Extract lecture URLs from the PDF
+    print("  Extracting lecture URLs from PDF...")
+    url_lookup = extract_lecture_urls()
+    found_courses = len(url_lookup)
+    found_urls = sum(len(v) for v in url_lookup.values())
+    print(f"  Found {found_urls} lecture URLs across {found_courses} courses")
+
     for article, score, course_name, lecture in COLLAB_MATCHES:
         if score < min_score:
             continue
-        
+
         resolved = resolve_course(course_name, wiki_courses)
         if not resolved:
             unresolved_courses.add(course_name)
             continue
-        
+
         # Build a nice lecture description
         lecture_desc = lecture.replace(".pdf", "").replace("_", " ").replace("  ", " ").strip()
-        
+
+        # Resolve specific lecture URL from the PDF
+        lu = resolve_lecture_url(resolved["slug"], lecture, url_lookup, resolved["course_id"])
+        lecture_url = lu["lecture_url"] or resolved["url"]
+        url_type = lu["url_type"]
+
         matches.append({
             "article": article,
             "cross_encoder_score": score,
@@ -412,16 +594,19 @@ def build_matches(wiki_courses: dict, min_score: float = 0.0):
             "course_id": resolved["course_id"],
             "course_title": resolved["title"],
             "course_url": resolved["url"],
+            "lecture_url": lecture_url,
+            "lecture_pdf_url": lu["lecture_pdf_url"],
+            "url_type": url_type,
             "course_slug": resolved["slug"],
             "lecture": lecture_desc,
             "source": "collaborator (zerank-2 cross-encoder)",
         })
-    
+
     if unresolved_courses:
-        print(c(f"  ⚠️  {len(unresolved_courses)} course names unresolved:", Color.YELLOW))
+        print(c(f"  \u26a0\ufe0f  {len(unresolved_courses)} course names unresolved:", Color.YELLOW))
         for cn in sorted(unresolved_courses):
-            print(f"       • {cn}")
-    
+            print(f"       \u2022 {cn}")
+
     # Sort by score descending
     matches.sort(key=lambda m: m["cross_encoder_score"], reverse=True)
     return matches
@@ -430,55 +615,69 @@ def build_matches(wiki_courses: dict, min_score: float = 0.0):
 # ─── Preview wikitext ──────────────────────────────────────────────────────
 
 def build_refideas_wikitext(match: dict) -> str:
-    """Build a {{refideas}} snippet for this match."""
-    url = match["course_url"]
+    """Build a {{refideas}} snippet for this match, linking to the specific lecture resource."""
+    url = match["lecture_url"] or match["course_url"]
     title = match["course_title"]
     cid = match["course_id"]
     lecture = match["lecture"]
-    
-    if lecture and lecture != cid and not lecture.startswith("page"):
-        description = f"MIT {cid}: {title} — {lecture}"
+    url_type = match["url_type"]
+
+    # Use a more specific title when linking to a lecture
+    if url_type != "course" and lecture:
+        link_title = f"{title} — {lecture}"
     else:
-        description = f"MIT {cid}: {title}"
-    
+        link_title = title
+
+    if lecture and lecture != cid:
+        comment = f"MIT {cid}: {title} — {lecture}. "
+    else:
+        comment = f"MIT {cid}: {title}. "
+    comment += f"Cross-encoder similarity: {match['cross_encoder_score']:.3f}."
+
     return (
         f"{{{{Refideas\n"
-        f"|1={{{{cite web |url={url} |title={title} |publisher=MIT OpenCourseWare}}}}\n"
-        f"|comment=MIT {cid} covers this topic{' with ' + lecture if lecture and not lecture.startswith('page') and lecture != cid else ''}. "
-        f"Cross-encoder similarity: {match['cross_encoder_score']:.3f}.\n"
+        f"|1={{{{cite web |url={url} |title={link_title} |publisher=MIT OpenCourseWare}}}}\n"
+        f"|comment={comment}\n"
         f"}}}}\n"
     )
 
 
 def build_external_link_wikitext(match: dict) -> str:
-    """Build an External links entry for this match."""
-    url = match["course_url"]
+    """Build an External links entry for this match, linking to the specific lecture."""
+    url = match["lecture_url"] or match["course_url"]
     title = match["course_title"]
-    cid = match["course_id"]
     lecture = match["lecture"]
-    
-    if lecture and lecture != cid and not lecture.startswith("page"):
-        description = f"Full course with lecture on {lecture}."
+    url_type = match["url_type"]
+
+    if url_type != "course" and lecture:
+        link_title = f"{title} — {lecture}"
+        description = f"Lecture on {lecture} from MIT {match['course_id']}."
     else:
+        link_title = title
         description = "Full course with video lectures, problem sets, and exams."
-    
+
     return (
-        f"* {{{{cite web |url={url} |title={title} |publisher=MIT OpenCourseWare}}}} — {description}"
+        f"* {{{{cite web |url={url} |title={link_title} |publisher=MIT OpenCourseWare}}}} — {description}"
     )
 
 
 # ─── Post via existing tools ───────────────────────────────────────────────
 
 def post_l1(match: dict):
-    """Post refideas via apply-l1-refideas.py."""
+    """Post refideas via apply-l1-refideas.py, linking to the specific lecture."""
     script = os.path.join(SCRIPTS_DIR, "apply-l1-refideas.py")
+    # Use the lecture-level URL (or course URL as fallback)
+    post_url = match.get("lecture_url") or match["course_url"]
+    note = f"zerank-2 cross-encoder score: {match['cross_encoder_score']:.3f}. {match['lecture']}"
+    if match.get("lecture_pdf_url"):
+        note += f" Direct PDF: {match['lecture_pdf_url']}"
     cmd = [
         sys.executable, script,
         match["article"],
         "--course-id", match["course_id"],
         "--course-title", match["course_title"],
-        "--course-url", match["course_url"],
-        "--note", f"zerank-2 cross-encoder score: {match['cross_encoder_score']:.3f}. {match['lecture']}",
+        "--course-url", post_url,
+        "--note", note,
         "--yes",
     ]
     result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
@@ -486,12 +685,18 @@ def post_l1(match: dict):
 
 
 def post_l2(match: dict):
-    """Post external links via apply-l2-external-links.py."""
+    """Post external links via apply-l2-external-links.py, linking to the specific lecture.
+    Uses --course-url to point to the lecture resource rather than the course page.
+    """
     script = os.path.join(SCRIPTS_DIR, "apply-l2-external-links.py")
+    post_url = match.get("lecture_url") or match["course_url"]
+    # Use legacy --course-url mode to post the specific lecture link
     cmd = [
         sys.executable, script,
         match["article"],
-        "--course", match["course_slug"],
+        "--course-id", match["course_id"],
+        "--course-title", match["course_title"],
+        "--course-url", post_url,
         "--description", f"Cross-encoder score {match['cross_encoder_score']:.3f}. Matched lecture: {match['lecture']}",
         "--yes",
     ]
@@ -514,7 +719,12 @@ def show_match(match: dict, idx: int, total: int, mode: str):
     print(f"  {c('Course:', Color.BOLD)}            {match['course_id']} — {match['course_title']}")
     print(f"  {c('Lecture:', Color.BOLD)}           {match['lecture']}")
     print(f"  {c('Source:', Color.BOLD)}            {match['source']}")
-    print(f"  {c('URL:', Color.BOLD)}               {match['course_url']}")
+    print(f"  {c('Link type:', Color.BOLD)}         {match['url_type']}")
+    print(f"  {c('Course URL:', Color.BOLD)}        {match['course_url']}")
+    if match['lecture_url'] and match['url_type'] != 'course':
+        print(f"  {c('Lecture URL:', Color.BOLD)}      {match['lecture_url']}")
+    if match['lecture_pdf_url']:
+        print(f"  {c('Direct PDF:', Color.BOLD)}       {match['lecture_pdf_url']}")
     print()
     
     if mode == "L1":
@@ -608,6 +818,9 @@ def export_json(matches: list, path: str):
             "lecture": m["lecture"],
             "assets": "",
             "cross_encoder_score": m["cross_encoder_score"],
+            "lecture_url": m.get("lecture_url"),
+            "lecture_pdf_url": m.get("lecture_pdf_url"),
+            "url_type": m.get("url_type", "course"),
         })
     
     output["Environment (collaborator)"]["articles"] = list(by_article.values())
