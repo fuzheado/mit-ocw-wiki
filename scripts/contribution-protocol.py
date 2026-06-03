@@ -2,6 +2,11 @@
 """
 Contribution Protocol — reference implementation.
 
+Reference docs:
+  docs/L1-REFIDEAS.md — L1 refideas algorithm (build_refideas_wikitext, refideas_add, l1_insert_refideas)
+  docs/L2-EXTERNAL-LINKS.md — L2 external links algorithm (build_external_link_wikitext, external_link_add, l2_insert_external_link)
+Keep those docs in sync when changing functions in this file.
+
 Usage:
     python3 scripts/contribution-protocol.py --validate    # Validate all example records
     python3 scripts/contribution-protocol.py --examples    # Print example records as JSON
@@ -713,6 +718,230 @@ def l1_insert_refideas(
     )
 
 
+# ─── L2 Insertion Utility ─────────────────────────────────────────────────
+
+def build_external_link_wikitext(
+    wikitext: str,
+    url: str,
+    title: str,
+    publisher: str = "",
+    description: str = "",
+) -> dict:
+    """
+    Pure function: given article wikitext, produce new wikitext with an
+    external link appended to == External links == or == Further reading ==.
+    If neither section exists, creates == External links == per WP:LAYOUT.
+    No API calls, no side effects.
+
+    Returns:
+        {"action": "append" | "create",
+         "section": str, "detail": str, "wikitext": str, "summary": str}
+    """
+    import mwparserfromhell
+    import re
+
+    # Build the cite web bullet
+    cite = f"{{{{cite web |url={url} |title={title}"
+    if publisher:
+        cite += f" |publisher={publisher}"
+    cite += "}}"
+    bullet = f"* {cite}"
+    if description:
+        bullet += f" — {description}"
+    bullet = "\n" + bullet + "\n"
+
+    code = mwparserfromhell.parse(wikitext)
+    headings = code.filter_headings()
+
+    # Build list of level-2 headings with raw byte positions
+    heading_data = []
+    seen = set()
+    for h in headings:
+        h_title = str(h.title).strip()
+        if h.level == 2 and h_title.lower() not in seen:
+            seen.add(h_title.lower())
+            pattern = rf'(?:^|\n)==\s*{re.escape(h_title)}\s*=='
+            m = re.search(pattern, wikitext, re.MULTILINE)
+            if m:
+                heading_data.append((h_title, m.start(), m.end()))
+
+    heading_data.sort(key=lambda x: x[1])
+
+    # Look for External links first, fall back to Further reading
+    target_idx = None
+    target_section = None
+    for i, (h_title, _, _) in enumerate(heading_data):
+        hl = h_title.lower()
+        if hl == 'external links':
+            target_idx = i
+            target_section = h_title
+            break
+    if target_idx is None:
+        for i, (h_title, _, _) in enumerate(heading_data):
+            if h_title.lower() == 'further reading':
+                target_idx = i
+                target_section = h_title
+                break
+
+    if target_idx is not None:
+        # Find end of section: next == heading, or end of page
+        h_start, h_end = heading_data[target_idx][1], heading_data[target_idx][2]
+        end_pos = len(wikitext)
+        for i in range(target_idx + 1, len(heading_data)):
+            end_pos = heading_data[i][1]
+            break
+
+        # Get the raw section content (between heading and end_pos)
+        section_raw = wikitext[h_end:end_pos]
+
+        # Find the last * bullet in the section (skip navboxes/categories after it)
+        # Look for the last line starting with *
+        last_bullet_end = -1
+        for m in re.finditer(r'^\s*\*', section_raw, re.MULTILINE):
+            # Find the end of this bullet line (next newline or end of section)
+            line_end = section_raw.find('\n', m.end())
+            if line_end == -1:
+                line_end = len(section_raw)
+            last_bullet_end = max(last_bullet_end, line_end)
+
+        if last_bullet_end > 0:
+            # Found bullets — insert after the last one, before navboxes/categories
+            actual_end = h_end + last_bullet_end
+            before = wikitext[:actual_end].rstrip('\n')
+            after = wikitext[actual_end:]
+            new_wikitext = before + bullet + "\n" + after.lstrip('\n')
+        else:
+            # No bullets in section — append at end of section as before
+            before = wikitext[:end_pos].rstrip('\n')
+            after = wikitext[end_pos:]
+            new_wikitext = before + bullet + "\n" + after.lstrip('\n')
+
+        return {
+            "action": "append",
+            "section": target_section,
+            "detail": f"Appended to == {target_section} ==",
+            "wikitext": new_wikitext,
+            "summary": f"/* {target_section} */ Added {title} as an educational resource via Wiki MIT",
+        }
+
+    # Neither section exists — create one.
+    # Find References, Notes, Footnotes, or See also to position before.
+    REFERENCE_NAMES = {'references', 'notes', 'footnotes', 'notes and references'}
+    ref_pos = None
+    see_also_pos = None
+
+    for h_title, h_start, _ in heading_data:
+        hl = h_title.lower()
+        if hl in REFERENCE_NAMES and ref_pos is None:
+            ref_pos = h_start
+            break
+        elif hl == 'see also' and see_also_pos is None:
+            see_also_pos = h_start
+            break
+
+    section_title = "External links"
+    new_section = f"\n== {section_title} ==\n{bullet}\n"
+
+    if ref_pos is not None:
+        before = wikitext[:ref_pos].rstrip('\n')
+        after = wikitext[ref_pos:]
+        new_wikitext = before + new_section + "\n" + after.lstrip('\n')
+        detail = "Created == External links == before References"
+    elif see_also_pos is not None:
+        before = wikitext[:see_also_pos].rstrip('\n')
+        after = wikitext[see_also_pos:]
+        new_wikitext = before + new_section + "\n" + after.lstrip('\n')
+        detail = "Created == External links == before == See also =="
+    else:
+        new_wikitext = wikitext.rstrip('\n') + new_section
+        detail = "No References/See also found — appended == External links == at end"
+
+    return {
+        "action": "create",
+        "section": section_title,
+        "detail": detail,
+        "wikitext": new_wikitext,
+        "summary": f"/* External links */ Added {title} as an educational resource via Wiki MIT",
+    }
+
+
+def external_link_add(
+    article_title: str,
+    url: str,
+    title: str,
+    publisher: str = "",
+    description: str = "",
+) -> dict:
+    """
+    Add an external link to a Wikipedia article's == External links == section.
+
+    Orchestrator: fetches article wikitext via API, deduplicates by URL,
+    delegates to build_external_link_wikitext() for pure wikitext manipulation.
+
+    Returns:
+        {"action": str, "section": str, "detail": str, "wikitext": str,
+         "summary": str, "skipped": bool, "reason": str}
+    """
+    import urllib.request
+    import urllib.parse
+    import json
+
+    UA = "MIT OCW Bot/1.0 (https://meta.wikimedia.org/wiki/Wiki_MIT; andrew.lih@gmail.com) ContentGapResearch"
+
+    encoded = urllib.parse.quote(
+        urllib.parse.unquote(article_title).replace(" ", "_"), safe=""
+    )
+    api_url = (
+        "https://en.wikipedia.org/w/api.php"
+        f"?action=parse&page={encoded}"
+        "&prop=wikitext&format=json&formatversion=2"
+    )
+    req = urllib.request.Request(api_url, headers={"User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=15) as resp:
+        data = json.loads(resp.read())
+        wikitext = data["parse"]["wikitext"]
+
+    # Dedup: check if URL already in article
+    if url in wikitext:
+        return {
+            "action": "skip",
+            "section": "",
+            "detail": "URL already present in article — skipping",
+            "wikitext": wikitext,
+            "summary": "",
+            "skipped": True,
+            "reason": "duplicate_url",
+        }
+
+    result = build_external_link_wikitext(
+        wikitext, url, title, publisher, description
+    )
+    result["skipped"] = False
+    result["reason"] = ""
+    return result
+
+
+def l2_insert_external_link(
+    article_title: str,
+    course_id: str,
+    course_title: str,
+    course_url: str,
+    description: str = "",
+) -> dict:
+    """
+    OCW-specific wrapper around external_link_add().
+
+    Formats the link with MIT OpenCourseWare as publisher.
+    """
+    return external_link_add(
+        article_title=article_title,
+        url=course_url,
+        title=course_title,
+        publisher="MIT OpenCourseWare",
+        description=description,
+    )
+
+
 # ─── Example Records (from real project data) ───────────────────────────────
 
 def get_examples() -> List[ContributionRecord]:
@@ -912,6 +1141,27 @@ if __name__ == "__main__":
                     print(f"  [{p.name.strip()}] {v[:100]}{'...' if len(v) > 100 else ''}")
                 except ValueError:
                     pass
+    elif cmd == "--l2-test":
+        # Dry-run L2 insertion on a test article
+        article = " ".join(sys.argv[2:]) if len(sys.argv) > 2 else "Algorithm"
+        result = l2_insert_external_link(
+            article, "6.006", "Introduction to Algorithms",
+            "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
+            "Full course with video lectures, problem sets, and exams covering algorithm design and analysis."
+        )
+        print(f"Article: {article}")
+        print(f"Action: {result['action']}")
+        print(f"Section: {result.get('section', 'N/A')}")
+        print(f"Detail: {result['detail']}")
+        print(f"Summary: {result['summary']}")
+        print(f"\nWikitext length: {len(result['wikitext'])} bytes")
+        # Show a snippet around the external links section
+        idx = result['wikitext'].lower().find('external link')
+        if idx < 0:
+            idx = result['wikitext'].lower().find('further reading')
+        if idx >= 0:
+            snippet = result['wikitext'][max(0, idx - 60):idx + 200]
+            print(f"\nContext around insertion:\n  ...{snippet}...")
     else:
         print(f"Unknown command: {cmd}")
         print(__doc__)

@@ -4,7 +4,11 @@ This is a wiki maintained by an LLM agent for the [Wiki MIT](https://meta.wikime
 
 - **`CLAUDE.md`** — agent instructions, project schema, workflows, conventions. Your primary instruction file.
 - **`README.md`** — human-facing overview, status, quick start, project structure.
-- **`docs/`** — reference docs (crossref strategy, impact matrix design, git strategy).
+- **`docs/`** — reference docs (crossref strategy, impact matrix design, git strategy, L1/L2 contribution).
+  - **`docs/L1-REFIDEAS.md`** — L1 algorithm: Talk page `{{refideas}}`, linter, fixer, insert tools. **50 tests, 15 live edits.** Keep in sync with `scripts/lint-refideas.py`, `scripts/apply-refideas-fix.py`, `scripts/refideas-add.py`, `scripts/apply-l1-refideas.py`.
+  - **`docs/L2-EXTERNAL-LINKS.md`** — L2 algorithm: External links insertion, course resolution, CLI reference, known bugs. **26 tests.** Keep in sync with `scripts/apply-l2-external-links.py`, `scripts/contribution-protocol.py` (L2 functions), `scripts/test-l2-external-links.py`.
+  - **`docs/AD-HOC-MATCH.md`** — Ad-hoc match algorithm: match sources, filter layers, scoring, page type detection, interactive flow. Keep in sync with `scripts/ad-hoc-match.py`.
+  - **`docs/HOWTO-NEW-PROVIDER.md`** — How to add a new `MatchProvider` to the pluggable matching system.
 - **`_checkpoint.json`** — current project state. Read this at the start of every session.
 
 ## Quick reference
@@ -57,7 +61,22 @@ Wikimedia API / SQL skills are provided by the external [Wikipedia-AI-Skills](ht
 | **fetch-readwise-document** | `.claude/skills/fetch-readwise-document/SKILL.md` | Stream a Reader document into `raw/` |
 | **fetch-readwise-highlights** | `.claude/skills/fetch-readwise-highlights/SKILL.md` | Vector-search highlights, grouped by parent doc, write to `raw/` |
 
-### OCW ingest workflow
+### Ad-hoc match tool (`scripts/ad-hoc-match.py`)
+
+Quick way to find the best Wikipedia articles for any MIT OCW course.
+Uses a pluggable provider architecture — add new matching strategies via `MatchProvider`:
+```bash
+python3 scripts/ad-hoc-match.py "6.S897" --top 5           # Ranked matches
+python3 scripts/ad-hoc-match.py "STS.050" --provider wikipedia  # Only Wikipedia search
+python3 scripts/ad-hoc-match.py "6.S897" --mode L2 --interactive  # Interactive + post
+```
+
+Filters out: broad-field articles ("Computer science"), glossary/list pages,
+named entities on weak matches, and generic category word overlap.
+Scores by: pre-computed corpus matches, title specificity, maintenance templates, pageviews.
+See `docs/HOWTO-NEW-PROVIDER.md` to add a new provider.
+
+## OCW ingest workflow
 
 1. Read `_checkpoint.json` to determine current offset
 2. Fetch `GET /api/v1/courses/?offered_by=ocw&limit=100&offset={N}`

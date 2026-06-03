@@ -8,7 +8,7 @@
 - [[log]] — chronological record of all work
 - [[overview]] — top-level synthesis of OCW as a whole
 
-## Courses (2572)
+## Courses (2573)
 
 Browse by department:
 

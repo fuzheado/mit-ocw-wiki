@@ -2,6 +2,9 @@
 """
 OCW-specific wrapper around refideas-add for MIT OpenCourseWare references.
 
+Full reference: docs/L1-REFIDEAS.md — algorithm, CLI, OCW wrapper format.
+Keep that doc in sync when changing this script.
+
 Formats OCW course details into the standard Refideas format and delegates
 to the generic refideas-add workflow for auth, diff, confirmation, and posting.
 

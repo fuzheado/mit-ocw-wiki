@@ -2,6 +2,9 @@
 """
 Test suite for L1 refideas insertion (build_refideas_wikitext + l1_insert_refideas).
 
+Full reference: docs/L1-REFIDEAS.md — algorithm, architecture, CLI.
+Keep that doc in sync when changing this file.
+
 All tests are offline — no API calls, no mocking needed. The pure function
 build_refideas_wikitext() takes wikitext in, returns wikitext out.
 

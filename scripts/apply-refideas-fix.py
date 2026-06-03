@@ -2,6 +2,9 @@
 """
 Apply Refideas fixes to Wikipedia Talk pages.
 
+Full reference: docs/L1-REFIDEAS.md — algorithm, error types, CLI, live editing workflow.
+Keep that doc in sync when changing this script.
+
 Shows a color-coded side-by-side diff, prompts for confirmation, then posts
 the fix via the Wikipedia API.
 

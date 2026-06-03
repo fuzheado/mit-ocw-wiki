@@ -2,6 +2,9 @@
 """
 Refideas Linter — detect and fix common formatting errors in {{refideas}} templates.
 
+Full reference: docs/L1-REFIDEAS.md — algorithm, error types, CLI, live editing workflow.
+Keep that doc in sync when changing this script.
+
 Based on analysis of ~380 randomly sampled Refideas templates on English Wikipedia:
   https://meta.wikimedia.org/wiki/Wiki_MIT/RefIdeas
 

@@ -2,6 +2,9 @@
 """
 Add a reference to a Wikipedia Talk page's {{refideas}} template.
 
+Full reference: docs/L1-REFIDEAS.md — algorithm, CLI, dedup, auth flow.
+Keep that doc in sync when changing this script.
+
 Generic tool — works for any reference, not just OCW. Fetches the Talk page,
 generates the new wikitext, shows a color-coded side-by-side diff, prompts
 for confirmation, then posts the edit via the Wikipedia API.

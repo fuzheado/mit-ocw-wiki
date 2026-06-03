@@ -1,7 +1,7 @@
 # Handoff — Session Context for New Agents
 
-> **Last updated:** 2026-05-26
-> **Project state:** L1 (refideas insert, linter, fixer) production-ready. L2-L5 designed but not built.
+> **Last updated:** 2026-05-27
+> **Project state:** L1 (refideas insert, linter, fixer) production-ready. L2 (external links) built and tested. L3-L5 designed but not built.
 
 ---
 
@@ -17,7 +17,11 @@ Read `README.md` for the full overview. Read `docs/ROADMAP.md` for the plan.
 
 ---
 
-## What we built (L1 — Refideas: insert, linter, fixer, match discovery)
+## What we built
+
+### L1 (Refideas: insert, linter, fixer, match discovery)
+
+Production-ready with 50 tests, 8 live edits.
 
 ### Scripts
 
@@ -28,11 +32,73 @@ Read `README.md` for the full overview. Read `docs/ROADMAP.md` for the plan.
 | `scripts/contribution-protocol.py` | L1-L5 data model, factories; `build_refideas_wikitext()` (pure fn), `refideas_add()` (orchestrator), `l1_insert_refideas()` (OCW wrapper) | `--validate`, `--wikitext`, `--l1-test` |
 | `scripts/refideas-add.py` | **Generic** CLI — add any reference to `{{refideas}}` | `"Article" --url "..." --label "..." [--source "..."]` |
 | `scripts/apply-l1-refideas.py` | **OCW wrapper** CLI — formats `--course-id` and delegates to generic tools | `"Article" --course-id 6.006 --course-title "..."` |
+| `scripts/ad-hoc-match.py` | **Ad-hoc match** — find best Wikipedia articles for any OCW course, with pluggable providers, interactive L1/L2 posting | `--top 5`, `--mode L2 --interactive`, `--provider wikipedia` |
 | `scripts/prioritize-matches.py` | **Match scoring** — template gate + IDF-weighted overlap + specificity | `--data FILE`, `-v` (verbose), `--interactive N`, `--apply-top N --yes` |
 | `scripts/generate-matches.py` | **Live match discovery** — searches 25 WikiProjects via Wikipedia API, detects templates with mwparserfromhell, matches against 2,577 OCW courses | `--top 30 --output FILE`, `--project Chemistry` |
 | `scripts/scan-batch-parallel.py` | **Parallel asset scanner** — scanned 2,165 courses in 13.5 min (8 workers, 2.7/s) | `--workers 8`, `--limit 50`, `--dry-run` |
 | `scripts/test-refideas.py` | 28 regression tests (linter/fixer) | `python3 scripts/test-refideas.py -v` |
 | `scripts/test-l1-refideas-insert.py` | 22 tests for `build_refideas_wikitext()` (pure function, no API) | `python3 scripts/test-l1-refideas-insert.py -v` |
+
+### L2 (External links — built 2026-05-27, updated 2026-06-03)
+
+| Script | Purpose | Key commands |
+|--------|---------|-------------|
+| `scripts/apply-l2-external-links.py` | **OCW CLI** — add MIT course link to article's `== External links ==` section | See below for CLI syntax |
+| `scripts/test-l2-external-links.py` | 26 offline tests for `build_external_link_wikitext()` (pure function) | `python3 scripts/test-l2-external-links.py -v` |
+
+**Architecture** (same pure function + orchestrator + OCW wrapper pattern as L1):
+- **`build_external_link_wikitext(wikitext, url, title, publisher, description)`** — pure function, 26 offline tests
+- **`external_link_add(article, url, title, publisher, description)`** — orchestrator, fetches via API, deduplicates
+- **`l2_insert_external_link(article, course_id, course_title, course_url, description)`** — OCW wrapper
+
+**CLI syntax — `--course` mode (primary, resolves from local wiki):**
+```bash
+# Course as OCW slug
+python3 scripts/apply-l2-external-links.py "Article" \
+    --course "6-s897-machine-learning-for-healthcare-spring-2019"
+
+# Course as full URL
+python3 scripts/apply-l2-external-links.py "Article" \
+    --course "https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/"
+
+# Article as full Wikipedia URL
+python3 scripts/apply-l2-external-links.py \
+    "https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare" \
+    --course "6-s897-..."
+
+# Override course title or description from wiki
+python3 scripts/apply-l2-external-links.py "Article" \
+    --course "6-s897-..." \
+    --course-title "Custom Title" \
+    --description "Custom description."
+```
+
+**CLI syntax — legacy mode (all fields explicit, still supported):**
+```bash
+python3 scripts/apply-l2-external-links.py "Article" \
+    --course-id 6.006 \
+    --course-title "Introduction to Algorithms" \
+    --course-url "https://ocw.mit.edu/courses/6-006-..." \
+    --description "Full course."
+```
+
+**Course resolution:** The `--course` flag accepts either an OCW slug
+(`6-s897-machine-learning-for-healthcare-spring-2019`) or a full OCW URL
+(`https://ocw.mit.edu/courses/6-s897-.../`). It resolves the course metadata
+(course_id, title, url) from the local wiki at `wiki/courses/{slug}.md`.
+The resolved title/description can be overridden with `--course-title` or
+`--description`.
+
+**Article resolution:** The positional argument accepts either a bare Wikipedia
+article title (`Artificial intelligence in healthcare`) or a full Wikipedia URL
+(`https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare`).
+
+**Section targeting:**
+1. `== External links ==` (preferred) — inserts after the last `*` bullet, before any trailing navboxes/categories
+2. `== Further reading ==` (fallback)
+3. Neither exists → creates `== External links ==` before References/Notes/See also, or at end
+
+**Output format:** `* {{cite web |url=... |title=... |publisher=MIT OpenCourseWare}} — description`
 
 ### Fix types
 
@@ -64,6 +130,14 @@ L1 refactored into three layers (pattern to follow for L2-L5):
 - **`build_refideas_wikitext(wikitext, url, label, source, note)`** — pure function. Takes wikitext string in, returns modified wikitext out. No API calls, no side effects. 22 offline tests.
 - **`refideas_add(article, url, label, source, note)`** — orchestrator. Fetches Talk page via API, deduplicates by URL, delegates to `build_refideas_wikitext()`.
 - **`l1_insert_refideas(article, course_id, course_title, url, note)`** — OCW wrapper. Formats `"[url MIT id: title], MIT OpenCourseWare (note)"` and calls `refideas_add()`.
+
+### L2 architecture (built 2026-05-27)
+
+Same pure function + orchestrator + OCW wrapper pattern:
+
+- **`build_external_link_wikitext(wikitext, url, title, publisher, description)`** — pure function. Takes wikitext in, appends `* {{cite web}}` to External links / Further reading section, or creates a new one. 25 offline tests.
+- **`external_link_add(article, url, title, publisher, description)`** — orchestrator. Fetches article via API (not Talk page), deduplicates by URL, delegates to pure function.
+- **`l2_insert_external_link(article, course_id, course_title, course_url, description)`** — OCW wrapper. Publisher = MIT OpenCourseWare.
 
 ### Match discovery and scoring pipeline
 
@@ -106,19 +180,32 @@ generate-matches.py          prioritize-matches.py        apply-l1-refideas.py
 
 ## How to continue
 
-### Next: L2 — External links
+### L2 ✅ Built
 
-Designed in `docs/CONTRIBUTION-LEVELS.md`. Add OCW course links to `== External links ==` sections.
+External links insertion is complete: pure function (25 tests), orchestrator, OCW wrapper CLI.
 
-**Key questions to answer:**
-- Find `== External links ==` vs `== Further reading ==` section via `filter_headings()`
-- Append bulleted `{{cite web}}` or plain `[url Label]`? (Standard is `{{cite web}}` for external links)
-- What if no External links section exists? Create one, positioned before `== References ==` per WP:LAYOUT
-- Write tests before implementing
+```bash
+# Dry-run preview
+python3 scripts/contribution-protocol.py --l2-test
+python3 scripts/contribution-protocol.py --l2-test "Nuclear weapon"
 
-### After L2: L3 — Replace `{{Citation needed}}`
+# Live insertion (auth required)
+python3 scripts/apply-l2-external-links.py "Algorithm" \
+    --course-id 6.006 \
+    --course-title "Introduction to Algorithms" \
+    --course-url "https://ocw.mit.edu/courses/6-006-..." \
+    --description "Full course with video lectures, problem sets, and exams."
 
-Replace `{{cn}}` tags with `<ref>{{cite web}}</ref>` pointing to OCW resources. Requires:
+# Preview without posting
+python3 scripts/apply-l2-external-links.py --dry-run "Algorithm" --course-id ...
+
+# Run tests
+python3 scripts/test-l2-external-links.py -v
+```
+
+### Next: L3 — Replace {{{{Citation needed}}}}
+
+Designed in `docs/CONTRIBUTION-LEVELS.md`. Replace `{{cn}}` tags with `<ref>{{cite web}}</ref>` pointing to OCW resources. Requires:
 - Finding the specific `{{cn}}` by section + context text
 - Generating a proper citation from OCW course/lecture metadata
 - The OCW license (CC BY-NC-SA) note — citing NC works is standard academic practice
@@ -186,11 +273,72 @@ python3 scripts/prioritize-matches.py --data .wiki_cache/live-matches.json --int
 # Batch apply top N (requires --yes)
 python3 scripts/prioritize-matches.py --data .wiki_cache/live-matches.json --apply-top 3 --yes
 
+# ── Ad-hoc match (find best articles for any OCW course) ──
+
+# Ranked matches (stdout)
+python3 scripts/ad-hoc-match.py "6.S897" --top 5
+python3 scripts/ad-hoc-match.py "https://ocw.mit.edu/courses/6-s897-.../" --top 8
+
+# Provider selection (pluggable matching strategies)
+python3 scripts/ad-hoc-match.py "STS.050" --provider corpus          # pre-computed matches only
+python3 scripts/ad-hoc-match.py "STS.050" --provider wikipedia        # Wikipedia search only
+python3 scripts/ad-hoc-match.py "STS.050" --provider "corpus,wikipedia"  # custom combination
+
+# Interactive mode (select match → preview diff → post)
+python3 scripts/ad-hoc-match.py "6.S897" --mode L2 --interactive --dry-run
+python3 scripts/ad-hoc-match.py "22.01" --mode L1 --interactive
+
+# ── L2: External links ──
+
+# Dry-run: see what would be posted (no auth needed)
+python3 scripts/contribution-protocol.py --l2-test
+python3 scripts/contribution-protocol.py --l2-test "Nuclear weapon"
+
+# ── Primary --course mode (resolves from local wiki) ──
+
+# Course as OCW slug (preferred)
+python3 scripts/apply-l2-external-links.py "Algorithm" \
+    --course "6-006-introduction-to-algorithms-spring-2020" \
+    --description "Full course with video lectures, problem sets, and exams."
+
+# Course as full OCW URL
+python3 scripts/apply-l2-external-links.py "Algorithm" \
+    --course "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/"
+
+# Article as full Wikipedia URL
+python3 scripts/apply-l2-external-links.py \
+    "https://en.wikipedia.org/wiki/Algorithm" \
+    --course "6-006-..."
+
+# Override course title or description resolved from wiki
+python3 scripts/apply-l2-external-links.py "Algorithm" \
+    --course "6-006-..." \
+    --course-title "Custom Title" \
+    --description "Custom description."
+
+# Preview without posting (--dry-run)
+python3 scripts/apply-l2-external-links.py --dry-run "Algorithm" --course "6-006-..."
+
+# Skip confirmation (--yes)
+python3 scripts/apply-l2-external-links.py --yes "Algorithm" --course "6-006-..."
+
+# ── Legacy mode (all fields explicit, still supported) ──
+
+python3 scripts/apply-l2-external-links.py "Algorithm" \
+    --course-id 6.006 \
+    --course-title "Introduction to Algorithms" \
+    --course-url "https://ocw.mit.edu/courses/6-006-..." \
+    --description "Full course with video lectures, problem sets, and exams."
+
 # ── Tests ──
 
-# All L1 tests (50 total: 28 linter + 22 insert)
+# All tests (75 total: 28 linter + 22 L1 insert + 25 L2 external links)
 python3 scripts/test-refideas.py -v
 python3 scripts/test-l1-refideas-insert.py -v
+python3 scripts/test-l2-external-links.py -v
+
+# Validate all contribution level examples
+python3 scripts/contribution-protocol.py --validate
 ```
 
 ---

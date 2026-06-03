@@ -2,6 +2,9 @@
 """
 Test suite for the Refideas linter and fixer.
 
+Full reference: docs/L1-REFIDEAS.md — algorithm, error types, CLI.
+Keep that doc in sync when changing this file.
+
 Run:
     python3 scripts/test-refideas.py
     python3 scripts/test-refideas.py -v    # verbose

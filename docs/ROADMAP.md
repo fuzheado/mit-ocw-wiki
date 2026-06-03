@@ -190,4 +190,10 @@ Where to find things in the reorganized project:
 | Scalability analysis | `notes/scalability-and-domain-classification.md` |
 | Pageview data issues | `notes/pageview-data-issues.md` |
 | Domain classifier | `scripts/classify_projects.py` |
+| L1 Refideas reference | `docs/L1-REFIDEAS.md` |
+| L2 External links reference | `docs/L2-EXTERNAL-LINKS.md` |
+| Contribution levels (L1-L5) | `docs/CONTRIBUTION-LEVELS.md` |
+| Contribution Protocol schema | `docs/CONTRIBUTION-PROTOCOL.md` |
+| Ad-hoc match tool | `docs/AD-HOC-MATCH.md` — full algorithm: match sources, provider interface, filter layers, scoring formula, page type detection, interactive flow |
+| How to add a provider | `docs/HOWTO-NEW-PROVIDER.md` — step-by-step guide for writing a new `MatchProvider` |
 | This roadmap | `docs/ROADMAP.md` |

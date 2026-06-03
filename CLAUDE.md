@@ -92,6 +92,26 @@ When delegating work to a subagent, instruct it to write an implementation note 
 
 This ensures consistency across sessions and prevents duplicated effort.
 
+## Doc Sync Rules (always active)
+
+The following docs must be kept in sync with their corresponding code. Whenever you modify code from the left column, update the right column in the same session:
+
+| Code changed | Doc to update | What to check |
+|---|---|---|
+| `scripts/lint-refideas.py` | `docs/L1-REFIDEAS.md` | Test counts, error types, CLI flags, workflow examples |
+| `scripts/apply-refideas-fix.py` | `docs/L1-REFIDEAS.md` | CLI flags, live editing workflow, pages fixed count |
+| `scripts/refideas-add.py` | `docs/L1-REFIDEAS.md` | CLI flags, dedup logic, auth flow |
+| `scripts/apply-l1-refideas.py` | `docs/L1-REFIDEAS.md` | CLI flags, OCW wrapper format |
+| `scripts/test-refideas.py` | `docs/L1-REFIDEAS.md` | Test count (currently 28) |
+| `scripts/test-l1-refideas-insert.py` | `docs/L1-REFIDEAS.md` | Test count (currently 22) |
+| `scripts/apply-l2-external-links.py` | `docs/L2-EXTERNAL-LINKS.md` | CLI flags, course resolution, course count in wiki |
+| `scripts/contribution-protocol.py` (L2 functions) | `docs/L2-EXTERNAL-LINKS.md` | Algorithm details, section targeting, return format |
+| `scripts/test-l2-external-links.py` | `docs/L2-EXTERNAL-LINKS.md` | Test count (currently 26), test coverage categories |
+| `scripts/ad-hoc-match.py` | `docs/AD-HOC-MATCH.md`, `docs/HOWTO-NEW-PROVIDER.md` | Match sources, filter layers, scoring formula, page type detection, interactive flow, provider interface. Also update companion tool sections in `docs/L1-REFIDEAS.md` and `docs/L2-EXTERNAL-LINKS.md`. |
+
+After updating any doc, bump the date in its status line (e.g., `> **Status:** ... (updated YYYY-MM-DD)`).
+Run `python3 scripts/check-doc-sync.py` to validate.
+
 ## Core Rules (always active)
 
 1. Every course page gets full YAML frontmatter per Rule 1.1. Never invent metadata — use `Unknown` + `FIXME` if not found. The `last_scanned` and `asset_counts` fields are set automatically by scans. The `api_id` field is added when the API is queried.

@@ -1,6 +1,6 @@
 # L1 Contribution: Talk Page `{{refideas}}`
 
-> **Status:** Algorithm validated on real Wikipedia Talk pages. Refactored into pure-function + orchestrator pattern for testability. Reference implementation in `scripts/contribution-protocol.py`. Generic and OCW-specific CLI tools available.
+> **Status:** Production-ready (updated 2026-06-03). Algorithm validated on real Wikipedia Talk pages. 8 pages fixed + 7 pages with `{{refideas}}` added (15 live edits total). Refactored into pure-function + orchestrator pattern for testability. Reference implementation in `scripts/contribution-protocol.py`. Generic and OCW-specific CLI tools available. 50 regression tests.
 
 ---
 
@@ -251,14 +251,14 @@ Both CLIs share the same auth (bot password from `.env`), side-by-side diff, and
 ### Tests
 
 ```bash
-# Linter/fixer tests (26)
+# Linter/fixer tests (28)
 python3 scripts/test-refideas.py -v
 
 # Insert tests (22) — pure function, no API calls
 python3 scripts/test-l1-refideas-insert.py -v
 ```
 
-48 tests total, all passing.
+50 tests total, all passing.
 
 ## Linter / Cleaner mode
 
@@ -405,7 +405,7 @@ All fixes produce clean, readable wikitext with each reference on its own line:
 }}
 ```
 
-Pages fixed so far: Cult film (multi_bullet, 5 refs split), Kinesoft (bullet_syntax), Toshakhana (bullet_syntax).
+Pages fixed so far: **8 pages** on live Wikipedia (Cult film, Kinesoft, Toshakhana, and 5 more — see `_checkpoint.json`). 7 additional pages have had `{{refideas}}` blocks inserted with OCW course suggestions. **15 live edits total** across both fixer and insert tools.
 
 ### Insert tools
 
@@ -436,6 +436,25 @@ python3 scripts/apply-l1-refideas.py --yes "Algorithm" --course-id ...
 Both show a color-coded side-by-side diff, prompt [y/N] before posting, and use bot password auth from `.env`. The OCW wrapper imports auth/diff/post utilities from the generic tool — no code duplication.
 
 Deduplication: if the URL already appears anywhere on the Talk page, the insert is skipped with a `⏭` message.
+
+## Companion tool
+
+`scripts/ad-hoc-match.py` and `docs/AD-HOC-MATCH.md` — finds the best Wikipedia article matches
+for any OCW course, then lets you post L1 `{{refideas}}` or L2 external links interactively.
+Five filter layers exclude broad-field articles, glossary/list pages, named entities on weak matches,
+and generic category-word overlap. Scores by pre-computed corpus, title specificity,
+maintenance template density, and pageviews.
+
+```bash
+# Find matches for a course, then post L1 refideas
+python3 scripts/ad-hoc-match.py "6.S897" --mode L1 --interactive
+
+# Preview without posting
+python3 scripts/ad-hoc-match.py "6.S897" --mode L1 --interactive --dry-run
+
+# Just see the ranked list
+python3 scripts/ad-hoc-match.py "6.S897" --top 5
+```
 
 ## Next
 

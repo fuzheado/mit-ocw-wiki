@@ -47,9 +47,10 @@
       "notes": "Full pipeline: generate-matches.py (API search + mwparserfromhell template detection) → prioritize-matches.py (template gate + IDF-weighted overlap + specificity scoring) → apply-l1-refideas.py (live posting). Modes: rank, -v verbose, --interactive N, --apply-top N --yes. All demo data replaced with live Wikipedia API queries."
     },
     "l2_external_links": {
-      "complete": false,
+      "complete": true,
       "protocol_designed": true,
-      "notes": "Designed in docs/CONTRIBUTION-LEVELS.md. Processing not yet validated."
+      "github_references": [],
+      "notes": "CLI refactored 2026-06-03: --course slug/URL mode auto-resolves from local wiki. Legacy --course-id/--course-title/--course-url still supported. Tests: 26. Two bugs fixed: (1) insertion before navboxes/categories when External links is last section, (2) regex now handles *[url (no space after *))."
     },
     "l3_citation_needed": {
       "complete": false

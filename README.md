@@ -181,6 +181,20 @@ python3 scripts/prioritize-matches.py --data .wiki_cache/live-matches.json
 python3 scripts/prioritize-matches.py --data .wiki_cache/live-matches.json -v
 python3 scripts/prioritize-matches.py --data .wiki_cache/live-matches.json --interactive 5
 
+# Ingest a single course from its URL (if not in wiki yet)
+python3 scripts/ingest-one.py "https://ocw.mit.edu/courses/14-12-economic-applications-of-game-theory-fall-2025/"
+
+# Ad-hoc match (find best article for any MIT course)
+python3 scripts/ad-hoc-match.py "6.S897" --top 5          # Ranked matches (stdout)
+python3 scripts/ad-hoc-match.py "6-s897-..." --mode L2 --interactive --dry-run  # Interactive + preview
+python3 scripts/ad-hoc-match.py "STS.050" --provider corpus  # Only pre-computed corpus
+python3 scripts/ad-hoc-match.py "STS.050" --provider wikipedia  # Only Wikipedia search
+
+# Doc sync validation
+python3 scripts/check-doc-sync.py                     # Validate L1/L2 docs match code
+python3 scripts/check-doc-sync.py --quiet              # Only show failures
+python3 scripts/check-doc-sync.py --fix                # Auto-fix stale test counts
+
 # Contribution protocol
 python3 scripts/contribution-protocol.py --validate    # Validate example records
 python3 scripts/contribution-protocol.py --l1-test "Article"  # Dry-run L1 insertion
@@ -229,12 +243,16 @@ python3 scripts/crossref-wikipedia.py --report --demo
 | `notes/detail-panel-spec.md` | Detail panel content specification |
 | `docs/ROADMAP.md` | Next steps: subsystem integration and contribution interface |
 | `docs/CONTRIBUTION-LEVELS.md` | All five contribution levels (L1-L5): what they do, processing, open questions |
-| `docs/L1-REFIDEAS.md` | L1 algorithm: Talk page {{refideas}} — insertion strategy, pure function pattern, linter, CLI tools |
+| `docs/L1-REFIDEAS.md` | **L1 algorithm** — Talk page `{{refideas}}`: insertion strategy, pure function pattern, linter, fixer, CLI tools |
+| `docs/L2-EXTERNAL-LINKS.md` | **L2 algorithm** — External links insertion: section targeting, course resolution, CLI reference, known bugs |
 | `scripts/contribution-protocol.py` | L1-L5 data model, build_refideas_wikitext (pure fn), refideas_add (orchestrator) |
 | `scripts/lint-refideas.py` | Refideas linter: detects 6 error types across 11 aliases |
 | `scripts/apply-refideas-fix.py` | Applies Refideas fixes to live Wikipedia |
 | `scripts/refideas-add.py` | Generic CLI: add any reference to {{refideas}} |
 | `scripts/apply-l1-refideas.py` | OCW-specific CLI: formats course details, posts refideas |
+| `scripts/ad-hoc-match.py` | Ad-hoc match: finds best Wikipedia articles for any OCW course, with filters for quality and interactive L1/L2 posting |
+| `docs/AD-HOC-MATCH.md` | Full ad-hoc match algorithm: match sources, five filter layers, scoring formula, page type detection |
+| `scripts/check-doc-sync.py` | Validates L1/L2 docs stay in sync with their code (test counts, CLI flags, dates) |
 | `scripts/prioritize-matches.py` | Match scoring: template gate, IDF overlap, specificity, 7 filter layers |
 | `scripts/generate-matches.py` | Live match discovery: searches 25 WikiProjects via API |
 | `scripts/scan-batch-parallel.py` | Parallel asset scanner: 8 workers, 2.7 courses/sec |
