@@ -317,6 +317,36 @@ In `--interactive` mode:
 
 After posting, the tool asks "Find another match for this course?" — letting you apply multiple edits in one session.
 
+### Pre-edit context (L2 mode)
+
+Before showing the diff for an L2 edit, the tool displays the article's current
+`== External links ==` section contents (or `== Further reading ==` if no External
+links section exists). This gives you context for where your new link will be placed:
+
+```
+Current External links section:
+  * [https://icml.cc icml.cc] ICML website
+  * [https://machinelearning.org machinelearning.org] Website of the International Machine Learning Society
+
+  {{Differentiable computing}}
+  {{Authority control}}
+```
+
+If no section exists, it shows:
+```
+No External links section exists — will create one.
+```
+
+### Current state indicators
+
+In both stdout and interactive modes, the match list shows whether each candidate
+already has the feature you're about to add:
+
+| Mode | Indicator | Meaning |
+|------|-----------|--------|
+| L1 | `{{refideas}}: HAS` / `no` | Talk page already has a `{{refideas}}` template (batch-checked via `prop=templates`) |
+| L2 | `Ext links: HAS` / `no` | Article has an `== External links ==` section (checked via `parse&prop=sections`) |
+
 ## CLI reference
 
 ```

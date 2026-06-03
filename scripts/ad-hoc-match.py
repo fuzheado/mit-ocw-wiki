@@ -28,6 +28,19 @@ Usage:
 
     # Dry-run interactive (preview only, no posting)
     python3 scripts/ad-hoc-match.py 6.S897 --mode L1 --interactive --dry-run
+
+    # Select matching strategy (pluggable providers)
+    python3 scripts/ad-hoc-match.py 6.S897 --provider corpus         # pre-computed only
+    python3 scripts/ad-hoc-match.py 6.S897 --provider wikipedia      # Wikipedia search only
+    python3 scripts/ad-hoc-match.py 6.S897 --provider "corpus,wikipedia"  # custom combo
+
+Available providers:
+  corpus      Pre-computed matches from live-matches.json (220 courses, 157 articles)
+  wikipedia   Wikipedia Search API by course title
+  acronym     Expands MIT→Massachusetts Institute of Technology, searches again
+  simplified  Strips qualifiers ("for Healthcare" → "Machine Learning"), fallback only
+
+Default: --provider corpus,wikipedia,acronym,simplified
 """
 
 import sys
