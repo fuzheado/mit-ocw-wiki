@@ -120,6 +120,67 @@ GENERIC_CATEGORY_WORDS = {
     'systems', 'processes', 'design', 'modeling',
 }
 
+# Geo-locale articles: "Mass media in Cambodia", "Solar power in the United Kingdom" —
+# a general MIT course isn't uniquely useful for country-specific articles unless the
+# course itself is about that location (checked via course title overlap).
+GEO_LOCALES = [
+    # Countries
+    "in the united kingdom", "in the united states", "in the republic of", "in the netherlands",
+    "in the philippines", "in the united arab", "in the dominican republic", "in the czech republic",
+    "in india", "in china", "in japan", "in germany", "in france", "in canada", "in australia",
+    "in brazil", "in russia", "in italy", "in spain", "in mexico", "in south korea",
+    "in south africa", "in argentina", "in indonesia", "in turkey", "in saudi arabia",
+    "in nigeria", "in egypt", "in poland", "in thailand", "in vietnam", "in iran",
+    "in sweden", "in norway", "in denmark", "in finland", "in ireland", "in portugal",
+    "in israel", "in switzerland", "in singapore", "in malaysia", "in pakistan",
+    "in bangladesh", "in kenya", "in ghana", "in cambodia", "in nepal",
+    # US states
+    "in california", "in texas", "in new york", "in florida", "in massachusetts",
+    "in illinois", "in pennsylvania", "in ohio", "in michigan", "in georgia",
+    "in north carolina", "in washington", "in arizona", "in colorado",
+    # Major cities
+    "in london", "in paris", "in tokyo", "in berlin", "in rome", "in moscow",
+    "in beijing", "in shanghai", "in dubai", "in hong kong", "in singapore",
+    # Regions
+    "in scotland", "in wales", "in england", "in catalonia", "in quebec",
+    "in scandinavia", "in southeast asia", "in latin america", "in sub-saharan africa",
+    " in europe", " in asia", " in africa",
+    # Generic
+    " by country",
+    # Also catch "of <country>" patterns (Culture of Cambodia, History of France, etc.)
+    # These are filtered unless the course title contains the country name
+    "of cambodia", "of thailand", "of vietnam", "of myanmar", "of kenya", "of ghana",
+    "of nigeria", "of egypt", "of morocco", "of algeria", "of chile", "of peru",
+]
+
+
+def is_geo_limited_article(title: str, course_title: str) -> bool:
+    """Check if article is a "Topic in Location" pattern where the course
+    isn't specifically about that location.
+    
+    Returns True if the article should be filtered out.
+    Example: "Mass media in Cambodia" for course "Machine Learning for Healthcare"
+    → filtered (no "Cambodia" in course). But for a course "Cambodian History" → kept.
+    """
+    lower_title = title.lower()
+    lower_course = course_title.lower()
+
+    for loc in GEO_LOCALES:
+        if loc in lower_title:
+            # Extract the location name from the pattern
+            # "in cambodia" → check if "cambodia" appears in course title
+            location_word = loc.replace("in the ", "").replace("in ", "").replace(" by country", "")
+            # Check if any significant word from the location appears in the course title
+            loc_words = set(location_word.split())
+            course_words = set(lower_course.split())
+            if not (loc_words & course_words):
+                return True
+            # If the course DOES mention the location, keep the article
+            break
+
+    return False
+
+
 # Named entity indicators — if a title contains these AND is not a pre-computed match,
 # it's likely an organization/school rather than a relevant topic
 NAMED_ENTITY_KEYWORDS = (
@@ -780,6 +841,11 @@ def run_pipeline(course: dict, provider_names: list[str], top_n: int = 10) -> li
         title = c["title"]
         ptype = page_types.get(title, "normal")
         if ptype in ("dab", "glossary", "list"):
+            continue
+
+        # Exclude geo-locale articles ("Mass media in Cambodia") unless the
+        # course is specifically about that location
+        if is_geo_limited_article(title, course["title"]):
             continue
 
         # Exclude named entities on weak (non-corpus) matches
