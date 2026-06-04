@@ -295,12 +295,47 @@ def fix_section_order(wikitext: str, issues: list[Issue]) -> tuple[str, list[Fix
     if current_order == expected_order:
         return fixed, results
 
-    # Reorder footer sections, keeping non-footer sections in place
-    # Strategy: extract footer section content, reorder, reassemble
-    # First, get the text of each footer section (between heading and next section)
+    # Identify the "trailer": everything from the start of the last heading
+    # to the end of the article. This typically includes categories, navboxes,
+    # and other metadata that should stay at the very end.
+    last_heading_end = max(e for _, _, _, e in footer_sections)
+    # But trim: categories and navboxes should NOT be part of section content.
+    # Find where the "metadata zone" starts — typically at the first {{navbox}}
+    # or [[Category:]] that is NOT inside a section.
+    # Simple heuristic: anything after the LAST heading content that contains
+    # [[Category: or {{ is trailer, not section content.
+    trailer_start = last_heading_end
+    
+    # Extract section content, trimming trailing metadata from each section
     footer_texts = {}
     for title, rank, start, end in footer_sections:
-        footer_texts[rank] = {"title": title, "text": fixed[start:end], "start": start, "end": end}
+        raw_text = fixed[start:end]
+        # Trim trailing content that looks like categories (they belong at end, not in sections)
+        lines = raw_text.split('\n')
+        trimmed_lines = []
+        in_trailer = False
+        for line in lines:
+            stripped = line.strip()
+            if stripped.startswith('[[Category:') or stripped.startswith('{{') and not stripped.startswith('{{:'):
+                in_trailer = True
+            if not in_trailer:
+                trimmed_lines.append(line)
+        trimmed_text = '\n'.join(trimmed_lines)
+        # Ensure trimmed text ends with a newline
+        if trimmed_text and not trimmed_text.endswith('\n'):
+            trimmed_text += '\n'
+        footer_texts[rank] = {"title": title, "text": trimmed_text, "start": start, "end": end}
+
+    # Collect the trailer (categories, navboxes, etc.) that should stay at end
+    trailer_lines = []
+    for title, rank, start, end in footer_sections:
+        raw_text = fixed[start:end]
+        lines = raw_text.split('\n')
+        for line in lines:
+            stripped = line.strip()
+            if stripped.startswith('[[Category:') or (stripped.startswith('{{') and not stripped.startswith('{{:')):
+                if stripped not in trailer_lines:
+                    trailer_lines.append(stripped)
 
     # Get the region from the first footer section to the last
     first_footer = min(s for _, _, s, _ in footer_sections)
@@ -311,16 +346,24 @@ def fix_section_order(wikitext: str, issues: list[Issue]) -> tuple[str, list[Fix
     # Reassemble footer sections in correct order
     reordered = ""
     for rank in sorted(expected_order):
-        reordered += footer_texts[rank]["text"]
+        section_text = footer_texts[rank]["text"]
+        if section_text:
+            reordered += section_text
 
-    # Also insert any non-footer sections that were interspersed
-    # (Sections between first and last footer that aren't footer sections)
-    # Their content is already included in the footer section boundaries
-    
-    fixed = before + reordered + after
+    # Add metadata trailer (categories, navboxes) at the end
+    if trailer_lines:
+        reordered = reordered.rstrip('\n') + '\n' + '\n'.join(trailer_lines) + '\n'
 
-    # Clean up: ensure exactly one blank line between sections
+    # Append anything that was after the last section and not already captured
+    fixed = before + reordered.rstrip('\n') + '\n'
+    if after.strip():
+        fixed += after.lstrip('\n')
+
+    # Clean up: ensure exactly one blank line between sections,
+    # and a blank line between last section content and categories
     fixed = re.sub(r'\n{3,}', '\n\n', fixed)
+    # Ensure a blank line before categories (not jammed against previous content)
+    fixed = re.sub(r'([^\n])\n\[\[Category:', r'\1\n\n[[Category:', fixed)
 
     results.append(FixResult(
         type="section_order",

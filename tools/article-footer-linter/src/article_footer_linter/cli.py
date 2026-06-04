@@ -278,6 +278,16 @@ def main():
 
     print_report(article, issues, applied)
 
+    # Post-fix sanity check: rerun the linter on the fixed wikitext
+    post_issues = analyze_footer(fixed)
+    post_order_issues = [i for i in post_issues if i.type == "section_order"]
+    post_bullet_issues = [i for i in post_issues if i.type == "bullet_after_categories"]
+    if post_order_issues or post_bullet_issues:
+        print(f"  {c('⚠️  Post-fix check: issues remain after applying fixes:', Color.YELLOW)}")
+        for pi in post_order_issues + post_bullet_issues:
+            print(f"    {pi.description}")
+        print(f"  {c('This may indicate a bug in the fix logic.', Color.RED)}")
+
     # Confirm
     if not auto_yes:
         try:

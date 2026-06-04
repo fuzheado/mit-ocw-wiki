@@ -170,3 +170,63 @@ def test_fix_three_sections_reordered():
     el_pos = fixed.find("== External links ==")
     assert sa_pos >= 0 and ref_pos >= 0 and el_pos >= 0
     assert sa_pos < ref_pos < el_pos, f"Order: See also={sa_pos}, References={ref_pos}, External links={el_pos}"
+
+def test_fix_section_order_categories_not_dragged():
+    """Categories should stay at the end after reordering, not move with sections."""
+    wikitext = """Content
+
+== External links ==
+* [https://ex.com Link]
+
+== References ==
+{{Reflist}}
+
+[[Category:Test]]
+[[Category:Another]]
+"""
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+
+    # After fix: References should come before External links
+    ref_pos = fixed.find("== References ==")
+    el_pos = fixed.find("== External links ==")
+    assert ref_pos >= 0 and el_pos >= 0
+    assert ref_pos < el_pos, f"References ({ref_pos}) should be before External links ({el_pos})"
+
+    # Categories should be at the very end, after all sections
+    last_cat_pos = fixed.rfind("[[Category:Another]]")
+    el_pos_after = fixed.find("== External links ==")
+    assert last_cat_pos > el_pos_after, f"Categories ({last_cat_pos}) should be after External links ({el_pos_after})"
+
+    # There should be a blank line before categories (not jammed against content)
+    # Check the 4 characters before the first [[Category: — should end with \n\n
+    cat_pos = fixed.find("[[Category:Test]]")
+    before_cat = fixed[max(0, cat_pos - 4):cat_pos]
+    assert before_cat.endswith("\n\n") or before_cat.endswith("\n"), \
+        f"No blank line before categories (context: {repr(before_cat)})"
+
+
+def test_fix_rerun_linter_no_new_issues():
+    """After applying fixes, re-running the linter should find no new issues."""
+    wikitext = """Content
+
+== External links ==
+* [https://ex.com Link]
+
+== References ==
+{{Reflist}}
+
+[[Category:Test]]
+"""
+    issues = analyze_footer(wikitext)
+    assert any(i.type == "section_order" for i in issues), "Should detect order issue"
+
+    fixed, fixes = apply_fixes(wikitext, issues)
+    assert any(f.applied for f in fixes), "Should apply fixes"
+
+    # Re-run linter on fixed wikitext
+    post_issues = analyze_footer(fixed)
+    post_order = [i for i in post_issues if i.type == "section_order"]
+    post_bullets = [i for i in post_issues if i.type == "bullet_after_categories"]
+    assert len(post_order) == 0, f"Section order issue remains: {post_order}"
+    assert len(post_bullets) == 0, f"Bullet issue remains: {post_bullets}"
