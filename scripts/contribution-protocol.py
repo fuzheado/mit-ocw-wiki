@@ -811,10 +811,15 @@ def build_external_link_wikitext(
             after = wikitext[actual_end:]
             new_wikitext = before + bullet + "\n" + after.lstrip('\n')
         else:
-            # No bullets in section — append at end of section as before
-            before = wikitext[:end_pos].rstrip('\n')
-            after = wikitext[end_pos:]
-            new_wikitext = before + bullet + "\n" + after.lstrip('\n')
+            # No bullets in section — insert right after the heading line.
+            # Using "end_pos" would append after navboxes/categories when the
+            # section is the last one before the article footer.
+            heading_line_end = wikitext.find('\n', h_end)
+            if heading_line_end == -1:
+                heading_line_end = h_end
+            before = wikitext[:heading_line_end].rstrip('\n')
+            after = wikitext[heading_line_end:]
+            new_wikitext = before + "\n" + bullet + after.lstrip('\n')
 
         return {
             "action": "append",
