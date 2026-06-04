@@ -35,6 +35,7 @@ Production-ready with 50 tests, 8 live edits.
 | `scripts/ad-hoc-match.py` | **Ad-hoc match** — find best Wikipedia articles for any OCW course, with pluggable providers, interactive L1/L2 posting | `--top 5`, `--mode L2 --interactive`, `--provider wikipedia` |
 | `scripts/prioritize-matches.py` | **Match scoring** — template gate + IDF-weighted overlap + specificity | `--data FILE`, `-v` (verbose), `--interactive N`, `--apply-top N --yes` |
 | `scripts/review-collaborator-matches.py` | **Collaborator match reviewer** — 185 cross-encoder-scored pairs, interactive y/N/q posting | `--mode L2`, `--min-score 0.90`, `--export file.json` |
+| `scripts/lint-article-footer.py` | **Article footer linter** — 7 structural detectors, auto-fix, dry-run, survey. Package at `tools/article-footer-linter/` | `--fix`, `--survey 50`, `--fix --dry-run "Article"` |
 | `scripts/generate-matches.py` | **Live match discovery** — searches 25 WikiProjects via Wikipedia API, detects templates with mwparserfromhell, matches against 2,577 OCW courses | `--top 30 --output FILE`, `--project Chemistry` |
 | `scripts/scan-batch-parallel.py` | **Parallel asset scanner** — scanned 2,165 courses in 13.5 min (8 workers, 2.7/s) | `--workers 8`, `--limit 50`, `--dry-run` |
 | `scripts/test-refideas.py` | 28 regression tests (linter/fixer) | `python3 scripts/test-refideas.py -v` |
@@ -131,6 +132,41 @@ L1 refactored into three layers (pattern to follow for L2-L5):
 - **`build_refideas_wikitext(wikitext, url, label, source, note)`** — pure function. Takes wikitext string in, returns modified wikitext out. No API calls, no side effects. 22 offline tests.
 - **`refideas_add(article, url, label, source, note)`** — orchestrator. Fetches Talk page via API, deduplicates by URL, delegates to `build_refideas_wikitext()`.
 - **`l1_insert_refideas(article, course_id, course_title, url, note)`** — OCW wrapper. Formats `"[url MIT id: title], MIT OpenCourseWare (note)"` and calls `refideas_add()`.
+
+### Article Footer Linter (built 2026-06-03)
+
+Self-contained package at `tools/article-footer-linter/` with `pyproject.toml`.
+Pure-function architecture following the L1/L2 pattern:
+
+```
+analyze_footer(wikitext) → [Issue]        # 7 detectors, no I/O
+apply_fixes(wikitext, issues) → (wt, [])  # 7 fixers, dependency-ordered
+```
+
+**7 detect-and-fix issues:**
+
+| Issue | Severity | What it does |
+|-------|----------|-------------|
+| `bullet_after_categories` | Error | Move `*` bullets from after `[[Category:...]]` to before |
+| `section_order` | Warning | Reorder to WP:LAYOUT: See also → Notes → References → Further reading → External links |
+| `defaultsort_position` | Warning | Move `{{DEFAULTSORT}}` to before first category |
+| `auth_control_position` | Info | Move `{{Authority control}}` to after navboxes, before categories |
+| `stub_position` | Info | Move stub templates to after last category |
+| `section_spacing` | Info | Ensure blank lines between sections |
+| `whitespace_cleanup` | Info | Collapse 3+ blank lines to 2; remove trailing blanks |
+
+**Key behaviors:**
+- **Post-fix sanity check:** re-runs `analyze_footer()` after fix to catch regressions
+- **Categories preserved:** section reordering never drags categories — they stay at end
+- **Custom sections ignored:** non-WP:LAYOUT sections (Bibliography, Awards, etc.) left in place
+- **85 tests:** 31 L2 creation + 54 linter
+- **Phase 2 planned:** dead link detection (`--check-links`, `--tag-dead`, Wayback Machine)
+
+**Standalone install:**
+```bash
+pip install -e tools/article-footer-linter/
+article-footer-lint "Climate change" --fix --dry-run
+```
 
 ### L2 architecture (built 2026-05-27)
 
@@ -374,6 +410,23 @@ python3 scripts/review-collaborator-matches.py --mode L2 --verbose-descriptions
 
 # Export as JSON for prioritize-matches.py --data
 python3 scripts/review-collaborator-matches.py --export matches-collab.json
+
+# ── Article Footer Linter ──
+
+# Analyze (read-only)
+python3 scripts/lint-article-footer.py "Climate change"
+
+# Analyze + fix
+python3 scripts/lint-article-footer.py "Nitrogen cycle" --fix
+
+# Preview fix (no posting)
+python3 scripts/lint-article-footer.py "Photovoltaics" --fix --dry-run
+
+# Survey 50 random articles
+python3 scripts/lint-article-footer.py --survey 50
+
+# Standalone mode (if pip-installed)
+article-footer-lint "Climate change" --fix
 
 # ── Tests ──
 

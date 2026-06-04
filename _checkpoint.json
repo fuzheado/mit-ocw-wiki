@@ -44,7 +44,7 @@
       "pages_fixed": 8,
       "pages_refideas_added": 7,
       "match_corpus": "156 articles across 25 WikiProjects (filtered from 310 with MIT-internal, outlines, single-word, institutions, organizations, geo-locale filters)",
-      "notes": "Full pipeline: generate-matches.py (API search + mwparserfromhell template detection) → prioritize-matches.py (template gate + IDF-weighted overlap + specificity scoring) → apply-l1-refideas.py (live posting). Modes: rank, -v verbose, --interactive N, --apply-top N --yes. All demo data replaced with live Wikipedia API queries."
+      "notes": "Full pipeline: generate-matches.py (API search + mwparserfromhell template detection) \u2192 prioritize-matches.py (template gate + IDF-weighted overlap + specificity scoring) \u2192 apply-l1-refideas.py (live posting). Modes: rank, -v verbose, --interactive N, --apply-top N --yes. All demo data replaced with live Wikipedia API queries."
     },
     "l2_external_links": {
       "complete": true,
@@ -71,7 +71,17 @@
     "l5_new_content": {
       "complete": false
     },
-    "lint_report": false
+    "lint_report": false,
+    "footer_linter": {
+      "complete": true,
+      "version": "0.1.0",
+      "detectors": 7,
+      "fixers": 7,
+      "tests": 85,
+      "location": "tools/article-footer-linter/",
+      "wrapper": "scripts/lint-article-footer.py",
+      "notes": "Self-contained package. Detects: bullet_after_categories, section_order, defaultsort_position, auth_control_position, stub_position, section_spacing, whitespace_cleanup. Phase 2 (dead link detection) planned."
+    }
   },
   "stats": {
     "total_courses_api": 2577,

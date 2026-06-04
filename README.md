@@ -197,6 +197,14 @@ python3 scripts/review-collaborator-matches.py --mode L2 --min-score 0.90  # Top
 python3 scripts/review-collaborator-matches.py --mode L2 --verbose-descriptions  # Include lecture detail
 python3 scripts/review-collaborator-matches.py --export matches.json    # Export for prioritize-matches.py
 
+# Article Footer Linter (self-contained package at tools/article-footer-linter/)
+python3 scripts/lint-article-footer.py "Climate change"                          # Analyze (read-only)
+python3 scripts/lint-article-footer.py "Photovoltaics" --fix --dry-run          # Preview fixes
+python3 scripts/lint-article-footer.py "Nitrogen cycle" --fix                   # Apply fixes
+python3 scripts/lint-article-footer.py --survey 50                               # Survey random articles
+# Standalone install: pip install -e tools/article-footer-linter/
+# Then run: article-footer-lint "Article" --fix
+
 # Doc sync validation
 python3 scripts/check-doc-sync.py                     # Validate L1/L2 docs match code
 python3 scripts/check-doc-sync.py --quiet              # Only show failures
@@ -231,7 +239,8 @@ python3 scripts/crossref-wikipedia.py --report --demo
 - `wiki/reports/` — crossref heatmaps, Popular pages reports
 - `notes/` — design specs, research findings, pageview data issues
 - `site/` — WikiWise build tooling
-- `scripts/` — ingest-batch.py, scan-assets.py, scan-batch-parallel.py, regenerate-index.py, crossref-wikipedia.py, impact-matrix-server.py, contribution-protocol.py, lint-refideas.py, apply-refideas-fix.py, refideas-add.py, apply-l1-refideas.py, prioritize-matches.py, generate-matches.py, review-collaborator-matches.py
+- `tools/article-footer-linter/` — standalone package: `pyproject.toml`, 7 structural detectors/fixers, 85 tests
+- `scripts/` — ingest-batch.py, scan-assets.py, scan-batch-parallel.py, regenerate-index.py, crossref-wikipedia.py, impact-matrix-server.py, contribution-protocol.py, lint-refideas.py, apply-refideas-fix.py, refideas-add.py, apply-l1-refideas.py, prioritize-matches.py, generate-matches.py, review-collaborator-matches.py, lint-article-footer.py
 - `.claude/skills/` — skill files for Wikimedia database access, page assessments, pageviews
 
 ## Project files
@@ -259,6 +268,9 @@ python3 scripts/crossref-wikipedia.py --report --demo
 | `scripts/apply-l1-refideas.py` | OCW-specific CLI: formats course details, posts refideas |
 | `scripts/ad-hoc-match.py` | Ad-hoc match: finds best Wikipedia articles for any OCW course, with filters for quality and interactive L1/L2 posting |
 | `scripts/review-collaborator-matches.py` | Interactive reviewer for 185 cross-encoder-scored matches from collaborator's Environment/Climate/Energy pipeline. Resolves courses to wiki metadata, posts via L1/L2 editors |
+| `scripts/lint-article-footer.py` | Wrapper for article-footer-linter package — detect and fix 7 structural footer issues |
+| `tools/article-footer-linter/` | Self-contained package: 7 detectors, 7 fixers, post-fix sanity check, 85 tests |
+| `docs/ARTICLE-FOOTER-LINT.md` | Full design doc: architecture, fix ordering, Phase 2 dead link spec |
 | `external/OVERVIEW.pdf` | Collaborator pipeline description: filters, audit rules, department breakdown |
 | `external/reranked_p79.pdf` | 185 matched pairs (zerank-2 scores ≥ 0.79), 62 Wikipedia articles, Environment/Climate/Energy domain |
 | `docs/AD-HOC-MATCH.md` | Full ad-hoc match algorithm: match sources, five filter layers, scoring formula, page type detection |

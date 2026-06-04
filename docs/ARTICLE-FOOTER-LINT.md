@@ -1,8 +1,23 @@
 # Article Footer Linter — Design & Requirements
 
-> **Status:** Design proposal  
+> **Status:** Implemented — v0.1  
 > **Last updated:** 2026-06-03  
-> **See also:** `docs/L2-EXTERNAL-LINKS.md` (downstream consumer), `scripts/lint-refideas.py` (sibling tool, same pattern)
+> **See also:** `docs/L2-EXTERNAL-LINKS.md` (downstream consumer), `tools/article-footer-linter/` (package root), `docs/HANDOFF.md` (session handoff)
+
+---
+
+## Implementation status
+
+| Component | Status | Details |
+|-----------|--------|---------|
+| Package structure | ✅ Built | `tools/article-footer-linter/` with `pyproject.toml` |
+| `analyze.py` | ✅ 7 detectors | 29 tests |
+| `fix.py` | ✅ 7 fixers | 20 tests |
+| `cli.py` | ✅ analyze, fix, dry-run, survey | 85 tests (combined) |
+| `links.py` | 🚧 Scaffold | Phase 2: dead link detection |
+| L2 integration | ✅ Ongoing | Pre-flight lint prevents insertion bugs |
+
+**Test count:** 85 across both test suites (31 L2 creation + 54 linter detection/fix)
 
 ---
 
@@ -472,12 +487,28 @@ independently of the Wiki MIT pipeline.
 
 ---
 
-## Next steps
+## Project state
+
+### Completed ✅
 
 1. ✅ Design doc reviewed and approved
-2. Implement `analyze_footer()` — detect all 6 issue types
-3. Implement `fix_footer()` — apply fixes in order
-4. Add CLI (`--fix`, `--survey`, `--dry-run`)
-5. Write 20+ tests
-6. Deploy: survey 200 random articles to measure prevalence
-7. Optionally: integrate as pre-flight in L2 pipeline
+2. ✅ `analyze_footer()` — 7 detectors (bullet_after_categories, defaultsort_position,
+   auth_control_position, stub_position, section_spacing, section_order, whitespace_cleanup)
+3. ✅ `fix_footer()` — 7 fixers applied in dependency order
+4. ✅ CLI (`--fix`, `--survey`, `--dry-run`, `--yes`)
+5. ✅ 85 tests (31 L2 creation + 54 linter)
+6. ✅ Package at `tools/article-footer-linter/` with `pyproject.toml`
+7. ✅ Wrapper at `scripts/lint-article-footer.py`
+8. ✅ Post-fix sanity check (reruns linter after fix)
+9. ✅ L2 integration: external links placed after References, before navboxes
+
+### In progress 🔄
+
+- Survey 200+ random articles to measure issue prevalence
+- Pre-flight integration in L2 pipeline (`apply-l2-external-links.py`)
+
+### Planned 🚧
+
+- Phase 2: dead link detection (`--check-links`)
+- Phase 2: Wayback Machine archive fallback
+- Phase 2: `--tag-dead` flag to append `{{dead link}}`
