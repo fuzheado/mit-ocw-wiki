@@ -315,6 +315,116 @@ wikitext and apply in a fixed order that avoids conflicts.
 
 ---
 
+## Phase 2: Dead link detection (`--check-links`)
+
+External links sections accumulate broken URLs over time as sites move,
+restructure, or shut down. A `--check-links` mode (separate from `--fix`)
+probes each HTTP(S) URL found in the footer and reports or tags dead ones.
+
+### Policy
+
+- **Never remove links.** Per Wikipedia convention, broken external links
+  are tagged with `{{dead link|date=June 2026}}`, not removed. Removal is
+  a content decision best left to human editors.
+- **Two-strike rule.** A single 404 may be a temporary outage. Retry once
+  after a 5-second delay before flagging.
+- **Archive.org fallback.** Before tagging as dead, check the Wayback
+  Machine for an archived copy. If found, note it in the tag or log.
+- **Rate-limited.** Max 1 HTTP request per second to avoid rate limiting.
+  Survey mode respects this with a progress bar.
+
+### Which links are checkable
+
+| Format | Example | Checkable? | URL extraction |
+|--------|---------|------------|----------------|
+| `* [https://... Title]` | Most common | Yes | Extract from `[...]` |
+| `* {{cite web \|url=...}}` | Rare in EL sections | Yes | Extract `\|url=` param |
+| `* {{curlie\|...}}` | Common (~13%) | No | Directory link, not HTTP |
+| `* {{dmoz\|...}}` | Deprecated | No | Directory link |
+| `* {{Library resources box}}` | Occasional | No | Meta-template |
+| `* {{Sister project links}}` | Occasional | No | Meta-template |
+
+### Detection strategies
+
+1. **HEAD request first.** Fast, low bandwidth. If the server returns a
+   405/501 (method not allowed), retry with GET.
+2. **Status code interpretation:**
+   - 2xx → alive
+   - 3xx → follow redirect, check final destination (redirects are not dead)
+   - 4xx → retry once, then flag
+   - 5xx → retry once (server error may be transient)
+   - Connection refused / timeout → retry once, then flag
+3. **HTTPS upgrade.** If an `http://` URL returns a redirect to `https://`,
+   that's fine — the link works. Optionally suggest upgrading the URL.
+4. **Archive.org check.** For links confirmed dead after two strikes,
+   query `https://web.archive.org/web/YYYYMMDDhhmmss/URL` (the Wayback
+   availability API) to see if a snapshot exists.
+
+### Tagging format
+
+```wikitext
+* [https://example.com/broken-link Title]{{dead link|date=June 2026}}
+* {{cite web |url=https://example.com/broken-link |title=Title |publisher=Foo}}{{dead link|date=June 2026}}
+```
+
+If an archive URL is found, an alternative is to replace the link with
+an archive link (controversial — opt-in only):
+
+```wikitext
+* {{webarchive |url=https://web.archive.org/web/20250101000000/https://example.com/broken-link |title=Title |date=2025-01-01}}
+```
+
+### CLI
+
+```bash
+# Check all external links on one article (read-only report)
+python3 scripts/lint-article-footer.py --check-links "Climate change"
+
+# Tag dead links with {{dead link}}
+python3 scripts/lint-article-footer.py --check-links --tag-dead "DNA"
+
+# Survey: how many articles have dead links?
+python3 scripts/lint-article-footer.py --check-links --survey 50
+
+# Replace dead links with archived versions (opt-in)
+python3 scripts/lint-article-footer.py --check-links --use-archive "Biology"
+
+# Check only our own recently-added OCW links
+python3 scripts/lint-article-footer.py --check-links --since "2026-01-01"
+```
+
+### Tests
+
+| # | Test | Type |
+|---|------|------|
+| 1 | 200 response → not flagged | Unit |
+| 2 | 404 response → flagged after retry | Integration |
+| 3 | 404 then 200 on retry → not flagged | Integration |
+| 4 | http redirect to https → followed, not flagged | Integration |
+| 5 | Connection refused → flagged after retry | Integration |
+| 6 | Curlie link → skipped (no HTTP check) | Unit |
+| 7 | {{cite web}} link → URL extracted and checked | Unit |
+| 8 | Bare `[url title]` link → URL extracted and checked | Unit |
+| 9 | Dead link with archive.org copy → archive URL noted | Integration |
+| 10 | `--tag-dead` adds `{{dead link}}` after the link | Unit |
+
+**Target:** 12-15 tests.
+
+### Integration with structural fixes
+
+`--check-links` and `--fix` can be combined:
+
+```bash
+# Fix structure, then check links
+python3 scripts/lint-article-footer.py --fix --check-links "Photovoltaics"
+```
+
+When combined, structural fixes run first (normalizing the footer), then
+link checking runs on the cleaned wikitext. This ensures misplaced bullets
+are moved back into the External links section before being checked.
+
+---
+
 ## Relationship to L2 external links
 
 The footer linter directly improves L2 edit reliability:
