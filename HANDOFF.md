@@ -369,6 +369,9 @@ python3 scripts/review-collaborator-matches.py
 # L2 external links mode, top tier only
 python3 scripts/review-collaborator-matches.py --mode L2 --min-score 0.90
 
+# Verbose mode: include lecture-level detail in external links (default: minimal)
+python3 scripts/review-collaborator-matches.py --mode L2 --verbose-descriptions
+
 # Export as JSON for prioritize-matches.py --data
 python3 scripts/review-collaborator-matches.py --export matches-collab.json
 

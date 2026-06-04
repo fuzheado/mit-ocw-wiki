@@ -192,8 +192,9 @@ python3 scripts/ad-hoc-match.py "STS.050" --provider wikipedia  # Only Wikipedia
 
 # Collaborator cross-encoder matches (Environment/Climate/Energy, 185 pairs)
 python3 scripts/review-collaborator-matches.py                         # Interactive review (L1)
-python3 scripts/review-collaborator-matches.py --mode L2               # L2 external links mode
+python3 scripts/review-collaborator-matches.py --mode L2               # L2 external links (minimal)
 python3 scripts/review-collaborator-matches.py --mode L2 --min-score 0.90  # Top tier only
+python3 scripts/review-collaborator-matches.py --mode L2 --verbose-descriptions  # Include lecture detail
 python3 scripts/review-collaborator-matches.py --export matches.json    # Export for prioritize-matches.py
 
 # Doc sync validation

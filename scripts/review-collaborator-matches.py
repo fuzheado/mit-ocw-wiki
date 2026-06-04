@@ -10,6 +10,10 @@ Usage:
     python3 scripts/review-collaborator-matches.py [--mode L1|L2] [--min-score 0.79]
     python3 scripts/review-collaborator-matches.py --mode L2 --min-score 0.90
     python3 scripts/review-collaborator-matches.py --export /tmp/review.json
+    python3 scripts/review-collaborator-matches.py --mode L2 --verbose-descriptions  # include lecture detail
+
+By default, L2 external links are minimal — just {{cite web}} with no description
+suffix. Use --verbose-descriptions to add lecture-level detail after the cite web.
 """
 
 import os, sys, re, json, subprocess
@@ -642,23 +646,42 @@ def build_refideas_wikitext(match: dict) -> str:
     )
 
 
+_VERBOSE_DESCRIPTIONS = False  # Set True via --verbose-descriptions flag
+
 def build_external_link_wikitext(match: dict) -> str:
-    """Build an External links entry for this match, linking to the specific lecture."""
+    """Build a minimal External links entry for this match.
+
+    By default, produces a clean cite web without description —
+    just URL, title, and publisher. This avoids looking like spam
+    on article pages.
+
+    With --verbose-descriptions, appends lecture-level detail:
+      * {{cite web |url=... |title=... |publisher=MIT OpenCourseWare}} — Lecture on ...
+    """
     url = match["lecture_url"] or match["course_url"]
     title = match["course_title"]
     lecture = match["lecture"]
     url_type = match["url_type"]
 
+    # Title: use the course title only (no lecture detail in the link text)
     if url_type != "course" and lecture:
         link_title = f"{title} — {lecture}"
-        description = f"Lecture on {lecture} from MIT {match['course_id']}."
     else:
         link_title = title
-        description = "Full course with video lectures, problem sets, and exams."
 
-    return (
-        f"* {{{{cite web |url={url} |title={link_title} |publisher=MIT OpenCourseWare}}}} — {description}"
-    )
+    if _VERBOSE_DESCRIPTIONS:
+        if url_type != "course" and lecture:
+            description = f"Lecture on {lecture} from MIT {match['course_id']}."
+        else:
+            description = "Full course with video lectures, problem sets, and exams."
+        return (
+            f"* {{{{cite web |url={url} |title={link_title} |publisher=MIT OpenCourseWare}}}} — {description}"
+        )
+    else:
+        # Minimal: just the cite web, no description suffix
+        return (
+            f"* {{{{cite web |url={url} |title={link_title} |publisher=MIT OpenCourseWare}}}}"
+        )
 
 
 # ─── Post via existing tools ───────────────────────────────────────────────
@@ -685,21 +708,31 @@ def post_l1(match: dict):
 
 
 def post_l2(match: dict):
-    """Post external links via apply-l2-external-links.py, linking to the specific lecture.
-    Uses --course-url to point to the lecture resource rather than the course page.
+    """Post external links via apply-l2-external-links.py.
+
+    By default, no --description is passed — the resulting wikitext is just:
+      * {{cite web |url=... |title=... |publisher=MIT OpenCourseWare}}
+
+    With --verbose-descriptions, appends lecture detail after the cite web.
     """
     script = os.path.join(SCRIPTS_DIR, "apply-l2-external-links.py")
     post_url = match.get("lecture_url") or match["course_url"]
-    # Use legacy --course-url mode to post the specific lecture link
+
+    # Use the lecture resource URL via --course-url (legacy mode)
     cmd = [
         sys.executable, script,
         match["article"],
         "--course-id", match["course_id"],
         "--course-title", match["course_title"],
         "--course-url", post_url,
-        "--description", f"Cross-encoder score {match['cross_encoder_score']:.3f}. Matched lecture: {match['lecture']}",
         "--yes",
     ]
+
+    # Only add detailed description when verbose mode is on
+    if _VERBOSE_DESCRIPTIONS:
+        cmd.extend(["--description",
+                     f"Cross-encoder score {match['cross_encoder_score']:.3f}. Matched lecture: {match['lecture']}"])
+
     result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
     return result
 
@@ -747,7 +780,11 @@ def interactive_review(matches: list, mode: str = "L1"):
     posted = 0
     skipped = 0
     
+    desc_mode = "verbose" if _VERBOSE_DESCRIPTIONS else "minimal"
     print(f"\n  Reviewing {len(matches)} collaborator matches in {c(mode, Color.BOLD)} mode.")
+    print(f"  External links: {c(desc_mode, Color.BOLD)} descriptions.")
+    if mode == "L2" and not _VERBOSE_DESCRIPTIONS:
+        print(f"  {c('Tip:', Color.DIM)} Use --verbose-descriptions to add lecture detail to external links.")
     print(f"  {c('[y]', Color.GREEN)} = post  {c('[N]', Color.DIM)} = skip  {c('[q]', Color.RED)} = quit")
     
     for i, match in enumerate(matches, 1):
@@ -836,7 +873,9 @@ def main():
     mode = "L1"
     min_score = 0.79
     export_path = None
-    
+
+    global _VERBOSE_DESCRIPTIONS
+
     args = sys.argv[1:]
     i = 0
     while i < len(args):
@@ -852,6 +891,8 @@ def main():
             i += 1
             if i < len(args):
                 export_path = args[i]
+        elif args[i] in ("--verbose-descriptions", "--verbose"):
+            _VERBOSE_DESCRIPTIONS = True
         elif args[i] in ("-h", "--help"):
             print(__doc__)
             return
