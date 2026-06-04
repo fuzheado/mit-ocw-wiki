@@ -35,41 +35,57 @@ def fetch_wikitext(title: str) -> str:
 
 
 def post_edit(title: str, wikitext: str, summary: str, auth: Optional[dict] = None):
-    """Post an edit to Wikipedia. Requires authentication."""
+    """Post an edit to Wikipedia. Requires authentication.
+
+    Uses the same cookie-jar-based login flow as refideas-add.py.
+    """
     if not auth:
         print("  No authentication provided. Use --dry-run to preview.", file=sys.stderr)
         return False
 
-    import time
+    import http.cookiejar
+
+    # Cookie jar is essential — it carries the login session to subsequent requests
+    jar = http.cookiejar.CookieJar()
+    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
 
     # Step 1: Get login token
-    url = f"{API}?action=query&meta=tokens&type=login&format=json"
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=15) as resp:
+    token_url = f"{API}?action=query&meta=tokens&type=login&format=json&formatversion=2"
+    req = urllib.request.Request(token_url, headers={"User-Agent": UA})
+    with opener.open(req, timeout=15) as resp:
         data = json.loads(resp.read())
         login_token = data["query"]["tokens"]["logintoken"]
 
-    # Step 2: Login
-    data = urllib.parse.urlencode({
+    # Step 2: Login (POST to base API, not the token URL)
+    login_data = urllib.parse.urlencode({
         "action": "login",
         "lgname": auth["username"],
         "lgpassword": auth["password"],
         "lgtoken": login_token,
         "format": "json",
     }).encode()
-    req = urllib.request.Request(url, data=data, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=15) as resp:
-        json.loads(resp.read())
+    req = urllib.request.Request(
+        API, data=login_data,
+        headers={"User-Agent": UA, "Content-Type": "application/x-www-form-urlencoded"}
+    )
+    with opener.open(req, timeout=15) as resp:
+        data = json.loads(resp.read())
+        result = data.get("login", {})
+        if result.get("result") != "Success":
+            print(f"  \u274c Login failed: {result.get('reason', 'unknown')}", file=sys.stderr)
+            return False
+
+    print(f"  Authenticated as: {result.get('lgusername', auth['username'])}", file=sys.stderr)
 
     # Step 3: Get CSRF token
-    url = f"{API}?action=query&meta=tokens&type=csrf&format=json"
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=15) as resp:
+    token_url = f"{API}?action=query&meta=tokens&type=csrf&format=json&formatversion=2"
+    req = urllib.request.Request(token_url, headers={"User-Agent": UA})
+    with opener.open(req, timeout=15) as resp:
         data = json.loads(resp.read())
         csrf_token = data["query"]["tokens"]["csrftoken"]
 
-    # Step 4: Post edit
-    data = urllib.parse.urlencode({
+    # Step 4: Post edit (POST to base API)
+    edit_data = urllib.parse.urlencode({
         "action": "edit",
         "title": title,
         "text": wikitext,
@@ -77,13 +93,16 @@ def post_edit(title: str, wikitext: str, summary: str, auth: Optional[dict] = No
         "token": csrf_token,
         "format": "json",
     }).encode()
-    req = urllib.request.Request(url, data=data, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=30) as resp:
+    req = urllib.request.Request(
+        API, data=edit_data,
+        headers={"User-Agent": UA, "Content-Type": "application/x-www-form-urlencoded"}
+    )
+    with opener.open(req, timeout=30) as resp:
         result = json.loads(resp.read())
         if "error" in result:
-            print(f"  ❌ Edit failed: {result['error']}", file=sys.stderr)
+            print(f"  \u274c Edit failed: {result['error']}", file=sys.stderr)
             return False
-        print(f"  ✅ Edit posted: {result.get('edit', {}).get('newrevid', 'unknown')}", file=sys.stderr)
+        print(f"  \u2705 Edit posted: {result.get('edit', {}).get('newrevid', 'unknown')}", file=sys.stderr)
         return True
 
 
