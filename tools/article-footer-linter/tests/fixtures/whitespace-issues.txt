@@ -1,0 +1,18 @@
+Some content.
+
+== See also ==
+* [[Thing]]
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://example.com Link]
+
+
+{{Navbox}}
+{{Authority control}}
+
+[[Category:Test]]
+
+
+

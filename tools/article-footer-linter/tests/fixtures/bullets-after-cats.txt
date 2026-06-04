@@ -1,0 +1,10 @@
+Some article content.
+
+== References ==
+{{Reflist}}
+
+[[Category:Test]]
+[[Category:Another]]
+
+* [https://example.com Misplaced link]
+* {{cite web |url=https://example2.com |title=Another misplaced}}

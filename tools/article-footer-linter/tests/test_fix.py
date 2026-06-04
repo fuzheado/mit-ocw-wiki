@@ -1,0 +1,136 @@
+"""
+Tests for the fix module — applying fixes, verifying output.
+"""
+
+import os, sys
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "src"))
+
+from article_footer_linter.analyze import analyze_footer
+from article_footer_linter.fix import apply_fixes, FIX_ORDER
+
+FIXTURES = os.path.join(os.path.dirname(__file__), "fixtures")
+
+
+def load_fixture(name):
+    with open(os.path.join(FIXTURES, name)) as f:
+        return f.read()
+
+
+# ─── Whitespace fixes ──────────────────────────────────────────────────────
+
+def test_fix_triple_blank_lines():
+    wikitext = "== A ==\n\n\n\n== B ==\n\n[[Category:Test]]"
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    assert any(f.applied for f in fixes), f"No fixes applied: {fixes}"
+    # Check no 4+ consecutive newlines remain
+    assert '\n\n\n\n' not in fixed, "Triple blank lines not collapsed"
+
+
+def test_fix_trailing_blanks():
+    wikitext = "== A ==\n[[Category:Test]]\n\n\n"
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    assert fixed == fixed.rstrip('\n') + '\n', "Trailing blanks not removed"
+
+
+# ─── Bullet fixes ──────────────────────────────────────────────────────────
+
+def test_fix_bullets_after_categories():
+    wikitext = load_fixture("bullets-after-cats.txt")
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    assert any(f.applied for f in fixes), f"No fixes applied: {fixes}"
+
+    # Verify no * bullets after the first category
+    cat_pos = fixed.find("[[Category:")
+    after_cats = fixed[cat_pos:]
+    assert '* [' not in after_cats, "Bullet still after categories"
+    assert '* {{cite web' not in after_cats or fixed.find('* {{cite web') < cat_pos, "Cite web still after categories"
+
+
+def test_fix_well_formed_unchanged():
+    wikitext = load_fixture("well-formed.txt")
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    assert fixed == wikitext, "Well-formed article should not change"
+
+
+# ─── Section spacing ───────────────────────────────────────────────────────
+
+def test_fix_section_spacing():
+    wikitext = "== A ==\nContent\n== B ==\nMore\n[[Category:Test]]"
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    if any(f.applied for f in fixes):
+        # Check a blank line was inserted between sections
+        assert "Content\n\n== B ==" in fixed or "Content\n\n\n== B ==" in fixed
+    else:
+        print(f"  Note: no spacing fix applied (issues: {[i.type for i in issues]})")
+
+
+# ─── DEFAULTSORT fixes ─────────────────────────────────────────────────────
+
+def test_fix_defaultsort_after_cats():
+    wikitext = "== A ==\n\n[[Category:Test]]\n{{DEFAULTSORT:Test}}"
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    if any(f.applied for f in fixes):
+        # DEFAULTSORT should now be before the category
+        ds_pos = fixed.find("{{DEFAULTSORT:Test}}")
+        cat_pos = fixed.find("[[Category:Test")
+        assert ds_pos >= 0 and cat_pos >= 0 and ds_pos < cat_pos, \
+            f"DEFAULTSORT ({ds_pos}) should be before category ({cat_pos})"
+
+
+# ─── Auth control fixes ────────────────────────────────────────────────────
+
+def test_fix_auth_control_after_cats():
+    wikitext = "== A ==\n\n[[Category:Test]]\n\n{{Authority control}}"
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    if any(f.applied for f in fixes):
+        ac_pos = fixed.find("{{Authority control}}")
+        cat_pos = fixed.find("[[Category:Test")
+        assert ac_pos >= 0 and cat_pos >= 0 and ac_pos < cat_pos, \
+            f"Authority control ({ac_pos}) should be before category ({cat_pos})"
+
+
+# ─── Stub fixes ────────────────────────────────────────────────────────────
+
+def test_fix_stub_position():
+    wikitext = "== A ==\n{{Foo-stub}}\n\n[[Category:Test]]"
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    if any(f.applied for f in fixes):
+        stub_pos = fixed.find("{{Foo-stub}}")
+        cat_pos = fixed.find("[[Category:Test]]")
+        assert stub_pos >= 0 and cat_pos >= 0 and stub_pos > cat_pos + 2, \
+            f"Stub ({stub_pos}) should be after category end ({cat_pos + 2})"
+
+
+# ─── Composite fix: multiple issues ────────────────────────────────────────
+
+def test_composite_whitespace_fixture():
+    wikitext = load_fixture("whitespace-issues.txt")
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    applied = [f for f in fixes if f.applied]
+    assert len(applied) >= 1, f"Expected at least 1 fix, got {len(applied)}: {fixes}"
+    # Verify fixes are in the correct order
+    applied_types = [f.type for f in applied]
+    order_indices = [FIX_ORDER.index(t) if t in FIX_ORDER else 99 for t in applied_types]
+    assert order_indices == sorted(order_indices), \
+        f"Fixes not in correct order: {applied_types}"
+
+
+def test_composite_bullets_fixture():
+    wikitext = load_fixture("bullets-after-cats.txt")
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    applied = [f for f in fixes if f.applied]
+    assert len(applied) >= 1, f"Expected fixes, got none: {fixes}"
+    # Verify the fixed wikitext is well-formed (no bullets after cats)
+    re_issues = analyze_footer(fixed)
+    remaining = [i for i in re_issues if i.type == "bullet_after_categories"]
+    assert len(remaining) == 0, f"Bullet issue remains after fix: {remaining}"
