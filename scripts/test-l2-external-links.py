@@ -333,8 +333,8 @@ class TestCreateNew(unittest.TestCase):
         # External links should come AFTER References per WP:LAYOUT
         self.assertGreater(el_pos, ref_pos)
 
-    def test_create_before_see_also(self):
-        """When See also exists, create External links before it."""
+    def test_create_after_see_also(self):
+        """With See also (but no References), create External links after See also."""
         result = proto.build_external_link_wikitext(
             ARTICLE_WITH_SEE_ALSO_NO_REFS,
             url="https://example.com/ref",
@@ -345,7 +345,8 @@ class TestCreateNew(unittest.TestCase):
 
         el_pos = result["wikitext"].lower().find("external links")
         sa_pos = result["wikitext"].lower().find("see also")
-        self.assertLess(el_pos, sa_pos)
+        # External links should come AFTER See also (per WP:LAYOUT)
+        self.assertGreater(el_pos, sa_pos)
 
     def test_create_at_end_when_no_refs_or_see_also(self):
         """When neither References nor See also exists, append at end."""
@@ -392,7 +393,7 @@ class TestCreateNew(unittest.TestCase):
         self.assertIn("[[Category:Deep learning]]", result["wikitext"])
 
     def test_notes_treated_as_reference(self):
-        """== Notes == should also trigger create-before behavior."""
+        """== Notes == should also trigger create-after-references behavior."""
         result = proto.build_external_link_wikitext(
             ARTICLE_WITH_NOTES,
             url="https://example.com/ref",
@@ -400,6 +401,132 @@ class TestCreateNew(unittest.TestCase):
         )
         self.assertEqual(result["action"], "create")
         self.assertIn("References", result["detail"])
+
+    def test_create_after_references_with_navboxes(self):
+        """External links should appear between References and navboxes."""
+        wikitext = """Content.
+
+== See also ==
+* [[A]]
+
+== References ==
+{{reflist|30em}}
+
+{{Navbox}}
+{{Authority control}}
+
+[[Category:Test]]
+"""
+        result = proto.build_external_link_wikitext(
+            wikitext,
+            url="https://ocw.mit.edu/courses/test/",
+            title="Test Course",
+            publisher="MIT OCW",
+        )
+        wt = result["wikitext"]
+        ref_pos = wt.find("== References ==")
+        el_pos = wt.find("== External links ==")
+        nav_pos = wt.find("{{Navbox}}")
+        cat_pos = wt.find("[[Category:Test]]")
+        self.assertGreater(el_pos, ref_pos, "External links should be after References")
+        self.assertLess(el_pos, nav_pos, "External links should be before navboxes")
+        self.assertLess(nav_pos, cat_pos, "Navboxes should be before categories")
+
+    def test_create_only_see_also_no_refs(self):
+        """With See also but no References, create after See also."""
+        wikitext = """Content.
+
+== See also ==
+* [[A]]
+
+[[Category:Test]]
+"""
+        result = proto.build_external_link_wikitext(
+            wikitext,
+            url="https://example.com/ref",
+            title="Test",
+        )
+        self.assertEqual(result["action"], "create")
+        wt = result["wikitext"]
+        sa_pos = wt.find("== See also ==")
+        el_pos = wt.find("== External links ==")
+        cat_pos = wt.find("[[Category:Test]]")
+        self.assertGreater(el_pos, sa_pos, "External links should be after See also")
+        self.assertLess(el_pos, cat_pos, "External links should be before categories")
+
+    def test_append_to_further_reading_when_available(self):
+        """When Further reading exists, the link is appended there (not a new section)."""
+        wikitext = """Content.
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+* [[Book]]
+
+{{Navbox}}
+[[Category:Test]]
+"""
+        result = proto.build_external_link_wikitext(
+            wikitext,
+            url="https://example.com/ref",
+            title="Test",
+        )
+        self.assertEqual(result["action"], "append")
+        self.assertIn("Further reading", str(result.get("section", "")))
+        self.assertIn("Further reading", result.get("detail", ""))
+
+    def test_create_only_references_no_see_also(self):
+        """With References but no See also, create after References."""
+        wikitext = """Content.
+
+== References ==
+{{reflist}}
+
+[[Category:Test]]
+"""
+        result = proto.build_external_link_wikitext(
+            wikitext,
+            url="https://example.com/ref",
+            title="Test",
+        )
+        self.assertEqual(result["action"], "create")
+        wt = result["wikitext"]
+        ref_pos = wt.find("== References ==")
+        el_pos = wt.find("== External links ==")
+        cat_pos = wt.find("[[Category:Test]]")
+        self.assertGreater(el_pos, ref_pos, "External links should be after References")
+        self.assertLess(el_pos, cat_pos, "External links should be before categories")
+
+    def test_create_with_subheadings_in_references(self):
+        """References with level-3 sub-headings should still work."""
+        wikitext = """Content.
+
+== See also ==
+* [[A]]
+
+== References ==
+=== Primary sources ===
+{{reflist}}
+
+=== Secondary sources ===
+* Some book
+
+{{Navbox}}
+[[Category:Test]]
+"""
+        result = proto.build_external_link_wikitext(
+            wikitext,
+            url="https://example.com/ref",
+            title="Test",
+        )
+        self.assertEqual(result["action"], "create")
+        wt = result["wikitext"]
+        ref_pos = wt.find("== References ==")
+        el_pos = wt.find("== External links ==")
+        nav_pos = wt.find("{{Navbox}}")
+        self.assertGreater(el_pos, ref_pos, "External links should be after References")
+        self.assertLess(el_pos, nav_pos, "External links should be before navboxes")
 
 
 # ─── Tests: Edit summary ───────────────────────────────────────────────────

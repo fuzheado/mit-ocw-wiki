@@ -230,3 +230,78 @@ def test_fix_rerun_linter_no_new_issues():
     post_bullets = [i for i in post_issues if i.type == "bullet_after_categories"]
     assert len(post_order) == 0, f"Section order issue remains: {post_order}"
     assert len(post_bullets) == 0, f"Bullet issue remains: {post_bullets}"
+
+# ─── Section order: comprehensive fix cases ───────────────────────────────
+
+def test_fix_all_three_sections_reordered():
+    """See also, External links, References in wrong order → all corrected."""
+    wikitext = "Content\n\n== External links ==\n* [https://ex.com Link]\n\n== References ==\n{{Reflist}}\n\n== See also ==\n* [[A]]"
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    sa_pos = fixed.find("== See also ==")
+    ref_pos = fixed.find("== References ==")
+    el_pos = fixed.find("== External links ==")
+    assert sa_pos >= 0 and ref_pos >= 0 and el_pos >= 0
+    assert sa_pos < ref_pos < el_pos, f"Wrong order: SA={sa_pos}, Ref={ref_pos}, EL={el_pos}"
+
+
+def test_fix_further_reading_reordered():
+    """Further reading after External links → should move before External links."""
+    wikitext = "Content\n\n== See also ==\n* [[A]]\n\n== External links ==\n* [https://ex.com Link]\n\n== Further reading ==\n* [https://ex2.com Book]"
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    fr_pos = fixed.find("== Further reading ==")
+    el_pos = fixed.find("== External links ==")
+    assert fr_pos >= 0 and el_pos >= 0
+    assert fr_pos < el_pos, f"Further reading ({fr_pos}) should be before External links ({el_pos})"
+
+
+def test_fix_see_also_after_references():
+    """See also after References → move before References."""
+    wikitext = "Content\n\n== References ==\n{{Reflist}}\n\n== See also ==\n* [[A]]"
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    sa_pos = fixed.find("== See also ==")
+    ref_pos = fixed.find("== References ==")
+    assert sa_pos >= 0 and ref_pos >= 0
+    assert sa_pos < ref_pos, f"See also ({sa_pos}) should be before References ({ref_pos})"
+
+
+def test_fix_categories_stay_at_end_after_reorder():
+    """After full reorder, categories should remain at the very end."""
+    wikitext = "Content\n\n== External links ==\n* [https://ex.com Link]\n\n== References ==\n{{Reflist}}\n\n== See also ==\n* [[A]]\n\n[[Category:Test]]\n[[Category:Another]]"
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    # Categories should be the very last thing
+    last_content = fixed.strip().split('\n')[-1]
+    assert last_content.startswith('[[Category:'), f"Last line should be category, got: {last_content}"
+    # Find all category positions
+    cat_positions = [fixed.find("[[Category:Test]]"), fixed.find("[[Category:Another]]")]
+    el_pos = fixed.find("== External links ==")
+    for cp in cat_positions:
+        assert cp > el_pos, f"Category at {cp} should be after External links at {el_pos}"
+
+
+def test_fix_navboxes_between_sections_and_cats():
+    """Navboxes between reordered sections and categories should stay in place."""
+    wikitext = "Content\n\n== External links ==\n* [https://ex.com Link]\n\n== References ==\n{{Reflist}}\n\n{{Navbox}}\n{{Authority control}}\n\n[[Category:Test]]"
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    el_pos = fixed.find("== External links ==")
+    ref_pos = fixed.find("== References ==")
+    nav_pos = fixed.find("{{Navbox}}")
+    cat_pos = fixed.find("[[Category:Test]]")
+    assert ref_pos < el_pos < nav_pos < cat_pos, \
+        f"Order should be: References ({ref_pos}) < External links ({el_pos}) < Navbox ({nav_pos}) < Category ({cat_pos})"
+
+
+def test_fix_rerun_no_new_issues():
+    """After fix, rerunning the linter should find zero section_order or bullet_after_cats issues."""
+    wikitext = "Content\n\n== External links ==\n* [https://ex.com Link]\n\n== References ==\n{{Reflist}}"
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    post = analyze_footer(fixed)
+    post_order = [i for i in post if i.type == "section_order"]
+    post_bullets = [i for i in post if i.type == "bullet_after_categories"]
+    assert len(post_order) == 0, f"Order issues remain: {post_order}"
+    assert len(post_bullets) == 0, f"Bullet issues remain: {post_bullets}"

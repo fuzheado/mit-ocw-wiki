@@ -851,33 +851,36 @@ def build_external_link_wikitext(
         # Insert after References section content, before footer metadata.
         # Find the end of the References heading line, then scan ahead for the
         # first non-{{reflist}} template or [[Category: — metadata starts there.
-        ref_end_of_heading = wikitext.find('\n', ref_pos)
+        # ref_pos points to the \n before ==, so start searching for the closing
+        # newline from the end of the == References == heading text
+        ref_heading_end_pos = ref_pos + len('== References ==')
+        ref_end_of_heading = wikitext.find('\n', ref_heading_end_pos)
         if ref_end_of_heading == -1:
-            ref_end_of_heading = ref_pos + len('== References ==') + 1
+            ref_end_of_heading = ref_heading_end_pos + 1
         tail = wikitext[ref_end_of_heading:]
         insert_at = ref_end_of_heading + len(tail)
         i = 0
         while i < len(tail):
             if tail[i:i+2] == '{{':
-                # Check if this is {{reflist}} or similar — skip it
                 close = tail.find('}}', i)
                 if close > i and close - i < 80:
                     inner = tail[i+2:close].strip().lower()
                     if inner.startswith('reflist') or 'reflist' in inner:
-                        # This is References content — skip past it
                         i = close + 2
                         continue
-                # First non-reflist template — metadata starts here
                 insert_at = ref_end_of_heading + i
                 break
             elif tail[i:i+2] == '\n\n':
-                # Blank line — check if the next non-blank line is metadata
                 after_blank = tail[i+2:].lstrip()
-                if after_blank.startswith('{{') or after_blank.startswith('[['):
+                if after_blank.startswith('==') or after_blank.startswith('{{') or after_blank.startswith('[['):
                     insert_at = ref_end_of_heading + i
                     break
                 i += 2
             elif tail[i:i+2] == '[[' or tail.startswith('[[', i):
+                insert_at = ref_end_of_heading + i
+                break
+            elif tail[i:i+3] == '== ' or tail[i:i+3] == '=="':
+                # Next heading! Insert before it.
                 insert_at = ref_end_of_heading + i
                 break
             else:
@@ -888,15 +891,26 @@ def build_external_link_wikitext(
         detail = "Created == External links == after References"
     elif see_also_pos is not None:
         # Insert after See also content, before References or footer metadata
-        see_end_of_heading = wikitext.find('\n', see_also_pos)
+        # see_also_pos points to the \n before ==, so start searching
+        # from the end of the == See also == heading text
+        sa_heading_end_pos = see_also_pos + len('== See also ==')
+        see_end_of_heading = wikitext.find('\n', sa_heading_end_pos)
         if see_end_of_heading == -1:
-            see_end_of_heading = see_also_pos + len('== See also ==') + 1
+            see_end_of_heading = sa_heading_end_pos + 1
         insert_at = see_end_of_heading
         # Look for the next heading after See also
+        found_next = False
         for h_title, h_start, _ in heading_data:
             if h_start > see_also_pos:
                 insert_at = h_start
+                found_next = True
                 break
+        if not found_next:
+            # No next heading — scan for the first [[Category: or {{ navbox
+            tail = wikitext[see_end_of_heading:]
+            m = re.search(r'\[\[Category:|\{\{', tail)
+            if m:
+                insert_at = see_end_of_heading + m.start()
         before = wikitext[:insert_at].rstrip('\n')
         after = wikitext[insert_at:]
         new_wikitext = before + '\n' + new_section + '\n' + after.lstrip('\n')

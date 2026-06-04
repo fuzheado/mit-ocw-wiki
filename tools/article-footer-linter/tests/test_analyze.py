@@ -222,3 +222,76 @@ def test_order_notes_references_external():
     issues = detect_section_order(wikitext, headings)
     order_issues = [i for i in issues if i.type == "section_order"]
     assert len(order_issues) == 0
+
+# ─── Section order: comprehensive cases ────────────────────────────────────
+
+def test_order_external_links_before_references():
+    wikitext = "== External links ==\n* [https://ex.com Link]\n\n== References ==\n{{Reflist}}"
+    headings = get_headings(wikitext)
+    issues = detect_section_order(wikitext, headings)
+    assert len([i for i in issues if i.type == "section_order"]) >= 1
+
+
+def test_order_further_reading_after_external_links():
+    wikitext = "== See also ==\n* [[A]]\n\n== External links ==\n* [https://ex.com Link]\n\n== Further reading ==\n* [https://ex2.com Book]"
+    headings = get_headings(wikitext)
+    issues = detect_section_order(wikitext, headings)
+    order_issues = [i for i in issues if i.type == "section_order"]
+    assert len(order_issues) >= 1
+
+
+def test_order_correct_sequence_no_issues():
+    wikitext = "== See also ==\n* [[A]]\n\n== References ==\n{{Reflist}}\n\n== Further reading ==\n* [https://ex.com Book]\n\n== External links ==\n* [https://ex.com Link]"
+    headings = get_headings(wikitext)
+    issues = detect_section_order(wikitext, headings)
+    order_issues = [i for i in issues if i.type == "section_order"]
+    assert len(order_issues) == 0
+
+
+def test_order_see_also_after_references():
+    wikitext = "== References ==\n{{Reflist}}\n\n== See also ==\n* [[A]]"
+    headings = get_headings(wikitext)
+    issues = detect_section_order(wikitext, headings)
+    order_issues = [i for i in issues if i.type == "section_order"]
+    assert len(order_issues) >= 1
+
+
+def test_order_all_three_wrong():
+    wikitext = "== External links ==\n* [https://ex.com A]\n\n== References ==\n{{Reflist}}\n\n== See also ==\n* [[A]]"
+    headings = get_headings(wikitext)
+    issues = detect_section_order(wikitext, headings)
+    order_issues = [i for i in issues if i.type == "section_order"]
+    assert len(order_issues) >= 2  # Two pairs out of order
+
+
+def test_order_notes_and_references():
+    wikitext = "== Notes ==\n{{Reflist}}\n\n== External links ==\n* [https://ex.com Link]\n\n== References ==\n{{Reflist}}"
+    headings = get_headings(wikitext)
+    issues = detect_section_order(wikitext, headings)
+    order_issues = [i for i in issues if i.type == "section_order"]
+    assert len(order_issues) >= 1
+
+
+def test_order_custom_sections_ignored():
+    wikitext = "== See also ==\n* [[A]]\n\n== Bibliography ==\n* [https://ex.com Book]\n\n== External links ==\n* [https://ex.com Link]"
+    headings = get_headings(wikitext)
+    issues = detect_section_order(wikitext, headings)
+    order_issues = [i for i in issues if i.type == "section_order"]
+    # Bibliography is not a recognized footer section, so no ordering issue
+    assert len(order_issues) == 0
+
+
+def test_order_only_one_footer_section():
+    wikitext = "== References ==\n{{Reflist}}"
+    headings = get_headings(wikitext)
+    issues = detect_section_order(wikitext, headings)
+    order_issues = [i for i in issues if i.type == "section_order"]
+    assert len(order_issues) == 0
+
+
+def test_order_correct_with_subheadings():
+    wikitext = "== See also ==\n* [[A]]\n\n== References ==\n=== Primary ===\n{{Reflist}}\n\n== External links ==\n* [https://ex.com Link]"
+    headings = get_headings(wikitext)
+    issues = detect_section_order(wikitext, headings)
+    order_issues = [i for i in issues if i.type == "section_order"]
+    assert len(order_issues) == 0, f"Sub-headings should not trigger false positives: {order_issues}"
