@@ -88,21 +88,37 @@ def post_edit(title: str, wikitext: str, summary: str, auth: Optional[dict] = No
 
 
 def load_auth():
-    """Load Wikipedia bot credentials from .env file."""
-    env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "..", ".env")
-    alt_path = os.path.join(os.path.expanduser("~"), ".pi", "agent", ".env")
-    
-    for path in [env_path, alt_path]:
-        if os.path.exists(path):
-            with open(path) as f:
-                for line in f:
-                    line = line.strip()
-                    if line.startswith("WIKIPEDIA_USERNAME="):
-                        username = line.split("=", 1)[1].strip().strip('"').strip("'")
-                    elif line.startswith("WIKIPEDIA_BOT_PASSWORD="):
-                        password = line.split("=", 1)[1].strip().strip('"').strip("'")
-            if "username" in dir() and "password" in dir():
-                return {"username": username, "password": password}
+    """Load Wikipedia bot credentials from environment variables or .env file."""
+    # 1. Check actual environment variables first (fastest, most portable)
+    username = os.environ.get("WIKIPEDIA_USERNAME")
+    password = os.environ.get("WIKIPEDIA_BOT_PASSWORD")
+    if username and password:
+        return {"username": username, "password": password}
+
+    # 2. Walk up from the package location to find project root .env
+    #    cli.py lives at tools/article-footer-linter/src/article_footer_linter/cli.py
+    #    We need to go up 4 levels to reach the project root.
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    candidates = [
+        os.path.join(script_dir, "..", "..", "..", "..", ".env"),   # project root
+        os.path.join(os.path.expanduser("~"), ".pi", "agent", ".env"),  # pi agent
+    ]
+    for path in candidates:
+        candidate = os.path.normpath(path)
+        if not os.path.exists(candidate):
+            continue
+        found_username = None
+        found_password = None
+        with open(candidate) as f:
+            for line in f:
+                line = line.strip()
+                if line.startswith("WIKIPEDIA_USERNAME="):
+                    found_username = line.split("=", 1)[1].strip().strip('"').strip("'")
+                elif line.startswith("WIKIPEDIA_BOT_PASSWORD="):
+                    found_password = line.split("=", 1)[1].strip().strip('"').strip("'")
+        if found_username and found_password:
+            return {"username": found_username, "password": found_password}
+
     return None
 
 
