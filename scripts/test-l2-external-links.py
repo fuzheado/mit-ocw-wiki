@@ -2,10 +2,10 @@
 """
 Test suite for L2 external links insertion (build_external_link_wikitext).
 
-Full reference: docs/L2-EXTERNAL-LINKS.md — algorithm, architecture, CLI.
+Full reference: docs/L2-EXTERNAL-LINKS.md - algorithm, architecture, CLI.
 Keep that doc in sync when changing this file.
 
-All tests are offline — no API calls, no mocking needed. The pure function
+All tests are offline - no API calls, no mocking needed. The pure function
 build_external_link_wikitext() takes wikitext in, returns wikitext out.
 
 Run:
@@ -281,7 +281,7 @@ class TestAppendExisting(unittest.TestCase):
             title="Just a Title",
         )
         self.assertIn("* {{cite web |url=https://example.com/ref |title=Just a Title}}", result["wikitext"])
-        self.assertNotIn(" — ", result["wikitext"].split("\n* {{cite web |url=https://example.com/ref |title=Just a Title}}")[0])
+        self.assertNotIn(" - ", result["wikitext"].split("\n* {{cite web |url=https://example.com/ref |title=Just a Title}}")[0])
 
     def test_append_without_publisher(self):
         """Publisher is optional."""
@@ -296,7 +296,7 @@ class TestAppendExisting(unittest.TestCase):
 # ─── Tests: Prefers External links over Further reading ────────────────────
 
 class TestPreference(unittest.TestCase):
-    """Both sections exist — should prefer External links."""
+    """Both sections exist - should prefer External links."""
 
     def test_prefers_external_links(self):
         """When both sections exist, append to External links."""
@@ -314,8 +314,8 @@ class TestPreference(unittest.TestCase):
 class TestCreateNew(unittest.TestCase):
     """Tests where no External links / Further reading exists."""
 
-    def test_create_before_references(self):
-        """When References exists, create External links before it."""
+    def test_create_after_references(self):
+        """When References exists, create External links after it (per WP:LAYOUT)."""
         result = proto.build_external_link_wikitext(
             ARTICLE_NO_EXT_LINKS_HAS_REFS,
             url="https://ocw.mit.edu/courses/6-006/",
@@ -330,7 +330,8 @@ class TestCreateNew(unittest.TestCase):
 
         el_pos = result["wikitext"].lower().find("external links")
         ref_pos = result["wikitext"].lower().find("references")
-        self.assertLess(el_pos, ref_pos)
+        # External links should come AFTER References per WP:LAYOUT
+        self.assertGreater(el_pos, ref_pos)
 
     def test_create_before_see_also(self):
         """When See also exists, create External links before it."""
@@ -369,7 +370,7 @@ class TestCreateNew(unittest.TestCase):
         self.assertIn("Test Resource", result["wikitext"])
 
     def test_create_empty_article(self):
-        """Completely empty article — should still create section."""
+        """Completely empty article - should still create section."""
         result = proto.build_external_link_wikitext(
             ARTICLE_EMPTY,
             url="https://example.com/ref",
@@ -479,7 +480,7 @@ class TestOCWFormat(unittest.TestCase):
         self.assertIn("Introduction to Algorithms", result["wikitext"])
 
     def test_cite_web_bullet_format(self):
-        """Link should be a bulleted {{cite web}} — standard WP:EL convention."""
+        """Link should be a bulleted {{cite web}} - standard WP:EL convention."""
         result = proto.build_external_link_wikitext(
             ARTICLE_WITH_EXT_LINKS,
             url="https://example.com/ref",

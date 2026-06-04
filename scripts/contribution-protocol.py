@@ -842,21 +842,65 @@ def build_external_link_wikitext(
             break
         elif hl == 'see also' and see_also_pos is None:
             see_also_pos = h_start
-            break
+            # Don't break — keep looking for References which is preferred
 
     section_title = "External links"
     new_section = f"\n== {section_title} ==\n{bullet}\n"
 
     if ref_pos is not None:
-        before = wikitext[:ref_pos].rstrip('\n')
-        after = wikitext[ref_pos:]
-        new_wikitext = before + new_section + "\n" + after.lstrip('\n')
-        detail = "Created == External links == before References"
+        # Insert after References section content, before footer metadata.
+        # Find the end of the References heading line, then scan ahead for the
+        # first non-{{reflist}} template or [[Category: — metadata starts there.
+        ref_end_of_heading = wikitext.find('\n', ref_pos)
+        if ref_end_of_heading == -1:
+            ref_end_of_heading = ref_pos + len('== References ==') + 1
+        tail = wikitext[ref_end_of_heading:]
+        insert_at = ref_end_of_heading + len(tail)
+        i = 0
+        while i < len(tail):
+            if tail[i:i+2] == '{{':
+                # Check if this is {{reflist}} or similar — skip it
+                close = tail.find('}}', i)
+                if close > i and close - i < 80:
+                    inner = tail[i+2:close].strip().lower()
+                    if inner.startswith('reflist') or 'reflist' in inner:
+                        # This is References content — skip past it
+                        i = close + 2
+                        continue
+                # First non-reflist template — metadata starts here
+                insert_at = ref_end_of_heading + i
+                break
+            elif tail[i:i+2] == '\n\n':
+                # Blank line — check if the next non-blank line is metadata
+                after_blank = tail[i+2:].lstrip()
+                if after_blank.startswith('{{') or after_blank.startswith('[['):
+                    insert_at = ref_end_of_heading + i
+                    break
+                i += 2
+            elif tail[i:i+2] == '[[' or tail.startswith('[[', i):
+                insert_at = ref_end_of_heading + i
+                break
+            else:
+                i += 1
+        before = wikitext[:insert_at].rstrip('\n')
+        after = wikitext[insert_at:]
+        new_wikitext = before + '\n' + new_section + '\n' + after.lstrip('\n')
+        detail = "Created == External links == after References"
     elif see_also_pos is not None:
-        before = wikitext[:see_also_pos].rstrip('\n')
-        after = wikitext[see_also_pos:]
-        new_wikitext = before + new_section + "\n" + after.lstrip('\n')
-        detail = "Created == External links == before == See also =="
+        # Insert after See also content, before References or footer metadata
+        see_end_of_heading = wikitext.find('\n', see_also_pos)
+        if see_end_of_heading == -1:
+            see_end_of_heading = see_also_pos + len('== See also ==') + 1
+        insert_at = see_end_of_heading
+        # Look for the next heading after See also
+        for h_title, h_start, _ in heading_data:
+            if h_start > see_also_pos:
+                insert_at = h_start
+                break
+        before = wikitext[:insert_at].rstrip('\n')
+        after = wikitext[insert_at:]
+        new_wikitext = before + '\n' + new_section + '\n' + after.lstrip('\n')
+        detail = "Created == External links == after == See also =="
     else:
         new_wikitext = wikitext.rstrip('\n') + new_section
         detail = "No References/See also found — appended == External links == at end"
