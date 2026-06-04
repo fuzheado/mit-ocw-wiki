@@ -10,6 +10,7 @@ from article_footer_linter.analyze import (
     detect_bullets_after_categories,
     detect_defaultsort_position,
     detect_section_spacing,
+    detect_section_order,
     detect_auth_control_position,
     detect_stub_position,
     detect_whitespace_issues,
@@ -179,3 +180,45 @@ def test_full_analysis_whitespace():
     assert len(issues) >= 1
     types = [i.type for i in issues]
     assert "whitespace_cleanup" in types or "section_spacing" in types
+
+
+# ─── Section order ────────────────────────────────────────────────────────
+
+def test_no_order_issue_when_correct():
+    wikitext = "== See also ==\n* [[A]]\n\n== References ==\n{{Reflist}}\n\n== External links ==\n* [https://ex.com Link]"
+    headings = get_headings(wikitext)
+    issues = detect_section_order(wikitext, headings)
+    assert len([i for i in issues if i.type == "section_order"]) == 0
+
+
+def test_detects_external_links_before_references():
+    wikitext = "== See also ==\n* [[A]]\n\n== External links ==\n* [https://ex.com Link]\n\n== References ==\n{{Reflist}}"
+    headings = get_headings(wikitext)
+    issues = detect_section_order(wikitext, headings)
+    order_issues = [i for i in issues if i.type == "section_order"]
+    assert len(order_issues) >= 1
+
+
+def test_detects_further_reading_after_external_links():
+    wikitext = "== See also ==\n* [[A]]\n\n== External links ==\n* [https://ex.com Link]\n\n== Further reading ==\n* [https://ex2.com Book]"
+    headings = get_headings(wikitext)
+    issues = detect_section_order(wikitext, headings)
+    order_issues = [i for i in issues if i.type == "section_order"]
+    assert len(order_issues) >= 1
+
+
+def test_non_footer_sections_ignored():
+    wikitext = "== See also ==\n* [[A]]\n\n== Custom section ==\nContent\n\n== External links ==\n* [https://ex.com Link]"
+    headings = get_headings(wikitext)
+    issues = detect_section_order(wikitext, headings)
+    order_issues = [i for i in issues if i.type == "section_order"]
+    # Custom section should not cause an order issue since it's not a footer section
+    assert len(order_issues) == 0
+
+
+def test_order_notes_references_external():
+    wikitext = "== Notes ==\n{{Reflist}}\n\n== References ==\n{{Reflist}}\n\n== External links ==\n* [https://ex.com Link]"
+    headings = get_headings(wikitext)
+    issues = detect_section_order(wikitext, headings)
+    order_issues = [i for i in issues if i.type == "section_order"]
+    assert len(order_issues) == 0

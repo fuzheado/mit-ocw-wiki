@@ -134,3 +134,39 @@ def test_composite_bullets_fixture():
     re_issues = analyze_footer(fixed)
     remaining = [i for i in re_issues if i.type == "bullet_after_categories"]
     assert len(remaining) == 0, f"Bullet issue remains after fix: {remaining}"
+
+# ─── Section order fixes ──────────────────────────────────────────────────
+
+def test_fix_external_links_before_references():
+    wikitext = "== See also ==\n* [[A]]\n\n== External links ==\n* [https://ex.com Link]\n\n== References ==\n{{Reflist}}"
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    
+    # After fix, References should come before External links
+    ref_pos = fixed.find("== References ==")
+    el_pos = fixed.find("== External links ==")
+    assert ref_pos >= 0 and el_pos >= 0
+    assert ref_pos < el_pos, f"References ({ref_pos}) should be before External links ({el_pos})"
+
+
+def test_fix_further_reading_after_external_links():
+    wikitext = "== See also ==\n* [[A]]\n\n== External links ==\n* [https://ex.com Link]\n\n== Further reading ==\n* [https://ex2.com Book]"
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    
+    fr_pos = fixed.find("== Further reading ==")
+    el_pos = fixed.find("== External links ==")
+    assert fr_pos >= 0 and el_pos >= 0
+    assert fr_pos < el_pos, f"Further reading ({fr_pos}) should be before External links ({el_pos})"
+
+
+def test_fix_three_sections_reordered():
+    wikitext = "Content\n\n== External links ==\n* [https://ex.com Link]\n\n== References ==\n{{Reflist}}\n\n== See also ==\n* [[A]]"
+    issues = analyze_footer(wikitext)
+    fixed, fixes = apply_fixes(wikitext, issues)
+    
+    sa_pos = fixed.find("== See also ==")
+    ref_pos = fixed.find("== References ==")
+    el_pos = fixed.find("== External links ==")
+    assert sa_pos >= 0 and ref_pos >= 0 and el_pos >= 0
+    assert sa_pos < ref_pos < el_pos, f"Order: See also={sa_pos}, References={ref_pos}, External links={el_pos}"

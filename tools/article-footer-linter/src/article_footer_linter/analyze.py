@@ -75,6 +75,66 @@ def get_headings(wikitext: str) -> list:
         return _find_headings_raw(wikitext)
 
 
+
+# ─── Section ordering ────────────────────────────────────────────────────
+
+# WP:LAYOUT recommended order for footer sections:
+RECOMMENDED_ORDER = [
+    ("see also", 0),
+    ("notes", 1),
+    ("footnotes", 1),
+    ("notes and references", 1),
+    ("references", 2),
+    ("further reading", 3),
+    ("external links", 4),
+]
+RECOMMENDED_MAP = {name: rank for name, rank in RECOMMENDED_ORDER}
+ORDER_NAMES = {rank: [name for name, r in RECOMMENDED_ORDER if r == rank][0]
+               for rank in sorted(set(r for _, r in RECOMMENDED_ORDER))}
+
+
+def detect_section_order(wikitext: str, headings: list) -> list[Issue]:
+    """
+    Detect footer sections in non-standard order.
+    Checks only the footer-appropriate sections (See also through External links).
+    Other sections (custom ones) are left in their relative positions.
+    """
+    # Collect recognized footer sections
+    footer_sections = []  # [(title, rank, start)]
+    other_sections = []   # [(title, start)]
+
+    for h in headings:
+        h_lower = h["title"].lower()
+        if h_lower in RECOMMENDED_MAP:
+            footer_sections.append((h["title"], RECOMMENDED_MAP[h_lower], h["start"]))
+        else:
+            other_sections.append((h["title"], h["start"]))
+
+    if len(footer_sections) <= 1:
+        return []
+
+    # Check ordering: each footer section should have a higher rank than the previous
+    issues = []
+    for i in range(1, len(footer_sections)):
+        prev_rank = footer_sections[i - 1][1]
+        curr_rank = footer_sections[i][1]
+        if curr_rank < prev_rank:
+            issues.append(Issue(
+                type="section_order",
+                severity="warning",
+                position=footer_sections[i][2],
+                description=f'"{footer_sections[i][0]}" appears before "{footer_sections[i - 1][0]}" — expected reverse order per WP:LAYOUT',
+                details={
+                    "expected_first": ORDER_NAMES.get(prev_rank, footer_sections[i - 1][0]),
+                    "expected_second": ORDER_NAMES.get(curr_rank, footer_sections[i][0]),
+                    "found_first": footer_sections[i - 1][0],
+                    "found_second": footer_sections[i][0],
+                    "prev_rank": prev_rank,
+                    "curr_rank": curr_rank,
+                },
+            ))
+
+    return issues
 # ─── Detection helpers ─────────────────────────────────────────────────────
 
 def _first_category_line(wikitext: str) -> Optional[int]:
@@ -385,6 +445,7 @@ def analyze_footer(wikitext: str) -> list[Issue]:
     detectors = [
         detect_whitespace_issues,
         detect_section_spacing,
+        detect_section_order,
         detect_bullets_after_categories,
         detect_stub_position,
         detect_auth_control_position,

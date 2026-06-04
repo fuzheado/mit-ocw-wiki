@@ -7,7 +7,7 @@ Public API:
     check_links(wikitext)            → [LinkResult]   (Phase 2)
 """
 
-from .analyze import analyze_footer, Issue
+from .analyze import analyze_footer, Issue, RECOMMENDED_ORDER
 from .fix import apply_fixes, FixResult
 
-__all__ = ["analyze_footer", "apply_fixes", "Issue", "FixResult"]
+__all__ = ["analyze_footer", "apply_fixes", "Issue", "FixResult", "RECOMMENDED_ORDER"]

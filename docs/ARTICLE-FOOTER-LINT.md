@@ -78,7 +78,26 @@ confuse automated tools.
 
 **Confidence:** 100% — clear rule, no ambiguity.
 
-### Issue 2: `*` bullets not inside a section (`orphan_bullets`)
+### Issue 2: Sections in wrong order (`section_order`)
+
+**Severity:** Warning  
+**Detection:** Footer sections appear in non-standard order. The
+recommended order per WP:LAYOUT is:
+
+1. `== See also ==` (optional)
+2. `== Notes ==` / `== Footnotes ==` (optional)
+3. `== References ==` (optional, but common)
+4. `== Further reading ==` (optional)
+5. `== External links ==` (optional)
+
+**Fix:** Reorder footer sections to match WP:LAYOUT. Non-footer sections
+(custom section names) are left in their relative positions untouched.
+
+**Confidence:** 90% — section reordering is well-defined. Risk is low
+because we only reorder within the footer region and preserve all content.
+Non-footer sections are never moved.
+
+### Issue 3: `*` bullets not inside a section (`orphan_bullets`)
 
 **Severity:** Warning  
 

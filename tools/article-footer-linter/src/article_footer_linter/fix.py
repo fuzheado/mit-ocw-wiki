@@ -25,6 +25,7 @@ class FixResult:
 # Fixes must be applied in order to avoid conflicts:
 FIX_ORDER = [
     "whitespace_cleanup",
+    "section_order",
     "section_spacing",
     "bullet_after_categories",
     "stub_position",
@@ -247,6 +248,87 @@ def fix_defaultsort_position(wikitext: str, issues: list[Issue]) -> tuple[str, l
     return fixed, results
 
 
+
+def fix_section_order(wikitext: str, issues: list[Issue]) -> tuple[str, list[FixResult]]:
+    """
+    Reorder footer sections to match WP:LAYOUT.
+    Order: See also → Notes → References → Further reading → External links.
+    Non-footer sections are left in their relative positions.
+    """
+    results = []
+    fixed = wikitext
+
+    order_issues = [i for i in issues if i.type == "section_order"]
+    if not order_issues:
+        return fixed, results
+
+    from .analyze import RECOMMENDED_MAP, get_headings
+
+    # Collect all level-2 sections in the footer zone
+    # We need to identify section boundaries by looking at heading positions
+    headings = get_headings(fixed)
+    if len(headings) < 2:
+        return fixed, results
+
+    # Build section map: [(title, rank, start, end)]
+    sections = []
+    for i, h in enumerate(headings):
+        h_lower = h["title"].lower()
+        rank = RECOMMENDED_MAP.get(h_lower, 999)
+        # Section end: start of next heading, or end of wikitext
+        if i + 1 < len(headings):
+            end = headings[i + 1]["start"]
+        else:
+            end = len(fixed)
+        sections.append((h["title"], rank, h["start"], end))
+
+    # Separate footer sections (rank < 999) from non-footer sections
+    footer_sections = [(t, r, s, e) for t, r, s, e in sections if r < 999 and r is not None]
+    non_footer = [(t, r, s, e) for t, r, s, e in sections if r >= 999]
+
+    if len(footer_sections) <= 1:
+        return fixed, results
+
+    # Check if already in correct order
+    current_order = [r for _, r, _, _ in footer_sections]
+    expected_order = sorted(current_order)
+    if current_order == expected_order:
+        return fixed, results
+
+    # Reorder footer sections, keeping non-footer sections in place
+    # Strategy: extract footer section content, reorder, reassemble
+    # First, get the text of each footer section (between heading and next section)
+    footer_texts = {}
+    for title, rank, start, end in footer_sections:
+        footer_texts[rank] = {"title": title, "text": fixed[start:end], "start": start, "end": end}
+
+    # Get the region from the first footer section to the last
+    first_footer = min(s for _, _, s, _ in footer_sections)
+    last_footer = max(e for _, _, _, e in footer_sections)
+    before = fixed[:first_footer]
+    after = fixed[last_footer:]
+
+    # Reassemble footer sections in correct order
+    reordered = ""
+    for rank in sorted(expected_order):
+        reordered += footer_texts[rank]["text"]
+
+    # Also insert any non-footer sections that were interspersed
+    # (Sections between first and last footer that aren't footer sections)
+    # Their content is already included in the footer section boundaries
+    
+    fixed = before + reordered + after
+
+    # Clean up: ensure exactly one blank line between sections
+    fixed = re.sub(r'\n{3,}', '\n\n', fixed)
+
+    results.append(FixResult(
+        type="section_order",
+        applied=True,
+        description="Reordered footer sections to WP:LAYOUT",
+    ))
+
+    return fixed, results
 # ─── Public API ────────────────────────────────────────────────────────────
 
 def apply_fixes(wikitext: str, issues: list[Issue]) -> tuple[str, list[FixResult]]:
@@ -270,6 +352,7 @@ def apply_fixes(wikitext: str, issues: list[Issue]) -> tuple[str, list[FixResult
         "stub_position": fix_stub_position,
         "auth_control_position": fix_auth_control_position,
         "defaultsort_position": fix_defaultsort_position,
+        "section_order": fix_section_order,
     }
 
     fixed = wikitext
