@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wiki MIT — Contribution Workbench</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <h1>
+      <svg width="28" height="28" viewBox="0 0 28 28" style="vertical-align:-5px;margin-right:8px">
+        <rect width="28" height="28" rx="4" fill="#a31f34"/>
+        <text x="14" y="20" text-anchor="middle" fill="white" font-size="16" font-weight="bold">M</text>
+      </svg>
+      Wiki MIT <span class="subtitle">Contribution Workbench</span>
+    </h1>
+    <div id="auth-status" class="auth-status">
+      <span class="auth-dot"></span>
+      <span id="auth-label">Checking...</span>
+    </div>
+  </div>
+</header>
+
+<main>
+  <!-- Step 1: Search & Match -->
+  <section class="panel search-panel">
+    <div class="panel-header">
+      <span class="step-badge">1</span>
+      <h2>Find a match</h2>
+    </div>
+    <div class="search-row">
+      <div class="search-box">
+        <input type="text" id="course-search" placeholder="Search by course ID or title (e.g., 6.006, algorithms, photovoltaics)..."
+               autocomplete="off">
+        <div id="course-results" class="dropdown hidden"></div>
+      </div>
+      <button id="match-btn" class="btn btn-primary" disabled>
+        <span class="btn-icon">🔍</span> Find matches
+      </button>
+    </div>
+    <div id="search-status" class="status-msg hidden"></div>
+  </section>
+
+  <!-- Step 2: Matches list -->
+  <section id="matches-section" class="panel hidden">
+    <div class="panel-header">
+      <span class="step-badge">2</span>
+      <h2>Wikipedia matches</h2>
+      <span id="match-count" class="badge"></span>
+    </div>
+    <p id="match-context" class="context-line"></p>
+    <div id="matches-list" class="matches-list"></div>
+
+    <!-- Per-match: detail panel (shown when a match is selected) -->
+    <div id="detail-panel" class="detail-panel hidden">
+      <div class="detail-header">
+        <h3 id="detail-title"></h3>
+        <span id="detail-meta" class="detail-meta"></span>
+      </div>
+
+      <div class="detail-actions">
+        <div class="rung-selector">
+          <label>Contribution level:</label>
+          <div class="rung-tabs">
+            <button class="rung-tab active" data-rung="L1" title="Suggest as a reference on the Talk page">
+              <span class="rung-icon">💬</span> L1 — Refideas
+              <span class="rung-risk low">Safe</span>
+            </button>
+            <button class="rung-tab" data-rung="L2" title="Add a link to External links section">
+              <span class="rung-icon">🔗</span> L2 — External link
+              <span class="rung-risk low">Low risk</span>
+            </button>
+          </div>
+        </div>
+
+        <div id="rung-description" class="rung-description"></div>
+        <div id="preview-box" class="preview-box">
+          <div class="preview-header">
+            <span>Wikitext preview</span>
+            <button id="copy-btn" class="btn btn-sm" disabled>📋 Copy</button>
+          </div>
+          <pre id="preview-content"></pre>
+        </div>
+
+        <div class="apply-row">
+          <button id="apply-btn" class="btn btn-apply" disabled>
+            <span class="btn-icon">📝</span> Apply to Wikipedia
+          </button>
+          <span id="apply-status" class="apply-status hidden"></span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Step 3: Recent activity -->
+  <section id="activity-section" class="panel hidden">
+    <div class="panel-header">
+      <span class="step-badge">3</span>
+      <h2>Recent activity</h2>
+    </div>
+    <div id="activity-list" class="activity-list"></div>
+  </section>
+</main>
+
+<footer>
+  <p>Wiki MIT · <a href="https://meta.wikimedia.org/wiki/Wiki_MIT" target="_blank">Project page</a> · MIT OCW content is CC BY-NC-SA 4.0</p>
+</footer>
+
+<script src="/app.js"></script>
+</body>
+</html>

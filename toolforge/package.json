@@ -1,0 +1,12 @@
+{
+  "name": "wiki-mit-workbench",
+  "version": "0.1.0",
+  "description": "Wiki MIT Contribution Workbench — connect MIT OCW courses to Wikipedia",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs"
+  },
+  "license": "MIT"
+}

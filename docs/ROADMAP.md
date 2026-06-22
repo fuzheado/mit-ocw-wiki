@@ -170,6 +170,59 @@ The 15-category taxonomy is already implemented in `scripts/classify_projects.py
 
 ---
 
+## Phase 4: Generalize Beyond MIT OCW
+
+**Goal:** Extract the Contribution Ladder into a corpus-agnostic framework so any citable
+knowledge corpus (arXiv, JSTOR, PubMed Central, government data, library collections)
+can use the same pipeline — ingest → match → format → contribute.
+
+**Why:** The mechanics of the ladder (match corpus items to Wikipedia articles, format
+citations, present a work queue) are identical regardless of what corpus is being cited.
+What changes per corpus is the citation template (`{{cite web}}` vs `{{cite arXiv}}` vs
+`{{cite journal}}`), the matching strategy (course titles vs paper abstracts vs journal
+subjects), and the ingest API. The framework should make adding a corpus a ~70-line plugin.
+
+**Reference doc:** `docs/CONTRIBUTION-LADDER.md` — full design, architecture diagram,
+pluggable abstractions, arXiv walkthrough, corpus candidates.
+
+### 4a. Generalize ContributionRecord (1 session)
+
+- Rename OCW-specific fields (`course_id` → `id`, `course_title` → `title`, etc.)
+- Backward-compatible: old records continue to work
+- Update `scripts/contribution-protocol.py` validation
+- Update `docs/CONTRIBUTION-PROTOCOL.md`
+
+### 4b. Extract ActionFormatter ABC (1 session)
+
+- Extract wikitext generation from `contribution-protocol.py` into `OcwFormatter`
+- Define `ActionFormatter` ABC: `format_l1()`, `format_l2()`, `format_l3()`, `edit_summary()`
+- Refactor existing pure functions to accept an `ActionFormatter` parameter
+- All 22 L1 + 26 L2 tests should pass unchanged
+
+### 4c. Add arXiv as a second corpus (1-2 sessions)
+
+- `ArxivConnector` — ingests from arXiv API by category
+- `ArxivMatchProvider` — searches Wikipedia by paper title keywords
+- `ArxivFormatter` — uses `{{cite arXiv}}` template
+- Generate a mixed work queue (OCW + arXiv)
+
+### 4d. Build the static ladder UI (1-2 sessions)
+
+- `wiki/editor/index.html` — corpus selector, filterable work queue, rung selector
+- "Copy to clipboard" for each pre-formatted wikitext snippet
+- Works from `file://`
+
+### Phase 4 execution order
+
+1. **4a** first — the data model generalization unlocks everything else
+2. **4b** — the formatter abstraction makes new corpora possible
+3. **4c** — arXiv validates the framework with a real second corpus
+4. **4d** — the UI surfaces multi-corpus contributions
+
+**Estimated effort:** 4-6 sessions
+
+---
+
 ## Reference map
 
 Where to find things in the reorganized project:
@@ -196,4 +249,7 @@ Where to find things in the reorganized project:
 | Contribution Protocol schema | `docs/CONTRIBUTION-PROTOCOL.md` |
 | Ad-hoc match tool | `docs/AD-HOC-MATCH.md` — full algorithm: match sources, provider interface, filter layers, scoring formula, page type detection, interactive flow |
 | How to add a provider | `docs/HOWTO-NEW-PROVIDER.md` — step-by-step guide for writing a new `MatchProvider` |
+| Contribution Ladder framework | `docs/CONTRIBUTION-LADDER.md` — generalized corpus-agnostic design, pluggable abstractions, arXiv walkthrough, corpus candidates |
+| Contribution UI options | `docs/CONTRIBUTION-UI.md` — five deployment approaches, composite strategy, architecture decisions, static UI layout sketch, OAuth upgrade path |
+| Toolforge Workbench app | `toolforge/` — Node.js web app implementing the Contribution Ladder (search → match → preview → apply). Zero-dependency server, responsive UI, bot password auth. See `toolforge/DESIGN.md` for full design + user manual |
 | This roadmap | `docs/ROADMAP.md` |

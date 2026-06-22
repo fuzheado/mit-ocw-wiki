@@ -1,7 +1,7 @@
 # Handoff — Session Context for New Agents
 
-> **Last updated:** 2026-06-03
-> **Project state:** L1 (refideas insert, linter, fixer) production-ready. L2 (external links) built and tested. L3-L5 designed but not built.
+> **Last updated:** 2026-06-22
+> **Project state:** L1 (refideas) and L2 (external links) production-ready. L3 designed, not yet built. Contribution Ladder framework designed for corpus generalization (Phase 4).
 
 ---
 
@@ -35,7 +35,7 @@ Production-ready with 50 tests, 8 live edits.
 | `scripts/ad-hoc-match.py` | **Ad-hoc match** — find best Wikipedia articles for any OCW course, with pluggable providers, interactive L1/L2 posting | `--top 5`, `--mode L2 --interactive`, `--provider wikipedia` |
 | `scripts/prioritize-matches.py` | **Match scoring** — template gate + IDF-weighted overlap + specificity | `--data FILE`, `-v` (verbose), `--interactive N`, `--apply-top N --yes` |
 | `scripts/review-collaborator-matches.py` | **Collaborator match reviewer** — 185 cross-encoder-scored pairs, interactive y/N/q posting | `--mode L2`, `--min-score 0.90`, `--export file.json` |
-| `scripts/lint-article-footer.py` | **Article footer linter** — 7 structural detectors, auto-fix, dry-run, survey. Package at `tools/article-footer-linter/` | `--fix`, `--survey 50`, `--fix --dry-run "Article"` |
+| `scripts/lint-article-footer.py` | **Article footer linter** — 8 structural detectors, auto-fix, dry-run, survey, `--verbose` checklist, `--summary` report. Package at `tools/article-footer-linter/` | `--fix`, `--survey 50`, `--fix --dry-run "Article"`, `--verbose`, `--summary` |
 | `scripts/generate-matches.py` | **Live match discovery** — searches 25 WikiProjects via Wikipedia API, detects templates with mwparserfromhell, matches against 2,577 OCW courses | `--top 30 --output FILE`, `--project Chemistry` |
 | `scripts/scan-batch-parallel.py` | **Parallel asset scanner** — scanned 2,165 courses in 13.5 min (8 workers, 2.7/s) | `--workers 8`, `--limit 50`, `--dry-run` |
 | `scripts/test-refideas.py` | 28 regression tests (linter/fixer) | `python3 scripts/test-refideas.py -v` |
@@ -133,33 +133,38 @@ L1 refactored into three layers (pattern to follow for L2-L5):
 - **`refideas_add(article, url, label, source, note)`** — orchestrator. Fetches Talk page via API, deduplicates by URL, delegates to `build_refideas_wikitext()`.
 - **`l1_insert_refideas(article, course_id, course_title, url, note)`** — OCW wrapper. Formats `"[url MIT id: title], MIT OpenCourseWare (note)"` and calls `refideas_add()`.
 
-### Article Footer Linter (built 2026-06-03)
+### Article Footer Linter (built 2026-06-03, updated 2026-06-04)
 
 Self-contained package at `tools/article-footer-linter/` with `pyproject.toml`.
 Pure-function architecture following the L1/L2 pattern:
 
 ```
-analyze_footer(wikitext) → [Issue]        # 7 detectors, no I/O
-apply_fixes(wikitext, issues) → (wt, [])  # 7 fixers, dependency-ordered
+analyze_footer(wikitext)       → [Issue]             # 8 detectors, pure
+apply_fixes(wikitext, issues)  → (wt, [FixResult])   # 8 fixers, dependency-ordered, pure
+generate_footer_report(wt)     → FooterSummary       # Structural overview, pure
 ```
 
-**7 detect-and-fix issues:**
+**8 detect-and-fix issues:**
 
-| Issue | Severity | What it does |
-|-------|----------|-------------|
-| `bullet_after_categories` | Error | Move `*` bullets from after `[[Category:...]]` to before |
-| `section_order` | Warning | Reorder to WP:LAYOUT: See also → Notes → References → Further reading → External links |
-| `defaultsort_position` | Warning | Move `{{DEFAULTSORT}}` to before first category |
-| `auth_control_position` | Info | Move `{{Authority control}}` to after navboxes, before categories |
-| `stub_position` | Info | Move stub templates to after last category |
-| `section_spacing` | Info | Ensure blank lines between sections |
-| `whitespace_cleanup` | Info | Collapse 3+ blank lines to 2; remove trailing blanks |
+| # | Type | Severity | Has Fix? |
+|---|------|----------|----------|
+| 1 | `content_after_categories` | 🔴 Error | ✅ — Any content (headings, text, templates) after last category → moved before |
+| 2 | `bullet_after_categories` | 🔴 Error | ✅ — `*` bullets from after `[[Category:...]]` → moved before |
+| 3 | `section_order` | 🟡 Warning | ✅ — Reorder to WP:LAYOUT |
+| 4 | `defaultsort_position` | 🟡 Warning | ✅ — Move `{{DEFAULTSORT}}` before first category |
+| 5 | `section_spacing` | ℹ️ Info | ✅ — Blank lines between sections |
+| 6 | `auth_control_position` | ℹ️ Info | ✅ — Move `{{Authority control}}` before categories |
+| 7 | `stub_position` | ℹ️ Info | ✅ — Move stubs after last category |
+| 8 | `whitespace_cleanup` | ℹ️ Info | ✅ — Collapse 3+ blank lines to 1; remove trailing blanks |
 
 **Key behaviors:**
+- **`--verbose` mode:** show pass/fail for each of the 8 detectors individually
+- **`--summary` mode:** information-only structural overview (sections, categories, navboxes, sister projects, stubs)
+- **`generate_footer_report()` public API:** pure function returning `FooterSummary` dataclass
 - **Post-fix sanity check:** re-runs `analyze_footer()` after fix to catch regressions
 - **Categories preserved:** section reordering never drags categories — they stay at end
 - **Custom sections ignored:** non-WP:LAYOUT sections (Bibliography, Awards, etc.) left in place
-- **85 tests:** 31 L2 creation + 54 linter
+- **66 tests:** 41 detection + 25 fix (package level)
 - **Phase 2 planned:** dead link detection (`--check-links`, `--tag-dead`, Wayback Machine)
 
 **Standalone install:**
@@ -230,6 +235,10 @@ The reviewer tool (`scripts/review-collaborator-matches.py`) resolves all
 course names to our wiki metadata (40/41 matched 1:1) and posts via
 our existing L1/L2 editors.
 
+**Metadata convention:** Cross-encoder scores, zerank-2 scores, and direct PDF links are
+wrapped in `<!-- HTML comments -->` in the posted wikitext. This keeps the data accessible
+in the page source for debugging while keeping the rendered page clean for Wikimedians.
+
 Source files live in `external/`:
 - `OVERVIEW.pdf` — pipeline description, filters, department breakdown
 - `reranked_p79.pdf` — all 185 matches with scores and lecture PDFs
@@ -277,9 +286,11 @@ Designed in `docs/CONTRIBUTION-LEVELS.md`. Replace `{{cn}}` tags with `<ref>{{ci
 - Generating a proper citation from OCW course/lecture metadata
 - The OCW license (CC BY-NC-SA) note — citing NC works is standard academic practice
 
-### Contribution interface (Phase 3 in ROADMAP)
+### Contribution interface (Phase 3-4 in ROADMAP)
 
 The work queue: join Impact Matrix data with OCW match data to produce a prioritized list of articles with pre-formatted edit suggestions. Start with L1-L3.
+
+**Generalization (Phase 4):** The Contribution Ladder is designed to work with any citable knowledge corpus, not just MIT OCW. `docs/CONTRIBUTION-LADDER.md` defines the three pluggable abstractions: `CorpusConnector` (ingest), `MatchProvider` (already pluggable), and `ActionFormatter` (wikitext rendering). Adding arXiv, JSTOR, or government data as a second corpus requires ~70 lines of corpus-specific code.
 
 ---
 
@@ -405,7 +416,7 @@ python3 scripts/review-collaborator-matches.py
 # L2 external links mode, top tier only
 python3 scripts/review-collaborator-matches.py --mode L2 --min-score 0.90
 
-# Verbose mode: include lecture-level detail in external links (default: minimal)
+# Verbose mode: include lecture-level detail (cross-encoder score hidden in HTML comment)
 python3 scripts/review-collaborator-matches.py --mode L2 --verbose-descriptions
 
 # Export as JSON for prioritize-matches.py --data
@@ -415,6 +426,13 @@ python3 scripts/review-collaborator-matches.py --export matches-collab.json
 
 # Analyze (read-only)
 python3 scripts/lint-article-footer.py "Climate change"
+
+# Detailed checklist (all 8 detectors, pass/fail per check)
+python3 scripts/lint-article-footer.py --verbose "Climate change"
+python3 scripts/lint-article-footer.py -v "Climate change"
+
+# Footer structure summary (sections, categories, navboxes, sister projects)
+python3 scripts/lint-article-footer.py --summary "Climate change"
 
 # Analyze + fix
 python3 scripts/lint-article-footer.py "Nitrogen cycle" --fix
@@ -427,13 +445,18 @@ python3 scripts/lint-article-footer.py --survey 50
 
 # Standalone mode (if pip-installed)
 article-footer-lint "Climate change" --fix
+article-footer-lint "Climate change" --verbose
+article-footer-lint "Climate change" --summary
 
 # ── Tests ──
 
-# All tests (75 total: 28 linter + 22 L1 insert + 25 L2 external links)
+# All tests (66 package + 28 linter/fixer + 22 L1 insert + 25 L2 external links)
 python3 scripts/test-refideas.py -v
 python3 scripts/test-l1-refideas-insert.py -v
 python3 scripts/test-l2-external-links.py -v
+
+# Article footer linter tests (66)
+cd tools/article-footer-linter && python3 -m pytest tests/ -v && cd -
 
 # Validate all contribution level examples
 python3 scripts/contribution-protocol.py --validate
@@ -448,7 +471,9 @@ python3 scripts/contribution-protocol.py --validate
 | `docs/L1-REFIDEAS.md` | Complete L1 reference: algorithm, flow chart, linter, insert editor, live editing, pure function pattern |
 | `docs/CONTRIBUTION-LEVELS.md` | All five L1-L5 levels with processing specs |
 | `docs/CONTRIBUTION-PROTOCOL.md` | ContributionRecord data schema |
-| `docs/ROADMAP.md` | Project roadmap: Phase 2 (integration) + Phase 3 (contribution interface) |
+| `docs/CONTRIBUTION-LADDER.md` | **Generalized framework** — corpus-agnostic design, pluggable abstractions (Connector/Provider/Formatter), arXiv walkthrough, corpus candidates |
+| `docs/CONTRIBUTION-UI.md` | **Interface design** — five deployment approaches, composite strategy, architecture decisions, static UI layout sketch, OAuth upgrade path |
+| `docs/ROADMAP.md` | Project roadmap: Phase 2 (integration), Phase 3 (contribution interface), Phase 4 (generalization) |
 | `.claude/skills/wikipedia-editing/SKILL.md` | Reusable skill: talk page insertion, mwparserfromhell gotchas, API auth, encoding |
 | `HANDOFF.md` | This file |
 
@@ -460,4 +485,7 @@ python3 scripts/contribution-protocol.py --validate
 - **Bare URLs** are the most common issue (52% of refs) but not auto-fixed — need page title scraping for meaningful labels
 - **`--yes` flag** applies edits without confirmation — use after reviewing diffs
 - **Encoding**: always `unquote()` titles from cache before re-encoding or passing to `urlencode`
+- **Collborator match metadata** (cross-encoder scores, zerank-2 scores, direct PDF links) is wrapped
+  in `<!-- HTML comments -->` in the posted wikitext. Visible in source, invisible on the rendered page.
+  See `docs/L1-REFIDEAS.md` → Collaborator cross-encoder pipeline for the full convention.
 - **Skills**: `.claude/skills/wikimedia-*` are restored from the Wikipedia-AI-Skills external repo
