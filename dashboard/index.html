@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MIT on Wikipedia — Dashboard</title>
+<style>
+:root {
+  --bg: #f8f9fa;
+  --surface: #ffffff;
+  --border: #dee2e6;
+  --text: #212529;
+  --text-muted: #6c757d;
+  --primary: #a31f34;
+  --primary-light: #fef0f2;
+  --green: #28a745;
+  --teal: #17a2b8;
+  --orange: #fd7e14;
+  --radius: 10px;
+  --shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+  min-height: 100vh;
+}
+
+/* ─── Header ──────────────────────────────────────────── */
+header {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.header-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 16px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header h1 {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--primary);
+}
+.header-meta {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+/* ─── Main ───────────────────────────────────────────── */
+main {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 24px 24px 60px;
+}
+
+/* ─── KPI Cards ──────────────────────────────────────── */
+.kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+.kpi-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  box-shadow: var(--shadow);
+}
+.kpi-label {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--text-muted);
+  margin-bottom: 4px;
+}
+.kpi-value {
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--primary);
+}
+.kpi-context {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 4px;
+}
+
+/* ─── Panels ─────────────────────────────────────────── */
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 24px;
+  margin-bottom: 20px;
+  box-shadow: var(--shadow);
+}
+.panel-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+.panel-header h2 {
+  font-size: 18px;
+  font-weight: 600;
+}
+.panel-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+/* ─── Bar Chart ──────────────────────────────────────── */
+.bar-chart { display: flex; flex-direction: column; gap: 6px; }
+.bar-row { display: flex; align-items: center; gap: 10px; }
+.bar-label { width: 150px; font-size: 13px; text-align: right; flex-shrink: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.bar-track { flex: 1; height: 22px; background: #f0f0f0; border-radius: 4px; overflow: hidden; position: relative; }
+.bar-fill { height: 100%; background: var(--primary); border-radius: 4px; transition: width 600ms ease; display: flex; align-items: center; padding-left: 8px; }
+.bar-value { font-size: 12px; color: white; font-weight: 600; }
+
+/* ─── Quality Distribution ───────────────────────────── */
+.quality-bars { display: flex; gap: 8px; flex-wrap: wrap; }
+.quality-chip {
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 600;
+  text-align: center;
+}
+.quality-chip.FA { background: #e6f4ea; color: #155724; }
+.quality-chip.GA { background: #d4edda; color: #155724; }
+.quality-chip.B  { background: #cce5ff; color: #004085; }
+.quality-chip.C  { background: #fff3cd; color: #856404; }
+.quality-chip.Start { background: #ffeeba; color: #856404; }
+.quality-chip.Stub { background: #f8d7da; color: #721c24; }
+.quality-chip.List { background: #e2e3e5; color: #383d41; }
+.quality-chip.\?  { background: #f8f9fa; color: #6c757d; }
+
+/* ─── Table ──────────────────────────────────────────── */
+.data-table { width: 100%; border-collapse: collapse; font-size: 14px; }
+.data-table th {
+  text-align: left;
+  padding: 8px 12px;
+  border-bottom: 2px solid var(--border);
+  font-weight: 600;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--text-muted);
+  cursor: pointer;
+}
+.data-table th:hover { color: var(--primary); }
+.data-table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid #f0f0f0;
+}
+.data-table tr:hover td { background: var(--primary-light); }
+.data-table .title-link { color: var(--text); text-decoration: none; font-weight: 500; }
+.data-table .title-link:hover { color: var(--primary); text-decoration: underline; }
+.views-num { font-variant-numeric: tabular-nums; color: var(--text-muted); }
+
+/* ─── Search ─────────────────────────────────────────── */
+.search-row { margin-bottom: 16px; }
+.search-input {
+  width: 100%;
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 14px;
+  outline: none;
+}
+.search-input:focus { border-color: var(--primary); box-shadow: 0 0 0 3px rgba(163,31,52,0.1); }
+
+/* ─── Footer ─────────────────────────────────────────── */
+footer {
+  text-align: center;
+  padding: 16px;
+  font-size: 12px;
+  color: var(--text-muted);
+  border-top: 1px solid var(--border);
+}
+footer a { color: var(--primary); }
+
+.hidden { display: none; }
+
+@media (max-width: 700px) {
+  .panel-grid { grid-template-columns: 1fr; }
+  .bar-label { width: 100px; }
+  .kpi-grid { grid-template-columns: repeat(2, 1fr); }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <h1>
+      <span style="background:var(--primary);color:white;padding:2px 8px;border-radius:4px;margin-right:8px;font-size:14px;">MIT</span>
+      on Wikipedia — Dashboard
+    </h1>
+    <div class="header-meta" id="header-meta">Loading...</div>
+  </div>
+</header>
+
+<main>
+  <!-- KPI Cards -->
+  <div class="kpi-grid">
+    <div class="kpi-card">
+      <div class="kpi-label">Articles with OCW Links</div>
+      <div class="kpi-value" id="kpi-articles">—</div>
+      <div class="kpi-context">containing ocw.mit.edu in wikitext</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Monthly Pageviews</div>
+      <div class="kpi-value" id="kpi-views">—</div>
+      <div class="kpi-context">across all OCW-linked articles</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">WikiProjects</div>
+      <div class="kpi-value" id="kpi-projects">—</div>
+      <div class="kpi-context">with classified OCW articles</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Unclassified Articles</div>
+      <div class="kpi-value" id="kpi-unclassified">—</div>
+      <div class="kpi-context">outside named WikiProjects</div>
+    </div>
+  </div>
+
+  <!-- Quality Distribution -->
+  <div class="panel">
+    <div class="panel-header"><h2>Quality Distribution</h2></div>
+    <div class="quality-bars" id="quality-dist"></div>
+  </div>
+
+  <!-- Two-column layout -->
+  <div class="panel-grid">
+    <!-- WikiProject bar chart -->
+    <div class="panel">
+      <div class="panel-header"><h2>By WikiProject</h2></div>
+      <div class="bar-chart" id="project-chart"></div>
+    </div>
+    <!-- Top articles -->
+    <div class="panel">
+      <div class="panel-header"><h2>Top by Pageviews</h2></div>
+      <div class="bar-chart" id="top-articles-chart"></div>
+    </div>
+  </div>
+
+  <!-- Full article table -->
+  <div class="panel">
+    <div class="panel-header">
+      <h2>All Articles</h2>
+      <span style="font-size:13px;color:var(--text-muted)" id="table-count"></span>
+    </div>
+    <div class="search-row">
+      <input type="text" class="search-input" id="article-search" placeholder="Filter articles...">
+    </div>
+    <table class="data-table">
+      <thead>
+        <tr>
+          <th data-sort="title">Article</th>
+          <th data-sort="quality">Quality</th>
+          <th data-sort="views">Views</th>
+          <th data-sort="projects">WikiProjects</th>
+        </tr>
+      </thead>
+      <tbody id="article-table"></tbody>
+    </table>
+  </div>
+</main>
+
+<footer>
+  <p>Data from Wikipedia CirrusSearch + PageAssessments + Pageviews API · MIT OCW content CC BY-NC-SA 4.0 · <a href="https://meta.wikimedia.org/wiki/Wiki_MIT" target="_blank">Wiki MIT Project</a></p>
+</footer>
+
+<script src="ocw-census.js"></script>
+<script>
+// ─── Load data ────────────────────────────────────────────────────────────
+
+const data = window.OCW_CENSUS;
+if (!data) {
+  document.body.innerHTML = '<p style="text-align:center;padding:40px">⚠️ Data file (ocw-census.js) not found. Run: <code>python3 dashboard/generate-ocw-census.py</code></p>';
+  throw new Error('No data');
+}
+
+// ─── KPI Cards ────────────────────────────────────────────────────────────
+
+function fmt(n) {
+  if (n >= 1e6) return (n / 1e6).toFixed(1) + 'M';
+  if (n >= 1e3) return (n / 1e3).toFixed(1) + 'K';
+  return String(n);
+}
+
+document.getElementById('header-meta').textContent = `Generated ${data.generated}`;
+document.getElementById('kpi-articles').textContent = data.total_articles;
+document.getElementById('kpi-views').textContent = fmt(data.total_pageviews);
+document.getElementById('kpi-projects').textContent = Object.keys(data.by_project).length;
+document.getElementById('kpi-unclassified').textContent = data.unclassified_count;
+
+// ─── Quality Distribution ──────────────────────────────────────────────────
+
+const qualityOrder = ['FA', 'GA', 'B', 'C', 'Start', 'Stub', 'List', '?'];
+const qd = document.getElementById('quality-dist');
+qd.innerHTML = qualityOrder
+  .filter(q => data.quality_distribution[q])
+  .map(q => `<span class="quality-chip ${q.replace('?','\\?')}">${q}: ${data.quality_distribution[q]}</span>`)
+  .join('');
+
+// ─── WikiProject Bar Chart ─────────────────────────────────────────────────
+
+const projects = Object.entries(data.by_project)
+  .sort((a, b) => b[1].count - a[1].count)
+  .slice(0, 12);
+const maxCount = Math.max(...projects.map(p => p[1].count), 1);
+
+document.getElementById('project-chart').innerHTML = projects.map(([name, d]) => `
+  <div class="bar-row">
+    <div class="bar-label" title="${name}">${name}</div>
+    <div class="bar-track">
+      <div class="bar-fill" style="width:${(d.count / maxCount * 100).toFixed(0)}%">
+        <span class="bar-value">${d.count}</span>
+      </div>
+    </div>
+  </div>
+`).join('');
+
+// ─── Top Articles Bar Chart ────────────────────────────────────────────────
+
+const topArticles = data.articles.slice(0, 10);
+const maxViews = Math.max(...topArticles.map(a => a.views || 0), 1);
+
+document.getElementById('top-articles-chart').innerHTML = topArticles.map(a => `
+  <div class="bar-row">
+    <div class="bar-label" title="${a.title}">${a.title}</div>
+    <div class="bar-track">
+      <div class="bar-fill" style="width:${((a.views || 0) / maxViews * 100).toFixed(0)}%;background:var(--teal)">
+        <span class="bar-value">${fmt(a.views || 0)}</span>
+      </div>
+    </div>
+  </div>
+`).join('');
+
+// ─── Article Table ─────────────────────────────────────────────────────────
+
+const qualitySortOrder = { 'FA': 0, 'GA': 1, 'B': 2, 'C': 3, 'Start': 4, 'Stub': 5, 'List': 6, '?': 7 };
+let sortKey = 'views';
+let sortDir = -1; // descending
+
+function renderTable(filter = '') {
+  const q = filter.toLowerCase();
+  let rows = data.articles.filter(a =>
+    !q || a.title.toLowerCase().includes(q)
+  );
+
+  rows.sort((a, b) => {
+    let va = a[sortKey], vb = b[sortKey];
+    if (sortKey === 'quality') { va = qualitySortOrder[a.quality] ?? 99; vb = qualitySortOrder[b.quality] ?? 99; }
+    if (sortKey === 'views') { va = a.views || 0; vb = b.views || 0; }
+    if (sortKey === 'projects') { va = (a.projects || []).join(','); vb = (b.projects || []).join(','); }
+    if (va < vb) return -1 * sortDir;
+    if (va > vb) return 1 * sortDir;
+    return 0;
+  });
+
+  document.getElementById('table-count').textContent = `${rows.length} articles`;
+  document.getElementById('article-table').innerHTML = rows.map(a => `
+    <tr>
+      <td>
+        <a class="title-link" href="https://en.wikipedia.org/wiki/${encodeURIComponent(a.title.replace(/ /g, '_'))}" target="_blank">
+          ${a.title}
+        </a>
+      </td>
+      <td><span class="quality-chip ${a.quality}">${a.quality}</span></td>
+      <td class="views-num">${(a.views || 0).toLocaleString()}</td>
+      <td style="font-size:12px;color:var(--text-muted)">${(a.projects || []).slice(0,3).join(', ') || '—'}</td>
+    </tr>
+  `).join('');
+}
+
+document.querySelectorAll('.data-table th').forEach(th => {
+  th.addEventListener('click', () => {
+    const key = th.dataset.sort;
+    if (sortKey === key) { sortDir *= -1; }
+    else { sortKey = key; sortDir = -1; }
+    renderTable(document.getElementById('article-search').value);
+  });
+});
+
+document.getElementById('article-search').addEventListener('input', (e) => {
+  renderTable(e.target.value);
+});
+
+// Initial render
+renderTable();
+</script>
+</body>
+</html>
