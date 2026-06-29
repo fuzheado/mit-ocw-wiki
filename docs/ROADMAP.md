@@ -252,4 +252,11 @@ Where to find things in the reorganized project:
 | Contribution Ladder framework | `docs/CONTRIBUTION-LADDER.md` — generalized corpus-agnostic design, pluggable abstractions, arXiv walkthrough, corpus candidates |
 | Contribution UI options | `docs/CONTRIBUTION-UI.md` — five deployment approaches, composite strategy, architecture decisions, static UI layout sketch, OAuth upgrade path |
 | Toolforge Workbench app | `toolforge/` — Node.js web app implementing the Contribution Ladder (search → match → preview → apply). Zero-dependency server, responsive UI, bot password auth. See `toolforge/DESIGN.md` for full design + user manual |
+| OCW Link Census dashboard | `dashboard/` — static HTML dashboard tracking 563 Wikipedia articles with OCW links. See `docs/DASHBOARD-DESIGN.md` |
+| Recommendation Exchange Protocol | `docs/RECOMMENDATION-EXCHANGE-PROTOCOL.md` — standard REST API for sharing Wikipedia improvement recommendations between producers and consumers |
+| Zerank-2 integration | `docs/ZERANK-INTEGRATION.md` — cross-encoder model details, usage, score blending |
+| Zerank-2 pipeline | `docs/ZERANK-PIPELINE.md` — full reimplementation: candidate generation → enrichment → reranking → REP output |
+| Deep asset inspection | `docs/ZERANK-DEEP-INSPECTION.md` — lecture PDF text extraction, chunking, triage for zerank-2 |
+| Colab zerank-2 | `docs/COLAB-ZERANK.md` — running zerank-2 on Google Colab free T4 GPU, notebook + performance |
+| Wikidata vectors | `docs/WIKIDATA-VECTORS.md` — evaluation for OCW→Wikipedia concept matching |
 | This roadmap | `docs/ROADMAP.md` |

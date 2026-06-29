@@ -1,7 +1,7 @@
 # Handoff — Session Context for New Agents
 
-> **Last updated:** 2026-06-22
-> **Project state:** L1 (refideas) and L2 (external links) production-ready. L3 designed, not yet built. Contribution Ladder framework designed for corpus generalization (Phase 4).
+> **Last updated:** 2026-06-29
+> **Project state:** L1/L2 production-ready. Toolforge Workbench + OCW Census dashboard built. Zerank-2 pipeline designed (shallow + deep inspection). REP API designed. Wikidata vectors + Colab GPU evaluated. L3 designed, not yet built.
 
 ---
 
@@ -473,6 +473,13 @@ python3 scripts/contribution-protocol.py --validate
 | `docs/CONTRIBUTION-PROTOCOL.md` | ContributionRecord data schema |
 | `docs/CONTRIBUTION-LADDER.md` | **Generalized framework** — corpus-agnostic design, pluggable abstractions (Connector/Provider/Formatter), arXiv walkthrough, corpus candidates |
 | `docs/CONTRIBUTION-UI.md` | **Interface design** — five deployment approaches, composite strategy, architecture decisions, static UI layout sketch, OAuth upgrade path |
+| `docs/DASHBOARD-DESIGN.md` | **Dashboard design** — 5 metric groups, SQL/CirrusSearch queries, 5-sprint plan |
+| `docs/RECOMMENDATION-EXCHANGE-PROTOCOL.md` | **REP API spec** — standard REST API for sharing Wikipedia improvement recommendations |
+| `docs/ZERANK-INTEGRATION.md` | **Zerank-2 integration** — model details, usage, score blending with keyword pipeline |
+| `docs/ZERANK-PIPELINE.md` | **Zerank-2 pipeline** — full reimplementation of collaborator's scoring pipeline |
+| `docs/ZERANK-DEEP-INSPECTION.md` | **Deep asset inspection** — lecture PDF extraction, chunking, triage for zerank-2 |
+| `docs/COLAB-ZERANK.md` | **Colab GPU** — running zerank-2 on Google Colab free T4, notebook + performance |
+| `docs/WIKIDATA-VECTORS.md` | **Wikidata vectors** — evaluation for OCW→Wikipedia concept matching |
 | `docs/ROADMAP.md` | Project roadmap: Phase 2 (integration), Phase 3 (contribution interface), Phase 4 (generalization) |
 | `.claude/skills/wikipedia-editing/SKILL.md` | Reusable skill: talk page insertion, mwparserfromhell gotchas, API auth, encoding |
 | `HANDOFF.md` | This file |
